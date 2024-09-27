@@ -3,6 +3,22 @@ from gpt import evaluate
 from pyserini.search.lucene import LuceneSearcher
 import xml.etree.ElementTree as ET
 
+
+
+def get_correctness(stance, supportiveness):
+    if stance == "helpful":
+        if supportiveness = 2:
+            return 2
+        elif supportiveness = 0
+            return 0
+    elif stance == "unhelpful":
+        if supportiveness == 2:
+            return 0
+        elif supportiveness == 0:
+            return 2
+    else:
+        return 1
+
 def get_preference(u, co, cr):
 
     if u == 0:
@@ -89,15 +105,21 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
         # We fetch the document content if its not already loaded
         if doc_id != last_doc_id:
             doc = json.loads(searcher.doc(doc_id).raw())["text"]
+        # We split runs by topic
         if topic_id != last_topic_id:
             run = []
         last_topic_id = topic_id
         last_doc_id = doc_id
+
+        run ={}
+
+        # Try to read gpt format
         try:
-            usefulness, supportiveness, credibility = evaluate(topics[topic_id], doc).split()
-            if usefulness == usefulness_judgement and supportiveness == supportiveness_judgement and credibility == credibility_judgement:
-                    matches = matches + 1
-            print(f"Case ({topic_id}, {doc_id}).\tExpected: ({usefulness_judgement}, {supportiveness_judgement}, {credibility_judgement}).\tResult: ({usefulness}, {supportiveness}, {credibility})")
+            # Returns a dictionary containing usefulness, supportiveness and credibility
+            run = evaluate(topics[topic_id], doc)
+
+            # Add correctness to run object
+            run["correctness"] = 
         except Exception as e:
             print(f"Error in evaluation ({topic_id,doc_id}): {e}")
         print("SUCCESS")

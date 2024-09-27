@@ -49,7 +49,9 @@ def evaluate(question, document):
         output_format = r'^(0|1|2) (0|1|2) (0|1|2)$'
         if not bool(re.match(output_format,response_content)):
             raise Exception(f"Error: Format of response invalid: {response_content}")
-        return response_content
+        out = {}
+        out["usefulness"], out["supportiveness"], out["credibility"] = response_content.split()
+        return out`
     else:
         # Handle error responses
         raise Exception(f"Error: {response.status_code} - {response.text}")
