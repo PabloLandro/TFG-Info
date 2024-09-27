@@ -7,9 +7,9 @@ import xml.etree.ElementTree as ET
 
 def get_correctness(stance, supportiveness):
     if stance == "helpful":
-        if supportiveness = 2:
+        if supportiveness == 2:
             return 2
-        elif supportiveness = 0
+        elif supportiveness == 0:
             return 0
     elif stance == "unhelpful":
         if supportiveness == 2:
@@ -111,6 +111,7 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
         topic_id, _, doc_id, ideal_case["usefulness"], ideal_case["supportiveness"], ideal_case["credibility"] = line.split()
         ideal_case["correctness"] = get_correctness(topics[topic_id]["stance"], ideal_case["supportiveness"])
         ideal_case["preference"] = get_preference(ideal_case["usefulness"], ideal_case["correctness"], ideal_case["credibility"])
+        ideal_case["doc_id"] = doc_id
 
         ideal_run.append(ideal_case)
         # We fetch the document content if its not already loaded
@@ -121,7 +122,7 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
             # Order the runs according to their preference
             run = sorted(run, key = lambda x: x["preference"])
             ideal_run = sorted(ideal_run, key = lambda x: x["preference"])
-            rbo_scores.append(rbo.RankingSimilarity(run, ideal_run).rbo())
+            rbo_scores.append(rbo.RankingSimilarity([case["doc_id"] for case in run], [case["doc_id"] for case in ideal_run]).rbo())
             run = []
             ideal_run = []
         last_topic_id = topic_id
@@ -137,6 +138,7 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
             # Add correctness and preference to the run
             case["correctness"] = get_correctness(topics[topic_id]["stance"], case["supportiveness"])
             case["preference"] = get_preference(case["usefulness"], case["correctness"], case["credibility"])
+            case["doc_id"] = doc_id
 
             # Add to the list of runs
             run.append(case)

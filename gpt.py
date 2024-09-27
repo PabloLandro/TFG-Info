@@ -51,7 +51,7 @@ def evaluate(question, document):
             raise Exception(f"Error: Format of response invalid: {response_content}")
         out = {}
         out["usefulness"], out["supportiveness"], out["credibility"] = response_content.split()
-        return out`
+        return out
     else:
         # Handle error responses
         raise Exception(f"Error: {response.status_code} - {response.text}")
