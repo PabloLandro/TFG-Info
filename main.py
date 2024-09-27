@@ -68,6 +68,7 @@ def get_preference(u, co, cr):
         elif cr == 2:
             return -3
 
+
 root = ET.parse('resources/misinfo-2021-topics.xml').getroot()
 
 # Load the topic into a dictionary
@@ -75,7 +76,10 @@ topics = {}
 for topic in root.findall("topic"):
     topic_id = topic.find("number").text
     topic_description = topic.find("description").text
-    topics[topic_id] = topic_description
+    topic_stance = topic.find("stance").text
+    topics[topic_id] = {}
+    topics[topic_id]["description"] = topic_description
+    topics[topic_id]["stance"] = topic_stance
 
 
 # Initialize searcher
@@ -88,8 +92,12 @@ lines = 0
 with open("resources/misinfo-qrels.3aspects", "r") as file:
 
     doc = None
-    # GPT Preferences
+
+    # Lists with GPT and ideal values
     run = []
+    ideal_run = []
+
+    rbo_scores = []
 
     ideal_run = []
     last_doc_id = None
@@ -98,29 +106,43 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
     # Iterate over every evalutaion
     for line in file:
         lines = lines + 1
-        if lines > 5:
-            exit()
         # Read every parameter from the line
-        topic_id, _, doc_id, usefulness_judgement, supportiveness_judgement, credibility_judgement = line.split()
+        ideal_case = {}
+        topic_id, _, doc_id, ideal_case["usefulness"], ideal_case["supportiveness"], ideal_case["credibility"] = line.split()
+        ideal_case["correctness"] = get_correctness(topics[topic_id]["stance"], ideal_case["supportiveness"])
+        ideal_case["preference"] = get_preference(ideal_case["usefulness"], ideal_case["correctness"], ideal_case["credibility"])
+
+        ideal_run.append(ideal_case)
         # We fetch the document content if its not already loaded
         if doc_id != last_doc_id:
             doc = json.loads(searcher.doc(doc_id).raw())["text"]
         # We split runs by topic
         if topic_id != last_topic_id:
+            # Order the runs according to their preference
+            run = sorted(run, key = lambda x: x["preference"])
+            ideal_run = sorted(ideal_run, key = lambda x: x["preference"])
+            rbo_scores.append(rbo.RankingSimilarity(run, ideal_run).rbo())
             run = []
+            ideal_run = []
         last_topic_id = topic_id
         last_doc_id = doc_id
 
-        run ={}
+        case = {}
 
         # Try to read gpt format
         try:
             # Returns a dictionary containing usefulness, supportiveness and credibility
-            run = evaluate(topics[topic_id], doc)
+            case = evaluate(topics[topic_id]["description"], doc)
 
-            # Add correctness to run object
-            run["correctness"] = 
+            # Add correctness and preference to the run
+            case["correctness"] = get_correctness(topics[topic_id]["stance"], case["supportiveness"])
+            case["preference"] = get_preference(case["usefulness"], case["correctness"], case["credibility"])
+
+            # Add to the list of runs
+            run.append(case)
+
         except Exception as e:
             print(f"Error in evaluation ({topic_id,doc_id}): {e}")
         print("SUCCESS")
-print(f"Matches: {matches} out of {lines}")
+avg = sum(rbo_scores) / len(rbo_scores)
+print(f"Average RBO: {avg}")
