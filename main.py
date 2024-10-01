@@ -67,6 +67,7 @@ def get_preference(u, co, cr):
             return -2
         elif cr == 2:
             return -3
+    return -4
 
 
 root = ET.parse('resources/misinfo-2021-topics.xml').getroot()
@@ -102,9 +103,11 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
     ideal_run = []
     last_doc_id = None
     last_topic_id = None
-
+    num_topics = 0
     # Iterate over every evalutaion
     for line in file:
+        if num_topics == 2:
+            break
         lines = lines + 1
         # Read every parameter from the line
         ideal_case = {}
@@ -119,6 +122,7 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
             doc = json.loads(searcher.doc(doc_id).raw())["text"]
         # We split runs by topic
         if topic_id != last_topic_id:
+            num_topics = num_topics + 1
             # Order the runs according to their preference
             run = sorted(run, key = lambda x: x["preference"])
             ideal_run = sorted(ideal_run, key = lambda x: x["preference"])
@@ -144,7 +148,12 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
             run.append(case)
 
         except Exception as e:
-            print(f"Error in evaluation ({topic_id,doc_id}): {e}")
-        print("SUCCESS")
+            # Add case with -4 preference to avoid issues
+            aux = {}
+            aux["preference"] = -4
+            aux["doc_id"] = doc_id
+            run.append(aux)
+            print(f"Error in evaluation ({topic_id},{doc_id}): {e}")
+        print(f"SUCCESS on case ({topic_id},{doc_id})")
 avg = sum(rbo_scores) / len(rbo_scores)
 print(f"Average RBO: {avg}")
