@@ -69,91 +69,56 @@ def get_preference(u, co, cr):
             return -3
     return -4
 
+# Computes the correctness and preference metrics then orders the run by preference
+def order_run(topic, run):
+    for doc_run in run:
+        doc_run["co"] = get_correctness(topic["stance"], doc_run["s"])
+        doc_run["p"] = get_preference(topic["u"], topic["co"], topic["cr"])
+    run = sorted(run, key = lambda x: x["p"])
 
+# Compute the Rank Biased Overlap score
+def compute_rbo(topic, run, ideal_run):
+    order_run(topic, run)
+    order_run(topic, ideal_run)
+    return rbo.RankingSimilarity([case["doc_id"] for case in run], [case["doc_id"] for case in ideal_run]).rbo()
+
+# Open the topics file as an xml tree
 root = ET.parse('resources/misinfo-2021-topics.xml').getroot()
 
 # Load the topic into a dictionary
 topics = {}
 for topic in root.findall("topic"):
     topic_id = topic.find("number").text
-    topic_description = topic.find("description").text
-    topic_stance = topic.find("stance").text
     topics[topic_id] = {}
-    topics[topic_id]["description"] = topic_description
-    topics[topic_id]["stance"] = topic_stance
+    topics[topic_id]["description"] = topic.find("description").text
+    topics[topic_id]["stance"] = topic.find("stance").text
 
+# Load the qrel runs into a dictionary indexed by topic_id
+qrels = {}
+with open(os.path.join("resources", "misinfo-qrels.3aspects") as file:
+    last_topic_id = ""
+    run = []
+    for line in file:
+        doc_run = {}
+        topic_id, _, doc_id, doc_run["u"], doc_run["s"], doc_run["cr"] = line.split()
+        if last_topic_id != topic_id:
+            qrels[last_topic_id] = run
+            run = [doc_run]
+        else:
+            run.append(doc_run)
 
 # Initialize searcher
 searcher = LuceneSearcher("/mnt/beegfs/groups/irgroup/indexes/C4/")
 
-matches = 0
-lines = 0
+# We iterate over the run files (named with their topic_id)
+for topic_id in os.listdir("runs"):
 
-# Open the evaluations file
-with open("resources/misinfo-qrels.3aspects", "r") as file:
-
-    doc = None
-
-    # Lists with GPT and ideal values
     run = []
-    ideal_run = []
 
-    rbo_scores = []
+    with open(os.path.join("runs", topic_id) as file:
+        for line in file:
+            doc_run = {}
+            doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] =  line.split(" ")
+            run.append(doc_run)
 
-    ideal_run = []
-    last_doc_id = None
-    last_topic_id = None
-    num_topics = 0
-    # Iterate over every evalutaion
-    for line in file:
-        if num_topics == 2:
-            break
-        lines = lines + 1
-        # Read every parameter from the line
-        ideal_case = {}
-        topic_id, _, doc_id, ideal_case["usefulness"], ideal_case["supportiveness"], ideal_case["credibility"] = line.split()
-        ideal_case["correctness"] = get_correctness(topics[topic_id]["stance"], ideal_case["supportiveness"])
-        ideal_case["preference"] = get_preference(ideal_case["usefulness"], ideal_case["correctness"], ideal_case["credibility"])
-        ideal_case["doc_id"] = doc_id
 
-        ideal_run.append(ideal_case)
-        # We fetch the document content if its not already loaded
-        if doc_id != last_doc_id:
-            doc = json.loads(searcher.doc(doc_id).raw())["text"]
-        # We split runs by topic
-        if topic_id != last_topic_id:
-            num_topics = num_topics + 1
-            # Order the runs according to their preference
-            run = sorted(run, key = lambda x: x["preference"])
-            ideal_run = sorted(ideal_run, key = lambda x: x["preference"])
-            rbo_scores.append(rbo.RankingSimilarity([case["doc_id"] for case in run], [case["doc_id"] for case in ideal_run]).rbo())
-            run = []
-            ideal_run = []
-        last_topic_id = topic_id
-        last_doc_id = doc_id
-
-        case = {}
-
-        # Try to read gpt format
-        try:
-            # Returns a dictionary containing usefulness, supportiveness and credibility
-            case = evaluate(topics[topic_id]["description"], doc)
-
-            # Add correctness and preference to the run
-            case["correctness"] = get_correctness(topics[topic_id]["stance"], case["supportiveness"])
-            case["preference"] = get_preference(case["usefulness"], case["correctness"], case["credibility"])
-            case["doc_id"] = doc_id
-
-            # Add to the list of runs
-            run.append(case)
-
-        except Exception as e:
-            # Add case with -4 preference to avoid issues
-            aux = {}
-            aux["preference"] = -4
-            aux["doc_id"] = doc_id
-            run.append(aux)
-            print(f"Error in evaluation ({topic_id},{doc_id}): {e}")
-        print(f"SUCCESS on case ({topic_id},{doc_id})")
-avg = sum(rbo_scores) / len(rbo_scores)
-print(f"Average RBO: {avg}")
