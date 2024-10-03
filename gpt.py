@@ -34,25 +34,28 @@ payload = {
 
 def evaluate(question, document):    
 
-    # Replace the fields in the template
-    prompt = template.replace("%QUESTION%", question).replace("%DOCUMENT%", document)
+    try:
 
-    # Add a message to the payload
-    payload["messages"] = [{"role": "user", "content": prompt}]
+        # Replace the fields in the template
+        prompt = template.replace("%QUESTION%", question).replace("%DOCUMENT%", document)
 
-    # Make a POST request to the API endpoint
-    response = requests.post(api_url, headers=headers, json=payload)
+        # Add a message to the payload
+        payload["messages"] = [{"role": "user", "content": prompt}]
 
-    # Check if the request was successful
-    if response.status_code == 200:
-        response_content = response.json()['choices'][0]['message']['content']
-        output_format = r'^(0|1|2) (0|1|2) (0|1|2)$'
-        if not bool(re.match(output_format,response_content)):
-            raise Exception(f"Error: Format of response invalid: {response_content}")
-        out = {}
-        out["usefulness"], out["supportiveness"], out["credibility"] = response_content.split()
-        return out
-    else:
-        # Handle error responses
-        raise Exception(f"Error: {response.status_code} - {response.text}")
+        # Make a POST request to the API endpoint
+        response = requests.post(api_url, headers=headers, json=payload)
 
+        # Check if the request was successful
+     if response.status_code == 200:
+            response_content = response.json()['choices'][0]['message']['content']
+         output_format = r'^(0|1|2) (0|1|2) (0|1|2)$'
+            if not bool(re.match(output_format,response_content)):
+             raise Exception(f"Error: Format of response invalid: {response_content}")
+            out = {}
+            out["u"], out["s"], out["cr"] = response_content.split()
+            return out
+        else:
+            # Handle error responses
+            raise Exception(f"Error: {response.status_code} - {response.text}")
+    except Exception as e:
+        print(f"Error in gpt.py: {e}")
