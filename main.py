@@ -80,7 +80,14 @@ def order_run(topic, run):
 def compute_rbo(topic, run, ideal_run):
     order_run(topic, run)
     order_run(topic, ideal_run)
-    return rbo.RankingSimilarity([case["doc_id"] for case in run], [case["doc_id"] for case in ideal_run]).rbo()
+    helpful_ideal_run = [doc_run for doc_run in ideal_run if doc_run["preference"] > 0]
+    harmful_ideal_run = [doc_run for doc_run in ideal_run if doc_run["preference"] <= 0]
+    # Reverse the order of harmful documents
+    harmful_ideal_run = harmful_ideal_run[::-1]
+    # We return a pair with the compatibility with helpful documents and harmful documents
+    rbo_helpful = rbo.RankingSimilarity([doc_run["doc_id"] for doc_run in run], [doc_run["doc_id"] for doc_run in helpful_ideal_run]).rbo()
+    rbo_harmful = rbo.RankingSimilarity([doc_run["doc_id"] for doc_run in run], [doc_run["doc_id"] for doc_run in harmful_ideal_run]).rbo()
+    return rbo_helpful, rbo_harmful
 
 # Open the topics file as an xml tree
 root = ET.parse('resources/misinfo-2021-topics.xml').getroot()
@@ -110,6 +117,9 @@ with open(os.path.join("resources", "misinfo-qrels.3aspects") as file:
 # Initialize searcher
 searcher = LuceneSearcher("/mnt/beegfs/groups/irgroup/indexes/C4/")
 
+helpful_rbos = []
+
+
 # We iterate over the run files (named with their topic_id)
 for topic_id in os.listdir("runs"):
 
@@ -120,5 +130,9 @@ for topic_id in os.listdir("runs"):
             doc_run = {}
             doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] =  line.split(" ")
             run.append(doc_run)
+    helpful_rbo, harmful_rbo = compute_rbo(topics["top_id"], run, qrels[topic_id])
+    helpful_rbos.append(helpful_rbo)
+    harmful_rbos.append(harmful_rbo)
 
-
+print(f"Compatibility with helpful documents: {helpful_rbos}")
+print(f"Compatibility with harmful documents: {harmful_rbos}")
