@@ -46,11 +46,11 @@ def evaluate(question, document):
         response = requests.post(api_url, headers=headers, json=payload)
 
         # Check if the request was successful
-     if response.status_code == 200:
+        if response.status_code == 200:
             response_content = response.json()['choices'][0]['message']['content']
-         output_format = r'^(0|1|2) (0|1|2) (0|1|2)$'
+            output_format = r'^(0|1|2) (0|1|2) (0|1|2)$'
             if not bool(re.match(output_format,response_content)):
-             raise Exception(f"Error: Format of response invalid: {response_content}")
+                raise Exception(f"Error: Format of response invalid: {response_content}")
             out = {}
             out["u"], out["s"], out["cr"] = response_content.split()
             return out
