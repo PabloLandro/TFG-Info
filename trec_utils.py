@@ -10,7 +10,7 @@ def get_qrels_dict(name):
     qrels = {}
     with open(os.path.join("resources", name), "r") as file:
         last_topic_id = ""
-        run = []
+        run = {}
         for line in file:
             doc_run = {}
             doc_run["topic_id"], _, doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = line.split()
@@ -18,14 +18,13 @@ def get_qrels_dict(name):
             if last_topic_id != doc_run["topic_id"]:
                 qrels[last_topic_id] = run
                 last_topic_id = doc_run["topic_id"]
-                run = [doc_run]
-            else:
-                run.append(doc_run)
+                run = {}
+            run[doc_run["doc_id"]] = doc_run
     return qrels
 
 def get_topics_dict(name):
     # Open the topics file as an xml tree
-    root = ET.parse(os.path.join('resources', name).getroot()
+    root = ET.parse(os.path.join('resources', name).getroot())
 
     # Load the topic into a dictionary
     topics = {}
@@ -54,6 +53,19 @@ def get_correctness(stance, supportiveness):
     else:
         return 1
 
+
+def get_preference(u, co, cr):
+    
+    if u == 0:
+        return 0
+    
+    # Correct
+    if co == 2:
+        if cr == 2:
+            if u == 2:
+                return 12
+            elif u == 1:
+                return 11
         elif cr == 1:
             if u == 2:
                 return 10

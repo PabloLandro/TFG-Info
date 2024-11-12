@@ -7,7 +7,7 @@ import os
 searcher = LuceneSearcher("/mnt/beegfs/groups/irgroup/indexes/C4/")
 root = ET.parse('resources/misinfo-2021-topics.xml').getroot()
 
-# Load the topic into a dictionary
+# Load the topics into a dictionary
 topics = {}
 for topic in root.findall("topic"):
     topic_id = topic.find("number").text

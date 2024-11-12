@@ -2,12 +2,7 @@ import os, json, rbo
 from gpt import evaluate
 from pyserini.search.lucene import LuceneSearcher
 import xml.etree.ElementTree as ET
-
-def preprocess_run(run):
-    run["u"] = int(run["u"])
-    run["s"] = int(run["s"])
-    run["cr"] = int(run["cr"])from trec_utils import get_correctness, get_preference, get_topics_dict, get_qrels_dict
-
+from trec_utils import preprocess_run, get_topics_dict, get_qrels_dict, get_correctness, get_preference
 
 # Computes the correctness and preference metrics then orders the run by preference
 def order_run(topic, run):

@@ -17,5 +17,5 @@ conda init bash
 conda activate myTrecEnv
 export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
-python main.py
+python confussion.py
 
