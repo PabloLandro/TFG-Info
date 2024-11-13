@@ -103,8 +103,8 @@ with open(os.path.join("resources", "misinfo-qrels-graded.usefulness"), "r") as 
 
 for topic_id, doc_id in run_list.items():
     with open(os.path.join("runs", topic_id), "a") as file:
-    doc = json.loads(searcher.doc(doc_id).raw())["text"]
-    run = evaluate(topics[topic_id]["description"], doc)
-    if run is not None:
-        file.write(f'{doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
+        doc = json.loads(searcher.doc(doc_id).raw())["text"]
+        run = evaluate(topics[topic_id]["description"], doc)
+        if run is not None:
+            file.write(f'{doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
 
