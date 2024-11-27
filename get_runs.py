@@ -88,23 +88,30 @@ def run_topic(topic_id, num_runs=1000):
 run_list = {}
 # count of doc_ids for a topic_id
 count = {}
-topic_list = [101,102,103,104,105,106,107,108,109,110,111,112,114,140]
+topic_list = ["101","102","103","104","105","106","107","108","109","110","111","112","114","140"]
 with open(os.path.join("resources", "misinfo-qrels-graded.usefulness"), "r") as file:
     for line in file:
         topic_id,_,doc_id,u = line.split()
+        if topic_id not in topic_list:
+            continue
         if topic_id not in count:
             count[topic_id] = 0
-        if u != 0 or count[topic_id] >= 300 or is_visited(topic_id,doc_id) or topic_id not in topic_list:
+        if u != "0" or count[topic_id] >= 300 or is_visited(topic_id,doc_id) or topic_id not in topic_list:
             continue
         count[topic_id] += 1
         if topic_id not in run_list:
             run_list[topic_id] = []
         run_list[topic_id].append(doc_id)
 
-for topic_id, doc_id in run_list.items():
+#print(run_list)
+
+for topic_id, doc_ids in run_list.items():
     with open(os.path.join("runs", topic_id), "a") as file:
-        doc = json.loads(searcher.doc(doc_id).raw())["text"]
-        run = evaluate(topics[topic_id]["description"], doc)
-        if run is not None:
-            file.write(f'{doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
+        for doc_id in doc_ids:
+            doc = json.loads(searcher.doc(doc_id).raw())["text"]
+            print("Evaluating", topic_id)
+            run = evaluate(topics[topic_id]["description"], doc)
+            if run is not None:
+                print(f"Writing to {os.path.join('runs', topic_id)}")
+                file.write(f'{doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
 
