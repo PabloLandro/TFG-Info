@@ -11,6 +11,5 @@ for topic_id in os.listdir("runs"):
             if doc_id in qrels[topic_id]:
                 count += 1
                 outfile.write(line)
-    print(count)
-    break
+    os.replace("aux", os.path.join("runs", topic_id))
 
