@@ -4,6 +4,8 @@ import xml.etree.ElementTree as ET
 import json
 import os
 
+print("Starting work")
+
 searcher = LuceneSearcher("/mnt/beegfs/groups/irgroup/indexes/C4/")
 root = ET.parse('resources/misinfo-2021-topics.xml').getroot()
 
@@ -16,13 +18,15 @@ for topic in root.findall("topic"):
     topics[topic_id]["description"] = topic.find("description").text
     topics[topic_id]["stance"] = topic.find("stance").text
 
+print("Loaded the topics")
+
 def get_topic(topic_id):
     return topics[topic_id]
 
 # We are going to save every qrel on a dictionary using the topic id
 qrels = {}
 
-with open("resources/misinfo-qrels.3aspects", "r") as file:
+with open("resources/qrels/misinfo-qrels.3aspects", "r") as file:
 
     for line in file:
         topic_id, _, doc_id, u, s, cr = line.split()
@@ -36,6 +40,8 @@ with open("resources/misinfo-qrels.3aspects", "r") as file:
         else:
             qrels[topic_id].append(aux)
 
+print("QRELS loaded")
+
 # For every topic_id we want to know what doc_ids we have already evaluated
 exclude = {}
 for topic_id in os.listdir("runs"):
@@ -44,6 +50,8 @@ for topic_id in os.listdir("runs"):
         for line in file:
             doc_id,_,_,_ = line.split()
             exclude[topic_id][doc_id] = True
+
+print("Exclude list created")
 
 # Have this function for checking if a topic_id, doc_id pair was already evaluated
 def is_visited(topic_id, doc_id):
@@ -89,7 +97,7 @@ run_list = {}
 # count of doc_ids for a topic_id
 count = {}
 topic_list = ["101","102","103","104","105","106","107","108","109","110","111","112","114","140"]
-with open(os.path.join("resources", "misinfo-qrels-graded.usefulness"), "r") as file:
+with open(os.path.join("resources", "qrels", "misinfo-qrels-graded.usefulness"), "r") as file:
     for line in file:
         topic_id,_,doc_id,u = line.split()
         if topic_id not in topic_list:
@@ -101,8 +109,10 @@ with open(os.path.join("resources", "misinfo-qrels-graded.usefulness"), "r") as 
         count[topic_id] += 1
         if topic_id not in run_list:
             run_list[topic_id] = []
+        print(f"{topic_id} {count[topic_id]}/300")
         run_list[topic_id].append(doc_id)
 
+print("RUN LIST OBTAINED")
 #print(run_list)
 
 for topic_id, doc_ids in run_list.items():
