@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 api_key = os.getenv("API_KEY")
 
-model="gpt-3.5-turbo"
+model="gpt-4o-mini"
 max_tokens=150
 api_url = "https://api.openai.com/v1/chat/completions"
 

@@ -1,5 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
+from pyserini.search.lucene import LuceneSearcher
 
 def preprocess_run(run):
     run["u"] = int(run["u"]) if run["u"] is not None else None
@@ -65,7 +66,7 @@ def get_qrels_dict_all():
 
 def get_topics_dict(name):
     # Open the topics file as an xml tree
-    root = ET.parse(os.path.join('resources', name).getroot())
+    root = ET.parse(os.path.join('resources', name)).getroot()
 
     # Load the topic into a dictionary
     topics = {}
