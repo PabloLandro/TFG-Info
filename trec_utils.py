@@ -1,5 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
+import tqdm
 from pyserini.search.lucene import LuceneSearcher
 
 def preprocess_run(run):
@@ -30,15 +31,17 @@ def unpack_split(parts):
     return (parts + [None] * 6)[:6]
 
 
-def get_qrels_dict(name):
+def get_qrels_dict(name, verbose=True):
     qrels = {}
-    with open(os.path.join("resources", "qrels", name), "r") as file:
+    path = os.path.join("resources", "qrels", name) 
+    total_lines = sum(1 for _ in open(path, "r"))
+    with open(path, "r") as file:
+        file_iterator = tqdm(file, total=total_lines, desc=f"Loading from {name}", unit=" qrels") if verbose else file
         last_topic_id = ""
         run = {}
-        for line in file:
+        for line in file_iterator:
             doc_run = {}
             doc_run["topic_id"], _, doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = unpack_split(line.split())
-            #print(doc_run)
             preprocess_run(doc_run)
             if last_topic_id != doc_run["topic_id"]:
                 qrels[last_topic_id] = run
@@ -47,11 +50,11 @@ def get_qrels_dict(name):
             run[doc_run["doc_id"]] = doc_run
     return qrels
 
-def get_qrels_dict_all():
+def get_qrels_dict_all(verbose=True):
     qrels = {}
 
     for qrel_file_name in os.listdir(os.path.join("resources", "qrels")):
-        aux = get_qrels_dict(qrel_file_name)
+        aux = get_qrels_dict(qrel_file_name, verbose=verbose)
         for topic_id, topic_run in aux.items():
             # If that topic id isnt on our dict, we add it
             if topic_id not in qrels:
@@ -64,13 +67,17 @@ def get_qrels_dict_all():
                         print(f"ERROR: pair ({topic_id},{doc_id}) is in more than one qrel file")
     return qrels
 
-def get_topics_dict(name):
+def get_topics_dict(name, verbose=True):
     # Open the topics file as an xml tree
     root = ET.parse(os.path.join('resources', name)).getroot()
-
+    n_topics = sum(1 for _ in root.findall("topics")
+    t = root.findall("topic")
+    iterator = tqdm(t, total=n_topics, desc="Loading topics", unit=" topics") if verbose else t
+    
     # Load the topic into a dictionary
     topics = {}
-    for topic in root.findall("topic"):
+
+    for topic in iterator:
         topic_id = topic.find("number").text
         topics[topic_id] = {}
         topics[topic_id]["description"] = topic.find("description").text
