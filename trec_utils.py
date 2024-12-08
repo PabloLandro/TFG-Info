@@ -1,6 +1,6 @@
 import os
 import xml.etree.ElementTree as ET
-import tqdm
+from tqdm import tqdm
 from pyserini.search.lucene import LuceneSearcher
 
 def preprocess_run(run):
@@ -70,7 +70,7 @@ def get_qrels_dict_all(verbose=True):
 def get_topics_dict(name, verbose=True):
     # Open the topics file as an xml tree
     root = ET.parse(os.path.join('resources', name)).getroot()
-    n_topics = sum(1 for _ in root.findall("topics")
+    n_topics = sum(1 for _ in root.findall("topics"))
     t = root.findall("topic")
     iterator = tqdm(t, total=n_topics, desc="Loading topics", unit=" topics") if verbose else t
     

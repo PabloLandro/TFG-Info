@@ -24,7 +24,7 @@ for topic_id in os.listdir("runs"):
             # Add correctiveness and preference
             preprocess_run(doc_run)
             run[doc_run["doc_id"]] = doc_run
-        print(f"{topic_id} valid: {count}")
+        #print(f"{topic_id} valid: {count}")
     runs[topic_id] = run
     # Check if there is any document missing
     missing_docs = 0
@@ -43,14 +43,14 @@ for topic_id in runs:
             pos += 1
         else:
             neg += 1
-    print(f"For topic_id {topic_id} there are {pos} useful qrels and {neg} unuseful")
+    #print(f"For topic_id {topic_id} there are {pos} useful qrels and {neg} unuseful")
 
 for topic_id in qrels:
     if not topic_id in runs:
         #print(f"WARN: Missing topic {topic_id} run")
         pass
 
-def print_confussion(stat, pos_vals):
+def print_confussion(stat, pos_vals, name):
     TP = 0
     FP = 0
     FN = 0
@@ -62,18 +62,34 @@ def print_confussion(stat, pos_vals):
             if doc_id not in qrels[topic_id]:
                 continue
 
-            if qrels[topic_id][doc_id][stat] in pos_vals:
-                if runs[topic_id][doc_id][stat] in pos_vals:
+            real = qrels[topic_id][doc_id][stat]
+            pred = runs[topic_id][doc_id][stat]
+
+            if real is None or pred is None:
+                continue
+
+            if real in pos_vals:
+                if pred in pos_vals:
                     TP += 1
                 else:
                     FN += 1
             else:
-                if runs[topic_id][doc_id]["u"] in pos_vals:
+                if pred in pos_vals:
                     FP += 1
                 else:
                     TN += 1
-
+    
+    print(f"\n{name} confussion matrix:")
     print(f"TP={TP}\tFP={FP}\tFN={FN}\tTN={TN}")
 
+    precision = TP / (TP+FP)
+    print(f"Precision: {precision}")
 
-print_confussion("u", [1, 2])
+    recall = TP / (TP + FN)
+    print(f"Recall: {recall}\n")
+
+print_confussion("u", [1, 2], "Confussion")
+
+print_confussion("cr", [1,2], "Credibility")
+
+print_confussion("s", [1,2], "Supportiveness")
