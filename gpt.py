@@ -18,7 +18,7 @@ headers = {
 
 # Read the template prompt from file
 template = ""
-with open('resources/prompt.txt', 'r') as file:
+with open('resources/prompt_v2.txt', 'r') as file:
     template = file.read()
 
 # Define the payload parameters
@@ -31,13 +31,11 @@ payload = {
     "messages": None
 }
 
-
-def evaluate(question, document):    
+def evaluate(description, narrative, doc):    
 
     try:
-
         # Replace the fields in the template
-        prompt = template.replace("%QUESTION%", question).replace("%DOCUMENT%", document)
+        prompt = template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
         # Add a message to the payload
         payload["messages"] = [{"role": "user", "content": prompt}]

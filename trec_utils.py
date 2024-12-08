@@ -81,6 +81,7 @@ def get_topics_dict(name, verbose=True):
         topic_id = topic.find("number").text
         topics[topic_id] = {}
         topics[topic_id]["description"] = topic.find("description").text
+        topics[topic_id]["narrative"] = topic.find("narrative").text
         topics[topic_id]["stance"] = topic.find("stance").text
     return topics
 

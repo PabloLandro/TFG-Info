@@ -99,7 +99,7 @@ def replace_with_run_list(run_list, directory):
                 else:
                     doc = json.loads(searcher.doc(doc_id).raw())["text"]
                     print(f"Evaluating {topic_id} {doc_id}")
-                    run = evaluate(topics[topic_id]["description"], doc)
+                    run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc)
                     if run is not None:
                         auxfile.write(f'{doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
                         print(f"Writing to {os.path.join('runs', topic_id)}")
@@ -107,15 +107,13 @@ def replace_with_run_list(run_list, directory):
 
 
 
-# topic_id, doc_id pairs we will run
-run_list = {}
-#topic_list = os.listdir("runs")
-#run_list = get_run_list(topic_list=topic_list)
-run_list = copy_run_list("aux")
+topic_list = os.listdir("runs")[0:5]
+run_list = get_run_list(topic_list=topic_list)
+#run_list = copy_run_list("aux", directory="runs2")
 
 print("RUN LIST OBTAINED")
 print(run_list)
 
-#run_run_list(run_list)
-replace_with_run_list(run_list, "runs")
+run_run_list(run_list, directory="runs2")
+#replace_with_run_list(run_list, "runs")
 
