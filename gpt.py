@@ -18,7 +18,7 @@ headers = {
 
 # Read the template prompt from file
 template = ""
-with open('resources/prompt_v2.txt', 'r') as file:
+with open(os.path.join("resources", "prompts", "prompt_v2.txt"), 'r') as file:
     template = file.read()
 
 # Define the payload parameters

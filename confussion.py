@@ -1,7 +1,7 @@
 import os
 from trec_utils import get_qrels_dict, get_qrels_dict_all, preprocess_run
 
-runs_directory="runs"
+runs_directory="runs2"
 
 # Load the qrel runs into a dictionary indexed by topic_id
 qrels = get_qrels_dict_all()

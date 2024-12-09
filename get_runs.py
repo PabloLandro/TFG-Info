@@ -111,7 +111,7 @@ def replace_with_run_list(run_list, directory):
 
 
 
-topic_list = os.listdir("runs")[0:8]
+topic_list = os.listdir("runs")
 run_list = get_run_list(topic_list=topic_list)
 #run_list = copy_run_list("aux", directory="runs2")
 
