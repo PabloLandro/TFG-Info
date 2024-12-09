@@ -23,11 +23,11 @@ print("qrels loaded")
 exclude = {}
 count0 = {}
 count1 = {}
-for topic_id in os.listdir("runs"):
+for topic_id in os.listdir("runs2"):
     exclude[topic_id] = {}
     count0[topic_id] = 0
     count1[topic_id] = 0
-    with open(os.path.join("runs", topic_id), "r") as file:
+    with open(os.path.join("runs2", topic_id), "r") as file:
         for line in file:
             doc_id,_,_,_ = line.split()
             exclude[topic_id][doc_id] = True
@@ -66,13 +66,13 @@ def run_run_list(run_list, num_runs=300, directory="runs"):
                     continue
                 doc = json.loads(searcher.doc(doc_id).raw())["text"]
                 print(f"Evaluating {topic_id} {doc_id}")
-                run = evaluate(topics[topic_id]["description"], doc)
+                run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc)
                 if run is not None:
                     if qrels[topic_id][doc_id]['u'] == 0:
                         count0[topic_id] += 1
                     else:
                         count1[topic_id] += 1
-                    print(f"Writing to {os.path.join('runs', topic_id)}")
+                    print(f"Writing to {os.path.join(directory, topic_id)}")
                     file.write(f'{doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
 
 # Gives a run_list to run the same (topic,doc) pairs as another runs folder
@@ -114,6 +114,6 @@ run_list = get_run_list(topic_list=topic_list)
 print("RUN LIST OBTAINED")
 print(run_list)
 
-run_run_list(run_list, directory="runs2")
+run_run_list(run_list, num_runs=500, directory="runs2")
 #replace_with_run_list(run_list, "runs")
 

@@ -1,15 +1,17 @@
 import os
 from trec_utils import get_qrels_dict, get_qrels_dict_all, preprocess_run
 
+runs_directory="runs2"
+
 # Load the qrel runs into a dictionary indexed by topic_id
 qrels = get_qrels_dict_all()
 # We will create a similar structure for the LLM runs
 runs = {}
 
 # Iterate over every topic run file
-for topic_id in os.listdir("runs"):
+for topic_id in os.listdir(runs_directory):
     run = {}
-    with open(os.path.join("runs", topic_id), "r") as file:
+    with open(os.path.join(runs_directory, topic_id), "r") as file:
         count = 0
         for line in file:
             doc_run = {}
