@@ -49,6 +49,10 @@ def get_run_list(topic_list):
     for topic_id in qrels:
         if topic_id not in topic_list:
             continue
+        if topic_id not in count0:
+            count0[topic_id] = 0
+        if topic_id not in count1:
+            count1[topic_id] = 0
         run_list[topic_id] = []
         for doc_id in qrels[topic_id]:
             if is_visited(topic_id, doc_id):
@@ -107,7 +111,7 @@ def replace_with_run_list(run_list, directory):
 
 
 
-topic_list = os.listdir("runs")[0:5]
+topic_list = os.listdir("runs")[0:8]
 run_list = get_run_list(topic_list=topic_list)
 #run_list = copy_run_list("aux", directory="runs2")
 

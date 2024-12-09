@@ -1,15 +1,24 @@
 import os
 from trec_utils import get_qrels_dict, get_qrels_dict_all, preprocess_run
 
-runs_directory="runs2"
+runs_directory="runs"
 
 # Load the qrel runs into a dictionary indexed by topic_id
 qrels = get_qrels_dict_all()
 # We will create a similar structure for the LLM runs
 runs = {}
 
+def is_int(string):
+    try:
+        int(string)
+        return True
+    except ValueError:
+        return false
+
 # Iterate over every topic run file
 for topic_id in os.listdir(runs_directory):
+    if not is_int(topic_id):
+        continue
     run = {}
     with open(os.path.join(runs_directory, topic_id), "r") as file:
         count = 0
@@ -90,7 +99,7 @@ def print_confussion(stat, pos_vals, name):
     recall = TP / (TP + FN)
     print(f"Recall: {recall}\n")
 
-print_confussion("u", [1, 2], "Confussion")
+print_confussion("u", [1, 2], "Usefulness")
 
 print_confussion("cr", [1,2], "Credibility")
 
