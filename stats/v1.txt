@@ -1,0 +1,16 @@
+Usefulness confussion matrix:
+TP=2570 FP=1557 FN=76   TN=1012
+Precision: 0.622728374121638
+Recall: 0.9712773998488284
+
+
+Credibility confussion matrix:
+TP=1446 FP=1120 FN=11   TN=69
+Precision: 0.5635229929851909
+Recall: 0.9924502402196294
+
+
+Supportiveness confussion matrix:
+TP=527  FP=654  FN=358  TN=1107
+Precision: 0.4462320067739204
+Recall: 0.5954802259887005
