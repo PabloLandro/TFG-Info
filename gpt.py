@@ -31,6 +31,9 @@ payload = {
     "messages": None
 }
 
+def get_prompt(description, narrative, doc):
+    return template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
+
 def evaluate(description, narrative, doc):    
 
     try:

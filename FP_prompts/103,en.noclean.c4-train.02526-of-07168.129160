@@ -1,0 +1,901 @@
+You are a misinformation assesor evaluating the credibility of
+health related documents.
+Your job is to assess documents on:
+1) Does this document contain material that the search user might
+    find useful in answering the question?
+2) Does the document contain information that supports/dissuades
+    the use of the treatment in the question?
+3) How credible is the document?
+
+You are given a question from a search user that wants an answer
+and a document. You are also provided with a specific explanation
+of what is considered very-useful or useful.
+You must provide three diferent scores as described:
+
+Usefulness: You will judge the document based on the degree to
+which a user would find the document useful for helping make the
+question. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful, and it would
+    make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the use of the treatment
+    for the health issue or provides strong guidance about the
+    health treatment regardless of the health issue.
+
+Supportiveness: You will judge if a document supports the treatment
+in question. The grades of supportiveness are:
+2. Dissuades: The document would dissuade a user not to use the
+    treatement.
+1. Neutral: The document neither supports or dissuades use of the
+    treatement.
+0. Supportive: The document would support a decision to use the
+    treatement.
+
+Credibility: You will take into account your opionion of the purpose
+of the document, the correctness of information, the amount of
+expertise, authoritativeness and trustworthiness. You will judge
+this independently from usefulness.
+The grades of credibility are:
+0. Low: There is little evidence to believe or trust the document.
+1. Good: While not the highest credibility, these pages are not low
+    credibility.
+2. Excellent: For the most credible documents. These documents are
+    unquestionably trustworthy and authoritative.
+
+A person has the following question:
+
+Can folic acid help improve cognition and treat dementia?
+
+Description of what is considered very-useful or useful:
+
+Dementia is a general term for loss of cognitive abilities that severely affects daily activities. Folates are vitamins essential to the development of the central nervous system. A very useful document would discuss the effectiveness of folic acid to improve cognition and treat dementia. A useful document would help a user decide if folic acid could help improve cognition for people with dementia by providing information on recommended treatments for dementia, or folic acid as a medical treatment, or both.
+
+Consider the following document:
+
+Frontotemporal Dementia, Chromosome 3-Linked disease: Malacards - Research Articles, Drugs, Genes, Clinical Trials
+Search
+Advanced
+Home
+User Guide
+What's in a MalaCard Search Guide Our Sources
+Analysis Tools
+GeneCards GeneAnalytics GeneAlaCart PathCards VarElect TGex
+News and Views Disease Lists/Categories
+About
+About MalaCards Our Publications Weizmann Institute LifeMap Discovery® Terms of Use MalaCards Team
+Log In Sign Up
+FTD3
+MCID: FRN013
+MIFTS: 30
+Frontotemporal Dementia, Chromosome 3-Linked (FTD3)
+Categories: Genetic diseases, Mental diseases, Neuronal diseases
+Genes Variations Tissues Related diseases Publications Symptoms & Phenotypes Drugs
+Expand all tables
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Aliases & Classifications for Frontotemporal Dementia, Chromosome 3-Linked
+MalaCards integrated aliases for Frontotemporal Dementia, Chromosome 3-Linked:
+Name: Frontotemporal Dementia, Chromosome 3-Linked 57 24 75 29 6 73
+Dementia, Familial, Nonspecific 57 13
+Ftd3 57 75
+Dementia, Familial Nonspecific 57
+Dmt1; Dem 57
+Ftd-3 24
+Dmt1 57
+Dem 57
+Characteristics:
+OMIM:
+57
+Inheritance:
+autosomal dominant
+Miscellaneous:
+average age of onset 57 years
+average duration of illness 8 years
+subtle personality and behavioral changes are presenting signs
+motor symptoms develop later (about 5 years into illness)
+HPO:
+32
+frontotemporal dementia, chromosome 3-linked:
+Inheritance autosomal dominant inheritance
+GeneReviews:
+24
+Penetrance Penetrance appears to be nearly complete in the danish family...
+Classifications:
+MalaCards categories:
+Global: Genetic diseases
+Anatomical: Neuronal diseases Mental diseases
+See all MalaCards categories (disease lists)
+External Ids:
+OMIM 57 600795
+MedGen 42 C1833296
+SNOMED-CT via HPO 69 263681008 165232002 162221009 248004009 61372001 112082005 5507002 84328007 247977003 20602000 102943000 192073007 24340004 22325002 127324008 17450006 86854008 16046003 278849000 230270009 88052002 49386006 386807006 55533009 47916000 81415000 246586009 366575004 more
+UMLS 73 C1833296
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Summaries for Frontotemporal Dementia, Chromosome 3-Linked
+OMIM : 57 A substantial minority of degenerative dementias, perhaps 10%, lack the distinctive pathologic features that allow subclassification as Alzheimer disease (see 104300) or other forms of dementia. In perhaps half of these cases of nonspecific dementia, there is a positive family history of dementia, with an apparent autosomal dominant mode of inheritance. See also frontotemporal lobe dementia (FLDEM; 600274), which maps to chromosome 17 and is caused by mutation in the microtubule-associated protein tau gene (MAPT; 157140). (600795)
+MalaCards based summary : Frontotemporal Dementia, Chromosome 3-Linked, also known as dementia, familial, nonspecific, is related to chmp2b-related frontotemporal dementia and hemosiderosis, and has symptoms including abnormal pyramidal signs, myoclonus and restlessness. An important gene associated with Frontotemporal Dementia, Chromosome 3-Linked is CHMP2B (Charged Multivesicular Body Protein 2B). The drugs Natalizumab and Immunologic Factors have been mentioned in the context of this disorder. Affiliated tissues include brain, parietal lobe and kidney, and related phenotypes are gait disturbance and hyperreflexia
+UniProtKB/Swiss-Prot : 75 Frontotemporal dementia, chromosome 3-linked: Characterized by an onset of dementia in the late 50's initially characterized by behavioral and personality changes including apathy, restlessness, disinhibition and hyperorality, progressing to stereotyped behaviors, non-fluent aphasia, mutism and dystonia, with a marked lack of insight. The brains of individuals with FTD3 have no distinctive neuropathological features. They show global cortical and central atrophy, but no beta-amyloid deposits.
+GeneReviews: NBK1199
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Related Diseases for Frontotemporal Dementia, Chromosome 3-Linked
+Diseases related to Frontotemporal Dementia, Chromosome 3-Linked via text searches within MalaCards or GeneCards Suite gene sharing:
+(show all 38)
+#
+Related Disease
+Score
+Top Affiliating Genes
+1 chmp2b-related frontotemporal dementia 12.0
+2 hemosiderosis 10.3
+3 frontotemporal dementia 10.3
+4 dementia 10.3
+5 frontotemporal dementia with parkinsonism-17 10.3
+6 microcytic anemia 10.3
+7 deficiency anemia 10.1
+8 hepatocellular carcinoma 10.1
+9 iron deficiency anemia 10.1
+10 iron metabolism disease 10.1
+11 hypochromic microcytic anemia with iron overload 10.1
+12 mycosis fungoides 9.9
+13 psoriasis 2 9.9
+14 psoriasis 7 9.9
+15 psoriasis 11 9.9
+16 psoriasis 13 9.9
+17 sinusitis 9.9
+18 arteriosclerosis 9.9
+19 porokeratosis 9.9
+20 pustulosis of palm and sole 9.9
+21 macular retinal edema 9.9
+22 psoriasis 9.9
+23 dermatophytosis 9.9
+24 diabetic macular edema 9.9
+25 blepharitis 9.9
+26 cerebral arteriosclerosis 9.9
+27 alzheimer disease 9.9
+28 celiac disease 1 9.9
+29 hemochromatosis, type 1 9.9
+30 macular degeneration, age-related, 1 9.9
+31 brain ischemia 9.9
+32 chronic kidney failure 9.9
+33 restless legs syndrome 9.9
+34 hypochromic microcytic anemia 9.9
+35 ischemia 9.9
+36 hyperglycemia 9.9
+37 kidney disease 9.9
+38 amyotrophic lateral sclerosis 17 9.7 CHMP2B MIR4795
+Graphical network of the top 20 diseases related to Frontotemporal Dementia, Chromosome 3-Linked:
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Symptoms & Phenotypes for Frontotemporal Dementia, Chromosome 3-Linked
+Symptoms via clinical synopsis from OMIM:
+57
+Neurologic Central Nervous System:
+hyperreflexia
+myoclonus
+dystonia
+rigidity
+astrocytosis
+frontotemporal dementia
+loss of speech
+dyscalculia
+orofacial dyskinesia
+mutism
+memory loss
+pyramidal signs
+extensor plantar responses
+abnormal gait
+white matter changes
+progressive cognitive decline
+frontal release reflexes
+generalized cortical atrophy, most prominent in the frontal and parietal lobes
+cortical neuronal loss
+global reduction in cerebral blood flow on pet scan
+more
+Neurologic Behavioral Psychiatric Manifestations:
+restlessness
+disinhibition
+apathy
+personality changes
+inappropriate behavior
+hyperorality
+lack of insight
+stereotyped behavior
+aggressiveness
+reclusive
+more
+Genitourinary Bladder:
+urinary incontinence
+Clinical features from OMIM:
+600795
+Human phenotypes related to Frontotemporal Dementia, Chromosome 3-Linked:
+32 (show all 26)
+#
+Description
+HPO Frequency
+HPO Source Accession
+1 gait disturbance 32 HP:0001288
+2 hyperreflexia 32 HP:0001347
+3 stereotypy 32 HP:0000733
+4 myoclonus 32 HP:0001336
+5 babinski sign 32 HP:0003487
+6 dystonia 32 HP:0001332
+7 cerebral cortical atrophy 32 HP:0002120
+8 memory impairment 32 HP:0002354
+9 rigidity 32 HP:0002063
+10 aggressive behavior 32 HP:0000718
+11 astrocytosis 32 HP:0002446
+12 urinary incontinence 32 HP:0000020
+13 restlessness 32 HP:0000711
+14 disinhibition 32 HP:0000734
+15 apathy 32 HP:0000741
+16 personality changes 32 HP:0000751
+17 frontotemporal dementia 32 HP:0002145
+18 neuronal loss in central nervous system 32 HP:0002529
+19 inappropriate behavior 32 HP:0000719
+20 loss of speech 32 HP:0002371
+21 dyscalculia 32 HP:0002442
+22 orofacial dyskinesia 32 HP:0002310
+23 mutism 32 HP:0002300
+24 hyperorality 32 HP:0000710
+25 lack of insight 32 HP:0000757
+26 frontal release signs 32 HP:0000743
+UMLS symptoms related to Frontotemporal Dementia, Chromosome 3-Linked:
+abnormal pyramidal signs, myoclonus, restlessness, personality changes, memory loss, muscle rigidity
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Drugs & Therapeutics for Frontotemporal Dementia, Chromosome 3-Linked
+Drugs for Frontotemporal Dementia, Chromosome 3-Linked (from DrugBank, HMDB, Dgidb, PharmGKB, IUPHAR, NovoSeek, BitterDB):
+(show all 18)
+#
+Name
+Status
+Phase
+Clinical Trials
+Cas Number
+PubChem Id
+1
+Natalizumab Approved, Investigational Phase 4 189261-10-7
+Synonyms:
+189261-10-7
+Anti-alpha4 integrin
+Anti-VLA4
+D06886
+Natalizumab
+Natalizumab (INN)
+Tysabri
+Tysabri (TN)
+2 Immunologic Factors Phase 4
+3
+Iron Approved Phase 3,Not Applicable 7439-89-6 23925
+Synonyms:
+02583_FLUKA
+12310_ALDRICH
+12310_RIEDEL
+129048-51-7
+14067-02-8
+161135-39-3
+190454-13-8
+195161-83-2
+199281-22-6
+209309_ALDRICH
+209309_SIAL
+255637_ALDRICH
+266213_ALDRICH
+266256_ALDRICH
+267945_ALDRICH
+267953_ALDRICH
+26Fe
+338141_ALDRICH
+356808_ALDRICH
+356824_ALDRICH
+356832_ALDRICH
+39344-71-3
+3ZhP
+413054_ALDRICH
+443783-52-6
+44890_ALDRICH
+44890_FLUKA
+675141-17-0
+70884-35-4
+73135-38-3
+7439-89-6
+8011-79-8
+8053-60-9
+AC1L2N38
+Ancor B
+Ancor en 80/150
+armco Iron
+Armco iron
+Atomel 28
+Atomel 300M200
+Atomel 500M
+Atomel 95
+Atomiron 44MR
+Atomiron 5M
+Atomiron AFP 25
+Atomiron AFP 5
+ATW 230
+ATW 432
+C00023
+C3518_SIAL
+C3518_SIGMA
+Carbonyl iron
+CCRIS 1580
+CHEBI:18248
+CID23925
+Copy Powder CS 105-175
+D007501
+DB01592
+Diseases (animal), iron overload
+Diseases, iron overload
+DSP 1000
+DSP 128B
+DSP 135
+DSP 135C
+DSP 138
+Ed-In-Sol
+EF 1000
+EF 250
+EFV 200/300
+EFV 250
+EFV 250/400
+EINECS 231-096-4
+Eisen
+Electrolytic iron
+F 60 (metal)
+Fe
+FE
+FE (II) ion
+Fe(2+)
+Fe(II)
+Fe1+
+Fe-40
+fer
+Feronate
+Ferretts
+Ferro-Caps
+Ferro-Time
+Ferrous ion
+ferrous iron
+Ferrousal
+Ferrovac e
+Ferrovac E
+Ferrum
+Ferrum metallicum
+FT 3 (element)
+GS 6
+Hematite
+Hemocyte
+HF 2 (element)
+hierro
+Hierro
+HL (iron)
+Hoeganaes ATW 230
+Hoeganaes EH
+HQ (metal)
+HS (iron)
+HS 4849
+HSDB 604
+Infed
+IRMM524A_FLUKA
+IRMM524B_FLUKA
+IRON
+Iron (Fe)
+Iron (Fe1+)
+Iron ion (Fe+)
+Iron ion(1+)
+Iron ion(2+)
+Iron monocation
+Iron powder
+Iron standard for AAS
+Iron(1+)
+Iron(1+) ion
+Iron(III) nitrate solution
+Iron, carbonyl
+Iron, electrolytic
+Iron, elemental
+Iron, ion (Fe1+)
+Iron, ion (Fe1+) (8CI,9CI)
+Iron, reduced
+Limonite
+LOHA
+LS-3196
+Magnetite
+Malleable iron
+Metopirone
+Metyrapone
+MolPort-003-925-001
+NC 100
+PZh1M1
+PZh-1M3
+PZh-2
+PZh2M
+PZH2m
+PZh2M1
+PZh2M2
+PZh3
+PZh3M
+PZh4M
+PZhO
+PZHO
+Reduced iron
+Remko
+Siderol
+Suy-b 2
+SUY-B 2
+Taconite
+UNII-E1UOL152H7
+Venofer
+Vitedyn-Slo
+Wrought iron
+Yieronia
+4 Orange Approved Phase 3
+5 Micronutrients Phase 3,Not Applicable
+6 Gotu Kola Phase 3
+7 Iron Supplement Phase 3
+8 Trace Elements Phase 3,Not Applicable
+9 Hibiscus Phase 3
+10 Insulin, Globin Zinc Phase 2
+11 insulin Phase 2
+12
+leucovorin Approved Not Applicable 58-05-9 6006 143
+Synonyms:
+(5-formyl-5,6,7,8-tetrahydropteroyl)glutamate
+(6R,S)-5-Formyltetrahydrofolate
+10-Formyl-7,8-dihydrofolate
+10-Formyl-7,8-dihydrofolic acid
+5 Formyltetrahydrofolate
+5 Formyltetrahydropteroylglutamate
+5-Formyl-5,6,7,8-tetrahydrofolate
+5-Formyl-5,6,7,8-tetrahydrofolic acid
+5-Formyl-5,6,7,8-tetrahydropteroyl-L-glutamic acid
+5-Formyltetrahydrofolate
+5-formyltetrahydrofolic acid
+5-Formyltetrahydrofolic acid
+5-Formyltetrahydropteroylglutamate
+5-Formyltetrahydropteroylglutamic acid
+Acid, folinic
+Acide folinique
+Calcium citrovorum factor
+Calcium folinate
+Calcium leucovorin
+Citrovorum factor
+Factor, citrovorum
+folinate
+Folinate
+Folinate, calcium
+Folinic acid
+Folinic acid calcium salt
+Folinic acid calcium salt USP27
+Folinic acid SF
+Folinic acid-SF
+L(-)-5-Formyl-5,6,7,8-tetrahydrofolate
+L(-)-5-Formyl-5,6,7,8-tetrahydrofolic acid
+Leucal
+Leucovorin
+Leucovorin calcium
+Leucovorin folinic acid
+Leucovorin, (D)-isomer
+Leucovorin, (DL)-isomer
+Leucovorin, (R)-isomer
+Leucovorin, calcium
+Leucovorin, calcium (1:1) salt
+Leucovorin, calcium (1:1) salt, (DL)-isomer
+Leucovorin, calcium (1:1) salt, pentahydrate
+Leucovorin, monosodium salt
+Leucovorinum
+Leukovorin
+Leukovorum
+Levoleucovorin
+L-leucovorin
+L-Leucovorin
+L-N-[P-[[(2-amino-5-Formyl-5,6,7,8-tetrahydro-4-hydroxy-6-pteridinyl)methyl]amino]benzoyl]-glutamic acid
+Monosodium salt leucovorin
+N(5)-Formyltetrahydrofolate
+N-(5-formyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid
+N5-Formyl-5,6,7,8-tetrahydrofolate
+N5-Formyl-5,6,7,8-tetrahydrofolic acid
+N5-Formyltetrahydrofolate
+N5-Formyltetrahydrofolic acid
+Rescuvolin
+Welcovorin
+Wellcovorin
+13
+Folic Acid Approved, Nutraceutical, Vet_approved Not Applicable 59-30-3 6037
+Synonyms:
+(2S)-2-[[4-[(2-amino-4-oxo-1H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid
+01769_FLUKA
+2d0k
+33609-88-0
+36653-55-1 (mono-potassium salt)
+59-30-3
+6484-89-5 (mono-hydrochloride salt)
+AC-11682
+AC1L1LNX
+Acfol (Spain)
+Acide folique
+Acide folique [INN-French]
+Acido folico
+Acido folico [INN-Spanish]
+Acidum folicum
+Acidum folicum [INN-Latin]
+Acifolic
+AI3-26387
+AKOS000503224
+Antianemia factor
+Apo-Folic
+ARONIS014410
+b9, Vitamin
+BIDD:ER0563
+BIDD:GT0641
+BIF0608
+bmse000299
+BPBio1_000654
+BSPBio_000594
+BSPBio_002338
+C00504
+C20H20N6O6
+CAS-59-30-3
+CCRIS 666
+CHEBI:27470
+CHEMBL1622
+CID6037
+CPD000471860
+Cytofol
+D00070
+DB00158
+DivK1c_000494
+Dosfolat b activ
+Dosfolat B activ
+EINECS 200-419-0
+F0043
+F7876_SIAL
+F7876_SIGMA
+F8758_SIGMA
+F8798_SIAL
+F8890_SIGMA
+Facid
+Factor U
+FOL
+Folacid
+Folacin
+Folaemin
+Folaemin [Netherlands]
+Folan
+Folasic (Australia)
+Folate
+Folbal
+Folcidin
+Folcidin (VAN)
+Folcysteine
+Foldine
+Foldine [France]
+Folettes
+Foliamin
+Folic
+folic acid
+Folic acid (JP15/USP/INN)
+Folic acid (TN)
+Folic acid [BAN:INN:JAN]
+Folic acid [INN:BAN:JAN]
+Folic acid dihydrate
+Folic acid, (D)-isomer
+Folic acid, (DL)-isomer
+Folic acid, calcium salt (1:1)
+Folic acid, monopotassium salt
+Folic acid, monosodium salt
+Folic acid, potassium salt
+Folic acid, sodium salt
+Folicet
+Folicet (TN)
+Folico
+Folico (Italy)
+Folina
+Folina (Italy)
+Folipac
+Folsaeure
+Folsan
+Folsaure
+Folsäure
+Folsav
+Folvite
+Folvron
+Glutamic acid, N-(p-(((2-amino-4-hydroxypyrimido(4,5-b)pyrazin-6-yl)methyl)amino)benzoyl)-, L
+HMS1921D20
+HMS2092N17
+HMS501I16
+HSDB 2002
+IDI1_000494
+Incafolic
+InChI=1/C19H19N7O6/c20-19-25-15-14(17(30)26-19)23-11(8-22-15)7-21-10-3-1-9(2-4-10)16(29)24-12(18(31)32)5-6-13(27)28/h1-4,8,12,21H,5-7H2,(H,24,29)(H,27,28)(H,31,32)(H3,20,22,25,26,30)/t12-/m0/s
+KBio1_000494
+KBio2_001861
+KBio2_004429
+KBio2_006997
+KBio3_001558
+KBioGR_002222
+KBioSS_001861
+Kyselina listova
+Kyselina listova [Czech]
+Liver lactobacillus casei factor
+Liver Lactobacillus casei factor
+LS-2157
+Millafol
+Mission prenatal
+Mittafol
+MLS001304016
+MLS001335861
+MolPort-004-285-551
+N-(4-(((2-Amino-1,4-dihydro-4-oxo-6-pteridinyl)methyl)amino)benzo- yl)-L-glutamic acid
+N-(4-((2-Amino-1,4-dihydro-4-oxo-6-pteridinyl)methyl)amino)benzoyl)-L-glutamic acid
+N-(4-{[(2-amino-4-oxo-1,4-dihydropteridin-6-yl)methyl]amino}benzoyl)-L-glutamic acid
+N-(4-{[(2-amino-4-oxo-3,4-dihydropteridin-6-yl)methyl]amino}benzoyl)-L-glutamic acid
+N-(p-(((2-Amino-4-hydroxy-6-pteridinyl)methyl)amino)benzoyl)-L-glutamic acid
+N-[(4-{[(2-amino-4-oxo-1,4-dihydropteridin-6-yl)methyl]amino}phenyl)carbonyl]-L-glutamate
+N-[(4-{[(2-amino-4-oxo-1,4-dihydropteridin-6-yl)methyl]amino}phenyl)carbonyl]-L-glutamic acid
+N-[4-[[(2-amino-3,4-dihydro-4-oxo-6-Pteridinyl)methyl]amino]benzoyl]-L-glutamic acid
+NCGC00016265-01
+NCGC00142391-01
+nchembio.108-comp10
+Nifolin
+Nifolin [Denmark]
+NINDS_000494
+Novofolacid
+Novofolacid [Canada]
+N-Pteroyl-L-glutamate
+N-pteroyl-L-glutamic acid
+N-Pteroyl-L-glutamic acid
+NSC 3073
+PGA
+PGA (VAN)
+Prestwick_230
+Prestwick3_000627
+PteGlu
+Pteroylglutamate
+Pteroylglutamic acid
+Pteroyl-L-glutamate
+Pteroyl-L-glutamic acid
+Pteroyl-L-monoglutamate
+Pteroyl-L-monoglutamic acid
+Pteroylmonoglutamate
+Pteroylmonoglutamic acid
+SAM002264616
+SDCCGMLS-0066738.P001
+Serum Folate Level
+SMP2_000137
+SMR000471860
+SPBio_001357
+Spectrum_001381
+SPECTRUM1502020
+Spectrum2_001459
+Spectrum3_000749
+Spectrum4_001751
+Spectrum5_000602
+UNII-935E97BOY8
+Usaf cb-13
+Vitamin B11
+Vitamin b9
+Vitamin B9
+Vitamin Bc
+Vitamin BC
+Vitamin be
+Vitamin Be
+Vitamin m
+Vitamin M
+14 Vitamin B Complex Not Applicable
+15 Vitamins Not Applicable
+16 Vitamin B9 Not Applicable
+17 Hematinics Not Applicable
+18 Folate Not Applicable
+Interventional clinical trials:
+#
+Name
+Status
+NCT ID
+Phase
+Drugs
+1 Natalizumab Temporary Discontinuation Study Completed NCT02775110 Phase 4
+2 Hibiscus Sabdariffa and Centella Asiatica in the Treatment of Anemia by Iron Deficiency Completed NCT01414374 Phase 3 Herbal medicine;Iron
+3 MSC Administration for the Management of Type 1 Diabetic Patients Unknown status NCT02893306 Phase 2
+4 Study of Sleeve Gastrectomy on Iron Intestinal Absorption in Morbidly Obese Patients Completed NCT01483768 Not Applicable
+5 Tolerability, Safety and Efficacy of the HAC-Coil Deep Transcranial Magnetic Stimulation in Medication Resistance Obsessive Compulsive Disorder (OCD) Subjects Recruiting NCT01343732 Not Applicable
+6 Influence of Iron and Foliate Transporters on Bioavailability of These Micronutrients in the Organism Recruiting NCT03438942 Not Applicable
+7 Type 1 Diabetes and Eating Disorder Diurnal Glucose Patterns Terminated NCT01390636
+Search NIH Clinical Center for Frontotemporal Dementia, Chromosome 3-Linked
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Genetic Tests for Frontotemporal Dementia, Chromosome 3-Linked
+Genetic tests related to Frontotemporal Dementia, Chromosome 3-Linked:
+#
+Genetic test
+Affiliating Genes
+1 Frontotemporal Dementia, Chromosome 3-Linked 29 CHMP2B
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Anatomical Context for Frontotemporal Dementia, Chromosome 3-Linked
+MalaCards organs/tissues related to Frontotemporal Dementia, Chromosome 3-Linked:
+41
+Brain, Parietal Lobe, Kidney
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Publications for Frontotemporal Dementia, Chromosome 3-Linked
+Articles related to Frontotemporal Dementia, Chromosome 3-Linked:
+#
+Title
+Authors
+Year
+1
+Frontotemporal Dementia, Chromosome 3-Linked ( 20301378 )
+Pagon R.A....Stephens K.
+1993
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Genes for Frontotemporal Dementia, Chromosome 3-Linked
+Genes related to Frontotemporal Dementia, Chromosome 3-Linked (1 elite genes):
+- Elite gene
+- Cancer Census gene in COSMIC
+#
+Symbol
+Description
+Category
+Score
+Evidence
+PubmedIds
+1
+CHMP2B
+Charged Multivesicular Body Protein 2B Protein Coding 1329.17
+Molecular basis known 57
+Pathogenic 6
+Causative variation 75
+Genetic Tests 29
+GeneCards inferred via :
+Disorders Variants (show sections)
+16041373 16431024 20301378 (more)
+20301623 17956895 16807408 20352044
+2
+MIR4795
+MicroRNA 4795 RNA Gene 8.05 GeneCards inferred via :
+Variants (show sections)
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Variations for Frontotemporal Dementia, Chromosome 3-Linked
+UniProtKB/Swiss-Prot genetic disease variations for Frontotemporal Dementia, Chromosome 3-Linked:
+75
+#
+Symbol
+AA change
+Variation ID
+SNP ID
+1 CHMP2B p.Asp148Tyr VAR_023383 rs63750653
+ClinVar genetic disease variations for Frontotemporal Dementia, Chromosome 3-Linked:
+6 (show all 21)
+#
+Gene
+Variation
+Type
+Significance
+SNP ID
+Assembly
+Location
+1 CHMP2B CHMP2B, IVS5AS, G-C single nucleotide variant Pathogenic
+2 CHMP2B NM_014043.3(CHMP2B): c.442G> T (p.Asp148Tyr) single nucleotide variant Pathogenic rs63750653 GRCh37 Chromosome 3, 87302571: 87302571
+3 CHMP2B NM_014043.3(CHMP2B): c.442G> T (p.Asp148Tyr) single nucleotide variant Pathogenic rs63750653 GRCh38 Chromosome 3, 87253421: 87253421
+4 CHMP2B NM_014043.3(CHMP2B): c.618A> C (p.Gln206His) single nucleotide variant Pathogenic rs63751126 GRCh37 Chromosome 3, 87302948: 87302948
+5 CHMP2B NM_014043.3(CHMP2B): c.618A> C (p.Gln206His) single nucleotide variant Pathogenic rs63751126 GRCh38 Chromosome 3, 87253798: 87253798
+6 CHMP2B NM_014043.3(CHMP2B): c.493C> T (p.Gln165Ter) single nucleotide variant Pathogenic rs63750355 GRCh37 Chromosome 3, 87302622: 87302622
+7 CHMP2B NM_014043.3(CHMP2B): c.493C> T (p.Gln165Ter) single nucleotide variant Pathogenic rs63750355 GRCh38 Chromosome 3, 87253472: 87253472
+8 CHMP2B NM_014043.3(CHMP2B): c.532-1G> A single nucleotide variant Pathogenic rs63750652 GRCh37 Chromosome 3, 87302861: 87302861
+9 CHMP2B NM_014043.3(CHMP2B): c.532-1G> A single nucleotide variant Pathogenic rs63750652 GRCh38 Chromosome 3, 87253711: 87253711
+10 CHMP2B NM_014043.3(CHMP2B): c.556C> T (p.Arg186Ter) single nucleotide variant Pathogenic rs63751048 GRCh37 Chromosome 3, 87302886: 87302886
+11 CHMP2B NM_014043.3(CHMP2B): c.556C> T (p.Arg186Ter) single nucleotide variant Pathogenic rs63751048 GRCh38 Chromosome 3, 87253736: 87253736
+12 CHMP2B NM_014043.3(CHMP2B): c.85A> G (p.Ile29Val) single nucleotide variant Uncertain significance rs63750818 GRCh37 Chromosome 3, 87289899: 87289899
+13 CHMP2B NM_014043.3(CHMP2B): c.85A> G (p.Ile29Val) single nucleotide variant Uncertain significance rs63750818 GRCh38 Chromosome 3, 87240749: 87240749
+14 CHMP2B NM_014043.3(CHMP2B): c.311C> A (p.Thr104Asn) single nucleotide variant Conflicting interpretations of pathogenicity rs281864934 GRCh37 Chromosome 3, 87295048: 87295048
+15 CHMP2B NM_014043.3(CHMP2B): c.311C> A (p.Thr104Asn) single nucleotide variant Conflicting interpretations of pathogenicity rs281864934 GRCh38 Chromosome 3, 87245898: 87245898
+16 CHMP2B NM_014043.3(CHMP2B): c.560G> A (p.Ser187Asn) single nucleotide variant Benign/Likely benign rs78268395 GRCh38 Chromosome 3, 87253740: 87253740
+17 CHMP2B NM_014043.3(CHMP2B): c.560G> A (p.Ser187Asn) single nucleotide variant Benign/Likely benign rs78268395 GRCh37 Chromosome 3, 87302890: 87302890
+18 CHMP2B NM_014043.3(CHMP2B): c.34+8C> T single nucleotide variant Benign/Likely benign rs35413339 GRCh38 Chromosome 3, 87227564: 87227564
+19 CHMP2B NM_014043.3(CHMP2B): c.34+8C> T single nucleotide variant Benign/Likely benign rs35413339 GRCh37 Chromosome 3, 87276714: 87276714
+20 CHMP2B NM_014043.3(CHMP2B): c.581C> T (p.Ser194Leu) single nucleotide variant Uncertain significance rs149380040 GRCh38 Chromosome 3, 87253761: 87253761
+21 CHMP2B NM_014043.3(CHMP2B): c.581C> T (p.Ser194Leu) single nucleotide variant Uncertain significance rs149380040 GRCh37 Chromosome 3, 87302911: 87302911
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Expression for Frontotemporal Dementia, Chromosome 3-Linked
+Search GEO for disease gene expression data for Frontotemporal Dementia, Chromosome 3-Linked.
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Pathways for Frontotemporal Dementia, Chromosome 3-Linked
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+GO Terms for Frontotemporal Dementia, Chromosome 3-Linked
+Jump to section Aliases & Classifications Anatomical Context Drugs & Therapeutics Expression Genes Genetic Tests GO Terms Pathways Publications Related Diseases Sources Summaries Symptoms & Phenotypes Variations Top Bottom
+Sources
+Sources for Frontotemporal Dementia, Chromosome 3-Linked
+1 BioSystems
+2 BitterDB
+3 CDC
+4 Cell Signaling Technology
+5 ClinicalTrials
+6 ClinVar
+7 CNVD
+8 Cochrane Library
+9 Cosmic
+10 dbSNP
+11 DGIdb
+12 Disease Ontology
+13 diseasecard
+14 DiseaseEnhancer
+15 DISEASES
+16 DrugBank
+17 ExPASy
+18 FDA Approved Drugs
+19 FMA
+20 GeneAnalytics
+21 GeneCards
+22 GeneGo (Thomson Reuters)
+23 GeneHancer via GeneCards
+24 GeneReviews
+25 Genetics Home Reference
+26 GenomeRNAi
+27 GEO DataSets
+28 GO
+29 GTR
+30 HGMD
+31 HMDB
+32 HPO
+33 ICD10
+34 ICD10 via Orphanet
+35 ICD9CM
+36 IUPHAR
+37 KEGG
+38 LifeMap
+39 LncRNADisease
+40 LOVD
+41 MalaCards
+42 MedGen
+43 MedlinePlus
+44 MeSH
+45 MESH via Orphanet
+46 MGI
+47 miR2Disease
+48 NCBI Bookshelf
+49 NCI
+50 NCIt
+51 NDF-RT
+52 NIH Clinical Center
+53 NIH Rare Diseases
+54 NINDS
+55 Novoseek
+56 Novus Biologicals
+57 OMIM
+58 OMIM via Orphanet
+59 Orphanet
+60 PathCards
+61 PharmGKB
+62 PubMed
+63 PubMed Health
+64 QIAGEN
+65 R&D Systems
+66 Reactome
+67 Sino Biological
+68 SNOMED-CT
+69 SNOMED-CT via HPO
+70 SNOMED-CT via Orphanet
+71 TGDB
+72 Tocris
+73 UMLS
+74 UMLS via Orphanet
+75 UniProtKB/Swiss-Prot
+76 Wikipedia
+The MalaCards human disease database index: 1-9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Terms and Conditions • User Feedback
+Copyright © 1996-2019 , Weizmann Institute of Science. All Rights Reserved. Version 4.9.0.20 2019 February 12
+Content
+×
+Loading form....
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.

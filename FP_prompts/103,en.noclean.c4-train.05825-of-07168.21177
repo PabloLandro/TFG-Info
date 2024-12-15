@@ -1,0 +1,106 @@
+You are a misinformation assesor evaluating the credibility of
+health related documents.
+Your job is to assess documents on:
+1) Does this document contain material that the search user might
+    find useful in answering the question?
+2) Does the document contain information that supports/dissuades
+    the use of the treatment in the question?
+3) How credible is the document?
+
+You are given a question from a search user that wants an answer
+and a document. You are also provided with a specific explanation
+of what is considered very-useful or useful.
+You must provide three diferent scores as described:
+
+Usefulness: You will judge the document based on the degree to
+which a user would find the document useful for helping make the
+question. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful, and it would
+    make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the use of the treatment
+    for the health issue or provides strong guidance about the
+    health treatment regardless of the health issue.
+
+Supportiveness: You will judge if a document supports the treatment
+in question. The grades of supportiveness are:
+2. Dissuades: The document would dissuade a user not to use the
+    treatement.
+1. Neutral: The document neither supports or dissuades use of the
+    treatement.
+0. Supportive: The document would support a decision to use the
+    treatement.
+
+Credibility: You will take into account your opionion of the purpose
+of the document, the correctness of information, the amount of
+expertise, authoritativeness and trustworthiness. You will judge
+this independently from usefulness.
+The grades of credibility are:
+0. Low: There is little evidence to believe or trust the document.
+1. Good: While not the highest credibility, these pages are not low
+    credibility.
+2. Excellent: For the most credible documents. These documents are
+    unquestionably trustworthy and authoritative.
+
+A person has the following question:
+
+Can folic acid help improve cognition and treat dementia?
+
+Description of what is considered very-useful or useful:
+
+Dementia is a general term for loss of cognitive abilities that severely affects daily activities. Folates are vitamins essential to the development of the central nervous system. A very useful document would discuss the effectiveness of folic acid to improve cognition and treat dementia. A useful document would help a user decide if folic acid could help improve cognition for people with dementia by providing information on recommended treatments for dementia, or folic acid as a medical treatment, or both.
+
+Consider the following document:
+
+Folic Acid – Page 2 – Nature's Vitamins
+Skip to content
+All Natural Supplements Proudly Made in the USA
+(949) 770-3079
+FacebookTwitterPinterestInstagram
+My Account
+account
+Nature's Vitamins
+A family owned high quality vitamin and supplement store
+Home
+About
+Shop
+Viva Vitamins
+Blog
+Contact Us
+$0.000
+No products in the cart.
+Subtotal: $0.00
+View Cart Checkout
+Home
+About
+Shop
+Viva Vitamins
+Blog
+Contact Us
+Category Archives: Folic Acid
+You are here:
+Home
+Category "Folic Acid"
+(Page 2)
+Prenatal Folic Acid Could Benefit Children’s Psychological Development
+Brain, brain health, Folic AcidBy developer May 13, 2017
+A new study finds that supplementation with Folic Acid has beneficial effects on the psychological development of children if taken during the first trimester and beyond. 39 women participated in this randomized controlled trial. 22 of the participating mothers supplemented with folic acid throughout their pregnancy while the remaining 17 only supplemented with folic acid…
+Could Folic Acid Decrease Dementia Risk?
+Brain, brain health, Dementia, Folic AcidBy developer December 31, 2016
+Research suggests daily supplementation with folic acid may reduce the risk of having dementia in populations with low levels of this B vitamin and no program to fortify the diet with this nutraceutical. Data from over 1,300 participants was analyzed. Face to face interviews were done at the beginning of this study, the Three-City Study,…
+Folic Acid Fortification Linked to Lower Heart Defect Rates
+cardiovascular, Cardiovascular Health, Congenital Heart Disease, Folic Acid, VitaminsBy developer September 3, 2016
+According to new research, foods fortified with the B vitamin folic acid have been found to reduce the number of babies born with abnormalities of the heart by 11%. In this study data from a population based cohort study of almost 6,000,000 live births and stillbirths, which included late-pregnancy terminations, delivered after a gestation period…
+12
+© 2016 Earth Wise Nutrition. All Rights Reserved.
+Shipping Policy
+Privacy Policy
+Contact Us
+Website Design by Web Casa Design
+footer
+Go to Top
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.

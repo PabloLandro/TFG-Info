@@ -1,7 +1,7 @@
 import os
 from trec_utils import get_qrels_dict, get_qrels_dict_all, preprocess_run
 
-runs_directory="runs2"
+runs_directory="runs"
 
 # Load the qrel runs into a dictionary indexed by topic_id
 qrels = get_qrels_dict_all()
@@ -67,6 +67,8 @@ def print_confussion(stat, pos_vals, name):
     FN = 0
     TN = 0
 
+    count_FP = 0
+
     for topic_id in runs:
         for doc_id in runs[topic_id]:
             # If there is not a qrel for that doc_id, we skip
@@ -87,6 +89,9 @@ def print_confussion(stat, pos_vals, name):
             else:
                 if pred in pos_vals:
                     FP += 1
+                    if count_FP < 5:
+                        print(f"{topic_id}, {doc_id} is giving FP")
+                    count_FP += 1
                 else:
                     TN += 1
     

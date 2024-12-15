@@ -1,0 +1,312 @@
+You are a misinformation assesor evaluating the credibility of
+health related documents.
+Your job is to assess documents on:
+1) Does this document contain material that the search user might
+    find useful in answering the question?
+2) Does the document contain information that supports/dissuades
+    the use of the treatment in the question?
+3) How credible is the document?
+
+You are given a question from a search user that wants an answer
+and a document. You are also provided with a specific explanation
+of what is considered very-useful or useful.
+You must provide three diferent scores as described:
+
+Usefulness: You will judge the document based on the degree to
+which a user would find the document useful for helping make the
+question. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful, and it would
+    make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the use of the treatment
+    for the health issue or provides strong guidance about the
+    health treatment regardless of the health issue.
+
+Supportiveness: You will judge if a document supports the treatment
+in question. The grades of supportiveness are:
+2. Dissuades: The document would dissuade a user not to use the
+    treatement.
+1. Neutral: The document neither supports or dissuades use of the
+    treatement.
+0. Supportive: The document would support a decision to use the
+    treatement.
+
+Credibility: You will take into account your opionion of the purpose
+of the document, the correctness of information, the amount of
+expertise, authoritativeness and trustworthiness. You will judge
+this independently from usefulness.
+The grades of credibility are:
+0. Low: There is little evidence to believe or trust the document.
+1. Good: While not the highest credibility, these pages are not low
+    credibility.
+2. Excellent: For the most credible documents. These documents are
+    unquestionably trustworthy and authoritative.
+
+A person has the following question:
+
+Can folic acid help improve cognition and treat dementia?
+
+Description of what is considered very-useful or useful:
+
+Dementia is a general term for loss of cognitive abilities that severely affects daily activities. Folates are vitamins essential to the development of the central nervous system. A very useful document would discuss the effectiveness of folic acid to improve cognition and treat dementia. A useful document would help a user decide if folic acid could help improve cognition for people with dementia by providing information on recommended treatments for dementia, or folic acid as a medical treatment, or both.
+
+Consider the following document:
+
+Low Folic Acid & B12 Increases Dementia Risk
+Close
+Sample Product Name...
+Quantity
+Update
+Close
+Sample Item Name...
+has been updated in your cart
+Sign Up for Savings! Click Here
+By Signing up for our emails, you'll be the first to receive the best discounts InVite Health has to offer.
+Sign Up
+Connect with us
+Go
+Account
+If you do not have an account, click here.
+Support
+Stores
+Cart 0 items
+Health and
+Beauty
+Health and Beauty
+Anti Aging
+Baby Care
+Body Care
+Core Nutrition
+DNA Tests
+Foot Care
+Hair Vitamins
+Herbal Foot Care
+Invite Fitness
+Periodental
+Skin Cosmeceticals
+Weight Management Supplements
+Gift Cards
+New Products
+Hair, Skin & Nails
+Shop Now
+Super Foods
+& Digestion
+Super Foods & Digestion
+Antioxidant Supplements
+Digestive Supplements
+Herbal Health Supplements
+Liver Detoxifers
+Superfoods
+Gift Cards
+New Products
+Greens Hx
+Shop Now
+Vitamins &
+Supplements
+Vitamins & Supplements
+Invite Core Nutritional Program
+Multivitamins
+Tinctures
+Womens Health
+Mens Health
+Childrens Vitamins
+Anti Aging
+Blood Sugar Health
+Bone Health
+Brain Health
+Cholesterol Supplements
+Dietary Blood Sugar Health
+Digestive Health
+Energy Supplements
+Eye Health Vitamins
+Heart Health supplements
+Herbal Health Vitamins
+His and Hers Multi-Vitamins
+Immune System Vitamins
+Joint Health Supplements
+Liver Health
+Mineral Supplements
+Muscle Recovery Supplements
+Respiratory Health
+Stress Management
+Weight Management Supplements
+Women's Vitamins
+Gift Cards
+New Products
+InVite Core Multi
+Shop Now
+Dr Pressman
+Dr Pressman
+Brain Health
+Bone Health
+Digestive Health
+Energy
+Heart Health
+Joint Health
+Liver and Detox
+Radio Specials
+Superfoods
+Gift Cards
+New Products
+Multi Energy Powder
+Shop Now
+True
+Collection
+True Collection
+Health and Beauty
+Multivitamin
+Superfoods - Packets
+Superfoods - Powders
+Gift Cards
+New Products
+True Beauty
+Shop Now
+Home &
+Lifestyle
+Home & Lifestyle
+DNA Tests
+Garmin
+Fitness Trackers
+Health Management
+Healthy Home
+Healthy Kitchen
+Healthy Office
+Invite Fitness
+Power Plant Muscle Fitness Supplements
+Gift Cards
+New Products
+Garmin activity tracker
+Shop Now
+Brands
+& CBD
+Brands & CBD
+Boiron Vitamins
+Heel Homepathic
+Integrative Theapeutics
+PhytoPharmica Vitamins
+Pure Vitamins
+Thorne Vitamins
+Topicals
+Tinctures
+Pet
+Edibles
+Gift Cards
+New Products
+CBD oil
+Shop Now
+New!
+Listen
+Listen
+Radio Offers
+Radio Shows
+Radio Studies
+Learn
+Learn
+Assess Your Health
+Dr. Pressman's Acid Reflux Diet Plan
+Drug-Induced Nutrient Depletion
+Independent Research Studies
+InVite® Health Blog
+Nutrition Articles
+Recipes
+Meet Our Nutritionists
+Rewards
+Home
+»
+Radio
+»
+February 2008
+»
+Low Folic Acid & B12 Increases Dementia Risk
+Low levels of Folic Acid and B12 increase your risk of developing dementia
+Tweet
+Feb 14, 2008
+The results of a new study from the Institute of Psychiatry in London and Chonnam National University Hospital Medical School show that both Folic Acid and Vitamin B12 are needed for brain health. In fact, lacking Folic Acid can increase your risk of developing dementia by an astounding 350%. The researchers followed 518 people, average age of 73, for 2.4 years. All participants were free of dementia at the start of the study. At the end of the 2.4 year study, 45 people had developed dementia (34 with Alzheimer’s disease, 7 with vascular dementia, and 4 with other types of dementia). If folic acid levels fell over the study period and conversely, the level of homocysteine rose, you were significantly more likely to develop dementia. The level of Folic Acid was connected to the level of Vitamin B12. Homocysteine is an intermediary in protein metabolism that rises if you are low in the B-complex vitamin Folic Acid, and elevated homocysteine causes inflammation in the brain, blood vessels, and in other tissues. The study is published online ahead of print in the Journal of Neurology, Neurosurgery, and Psychiatry.
+A low level of Vitamin B12 and also Folic Acid tied to a quicker rate of cognitive decline and having sufficient B12 slows this decline
+The purpose of this study was to evaluate the risk of mental decline in relation to levels of B12 or Folic Acid. In their study, researchers from Oxford University in the UK and Trinity College in Dublin, Ireland, investigated the level of homocysteine and other markers of vitamin status at 3 junctures over a 10-year period and compared them to levels of Vitamin B12 and Folic Acid while also giving the study subjects a test to evaluate mental status in a total of 1,648 participants. Brain function declined abruptly at younger ages in some participants but remained intact in others until very old age. The scientists looked at levels of holotranscobalamin in the subjects; this level increases as Vitamin B12 status improves. They also looked at the levels of homocysteine (this increases as levels of both folic acid and B12 decrease) and methylmalonic acid (this increases with a decrease in the body's B12 reserve). Having a lowered level of holotranscobalamin and elevated levels of both homocysteine and methylmalonic acid predicted a decline in cognitive function. If the level of holotranscobalamin, a sensitive marker of sufficient B12, doubled, this indicated a 30% slower rate of cognitive decline. A doubling of homocysteine or methylmalonic acid was disastrous, indicating a 50% or greater respectively more rapid cognitive decline; all of this indicates that it is a lower level of Vitamin B12 that is more important for the loss of mental function with aging. The message is to get adequate B12 and also Folic Acid to protect your mental function. The study is published in the November 2007 issue of the American Journal of Clinical Nutrition.
+Sales: (800) 632-0541
+Customer Service:
+9AM - 5PM
+(800) 349-0929
+SHOP
+Getting Started InVite® Core Program InVite® Multivitamins Shop Dr. Pressman Products Specials / Radio Offers New Products All Categories All InVite® Health products Rewards FAQ's Shopping Cart
+Getting Started
+InVite® Core Program
+InVite® Multivitamins
+Shop Dr. Pressman Products
+Specials / Radio Offers
+New Products
+All Categories
+All InVite® Health products
+Rewards FAQ's
+Shopping Cart
+SITEMAP
+Home Sign In / Create Account About Us Affiliate Program Franchise Opportunities Catalog Request Privacy Statement InVite® Health Blog Contact Us Find A Store
+Home
+Sign In / Create Account
+About Us
+Affiliate Program
+Franchise Opportunities
+Catalog Request
+Privacy Statement
+InVite® Health Blog
+Contact Us
+Find A Store
+SIGN UP FOR SAVINGS
+By signing up for our emails, you'll be the first to receive the best discounts InVite® Health has to offer.
+© 2019 InVite Health. All Rights Reserved.
+*These statements have not been evaluated by the Food and Drug Administration. These products are not intended to treat, diagnose, cure, or prevent any disease.
+All customer information is kept confidential. We do not give, rent or sell our customer information. Customer information is kept for company records only.
+Home
+Shop
+Shop
+back
+All Categories
+Dr. Pressman Products
+Getting Started
+InVite® Order FAQs
+Rewards Program
+Specials & Radio Offers
+Listen
+Listen
+back
+Radio Offers
+Radio Shows
+Radio Studies
+Visit
+Visit
+back
+Meet the Experts
+Store Locations
+Learn
+Learn
+back
+Assess Your Health
+Dr. Pressman’s Acid Reflux Diet Plan
+Drug-Induced Nutrient Depletion
+Independent Research Studies
+InVite® Health Blog
+Nutrition Articles
+Recipes
+Walking Challenge
+Account
+Support
+Stores
+Cart
+Go
+Customer Service 9am-5pm
+(800) 349-0929
+Sales (800) 632-0541
+', //	nextArrow: '
+' //}); $("#popular-products ul").slick({ infinite: true, prevArrow: '
+', nextArrow: '
+', slidesToShow: 5, slidesToScroll: 5, slide: 'li', responsive: [{ breakpoint: 1024, settings: { slidesToShow: 4, slidesToScroll: 4 } },{ breakpoint: 900, settings: { slidesToShow: 3, slidesToScroll: 3 } },{ breakpoint: 640, settings: { slidesToShow: 2, slidesToScroll: 2 } },{ breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }] }); } // Category page banner if( $("body").hasClass('category') ){ var catTitle = $(".category-content header h1").text(); $(".category-content header").remove(); if( $(".banner-image").length ){ var catImage = $(".banner-image").attr('src'), catBanner = '
+' + catTitle + '
+'; $("#header").after(catBanner); $(".category-header").hide(); } } // Product carousel if( $("body").hasClass('product') ){ $(".related-products ul").slick({ infinite: true, prevArrow: '
+', nextArrow: '
+', slidesToShow: 5, slidesToScroll: 5, slide: 'li', responsive: [{ breakpoint: 1024, settings: { slidesToShow: 4, slidesToScroll: 4 } },{ breakpoint: 900, settings: { slidesToShow: 3, slidesToScroll: 3 } },{ breakpoint: 700, settings: { slidesToShow: 2, slidesToScroll: 2 } },{ breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }] }); } // Dropdown links $("#footer select.mobile").on('change', function () { var url = $(this).val(); if( url ){ window.location = url; } return false; }); });
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.

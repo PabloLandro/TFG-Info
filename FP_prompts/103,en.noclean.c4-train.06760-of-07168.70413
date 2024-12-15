@@ -1,0 +1,676 @@
+You are a misinformation assesor evaluating the credibility of
+health related documents.
+Your job is to assess documents on:
+1) Does this document contain material that the search user might
+    find useful in answering the question?
+2) Does the document contain information that supports/dissuades
+    the use of the treatment in the question?
+3) How credible is the document?
+
+You are given a question from a search user that wants an answer
+and a document. You are also provided with a specific explanation
+of what is considered very-useful or useful.
+You must provide three diferent scores as described:
+
+Usefulness: You will judge the document based on the degree to
+which a user would find the document useful for helping make the
+question. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful, and it would
+    make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the use of the treatment
+    for the health issue or provides strong guidance about the
+    health treatment regardless of the health issue.
+
+Supportiveness: You will judge if a document supports the treatment
+in question. The grades of supportiveness are:
+2. Dissuades: The document would dissuade a user not to use the
+    treatement.
+1. Neutral: The document neither supports or dissuades use of the
+    treatement.
+0. Supportive: The document would support a decision to use the
+    treatement.
+
+Credibility: You will take into account your opionion of the purpose
+of the document, the correctness of information, the amount of
+expertise, authoritativeness and trustworthiness. You will judge
+this independently from usefulness.
+The grades of credibility are:
+0. Low: There is little evidence to believe or trust the document.
+1. Good: While not the highest credibility, these pages are not low
+    credibility.
+2. Excellent: For the most credible documents. These documents are
+    unquestionably trustworthy and authoritative.
+
+A person has the following question:
+
+Can folic acid help improve cognition and treat dementia?
+
+Description of what is considered very-useful or useful:
+
+Dementia is a general term for loss of cognitive abilities that severely affects daily activities. Folates are vitamins essential to the development of the central nervous system. A very useful document would discuss the effectiveness of folic acid to improve cognition and treat dementia. A useful document would help a user decide if folic acid could help improve cognition for people with dementia by providing information on recommended treatments for dementia, or folic acid as a medical treatment, or both.
+
+Consider the following document:
+
+The C.A.M. Report » Folic Acid
+Recent Posts
+B vitamins and the risk of dementia
+CAM options for treating depression
+The effect of prenatal folic acid on language in children
+Dietary supplements and the risk of death in older women
+Options to prevent colorectal cancer
+Adding tai chi improves antidepressant drug therapy
+The value of nutritional supplements in older adults
+Supplements or food to prevent heart disease in women?
+CAM for major depressive therapy
+CAM (not St John’s wort) to treat depression
+Do B vitamins and folic acid affect cognitive function?
+Folic acid and prostate cancer risk
+Effects of US healthcare reform on CAM
+The effect of diet on depression in older people
+Vitamins to prevent macular degeneration
+Prenatal use of folic acid and child development
+Should we add CAM to Rx treatments?
+Caution on folic acid food fortification
+March was colorectal cancer month
+Benefits and risks of vegan diets
+Recent Comments
+Archive for the 'Folic Acid' Category
+B vitamins and the risk of dementia
+Saturday, December 3rd, 2011
+Researchers at Harvard Medical School, in Boston, examined the effect of taking folic acid, vitamin B-12, and vitamin B-6 on cognitive change in women with cardiovascular disease or risk factors cardiovascular disease. (more…)
+Alzheimer's Dementia, Folic Acid, Heart Disease, Vitamins | Comments (0)
+CAM options for treating depression
+Tuesday, October 25th, 2011
+Emily Matthews, a reader of this blog, provides this overview of depression and complementary treatment options.
+About 20 million Americans suffer from clinical depression. Low levels of serotonin, a neurotransmitter, are thought to contribute to depression. Depression is also associated with diseases like diabetes, heart disease, chronic pain, hormonal imbalance, hypoglycemia, stress, impaired thyroid function, environmental toxins, and unhealthy lifestyles. (more…)
+Anxiety (Panic)/Depression, Cognitive-Behavioral Therapy, Folic Acid, Kava, Omega-3 Fatty Acids, St. John's Wort, Vitamins | Comments (0)
+The effect of prenatal folic acid on language in children
+Sunday, October 23rd, 2011
+An international group of researchers examined the association between mothers’ use of prenatal folic acid supplements and the risk of severe language delay in their children at age 3 years. (more…)
+Children, Folic Acid, Pregnancy | Comments (0)
+Dietary supplements and the risk of death in older women
+Tuesday, October 11th, 2011
+Dietary supplements are commonly taken to prevent chronic disease.
+Researchers in Finland, Norway, and the Republic of Korea studied the long-term health consequences. (more…)
+Calcium, E. DIETARY, Folic Acid, Iron, Magnesium, Vitamins, Zinc | Comments (0)
+Options to prevent colorectal cancer
+Tuesday, June 28th, 2011
+Colorectal cancer is strongly associated with a Western lifestyle.
+Researchers at Harvard Medical School, in Boston, present an overview of the evidence. (more…)
+Calcium, Cancer, E. DIETARY, Exercise, Folic Acid, Obesity, Smoking Cessation, Vitamin D, Vitamins | Comments (0)
+Adding tai chi improves antidepressant drug therapy
+Saturday, June 25th, 2011
+During the New Clinical Drug Evaluation Unit Meeting, researchers at David Geffen School of Medicine at the University of California, Los Angeles, reported that adding tai chi to escitalopram (Lexapro, Cipralex, Seroplex) treatment further reduced the severity of depression. (more…)
+Anxiety (Panic)/Depression, Elderly, Folic Acid, SAMe, Tai Chi | Comments (0)
+The value of nutritional supplements in older adults
+Tuesday, May 24th, 2011
+We commonly take them, but studies show mixed results regarding their health benefits, according to researchers at Duke University Medical Center, in Durham, North Carolina. (more…)
+Alzheimer's Dementia, Anxiety (Panic)/Depression, Cancer, Folic Acid, Heart Disease, Macular Degeneration, Omega-3 Fatty Acids, Stroke, Vitamins | Comments (0)
+Supplements or food to prevent heart disease in women?
+Saturday, May 7th, 2011
+Researchers at the MedStar Research Institute, in Hyattsville, Maryland, reviewed studies of nutrition in women.
+Those emphasizing gender differences in nutritional requirements were selected for this review. (more…)
+Cholesterol/Lipids, E. DIETARY, Flavonoids (Soy), Folic Acid, Heart Disease, Vitamin D, Vitamins | Comments (0)
+CAM for major depressive therapy
+Friday, April 15th, 2011
+The American Psychiatric Association’s Task Force on Complementary and Alternative Medicine reviewed the evidence and report their findings.
+Here are their findings. (more…)
+Acupuncture/ pressure, Anxiety (Panic)/Depression, Exercise, Folic Acid, Light Therapy, Mindfulness, Omega-3 Fatty Acids, SAMe, St. John's Wort | Comments (0)
+CAM (not St John’s wort) to treat depression
+Tuesday, April 12th, 2011
+Researchers at Goulds Naturopathica, in Hobart TAS, Australia, reviewed the evidence. (more…)
+Acupuncture/ pressure, Anxiety (Panic)/Depression, Exercise, Folic Acid, Lavender, Light Therapy, Mindfulness, Omega-3 Fatty Acids, Rhodiola Rosea, Saffron, SAMe, St. John's Wort | Comments (0)
+Do B vitamins and folic acid affect cognitive function?
+Wednesday, January 26th, 2011
+Researchers at the University of Western Australia, in Crawley, studied B6, B12, and folic acid. (more…)
+Alzheimer's Dementia, Folic Acid, High Blood Pressure, Vitamins | Comments (0)
+Folic acid and prostate cancer risk
+Wednesday, June 23rd, 2010
+The effects of folic acid-containing supplements may differ from natural sources of folate, according to the University of Southern California, Los Angeles. (more…)
+Cancer, Folic Acid, Prostate | Comments (0)
+Effects of US healthcare reform on CAM
+Wednesday, April 7th, 2010
+Jane Hoback, writing in Natural Foods Merchandiser, has listed areas of interest to CAM practitioners. (more…)
+Calcium, CAM Politics, FDA/FTC/CDC, Fiber, Flavonoids (Soy), Folic Acid, Vitamin D | Comments (0)
+The effect of diet on depression in older people
+Sunday, December 13th, 2009
+Claire Williamson, Nutrition Scientist at the British Nutrition Foundation in London, has reviewed the evidence. (more…)
+Anxiety (Panic)/Depression, Folic Acid, Omega-3 Fatty Acids, Vitamins | Comments (0)
+Vitamins to prevent macular degeneration
+Wednesday, October 21st, 2009
+Age-related macular degeneration (AMD) is the leading cause of severe irreversible vision loss in older Americans.
+Researchers from Harvard Medical School in Boston examined the combined effect of folic acid, pyridoxine hydrochloride (vitamin B6), and cyanocobalamin (vitamin B12) on the risk of AMD. (more…)
+Folic Acid, Macular Degeneration, Vitamins | Comments (0)
+Prenatal use of folic acid and child development
+Wednesday, October 14th, 2009
+The benefits and risks of folic acid fortification of food â€“ once thought to be clear — are being debated again.
+In this study from researchers at the University of Iowa, the effects of prenatal use of folic acid (and other dietary supplements) on child development at 3 years of life were evaluated. This summary focuses on the folic acid results. (more…)
+Birth Defects, Children, Folic Acid, Pregnancy, Stroke | Comments (0)
+Should we add CAM to Rx treatments?
+Tuesday, July 21st, 2009
+Â Researchers from the University of Queensland, in Australia evaluated the evidence for adding nutritional and herbal medicines to antidepressants, mood stabilizers, and benzodiazepines. (more…)
+Anxiety (Panic)/Depression, Diet-Nutrition, Folic Acid, Herbals, Omega-3 Fatty Acids, SAMe | Comments (0)
+Caution on folic acid food fortification
+Wednesday, April 22nd, 2009
+Folate depletion is associated with an increased risk of colorectal cancer.
+But research from the University of Chile, in Santiago suggests, “A folate fortification program could be associated with an additional risk of colon cancer.” (more…)
+Diet-Nutrition, Folic Acid, Infants, Pregnancy | Comments (0)
+March was colorectal cancer month
+Tuesday, March 31st, 2009
+Here’s a summary of what has been covered on this site about CAM and colorectal cancer. (more…)
+Cancer, Exercise, Flavonoids (Soy), Folic Acid, Lycopene, Omega-3 Fatty Acids, Vitamins | Comments (0)
+Benefits and risks of vegan diets
+Sunday, March 15th, 2009
+Â Veganism is a diet and lifestyle that excludes using animals for food, clothing, or any other purpose.
+Dr. Winston Craig from Andrews University, in Berrien Springs, Michigan reviews both, and makes recommendations. (more…)
+Calcium, Cholesterol/Lipids, Diet-Vegan, Fiber, Folic Acid, Heart Disease, Omega-3 Fatty Acids, Vitamins | Comments (0)
+Search
+Worthy Quotes
+Everyone wants to be Carry Grant. Even I want to be Carry Grant. - Cary Grant
+Categories
+A. ALTERNATIVE MEDICAL SYSTEMS
+Acupuncture/ pressure
+Anthroposophy
+Ayurveda
+Buteyko Method
+Chinese Medicine
+Cupping
+Homeopathy
+Kampo
+Mesotherapy
+Moxibustion
+Naturopathy
+Vibrational
+B. MANIPULATIVE METHODS
+Alexander
+Balance Training
+Balneotherapy
+Bodywork
+Breathing
+Chelation
+Chiropractic
+Exercise
+Feldenkrais
+Hydrotherapy
+Injection (Prolotherapy)
+Kinesiology
+Massage
+McKenzie Method
+Naprapathy
+Nasal Irrigation
+Occupational Therapy
+Osteopathic
+Physiotherapy
+Pilates
+Reflexology
+Reiki
+Rolfing
+TENS/FNS/VNS
+Therapeutic Touch
+Walking
+C. MIND-BODY THERAPIES
+Animal-assisted Therapy
+Aromatherapy
+Art, Music, Dance
+Biofeedback
+Caregiving
+Cognitive-Behavioral Therapy
+Guided Imagery
+Hypnosis
+Light Therapy
+Meditation
+Mindfulness
+Relaxation
+Religion/ Spirituality
+Snoezelen
+Stress Management
+Tai Chi
+Yoga
+D. ENERGY THERAPIES
+Johrei
+Magnets
+Polarity
+Qigong
+Reiki/Touch
+E. DIETARY
+Basil
+Bitter Melon
+Blackcurrant
+Caffeine
+Calcium
+Cayenne
+Chamomile
+Chocolate
+Cinnamon
+Cod-liver oil
+Coffee
+Cranberry
+Diet-Energy Density
+Diet-Ketogenic
+Diet-Mediterranean
+Diet-Nutrition
+Diet-Vegan
+Fiber
+Flavonoids (Soy)
+Flaxseed
+Folic Acid
+Garlic
+Ginger
+Guava
+Honey (incl Medihoney)
+Iodine
+Iron
+Kelp
+Kiwi
+Lemon/Lime
+Licorice
+Lycopene
+Magnesium
+Myers' formula
+Nattokinase
+Omega-3 Fatty Acids
+Omega-6 Fatty Acids
+Onion
+Organic foods
+Peppermint Oil
+Pomegranate
+Red Yeast Rice
+Tea
+Trans Fats
+Turmeric
+Vitamin D
+Vitamins
+Zinc
+F. BIOLOGICALS
+Bee Pollen
+Carnitine
+Chitosan
+Larval (Maggot) Tx
+Lecithin
+Leeches
+Peppermint Oil
+Pre, Pro, Synbiotics
+G. BOTANICALS
+Aloe Vera
+Arnica
+Artesunate
+Berberine (Goldenseal)
+Bitter Orange
+Black Chokeberry
+Black/Blue Cohosh
+Boswellia
+Butterbur
+Capsicum
+Chaparral
+Chasteberry
+Chinese Skullcap
+Clove Oil
+Comfrey Root
+Coneflower
+Damiana Leaf
+Danshen
+Dashmoola
+Devil's Claw
+Dong Quai
+Echinacea
+Ephedra
+Eucalyptus
+Evening Primrose
+Fenugreek
+Feverfew
+Germander
+Ginkgo
+Ginseng
+Glucosamine/ Chondroitin
+Goji Berries
+Guarana
+Hawthorn
+Herbals
+Hibiscus
+Hoodia
+Horny Goat Weed
+Horse Chestnuts
+Huangqi
+Kava
+Lavender
+Marijuana (Cannabinoids)
+Marshmallow
+Milk Thistle
+Mistletoe
+Motherworth
+Passionflower
+Pelargonium
+Phytodolor
+Pine Bark Extract
+Policosanol
+Polyphenon E
+Poppy
+Prickly Pear
+Raspberry Leaf
+Rhodiola Rosea
+Rosemary
+Saffron
+Salacia oblonga
+Saw Palmetto
+Senna
+Slippery Elm
+St. John's Wort
+Suxiao Jiuxin
+Tea Tree Oil
+Valerian
+Wheatgrass
+White Willow
+Wintergreen
+Witchbane
+Wolfsbane
+Yam Extract
+Yohimbine
+H. CHEMICALS
+Alcohol Sanitizers
+Aristolochic Acid
+Bromelain
+Camphor
+Capsaicin
+Chromium
+Coal Tar
+Copper
+Epsom Salt
+Heavy Metals
+Menthol
+MSN
+Saline
+SAMe
+Selenium
+Sunscreen
+Ylang-Ylang Oil
+I. PROTEIN/ENZYMES
+Coenzyme Q10
+Creatine
+DHEA
+Guggulsterones
+Huperzine A
+Inositol
+L-arginine
+Melatonin
+N-acetylcysteine
+Papain
+Phytoestrogens
+Quercetin
+Resveratrol
+J. CONDITIONS TO TREAT
+Acne/Rosacea
+ADHD
+Alcoholism/Drug Abuse
+Alopecia
+Alzheimer's Dementia
+Amyotrophic Lateral Sclerosis
+Anemia
+Angina Pectoris
+Ankylosing Spondylitis
+Anxiety (Panic)/Depression
+Asthma/Allergy
+Autism
+Bed Wetting
+Birth Defects
+Bleeding Disorders
+Bone Fracture
+Bruxism
+Burns
+Cancer
+Carpal Tunnel Syndrome
+Cerebral Palsy
+Cholesterol/Lipids
+Colonoscopy
+Common Cold
+COPD
+Cough
+Cramps
+Cystic Fibrosis
+Dental Health
+Dermatitis
+Diabetes Mellitus
+Diarrhea/Constipation
+Diverticular Disease
+Dysgeusia
+Dyslexia
+Emphysema
+Enuresis (bed wetting)
+Epilepsy/Seizures
+Erectile Dysfunction
+Fatigue
+Fibromyalgia
+Fistulas
+Gallbladder
+Genital Warts
+GERD
+Glaucoma
+Gout
+Headache/Migraine
+Heart Disease
+Heartburn
+Hemorrhoids
+High Blood Pressure
+HIV/AIDS
+Huntington's
+Incontenence: Urinary
+Incontinence: Fecal
+Indigestion
+Infection
+Infertility
+Inflammatory Bowel Disease
+Irritable Bowel Syndrome
+Jet Lag
+Kidney Disease
+Knee Replacement
+Liver Disease
+Macular Degeneration
+Malaria
+Meniere's disease
+Menopause
+Menstruation
+Metabolic Syndrome
+Migraine
+Motion Sickness
+Mountain Sickness
+Multiple Sclerosis
+Myasthenia Gravis
+Nausea/Vomiting
+Obesity
+Obsessive Compulsive
+Osteoarthritis
+Osteoporosis
+Pain
+Pain-Back
+Pain-Knee
+Pain-Neck
+Pain-Neuropathic
+Pain-Shoulder
+Pancreas
+Parkinson's
+Periodontal Disease
+Phenylketonuria
+Phobia
+PMS/Dysmenorrhea
+Pouchitis
+Prostate
+Psoriasis
+Psychosis
+Raynaud's Disease
+Retinopathy
+Rheumatoid Diseases
+Rumination
+SAD
+Scabies
+Schizophrenia
+Sciatica
+Scoliosis
+Sexual Dysfunction
+Shingles
+Sickle Cell Disease
+Sleep (Insomnia)
+Sleep Apnea
+Smoking Cessation
+Spinal Cord
+Stress
+Stroke
+Substance Abuse
+Surgery
+Swallowing (Dysphagia)
+Temporomandibular Disorders
+Thalassemia
+Thyroid
+Tinnitus/Vertigo
+Trauma
+Ulcers
+Uterine Bleeding
+Venous Insufficiency
+Whiplash
+K. SPECIAL GROUPS
+Breastfeeding
+Children
+Elderly
+Infants
+Palliative/End of Life
+Pregnancy
+L. AGENCIES/REVIEWERS
+Cochrane Library
+ConsumerLab
+FDA/FTC/CDC
+Mendelsohn and Larrick
+NCCAM
+Prof. Ernst
+Wallace Sampson
+THINGS THAT DON'T FIT ABOVE
+CAM Cost Effectiveness
+CAM Education
+CAM Interactions
+CAM Politics
+CAM Use
+Chewing gum
+Consumer Alert
+Electronic Media
+Genetics
+Tanning
+Archive
+March 2017
+February 2017
+December 2016
+July 2016
+April 2016
+July 2015
+June 2015
+September 2014
+March 2014
+January 2014
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+February 2009
+January 2009
+December 2008
+November 2008
+October 2008
+September 2008
+August 2008
+July 2008
+June 2008
+May 2008
+April 2008
+March 2008
+February 2008
+January 2008
+December 2007
+November 2007
+October 2007
+September 2007
+August 2007
+July 2007
+June 2007
+May 2007
+April 2007
+March 2007
+February 2007
+January 2007
+December 2006
+November 2006
+October 2006
+September 2006
+August 2006
+July 2006
+June 2006
+Links
+Bastyr University: An academic center for natural medicine
+British Medical Journal Complementary Medicine
+British Medical Journal of Complementary Medicine
+Cochrane Collaboration: An evidence-based medicine resource
+Complementary and Alternative Medicine Law Blog
+ConsumerLab: Independent test results on CAM products
+Mayo Clinic: CAM Reviews
+Natural Standard: Evidence-based CAM reviews
+NutritionData: Analysis of foods and recipies
+OCCAM: NCI Office of Cancer, CAM Medicine
+Pallimed: Reivews on palliative care
+UC Berkeley Wellness Letter: Commonsense health recommendations
+Meta
+Log in
+The C.A.M. Report is proudly powered by WordPress 5.1.1
+Theme "Clueless" design by: beng hafner
+Entries (RSS) and Comments (RSS).
+117 queries. 1.272 seconds.
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.

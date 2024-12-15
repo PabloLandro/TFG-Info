@@ -1,0 +1,171 @@
+You are a misinformation assesor evaluating the credibility of
+health related documents.
+Your job is to assess documents on:
+1) Does this document contain material that the search user might
+    find useful in answering the question?
+2) Does the document contain information that supports/dissuades
+    the use of the treatment in the question?
+3) How credible is the document?
+
+You are given a question from a search user that wants an answer
+and a document. You are also provided with a specific explanation
+of what is considered very-useful or useful.
+You must provide three diferent scores as described:
+
+Usefulness: You will judge the document based on the degree to
+which a user would find the document useful for helping make the
+question. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful, and it would
+    make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the use of the treatment
+    for the health issue or provides strong guidance about the
+    health treatment regardless of the health issue.
+
+Supportiveness: You will judge if a document supports the treatment
+in question. The grades of supportiveness are:
+2. Dissuades: The document would dissuade a user not to use the
+    treatement.
+1. Neutral: The document neither supports or dissuades use of the
+    treatement.
+0. Supportive: The document would support a decision to use the
+    treatement.
+
+Credibility: You will take into account your opionion of the purpose
+of the document, the correctness of information, the amount of
+expertise, authoritativeness and trustworthiness. You will judge
+this independently from usefulness.
+The grades of credibility are:
+0. Low: There is little evidence to believe or trust the document.
+1. Good: While not the highest credibility, these pages are not low
+    credibility.
+2. Excellent: For the most credible documents. These documents are
+    unquestionably trustworthy and authoritative.
+
+A person has the following question:
+
+Can folic acid help improve cognition and treat dementia?
+
+Description of what is considered very-useful or useful:
+
+Dementia is a general term for loss of cognitive abilities that severely affects daily activities. Folates are vitamins essential to the development of the central nervous system. A very useful document would discuss the effectiveness of folic acid to improve cognition and treat dementia. A useful document would help a user decide if folic acid could help improve cognition for people with dementia by providing information on recommended treatments for dementia, or folic acid as a medical treatment, or both.
+
+Consider the following document:
+
+Folic Acid Inhibits Amyloid β-Peptide Production through Modulating DNA Methyltransferase Activity in N2a-APP Cells.
+BioPortfolio
+Biotech, Healthcare and Medical Resources
+BioPortfolio
+Menu
+Loading
+Topics
+All Topics Biotechnology Biotech Business Biotech Products Cancer Cardiovascular Dermatology Drug Discovery Endocrinology Gastroenterology Immunology Infectious Diseases Mental Health Neurology Obstetrics Orthopedics Public Health Respiratory Rheumatology Urology Track topics Track topics important to you
+World Biotech and Healthcare News
+Published Research
+Market Reports
+Channels
+Clinical Trials
+Drugs
+Corporations
+Advertisement
+Topics
+All Topics Biotechnology Biotech Business Biotech Products Cancer Cardiovascular Dermatology Drug Discovery Endocrinology Gastroenterology Immunology Infectious Diseases Mental Health Neurology Obstetrics Orthopedics Public Health Respiratory Rheumatology Urology
+Track topics on Twitter Track topics that are important to you
+Printed From BioPortfolio.com
+Folic Acid Inhibits Amyloid β-Peptide Production through Modulating DNA Methyltransferase Activity in N2a-APP Cells.
+07:00 EST 1st January 2000 | BioPortfolio
+Home » Topics » Alzheimer's Disease » Research » Folic Acid Inhibits Amyloid β-Peptide Production through Modulating DNA Methyltransferase Activity in N2a-APP Cells.
+Summary of "Folic Acid Inhibits Amyloid β-Peptide Production through Modulating DNA Methyltransferase Activity in N2a-APP Cells."
+Alzheimer's disease (AD) is a common neurodegenerative disease resulting in progressive dementia, and is a principal cause of dementia among older adults. Folate acts through one-carbon metabolism to support the methylation of multiple substrates. We hypothesized that folic acid supplementation modulates DNA methyltransferase (DNMT) activity and may alter amyloid β-peptide (Aβ) production in AD. Mouse Neuro-2a cells expressing human APP695 were incubated with folic acid (2.8-40 μmol/L), and with or without zebularine (the DNMT inhibitor). DNMT activity, cell viability, Aβ and DNMTs expression were then examined. The results showed that folic acid stimulated DNMT gene and protein expression, and DNMT activity. Furthermore, folic acid decreased Aβ protein production, whereas inhibition of DNMT activity by zebularine increased Aβ production. The results indicate that folic acid induces methylation potential-dependent DNMT enzymes, thereby attenuating Aβ production.
+Affiliation
+Journal Details
+This article was published in the following journal.
+Name: International journal of molecular sciences
+ISSN: 1422-0067
+Pages: 25002-25013
+Links
+PubMed Source: http://www.ncbi.nlm.nih.gov/pubmed/26492244
+DOI: http://dx.doi.org/10.3390/ijms161025002
+PubMed Articles [16601 Associated PubMed Articles listed on BioPortfolio]
+Evaluation of folic acid supplementation by concomitant administration of ethinyl estradiol + levonorgestrel in healthy female subjects .
+Folic acid supplementation prevents 50 - 75% of cases of neural tube defects. This study evaluated the folic acid supplementation after oral administration of the ethinyl estradiol 0.02 mg + levonor...
+Efficacy of Folic Acid and Vitamin B Replacement Therapies in the Reduction of Adverse Effects of Isotretinoin: A Randomized Controlled Trial.
+Previous studies have reported elevated homocysteine levels and folic acid and/or vitamin B deficiencies after isotretinoin therapy, which increase the risk of cardiovascular and neuropsychiatric diso...
+Amyloid aggregation of Bacillus circulans xylanase under a native condition and its modulation by beta-amyloid-derived peptide fragments.
+Aggregation of intrinsically disordered proteins into fibrils is implicated in many neurodegenerative diseases. Amyloid aggregation is a generic property of proteins as evidenced by globular proteins ...
+Maternal Folic Acid Deficiency Stimulates Neural Cell Apoptosis via miR-34a Associated with Bcl-2 in the Rat Foetal Brain.
+Embryonic development is a critical period wherein brain neurons are generated and organized. Maternal dietary folate, a cofactor in one-carbon metabolism, modulates neurogenesis and apoptosis in foet...
+Folic Acid and Vitamin B12 Administration in CKD, Why Not?
+Patients affected by chronic kidney disease (CKD) or end-stage renal disease (ESRD) experience a huge cardiovascular risk and cardiovascular events represent the leading causes of death. Since traditi...
+Clinical Trials [5383 Associated Clinical Trials listed on BioPortfolio]
+Bioavailability Study of Folic Acid in Healthy Women
+The purpose of the study is to determine the bioavailability of orally administered folic acid compared with the i.v. administered folic acid, and to use the samples collected to validate ...
+Bioequivalence Study of the Oral Contraceptive (OC) Tablet Containing Norgestimate (NGM)/Ethinyl Estradiol (EE) With or Without Folic Acid in Healthy Women.
+The purpose of the study is to determine the bioequivalence of Norgestimate (NGM) and Ethinyl Estradiol (EE) in 2 formulations of 250 mcg NGM/25 mcg EE, 1 without folic acid and 1 containi...
+Evaluating the Effects of Folic Acid Supplementation in Older Adults: The Folic Acid Supplementation Trial (The FAST Study)
+High levels of homocysteine, which is an amino acid in the blood, have been linked to an increased risk of heart disease. This study will examine the effect that differing levels of folic ...
+Folic Acid and Creatine as Therapeutic Approaches for Lowering Blood Arsenic
+The purpose of this study is to determine whether folic acid, alone or together with creatine supplementation, can lower blood arsenic concentrations and improve the ability to detoxify ar...
+Multi-micronutrient Supplementation During Peri-conception and Congenital Heart Disease
+The purpose of this study is to determine whether daily oral supplements of vitamin B complex along with folic acid or supplements of iron plus folic acid given to women during peri-concep...
+Medical and Biotech [MESH] Definitions
+Leucovorin
+The active metabolite of FOLIC ACID. Leucovorin is used principally as its calcium salt as an antidote to folic acid antagonists which block the conversion of folic acid to folinic acid.
+Peptide Yy
+A 36-amino acid peptide produced by the L cells of the distal small intestine and colon. Peptide YY inhibits gastric and pancreatic secretion.
+Folate Receptors, Gpi-anchored
+Cell surface receptors that bind to and transport FOLIC ACID, 5-methyltetrahydrofolate, and a variety of folic acid derivatives. The receptors are essential for normal NEURAL TUBE development and transport folic acid via receptor-mediated endocytosis.
+Pteroylpolyglutamic Acids
+Derivatives of folic acid (pteroylglutamic acid). In gamma-glutamyl linkage they are found in many tissues. They are converted to folic acid by the action of pteroylpolyglutamate hydrolase or synthesized from folic acid by the action of folate polyglutamate synthetase. Synthetic pteroylpolyglutamic acids, which are in alpha-glutamyl linkage, are active in bacterial growth assays.
+Serum Amyloid P-component
+Amyloid P component is a small, non-fibrillar glycoprotein found in normal serum and in all amyloid deposits. It has a pentagonal (pentaxin) structure. It is an acute phase protein, modulates immunologic responses, inhibits ELASTASE, and has been suggested as an indicator of LIVER DISEASE.
+Advertisement
+Quick Links
+Advanced Search | Login | Subscribe | RSS
+Quick Search
+Advertisement
+Advertisement
+Relevant Topics
+Alzheimer's Disease
+Of all the types of Dementia, Alzheimer's disease is the most common, affecting around 465,000 people in the UK. Neurons in the brain die, becuase 'plaques' and 'tangles' (mis-folded proteins) form in the brain. People with Al...
+Bioinformatics
+Bioinformatics is the application of computer software and hardware to the management of biological data to create useful information. Computers are used to gather, store, analyze and integrate biological and genetic information which can then be applied...
+PubMed Database Quicklinks
+Search PubMed Journal Article Database
+Latest PubMed Articles
+PubMed Journal List
+Popular PubMed Articles
+Recent Journal Article Searches
+Searches Linking to this Article
+BioPortfolio Limited
+About Us
+Contact Us
+Social Media
+Twitter (200+ Accounts)
+Twitter
+Google+
+LinkedIn
+Publish Content
+Publish
+Publish Your Press Release
+Advertise
+Agreements
+Agreements
+Medical Disclaimer
+Privacy
+Tools
+MyBioPortfolio
+RSS
+Help
+FAQs
+Sitemaps
+XML Sitemap
+This site complies with the HONcode standard for trustworthy health information:
+Verify here.
+The information provided by BioPortfolio.com is not a substitute for professional medical advice, diagnosis or treatment. The BioPortfolio site is sponsored BioPortfolio Limited with offices at Stafford House, 10 Prince of Wales Road, Dorchester, DT1 1PW, England. If you are a legal copyright holder or a designated agent for such and you believe a post on this website falls outside the boundaries of “Fair Use” and legitimately infringes on your or your client's copyright we may be contacted concerning copyright matters here: Contact BioPortfolio.
+All rights reserved. All other trademarks recognized. Copyright © 1997-2019 BioPortfolio Limited. Site developed by Alacrify Ltd.
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.

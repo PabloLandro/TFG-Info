@@ -1,0 +1,134 @@
+You are a misinformation assesor evaluating the credibility of
+health related documents.
+Your job is to assess documents on:
+1) Does this document contain material that the search user might
+    find useful in answering the question?
+2) Does the document contain information that supports/dissuades
+    the use of the treatment in the question?
+3) How credible is the document?
+
+You are given a question from a search user that wants an answer
+and a document. You are also provided with a specific explanation
+of what is considered very-useful or useful.
+You must provide three diferent scores as described:
+
+Usefulness: You will judge the document based on the degree to
+which a user would find the document useful for helping make the
+question. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful, and it would
+    make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the use of the treatment
+    for the health issue or provides strong guidance about the
+    health treatment regardless of the health issue.
+
+Supportiveness: You will judge if a document supports the treatment
+in question. The grades of supportiveness are:
+2. Dissuades: The document would dissuade a user not to use the
+    treatement.
+1. Neutral: The document neither supports or dissuades use of the
+    treatement.
+0. Supportive: The document would support a decision to use the
+    treatement.
+
+Credibility: You will take into account your opionion of the purpose
+of the document, the correctness of information, the amount of
+expertise, authoritativeness and trustworthiness. You will judge
+this independently from usefulness.
+The grades of credibility are:
+0. Low: There is little evidence to believe or trust the document.
+1. Good: While not the highest credibility, these pages are not low
+    credibility.
+2. Excellent: For the most credible documents. These documents are
+    unquestionably trustworthy and authoritative.
+
+A person has the following question:
+
+Can folic acid help improve cognition and treat dementia?
+
+Description of what is considered very-useful or useful:
+
+Dementia is a general term for loss of cognitive abilities that severely affects daily activities. Folates are vitamins essential to the development of the central nervous system. A very useful document would discuss the effectiveness of folic acid to improve cognition and treat dementia. A useful document would help a user decide if folic acid could help improve cognition for people with dementia by providing information on recommended treatments for dementia, or folic acid as a medical treatment, or both.
+
+Consider the following document:
+
+Folic Acid (Vitamin B9) - Alzheimers disease, anaemia, anorexia, blood pressure, dementia, obsessive compulsive disorder, restlessleg syndrome, sickle cell,
+About Us
+Health Issues
+Contact Us
+Search
+Illnesses Remedies
+Home Page
+Illnesses & Conditions
+Herbal Remedies
+Home Remedies & Cures
+Vitamins & Supplements
+About Us
+Health Issues
+Contact Us
+A - Z of Vitamins & Supplements
+Help: To find Illnesses or Conditions associated with a Vitamin or Supplement. Select a letter from A - Z of Vitamins & Supplements. Or Scroll lists. Or Use Search.
+Folic Acid (Vitamin B9) Remedies
+BACK
+Folic acid (Vitamin B9), known as Folate, helps the body form healthy red blood cells, reduce the risk of central neural tube defects in unborn babies.
+Sources of Folic Acid: Chickpeas; Peas; Asparagus; Spinach; Liver; Brussels Sprouts, Broccoli and fortified breakfast cereals. By eating a varied and healthy, balanced diet, most people will get sufficient amounts of folic acid. If pregnant or trying for a baby speak to your doctor about taking a Folic Acid supplement.
+Folic Acid - Vitamin for Alzheimer’s Disease: 800 mcg (8 milligrams) a day is necessary to reduce homocysteine levels.
+Folic Acid - Vitamin for Anaemia: A deficiency of folic acid produces the same oversized red blood cells as a vitamin B12 deficiency. One of the most common causes of folic acid deficiency anaemia is simply not getting enough in the diet. Pregnant women are most at risk for folic acid anaemia because the need for folic acid increases by two-thirds during pregnancy. Adequate folic acid intake is essential from the start of pregnancy because it protects against spinal defects in the fetus. Anaemic people should take 400 mcg of folic twice a day.
+Folic Acid - Vitamin for Anorexia: Folic Acid can boost appetite. Take one tablet of 400 microgram daily until condition improves
+Folic Acid - Vitamin for Blood Pressure: Folic Acid also known as Foliate is a B vitamin necessary for the formation of red blood cells. It may help to lower high blood pressure in some people, possibly by reducing elevated homocysteine levels. Take 400 mcg daily.
+Folic Acid - Vitamin for Dementia: Folic acid can help in the prevention and management of dementia. Take one tablet of 300 microgram daily for 4 weeks to improve symptoms
+Folic Acid – Vitamin for Obsessive-Compulsive Disorder: (400 mcg) once a day.
+Folic Acid - Vitamin for Pregnancy: A deficiency of folic acid produces the same oversized red blood cells as a vitamin B12 deficiency. One of the most common causes of folic acid deficiency anaemia is simply not getting enough in the diet. Pregnant women are most at risk for folic acid anaemia because the need for folic acid increases by two-thirds during pregnancy. Adequate folic acid intake is essential from the start of pregnancy because it protects against spinal defects in the fetus. A woman should start consuming 400 mcg of folic acid a day at least one month before she becomes pregnant and the entire time while she is pregnant.
+Folic Acid – Vitamin for Restless Legs Syndrome (RLS): Folic Acid alleviates some of the physical sensations associated with restless leg syndrome. Folic acid is available in tablet form. Take 100 milligrams once daily.
+Folic Acid - Vitamin for Sickle Cell: Take folic acid supplements daily, and choose a healthy diet. Bone marrow needs folic acid and other vitamins to make new red blood cells. Your doctor may recommend a folic acid supplement. You can increase the number of vitamins you eat each day by choosing a diet that focuses on a variety of fruit and vegetables, as well as whole grains.
+Alzheimer's Disease
+Anaemia
+Anorexia
+Blood Pressure
+Dementia
+Obsessive-Compulsive Disorder
+Pregnancy
+Restless Legs Syndrome (RLS)
+Sickle Cell Anemia
+Comments
+Add Your Comment:
+Name:
+Email:
+Health Issues
+03
+April
+Antioxidants and a lower risk of age-related cataracts (ARC).
+A $5.7 billion global medical bill to restore sight for the estimated 45 million people with cataracts could be slashed in half by a diet rich in colourful fruits and vegetables, according to an international study.
+VIEW MORE
+17
+Dec
+HFMA lodges formal complaint over ‘irresponsible’ BBC Horizon programme prog
+UK-based trade group the Health Food Manufacturers Association (HFMA) has written a formal letter of complaint to the BBC about a controversial BBC2 Horizon programme about the food supplements industry.
+VIEW MORE
+03
+Oct
+BPA-Free, but Not Toxic-Free - Stop poisoning ourselves
+Consumers are demanding BPA-free products, but the alternatives are no safer. Despite this alarming data, nearly 81% of Americans have detectable levels of BPS in their urine.
+VIEW MORE
+Weights & Measures
+Herbal Terminology
+Herbal Preparations
+Herbal Research
+Privacy Policy
+Home
+Terms and Conditions
+Disclaimer
+Copyright
+Herbal and Natural Shop
+Legal
+Health Issues
+Devinia Sookia
+FAQs
+Contact Us
+Copyright © 2019 Natural Remedies and Cures. All rights reserved.
+DCP : Website Design
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.
