@@ -61,13 +61,21 @@ for topic_id in qrels:
         #print(f"WARN: Missing topic {topic_id} run")
         pass
 
+def get_kappa(TP, FP, FN, TN):
+    N = TP + FP + FN + TN
+    p0 = (TP + TN) / N
+    possitive_agreement = (TP + FN) * (TP + FP) / (N**2) 
+    negative_agreement = (TN + FN) * (TN + FP) / (N**2)
+    pe = possitive_agreement + negative_agreement
+    kappa = (p0 - pe) / (1 - pe)
+    return kappa
+
+
 def print_confussion(stat, pos_vals, name):
     TP = 0
     FP = 0
     FN = 0
     TN = 0
-
-    count_FP = 0
 
     for topic_id in runs:
         for doc_id in runs[topic_id]:
@@ -89,9 +97,6 @@ def print_confussion(stat, pos_vals, name):
             else:
                 if pred in pos_vals:
                     FP += 1
-                    if count_FP < 5:
-                        print(f"{topic_id}, {doc_id} is giving FP")
-                    count_FP += 1
                 else:
                     TN += 1
     
@@ -100,6 +105,12 @@ def print_confussion(stat, pos_vals, name):
 
     precision = TP / (TP+FP)
     print(f"Precision: {precision}")
+
+    MAE = 1 - precision
+    print(f"MAE: {MAE}")
+
+    kappa = get_kappa(TP, FP, FN, TN)
+    print(f"Cohen´s Kapa: {kappa}")
 
     recall = TP / (TP + FN)
     print(f"Recall: {recall}\n")
