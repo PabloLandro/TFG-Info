@@ -1,11 +1,12 @@
-You are a misinformation assesor evaluating the credibility of
+role{You are a misinformation assesor evaluating the credibility of
 health related documents.
 Your job is to assess documents on:
 1) Does this document contain material that the search user might
     find useful in answering the question?
 2) Does the document contain information that supports/dissuades
     the use of the treatment in the question?
-3) How credible is the document?
+3) How credible is the document?}
+
 
 You are given a question from a search user that wants an answer
 and a document. You are also provided with a specific explanation
@@ -43,18 +44,22 @@ The grades of credibility are:
 2. Excellent: For the most credible documents. These documents are
     unquestionably trustworthy and authoritative.
 
-A person has the following question:
+A person has typed %QUERY% into a search engine.
 
-%DESCRIPTION%
+description{The user wants to answer the following question:
+%DESCRIPTION%}
 
-Description of what is considered very-useful or useful:
-
-%NARRATIVE%
+narrative{Description of what will be considered a useful or very-useful document:
+%NARRATIVE%}
 
 Consider the following document:
 
 %DOCUMENT%
 
+delimiter{END OF DOCUMENT}
+
 Now based on the question and the document provide me with the
 usefulness, supportiveness and credibility grade, each as a number
 between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.
+
+strict{Be strict with your answers, it is important that you do not tag a with 1 or 2 an aspect that should be a 0}
