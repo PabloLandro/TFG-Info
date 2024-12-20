@@ -61,3 +61,5 @@ delimiter{END OF DOCUMENT}
 Now based on the question and the document provide me with the
 usefulness, supportiveness and credibility grade, each as a number
 between 0 and 2, in that same order, separated by spaces. Like "0 1 2" or "1 1 1". The output must be only those 3 numbers.
+
+strict{Be strict with your answers, it is important that you do not tag a with 1 or 2 an aspect that should be a 0}
