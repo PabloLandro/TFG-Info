@@ -34,11 +34,11 @@ payload = {
 def get_prompt(description, narrative, doc):
     return template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
-def evaluate(description, narrative, doc):    
+def evaluate(description, narrative, doc, prompt_template=template):    
 
     try:
         # Replace the fields in the template
-        prompt = template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
+        prompt = prompt_template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
         # Add a message to the payload
         payload["messages"] = [{"role": "user", "content": prompt}]
@@ -49,11 +49,12 @@ def evaluate(description, narrative, doc):
         # Check if the request was successful
         if response.status_code == 200:
             response_content = response.json()['choices'][0]['message']['content']
-            output_format = r'^(0|1|2) (0|1|2) (0|1|2)$'
+            output_format = r'^U=(0|1|2) S=(0|1|2) C=(0|1|2)$'
             if not bool(re.match(output_format,response_content)):
                 raise Exception(f"Error: Format of response invalid: {response_content}")
-            out = {}
-            out["u"], out["s"], out["cr"] = response_content.split()
+            matches = re.findall(r"(U|S|C)=(0|1|2)", response_content)
+            out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
+            print(out)
             return out
         else:
             # Handle error responses

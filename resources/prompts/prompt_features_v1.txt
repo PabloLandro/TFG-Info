@@ -67,6 +67,4 @@ Now based on the question and the document provide me with the
 usefulness, supportiveness and credibility grade, each as a number
 between 0 and 2. The output must be in this format: "U=0 S=1 C=2" or "U=1 S=1 C=1".
 
-{multiple}
-
 {strict}
