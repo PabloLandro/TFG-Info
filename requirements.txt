@@ -2,3 +2,4 @@ requests
 pyserini
 python-dotenv
 rbo
+tiktoken

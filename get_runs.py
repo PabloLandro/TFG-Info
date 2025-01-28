@@ -1,5 +1,5 @@
 from pyserini.search.lucene import LuceneSearcher
-from gpt import evaluate
+from gpt import evaluate, evaluate_batch
 from trec_utils import get_topics_dict, get_qrels_dict_all
 from itertools import combinations
 import json
@@ -76,7 +76,9 @@ def get_run_list(topic_list, qrels_name="all", exclude_list=[]):
             run_list[topic_id].append(doc_id)
     return run_list
 
-def run_run_list(prompt_template, run_list, num_runs=300, directory="runs"):
+history = {}
+
+def run_run_list(prompt_template, run_list, num_runs=300, directory="runs", prompt_name="placeholder"):
     run_count = 0
     for topic_id, doc_ids in run_list.items():
         with open(os.path.join(directory, topic_id), "a") as file:
@@ -84,8 +86,17 @@ def run_run_list(prompt_template, run_list, num_runs=300, directory="runs"):
                 if run_count >= num_runs:
                     break
                 doc = json.loads(searcher.doc(doc_id).raw())["text"]
-                print(f"Evaluating {topic_id} {doc_id}")
-                run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template)
+                #print(f"Evaluating {topic_id} {doc_id}")
+                if (topic_id not in history):
+                    history[topic_id] = {}
+                if (doc_id not in history[topic_id]):
+                        history[topic_id][doc_id] = {}
+                if (prompt_template in history[topic_id][doc_id]):
+                    print("Fatal error", topic_id, doc_id, prompt_template)
+                history[topic_id][doc_id][prompt_template] = True
+                #run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template)
+                evaluate_batch(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, topic_id, doc_id, prompt_name)
+                run = None
                 if run is not None:
                     run_count += 1
                     print(f"Writing to {os.path.join(directory, topic_id)}")
