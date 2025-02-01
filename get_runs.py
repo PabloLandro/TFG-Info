@@ -3,7 +3,7 @@ from gpt import evaluate, evaluate_batch
 from trec_utils import get_topics_dict, get_qrels_dict_all
 from itertools import combinations
 import json
-import os
+import os, sys
 
 # This script is for evaluating a set of (topic_id, doc_id) using ChatGPT
 
@@ -86,7 +86,7 @@ def run_run_list(prompt_template, run_list, num_runs=300, directory="runs", prom
                 if run_count >= num_runs:
                     break
                 doc = json.loads(searcher.doc(doc_id).raw())["text"]
-                #print(f"Evaluating {topic_id} {doc_id}")
+                print(f"Evaluating {topic_id} {doc_id}")
                 if (topic_id not in history):
                     history[topic_id] = {}
                 if (doc_id not in history[topic_id]):
@@ -94,9 +94,8 @@ def run_run_list(prompt_template, run_list, num_runs=300, directory="runs", prom
                 if (prompt_template in history[topic_id][doc_id]):
                     print("Fatal error", topic_id, doc_id, prompt_template)
                 history[topic_id][doc_id][prompt_template] = True
-                #run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template)
-                evaluate_batch(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, topic_id, doc_id, prompt_name)
-                run = None
+                run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template)
+                #evaluate_batch(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, topic_id, doc_id, prompt_name)
                 if run is not None:
                     run_count += 1
                     print(f"Writing to {os.path.join(directory, topic_id)}")

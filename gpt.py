@@ -58,10 +58,8 @@ def evaluate(description, narrative, doc, prompt_template=template):
         # Replace the fields in the template
         prompt = fill_prompt(description, narrative, doc, prompt_template)
 
-        total_tokens += len(encoding.encode(prompt))
+        #total_tokens += len(encoding.encode(prompt))
 
-        return None
-        print("Danger not returning")
         # Add a message to the payload
         payload["messages"] = [{"role": "user", "content": prompt}]
 

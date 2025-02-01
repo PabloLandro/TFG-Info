@@ -6,7 +6,7 @@ from gpt import print_total_tokens, write_jsonl, write_partition
 
 
 #TOPIC_LIST = os.listdir(os.path.join("runs", "runs_v1"))   # Topics to run
-TOPIC_LIST = ["103"]            # Topics to run
+TOPIC_LIST = ["101"]            # Topics to run
 PROMPT_NAME = "prompt_features_v1.txt"                      # Prompt file located in resources/prompts
 OUTPUT_FOLDER = "runs_features_v1"                          # Folder located in runs/
 EXCLUDE = True                                             # If we already have evaluated (topic_id, doc_id) pairs in the output folder that we don´t need to reevaluate, these can be skipped  
@@ -29,6 +29,9 @@ for (prompt_template, features) in prompt_template_list:
         folder_name = "Nothing"
     else:
         folder_name = "".join([feature[0].upper() + feature[1] + feature[2] for feature in features])
+    if folder_name != "RolDelStr":
+        continue
+    print("Evaluating ] ", folder_name)
     path = os.path.join(out_dir, folder_name)
     os.makedirs(path, exist_ok=True)
     exclude_list = []
@@ -41,5 +44,5 @@ for (prompt_template, features) in prompt_template_list:
 
     run_run_list(prompt_template, run_list, num_runs=NUM_RUNS, directory=path, prompt_name=folder_name)
 #write_jsonl()
-write_partition()
+#write_partition()
 #print_total_tokens()
