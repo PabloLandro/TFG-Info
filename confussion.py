@@ -1,6 +1,6 @@
 import os
 from trec_utils import get_qrels_dict, get_qrels_dict_all, preprocess_run
-
+import numpy as np
 
 POS_VALS = [1,2]
 
@@ -63,17 +63,49 @@ def get_filtered_runs(run_folder):
     #        pass
     return runs
 
-def get_kappa(TP, FP, FN, TN):
+def get_kappa(TP,FP,FN,TN):
     N = TP + FP + FN + TN
     p0 = (TP + TN) / N
     possitive_agreement = (TP + FN) * (TP + FP) / (N**2) 
     negative_agreement = (TN + FN) * (TN + FP) / (N**2)
     pe = possitive_agreement + negative_agreement
+    if pe == 1:
+        print(TP,FP,FN,TN)
     kappa = (p0 - pe) / (1 - pe)
     return kappa
 
-def get_mae(TP, FP, FN, TN):
+
+def get_mae(TP,FP,FN,TN):
     return (FP + FN) / (TP + FP + FN + TN)
+
+#def get_runs_as_array(runs, stat, pos_vals=POS_VALS):
+#    true_vals = []
+#    pred_vals = []
+#    for topic_id in runs:
+#        for doc_id in runs[topic_id]:
+#            if qrels[topic_id][doc_id] is None or runs[topic_id][doc_id] is None:
+#                continue
+#            true_vals.append(1 if qrels[topic_id][doc_id] in pos_vals else 0)
+#            pred_vals.append(1 if runs[topic_id][doc_id] in pos_vals else 0)
+#    if len(pred_vals) == 10:
+#        print("PROBLEM")
+#    return true_vals, pred_vals
+
+def get_confidence_interval(TP, FP, FN, TN, get_feature, bootstraps=20):
+    feature_values = []
+    arr = np.array(["TP"]*TP + ["FP"]*FP + ["FN"]*FN + ["TN"]*TN)
+    for _ in range(bootstraps):
+        indices = np.random.choice(len(arr), size=len(arr), replace=True)
+        bootstrap = arr[indices]
+        TP2 = np.sum(bootstrap == "TP")
+        FP2 = np.sum(bootstrap == "FP")
+        FN2 = np.sum(bootstrap == "FN")
+        TN2 = np.sum(bootstrap == "TN")
+        feature_values.append(get_feature(TP2, FP2, FN2, TN2))
+    out = {}
+    out["lb"] = np.percentile(feature_values, 2.5)
+    out["ub"] = np.percentile(feature_values, 97.5)
+    return out
 
 def get_confussion(stat, pos_vals, runs):
     TP = 0
@@ -103,23 +135,20 @@ def get_confussion(stat, pos_vals, runs):
                     FP += 1
                 else:
                     TN += 1
+    if stat == "cr":
+        print(TP,FP,FN,TN)
     return  TP,FP,FN,TN
 
 def get_stats_from_folder(folder):
-    print(folder)
     runs = get_filtered_runs(folder)
-    print(runs)
     out = {}
     for stat in ["u", "cr", "s"]:
-        TP,FP,FN,TN = get_confussion(stat, POS_VALS, runs)
-        print(TP,FP,FN,TN)
+        TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs)
         out[stat] = {}
-        try:
-            out[stat]["kappa"] = get_kappa(TP, FP, FN, TN)
-            out[stat]["mae"] = get_mae(TP, FP, FN, TN)
-        except Exception as e:
-            out[stat]["kappa"] = "Error"
-            out[stat]["mae"] = "Error"
+        out[stat]["kappa"] = get_kappa(TP, FP, FN, TN)
+        out[stat]["kappa_interval"] = get_confidence_interval(TP, FP, FN, TN, get_kappa)
+        out[stat]["mae"] = get_mae(TP, FP, FN, TN)
+        out[stat]["mae_interval"] = get_confidence_interval(TP, FP, FN, TN, get_mae)
     return out
 
 def print_confussion(stat, pos_vals, name, runs):

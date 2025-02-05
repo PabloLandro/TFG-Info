@@ -1,0 +1,33 @@
+Table for u
+Prompt features			MAE			Cohen's Kappa
+Nothing     &0.44$pm$0.02&0.11$pm$0.01\\
+Rol         &0.35$pm$0.02&0.22$pm$0.03\\
+Des         &0.26$pm$0.02&0.45$pm$0.03\\
+Nar         &0.29$pm$0.02&0.38$pm$0.03\\
+Del         &0.38$pm$0.02&0.16$pm$0.03\\
+Str         &0.38$pm$0.03&0.15$pm$0.02\\
+RolDes      &0.23$pm$0.02&0.51$pm$0.03\\
+RolNar      &0.27$pm$0.02&0.42$pm$0.03\\
+RolDel      &0.34$pm$0.02&0.24$pm$0.03\\
+RolStr      &0.35$pm$0.02&0.24$pm$0.03\\
+DesNar      &0.25$pm$0.01&0.47$pm$0.04\\
+DesDel      &0.24$pm$0.02&0.49$pm$0.04\\
+DesStr      &0.24$pm$0.02&0.49$pm$0.04\\
+NarDel      &0.28$pm$0.03&0.41$pm$0.03\\
+NarStr      &0.27$pm$0.02&0.41$pm$0.03\\
+DelStr      &0.38$pm$0.02&0.16$pm$0.02\\
+RolDesNar   &0.31$pm$0.02&0.41$pm$0.07\\
+RolDesDel   &0.28$pm$0.04&0.46$pm$0.06\\
+RolDesStr   &0.29$pm$0.03&0.45$pm$0.05\\
+RolNarDel   &0.38$pm$0.04&0.29$pm$0.08\\
+RolNarStr   &0.37$pm$0.04&0.30$pm$0.05\\
+RolDelStr   &0.48$pm$0.04&0.11$pm$0.04\\
+DesNarDel   &0.30$pm$0.03&0.42$pm$0.08\\
+DesNarStr   &0.34$pm$0.03&0.35$pm$0.06\\
+NarDelStr   &0.37$pm$0.04&0.31$pm$0.05\\
+RolDesNarDel&0.26$pm$0.03&0.49$pm$0.06\\
+RolDesNarStr&0.26$pm$0.04&0.49$pm$0.06\\
+RolDesDelStr&0.24$pm$0.04&0.53$pm$0.04\\
+RolNarDelStr&0.33$pm$0.04&0.37$pm$0.06\\
+DesNarDelStr&0.29$pm$0.04&0.44$pm$0.06\\
+RolDesNarDelStr&0.22$pm$0.04&0.57$pm$0.05\\
