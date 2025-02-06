@@ -2,19 +2,18 @@ import os, json, rbo
 from gpt import evaluate
 from pyserini.search.lucene import LuceneSearcher
 import xml.etree.ElementTree as ET
-from trec_utils import preprocess_run, get_topics_dict, get_qrels_dict, get_correctness, get_preference
+from trec_utils import preprocess_run, get_qrels_dict, get_preference
 
 # Computes the correctness and preference metrics then orders the run by preference
-def order_run(topic, run):
+def order_run(topic_id, run):
     for doc_run in run:
-        doc_run["co"] = get_correctness(topic["stance"], doc_run["s"])
-        doc_run["p"] = get_preference(doc_run["u"], doc_run["co"], doc_run["cr"])
+        doc_run["p"] = get_preference(topic_id, doc_run["u"], doc_run["s"], doc_run["cr"])
     run.sort(key = lambda x: x["p"])
 
 # Compute the Rank Biased Overlap score
-def compute_rbo(topic, run, ideal_run):
-    order_run(topic, run)
-    order_run(topic, ideal_run)
+def compute_rbo(topic_id, run, ideal_run):
+    order_run(topic_id, run)
+    order_run(topic_id, ideal_run)
     helpful_ideal_run = [doc_run for doc_run in ideal_run if doc_run["p"] > 0]
     harmful_ideal_run = [doc_run for doc_run in ideal_run if doc_run["p"] <= 0]
 
@@ -25,9 +24,6 @@ def compute_rbo(topic, run, ideal_run):
     rbo_helpful = rbo.RankingSimilarity([doc_run["doc_id"] for doc_run in run], [doc_run["doc_id"] for doc_run in helpful_ideal_run]).rbo()
     rbo_harmful = rbo.RankingSimilarity([doc_run["doc_id"] for doc_run in run], [doc_run["doc_id"] for doc_run in harmful_ideal_run]).rbo()
     return rbo_helpful, rbo_harmful
-
-# Load the topic into a dictionary
-topics = get_topics_dict("misinfo-2021-topics.xml")
 
 # Load the qrel runs into a dictionary indexed by topic_id
 qrels = get_qrels_dict("misinfo-qrels.3aspects")
@@ -63,5 +59,5 @@ print(f"Compatibility with harmful documents: {harmful_avg}")
 for run in qrels.values():
     if len(run) == 0:
         continue
-    order_run(topics[run[0]["topic_id"]], run)
+    order_run(topic_id, run)
     print(f"{run[0]['topic_id']}: {any(doc_run['p']<=0 for doc_run in run)}")

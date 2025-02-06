@@ -1,6 +1,5 @@
 import os
 import xml.etree.ElementTree as ET
-from tqdm import tqdm
 from pyserini.search.lucene import LuceneSearcher
 
 def preprocess_run(run):
@@ -36,10 +35,9 @@ def get_qrels_dict(name, verbose=True):
     path = os.path.join("resources", "qrels", name) 
     total_lines = sum(1 for _ in open(path, "r"))
     with open(path, "r") as file:
-        file_iterator = tqdm(file, total=total_lines, desc=f"Loading from {name}", unit=" qrels") if verbose else file
         last_topic_id = ""
         run = {}
-        for line in file_iterator:
+        for line in file:
             doc_run = {}
             doc_run["topic_id"], _, doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = unpack_split(line.split())
             preprocess_run(doc_run)
@@ -85,6 +83,12 @@ def get_topics_dict(name, verbose=True):
         topics[topic_id]["stance"] = topic.find("stance").text
     return topics
 
+topics = get_topics_dict()
+
+def get_preference(topic_id, u, s, cr):
+    co = get_correctness(topics[topic_id]["stance"], s)
+    return get_preference(u, co, cr)
+
 def get_correctness(stance, supportiveness):
     if stance == "helpful":
         if supportiveness == 2:
@@ -104,7 +108,7 @@ def get_correctness(stance, supportiveness):
         return 1
 
 
-def get_preference(u, co, cr):
+def calculate_preference(u, co, cr):
     
     if u == 0:
         return 0
