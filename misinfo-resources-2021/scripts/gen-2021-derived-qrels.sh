@@ -11,10 +11,15 @@
 #
 # bash gen-2021-derived-qrels.sh
 #
+# bash gen-2021-derived-qrels.sh qrels topics deriveddir
 
-QRELS="../qrels/qrels-35topics.txt"
-TOPICS="../topics/misinfo-2021-topics.xml"
-DERIVEDDIR="../qrels/2021-derived-qrels-new"
+#QRELS="../qrels/qrels-35topics.txt"
+#TOPICS="../topics/misinfo-2021-topics.xml"
+#DERIVEDDIR="../qrels/2021-derived-qrels-new"
+
+QRELS=$1
+TOPICS=$2
+DERIVEDDIR=$3
 
 python3 ./gen_derived_qrels.py --qrels $QRELS  --topics $TOPICS  --output $DERIVEDDIR
 
