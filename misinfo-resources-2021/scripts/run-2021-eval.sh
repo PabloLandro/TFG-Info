@@ -1,17 +1,24 @@
+# Usage
+# bash run-2021-eval.sh EVALS_DIR RUNS_DIR DERIVED_QRELS_DIR 
+
+
 
 # To run this script, you need to set all of these paths correctly
 # and you need to make the output directories.
-ADHOC_OUT_DIR="/home/smucker/project/smucker/group-data/trec/health-misinfo-2021/run-summaries"
+#ADHOC_OUT_DIR="/home/smucker/project/smucker/group-data/trec/health-misinfo-2021/run-summaries"
+ADHOC_OUT_DIR="$1"
 
 # directories with the runs to evaluate
-ADHOC="/home/smucker/project/smucker/group-data/trec/restricted-access/health-misinfo-2021/runs"
+#ADHOC="/home/smucker/project/smucker/group-data/trec/restricted-access/health-misinfo-2021/runs"
+ADHOC="$2"
 
-QRELS="/home/smucker/git-repos/misinfo-resources-2021/qrels/2021-derived-qrels"
+#QRELS="/home/smucker/git-repos/misinfo-resources-2021/qrels/2021-derived-qrels"
+QRELS="$3"
 
-# extended trec_eval: https://github.com/lcschv/Trec_eval_extension
-trec_eval="/home/smucker/git-repos/Trec_eval_extension/Trec_eval_extension/trec_eval"
-# https://github.com/trec-health-misinfo/Compatibility
-compatibility="/home/smucker/git-repos/Compatibility/compatibility.py"
+# extended trec_eval: https://github.com/lcschv/Trec_eval_extension | path to trec_eval binary
+trec_eval="misinfo-resources-2021/scripts/trec_eval"
+# https://github.com/trec-health-misinfo/Compatibility | path to compatibility.py script
+compatibility="misinfo-resources-2021/scripts/compatibility.py"
 
 ############ Config section above ends.  You should not need to edit anything below here. ###############
 

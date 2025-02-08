@@ -284,7 +284,7 @@ def is_useful(x):
 
 binary_usefulness = _qrels.apply(is_useful, 1).rename('usefulness')
 assert (qrels.usefulness.eq('useful') | qrels.usefulness.eq('very.useful')).eq(binary_usefulness).all()
-qrels_binary_useful = pd.concat([_qrels.iloc[:, 0:3], binary_usefulness], 1)
+qrels_binary_useful = pd.concat([_qrels.iloc[:, 0:3], binary_usefulness], axis=1)
 
 qrels_binary_useful.to_csv(output_dir / 'misinfo-qrels-binary.useful', sep=' ', index=False, header=False)
 
@@ -301,7 +301,7 @@ def is_useful_correct_credible(x):
 useful_correct_credible = _qrels.apply(is_useful_correct_credible, 1).rename("useful.correct.credible")
 assert ((qrels.usefulness.eq('useful') | qrels.usefulness.eq('very.useful')) & qrels.correct.eq('TRUE') & (
             qrels.credibility.eq('good') | qrels.credibility.eq('excellent'))).eq(useful_correct_credible).all()
-qrels_binary_useful_correct_credible = pd.concat([_qrels.iloc[:, 0:3], useful_correct_credible], 1)
+qrels_binary_useful_correct_credible = pd.concat([_qrels.iloc[:, 0:3], useful_correct_credible], axis=1)
 
 qrels_binary_useful_correct_credible.to_csv(output_dir / 'misinfo-qrels-binary.useful-correct-credible', sep=' ',
                                             index=False, header=False)
@@ -310,14 +310,14 @@ qrels_binary_useful_correct_credible.to_csv(output_dir / 'misinfo-qrels-binary.u
 qrels_binary_useful_credible = ((_qrels.usefulness > 0) & (_qrels.credibility > 0)).map({True: 1, False: 0}).rename(
     'useful.credible')
 assert ((qrels.usefulness.eq('useful') | qrels.usefulness.eq('very.useful')) & (qrels.credibility.eq('good') | qrels.credibility.eq('excellent'))).eq(qrels_binary_useful_credible).all()
-qrels_binary_useful_credible = pd.concat([_qrels.iloc[:, 0:3], qrels_binary_useful_credible], 1)
+qrels_binary_useful_credible = pd.concat([_qrels.iloc[:, 0:3], qrels_binary_useful_credible], axis=1)
 qrels_binary_useful_credible.to_csv(output_dir / 'misinfo-qrels-binary.useful-credible', sep=' ', index=False, header=False)
 
 # %% File: misinfo-qrels-binary.useful-correct
 qrels_binary_useful_correct = ((_qrels.usefulness > 0) & (correct == 'TRUE')).map({True: 1, False: 0}).rename(
     'useful.correct')
 assert ((qrels.usefulness.eq('useful') | qrels.usefulness.eq('very.useful')) & qrels.correct.eq('TRUE')).eq(qrels_binary_useful_correct).all()
-qrels_binary_useful_correct = pd.concat([_qrels.iloc[:, 0:3], qrels_binary_useful_correct], 1)
+qrels_binary_useful_correct = pd.concat([_qrels.iloc[:, 0:3], qrels_binary_useful_correct], axis=1)
 
 qrels_binary_useful_correct.to_csv(output_dir / "misinfo-qrels-binary.useful-correct", index=False, sep=' ',
                                    header=False)
@@ -368,7 +368,7 @@ def is_correct(x):
 aspect_correct = _qrels.apply(is_correct, 1).rename("correct")
 aspect_credible = _qrels.iloc[:, 5].map({2: 2, 1: 1, 0: 0, -1: 0, -2: 0})
 
-qrels_3aspects = pd.concat([_qrels.iloc[:, 0:4], aspect_correct, aspect_credible], 1)
+qrels_3aspects = pd.concat([_qrels.iloc[:, 0:4], aspect_correct, aspect_credible], axis=1)
 qrels_3aspects.to_csv(output_dir / "misinfo-qrels.3aspects", index=False, sep=' ', header=False)
 
 # %% File: misinfo-qrels.2aspects.useful-credible
@@ -392,7 +392,7 @@ def g(x):
 
 aspect_incorrect = _qrels.apply(g, 1).rename("incorrect")
 
-qrels_binary_incorrect = pd.concat([_qrels.iloc[:, 0:3], aspect_incorrect], 1)
+qrels_binary_incorrect = pd.concat([_qrels.iloc[:, 0:3], aspect_incorrect], axis=1)
 
 # %% File: misinfo-qrels-binary.incorrect
 qrels_binary_incorrect.to_csv(output_dir / "misinfo-qrels-binary.incorrect", index=False, sep=' ', header=False)
