@@ -69,13 +69,11 @@ def get_topics_dict(name, verbose=True):
     # Open the topics file as an xml tree
     root = ET.parse(os.path.join('resources', name)).getroot()
     n_topics = sum(1 for _ in root.findall("topics"))
-    t = root.findall("topic")
-    iterator = tqdm(t, total=n_topics, desc="Loading topics", unit=" topics") if verbose else t
     
     # Load the topic into a dictionary
     topics = {}
 
-    for topic in iterator:
+    for topic in root.findall("topic"):
         topic_id = topic.find("number").text
         topics[topic_id] = {}
         topics[topic_id]["description"] = topic.find("description").text
@@ -83,11 +81,14 @@ def get_topics_dict(name, verbose=True):
         topics[topic_id]["stance"] = topic.find("stance").text
     return topics
 
-topics = get_topics_dict()
+topics = get_topics_dict("misinfo-2021-topics.xml")
 
 def get_preference(topic_id, u, s, cr):
+    u = int(u) if u is not None else None
+    s = int(s) if s is not None else None
+    cr = int(cr) if cr is not None else None
     co = get_correctness(topics[topic_id]["stance"], s)
-    return get_preference(u, co, cr)
+    return calculate_preference(u, co, cr)
 
 def get_correctness(stance, supportiveness):
     if stance == "helpful":
