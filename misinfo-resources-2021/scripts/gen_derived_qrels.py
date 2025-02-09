@@ -237,6 +237,11 @@ harmful_graded_qrels = graded_qrels[graded_qrels['grade'] < 0][['topic.id', 'ite
 harmful_graded_qrels['grade'] = harmful_graded_qrels['grade'].multiply(-1)
 harmful_graded_qrels.to_csv(output_dir / 'misinfo-qrels-graded.harmful-only', sep=' ', index=False, header=False)
 
+# We only need the graded helpful and harmful
+# The code gives errors from this point, since it assumes certain constraints are met, such as for unseful docs
+# cresibility or supportiveness is not judged
+exit()
+
 # %% File: misinfo-qrels.for-R.txt
 usefulness = _qrels.usefulness.map({
     0: 'not.useful', 1: 'useful', 2: 'very.useful'

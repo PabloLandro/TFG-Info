@@ -39,6 +39,8 @@ rm -f misinfo-qrels-binary.useful
 # scripts also generate some summary data, these are not qrels
 rm -f misinfo-qrels.counts.txt
 
+exit 0
+
 # The NIST assessors do not judge supportiveness nor credibility unless useful > 0.
 # To avoid confusion with these derived qrels, we only keep docs judged useful.
 # Likewise, we do this for the binary.correct and binary.incorrect to avoid
