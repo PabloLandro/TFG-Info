@@ -51,14 +51,17 @@ def fill_prompt(description, narrative, doc, prompt_template):
     return prompt_template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
 
-def evaluate(description, narrative, doc, prompt_template=template):    
+def evaluate(description, narrative, doc, prompt_template=template, send_request=True):    
     global total_tokens
 
     try:
         # Replace the fields in the template
         prompt = fill_prompt(description, narrative, doc, prompt_template)
 
-        #total_tokens += len(encoding.encode(prompt))
+        total_tokens += len(encoding.encode(prompt))
+        if not send_request:
+            return None
+        print("Sending request")
 
         # Add a message to the payload
         payload["messages"] = [{"role": "user", "content": prompt}]

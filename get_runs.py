@@ -1,6 +1,6 @@
 from pyserini.search.lucene import LuceneSearcher
 from gpt import evaluate, evaluate_batch
-from trec_utils import get_topics_dict, get_qrels_dict_all
+from trec_utils import get_topics_dict, get_qrels_dict_all, get_qrels_dict
 from itertools import combinations
 import json
 import os, sys
@@ -58,7 +58,7 @@ def is_visited(topic_id, doc_id, exclude_list):
         return True
     return False
 
-def get_run_list(topic_list, qrels_name="all", exclude_list=[]):
+def get_run_list(topic_list, qrels_name="misinfo-qrels.3aspects", exclude_list=[]):
     qrels = {}
     if qrels_name == "all":
         qrels = get_qrels_dict_all()
@@ -78,7 +78,7 @@ def get_run_list(topic_list, qrels_name="all", exclude_list=[]):
 
 history = {}
 
-def run_run_list(prompt_template, run_list, num_runs=300, directory="runs", prompt_name="placeholder"):
+def run_run_list(prompt_template, run_list, num_runs=300, directory="runs", prompt_name="placeholder", send_request=True):
     run_count = 0
     for topic_id, doc_ids in run_list.items():
         with open(os.path.join(directory, topic_id), "a") as file:
@@ -94,7 +94,7 @@ def run_run_list(prompt_template, run_list, num_runs=300, directory="runs", prom
                 if (prompt_template in history[topic_id][doc_id]):
                     print("Fatal error", topic_id, doc_id, prompt_template)
                 history[topic_id][doc_id][prompt_template] = True
-                run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template)
+                run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, send_request=send_request)
                 #evaluate_batch(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, topic_id, doc_id, prompt_name)
                 if run is not None:
                     run_count += 1
