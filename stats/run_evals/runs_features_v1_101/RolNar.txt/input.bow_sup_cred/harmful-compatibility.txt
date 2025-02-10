@@ -1,0 +1,3 @@
+runid,topic,compatibility
+bow_sup_cred,101,2.7195942778363148e-08
+bow_sup_cred,average,2.7195942778363148e-08

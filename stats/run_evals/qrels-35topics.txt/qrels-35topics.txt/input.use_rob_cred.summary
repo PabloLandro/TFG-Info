@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.use_rob_cred	2aspects.correct-credible	cam_map	101	0.0311
+input.use_rob_cred	2aspects.correct-credible	cam_map	102	0.0537
+input.use_rob_cred	2aspects.correct-credible	cam_map	103	0.0924
+input.use_rob_cred	2aspects.correct-credible	cam_map	104	0.0401
+input.use_rob_cred	2aspects.correct-credible	cam_map	105	0.1348
+input.use_rob_cred	2aspects.correct-credible	cam_map	106	0.1190
+input.use_rob_cred	2aspects.correct-credible	cam_map	107	0.2245
+input.use_rob_cred	2aspects.correct-credible	cam_map	108	0.0484
+input.use_rob_cred	2aspects.correct-credible	cam_map	109	0.0631
+input.use_rob_cred	2aspects.correct-credible	cam_map	110	0.0661
+input.use_rob_cred	2aspects.correct-credible	cam_map	111	0.1035
+input.use_rob_cred	2aspects.correct-credible	cam_map	112	0.0666
+input.use_rob_cred	2aspects.correct-credible	cam_map	114	0.0174
+input.use_rob_cred	2aspects.correct-credible	cam_map	115	0.1079
+input.use_rob_cred	2aspects.correct-credible	cam_map	117	0.0695
+input.use_rob_cred	2aspects.correct-credible	cam_map	118	0.2520
+input.use_rob_cred	2aspects.correct-credible	cam_map	120	0.1390
+input.use_rob_cred	2aspects.correct-credible	cam_map	121	0.0014
+input.use_rob_cred	2aspects.correct-credible	cam_map	122	0.0238
+input.use_rob_cred	2aspects.correct-credible	cam_map	127	0.0963
+input.use_rob_cred	2aspects.correct-credible	cam_map	128	0.0651
+input.use_rob_cred	2aspects.correct-credible	cam_map	129	0.0676
+input.use_rob_cred	2aspects.correct-credible	cam_map	131	0.1372
+input.use_rob_cred	2aspects.correct-credible	cam_map	132	0.0121
+input.use_rob_cred	2aspects.correct-credible	cam_map	133	0.1801
+input.use_rob_cred	2aspects.correct-credible	cam_map	134	0.1096
+input.use_rob_cred	2aspects.correct-credible	cam_map	136	0.1101
+input.use_rob_cred	2aspects.correct-credible	cam_map	137	0.0667
+input.use_rob_cred	2aspects.correct-credible	cam_map	139	0.0282
+input.use_rob_cred	2aspects.correct-credible	cam_map	140	0.1016
+input.use_rob_cred	2aspects.correct-credible	cam_map	143	0.0809
+input.use_rob_cred	2aspects.correct-credible	cam_map	144	0.2138
+input.use_rob_cred	2aspects.correct-credible	cam_map	145	0.0255
+input.use_rob_cred	2aspects.correct-credible	cam_map	146	0.2994
+input.use_rob_cred	2aspects.correct-credible	cam_map	149	0.0452
+input.use_rob_cred	2aspects.correct-credible	cam_map	all	0.0941
+input.use_rob_cred	2aspects.useful-credible	cam_map	101	0.1158
+input.use_rob_cred	2aspects.useful-credible	cam_map	102	0.1440
+input.use_rob_cred	2aspects.useful-credible	cam_map	103	0.1652
+input.use_rob_cred	2aspects.useful-credible	cam_map	104	0.0989
+input.use_rob_cred	2aspects.useful-credible	cam_map	105	0.1704
+input.use_rob_cred	2aspects.useful-credible	cam_map	106	0.1172
+input.use_rob_cred	2aspects.useful-credible	cam_map	107	0.2822
+input.use_rob_cred	2aspects.useful-credible	cam_map	108	0.0614
+input.use_rob_cred	2aspects.useful-credible	cam_map	109	0.1149
+input.use_rob_cred	2aspects.useful-credible	cam_map	110	0.1415
+input.use_rob_cred	2aspects.useful-credible	cam_map	111	0.1952
+input.use_rob_cred	2aspects.useful-credible	cam_map	112	0.1396
+input.use_rob_cred	2aspects.useful-credible	cam_map	114	0.1185
+input.use_rob_cred	2aspects.useful-credible	cam_map	115	0.1110
+input.use_rob_cred	2aspects.useful-credible	cam_map	117	0.1906
+input.use_rob_cred	2aspects.useful-credible	cam_map	118	0.2557
+input.use_rob_cred	2aspects.useful-credible	cam_map	120	0.1858
+input.use_rob_cred	2aspects.useful-credible	cam_map	121	0.0103
+input.use_rob_cred	2aspects.useful-credible	cam_map	122	0.0507
+input.use_rob_cred	2aspects.useful-credible	cam_map	127	0.0854
+input.use_rob_cred	2aspects.useful-credible	cam_map	128	0.1247
+input.use_rob_cred	2aspects.useful-credible	cam_map	129	0.1122
+input.use_rob_cred	2aspects.useful-credible	cam_map	131	0.1419
+input.use_rob_cred	2aspects.useful-credible	cam_map	132	0.0323
+input.use_rob_cred	2aspects.useful-credible	cam_map	133	0.1805
+input.use_rob_cred	2aspects.useful-credible	cam_map	134	0.1253
+input.use_rob_cred	2aspects.useful-credible	cam_map	136	0.1366
+input.use_rob_cred	2aspects.useful-credible	cam_map	137	0.1338
+input.use_rob_cred	2aspects.useful-credible	cam_map	139	0.1175
+input.use_rob_cred	2aspects.useful-credible	cam_map	140	0.1427
+input.use_rob_cred	2aspects.useful-credible	cam_map	143	0.1292
+input.use_rob_cred	2aspects.useful-credible	cam_map	144	0.2236
+input.use_rob_cred	2aspects.useful-credible	cam_map	145	0.0264
+input.use_rob_cred	2aspects.useful-credible	cam_map	146	0.2930
+input.use_rob_cred	2aspects.useful-credible	cam_map	149	0.0594
+input.use_rob_cred	2aspects.useful-credible	cam_map	all	0.1352
+input.use_rob_cred	3aspects	cam_map_three	101	0.0772
+input.use_rob_cred	3aspects	cam_map_three	102	0.1018
+input.use_rob_cred	3aspects	cam_map_three	103	0.1231
+input.use_rob_cred	3aspects	cam_map_three	104	0.0688
+input.use_rob_cred	3aspects	cam_map_three	105	0.1554
+input.use_rob_cred	3aspects	cam_map_three	106	0.1382
+input.use_rob_cred	3aspects	cam_map_three	107	0.2636
+input.use_rob_cred	3aspects	cam_map_three	108	0.0674
+input.use_rob_cred	3aspects	cam_map_three	109	0.0884
+input.use_rob_cred	3aspects	cam_map_three	110	0.1035
+input.use_rob_cred	3aspects	cam_map_three	111	0.1363
+input.use_rob_cred	3aspects	cam_map_three	112	0.1209
+input.use_rob_cred	3aspects	cam_map_three	114	0.0868
+input.use_rob_cred	3aspects	cam_map_three	115	0.1290
+input.use_rob_cred	3aspects	cam_map_three	117	0.1447
+input.use_rob_cred	3aspects	cam_map_three	118	0.2585
+input.use_rob_cred	3aspects	cam_map_three	120	0.1847
+input.use_rob_cred	3aspects	cam_map_three	121	0.0071
+input.use_rob_cred	3aspects	cam_map_three	122	0.0361
+input.use_rob_cred	3aspects	cam_map_three	127	0.0936
+input.use_rob_cred	3aspects	cam_map_three	128	0.0851
+input.use_rob_cred	3aspects	cam_map_three	129	0.0836
+input.use_rob_cred	3aspects	cam_map_three	131	0.1609
+input.use_rob_cred	3aspects	cam_map_three	132	0.0232
+input.use_rob_cred	3aspects	cam_map_three	133	0.1844
+input.use_rob_cred	3aspects	cam_map_three	134	0.1276
+input.use_rob_cred	3aspects	cam_map_three	136	0.1218
+input.use_rob_cred	3aspects	cam_map_three	137	0.0966
+input.use_rob_cred	3aspects	cam_map_three	139	0.0867
+input.use_rob_cred	3aspects	cam_map_three	140	0.1153
+input.use_rob_cred	3aspects	cam_map_three	143	0.1015
+input.use_rob_cred	3aspects	cam_map_three	144	0.2165
+input.use_rob_cred	3aspects	cam_map_three	145	0.0258
+input.use_rob_cred	3aspects	cam_map_three	146	0.3018
+input.use_rob_cred	3aspects	cam_map_three	149	0.0499
+input.use_rob_cred	3aspects	cam_map_three	all	0.1190
+input.use_rob_cred	graded.usefulness	ndcg	101	0.4864
+input.use_rob_cred	graded.usefulness	ndcg	102	0.4391
+input.use_rob_cred	graded.usefulness	ndcg	103	0.4639
+input.use_rob_cred	graded.usefulness	ndcg	104	0.4859
+input.use_rob_cred	graded.usefulness	ndcg	105	0.4448
+input.use_rob_cred	graded.usefulness	ndcg	106	0.4872
+input.use_rob_cred	graded.usefulness	ndcg	107	0.6803
+input.use_rob_cred	graded.usefulness	ndcg	108	0.4131
+input.use_rob_cred	graded.usefulness	ndcg	109	0.5267
+input.use_rob_cred	graded.usefulness	ndcg	110	0.5087
+input.use_rob_cred	graded.usefulness	ndcg	111	0.5299
+input.use_rob_cred	graded.usefulness	ndcg	112	0.5846
+input.use_rob_cred	graded.usefulness	ndcg	114	0.4332
+input.use_rob_cred	graded.usefulness	ndcg	115	0.4721
+input.use_rob_cred	graded.usefulness	ndcg	117	0.5393
+input.use_rob_cred	graded.usefulness	ndcg	118	0.6540
+input.use_rob_cred	graded.usefulness	ndcg	120	0.5998
+input.use_rob_cred	graded.usefulness	ndcg	121	0.1861
+input.use_rob_cred	graded.usefulness	ndcg	122	0.3055
+input.use_rob_cred	graded.usefulness	ndcg	127	0.3897
+input.use_rob_cred	graded.usefulness	ndcg	128	0.4839
+input.use_rob_cred	graded.usefulness	ndcg	129	0.3623
+input.use_rob_cred	graded.usefulness	ndcg	131	0.5182
+input.use_rob_cred	graded.usefulness	ndcg	132	0.2635
+input.use_rob_cred	graded.usefulness	ndcg	133	0.4743
+input.use_rob_cred	graded.usefulness	ndcg	134	0.4963
+input.use_rob_cred	graded.usefulness	ndcg	136	0.4674
+input.use_rob_cred	graded.usefulness	ndcg	137	0.5368
+input.use_rob_cred	graded.usefulness	ndcg	139	0.5499
+input.use_rob_cred	graded.usefulness	ndcg	140	0.3951
+input.use_rob_cred	graded.usefulness	ndcg	143	0.4283
+input.use_rob_cred	graded.usefulness	ndcg	144	0.5287
+input.use_rob_cred	graded.usefulness	ndcg	145	0.2765
+input.use_rob_cred	graded.usefulness	ndcg	146	0.6190
+input.use_rob_cred	graded.usefulness	ndcg	149	0.2648
+input.use_rob_cred	graded.usefulness	ndcg	all	0.4656
+input.use_rob_cred	binary.useful-correct	P_10	102	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	103	0.2000
+input.use_rob_cred	binary.useful-correct	P_10	104	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	105	0.6000
+input.use_rob_cred	binary.useful-correct	P_10	106	0.5000
+input.use_rob_cred	binary.useful-correct	P_10	107	0.5000
+input.use_rob_cred	binary.useful-correct	P_10	108	0.2000
+input.use_rob_cred	binary.useful-correct	P_10	109	0.2000
+input.use_rob_cred	binary.useful-correct	P_10	110	0.1000
+input.use_rob_cred	binary.useful-correct	P_10	111	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	112	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	114	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	115	0.9000
+input.use_rob_cred	binary.useful-correct	P_10	117	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	118	0.6000
+input.use_rob_cred	binary.useful-correct	P_10	120	0.5000
+input.use_rob_cred	binary.useful-correct	P_10	121	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	122	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	127	0.3000
+input.use_rob_cred	binary.useful-correct	P_10	128	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	129	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	131	0.6000
+input.use_rob_cred	binary.useful-correct	P_10	132	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	133	1.0000
+input.use_rob_cred	binary.useful-correct	P_10	134	0.3000
+input.use_rob_cred	binary.useful-correct	P_10	136	0.1000
+input.use_rob_cred	binary.useful-correct	P_10	137	0.0000
+input.use_rob_cred	binary.useful-correct	P_10	139	0.1000
+input.use_rob_cred	binary.useful-correct	P_10	140	0.3000
+input.use_rob_cred	binary.useful-correct	P_10	143	0.1000
+input.use_rob_cred	binary.useful-correct	P_10	144	0.5000
+input.use_rob_cred	binary.useful-correct	P_10	145	0.1000
+input.use_rob_cred	binary.useful-correct	P_10	146	1.0000
+input.use_rob_cred	binary.useful-correct	P_10	149	0.2000
+input.use_rob_cred	binary.useful-correct	P_10	all	0.2618
+input.use_rob_cred	binary.incorrect	P_10	101	0.5000
+input.use_rob_cred	binary.incorrect	P_10	102	0.9000
+input.use_rob_cred	binary.incorrect	P_10	103	0.5000
+input.use_rob_cred	binary.incorrect	P_10	104	0.4000
+input.use_rob_cred	binary.incorrect	P_10	105	0.1000
+input.use_rob_cred	binary.incorrect	P_10	106	0.0000
+input.use_rob_cred	binary.incorrect	P_10	107	0.1000
+input.use_rob_cred	binary.incorrect	P_10	108	0.0000
+input.use_rob_cred	binary.incorrect	P_10	109	0.2000
+input.use_rob_cred	binary.incorrect	P_10	110	0.5000
+input.use_rob_cred	binary.incorrect	P_10	111	0.8000
+input.use_rob_cred	binary.incorrect	P_10	112	0.3000
+input.use_rob_cred	binary.incorrect	P_10	114	0.1000
+input.use_rob_cred	binary.incorrect	P_10	115	0.0000
+input.use_rob_cred	binary.incorrect	P_10	117	0.0000
+input.use_rob_cred	binary.incorrect	P_10	118	0.0000
+input.use_rob_cred	binary.incorrect	P_10	120	0.0000
+input.use_rob_cred	binary.incorrect	P_10	121	0.0000
+input.use_rob_cred	binary.incorrect	P_10	122	0.0000
+input.use_rob_cred	binary.incorrect	P_10	128	0.0000
+input.use_rob_cred	binary.incorrect	P_10	129	0.1000
+input.use_rob_cred	binary.incorrect	P_10	131	0.1000
+input.use_rob_cred	binary.incorrect	P_10	132	0.3000
+input.use_rob_cred	binary.incorrect	P_10	134	0.0000
+input.use_rob_cred	binary.incorrect	P_10	136	0.0000
+input.use_rob_cred	binary.incorrect	P_10	137	0.2000
+input.use_rob_cred	binary.incorrect	P_10	139	0.6000
+input.use_rob_cred	binary.incorrect	P_10	140	0.0000
+input.use_rob_cred	binary.incorrect	P_10	143	0.0000
+input.use_rob_cred	binary.incorrect	P_10	144	0.0000
+input.use_rob_cred	binary.incorrect	P_10	146	0.0000
+input.use_rob_cred	binary.incorrect	P_10	149	0.0000
+input.use_rob_cred	binary.incorrect	P_10	all	0.1781
+input.use_rob_cred	binary.useful-correct	ndcg	102	0.2153
+input.use_rob_cred	binary.useful-correct	ndcg	103	0.2360
+input.use_rob_cred	binary.useful-correct	ndcg	104	0.1666
+input.use_rob_cred	binary.useful-correct	ndcg	105	0.4093
+input.use_rob_cred	binary.useful-correct	ndcg	106	0.5750
+input.use_rob_cred	binary.useful-correct	ndcg	107	0.6330
+input.use_rob_cred	binary.useful-correct	ndcg	108	0.4062
+input.use_rob_cred	binary.useful-correct	ndcg	109	0.3246
+input.use_rob_cred	binary.useful-correct	ndcg	110	0.2429
+input.use_rob_cred	binary.useful-correct	ndcg	111	0.1781
+input.use_rob_cred	binary.useful-correct	ndcg	112	0.2702
+input.use_rob_cred	binary.useful-correct	ndcg	114	0.1819
+input.use_rob_cred	binary.useful-correct	ndcg	115	0.4954
+input.use_rob_cred	binary.useful-correct	ndcg	117	0.3072
+input.use_rob_cred	binary.useful-correct	ndcg	118	0.7032
+input.use_rob_cred	binary.useful-correct	ndcg	120	0.5630
+input.use_rob_cred	binary.useful-correct	ndcg	121	0.0268
+input.use_rob_cred	binary.useful-correct	ndcg	122	0.1949
+input.use_rob_cred	binary.useful-correct	ndcg	127	0.4387
+input.use_rob_cred	binary.useful-correct	ndcg	128	0.1552
+input.use_rob_cred	binary.useful-correct	ndcg	129	0.2590
+input.use_rob_cred	binary.useful-correct	ndcg	131	0.5216
+input.use_rob_cred	binary.useful-correct	ndcg	132	0.1096
+input.use_rob_cred	binary.useful-correct	ndcg	133	0.4797
+input.use_rob_cred	binary.useful-correct	ndcg	134	0.4635
+input.use_rob_cred	binary.useful-correct	ndcg	136	0.4697
+input.use_rob_cred	binary.useful-correct	ndcg	137	0.2200
+input.use_rob_cred	binary.useful-correct	ndcg	139	0.2430
+input.use_rob_cred	binary.useful-correct	ndcg	140	0.3180
+input.use_rob_cred	binary.useful-correct	ndcg	143	0.3053
+input.use_rob_cred	binary.useful-correct	ndcg	144	0.5315
+input.use_rob_cred	binary.useful-correct	ndcg	145	0.2742
+input.use_rob_cred	binary.useful-correct	ndcg	146	0.6364
+input.use_rob_cred	binary.useful-correct	ndcg	149	0.2564
+input.use_rob_cred	binary.useful-correct	ndcg	all	0.3474
+input.use_rob_cred	binary.useful-credible	ndcg	101	0.3155
+input.use_rob_cred	binary.useful-credible	ndcg	102	0.3839
+input.use_rob_cred	binary.useful-credible	ndcg	103	0.4897
+input.use_rob_cred	binary.useful-credible	ndcg	104	0.4529
+input.use_rob_cred	binary.useful-credible	ndcg	105	0.4452
+input.use_rob_cred	binary.useful-credible	ndcg	106	0.3572
+input.use_rob_cred	binary.useful-credible	ndcg	107	0.6459
+input.use_rob_cred	binary.useful-credible	ndcg	108	0.2217
+input.use_rob_cred	binary.useful-credible	ndcg	109	0.4478
+input.use_rob_cred	binary.useful-credible	ndcg	110	0.4994
+input.use_rob_cred	binary.useful-credible	ndcg	111	0.4986
+input.use_rob_cred	binary.useful-credible	ndcg	112	0.3203
+input.use_rob_cred	binary.useful-credible	ndcg	114	0.1647
+input.use_rob_cred	binary.useful-credible	ndcg	115	0.3260
+input.use_rob_cred	binary.useful-credible	ndcg	117	0.3662
+input.use_rob_cred	binary.useful-credible	ndcg	118	0.6687
+input.use_rob_cred	binary.useful-credible	ndcg	120	0.4539
+input.use_rob_cred	binary.useful-credible	ndcg	121	0.0759
+input.use_rob_cred	binary.useful-credible	ndcg	122	0.2713
+input.use_rob_cred	binary.useful-credible	ndcg	127	0.3179
+input.use_rob_cred	binary.useful-credible	ndcg	128	0.4883
+input.use_rob_cred	binary.useful-credible	ndcg	129	0.3856
+input.use_rob_cred	binary.useful-credible	ndcg	131	0.4073
+input.use_rob_cred	binary.useful-credible	ndcg	132	0.1831
+input.use_rob_cred	binary.useful-credible	ndcg	133	0.4576
+input.use_rob_cred	binary.useful-credible	ndcg	134	0.3958
+input.use_rob_cred	binary.useful-credible	ndcg	136	0.4396
+input.use_rob_cred	binary.useful-credible	ndcg	137	0.4326
+input.use_rob_cred	binary.useful-credible	ndcg	139	0.2798
+input.use_rob_cred	binary.useful-credible	ndcg	140	0.4427
+input.use_rob_cred	binary.useful-credible	ndcg	143	0.4231
+input.use_rob_cred	binary.useful-credible	ndcg	144	0.5382
+input.use_rob_cred	binary.useful-credible	ndcg	145	0.2911
+input.use_rob_cred	binary.useful-credible	ndcg	146	0.6150
+input.use_rob_cred	binary.useful-credible	ndcg	149	0.3082
+input.use_rob_cred	binary.useful-credible	ndcg	all	0.3946
+input.use_rob_cred	binary.useful-correct-credible	ndcg	102	0.2220
+input.use_rob_cred	binary.useful-correct-credible	ndcg	103	0.2527
+input.use_rob_cred	binary.useful-correct-credible	ndcg	104	0.1666
+input.use_rob_cred	binary.useful-correct-credible	ndcg	105	0.3852
+input.use_rob_cred	binary.useful-correct-credible	ndcg	106	0.3572
+input.use_rob_cred	binary.useful-correct-credible	ndcg	107	0.5486
+input.use_rob_cred	binary.useful-correct-credible	ndcg	108	0.1970
+input.use_rob_cred	binary.useful-correct-credible	ndcg	109	0.3306
+input.use_rob_cred	binary.useful-correct-credible	ndcg	110	0.1715
+input.use_rob_cred	binary.useful-correct-credible	ndcg	111	0.2225
+input.use_rob_cred	binary.useful-correct-credible	ndcg	114	0.0509
+input.use_rob_cred	binary.useful-correct-credible	ndcg	115	0.3296
+input.use_rob_cred	binary.useful-correct-credible	ndcg	117	0.2723
+input.use_rob_cred	binary.useful-correct-credible	ndcg	118	0.6769
+input.use_rob_cred	binary.useful-correct-credible	ndcg	120	0.3696
+input.use_rob_cred	binary.useful-correct-credible	ndcg	121	0.0315
+input.use_rob_cred	binary.useful-correct-credible	ndcg	122	0.1477
+input.use_rob_cred	binary.useful-correct-credible	ndcg	127	0.4330
+input.use_rob_cred	binary.useful-correct-credible	ndcg	128	0.1552
+input.use_rob_cred	binary.useful-correct-credible	ndcg	129	0.2547
+input.use_rob_cred	binary.useful-correct-credible	ndcg	131	0.4219
+input.use_rob_cred	binary.useful-correct-credible	ndcg	132	0.0838
+input.use_rob_cred	binary.useful-correct-credible	ndcg	133	0.4622
+input.use_rob_cred	binary.useful-correct-credible	ndcg	134	0.3969
+input.use_rob_cred	binary.useful-correct-credible	ndcg	136	0.4697
+input.use_rob_cred	binary.useful-correct-credible	ndcg	137	0.1878
+input.use_rob_cred	binary.useful-correct-credible	ndcg	139	0.2418
+input.use_rob_cred	binary.useful-correct-credible	ndcg	140	0.3208
+input.use_rob_cred	binary.useful-correct-credible	ndcg	143	0.2691
+input.use_rob_cred	binary.useful-correct-credible	ndcg	144	0.5380
+input.use_rob_cred	binary.useful-correct-credible	ndcg	145	0.2745
+input.use_rob_cred	binary.useful-correct-credible	ndcg	146	0.6264
+input.use_rob_cred	binary.useful-correct-credible	ndcg	149	0.2580
+input.use_rob_cred	binary.useful-correct-credible	ndcg	all	0.3068
+input.use_rob_cred	graded.harmful-only	runid,topic,compatibility		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,101,0.015294149750433727		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,102,0.06224211008616413		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,103,0.3300053864046842		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,104,0.06685138350184214		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,105,0.014843596950164512		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,106,0.0		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,107,0.08113852435568435		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,108,0.014345771852110526		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,109,0.03353443211709799		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,110,0.05264772365624919		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,111,0.36360316102200546		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,112,0.25025753279072716		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,114,0.04431272422600928		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,115,0.0		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,117,0.04625863004402518		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,118,8.426759964328157e-06		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,120,7.394710076887667e-10		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,121,1.6715392993746005e-06		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,122,0.04170401320164513		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,128,0.039628579920347844		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,129,0.046105543795110705		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,131,0.12474369734653643		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,132,0.11313508441406908		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,134,0.024685270185371193		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,136,0.03303594829389198		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,137,0.3159395464973601		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,139,0.21241083177982223		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,140,0.041263575452096156		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,143,0.0464424303428715		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,144,0.0		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,146,0.0		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,149,0.031144085961121875		
+input.use_rob_cred	graded.harmful-only	use_rob_cred,average,0.076424494780818		
+input.use_rob_cred	graded.helpful-only	runid,topic,compatibility		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,101,0.06275881836959275		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,102,0.014698031361611637		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,103,0.1378543324905451		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,104,2.5514794843180508e-05		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,105,0.08453200580370675		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,106,0.08646854710998382		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,107,0.20197366214290072		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,108,0.028585976752269145		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,109,0.09049874976590319		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,110,0.06463415345385469		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,111,0.05138689959550537		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,112,0.06416428187996086		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,114,0.06500132438897438		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,115,0.04246342559466497		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,117,0.13384726255412366		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,118,0.2554973343415995		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,120,0.12553247856210514		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,121,0.02378605334199312		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,122,0.028801990608052573		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,127,0.21347177510828394		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,128,0.00847935535542392		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,129,0.012149965556961817		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,131,0.0895973217744584		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,132,0.00034877364623734134		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,133,0.20370814868447634		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,134,0.09555954306379968		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,136,0.11747903827219792		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,137,0.03603580987668192		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,139,0.09668362505916636		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,140,0.1517142661968794		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,143,0.08611189623259953		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,144,0.4511073357907886		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,145,0.04127190827016666		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,146,0.58060228823551		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,149,0.04033310213186244		
+input.use_rob_cred	graded.helpful-only	use_rob_cred,average,0.10820471417621956		

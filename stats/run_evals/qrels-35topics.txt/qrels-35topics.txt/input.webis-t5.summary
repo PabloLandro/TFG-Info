@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.webis-t5	2aspects.correct-credible	cam_map	101	0.0036
+input.webis-t5	2aspects.correct-credible	cam_map	102	0.0370
+input.webis-t5	2aspects.correct-credible	cam_map	103	0.1025
+input.webis-t5	2aspects.correct-credible	cam_map	104	0.0636
+input.webis-t5	2aspects.correct-credible	cam_map	105	0.0492
+input.webis-t5	2aspects.correct-credible	cam_map	106	0.2079
+input.webis-t5	2aspects.correct-credible	cam_map	107	0.1578
+input.webis-t5	2aspects.correct-credible	cam_map	108	0.0614
+input.webis-t5	2aspects.correct-credible	cam_map	109	0.1131
+input.webis-t5	2aspects.correct-credible	cam_map	110	0.1887
+input.webis-t5	2aspects.correct-credible	cam_map	111	0.1072
+input.webis-t5	2aspects.correct-credible	cam_map	112	0.0203
+input.webis-t5	2aspects.correct-credible	cam_map	114	0.0000
+input.webis-t5	2aspects.correct-credible	cam_map	115	0.1219
+input.webis-t5	2aspects.correct-credible	cam_map	117	0.1187
+input.webis-t5	2aspects.correct-credible	cam_map	118	0.2508
+input.webis-t5	2aspects.correct-credible	cam_map	120	0.0904
+input.webis-t5	2aspects.correct-credible	cam_map	121	0.0008
+input.webis-t5	2aspects.correct-credible	cam_map	122	0.0282
+input.webis-t5	2aspects.correct-credible	cam_map	127	0.1380
+input.webis-t5	2aspects.correct-credible	cam_map	128	0.1925
+input.webis-t5	2aspects.correct-credible	cam_map	129	0.0420
+input.webis-t5	2aspects.correct-credible	cam_map	131	0.1304
+input.webis-t5	2aspects.correct-credible	cam_map	132	0.0406
+input.webis-t5	2aspects.correct-credible	cam_map	133	0.1486
+input.webis-t5	2aspects.correct-credible	cam_map	134	0.0380
+input.webis-t5	2aspects.correct-credible	cam_map	136	0.0886
+input.webis-t5	2aspects.correct-credible	cam_map	137	0.1589
+input.webis-t5	2aspects.correct-credible	cam_map	139	0.0102
+input.webis-t5	2aspects.correct-credible	cam_map	140	0.0330
+input.webis-t5	2aspects.correct-credible	cam_map	143	0.0530
+input.webis-t5	2aspects.correct-credible	cam_map	144	0.1637
+input.webis-t5	2aspects.correct-credible	cam_map	145	0.0733
+input.webis-t5	2aspects.correct-credible	cam_map	146	0.3296
+input.webis-t5	2aspects.correct-credible	cam_map	149	0.1131
+input.webis-t5	2aspects.correct-credible	cam_map	all	0.0993
+input.webis-t5	2aspects.useful-credible	cam_map	101	0.0815
+input.webis-t5	2aspects.useful-credible	cam_map	102	0.1060
+input.webis-t5	2aspects.useful-credible	cam_map	103	0.1844
+input.webis-t5	2aspects.useful-credible	cam_map	104	0.1135
+input.webis-t5	2aspects.useful-credible	cam_map	105	0.0781
+input.webis-t5	2aspects.useful-credible	cam_map	106	0.2079
+input.webis-t5	2aspects.useful-credible	cam_map	107	0.1847
+input.webis-t5	2aspects.useful-credible	cam_map	108	0.0899
+input.webis-t5	2aspects.useful-credible	cam_map	109	0.2298
+input.webis-t5	2aspects.useful-credible	cam_map	110	0.2922
+input.webis-t5	2aspects.useful-credible	cam_map	111	0.2047
+input.webis-t5	2aspects.useful-credible	cam_map	112	0.1319
+input.webis-t5	2aspects.useful-credible	cam_map	114	0.0000
+input.webis-t5	2aspects.useful-credible	cam_map	115	0.1233
+input.webis-t5	2aspects.useful-credible	cam_map	117	0.1780
+input.webis-t5	2aspects.useful-credible	cam_map	118	0.2544
+input.webis-t5	2aspects.useful-credible	cam_map	120	0.1248
+input.webis-t5	2aspects.useful-credible	cam_map	121	0.0059
+input.webis-t5	2aspects.useful-credible	cam_map	122	0.0585
+input.webis-t5	2aspects.useful-credible	cam_map	127	0.1206
+input.webis-t5	2aspects.useful-credible	cam_map	128	0.3624
+input.webis-t5	2aspects.useful-credible	cam_map	129	0.0507
+input.webis-t5	2aspects.useful-credible	cam_map	131	0.1375
+input.webis-t5	2aspects.useful-credible	cam_map	132	0.0918
+input.webis-t5	2aspects.useful-credible	cam_map	133	0.1585
+input.webis-t5	2aspects.useful-credible	cam_map	134	0.0734
+input.webis-t5	2aspects.useful-credible	cam_map	136	0.1471
+input.webis-t5	2aspects.useful-credible	cam_map	137	0.1956
+input.webis-t5	2aspects.useful-credible	cam_map	139	0.1341
+input.webis-t5	2aspects.useful-credible	cam_map	140	0.0502
+input.webis-t5	2aspects.useful-credible	cam_map	143	0.1099
+input.webis-t5	2aspects.useful-credible	cam_map	144	0.1564
+input.webis-t5	2aspects.useful-credible	cam_map	145	0.0828
+input.webis-t5	2aspects.useful-credible	cam_map	146	0.3169
+input.webis-t5	2aspects.useful-credible	cam_map	149	0.1320
+input.webis-t5	2aspects.useful-credible	cam_map	all	0.1420
+input.webis-t5	3aspects	cam_map_three	101	0.0543
+input.webis-t5	3aspects	cam_map_three	102	0.0786
+input.webis-t5	3aspects	cam_map_three	103	0.1347
+input.webis-t5	3aspects	cam_map_three	104	0.0757
+input.webis-t5	3aspects	cam_map_three	105	0.0670
+input.webis-t5	3aspects	cam_map_three	106	0.2446
+input.webis-t5	3aspects	cam_map_three	107	0.1934
+input.webis-t5	3aspects	cam_map_three	108	0.0944
+input.webis-t5	3aspects	cam_map_three	109	0.1678
+input.webis-t5	3aspects	cam_map_three	110	0.2594
+input.webis-t5	3aspects	cam_map_three	111	0.1435
+input.webis-t5	3aspects	cam_map_three	112	0.0879
+input.webis-t5	3aspects	cam_map_three	114	0.0000
+input.webis-t5	3aspects	cam_map_three	115	0.1465
+input.webis-t5	3aspects	cam_map_three	117	0.1493
+input.webis-t5	3aspects	cam_map_three	118	0.2900
+input.webis-t5	3aspects	cam_map_three	120	0.1298
+input.webis-t5	3aspects	cam_map_three	121	0.0043
+input.webis-t5	3aspects	cam_map_three	122	0.0409
+input.webis-t5	3aspects	cam_map_three	127	0.1433
+input.webis-t5	3aspects	cam_map_three	128	0.2485
+input.webis-t5	3aspects	cam_map_three	129	0.0447
+input.webis-t5	3aspects	cam_map_three	131	0.1489
+input.webis-t5	3aspects	cam_map_three	132	0.0659
+input.webis-t5	3aspects	cam_map_three	133	0.1532
+input.webis-t5	3aspects	cam_map_three	134	0.0670
+input.webis-t5	3aspects	cam_map_three	136	0.1092
+input.webis-t5	3aspects	cam_map_three	137	0.1733
+input.webis-t5	3aspects	cam_map_three	139	0.0923
+input.webis-t5	3aspects	cam_map_three	140	0.0387
+input.webis-t5	3aspects	cam_map_three	143	0.0787
+input.webis-t5	3aspects	cam_map_three	144	0.1609
+input.webis-t5	3aspects	cam_map_three	145	0.0777
+input.webis-t5	3aspects	cam_map_three	146	0.3314
+input.webis-t5	3aspects	cam_map_three	149	0.1190
+input.webis-t5	3aspects	cam_map_three	all	0.1261
+input.webis-t5	graded.usefulness	ndcg	101	0.3424
+input.webis-t5	graded.usefulness	ndcg	102	0.2656
+input.webis-t5	graded.usefulness	ndcg	103	0.3210
+input.webis-t5	graded.usefulness	ndcg	104	0.3119
+input.webis-t5	graded.usefulness	ndcg	105	0.2165
+input.webis-t5	graded.usefulness	ndcg	106	0.5200
+input.webis-t5	graded.usefulness	ndcg	107	0.4140
+input.webis-t5	graded.usefulness	ndcg	108	0.3311
+input.webis-t5	graded.usefulness	ndcg	109	0.4588
+input.webis-t5	graded.usefulness	ndcg	110	0.5360
+input.webis-t5	graded.usefulness	ndcg	111	0.4111
+input.webis-t5	graded.usefulness	ndcg	112	0.4115
+input.webis-t5	graded.usefulness	ndcg	114	0.2439
+input.webis-t5	graded.usefulness	ndcg	115	0.3420
+input.webis-t5	graded.usefulness	ndcg	117	0.3596
+input.webis-t5	graded.usefulness	ndcg	118	0.4892
+input.webis-t5	graded.usefulness	ndcg	120	0.3635
+input.webis-t5	graded.usefulness	ndcg	121	0.0799
+input.webis-t5	graded.usefulness	ndcg	122	0.2210
+input.webis-t5	graded.usefulness	ndcg	127	0.3750
+input.webis-t5	graded.usefulness	ndcg	128	0.5040
+input.webis-t5	graded.usefulness	ndcg	129	0.1237
+input.webis-t5	graded.usefulness	ndcg	131	0.3374
+input.webis-t5	graded.usefulness	ndcg	132	0.2973
+input.webis-t5	graded.usefulness	ndcg	133	0.3055
+input.webis-t5	graded.usefulness	ndcg	134	0.2431
+input.webis-t5	graded.usefulness	ndcg	136	0.2848
+input.webis-t5	graded.usefulness	ndcg	137	0.4906
+input.webis-t5	graded.usefulness	ndcg	139	0.4852
+input.webis-t5	graded.usefulness	ndcg	140	0.1258
+input.webis-t5	graded.usefulness	ndcg	143	0.2778
+input.webis-t5	graded.usefulness	ndcg	144	0.3180
+input.webis-t5	graded.usefulness	ndcg	145	0.3281
+input.webis-t5	graded.usefulness	ndcg	146	0.5144
+input.webis-t5	graded.usefulness	ndcg	149	0.2499
+input.webis-t5	graded.usefulness	ndcg	all	0.3400
+input.webis-t5	binary.useful-correct	P_10	102	0.2000
+input.webis-t5	binary.useful-correct	P_10	103	0.1000
+input.webis-t5	binary.useful-correct	P_10	104	0.0000
+input.webis-t5	binary.useful-correct	P_10	105	0.6000
+input.webis-t5	binary.useful-correct	P_10	106	0.5000
+input.webis-t5	binary.useful-correct	P_10	107	0.4000
+input.webis-t5	binary.useful-correct	P_10	108	0.5000
+input.webis-t5	binary.useful-correct	P_10	109	0.1000
+input.webis-t5	binary.useful-correct	P_10	110	0.1000
+input.webis-t5	binary.useful-correct	P_10	111	0.1000
+input.webis-t5	binary.useful-correct	P_10	112	0.0000
+input.webis-t5	binary.useful-correct	P_10	114	0.3000
+input.webis-t5	binary.useful-correct	P_10	115	0.9000
+input.webis-t5	binary.useful-correct	P_10	117	0.1000
+input.webis-t5	binary.useful-correct	P_10	118	1.0000
+input.webis-t5	binary.useful-correct	P_10	120	0.4000
+input.webis-t5	binary.useful-correct	P_10	121	0.0000
+input.webis-t5	binary.useful-correct	P_10	122	0.0000
+input.webis-t5	binary.useful-correct	P_10	127	0.7000
+input.webis-t5	binary.useful-correct	P_10	128	0.1000
+input.webis-t5	binary.useful-correct	P_10	129	0.4000
+input.webis-t5	binary.useful-correct	P_10	131	0.7000
+input.webis-t5	binary.useful-correct	P_10	132	0.0000
+input.webis-t5	binary.useful-correct	P_10	133	0.9000
+input.webis-t5	binary.useful-correct	P_10	134	0.3000
+input.webis-t5	binary.useful-correct	P_10	136	0.1000
+input.webis-t5	binary.useful-correct	P_10	137	0.1000
+input.webis-t5	binary.useful-correct	P_10	139	0.0000
+input.webis-t5	binary.useful-correct	P_10	140	0.1000
+input.webis-t5	binary.useful-correct	P_10	143	0.1000
+input.webis-t5	binary.useful-correct	P_10	144	0.9000
+input.webis-t5	binary.useful-correct	P_10	145	0.0000
+input.webis-t5	binary.useful-correct	P_10	146	1.0000
+input.webis-t5	binary.useful-correct	P_10	149	0.3000
+input.webis-t5	binary.useful-correct	P_10	all	0.3235
+input.webis-t5	binary.incorrect	P_10	101	1.0000
+input.webis-t5	binary.incorrect	P_10	102	0.7000
+input.webis-t5	binary.incorrect	P_10	103	0.7000
+input.webis-t5	binary.incorrect	P_10	104	0.1000
+input.webis-t5	binary.incorrect	P_10	105	0.4000
+input.webis-t5	binary.incorrect	P_10	106	0.0000
+input.webis-t5	binary.incorrect	P_10	107	0.0000
+input.webis-t5	binary.incorrect	P_10	108	0.1000
+input.webis-t5	binary.incorrect	P_10	109	0.8000
+input.webis-t5	binary.incorrect	P_10	110	0.8000
+input.webis-t5	binary.incorrect	P_10	111	0.6000
+input.webis-t5	binary.incorrect	P_10	112	0.7000
+input.webis-t5	binary.incorrect	P_10	114	0.0000
+input.webis-t5	binary.incorrect	P_10	115	0.0000
+input.webis-t5	binary.incorrect	P_10	117	0.1000
+input.webis-t5	binary.incorrect	P_10	118	0.0000
+input.webis-t5	binary.incorrect	P_10	120	0.0000
+input.webis-t5	binary.incorrect	P_10	121	0.0000
+input.webis-t5	binary.incorrect	P_10	122	0.3000
+input.webis-t5	binary.incorrect	P_10	128	0.5000
+input.webis-t5	binary.incorrect	P_10	129	0.1000
+input.webis-t5	binary.incorrect	P_10	131	0.0000
+input.webis-t5	binary.incorrect	P_10	132	0.6000
+input.webis-t5	binary.incorrect	P_10	134	0.4000
+input.webis-t5	binary.incorrect	P_10	136	0.0000
+input.webis-t5	binary.incorrect	P_10	137	0.6000
+input.webis-t5	binary.incorrect	P_10	139	0.6000
+input.webis-t5	binary.incorrect	P_10	140	0.0000
+input.webis-t5	binary.incorrect	P_10	143	0.4000
+input.webis-t5	binary.incorrect	P_10	144	0.0000
+input.webis-t5	binary.incorrect	P_10	146	0.0000
+input.webis-t5	binary.incorrect	P_10	149	0.0000
+input.webis-t5	binary.incorrect	P_10	all	0.2969
+input.webis-t5	binary.useful-correct	ndcg	102	0.1523
+input.webis-t5	binary.useful-correct	ndcg	103	0.1728
+input.webis-t5	binary.useful-correct	ndcg	104	0.0000
+input.webis-t5	binary.useful-correct	ndcg	105	0.1583
+input.webis-t5	binary.useful-correct	ndcg	106	0.5899
+input.webis-t5	binary.useful-correct	ndcg	107	0.4019
+input.webis-t5	binary.useful-correct	ndcg	108	0.2985
+input.webis-t5	binary.useful-correct	ndcg	109	0.2160
+input.webis-t5	binary.useful-correct	ndcg	110	0.4691
+input.webis-t5	binary.useful-correct	ndcg	111	0.1449
+input.webis-t5	binary.useful-correct	ndcg	112	0.0000
+input.webis-t5	binary.useful-correct	ndcg	114	0.0925
+input.webis-t5	binary.useful-correct	ndcg	115	0.3468
+input.webis-t5	binary.useful-correct	ndcg	117	0.3261
+input.webis-t5	binary.useful-correct	ndcg	118	0.5086
+input.webis-t5	binary.useful-correct	ndcg	120	0.3409
+input.webis-t5	binary.useful-correct	ndcg	121	0.0297
+input.webis-t5	binary.useful-correct	ndcg	122	0.0737
+input.webis-t5	binary.useful-correct	ndcg	127	0.4321
+input.webis-t5	binary.useful-correct	ndcg	128	0.0797
+input.webis-t5	binary.useful-correct	ndcg	129	0.1225
+input.webis-t5	binary.useful-correct	ndcg	131	0.3350
+input.webis-t5	binary.useful-correct	ndcg	132	0.1408
+input.webis-t5	binary.useful-correct	ndcg	133	0.2831
+input.webis-t5	binary.useful-correct	ndcg	134	0.1693
+input.webis-t5	binary.useful-correct	ndcg	136	0.1883
+input.webis-t5	binary.useful-correct	ndcg	137	0.3286
+input.webis-t5	binary.useful-correct	ndcg	139	0.0762
+input.webis-t5	binary.useful-correct	ndcg	140	0.0994
+input.webis-t5	binary.useful-correct	ndcg	143	0.1123
+input.webis-t5	binary.useful-correct	ndcg	144	0.3175
+input.webis-t5	binary.useful-correct	ndcg	145	0.2959
+input.webis-t5	binary.useful-correct	ndcg	146	0.5271
+input.webis-t5	binary.useful-correct	ndcg	149	0.2722
+input.webis-t5	binary.useful-correct	ndcg	all	0.2383
+input.webis-t5	binary.useful-credible	ndcg	101	0.0662
+input.webis-t5	binary.useful-credible	ndcg	102	0.1975
+input.webis-t5	binary.useful-credible	ndcg	103	0.3378
+input.webis-t5	binary.useful-credible	ndcg	104	0.3316
+input.webis-t5	binary.useful-credible	ndcg	105	0.1537
+input.webis-t5	binary.useful-credible	ndcg	106	0.3599
+input.webis-t5	binary.useful-credible	ndcg	107	0.3071
+input.webis-t5	binary.useful-credible	ndcg	108	0.1322
+input.webis-t5	binary.useful-credible	ndcg	109	0.3764
+input.webis-t5	binary.useful-credible	ndcg	110	0.4198
+input.webis-t5	binary.useful-credible	ndcg	111	0.4141
+input.webis-t5	binary.useful-credible	ndcg	112	0.2133
+input.webis-t5	binary.useful-credible	ndcg	114	0.0000
+input.webis-t5	binary.useful-credible	ndcg	115	0.2239
+input.webis-t5	binary.useful-credible	ndcg	117	0.3893
+input.webis-t5	binary.useful-credible	ndcg	118	0.3336
+input.webis-t5	binary.useful-credible	ndcg	120	0.2043
+input.webis-t5	binary.useful-credible	ndcg	121	0.0234
+input.webis-t5	binary.useful-credible	ndcg	122	0.1884
+input.webis-t5	binary.useful-credible	ndcg	127	0.3167
+input.webis-t5	binary.useful-credible	ndcg	128	0.4959
+input.webis-t5	binary.useful-credible	ndcg	129	0.1317
+input.webis-t5	binary.useful-credible	ndcg	131	0.2750
+input.webis-t5	binary.useful-credible	ndcg	132	0.2445
+input.webis-t5	binary.useful-credible	ndcg	133	0.2944
+input.webis-t5	binary.useful-credible	ndcg	134	0.1132
+input.webis-t5	binary.useful-credible	ndcg	136	0.3171
+input.webis-t5	binary.useful-credible	ndcg	137	0.4030
+input.webis-t5	binary.useful-credible	ndcg	139	0.0864
+input.webis-t5	binary.useful-credible	ndcg	140	0.1657
+input.webis-t5	binary.useful-credible	ndcg	143	0.2398
+input.webis-t5	binary.useful-credible	ndcg	144	0.2909
+input.webis-t5	binary.useful-credible	ndcg	145	0.3221
+input.webis-t5	binary.useful-credible	ndcg	146	0.5013
+input.webis-t5	binary.useful-credible	ndcg	149	0.2925
+input.webis-t5	binary.useful-credible	ndcg	all	0.2618
+input.webis-t5	binary.useful-correct-credible	ndcg	102	0.1556
+input.webis-t5	binary.useful-correct-credible	ndcg	103	0.1685
+input.webis-t5	binary.useful-correct-credible	ndcg	104	0.0000
+input.webis-t5	binary.useful-correct-credible	ndcg	105	0.1140
+input.webis-t5	binary.useful-correct-credible	ndcg	106	0.3599
+input.webis-t5	binary.useful-correct-credible	ndcg	107	0.3063
+input.webis-t5	binary.useful-correct-credible	ndcg	108	0.0933
+input.webis-t5	binary.useful-correct-credible	ndcg	109	0.1904
+input.webis-t5	binary.useful-correct-credible	ndcg	110	0.1211
+input.webis-t5	binary.useful-correct-credible	ndcg	111	0.1809
+input.webis-t5	binary.useful-correct-credible	ndcg	114	0.0000
+input.webis-t5	binary.useful-correct-credible	ndcg	115	0.2311
+input.webis-t5	binary.useful-correct-credible	ndcg	117	0.2320
+input.webis-t5	binary.useful-correct-credible	ndcg	118	0.3572
+input.webis-t5	binary.useful-correct-credible	ndcg	120	0.0669
+input.webis-t5	binary.useful-correct-credible	ndcg	121	0.0350
+input.webis-t5	binary.useful-correct-credible	ndcg	122	0.0000
+input.webis-t5	binary.useful-correct-credible	ndcg	127	0.4097
+input.webis-t5	binary.useful-correct-credible	ndcg	128	0.0797
+input.webis-t5	binary.useful-correct-credible	ndcg	129	0.1236
+input.webis-t5	binary.useful-correct-credible	ndcg	131	0.2864
+input.webis-t5	binary.useful-correct-credible	ndcg	132	0.0918
+input.webis-t5	binary.useful-correct-credible	ndcg	133	0.2804
+input.webis-t5	binary.useful-correct-credible	ndcg	134	0.1233
+input.webis-t5	binary.useful-correct-credible	ndcg	136	0.1883
+input.webis-t5	binary.useful-correct-credible	ndcg	137	0.4221
+input.webis-t5	binary.useful-correct-credible	ndcg	139	0.0880
+input.webis-t5	binary.useful-correct-credible	ndcg	140	0.1003
+input.webis-t5	binary.useful-correct-credible	ndcg	143	0.1043
+input.webis-t5	binary.useful-correct-credible	ndcg	144	0.3182
+input.webis-t5	binary.useful-correct-credible	ndcg	145	0.2935
+input.webis-t5	binary.useful-correct-credible	ndcg	146	0.5144
+input.webis-t5	binary.useful-correct-credible	ndcg	149	0.2738
+input.webis-t5	binary.useful-correct-credible	ndcg	all	0.1912
+input.webis-t5	graded.harmful-only	runid,topic,compatibility		
+input.webis-t5	graded.harmful-only	webis-t5,101,0.0064923333330822175		
+input.webis-t5	graded.harmful-only	webis-t5,102,0.06641192005173575		
+input.webis-t5	graded.harmful-only	webis-t5,103,0.1395666695251304		
+input.webis-t5	graded.harmful-only	webis-t5,104,0.21527911872092326		
+input.webis-t5	graded.harmful-only	webis-t5,105,0.3059956227409741		
+input.webis-t5	graded.harmful-only	webis-t5,106,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,107,0.014634881379427757		
+input.webis-t5	graded.harmful-only	webis-t5,108,0.09478355214979013		
+input.webis-t5	graded.harmful-only	webis-t5,109,0.25186214574130117		
+input.webis-t5	graded.harmful-only	webis-t5,110,0.08801999052642408		
+input.webis-t5	graded.harmful-only	webis-t5,111,0.3188759903632059		
+input.webis-t5	graded.harmful-only	webis-t5,112,0.3104890708057112		
+input.webis-t5	graded.harmful-only	webis-t5,114,0.06850341039391791		
+input.webis-t5	graded.harmful-only	webis-t5,115,0.0006602696833787484		
+input.webis-t5	graded.harmful-only	webis-t5,117,0.17808966897034267		
+input.webis-t5	graded.harmful-only	webis-t5,118,0.001467961021936283		
+input.webis-t5	graded.harmful-only	webis-t5,120,0.0020969375221493633		
+input.webis-t5	graded.harmful-only	webis-t5,121,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,122,0.18594239438170168		
+input.webis-t5	graded.harmful-only	webis-t5,128,0.5977142557933901		
+input.webis-t5	graded.harmful-only	webis-t5,129,0.08070995348080579		
+input.webis-t5	graded.harmful-only	webis-t5,131,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,132,0.3356679664374705		
+input.webis-t5	graded.harmful-only	webis-t5,134,0.23780408926390825		
+input.webis-t5	graded.harmful-only	webis-t5,136,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,137,0.4598590384081369		
+input.webis-t5	graded.harmful-only	webis-t5,139,0.3024361960035986		
+input.webis-t5	graded.harmful-only	webis-t5,140,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,143,0.3678884348963888		
+input.webis-t5	graded.harmful-only	webis-t5,144,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,146,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,149,0.0		
+input.webis-t5	graded.harmful-only	webis-t5,average,0.14472662098733852		
+input.webis-t5	graded.helpful-only	runid,topic,compatibility		
+input.webis-t5	graded.helpful-only	webis-t5,101,0.007942281552893051		
+input.webis-t5	graded.helpful-only	webis-t5,102,0.031123719157866696		
+input.webis-t5	graded.helpful-only	webis-t5,103,0.08022767436602136		
+input.webis-t5	graded.helpful-only	webis-t5,104,0.0		
+input.webis-t5	graded.helpful-only	webis-t5,105,0.08792590735852665		
+input.webis-t5	graded.helpful-only	webis-t5,106,0.15685781991974873		
+input.webis-t5	graded.helpful-only	webis-t5,107,0.12824898843834068		
+input.webis-t5	graded.helpful-only	webis-t5,108,0.058686778770033615		
+input.webis-t5	graded.helpful-only	webis-t5,109,0.112209086007013		
+input.webis-t5	graded.helpful-only	webis-t5,110,0.16900595134891896		
+input.webis-t5	graded.helpful-only	webis-t5,111,0.09175340311893537		
+input.webis-t5	graded.helpful-only	webis-t5,112,0.042367535326923125		
+input.webis-t5	graded.helpful-only	webis-t5,114,0.046782029173005384		
+input.webis-t5	graded.helpful-only	webis-t5,115,0.05675736297747292		
+input.webis-t5	graded.helpful-only	webis-t5,117,0.24960406795812806		
+input.webis-t5	graded.helpful-only	webis-t5,118,0.09718777967034073		
+input.webis-t5	graded.helpful-only	webis-t5,120,0.03549237483702558		
+input.webis-t5	graded.helpful-only	webis-t5,121,0.009686282621146639		
+input.webis-t5	graded.helpful-only	webis-t5,122,0.061413913004832316		
+input.webis-t5	graded.helpful-only	webis-t5,127,0.1506395682610613		
+input.webis-t5	graded.helpful-only	webis-t5,128,0.16150454399715317		
+input.webis-t5	graded.helpful-only	webis-t5,129,0.1519635046670963		
+input.webis-t5	graded.helpful-only	webis-t5,131,0.11146538605983412		
+input.webis-t5	graded.helpful-only	webis-t5,132,0.02577363371102148		
+input.webis-t5	graded.helpful-only	webis-t5,133,0.2724104269021649		
+input.webis-t5	graded.helpful-only	webis-t5,134,0.13030937006668455		
+input.webis-t5	graded.helpful-only	webis-t5,136,0.14976664133622059		
+input.webis-t5	graded.helpful-only	webis-t5,137,0.19933601690592959		
+input.webis-t5	graded.helpful-only	webis-t5,139,0.04056485877562888		
+input.webis-t5	graded.helpful-only	webis-t5,140,0.05000072579972279		
+input.webis-t5	graded.helpful-only	webis-t5,143,0.10696147474210747		
+input.webis-t5	graded.helpful-only	webis-t5,144,0.6659030672575583		
+input.webis-t5	graded.helpful-only	webis-t5,145,0.09562487780380534		
+input.webis-t5	graded.helpful-only	webis-t5,146,0.7047070947667862		
+input.webis-t5	graded.helpful-only	webis-t5,149,0.05859233078853061		
+input.webis-t5	graded.helpful-only	webis-t5,average,0.1313941850699565		

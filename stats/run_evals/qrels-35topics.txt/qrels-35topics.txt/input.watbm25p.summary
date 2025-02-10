@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.watbm25p	2aspects.correct-credible	cam_map	101	0.0058
+input.watbm25p	2aspects.correct-credible	cam_map	102	0.0650
+input.watbm25p	2aspects.correct-credible	cam_map	103	0.0405
+input.watbm25p	2aspects.correct-credible	cam_map	104	0.1055
+input.watbm25p	2aspects.correct-credible	cam_map	105	0.0093
+input.watbm25p	2aspects.correct-credible	cam_map	106	0.1305
+input.watbm25p	2aspects.correct-credible	cam_map	107	0.0203
+input.watbm25p	2aspects.correct-credible	cam_map	108	0.0834
+input.watbm25p	2aspects.correct-credible	cam_map	109	0.0181
+input.watbm25p	2aspects.correct-credible	cam_map	110	0.2002
+input.watbm25p	2aspects.correct-credible	cam_map	111	0.0412
+input.watbm25p	2aspects.correct-credible	cam_map	112	0.0559
+input.watbm25p	2aspects.correct-credible	cam_map	114	0.0176
+input.watbm25p	2aspects.correct-credible	cam_map	115	0.1087
+input.watbm25p	2aspects.correct-credible	cam_map	117	0.0257
+input.watbm25p	2aspects.correct-credible	cam_map	118	0.2796
+input.watbm25p	2aspects.correct-credible	cam_map	120	0.1282
+input.watbm25p	2aspects.correct-credible	cam_map	121	0.0084
+input.watbm25p	2aspects.correct-credible	cam_map	122	0.0064
+input.watbm25p	2aspects.correct-credible	cam_map	127	0.1424
+input.watbm25p	2aspects.correct-credible	cam_map	128	0.2863
+input.watbm25p	2aspects.correct-credible	cam_map	129	0.0847
+input.watbm25p	2aspects.correct-credible	cam_map	131	0.1647
+input.watbm25p	2aspects.correct-credible	cam_map	132	0.0817
+input.watbm25p	2aspects.correct-credible	cam_map	133	0.0319
+input.watbm25p	2aspects.correct-credible	cam_map	134	0.0848
+input.watbm25p	2aspects.correct-credible	cam_map	136	0.0126
+input.watbm25p	2aspects.correct-credible	cam_map	137	0.0521
+input.watbm25p	2aspects.correct-credible	cam_map	139	0.0421
+input.watbm25p	2aspects.correct-credible	cam_map	140	0.0669
+input.watbm25p	2aspects.correct-credible	cam_map	143	0.0068
+input.watbm25p	2aspects.correct-credible	cam_map	144	0.0149
+input.watbm25p	2aspects.correct-credible	cam_map	145	0.0090
+input.watbm25p	2aspects.correct-credible	cam_map	146	0.0593
+input.watbm25p	2aspects.correct-credible	cam_map	149	0.0329
+input.watbm25p	2aspects.correct-credible	cam_map	all	0.0721
+input.watbm25p	2aspects.useful-credible	cam_map	101	0.0560
+input.watbm25p	2aspects.useful-credible	cam_map	102	0.1661
+input.watbm25p	2aspects.useful-credible	cam_map	103	0.0823
+input.watbm25p	2aspects.useful-credible	cam_map	104	0.2233
+input.watbm25p	2aspects.useful-credible	cam_map	105	0.0087
+input.watbm25p	2aspects.useful-credible	cam_map	106	0.1349
+input.watbm25p	2aspects.useful-credible	cam_map	107	0.0219
+input.watbm25p	2aspects.useful-credible	cam_map	108	0.1018
+input.watbm25p	2aspects.useful-credible	cam_map	109	0.0318
+input.watbm25p	2aspects.useful-credible	cam_map	110	0.3740
+input.watbm25p	2aspects.useful-credible	cam_map	111	0.0605
+input.watbm25p	2aspects.useful-credible	cam_map	112	0.1931
+input.watbm25p	2aspects.useful-credible	cam_map	114	0.0559
+input.watbm25p	2aspects.useful-credible	cam_map	115	0.1198
+input.watbm25p	2aspects.useful-credible	cam_map	117	0.0570
+input.watbm25p	2aspects.useful-credible	cam_map	118	0.3105
+input.watbm25p	2aspects.useful-credible	cam_map	120	0.1938
+input.watbm25p	2aspects.useful-credible	cam_map	121	0.0113
+input.watbm25p	2aspects.useful-credible	cam_map	122	0.0158
+input.watbm25p	2aspects.useful-credible	cam_map	127	0.1246
+input.watbm25p	2aspects.useful-credible	cam_map	128	0.5074
+input.watbm25p	2aspects.useful-credible	cam_map	129	0.1372
+input.watbm25p	2aspects.useful-credible	cam_map	131	0.1619
+input.watbm25p	2aspects.useful-credible	cam_map	132	0.0722
+input.watbm25p	2aspects.useful-credible	cam_map	133	0.0338
+input.watbm25p	2aspects.useful-credible	cam_map	134	0.1079
+input.watbm25p	2aspects.useful-credible	cam_map	136	0.0249
+input.watbm25p	2aspects.useful-credible	cam_map	137	0.1123
+input.watbm25p	2aspects.useful-credible	cam_map	139	0.1888
+input.watbm25p	2aspects.useful-credible	cam_map	140	0.1010
+input.watbm25p	2aspects.useful-credible	cam_map	143	0.0138
+input.watbm25p	2aspects.useful-credible	cam_map	144	0.0174
+input.watbm25p	2aspects.useful-credible	cam_map	145	0.0096
+input.watbm25p	2aspects.useful-credible	cam_map	146	0.0601
+input.watbm25p	2aspects.useful-credible	cam_map	149	0.0385
+input.watbm25p	2aspects.useful-credible	cam_map	all	0.1123
+input.watbm25p	3aspects	cam_map_three	101	0.0373
+input.watbm25p	3aspects	cam_map_three	102	0.1197
+input.watbm25p	3aspects	cam_map_three	103	0.0565
+input.watbm25p	3aspects	cam_map_three	104	0.1511
+input.watbm25p	3aspects	cam_map_three	105	0.0088
+input.watbm25p	3aspects	cam_map_three	106	0.1376
+input.watbm25p	3aspects	cam_map_three	107	0.0176
+input.watbm25p	3aspects	cam_map_three	108	0.1115
+input.watbm25p	3aspects	cam_map_three	109	0.0218
+input.watbm25p	3aspects	cam_map_three	110	0.2773
+input.watbm25p	3aspects	cam_map_three	111	0.0472
+input.watbm25p	3aspects	cam_map_three	112	0.1287
+input.watbm25p	3aspects	cam_map_three	114	0.0465
+input.watbm25p	3aspects	cam_map_three	115	0.1262
+input.watbm25p	3aspects	cam_map_three	117	0.0449
+input.watbm25p	3aspects	cam_map_three	118	0.3213
+input.watbm25p	3aspects	cam_map_three	120	0.1888
+input.watbm25p	3aspects	cam_map_three	121	0.0120
+input.watbm25p	3aspects	cam_map_three	122	0.0108
+input.watbm25p	3aspects	cam_map_three	127	0.1373
+input.watbm25p	3aspects	cam_map_three	128	0.3605
+input.watbm25p	3aspects	cam_map_three	129	0.1033
+input.watbm25p	3aspects	cam_map_three	131	0.1690
+input.watbm25p	3aspects	cam_map_three	132	0.0847
+input.watbm25p	3aspects	cam_map_three	133	0.0320
+input.watbm25p	3aspects	cam_map_three	134	0.1091
+input.watbm25p	3aspects	cam_map_three	136	0.0167
+input.watbm25p	3aspects	cam_map_three	137	0.0777
+input.watbm25p	3aspects	cam_map_three	139	0.1436
+input.watbm25p	3aspects	cam_map_three	140	0.0783
+input.watbm25p	3aspects	cam_map_three	143	0.0098
+input.watbm25p	3aspects	cam_map_three	144	0.0156
+input.watbm25p	3aspects	cam_map_three	145	0.0092
+input.watbm25p	3aspects	cam_map_three	146	0.0610
+input.watbm25p	3aspects	cam_map_three	149	0.0347
+input.watbm25p	3aspects	cam_map_three	all	0.0945
+input.watbm25p	graded.usefulness	ndcg	101	0.2891
+input.watbm25p	graded.usefulness	ndcg	102	0.4439
+input.watbm25p	graded.usefulness	ndcg	103	0.3465
+input.watbm25p	graded.usefulness	ndcg	104	0.6458
+input.watbm25p	graded.usefulness	ndcg	105	0.0480
+input.watbm25p	graded.usefulness	ndcg	106	0.4610
+input.watbm25p	graded.usefulness	ndcg	107	0.0845
+input.watbm25p	graded.usefulness	ndcg	108	0.4658
+input.watbm25p	graded.usefulness	ndcg	109	0.1261
+input.watbm25p	graded.usefulness	ndcg	110	0.7002
+input.watbm25p	graded.usefulness	ndcg	111	0.2673
+input.watbm25p	graded.usefulness	ndcg	112	0.6153
+input.watbm25p	graded.usefulness	ndcg	114	0.3013
+input.watbm25p	graded.usefulness	ndcg	115	0.4827
+input.watbm25p	graded.usefulness	ndcg	117	0.3207
+input.watbm25p	graded.usefulness	ndcg	118	0.7023
+input.watbm25p	graded.usefulness	ndcg	120	0.5748
+input.watbm25p	graded.usefulness	ndcg	121	0.1819
+input.watbm25p	graded.usefulness	ndcg	122	0.1634
+input.watbm25p	graded.usefulness	ndcg	127	0.3789
+input.watbm25p	graded.usefulness	ndcg	128	0.8027
+input.watbm25p	graded.usefulness	ndcg	129	0.4101
+input.watbm25p	graded.usefulness	ndcg	131	0.5463
+input.watbm25p	graded.usefulness	ndcg	132	0.3704
+input.watbm25p	graded.usefulness	ndcg	133	0.0897
+input.watbm25p	graded.usefulness	ndcg	134	0.5048
+input.watbm25p	graded.usefulness	ndcg	136	0.1717
+input.watbm25p	graded.usefulness	ndcg	137	0.5139
+input.watbm25p	graded.usefulness	ndcg	139	0.6483
+input.watbm25p	graded.usefulness	ndcg	140	0.2786
+input.watbm25p	graded.usefulness	ndcg	143	0.1428
+input.watbm25p	graded.usefulness	ndcg	144	0.0783
+input.watbm25p	graded.usefulness	ndcg	145	0.1663
+input.watbm25p	graded.usefulness	ndcg	146	0.3447
+input.watbm25p	graded.usefulness	ndcg	149	0.2646
+input.watbm25p	graded.usefulness	ndcg	all	0.3695
+input.watbm25p	binary.useful-correct	P_10	102	0.0000
+input.watbm25p	binary.useful-correct	P_10	103	0.0000
+input.watbm25p	binary.useful-correct	P_10	104	0.0000
+input.watbm25p	binary.useful-correct	P_10	105	0.3000
+input.watbm25p	binary.useful-correct	P_10	106	0.5000
+input.watbm25p	binary.useful-correct	P_10	107	0.2000
+input.watbm25p	binary.useful-correct	P_10	108	0.4000
+input.watbm25p	binary.useful-correct	P_10	109	0.0000
+input.watbm25p	binary.useful-correct	P_10	110	0.2000
+input.watbm25p	binary.useful-correct	P_10	111	0.1000
+input.watbm25p	binary.useful-correct	P_10	112	0.0000
+input.watbm25p	binary.useful-correct	P_10	114	0.2000
+input.watbm25p	binary.useful-correct	P_10	115	0.3000
+input.watbm25p	binary.useful-correct	P_10	117	0.0000
+input.watbm25p	binary.useful-correct	P_10	118	0.7000
+input.watbm25p	binary.useful-correct	P_10	120	0.2000
+input.watbm25p	binary.useful-correct	P_10	121	0.0000
+input.watbm25p	binary.useful-correct	P_10	122	0.0000
+input.watbm25p	binary.useful-correct	P_10	127	0.5000
+input.watbm25p	binary.useful-correct	P_10	128	0.2000
+input.watbm25p	binary.useful-correct	P_10	129	0.2000
+input.watbm25p	binary.useful-correct	P_10	131	1.0000
+input.watbm25p	binary.useful-correct	P_10	132	0.1000
+input.watbm25p	binary.useful-correct	P_10	133	0.7000
+input.watbm25p	binary.useful-correct	P_10	134	0.2000
+input.watbm25p	binary.useful-correct	P_10	136	0.0000
+input.watbm25p	binary.useful-correct	P_10	137	0.0000
+input.watbm25p	binary.useful-correct	P_10	139	0.2000
+input.watbm25p	binary.useful-correct	P_10	140	0.3000
+input.watbm25p	binary.useful-correct	P_10	143	0.0000
+input.watbm25p	binary.useful-correct	P_10	144	0.3000
+input.watbm25p	binary.useful-correct	P_10	145	0.0000
+input.watbm25p	binary.useful-correct	P_10	146	0.4000
+input.watbm25p	binary.useful-correct	P_10	149	0.1000
+input.watbm25p	binary.useful-correct	P_10	all	0.2147
+input.watbm25p	binary.incorrect	P_10	101	0.0000
+input.watbm25p	binary.incorrect	P_10	102	0.5000
+input.watbm25p	binary.incorrect	P_10	103	0.7000
+input.watbm25p	binary.incorrect	P_10	104	0.5000
+input.watbm25p	binary.incorrect	P_10	105	0.0000
+input.watbm25p	binary.incorrect	P_10	106	0.0000
+input.watbm25p	binary.incorrect	P_10	107	0.0000
+input.watbm25p	binary.incorrect	P_10	108	0.0000
+input.watbm25p	binary.incorrect	P_10	109	0.1000
+input.watbm25p	binary.incorrect	P_10	110	0.7000
+input.watbm25p	binary.incorrect	P_10	111	0.2000
+input.watbm25p	binary.incorrect	P_10	112	0.2000
+input.watbm25p	binary.incorrect	P_10	114	0.0000
+input.watbm25p	binary.incorrect	P_10	115	0.0000
+input.watbm25p	binary.incorrect	P_10	117	0.0000
+input.watbm25p	binary.incorrect	P_10	118	0.2000
+input.watbm25p	binary.incorrect	P_10	120	0.0000
+input.watbm25p	binary.incorrect	P_10	121	0.0000
+input.watbm25p	binary.incorrect	P_10	122	0.0000
+input.watbm25p	binary.incorrect	P_10	128	0.6000
+input.watbm25p	binary.incorrect	P_10	129	0.0000
+input.watbm25p	binary.incorrect	P_10	131	0.0000
+input.watbm25p	binary.incorrect	P_10	132	0.2000
+input.watbm25p	binary.incorrect	P_10	134	0.2000
+input.watbm25p	binary.incorrect	P_10	136	0.0000
+input.watbm25p	binary.incorrect	P_10	137	0.3000
+input.watbm25p	binary.incorrect	P_10	139	0.4000
+input.watbm25p	binary.incorrect	P_10	140	0.0000
+input.watbm25p	binary.incorrect	P_10	143	0.0000
+input.watbm25p	binary.incorrect	P_10	144	0.0000
+input.watbm25p	binary.incorrect	P_10	146	0.0000
+input.watbm25p	binary.incorrect	P_10	149	0.0000
+input.watbm25p	binary.incorrect	P_10	all	0.1500
+input.watbm25p	binary.useful-correct	ndcg	102	0.2502
+input.watbm25p	binary.useful-correct	ndcg	103	0.1171
+input.watbm25p	binary.useful-correct	ndcg	104	0.1596
+input.watbm25p	binary.useful-correct	ndcg	105	0.0483
+input.watbm25p	binary.useful-correct	ndcg	106	0.4996
+input.watbm25p	binary.useful-correct	ndcg	107	0.0701
+input.watbm25p	binary.useful-correct	ndcg	108	0.4713
+input.watbm25p	binary.useful-correct	ndcg	109	0.0420
+input.watbm25p	binary.useful-correct	ndcg	110	0.4421
+input.watbm25p	binary.useful-correct	ndcg	111	0.1108
+input.watbm25p	binary.useful-correct	ndcg	112	0.0000
+input.watbm25p	binary.useful-correct	ndcg	114	0.2012
+input.watbm25p	binary.useful-correct	ndcg	115	0.5153
+input.watbm25p	binary.useful-correct	ndcg	117	0.2484
+input.watbm25p	binary.useful-correct	ndcg	118	0.7576
+input.watbm25p	binary.useful-correct	ndcg	120	0.5027
+input.watbm25p	binary.useful-correct	ndcg	121	0.1104
+input.watbm25p	binary.useful-correct	ndcg	122	0.0500
+input.watbm25p	binary.useful-correct	ndcg	127	0.4298
+input.watbm25p	binary.useful-correct	ndcg	128	0.4075
+input.watbm25p	binary.useful-correct	ndcg	129	0.3113
+input.watbm25p	binary.useful-correct	ndcg	131	0.5548
+input.watbm25p	binary.useful-correct	ndcg	132	0.3842
+input.watbm25p	binary.useful-correct	ndcg	133	0.0945
+input.watbm25p	binary.useful-correct	ndcg	134	0.4751
+input.watbm25p	binary.useful-correct	ndcg	136	0.0401
+input.watbm25p	binary.useful-correct	ndcg	137	0.1830
+input.watbm25p	binary.useful-correct	ndcg	139	0.2932
+input.watbm25p	binary.useful-correct	ndcg	140	0.2083
+input.watbm25p	binary.useful-correct	ndcg	143	0.0631
+input.watbm25p	binary.useful-correct	ndcg	144	0.0675
+input.watbm25p	binary.useful-correct	ndcg	145	0.1594
+input.watbm25p	binary.useful-correct	ndcg	146	0.3762
+input.watbm25p	binary.useful-correct	ndcg	149	0.2796
+input.watbm25p	binary.useful-correct	ndcg	all	0.2625
+input.watbm25p	binary.useful-credible	ndcg	101	0.0969
+input.watbm25p	binary.useful-credible	ndcg	102	0.3885
+input.watbm25p	binary.useful-credible	ndcg	103	0.3531
+input.watbm25p	binary.useful-credible	ndcg	104	0.6548
+input.watbm25p	binary.useful-credible	ndcg	105	0.0507
+input.watbm25p	binary.useful-credible	ndcg	106	0.4314
+input.watbm25p	binary.useful-credible	ndcg	107	0.1565
+input.watbm25p	binary.useful-credible	ndcg	108	0.3198
+input.watbm25p	binary.useful-credible	ndcg	109	0.1463
+input.watbm25p	binary.useful-credible	ndcg	110	0.6838
+input.watbm25p	binary.useful-credible	ndcg	111	0.3008
+input.watbm25p	binary.useful-credible	ndcg	112	0.4564
+input.watbm25p	binary.useful-credible	ndcg	114	0.0664
+input.watbm25p	binary.useful-credible	ndcg	115	0.4188
+input.watbm25p	binary.useful-credible	ndcg	117	0.2576
+input.watbm25p	binary.useful-credible	ndcg	118	0.6510
+input.watbm25p	binary.useful-credible	ndcg	120	0.3492
+input.watbm25p	binary.useful-credible	ndcg	121	0.0687
+input.watbm25p	binary.useful-credible	ndcg	122	0.1339
+input.watbm25p	binary.useful-credible	ndcg	127	0.3534
+input.watbm25p	binary.useful-credible	ndcg	128	0.8255
+input.watbm25p	binary.useful-credible	ndcg	129	0.4366
+input.watbm25p	binary.useful-credible	ndcg	131	0.4968
+input.watbm25p	binary.useful-credible	ndcg	132	0.3187
+input.watbm25p	binary.useful-credible	ndcg	133	0.1061
+input.watbm25p	binary.useful-credible	ndcg	134	0.3650
+input.watbm25p	binary.useful-credible	ndcg	136	0.2170
+input.watbm25p	binary.useful-credible	ndcg	137	0.3551
+input.watbm25p	binary.useful-credible	ndcg	139	0.2487
+input.watbm25p	binary.useful-credible	ndcg	140	0.3409
+input.watbm25p	binary.useful-credible	ndcg	143	0.1311
+input.watbm25p	binary.useful-credible	ndcg	144	0.0912
+input.watbm25p	binary.useful-credible	ndcg	145	0.1756
+input.watbm25p	binary.useful-credible	ndcg	146	0.3640
+input.watbm25p	binary.useful-credible	ndcg	149	0.2902
+input.watbm25p	binary.useful-credible	ndcg	all	0.3172
+input.watbm25p	binary.useful-correct-credible	ndcg	102	0.2115
+input.watbm25p	binary.useful-correct-credible	ndcg	103	0.1184
+input.watbm25p	binary.useful-correct-credible	ndcg	104	0.1596
+input.watbm25p	binary.useful-correct-credible	ndcg	105	0.0612
+input.watbm25p	binary.useful-correct-credible	ndcg	106	0.4314
+input.watbm25p	binary.useful-correct-credible	ndcg	107	0.1601
+input.watbm25p	binary.useful-correct-credible	ndcg	108	0.3034
+input.watbm25p	binary.useful-correct-credible	ndcg	109	0.0396
+input.watbm25p	binary.useful-correct-credible	ndcg	110	0.1617
+input.watbm25p	binary.useful-correct-credible	ndcg	111	0.1384
+input.watbm25p	binary.useful-correct-credible	ndcg	114	0.0000
+input.watbm25p	binary.useful-correct-credible	ndcg	115	0.3878
+input.watbm25p	binary.useful-correct-credible	ndcg	117	0.2004
+input.watbm25p	binary.useful-correct-credible	ndcg	118	0.6503
+input.watbm25p	binary.useful-correct-credible	ndcg	120	0.1510
+input.watbm25p	binary.useful-correct-credible	ndcg	121	0.0783
+input.watbm25p	binary.useful-correct-credible	ndcg	122	0.0000
+input.watbm25p	binary.useful-correct-credible	ndcg	127	0.4872
+input.watbm25p	binary.useful-correct-credible	ndcg	128	0.4075
+input.watbm25p	binary.useful-correct-credible	ndcg	129	0.3077
+input.watbm25p	binary.useful-correct-credible	ndcg	131	0.5415
+input.watbm25p	binary.useful-correct-credible	ndcg	132	0.5071
+input.watbm25p	binary.useful-correct-credible	ndcg	133	0.1027
+input.watbm25p	binary.useful-correct-credible	ndcg	134	0.3915
+input.watbm25p	binary.useful-correct-credible	ndcg	136	0.0401
+input.watbm25p	binary.useful-correct-credible	ndcg	137	0.1511
+input.watbm25p	binary.useful-correct-credible	ndcg	139	0.2487
+input.watbm25p	binary.useful-correct-credible	ndcg	140	0.2102
+input.watbm25p	binary.useful-correct-credible	ndcg	143	0.0623
+input.watbm25p	binary.useful-correct-credible	ndcg	144	0.0688
+input.watbm25p	binary.useful-correct-credible	ndcg	145	0.1700
+input.watbm25p	binary.useful-correct-credible	ndcg	146	0.3618
+input.watbm25p	binary.useful-correct-credible	ndcg	149	0.2813
+input.watbm25p	binary.useful-correct-credible	ndcg	all	0.2301
+input.watbm25p	graded.harmful-only	runid,topic,compatibility		
+input.watbm25p	graded.harmful-only	watbm25p,101,0.04859759782673599		
+input.watbm25p	graded.harmful-only	watbm25p,102,0.05309650635187729		
+input.watbm25p	graded.harmful-only	watbm25p,103,0.3273003710980932		
+input.watbm25p	graded.harmful-only	watbm25p,104,0.42067588651962146		
+input.watbm25p	graded.harmful-only	watbm25p,105,0.0		
+input.watbm25p	graded.harmful-only	watbm25p,106,0.11487682917506989		
+input.watbm25p	graded.harmful-only	watbm25p,107,0.027903486269819505		
+input.watbm25p	graded.harmful-only	watbm25p,108,0.018269177913988962		
+input.watbm25p	graded.harmful-only	watbm25p,109,0.11763649209089226		
+input.watbm25p	graded.harmful-only	watbm25p,110,0.15246318870130954		
+input.watbm25p	graded.harmful-only	watbm25p,111,0.12559596872866555		
+input.watbm25p	graded.harmful-only	watbm25p,112,0.3359633331648388		
+input.watbm25p	graded.harmful-only	watbm25p,114,0.0246600254412451		
+input.watbm25p	graded.harmful-only	watbm25p,115,2.0046987945358555e-14		
+input.watbm25p	graded.harmful-only	watbm25p,117,0.01588372821640689		
+input.watbm25p	graded.harmful-only	watbm25p,118,0.16868393597440776		
+input.watbm25p	graded.harmful-only	watbm25p,120,0.0007554245413175759		
+input.watbm25p	graded.harmful-only	watbm25p,121,8.10143491794745e-17		
+input.watbm25p	graded.harmful-only	watbm25p,122,0.0388252048643849		
+input.watbm25p	graded.harmful-only	watbm25p,128,0.597868667736647		
+input.watbm25p	graded.harmful-only	watbm25p,129,0.027331687755196215		
+input.watbm25p	graded.harmful-only	watbm25p,131,0.0002638911467173178		
+input.watbm25p	graded.harmful-only	watbm25p,132,0.0705158860970271		
+input.watbm25p	graded.harmful-only	watbm25p,134,0.16325379514322977		
+input.watbm25p	graded.harmful-only	watbm25p,136,0.0		
+input.watbm25p	graded.harmful-only	watbm25p,137,0.42065657820856794		
+input.watbm25p	graded.harmful-only	watbm25p,139,0.3108240797497063		
+input.watbm25p	graded.harmful-only	watbm25p,140,1.0759607186592002e-06		
+input.watbm25p	graded.harmful-only	watbm25p,143,0.020594381659584233		
+input.watbm25p	graded.harmful-only	watbm25p,144,0.0		
+input.watbm25p	graded.harmful-only	watbm25p,146,0.0		
+input.watbm25p	graded.harmful-only	watbm25p,149,1.6596905892443764e-06		
+input.watbm25p	graded.harmful-only	watbm25p,average,0.11257808937583369		
+input.watbm25p	graded.helpful-only	runid,topic,compatibility		
+input.watbm25p	graded.helpful-only	watbm25p,101,0.02872413453093513		
+input.watbm25p	graded.helpful-only	watbm25p,102,0.01745041556815779		
+input.watbm25p	graded.helpful-only	watbm25p,103,0.0008168489550860427		
+input.watbm25p	graded.helpful-only	watbm25p,104,3.1272692602804933e-06		
+input.watbm25p	graded.helpful-only	watbm25p,105,0.10977874093577547		
+input.watbm25p	graded.helpful-only	watbm25p,106,0.17825831944233886		
+input.watbm25p	graded.helpful-only	watbm25p,107,0.10085418715753114		
+input.watbm25p	graded.helpful-only	watbm25p,108,0.058325661611891656		
+input.watbm25p	graded.helpful-only	watbm25p,109,0.021647661947215634		
+input.watbm25p	graded.helpful-only	watbm25p,110,0.10566076737036623		
+input.watbm25p	graded.helpful-only	watbm25p,111,0.11134971388144475		
+input.watbm25p	graded.helpful-only	watbm25p,112,0.047760905284597754		
+input.watbm25p	graded.helpful-only	watbm25p,114,0.04914521777110589		
+input.watbm25p	graded.helpful-only	watbm25p,115,0.09150553622391958		
+input.watbm25p	graded.helpful-only	watbm25p,117,0.05491488454782737		
+input.watbm25p	graded.helpful-only	watbm25p,118,0.06644418342112617		
+input.watbm25p	graded.helpful-only	watbm25p,120,0.04368747747345069		
+input.watbm25p	graded.helpful-only	watbm25p,121,0.05789580194054806		
+input.watbm25p	graded.helpful-only	watbm25p,122,0.02430403445571625		
+input.watbm25p	graded.helpful-only	watbm25p,127,0.35234913304454824		
+input.watbm25p	graded.helpful-only	watbm25p,128,0.19975640092940367		
+input.watbm25p	graded.helpful-only	watbm25p,129,0.014459200626146555		
+input.watbm25p	graded.helpful-only	watbm25p,131,0.4177490331025912		
+input.watbm25p	graded.helpful-only	watbm25p,132,0.09139766942740618		
+input.watbm25p	graded.helpful-only	watbm25p,133,0.28145569051197616		
+input.watbm25p	graded.helpful-only	watbm25p,134,0.07317921812428342		
+input.watbm25p	graded.helpful-only	watbm25p,136,0.004558385481870007		
+input.watbm25p	graded.helpful-only	watbm25p,137,0.01569423136089189		
+input.watbm25p	graded.helpful-only	watbm25p,139,0.08978781028805258		
+input.watbm25p	graded.helpful-only	watbm25p,140,0.18024584690002798		
+input.watbm25p	graded.helpful-only	watbm25p,143,0.00901798165615512		
+input.watbm25p	graded.helpful-only	watbm25p,144,0.17657319251685857		
+input.watbm25p	graded.helpful-only	watbm25p,145,2.5475499795947805e-05		
+input.watbm25p	graded.helpful-only	watbm25p,146,0.030519542360570737		
+input.watbm25p	graded.helpful-only	watbm25p,149,0.02578701966642367		
+input.watbm25p	graded.helpful-only	watbm25p,average,0.08945952717957992		

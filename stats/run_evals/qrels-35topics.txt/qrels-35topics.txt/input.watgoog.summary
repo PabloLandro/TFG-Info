@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.watgoog	2aspects.correct-credible	cam_map	101	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	102	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	103	0.0012
+input.watgoog	2aspects.correct-credible	cam_map	104	0.0020
+input.watgoog	2aspects.correct-credible	cam_map	105	0.0015
+input.watgoog	2aspects.correct-credible	cam_map	106	0.0025
+input.watgoog	2aspects.correct-credible	cam_map	107	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	108	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	109	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	110	0.0162
+input.watgoog	2aspects.correct-credible	cam_map	111	0.0043
+input.watgoog	2aspects.correct-credible	cam_map	112	0.0026
+input.watgoog	2aspects.correct-credible	cam_map	114	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	115	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	117	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	118	0.1561
+input.watgoog	2aspects.correct-credible	cam_map	120	0.0156
+input.watgoog	2aspects.correct-credible	cam_map	121	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	122	0.0001
+input.watgoog	2aspects.correct-credible	cam_map	127	0.0317
+input.watgoog	2aspects.correct-credible	cam_map	128	0.0288
+input.watgoog	2aspects.correct-credible	cam_map	129	0.0061
+input.watgoog	2aspects.correct-credible	cam_map	131	0.0120
+input.watgoog	2aspects.correct-credible	cam_map	132	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	133	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	134	0.0001
+input.watgoog	2aspects.correct-credible	cam_map	136	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	137	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	139	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	140	0.0023
+input.watgoog	2aspects.correct-credible	cam_map	143	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	144	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	145	0.0001
+input.watgoog	2aspects.correct-credible	cam_map	146	0.0000
+input.watgoog	2aspects.correct-credible	cam_map	149	0.0014
+input.watgoog	2aspects.correct-credible	cam_map	all	0.0081
+input.watgoog	2aspects.useful-credible	cam_map	101	0.0162
+input.watgoog	2aspects.useful-credible	cam_map	102	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	103	0.0065
+input.watgoog	2aspects.useful-credible	cam_map	104	0.0022
+input.watgoog	2aspects.useful-credible	cam_map	105	0.0025
+input.watgoog	2aspects.useful-credible	cam_map	106	0.0024
+input.watgoog	2aspects.useful-credible	cam_map	107	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	108	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	109	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	110	0.0251
+input.watgoog	2aspects.useful-credible	cam_map	111	0.0087
+input.watgoog	2aspects.useful-credible	cam_map	112	0.0170
+input.watgoog	2aspects.useful-credible	cam_map	114	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	115	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	117	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	118	0.1569
+input.watgoog	2aspects.useful-credible	cam_map	120	0.0196
+input.watgoog	2aspects.useful-credible	cam_map	121	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	122	0.0004
+input.watgoog	2aspects.useful-credible	cam_map	127	0.0285
+input.watgoog	2aspects.useful-credible	cam_map	128	0.0583
+input.watgoog	2aspects.useful-credible	cam_map	129	0.0096
+input.watgoog	2aspects.useful-credible	cam_map	131	0.0112
+input.watgoog	2aspects.useful-credible	cam_map	132	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	133	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	134	0.0003
+input.watgoog	2aspects.useful-credible	cam_map	136	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	137	0.0026
+input.watgoog	2aspects.useful-credible	cam_map	139	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	140	0.0043
+input.watgoog	2aspects.useful-credible	cam_map	143	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	144	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	145	0.0001
+input.watgoog	2aspects.useful-credible	cam_map	146	0.0000
+input.watgoog	2aspects.useful-credible	cam_map	149	0.0027
+input.watgoog	2aspects.useful-credible	cam_map	all	0.0107
+input.watgoog	3aspects	cam_map_three	101	0.0108
+input.watgoog	3aspects	cam_map_three	102	0.0000
+input.watgoog	3aspects	cam_map_three	103	0.0044
+input.watgoog	3aspects	cam_map_three	104	0.0027
+input.watgoog	3aspects	cam_map_three	105	0.0017
+input.watgoog	3aspects	cam_map_three	106	0.0022
+input.watgoog	3aspects	cam_map_three	107	0.0000
+input.watgoog	3aspects	cam_map_three	108	0.0000
+input.watgoog	3aspects	cam_map_three	109	0.0000
+input.watgoog	3aspects	cam_map_three	110	0.0225
+input.watgoog	3aspects	cam_map_three	111	0.0058
+input.watgoog	3aspects	cam_map_three	112	0.0113
+input.watgoog	3aspects	cam_map_three	114	0.0000
+input.watgoog	3aspects	cam_map_three	115	0.0000
+input.watgoog	3aspects	cam_map_three	117	0.0000
+input.watgoog	3aspects	cam_map_three	118	0.1594
+input.watgoog	3aspects	cam_map_three	120	0.0233
+input.watgoog	3aspects	cam_map_three	121	0.0000
+input.watgoog	3aspects	cam_map_three	122	0.0003
+input.watgoog	3aspects	cam_map_three	127	0.0281
+input.watgoog	3aspects	cam_map_three	128	0.0389
+input.watgoog	3aspects	cam_map_three	129	0.0073
+input.watgoog	3aspects	cam_map_three	131	0.0154
+input.watgoog	3aspects	cam_map_three	132	0.0000
+input.watgoog	3aspects	cam_map_three	133	0.0000
+input.watgoog	3aspects	cam_map_three	134	0.0002
+input.watgoog	3aspects	cam_map_three	136	0.0000
+input.watgoog	3aspects	cam_map_three	137	0.0018
+input.watgoog	3aspects	cam_map_three	139	0.0000
+input.watgoog	3aspects	cam_map_three	140	0.0029
+input.watgoog	3aspects	cam_map_three	143	0.0000
+input.watgoog	3aspects	cam_map_three	144	0.0000
+input.watgoog	3aspects	cam_map_three	145	0.0001
+input.watgoog	3aspects	cam_map_three	146	0.0000
+input.watgoog	3aspects	cam_map_three	149	0.0018
+input.watgoog	3aspects	cam_map_three	all	0.0097
+input.watgoog	graded.usefulness	ndcg	101	0.1363
+input.watgoog	graded.usefulness	ndcg	102	0.0340
+input.watgoog	graded.usefulness	ndcg	103	0.0588
+input.watgoog	graded.usefulness	ndcg	104	0.0607
+input.watgoog	graded.usefulness	ndcg	105	0.0119
+input.watgoog	graded.usefulness	ndcg	106	0.0428
+input.watgoog	graded.usefulness	ndcg	107	0.0082
+input.watgoog	graded.usefulness	ndcg	108	0.0554
+input.watgoog	graded.usefulness	ndcg	109	0.0000
+input.watgoog	graded.usefulness	ndcg	110	0.1818
+input.watgoog	graded.usefulness	ndcg	111	0.0612
+input.watgoog	graded.usefulness	ndcg	112	0.1557
+input.watgoog	graded.usefulness	ndcg	114	0.0474
+input.watgoog	graded.usefulness	ndcg	115	0.0502
+input.watgoog	graded.usefulness	ndcg	117	0.0070
+input.watgoog	graded.usefulness	ndcg	118	0.4211
+input.watgoog	graded.usefulness	ndcg	120	0.2154
+input.watgoog	graded.usefulness	ndcg	121	0.0115
+input.watgoog	graded.usefulness	ndcg	122	0.0264
+input.watgoog	graded.usefulness	ndcg	127	0.1290
+input.watgoog	graded.usefulness	ndcg	128	0.2279
+input.watgoog	graded.usefulness	ndcg	129	0.1093
+input.watgoog	graded.usefulness	ndcg	131	0.1476
+input.watgoog	graded.usefulness	ndcg	132	0.0152
+input.watgoog	graded.usefulness	ndcg	133	0.0109
+input.watgoog	graded.usefulness	ndcg	134	0.0180
+input.watgoog	graded.usefulness	ndcg	136	0.0053
+input.watgoog	graded.usefulness	ndcg	137	0.0688
+input.watgoog	graded.usefulness	ndcg	139	0.0000
+input.watgoog	graded.usefulness	ndcg	140	0.0484
+input.watgoog	graded.usefulness	ndcg	143	0.0058
+input.watgoog	graded.usefulness	ndcg	144	0.0073
+input.watgoog	graded.usefulness	ndcg	145	0.0139
+input.watgoog	graded.usefulness	ndcg	146	0.0000
+input.watgoog	graded.usefulness	ndcg	149	0.0172
+input.watgoog	graded.usefulness	ndcg	all	0.0689
+input.watgoog	binary.useful-correct	P_10	102	0.0000
+input.watgoog	binary.useful-correct	P_10	103	0.0000
+input.watgoog	binary.useful-correct	P_10	104	0.0000
+input.watgoog	binary.useful-correct	P_10	105	0.0000
+input.watgoog	binary.useful-correct	P_10	106	0.0000
+input.watgoog	binary.useful-correct	P_10	107	0.0000
+input.watgoog	binary.useful-correct	P_10	108	0.1000
+input.watgoog	binary.useful-correct	P_10	109	0.0000
+input.watgoog	binary.useful-correct	P_10	110	0.0000
+input.watgoog	binary.useful-correct	P_10	111	0.0000
+input.watgoog	binary.useful-correct	P_10	112	0.0000
+input.watgoog	binary.useful-correct	P_10	114	0.0000
+input.watgoog	binary.useful-correct	P_10	115	0.4000
+input.watgoog	binary.useful-correct	P_10	117	0.0000
+input.watgoog	binary.useful-correct	P_10	118	0.5000
+input.watgoog	binary.useful-correct	P_10	120	0.1000
+input.watgoog	binary.useful-correct	P_10	121	0.0000
+input.watgoog	binary.useful-correct	P_10	122	0.0000
+input.watgoog	binary.useful-correct	P_10	127	0.3000
+input.watgoog	binary.useful-correct	P_10	128	0.0000
+input.watgoog	binary.useful-correct	P_10	129	0.0000
+input.watgoog	binary.useful-correct	P_10	131	0.2000
+input.watgoog	binary.useful-correct	P_10	132	0.0000
+input.watgoog	binary.useful-correct	P_10	133	0.1000
+input.watgoog	binary.useful-correct	P_10	134	0.0000
+input.watgoog	binary.useful-correct	P_10	136	0.0000
+input.watgoog	binary.useful-correct	P_10	137	0.0000
+input.watgoog	binary.useful-correct	P_10	139	0.0000
+input.watgoog	binary.useful-correct	P_10	140	0.0000
+input.watgoog	binary.useful-correct	P_10	143	0.0000
+input.watgoog	binary.useful-correct	P_10	144	0.0000
+input.watgoog	binary.useful-correct	P_10	145	0.0000
+input.watgoog	binary.useful-correct	P_10	146	0.0000
+input.watgoog	binary.useful-correct	P_10	149	0.0000
+input.watgoog	binary.useful-correct	P_10	all	0.0500
+input.watgoog	binary.incorrect	P_10	101	0.6000
+input.watgoog	binary.incorrect	P_10	102	0.1000
+input.watgoog	binary.incorrect	P_10	103	0.3000
+input.watgoog	binary.incorrect	P_10	104	0.0000
+input.watgoog	binary.incorrect	P_10	105	0.0000
+input.watgoog	binary.incorrect	P_10	106	0.0000
+input.watgoog	binary.incorrect	P_10	107	0.0000
+input.watgoog	binary.incorrect	P_10	108	0.0000
+input.watgoog	binary.incorrect	P_10	109	0.0000
+input.watgoog	binary.incorrect	P_10	110	0.1000
+input.watgoog	binary.incorrect	P_10	111	0.1000
+input.watgoog	binary.incorrect	P_10	112	0.2000
+input.watgoog	binary.incorrect	P_10	114	0.0000
+input.watgoog	binary.incorrect	P_10	115	0.0000
+input.watgoog	binary.incorrect	P_10	117	0.0000
+input.watgoog	binary.incorrect	P_10	118	0.0000
+input.watgoog	binary.incorrect	P_10	120	0.0000
+input.watgoog	binary.incorrect	P_10	121	0.0000
+input.watgoog	binary.incorrect	P_10	122	0.0000
+input.watgoog	binary.incorrect	P_10	128	0.3000
+input.watgoog	binary.incorrect	P_10	129	0.0000
+input.watgoog	binary.incorrect	P_10	131	0.0000
+input.watgoog	binary.incorrect	P_10	132	0.0000
+input.watgoog	binary.incorrect	P_10	134	0.0000
+input.watgoog	binary.incorrect	P_10	136	0.0000
+input.watgoog	binary.incorrect	P_10	137	0.1000
+input.watgoog	binary.incorrect	P_10	139	0.0000
+input.watgoog	binary.incorrect	P_10	140	0.0000
+input.watgoog	binary.incorrect	P_10	143	0.0000
+input.watgoog	binary.incorrect	P_10	144	0.0000
+input.watgoog	binary.incorrect	P_10	146	0.0000
+input.watgoog	binary.incorrect	P_10	149	0.0000
+input.watgoog	binary.incorrect	P_10	all	0.0563
+input.watgoog	binary.useful-correct	ndcg	102	0.0000
+input.watgoog	binary.useful-correct	ndcg	103	0.0000
+input.watgoog	binary.useful-correct	ndcg	104	0.0864
+input.watgoog	binary.useful-correct	ndcg	105	0.0000
+input.watgoog	binary.useful-correct	ndcg	106	0.0422
+input.watgoog	binary.useful-correct	ndcg	107	0.0000
+input.watgoog	binary.useful-correct	ndcg	108	0.0667
+input.watgoog	binary.useful-correct	ndcg	109	0.0000
+input.watgoog	binary.useful-correct	ndcg	110	0.1479
+input.watgoog	binary.useful-correct	ndcg	111	0.0000
+input.watgoog	binary.useful-correct	ndcg	112	0.0000
+input.watgoog	binary.useful-correct	ndcg	114	0.0056
+input.watgoog	binary.useful-correct	ndcg	115	0.0713
+input.watgoog	binary.useful-correct	ndcg	117	0.0366
+input.watgoog	binary.useful-correct	ndcg	118	0.5039
+input.watgoog	binary.useful-correct	ndcg	120	0.2487
+input.watgoog	binary.useful-correct	ndcg	121	0.0000
+input.watgoog	binary.useful-correct	ndcg	122	0.0000
+input.watgoog	binary.useful-correct	ndcg	127	0.1424
+input.watgoog	binary.useful-correct	ndcg	128	0.0132
+input.watgoog	binary.useful-correct	ndcg	129	0.0856
+input.watgoog	binary.useful-correct	ndcg	131	0.1567
+input.watgoog	binary.useful-correct	ndcg	132	0.0000
+input.watgoog	binary.useful-correct	ndcg	133	0.0096
+input.watgoog	binary.useful-correct	ndcg	134	0.0093
+input.watgoog	binary.useful-correct	ndcg	136	0.0000
+input.watgoog	binary.useful-correct	ndcg	137	0.0000
+input.watgoog	binary.useful-correct	ndcg	139	0.0000
+input.watgoog	binary.useful-correct	ndcg	140	0.0206
+input.watgoog	binary.useful-correct	ndcg	143	0.0096
+input.watgoog	binary.useful-correct	ndcg	144	0.0073
+input.watgoog	binary.useful-correct	ndcg	145	0.0141
+input.watgoog	binary.useful-correct	ndcg	146	0.0000
+input.watgoog	binary.useful-correct	ndcg	149	0.0062
+input.watgoog	binary.useful-correct	ndcg	all	0.0495
+input.watgoog	binary.useful-credible	ndcg	101	0.0062
+input.watgoog	binary.useful-credible	ndcg	102	0.0000
+input.watgoog	binary.useful-credible	ndcg	103	0.0337
+input.watgoog	binary.useful-credible	ndcg	104	0.0198
+input.watgoog	binary.useful-credible	ndcg	105	0.0206
+input.watgoog	binary.useful-credible	ndcg	106	0.0668
+input.watgoog	binary.useful-credible	ndcg	107	0.0000
+input.watgoog	binary.useful-credible	ndcg	108	0.0000
+input.watgoog	binary.useful-credible	ndcg	109	0.0000
+input.watgoog	binary.useful-credible	ndcg	110	0.1610
+input.watgoog	binary.useful-credible	ndcg	111	0.0427
+input.watgoog	binary.useful-credible	ndcg	112	0.0690
+input.watgoog	binary.useful-credible	ndcg	114	0.0000
+input.watgoog	binary.useful-credible	ndcg	115	0.0000
+input.watgoog	binary.useful-credible	ndcg	117	0.0000
+input.watgoog	binary.useful-credible	ndcg	118	0.4688
+input.watgoog	binary.useful-credible	ndcg	120	0.0359
+input.watgoog	binary.useful-credible	ndcg	121	0.0000
+input.watgoog	binary.useful-credible	ndcg	122	0.0207
+input.watgoog	binary.useful-credible	ndcg	127	0.1421
+input.watgoog	binary.useful-credible	ndcg	128	0.2341
+input.watgoog	binary.useful-credible	ndcg	129	0.1221
+input.watgoog	binary.useful-credible	ndcg	131	0.0184
+input.watgoog	binary.useful-credible	ndcg	132	0.0000
+input.watgoog	binary.useful-credible	ndcg	133	0.0000
+input.watgoog	binary.useful-credible	ndcg	134	0.0121
+input.watgoog	binary.useful-credible	ndcg	136	0.0044
+input.watgoog	binary.useful-credible	ndcg	137	0.0137
+input.watgoog	binary.useful-credible	ndcg	139	0.0000
+input.watgoog	binary.useful-credible	ndcg	140	0.0697
+input.watgoog	binary.useful-credible	ndcg	143	0.0000
+input.watgoog	binary.useful-credible	ndcg	144	0.0063
+input.watgoog	binary.useful-credible	ndcg	145	0.0141
+input.watgoog	binary.useful-credible	ndcg	146	0.0000
+input.watgoog	binary.useful-credible	ndcg	149	0.0233
+input.watgoog	binary.useful-credible	ndcg	all	0.0459
+input.watgoog	binary.useful-correct-credible	ndcg	102	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	103	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	104	0.0864
+input.watgoog	binary.useful-correct-credible	ndcg	105	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	106	0.0668
+input.watgoog	binary.useful-correct-credible	ndcg	107	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	108	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	109	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	110	0.0793
+input.watgoog	binary.useful-correct-credible	ndcg	111	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	114	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	115	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	117	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	118	0.4639
+input.watgoog	binary.useful-correct-credible	ndcg	120	0.0454
+input.watgoog	binary.useful-correct-credible	ndcg	121	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	122	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	127	0.2034
+input.watgoog	binary.useful-correct-credible	ndcg	128	0.0132
+input.watgoog	binary.useful-correct-credible	ndcg	129	0.0863
+input.watgoog	binary.useful-correct-credible	ndcg	131	0.0156
+input.watgoog	binary.useful-correct-credible	ndcg	132	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	133	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	134	0.0131
+input.watgoog	binary.useful-correct-credible	ndcg	136	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	137	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	139	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	140	0.0207
+input.watgoog	binary.useful-correct-credible	ndcg	143	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	144	0.0075
+input.watgoog	binary.useful-correct-credible	ndcg	145	0.0151
+input.watgoog	binary.useful-correct-credible	ndcg	146	0.0000
+input.watgoog	binary.useful-correct-credible	ndcg	149	0.0062
+input.watgoog	binary.useful-correct-credible	ndcg	all	0.0340
+input.watgoog	graded.harmful-only	runid,topic,compatibility		
+input.watgoog	graded.harmful-only	watgoog,101,0.002176986409133486		
+input.watgoog	graded.harmful-only	watgoog,102,0.00043036813995266804		
+input.watgoog	graded.harmful-only	watgoog,103,0.0056817241808254145		
+input.watgoog	graded.harmful-only	watgoog,104,0.0006141128313402394		
+input.watgoog	graded.harmful-only	watgoog,105,0.0		
+input.watgoog	graded.harmful-only	watgoog,106,0.0		
+input.watgoog	graded.harmful-only	watgoog,107,0.009723948159778862		
+input.watgoog	graded.harmful-only	watgoog,108,0.005866515670322718		
+input.watgoog	graded.harmful-only	watgoog,109,0.0		
+input.watgoog	graded.harmful-only	watgoog,110,0.013088458596985996		
+input.watgoog	graded.harmful-only	watgoog,111,0.05842958815701229		
+input.watgoog	graded.harmful-only	watgoog,112,0.11157417820899987		
+input.watgoog	graded.harmful-only	watgoog,114,0.0		
+input.watgoog	graded.harmful-only	watgoog,115,0.0		
+input.watgoog	graded.harmful-only	watgoog,117,0.0		
+input.watgoog	graded.harmful-only	watgoog,118,0.03802779940228427		
+input.watgoog	graded.harmful-only	watgoog,120,1.6751609561163367e-20		
+input.watgoog	graded.harmful-only	watgoog,121,0.0		
+input.watgoog	graded.harmful-only	watgoog,122,0.0		
+input.watgoog	graded.harmful-only	watgoog,128,0.40204797621370103		
+input.watgoog	graded.harmful-only	watgoog,129,2.0091041862010575e-07		
+input.watgoog	graded.harmful-only	watgoog,131,0.0		
+input.watgoog	graded.harmful-only	watgoog,132,0.0017442719782400954		
+input.watgoog	graded.harmful-only	watgoog,134,0.0038260452792043013		
+input.watgoog	graded.harmful-only	watgoog,136,0.0		
+input.watgoog	graded.harmful-only	watgoog,137,0.05691158224085108		
+input.watgoog	graded.harmful-only	watgoog,139,0.0		
+input.watgoog	graded.harmful-only	watgoog,140,0.0022874896002052798		
+input.watgoog	graded.harmful-only	watgoog,143,0.0		
+input.watgoog	graded.harmful-only	watgoog,144,0.0		
+input.watgoog	graded.harmful-only	watgoog,146,0.0		
+input.watgoog	graded.harmful-only	watgoog,149,0.0		
+input.watgoog	graded.harmful-only	watgoog,average,0.022263476436851757		
+input.watgoog	graded.helpful-only	runid,topic,compatibility		
+input.watgoog	graded.helpful-only	watgoog,101,0.0		
+input.watgoog	graded.helpful-only	watgoog,102,0.0		
+input.watgoog	graded.helpful-only	watgoog,103,0.0		
+input.watgoog	graded.helpful-only	watgoog,104,6.769178570888019e-06		
+input.watgoog	graded.helpful-only	watgoog,105,4.6590442223355696e-07		
+input.watgoog	graded.helpful-only	watgoog,106,0.005785358983075089		
+input.watgoog	graded.helpful-only	watgoog,107,0.0		
+input.watgoog	graded.helpful-only	watgoog,108,0.00781849373388548		
+input.watgoog	graded.helpful-only	watgoog,109,0.0		
+input.watgoog	graded.helpful-only	watgoog,110,0.07327145195100139		
+input.watgoog	graded.helpful-only	watgoog,111,0.0015503740365573004		
+input.watgoog	graded.helpful-only	watgoog,112,0.02933714722019204		
+input.watgoog	graded.helpful-only	watgoog,114,0.000424805105954013		
+input.watgoog	graded.helpful-only	watgoog,115,0.00028694099845195947		
+input.watgoog	graded.helpful-only	watgoog,117,1.6335404954082273e-05		
+input.watgoog	graded.helpful-only	watgoog,118,0.030673674547465744		
+input.watgoog	graded.helpful-only	watgoog,120,0.0036619286141015804		
+input.watgoog	graded.helpful-only	watgoog,121,7.308430351945596e-14		
+input.watgoog	graded.helpful-only	watgoog,122,1.4036697929466857e-05		
+input.watgoog	graded.helpful-only	watgoog,127,0.06280249149202434		
+input.watgoog	graded.helpful-only	watgoog,128,0.03556370819862845		
+input.watgoog	graded.helpful-only	watgoog,129,0.000777602182859886		
+input.watgoog	graded.helpful-only	watgoog,131,0.0024113914504755446		
+input.watgoog	graded.helpful-only	watgoog,132,0.0		
+input.watgoog	graded.helpful-only	watgoog,133,1.0035740995217566e-08		
+input.watgoog	graded.helpful-only	watgoog,134,0.0001701498790361594		
+input.watgoog	graded.helpful-only	watgoog,136,1.0845015435921554e-05		
+input.watgoog	graded.helpful-only	watgoog,137,1.9693926413219621e-22		
+input.watgoog	graded.helpful-only	watgoog,139,0.0		
+input.watgoog	graded.helpful-only	watgoog,140,2.394872490463582e-05		
+input.watgoog	graded.helpful-only	watgoog,143,2.617529650836321e-05		
+input.watgoog	graded.helpful-only	watgoog,144,7.39835499221221e-15		
+input.watgoog	graded.helpful-only	watgoog,145,1.4221184746245142e-22		
+input.watgoog	graded.helpful-only	watgoog,146,0.0		
+input.watgoog	graded.helpful-only	watgoog,149,6.501019270579742e-05		
+input.watgoog	graded.helpful-only	watgoog,average,0.007277117566998911		

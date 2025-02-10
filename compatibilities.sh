@@ -19,7 +19,7 @@ export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
 
 LLM_QRELS_DIR=$(realpath "$1")
-TOPICS=$(realpath "/misinfo-resources-2021/misinfo-2021-topics.xml")
+TOPICS=$(realpath "misinfo-resources-2021/misinfo-2021-topics.xml")
 PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs")
 RUN_EVALS_DIR=stats/run_evals
 
@@ -27,20 +27,31 @@ RUN_EVALS_DIR=stats/run_evals
 LLM_DIR_NAME=$(basename "$LLM_QRELS_DIR")
 LLM_PARENT_DIR=$(dirname "$LLM_QRELS_DIR")
 DERIVED_QRELS_PARENT_DIR="${LLM_PARENT_DIR}/${LLM_DIR_NAME}_derived"
+
+# Cleanup
+rm -r "$DERIVED_QRELS_PARENT_DIR"
+rm -r "${RUN_EVALS_DIR}/${LLM_DIR_NAME}"
 mkdir -p "$DERIVED_QRELS_PARENT_DIR"
 
 find "$LLM_QRELS_DIR" -type f | while read -r prompt_qrel_file; do
 	# Create directory for derived qrels
 	PROMPT_NAME=$(basename "$prompt_qrel_file")
-	DERIVED_QRELS_DIR=${DERIVED_QRELS_PARENT_DIR}/${PROMPT_NAME}
+	DERIVED_QRELS_DIR="${DERIVED_QRELS_PARENT_DIR}/${PROMPT_NAME}"
 	mkdir -p "$DERIVED_QRELS_DIR"
 	# Obtain derivated qrels for that qrel
 	bash misinfo-resources-2021/scripts/gen-2021-derived-qrels.sh "$prompt_qrel_file" "$TOPICS" "$DERIVED_QRELS_DIR"
 
 
 	EVAL_OUT_DIR="${RUN_EVALS_DIR}/${LLM_DIR_NAME}/${PROMPT_NAME}"
-	mkdir -p "$EVAL_OUT_DIR"
-	# Now obtain the run evaluations using the derived qrels
-	#bash misinfo-resources-2021/scripts/run-2021-eval.sh "$EVAL_OUT_DIR" "$PARTICIPANT_RUNS_DIR" "$DERIVED_QRELS_DIR"
-	python misinfo-resources-2021/scripts/compatibility.py "$DERIVED_QRELS_DIR" "$PARTICIPANT_RUNS_DIR" > "$EVAL_OUT_DIR"
+
+	find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
+		RUN_NAME=$(basename "$PARTICIPANT_RUN_FILE")
+		mkdir -p "${EVAL_OUT_DIR}/${RUN_NAME}"
+		# Now obtain the run evaluations using the derived qrels
+		#bash misinfo-resources-2021/scripts/run-2021-eval.sh "$EVAL_OUT_DIR" "$PARTICIPANT_RUNS_DIR" "$DERIVED_QRELS_DIR"
+		# Helpful compatibility
+		python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS_DIR}/misinfo-qrels-graded.helpful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/helpful-compatibility.txt"
+		# Harmful compatiblity
+		python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS_DIR}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
+	done
 done

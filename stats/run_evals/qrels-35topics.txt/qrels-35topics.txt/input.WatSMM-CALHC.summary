@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	101	0.0330
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	102	0.0882
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	103	0.1093
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	104	0.0579
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	105	0.1894
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	106	0.0000
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	107	0.0324
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	108	0.1955
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	109	0.1758
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	110	0.0831
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	111	0.0788
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	112	0.0081
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	114	0.0748
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	115	0.0969
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	117	0.0391
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	118	0.1690
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	120	0.1992
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	121	0.0025
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	122	0.0450
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	127	0.0405
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	128	0.1019
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	129	0.0776
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	131	0.1101
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	132	0.2025
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	133	0.1389
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	134	0.0926
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	136	0.0167
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	137	0.1616
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	139	0.1101
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	140	0.1842
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	143	0.2084
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	144	0.1260
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	145	0.0267
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	146	0.1176
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	149	0.1051
+input.WatSMM-CALHC	2aspects.correct-credible	cam_map	all	0.1000
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	101	0.0707
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	102	0.1588
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	103	0.1125
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	104	0.0964
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	105	0.1742
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	106	0.0000
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	107	0.0358
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	108	0.2053
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	109	0.2059
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	110	0.1395
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	111	0.1469
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	112	0.0287
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	114	0.0608
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	115	0.1112
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	117	0.0860
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	118	0.1804
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	120	0.2398
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	121	0.0078
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	122	0.0798
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	127	0.0490
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	128	0.1752
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	129	0.1200
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	131	0.1503
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	132	0.2900
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	133	0.1376
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	134	0.0895
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	136	0.0298
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	137	0.2216
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	139	0.0989
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	140	0.1838
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	143	0.1927
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	144	0.1378
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	145	0.0250
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	146	0.1242
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	149	0.1204
+input.WatSMM-CALHC	2aspects.useful-credible	cam_map	all	0.1225
+input.WatSMM-CALHC	3aspects	cam_map_three	101	0.0471
+input.WatSMM-CALHC	3aspects	cam_map_three	102	0.1104
+input.WatSMM-CALHC	3aspects	cam_map_three	103	0.1066
+input.WatSMM-CALHC	3aspects	cam_map_three	104	0.0771
+input.WatSMM-CALHC	3aspects	cam_map_three	105	0.1737
+input.WatSMM-CALHC	3aspects	cam_map_three	106	0.0000
+input.WatSMM-CALHC	3aspects	cam_map_three	107	0.0290
+input.WatSMM-CALHC	3aspects	cam_map_three	108	0.1952
+input.WatSMM-CALHC	3aspects	cam_map_three	109	0.1760
+input.WatSMM-CALHC	3aspects	cam_map_three	110	0.0930
+input.WatSMM-CALHC	3aspects	cam_map_three	111	0.0984
+input.WatSMM-CALHC	3aspects	cam_map_three	112	0.0191
+input.WatSMM-CALHC	3aspects	cam_map_three	114	0.0814
+input.WatSMM-CALHC	3aspects	cam_map_three	115	0.0979
+input.WatSMM-CALHC	3aspects	cam_map_three	117	0.0573
+input.WatSMM-CALHC	3aspects	cam_map_three	118	0.1657
+input.WatSMM-CALHC	3aspects	cam_map_three	120	0.1821
+input.WatSMM-CALHC	3aspects	cam_map_three	121	0.0053
+input.WatSMM-CALHC	3aspects	cam_map_three	122	0.0544
+input.WatSMM-CALHC	3aspects	cam_map_three	127	0.0364
+input.WatSMM-CALHC	3aspects	cam_map_three	128	0.1261
+input.WatSMM-CALHC	3aspects	cam_map_three	129	0.0915
+input.WatSMM-CALHC	3aspects	cam_map_three	131	0.1102
+input.WatSMM-CALHC	3aspects	cam_map_three	132	0.2033
+input.WatSMM-CALHC	3aspects	cam_map_three	133	0.1364
+input.WatSMM-CALHC	3aspects	cam_map_three	134	0.0846
+input.WatSMM-CALHC	3aspects	cam_map_three	136	0.0210
+input.WatSMM-CALHC	3aspects	cam_map_three	137	0.1570
+input.WatSMM-CALHC	3aspects	cam_map_three	139	0.0924
+input.WatSMM-CALHC	3aspects	cam_map_three	140	0.1837
+input.WatSMM-CALHC	3aspects	cam_map_three	143	0.1989
+input.WatSMM-CALHC	3aspects	cam_map_three	144	0.1316
+input.WatSMM-CALHC	3aspects	cam_map_three	145	0.0256
+input.WatSMM-CALHC	3aspects	cam_map_three	146	0.1163
+input.WatSMM-CALHC	3aspects	cam_map_three	149	0.1099
+input.WatSMM-CALHC	3aspects	cam_map_three	all	0.1027
+input.WatSMM-CALHC	graded.usefulness	ndcg	101	0.1711
+input.WatSMM-CALHC	graded.usefulness	ndcg	102	0.2833
+input.WatSMM-CALHC	graded.usefulness	ndcg	103	0.2288
+input.WatSMM-CALHC	graded.usefulness	ndcg	104	0.2247
+input.WatSMM-CALHC	graded.usefulness	ndcg	105	0.2284
+input.WatSMM-CALHC	graded.usefulness	ndcg	106	0.0537
+input.WatSMM-CALHC	graded.usefulness	ndcg	107	0.1021
+input.WatSMM-CALHC	graded.usefulness	ndcg	108	0.3249
+input.WatSMM-CALHC	graded.usefulness	ndcg	109	0.2745
+input.WatSMM-CALHC	graded.usefulness	ndcg	110	0.2186
+input.WatSMM-CALHC	graded.usefulness	ndcg	111	0.2536
+input.WatSMM-CALHC	graded.usefulness	ndcg	112	0.1354
+input.WatSMM-CALHC	graded.usefulness	ndcg	114	0.2142
+input.WatSMM-CALHC	graded.usefulness	ndcg	115	0.2541
+input.WatSMM-CALHC	graded.usefulness	ndcg	117	0.2297
+input.WatSMM-CALHC	graded.usefulness	ndcg	118	0.2836
+input.WatSMM-CALHC	graded.usefulness	ndcg	120	0.3142
+input.WatSMM-CALHC	graded.usefulness	ndcg	121	0.0910
+input.WatSMM-CALHC	graded.usefulness	ndcg	122	0.2389
+input.WatSMM-CALHC	graded.usefulness	ndcg	127	0.1139
+input.WatSMM-CALHC	graded.usefulness	ndcg	128	0.2494
+input.WatSMM-CALHC	graded.usefulness	ndcg	129	0.2235
+input.WatSMM-CALHC	graded.usefulness	ndcg	131	0.2172
+input.WatSMM-CALHC	graded.usefulness	ndcg	132	0.3468
+input.WatSMM-CALHC	graded.usefulness	ndcg	133	0.2910
+input.WatSMM-CALHC	graded.usefulness	ndcg	134	0.1811
+input.WatSMM-CALHC	graded.usefulness	ndcg	136	0.1175
+input.WatSMM-CALHC	graded.usefulness	ndcg	137	0.2747
+input.WatSMM-CALHC	graded.usefulness	ndcg	139	0.1638
+input.WatSMM-CALHC	graded.usefulness	ndcg	140	0.3390
+input.WatSMM-CALHC	graded.usefulness	ndcg	143	0.3216
+input.WatSMM-CALHC	graded.usefulness	ndcg	144	0.2653
+input.WatSMM-CALHC	graded.usefulness	ndcg	145	0.1161
+input.WatSMM-CALHC	graded.usefulness	ndcg	146	0.2646
+input.WatSMM-CALHC	graded.usefulness	ndcg	149	0.2329
+input.WatSMM-CALHC	graded.usefulness	ndcg	all	0.2241
+input.WatSMM-CALHC	binary.useful-correct	P_10	102	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	103	0.1000
+input.WatSMM-CALHC	binary.useful-correct	P_10	104	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	105	0.9000
+input.WatSMM-CALHC	binary.useful-correct	P_10	106	0.1000
+input.WatSMM-CALHC	binary.useful-correct	P_10	107	0.3000
+input.WatSMM-CALHC	binary.useful-correct	P_10	108	0.7000
+input.WatSMM-CALHC	binary.useful-correct	P_10	109	0.3000
+input.WatSMM-CALHC	binary.useful-correct	P_10	110	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	111	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	112	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	114	0.8000
+input.WatSMM-CALHC	binary.useful-correct	P_10	115	0.6000
+input.WatSMM-CALHC	binary.useful-correct	P_10	117	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	118	0.8000
+input.WatSMM-CALHC	binary.useful-correct	P_10	120	0.5000
+input.WatSMM-CALHC	binary.useful-correct	P_10	121	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	122	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	127	0.2000
+input.WatSMM-CALHC	binary.useful-correct	P_10	128	0.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	129	0.3000
+input.WatSMM-CALHC	binary.useful-correct	P_10	131	0.4000
+input.WatSMM-CALHC	binary.useful-correct	P_10	132	0.1000
+input.WatSMM-CALHC	binary.useful-correct	P_10	133	1.0000
+input.WatSMM-CALHC	binary.useful-correct	P_10	134	0.9000
+input.WatSMM-CALHC	binary.useful-correct	P_10	136	0.1000
+input.WatSMM-CALHC	binary.useful-correct	P_10	137	0.1000
+input.WatSMM-CALHC	binary.useful-correct	P_10	139	0.4000
+input.WatSMM-CALHC	binary.useful-correct	P_10	140	0.8000
+input.WatSMM-CALHC	binary.useful-correct	P_10	143	0.8000
+input.WatSMM-CALHC	binary.useful-correct	P_10	144	0.8000
+input.WatSMM-CALHC	binary.useful-correct	P_10	145	0.2000
+input.WatSMM-CALHC	binary.useful-correct	P_10	146	0.9000
+input.WatSMM-CALHC	binary.useful-correct	P_10	149	0.6000
+input.WatSMM-CALHC	binary.useful-correct	P_10	all	0.3735
+input.WatSMM-CALHC	binary.incorrect	P_10	101	0.5000
+input.WatSMM-CALHC	binary.incorrect	P_10	102	0.3000
+input.WatSMM-CALHC	binary.incorrect	P_10	103	0.6000
+input.WatSMM-CALHC	binary.incorrect	P_10	104	0.5000
+input.WatSMM-CALHC	binary.incorrect	P_10	105	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	106	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	107	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	108	0.1000
+input.WatSMM-CALHC	binary.incorrect	P_10	109	0.1000
+input.WatSMM-CALHC	binary.incorrect	P_10	110	0.9000
+input.WatSMM-CALHC	binary.incorrect	P_10	111	0.6000
+input.WatSMM-CALHC	binary.incorrect	P_10	112	0.3000
+input.WatSMM-CALHC	binary.incorrect	P_10	114	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	115	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	117	0.2000
+input.WatSMM-CALHC	binary.incorrect	P_10	118	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	120	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	121	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	122	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	128	0.9000
+input.WatSMM-CALHC	binary.incorrect	P_10	129	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	131	0.1000
+input.WatSMM-CALHC	binary.incorrect	P_10	132	0.8000
+input.WatSMM-CALHC	binary.incorrect	P_10	134	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	136	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	137	0.1000
+input.WatSMM-CALHC	binary.incorrect	P_10	139	0.1000
+input.WatSMM-CALHC	binary.incorrect	P_10	140	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	143	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	144	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	146	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	149	0.0000
+input.WatSMM-CALHC	binary.incorrect	P_10	all	0.1906
+input.WatSMM-CALHC	binary.useful-correct	ndcg	102	0.1064
+input.WatSMM-CALHC	binary.useful-correct	ndcg	103	0.3263
+input.WatSMM-CALHC	binary.useful-correct	ndcg	104	0.1610
+input.WatSMM-CALHC	binary.useful-correct	ndcg	105	0.3146
+input.WatSMM-CALHC	binary.useful-correct	ndcg	106	0.0737
+input.WatSMM-CALHC	binary.useful-correct	ndcg	107	0.0850
+input.WatSMM-CALHC	binary.useful-correct	ndcg	108	0.3484
+input.WatSMM-CALHC	binary.useful-correct	ndcg	109	0.3426
+input.WatSMM-CALHC	binary.useful-correct	ndcg	110	0.0000
+input.WatSMM-CALHC	binary.useful-correct	ndcg	111	0.0572
+input.WatSMM-CALHC	binary.useful-correct	ndcg	112	0.0000
+input.WatSMM-CALHC	binary.useful-correct	ndcg	114	0.3003
+input.WatSMM-CALHC	binary.useful-correct	ndcg	115	0.2016
+input.WatSMM-CALHC	binary.useful-correct	ndcg	117	0.0000
+input.WatSMM-CALHC	binary.useful-correct	ndcg	118	0.2835
+input.WatSMM-CALHC	binary.useful-correct	ndcg	120	0.1955
+input.WatSMM-CALHC	binary.useful-correct	ndcg	121	0.0228
+input.WatSMM-CALHC	binary.useful-correct	ndcg	122	0.0677
+input.WatSMM-CALHC	binary.useful-correct	ndcg	127	0.0747
+input.WatSMM-CALHC	binary.useful-correct	ndcg	128	0.1607
+input.WatSMM-CALHC	binary.useful-correct	ndcg	129	0.1570
+input.WatSMM-CALHC	binary.useful-correct	ndcg	131	0.1170
+input.WatSMM-CALHC	binary.useful-correct	ndcg	132	0.1938
+input.WatSMM-CALHC	binary.useful-correct	ndcg	133	0.2979
+input.WatSMM-CALHC	binary.useful-correct	ndcg	134	0.1898
+input.WatSMM-CALHC	binary.useful-correct	ndcg	136	0.0276
+input.WatSMM-CALHC	binary.useful-correct	ndcg	137	0.1012
+input.WatSMM-CALHC	binary.useful-correct	ndcg	139	0.2462
+input.WatSMM-CALHC	binary.useful-correct	ndcg	140	0.3551
+input.WatSMM-CALHC	binary.useful-correct	ndcg	143	0.4221
+input.WatSMM-CALHC	binary.useful-correct	ndcg	144	0.2566
+input.WatSMM-CALHC	binary.useful-correct	ndcg	145	0.1251
+input.WatSMM-CALHC	binary.useful-correct	ndcg	146	0.2315
+input.WatSMM-CALHC	binary.useful-correct	ndcg	149	0.2506
+input.WatSMM-CALHC	binary.useful-correct	ndcg	all	0.1792
+input.WatSMM-CALHC	binary.useful-credible	ndcg	101	0.2196
+input.WatSMM-CALHC	binary.useful-credible	ndcg	102	0.3157
+input.WatSMM-CALHC	binary.useful-credible	ndcg	103	0.2815
+input.WatSMM-CALHC	binary.useful-credible	ndcg	104	0.2458
+input.WatSMM-CALHC	binary.useful-credible	ndcg	105	0.3583
+input.WatSMM-CALHC	binary.useful-credible	ndcg	106	0.0000
+input.WatSMM-CALHC	binary.useful-credible	ndcg	107	0.1940
+input.WatSMM-CALHC	binary.useful-credible	ndcg	108	0.4230
+input.WatSMM-CALHC	binary.useful-credible	ndcg	109	0.3855
+input.WatSMM-CALHC	binary.useful-credible	ndcg	110	0.3420
+input.WatSMM-CALHC	binary.useful-credible	ndcg	111	0.3339
+input.WatSMM-CALHC	binary.useful-credible	ndcg	112	0.0966
+input.WatSMM-CALHC	binary.useful-credible	ndcg	114	0.1957
+input.WatSMM-CALHC	binary.useful-credible	ndcg	115	0.3478
+input.WatSMM-CALHC	binary.useful-credible	ndcg	117	0.2204
+input.WatSMM-CALHC	binary.useful-credible	ndcg	118	0.3697
+input.WatSMM-CALHC	binary.useful-credible	ndcg	120	0.5309
+input.WatSMM-CALHC	binary.useful-credible	ndcg	121	0.0748
+input.WatSMM-CALHC	binary.useful-credible	ndcg	122	0.2823
+input.WatSMM-CALHC	binary.useful-credible	ndcg	127	0.2257
+input.WatSMM-CALHC	binary.useful-credible	ndcg	128	0.3063
+input.WatSMM-CALHC	binary.useful-credible	ndcg	129	0.2509
+input.WatSMM-CALHC	binary.useful-credible	ndcg	131	0.3555
+input.WatSMM-CALHC	binary.useful-credible	ndcg	132	0.5736
+input.WatSMM-CALHC	binary.useful-credible	ndcg	133	0.3068
+input.WatSMM-CALHC	binary.useful-credible	ndcg	134	0.2538
+input.WatSMM-CALHC	binary.useful-credible	ndcg	136	0.1323
+input.WatSMM-CALHC	binary.useful-credible	ndcg	137	0.4757
+input.WatSMM-CALHC	binary.useful-credible	ndcg	139	0.3148
+input.WatSMM-CALHC	binary.useful-credible	ndcg	140	0.3384
+input.WatSMM-CALHC	binary.useful-credible	ndcg	143	0.3814
+input.WatSMM-CALHC	binary.useful-credible	ndcg	144	0.2746
+input.WatSMM-CALHC	binary.useful-credible	ndcg	145	0.1251
+input.WatSMM-CALHC	binary.useful-credible	ndcg	146	0.2853
+input.WatSMM-CALHC	binary.useful-credible	ndcg	149	0.2886
+input.WatSMM-CALHC	binary.useful-credible	ndcg	all	0.2887
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	102	0.1135
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	103	0.3798
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	104	0.1610
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	105	0.3983
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	106	0.0000
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	107	0.1610
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	108	0.4270
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	109	0.3701
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	110	0.0000
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	111	0.0714
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	114	0.2707
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	115	0.2920
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	117	0.0000
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	118	0.3349
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	120	0.3769
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	121	0.0268
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	122	0.0988
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	127	0.1335
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	128	0.1607
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	129	0.1583
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	131	0.1522
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	132	0.1573
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	133	0.3202
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	134	0.2536
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	136	0.0276
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	137	0.1461
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	139	0.2727
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	140	0.3583
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	143	0.4493
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	144	0.2456
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	145	0.1334
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	146	0.2830
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	149	0.2521
+input.WatSMM-CALHC	binary.useful-correct-credible	ndcg	all	0.2117
+input.WatSMM-CALHC	graded.harmful-only	runid,topic,compatibility		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,101,0.19896391455134216		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,102,0.2584827044952721		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,103,0.17817315748780485		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,104,0.1656591268667656		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,105,0.0006508485352285086		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,106,0.0		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,107,0.014824510313486064		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,108,0.09467017639674974		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,109,0.04743092969738214		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,110,0.45497186482360474		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,111,0.41055444316984874		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,112,0.17753793403037454		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,114,0.04896038609135289		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,115,0.0		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,117,0.37248922468105955		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,118,0.016500990013805835		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,120,3.4897016339923746e-05		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,121,0.0		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,122,0.003623868359182393		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,128,0.7817125706521252		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,129,0.005606215023633743		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,131,0.09721333434934545		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,132,0.7001689380065037		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,134,0.0008476569503030715		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,136,0.00017279257166006104		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,137,0.20586199512509126		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,139,0.04549652620008347		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,140,0.0		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,143,0.009604236906132864		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,144,0.007385326743379585		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,146,0.05687262136344231		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,149,0.0		
+input.WatSMM-CALHC	graded.harmful-only	WatSMM-CALHC,average,0.13607722470066563		
+input.WatSMM-CALHC	graded.helpful-only	runid,topic,compatibility		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,101,0.06876835229612131		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,102,0.05310713792995732		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,103,0.1400270033781114		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,104,0.09190895687424579		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,105,0.2168936451339332		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,106,0.00447068862141314		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,107,0.09933444664456624		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,108,0.3493497828076662		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,109,0.16885363474189113		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,110,0.0020576457950855095		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,111,0.04463758908898071		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,112,0.11348478404997786		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,114,0.23383842412783756		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,115,0.13399184893576038		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,117,0.10275700781858634		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,118,0.2608782769356464		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,120,0.23676348988553034		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,121,0.04274342176351646		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,122,0.13793566956073822		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,127,0.10798974326181385		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,128,0.08456360227488002		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,129,0.18745106372850576		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,131,0.1414322241124874		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,132,0.11636088686141356		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,133,0.4744645493505113		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,134,0.5028370259757432		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,136,0.05666384045863769		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,137,0.2073716631545307		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,139,0.26750462636246153		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,140,0.5795043659752284		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,143,0.49566547516191833		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,144,0.46735474267981236		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,145,0.13229668399531092		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,146,0.6703599512138972		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,149,0.05461974244951791		
+input.WatSMM-CALHC	graded.helpful-only	WatSMM-CALHC,average,0.20137834266874957		

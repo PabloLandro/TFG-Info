@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.mdt5	2aspects.correct-credible	cam_map	101	0.1459
+input.mdt5	2aspects.correct-credible	cam_map	102	0.1585
+input.mdt5	2aspects.correct-credible	cam_map	103	0.2577
+input.mdt5	2aspects.correct-credible	cam_map	104	0.1825
+input.mdt5	2aspects.correct-credible	cam_map	105	0.2127
+input.mdt5	2aspects.correct-credible	cam_map	106	0.3826
+input.mdt5	2aspects.correct-credible	cam_map	107	0.2296
+input.mdt5	2aspects.correct-credible	cam_map	108	0.2352
+input.mdt5	2aspects.correct-credible	cam_map	109	0.1894
+input.mdt5	2aspects.correct-credible	cam_map	110	0.2352
+input.mdt5	2aspects.correct-credible	cam_map	111	0.1783
+input.mdt5	2aspects.correct-credible	cam_map	112	0.0489
+input.mdt5	2aspects.correct-credible	cam_map	114	0.0284
+input.mdt5	2aspects.correct-credible	cam_map	115	0.2700
+input.mdt5	2aspects.correct-credible	cam_map	117	0.1275
+input.mdt5	2aspects.correct-credible	cam_map	118	0.6197
+input.mdt5	2aspects.correct-credible	cam_map	120	0.3397
+input.mdt5	2aspects.correct-credible	cam_map	121	0.0174
+input.mdt5	2aspects.correct-credible	cam_map	122	0.1275
+input.mdt5	2aspects.correct-credible	cam_map	127	0.2833
+input.mdt5	2aspects.correct-credible	cam_map	128	0.2885
+input.mdt5	2aspects.correct-credible	cam_map	129	0.2417
+input.mdt5	2aspects.correct-credible	cam_map	131	0.2298
+input.mdt5	2aspects.correct-credible	cam_map	132	0.0550
+input.mdt5	2aspects.correct-credible	cam_map	133	0.2742
+input.mdt5	2aspects.correct-credible	cam_map	134	0.3146
+input.mdt5	2aspects.correct-credible	cam_map	136	0.3360
+input.mdt5	2aspects.correct-credible	cam_map	137	0.1986
+input.mdt5	2aspects.correct-credible	cam_map	139	0.1060
+input.mdt5	2aspects.correct-credible	cam_map	140	0.2496
+input.mdt5	2aspects.correct-credible	cam_map	143	0.4084
+input.mdt5	2aspects.correct-credible	cam_map	144	0.3170
+input.mdt5	2aspects.correct-credible	cam_map	145	0.2470
+input.mdt5	2aspects.correct-credible	cam_map	146	0.3463
+input.mdt5	2aspects.correct-credible	cam_map	149	0.3261
+input.mdt5	2aspects.correct-credible	cam_map	all	0.2345
+input.mdt5	2aspects.useful-credible	cam_map	101	0.3553
+input.mdt5	2aspects.useful-credible	cam_map	102	0.2994
+input.mdt5	2aspects.useful-credible	cam_map	103	0.3633
+input.mdt5	2aspects.useful-credible	cam_map	104	0.3148
+input.mdt5	2aspects.useful-credible	cam_map	105	0.2023
+input.mdt5	2aspects.useful-credible	cam_map	106	0.3703
+input.mdt5	2aspects.useful-credible	cam_map	107	0.2826
+input.mdt5	2aspects.useful-credible	cam_map	108	0.2659
+input.mdt5	2aspects.useful-credible	cam_map	109	0.3729
+input.mdt5	2aspects.useful-credible	cam_map	110	0.4091
+input.mdt5	2aspects.useful-credible	cam_map	111	0.3566
+input.mdt5	2aspects.useful-credible	cam_map	112	0.2477
+input.mdt5	2aspects.useful-credible	cam_map	114	0.1407
+input.mdt5	2aspects.useful-credible	cam_map	115	0.2917
+input.mdt5	2aspects.useful-credible	cam_map	117	0.3056
+input.mdt5	2aspects.useful-credible	cam_map	118	0.6259
+input.mdt5	2aspects.useful-credible	cam_map	120	0.4130
+input.mdt5	2aspects.useful-credible	cam_map	121	0.1758
+input.mdt5	2aspects.useful-credible	cam_map	122	0.2573
+input.mdt5	2aspects.useful-credible	cam_map	127	0.3615
+input.mdt5	2aspects.useful-credible	cam_map	128	0.5259
+input.mdt5	2aspects.useful-credible	cam_map	129	0.3450
+input.mdt5	2aspects.useful-credible	cam_map	131	0.2272
+input.mdt5	2aspects.useful-credible	cam_map	132	0.1462
+input.mdt5	2aspects.useful-credible	cam_map	133	0.2740
+input.mdt5	2aspects.useful-credible	cam_map	134	0.3795
+input.mdt5	2aspects.useful-credible	cam_map	136	0.2595
+input.mdt5	2aspects.useful-credible	cam_map	137	0.2830
+input.mdt5	2aspects.useful-credible	cam_map	139	0.3133
+input.mdt5	2aspects.useful-credible	cam_map	140	0.2645
+input.mdt5	2aspects.useful-credible	cam_map	143	0.4506
+input.mdt5	2aspects.useful-credible	cam_map	144	0.3017
+input.mdt5	2aspects.useful-credible	cam_map	145	0.2599
+input.mdt5	2aspects.useful-credible	cam_map	146	0.3603
+input.mdt5	2aspects.useful-credible	cam_map	149	0.3828
+input.mdt5	2aspects.useful-credible	cam_map	all	0.3196
+input.mdt5	3aspects	cam_map_three	101	0.2369
+input.mdt5	3aspects	cam_map_three	102	0.2307
+input.mdt5	3aspects	cam_map_three	103	0.3017
+input.mdt5	3aspects	cam_map_three	104	0.2654
+input.mdt5	3aspects	cam_map_three	105	0.2361
+input.mdt5	3aspects	cam_map_three	106	0.4230
+input.mdt5	3aspects	cam_map_three	107	0.2683
+input.mdt5	3aspects	cam_map_three	108	0.2913
+input.mdt5	3aspects	cam_map_three	109	0.2733
+input.mdt5	3aspects	cam_map_three	110	0.3309
+input.mdt5	3aspects	cam_map_three	111	0.2390
+input.mdt5	3aspects	cam_map_three	112	0.1651
+input.mdt5	3aspects	cam_map_three	114	0.1109
+input.mdt5	3aspects	cam_map_three	115	0.3326
+input.mdt5	3aspects	cam_map_three	117	0.2235
+input.mdt5	3aspects	cam_map_three	118	0.6281
+input.mdt5	3aspects	cam_map_three	120	0.3751
+input.mdt5	3aspects	cam_map_three	121	0.1208
+input.mdt5	3aspects	cam_map_three	122	0.1792
+input.mdt5	3aspects	cam_map_three	127	0.3176
+input.mdt5	3aspects	cam_map_three	128	0.3680
+input.mdt5	3aspects	cam_map_three	129	0.2754
+input.mdt5	3aspects	cam_map_three	131	0.2612
+input.mdt5	3aspects	cam_map_three	132	0.1021
+input.mdt5	3aspects	cam_map_three	133	0.2751
+input.mdt5	3aspects	cam_map_three	134	0.3830
+input.mdt5	3aspects	cam_map_three	136	0.3102
+input.mdt5	3aspects	cam_map_three	137	0.2447
+input.mdt5	3aspects	cam_map_three	139	0.2404
+input.mdt5	3aspects	cam_map_three	140	0.2542
+input.mdt5	3aspects	cam_map_three	143	0.4237
+input.mdt5	3aspects	cam_map_three	144	0.3143
+input.mdt5	3aspects	cam_map_three	145	0.2592
+input.mdt5	3aspects	cam_map_three	146	0.3746
+input.mdt5	3aspects	cam_map_three	149	0.3470
+input.mdt5	3aspects	cam_map_three	all	0.2852
+input.mdt5	graded.usefulness	ndcg	101	0.6217
+input.mdt5	graded.usefulness	ndcg	102	0.5382
+input.mdt5	graded.usefulness	ndcg	103	0.6383
+input.mdt5	graded.usefulness	ndcg	104	0.7714
+input.mdt5	graded.usefulness	ndcg	105	0.5588
+input.mdt5	graded.usefulness	ndcg	106	0.7420
+input.mdt5	graded.usefulness	ndcg	107	0.5589
+input.mdt5	graded.usefulness	ndcg	108	0.6113
+input.mdt5	graded.usefulness	ndcg	109	0.6802
+input.mdt5	graded.usefulness	ndcg	110	0.6792
+input.mdt5	graded.usefulness	ndcg	111	0.6044
+input.mdt5	graded.usefulness	ndcg	112	0.6904
+input.mdt5	graded.usefulness	ndcg	114	0.4803
+input.mdt5	graded.usefulness	ndcg	115	0.7120
+input.mdt5	graded.usefulness	ndcg	117	0.6229
+input.mdt5	graded.usefulness	ndcg	118	0.8734
+input.mdt5	graded.usefulness	ndcg	120	0.7706
+input.mdt5	graded.usefulness	ndcg	121	0.5835
+input.mdt5	graded.usefulness	ndcg	122	0.5440
+input.mdt5	graded.usefulness	ndcg	127	0.6361
+input.mdt5	graded.usefulness	ndcg	128	0.8310
+input.mdt5	graded.usefulness	ndcg	129	0.5879
+input.mdt5	graded.usefulness	ndcg	131	0.6819
+input.mdt5	graded.usefulness	ndcg	132	0.5213
+input.mdt5	graded.usefulness	ndcg	133	0.4856
+input.mdt5	graded.usefulness	ndcg	134	0.7989
+input.mdt5	graded.usefulness	ndcg	136	0.5630
+input.mdt5	graded.usefulness	ndcg	137	0.6222
+input.mdt5	graded.usefulness	ndcg	139	0.8070
+input.mdt5	graded.usefulness	ndcg	140	0.5318
+input.mdt5	graded.usefulness	ndcg	143	0.7150
+input.mdt5	graded.usefulness	ndcg	144	0.4955
+input.mdt5	graded.usefulness	ndcg	145	0.5840
+input.mdt5	graded.usefulness	ndcg	146	0.6160
+input.mdt5	graded.usefulness	ndcg	149	0.6316
+input.mdt5	graded.usefulness	ndcg	all	0.6397
+input.mdt5	binary.useful-correct	P_10	102	0.2000
+input.mdt5	binary.useful-correct	P_10	103	0.2000
+input.mdt5	binary.useful-correct	P_10	104	0.1000
+input.mdt5	binary.useful-correct	P_10	105	1.0000
+input.mdt5	binary.useful-correct	P_10	106	0.8000
+input.mdt5	binary.useful-correct	P_10	107	0.6000
+input.mdt5	binary.useful-correct	P_10	108	0.7000
+input.mdt5	binary.useful-correct	P_10	109	0.0000
+input.mdt5	binary.useful-correct	P_10	110	0.1000
+input.mdt5	binary.useful-correct	P_10	111	0.0000
+input.mdt5	binary.useful-correct	P_10	112	0.0000
+input.mdt5	binary.useful-correct	P_10	114	0.2000
+input.mdt5	binary.useful-correct	P_10	115	0.8000
+input.mdt5	binary.useful-correct	P_10	117	0.0000
+input.mdt5	binary.useful-correct	P_10	118	0.9000
+input.mdt5	binary.useful-correct	P_10	120	0.8000
+input.mdt5	binary.useful-correct	P_10	121	0.0000
+input.mdt5	binary.useful-correct	P_10	122	0.0000
+input.mdt5	binary.useful-correct	P_10	127	0.6000
+input.mdt5	binary.useful-correct	P_10	128	0.0000
+input.mdt5	binary.useful-correct	P_10	129	0.2000
+input.mdt5	binary.useful-correct	P_10	131	1.0000
+input.mdt5	binary.useful-correct	P_10	132	0.0000
+input.mdt5	binary.useful-correct	P_10	133	1.0000
+input.mdt5	binary.useful-correct	P_10	134	0.6000
+input.mdt5	binary.useful-correct	P_10	136	0.6000
+input.mdt5	binary.useful-correct	P_10	137	0.4000
+input.mdt5	binary.useful-correct	P_10	139	0.0000
+input.mdt5	binary.useful-correct	P_10	140	1.0000
+input.mdt5	binary.useful-correct	P_10	143	1.0000
+input.mdt5	binary.useful-correct	P_10	144	0.9000
+input.mdt5	binary.useful-correct	P_10	145	0.0000
+input.mdt5	binary.useful-correct	P_10	146	0.9000
+input.mdt5	binary.useful-correct	P_10	149	0.4000
+input.mdt5	binary.useful-correct	P_10	all	0.4412
+input.mdt5	binary.incorrect	P_10	101	0.8000
+input.mdt5	binary.incorrect	P_10	102	0.8000
+input.mdt5	binary.incorrect	P_10	103	0.6000
+input.mdt5	binary.incorrect	P_10	104	0.8000
+input.mdt5	binary.incorrect	P_10	105	0.0000
+input.mdt5	binary.incorrect	P_10	106	0.0000
+input.mdt5	binary.incorrect	P_10	107	0.0000
+input.mdt5	binary.incorrect	P_10	108	0.1000
+input.mdt5	binary.incorrect	P_10	109	0.2000
+input.mdt5	binary.incorrect	P_10	110	0.8000
+input.mdt5	binary.incorrect	P_10	111	0.5000
+input.mdt5	binary.incorrect	P_10	112	0.9000
+input.mdt5	binary.incorrect	P_10	114	0.1000
+input.mdt5	binary.incorrect	P_10	115	0.0000
+input.mdt5	binary.incorrect	P_10	117	0.3000
+input.mdt5	binary.incorrect	P_10	118	0.0000
+input.mdt5	binary.incorrect	P_10	120	0.0000
+input.mdt5	binary.incorrect	P_10	121	0.0000
+input.mdt5	binary.incorrect	P_10	122	0.7000
+input.mdt5	binary.incorrect	P_10	128	0.9000
+input.mdt5	binary.incorrect	P_10	129	0.2000
+input.mdt5	binary.incorrect	P_10	131	0.0000
+input.mdt5	binary.incorrect	P_10	132	0.7000
+input.mdt5	binary.incorrect	P_10	134	0.3000
+input.mdt5	binary.incorrect	P_10	136	0.0000
+input.mdt5	binary.incorrect	P_10	137	0.6000
+input.mdt5	binary.incorrect	P_10	139	1.0000
+input.mdt5	binary.incorrect	P_10	140	0.0000
+input.mdt5	binary.incorrect	P_10	143	0.0000
+input.mdt5	binary.incorrect	P_10	144	0.0000
+input.mdt5	binary.incorrect	P_10	146	0.0000
+input.mdt5	binary.incorrect	P_10	149	0.0000
+input.mdt5	binary.incorrect	P_10	all	0.3219
+input.mdt5	binary.useful-correct	ndcg	102	0.3912
+input.mdt5	binary.useful-correct	ndcg	103	0.5848
+input.mdt5	binary.useful-correct	ndcg	104	0.3066
+input.mdt5	binary.useful-correct	ndcg	105	0.5390
+input.mdt5	binary.useful-correct	ndcg	106	0.8218
+input.mdt5	binary.useful-correct	ndcg	107	0.5418
+input.mdt5	binary.useful-correct	ndcg	108	0.6500
+input.mdt5	binary.useful-correct	ndcg	109	0.4335
+input.mdt5	binary.useful-correct	ndcg	110	0.5444
+input.mdt5	binary.useful-correct	ndcg	111	0.1120
+input.mdt5	binary.useful-correct	ndcg	112	0.0000
+input.mdt5	binary.useful-correct	ndcg	114	0.2447
+input.mdt5	binary.useful-correct	ndcg	115	0.7581
+input.mdt5	binary.useful-correct	ndcg	117	0.3188
+input.mdt5	binary.useful-correct	ndcg	118	0.9088
+input.mdt5	binary.useful-correct	ndcg	120	0.6957
+input.mdt5	binary.useful-correct	ndcg	121	0.1440
+input.mdt5	binary.useful-correct	ndcg	122	0.2604
+input.mdt5	binary.useful-correct	ndcg	127	0.5646
+input.mdt5	binary.useful-correct	ndcg	128	0.3833
+input.mdt5	binary.useful-correct	ndcg	129	0.4925
+input.mdt5	binary.useful-correct	ndcg	131	0.6805
+input.mdt5	binary.useful-correct	ndcg	132	0.1784
+input.mdt5	binary.useful-correct	ndcg	133	0.4885
+input.mdt5	binary.useful-correct	ndcg	134	0.7450
+input.mdt5	binary.useful-correct	ndcg	136	0.6557
+input.mdt5	binary.useful-correct	ndcg	137	0.3729
+input.mdt5	binary.useful-correct	ndcg	139	0.4005
+input.mdt5	binary.useful-correct	ndcg	140	0.4993
+input.mdt5	binary.useful-correct	ndcg	143	0.7298
+input.mdt5	binary.useful-correct	ndcg	144	0.5439
+input.mdt5	binary.useful-correct	ndcg	145	0.5615
+input.mdt5	binary.useful-correct	ndcg	146	0.6518
+input.mdt5	binary.useful-correct	ndcg	149	0.6053
+input.mdt5	binary.useful-correct	ndcg	all	0.4944
+input.mdt5	binary.useful-credible	ndcg	101	0.5465
+input.mdt5	binary.useful-credible	ndcg	102	0.5323
+input.mdt5	binary.useful-credible	ndcg	103	0.6837
+input.mdt5	binary.useful-credible	ndcg	104	0.6280
+input.mdt5	binary.useful-credible	ndcg	105	0.3972
+input.mdt5	binary.useful-credible	ndcg	106	0.6241
+input.mdt5	binary.useful-credible	ndcg	107	0.5627
+input.mdt5	binary.useful-credible	ndcg	108	0.4096
+input.mdt5	binary.useful-credible	ndcg	109	0.6513
+input.mdt5	binary.useful-credible	ndcg	110	0.6002
+input.mdt5	binary.useful-credible	ndcg	111	0.6396
+input.mdt5	binary.useful-credible	ndcg	112	0.4504
+input.mdt5	binary.useful-credible	ndcg	114	0.1066
+input.mdt5	binary.useful-credible	ndcg	115	0.4864
+input.mdt5	binary.useful-credible	ndcg	117	0.5418
+input.mdt5	binary.useful-credible	ndcg	118	0.8989
+input.mdt5	binary.useful-credible	ndcg	120	0.7097
+input.mdt5	binary.useful-credible	ndcg	121	0.1975
+input.mdt5	binary.useful-credible	ndcg	122	0.5295
+input.mdt5	binary.useful-credible	ndcg	127	0.6282
+input.mdt5	binary.useful-credible	ndcg	128	0.8596
+input.mdt5	binary.useful-credible	ndcg	129	0.6099
+input.mdt5	binary.useful-credible	ndcg	131	0.5304
+input.mdt5	binary.useful-credible	ndcg	132	0.3938
+input.mdt5	binary.useful-credible	ndcg	133	0.4812
+input.mdt5	binary.useful-credible	ndcg	134	0.6088
+input.mdt5	binary.useful-credible	ndcg	136	0.5513
+input.mdt5	binary.useful-credible	ndcg	137	0.4478
+input.mdt5	binary.useful-credible	ndcg	139	0.4556
+input.mdt5	binary.useful-credible	ndcg	140	0.5483
+input.mdt5	binary.useful-credible	ndcg	143	0.7592
+input.mdt5	binary.useful-credible	ndcg	144	0.4924
+input.mdt5	binary.useful-credible	ndcg	145	0.5494
+input.mdt5	binary.useful-credible	ndcg	146	0.5967
+input.mdt5	binary.useful-credible	ndcg	149	0.6611
+input.mdt5	binary.useful-credible	ndcg	all	0.5534
+input.mdt5	binary.useful-correct-credible	ndcg	102	0.3410
+input.mdt5	binary.useful-correct-credible	ndcg	103	0.5662
+input.mdt5	binary.useful-correct-credible	ndcg	104	0.3066
+input.mdt5	binary.useful-correct-credible	ndcg	105	0.3780
+input.mdt5	binary.useful-correct-credible	ndcg	106	0.6241
+input.mdt5	binary.useful-correct-credible	ndcg	107	0.3995
+input.mdt5	binary.useful-correct-credible	ndcg	108	0.3990
+input.mdt5	binary.useful-correct-credible	ndcg	109	0.4219
+input.mdt5	binary.useful-correct-credible	ndcg	110	0.2170
+input.mdt5	binary.useful-correct-credible	ndcg	111	0.0792
+input.mdt5	binary.useful-correct-credible	ndcg	114	0.1114
+input.mdt5	binary.useful-correct-credible	ndcg	115	0.4833
+input.mdt5	binary.useful-correct-credible	ndcg	117	0.2676
+input.mdt5	binary.useful-correct-credible	ndcg	118	0.8961
+input.mdt5	binary.useful-correct-credible	ndcg	120	0.6413
+input.mdt5	binary.useful-correct-credible	ndcg	121	0.1110
+input.mdt5	binary.useful-correct-credible	ndcg	122	0.2051
+input.mdt5	binary.useful-correct-credible	ndcg	127	0.4988
+input.mdt5	binary.useful-correct-credible	ndcg	128	0.3833
+input.mdt5	binary.useful-correct-credible	ndcg	129	0.4890
+input.mdt5	binary.useful-correct-credible	ndcg	131	0.5682
+input.mdt5	binary.useful-correct-credible	ndcg	132	0.0900
+input.mdt5	binary.useful-correct-credible	ndcg	133	0.4911
+input.mdt5	binary.useful-correct-credible	ndcg	134	0.5770
+input.mdt5	binary.useful-correct-credible	ndcg	136	0.6557
+input.mdt5	binary.useful-correct-credible	ndcg	137	0.3270
+input.mdt5	binary.useful-correct-credible	ndcg	139	0.3455
+input.mdt5	binary.useful-correct-credible	ndcg	140	0.5037
+input.mdt5	binary.useful-correct-credible	ndcg	143	0.7259
+input.mdt5	binary.useful-correct-credible	ndcg	144	0.5440
+input.mdt5	binary.useful-correct-credible	ndcg	145	0.5239
+input.mdt5	binary.useful-correct-credible	ndcg	146	0.5941
+input.mdt5	binary.useful-correct-credible	ndcg	149	0.6018
+input.mdt5	binary.useful-correct-credible	ndcg	all	0.4354
+input.mdt5	graded.harmful-only	runid,topic,compatibility		
+input.mdt5	graded.harmful-only	mdt5,101,0.3667642963285494		
+input.mdt5	graded.harmful-only	mdt5,102,0.06191917487805797		
+input.mdt5	graded.harmful-only	mdt5,103,0.13769340022127466		
+input.mdt5	graded.harmful-only	mdt5,104,0.08520672098381427		
+input.mdt5	graded.harmful-only	mdt5,105,0.007366837966599464		
+input.mdt5	graded.harmful-only	mdt5,106,0.0		
+input.mdt5	graded.harmful-only	mdt5,107,0.03841671638576017		
+input.mdt5	graded.harmful-only	mdt5,108,0.07270189317179167		
+input.mdt5	graded.harmful-only	mdt5,109,0.07983696558588493		
+input.mdt5	graded.harmful-only	mdt5,110,0.2586697347737101		
+input.mdt5	graded.harmful-only	mdt5,111,0.2891434515236623		
+input.mdt5	graded.harmful-only	mdt5,112,0.3378491526007037		
+input.mdt5	graded.harmful-only	mdt5,114,0.10999682476858903		
+input.mdt5	graded.harmful-only	mdt5,115,7.100309564512646e-16		
+input.mdt5	graded.harmful-only	mdt5,117,0.33648426405283394		
+input.mdt5	graded.harmful-only	mdt5,118,1.6682586765002045e-07		
+input.mdt5	graded.harmful-only	mdt5,120,1.81543310561241e-23		
+input.mdt5	graded.harmful-only	mdt5,121,0.05711040764672824		
+input.mdt5	graded.harmful-only	mdt5,122,0.40958173296854183		
+input.mdt5	graded.harmful-only	mdt5,128,0.8273185574326501		
+input.mdt5	graded.harmful-only	mdt5,129,0.20345224077886656		
+input.mdt5	graded.harmful-only	mdt5,131,3.9950903015289846e-18		
+input.mdt5	graded.harmful-only	mdt5,132,0.3518149973904666		
+input.mdt5	graded.harmful-only	mdt5,134,0.2932780986191387		
+input.mdt5	graded.harmful-only	mdt5,136,0.06984564887485525		
+input.mdt5	graded.harmful-only	mdt5,137,0.5391189655928539		
+input.mdt5	graded.harmful-only	mdt5,139,0.37439602896704666		
+input.mdt5	graded.harmful-only	mdt5,140,1.159336542141518e-13		
+input.mdt5	graded.harmful-only	mdt5,143,0.04509037084656795		
+input.mdt5	graded.harmful-only	mdt5,144,0.0		
+input.mdt5	graded.harmful-only	mdt5,146,0.00022336222591057853		
+input.mdt5	graded.harmful-only	mdt5,149,0.03671179590707016		
+input.mdt5	graded.harmful-only	mdt5,average,0.16843724397868476		
+input.mdt5	graded.helpful-only	runid,topic,compatibility		
+input.mdt5	graded.helpful-only	mdt5,101,0.050768671442102245		
+input.mdt5	graded.helpful-only	mdt5,102,0.11071930788185644		
+input.mdt5	graded.helpful-only	mdt5,103,0.21734153975811238		
+input.mdt5	graded.helpful-only	mdt5,104,0.2921127146574121		
+input.mdt5	graded.helpful-only	mdt5,105,0.1436090104659673		
+input.mdt5	graded.helpful-only	mdt5,106,0.2741792333009972		
+input.mdt5	graded.helpful-only	mdt5,107,0.20707627580986676		
+input.mdt5	graded.helpful-only	mdt5,108,0.11096502451230705		
+input.mdt5	graded.helpful-only	mdt5,109,0.020521894302366596		
+input.mdt5	graded.helpful-only	mdt5,110,0.0972630943521143		
+input.mdt5	graded.helpful-only	mdt5,111,0.14281568435463599		
+input.mdt5	graded.helpful-only	mdt5,112,0.02080340063040348		
+input.mdt5	graded.helpful-only	mdt5,114,0.08838599098772619		
+input.mdt5	graded.helpful-only	mdt5,115,0.07025811616289936		
+input.mdt5	graded.helpful-only	mdt5,117,0.19464554398621453		
+input.mdt5	graded.helpful-only	mdt5,118,0.2250877966746435		
+input.mdt5	graded.helpful-only	mdt5,120,0.2175684263084882		
+input.mdt5	graded.helpful-only	mdt5,121,0.13192757624686136		
+input.mdt5	graded.helpful-only	mdt5,122,0.07433120261448596		
+input.mdt5	graded.helpful-only	mdt5,127,0.32460592303964		
+input.mdt5	graded.helpful-only	mdt5,128,0.0652108655462291		
+input.mdt5	graded.helpful-only	mdt5,129,0.15882491306952556		
+input.mdt5	graded.helpful-only	mdt5,131,0.12738368808928918		
+input.mdt5	graded.helpful-only	mdt5,132,0.04646104531707372		
+input.mdt5	graded.helpful-only	mdt5,133,0.43929059550714444		
+input.mdt5	graded.helpful-only	mdt5,134,0.1452129631541232		
+input.mdt5	graded.helpful-only	mdt5,136,0.5987605337950178		
+input.mdt5	graded.helpful-only	mdt5,137,0.2302511851924118		
+input.mdt5	graded.helpful-only	mdt5,139,0.048082553956191355		
+input.mdt5	graded.helpful-only	mdt5,140,0.6651307353776706		
+input.mdt5	graded.helpful-only	mdt5,143,0.49917673989880634		
+input.mdt5	graded.helpful-only	mdt5,144,0.5627636106398298		
+input.mdt5	graded.helpful-only	mdt5,145,0.16678486080192603		
+input.mdt5	graded.helpful-only	mdt5,146,0.5133994629814974		
+input.mdt5	graded.helpful-only	mdt5,149,0.1375317166467599		
+input.mdt5	graded.helpful-only	mdt5,average,0.21197862564178846		

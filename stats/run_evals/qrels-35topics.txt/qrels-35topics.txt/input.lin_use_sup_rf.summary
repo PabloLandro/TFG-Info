@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	101	0.0169
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	102	0.0154
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	103	0.0710
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	104	0.0136
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	105	0.0936
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	106	0.1006
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	107	0.1429
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	108	0.0312
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	109	0.0362
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	110	0.1012
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	111	0.0329
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	112	0.2610
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	114	0.0108
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	115	0.0812
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	117	0.0493
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	118	0.2214
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	120	0.1210
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	121	0.0018
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	122	0.0266
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	127	0.0502
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	128	0.0415
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	129	0.0477
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	131	0.1114
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	132	0.0138
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	133	0.1760
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	134	0.0636
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	136	0.1245
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	137	0.1421
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	139	0.0108
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	140	0.0351
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	143	0.0700
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	144	0.1848
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	145	0.0265
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	146	0.2550
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	149	0.0386
+input.lin_use_sup_rf	2aspects.correct-credible	cam_map	all	0.0806
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	101	0.0982
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	102	0.0634
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	103	0.1559
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	104	0.0341
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	105	0.1213
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	106	0.1001
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	107	0.1780
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	108	0.0414
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	109	0.0763
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	110	0.1800
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	111	0.0677
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	112	0.0999
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	114	0.0761
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	115	0.0788
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	117	0.1348
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	118	0.2269
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	120	0.1507
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	121	0.0058
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	122	0.0620
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	127	0.0467
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	128	0.0803
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	129	0.0713
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	131	0.1163
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	132	0.0227
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	133	0.1766
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	134	0.0789
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	136	0.1367
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	137	0.1773
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	139	0.1017
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	140	0.0532
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	143	0.1213
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	144	0.1824
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	145	0.0271
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	146	0.2492
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	149	0.0464
+input.lin_use_sup_rf	2aspects.useful-credible	cam_map	all	0.1040
+input.lin_use_sup_rf	3aspects	cam_map_three	101	0.0655
+input.lin_use_sup_rf	3aspects	cam_map_three	102	0.0441
+input.lin_use_sup_rf	3aspects	cam_map_three	103	0.1094
+input.lin_use_sup_rf	3aspects	cam_map_three	104	0.0254
+input.lin_use_sup_rf	3aspects	cam_map_three	105	0.1062
+input.lin_use_sup_rf	3aspects	cam_map_three	106	0.1167
+input.lin_use_sup_rf	3aspects	cam_map_three	107	0.1773
+input.lin_use_sup_rf	3aspects	cam_map_three	108	0.0453
+input.lin_use_sup_rf	3aspects	cam_map_three	109	0.0574
+input.lin_use_sup_rf	3aspects	cam_map_three	110	0.1450
+input.lin_use_sup_rf	3aspects	cam_map_three	111	0.0469
+input.lin_use_sup_rf	3aspects	cam_map_three	112	0.2333
+input.lin_use_sup_rf	3aspects	cam_map_three	114	0.0544
+input.lin_use_sup_rf	3aspects	cam_map_three	115	0.0973
+input.lin_use_sup_rf	3aspects	cam_map_three	117	0.1024
+input.lin_use_sup_rf	3aspects	cam_map_three	118	0.2290
+input.lin_use_sup_rf	3aspects	cam_map_three	120	0.1665
+input.lin_use_sup_rf	3aspects	cam_map_three	121	0.0045
+input.lin_use_sup_rf	3aspects	cam_map_three	122	0.0434
+input.lin_use_sup_rf	3aspects	cam_map_three	127	0.0550
+input.lin_use_sup_rf	3aspects	cam_map_three	128	0.0544
+input.lin_use_sup_rf	3aspects	cam_map_three	129	0.0560
+input.lin_use_sup_rf	3aspects	cam_map_three	131	0.1350
+input.lin_use_sup_rf	3aspects	cam_map_three	132	0.0227
+input.lin_use_sup_rf	3aspects	cam_map_three	133	0.1807
+input.lin_use_sup_rf	3aspects	cam_map_three	134	0.0779
+input.lin_use_sup_rf	3aspects	cam_map_three	136	0.1301
+input.lin_use_sup_rf	3aspects	cam_map_three	137	0.1638
+input.lin_use_sup_rf	3aspects	cam_map_three	139	0.0709
+input.lin_use_sup_rf	3aspects	cam_map_three	140	0.0415
+input.lin_use_sup_rf	3aspects	cam_map_three	143	0.0920
+input.lin_use_sup_rf	3aspects	cam_map_three	144	0.1834
+input.lin_use_sup_rf	3aspects	cam_map_three	145	0.0268
+input.lin_use_sup_rf	3aspects	cam_map_three	146	0.2624
+input.lin_use_sup_rf	3aspects	cam_map_three	149	0.0411
+input.lin_use_sup_rf	3aspects	cam_map_three	all	0.0990
+input.lin_use_sup_rf	graded.usefulness	ndcg	101	0.4772
+input.lin_use_sup_rf	graded.usefulness	ndcg	102	0.2866
+input.lin_use_sup_rf	graded.usefulness	ndcg	103	0.4576
+input.lin_use_sup_rf	graded.usefulness	ndcg	104	0.2910
+input.lin_use_sup_rf	graded.usefulness	ndcg	105	0.3375
+input.lin_use_sup_rf	graded.usefulness	ndcg	106	0.4585
+input.lin_use_sup_rf	graded.usefulness	ndcg	107	0.6087
+input.lin_use_sup_rf	graded.usefulness	ndcg	108	0.3459
+input.lin_use_sup_rf	graded.usefulness	ndcg	109	0.4505
+input.lin_use_sup_rf	graded.usefulness	ndcg	110	0.5670
+input.lin_use_sup_rf	graded.usefulness	ndcg	111	0.3461
+input.lin_use_sup_rf	graded.usefulness	ndcg	112	0.5230
+input.lin_use_sup_rf	graded.usefulness	ndcg	114	0.3433
+input.lin_use_sup_rf	graded.usefulness	ndcg	115	0.3884
+input.lin_use_sup_rf	graded.usefulness	ndcg	117	0.4432
+input.lin_use_sup_rf	graded.usefulness	ndcg	118	0.6325
+input.lin_use_sup_rf	graded.usefulness	ndcg	120	0.5512
+input.lin_use_sup_rf	graded.usefulness	ndcg	121	0.1371
+input.lin_use_sup_rf	graded.usefulness	ndcg	122	0.3244
+input.lin_use_sup_rf	graded.usefulness	ndcg	127	0.2934
+input.lin_use_sup_rf	graded.usefulness	ndcg	128	0.3878
+input.lin_use_sup_rf	graded.usefulness	ndcg	129	0.2863
+input.lin_use_sup_rf	graded.usefulness	ndcg	131	0.4725
+input.lin_use_sup_rf	graded.usefulness	ndcg	132	0.2260
+input.lin_use_sup_rf	graded.usefulness	ndcg	133	0.4484
+input.lin_use_sup_rf	graded.usefulness	ndcg	134	0.4235
+input.lin_use_sup_rf	graded.usefulness	ndcg	136	0.5105
+input.lin_use_sup_rf	graded.usefulness	ndcg	137	0.5929
+input.lin_use_sup_rf	graded.usefulness	ndcg	139	0.5237
+input.lin_use_sup_rf	graded.usefulness	ndcg	140	0.2266
+input.lin_use_sup_rf	graded.usefulness	ndcg	143	0.3867
+input.lin_use_sup_rf	graded.usefulness	ndcg	144	0.5159
+input.lin_use_sup_rf	graded.usefulness	ndcg	145	0.2417
+input.lin_use_sup_rf	graded.usefulness	ndcg	146	0.6023
+input.lin_use_sup_rf	graded.usefulness	ndcg	149	0.2480
+input.lin_use_sup_rf	graded.usefulness	ndcg	all	0.4102
+input.lin_use_sup_rf	binary.useful-correct	P_10	102	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	103	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	104	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	105	0.6000
+input.lin_use_sup_rf	binary.useful-correct	P_10	106	0.4000
+input.lin_use_sup_rf	binary.useful-correct	P_10	107	0.5000
+input.lin_use_sup_rf	binary.useful-correct	P_10	108	0.2000
+input.lin_use_sup_rf	binary.useful-correct	P_10	109	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	110	0.2000
+input.lin_use_sup_rf	binary.useful-correct	P_10	111	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	112	0.1000
+input.lin_use_sup_rf	binary.useful-correct	P_10	114	0.2000
+input.lin_use_sup_rf	binary.useful-correct	P_10	115	0.7000
+input.lin_use_sup_rf	binary.useful-correct	P_10	117	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	118	0.6000
+input.lin_use_sup_rf	binary.useful-correct	P_10	120	0.7000
+input.lin_use_sup_rf	binary.useful-correct	P_10	121	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	122	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	127	0.2000
+input.lin_use_sup_rf	binary.useful-correct	P_10	128	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	129	0.2000
+input.lin_use_sup_rf	binary.useful-correct	P_10	131	0.8000
+input.lin_use_sup_rf	binary.useful-correct	P_10	132	0.1000
+input.lin_use_sup_rf	binary.useful-correct	P_10	133	1.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	134	0.1000
+input.lin_use_sup_rf	binary.useful-correct	P_10	136	0.2000
+input.lin_use_sup_rf	binary.useful-correct	P_10	137	0.1000
+input.lin_use_sup_rf	binary.useful-correct	P_10	139	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	140	0.2000
+input.lin_use_sup_rf	binary.useful-correct	P_10	143	0.1000
+input.lin_use_sup_rf	binary.useful-correct	P_10	144	0.7000
+input.lin_use_sup_rf	binary.useful-correct	P_10	145	0.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	146	1.0000
+input.lin_use_sup_rf	binary.useful-correct	P_10	149	0.1000
+input.lin_use_sup_rf	binary.useful-correct	P_10	all	0.2647
+input.lin_use_sup_rf	binary.incorrect	P_10	101	0.9000
+input.lin_use_sup_rf	binary.incorrect	P_10	102	0.7000
+input.lin_use_sup_rf	binary.incorrect	P_10	103	0.9000
+input.lin_use_sup_rf	binary.incorrect	P_10	104	0.2000
+input.lin_use_sup_rf	binary.incorrect	P_10	105	0.1000
+input.lin_use_sup_rf	binary.incorrect	P_10	106	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	107	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	108	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	109	0.4000
+input.lin_use_sup_rf	binary.incorrect	P_10	110	0.6000
+input.lin_use_sup_rf	binary.incorrect	P_10	111	0.3000
+input.lin_use_sup_rf	binary.incorrect	P_10	112	0.3000
+input.lin_use_sup_rf	binary.incorrect	P_10	114	0.1000
+input.lin_use_sup_rf	binary.incorrect	P_10	115	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	117	0.1000
+input.lin_use_sup_rf	binary.incorrect	P_10	118	0.1000
+input.lin_use_sup_rf	binary.incorrect	P_10	120	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	121	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	122	0.1000
+input.lin_use_sup_rf	binary.incorrect	P_10	128	0.3000
+input.lin_use_sup_rf	binary.incorrect	P_10	129	0.1000
+input.lin_use_sup_rf	binary.incorrect	P_10	131	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	132	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	134	0.2000
+input.lin_use_sup_rf	binary.incorrect	P_10	136	0.1000
+input.lin_use_sup_rf	binary.incorrect	P_10	137	0.3000
+input.lin_use_sup_rf	binary.incorrect	P_10	139	0.8000
+input.lin_use_sup_rf	binary.incorrect	P_10	140	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	143	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	144	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	146	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	149	0.0000
+input.lin_use_sup_rf	binary.incorrect	P_10	all	0.2062
+input.lin_use_sup_rf	binary.useful-correct	ndcg	102	0.1232
+input.lin_use_sup_rf	binary.useful-correct	ndcg	103	0.1739
+input.lin_use_sup_rf	binary.useful-correct	ndcg	104	0.1640
+input.lin_use_sup_rf	binary.useful-correct	ndcg	105	0.2958
+input.lin_use_sup_rf	binary.useful-correct	ndcg	106	0.5437
+input.lin_use_sup_rf	binary.useful-correct	ndcg	107	0.5857
+input.lin_use_sup_rf	binary.useful-correct	ndcg	108	0.3392
+input.lin_use_sup_rf	binary.useful-correct	ndcg	109	0.2400
+input.lin_use_sup_rf	binary.useful-correct	ndcg	110	0.3947
+input.lin_use_sup_rf	binary.useful-correct	ndcg	111	0.1209
+input.lin_use_sup_rf	binary.useful-correct	ndcg	112	0.6309
+input.lin_use_sup_rf	binary.useful-correct	ndcg	114	0.1440
+input.lin_use_sup_rf	binary.useful-correct	ndcg	115	0.4270
+input.lin_use_sup_rf	binary.useful-correct	ndcg	117	0.2846
+input.lin_use_sup_rf	binary.useful-correct	ndcg	118	0.6778
+input.lin_use_sup_rf	binary.useful-correct	ndcg	120	0.5576
+input.lin_use_sup_rf	binary.useful-correct	ndcg	121	0.0539
+input.lin_use_sup_rf	binary.useful-correct	ndcg	122	0.1912
+input.lin_use_sup_rf	binary.useful-correct	ndcg	127	0.3380
+input.lin_use_sup_rf	binary.useful-correct	ndcg	128	0.0699
+input.lin_use_sup_rf	binary.useful-correct	ndcg	129	0.2388
+input.lin_use_sup_rf	binary.useful-correct	ndcg	131	0.4767
+input.lin_use_sup_rf	binary.useful-correct	ndcg	132	0.1524
+input.lin_use_sup_rf	binary.useful-correct	ndcg	133	0.4556
+input.lin_use_sup_rf	binary.useful-correct	ndcg	134	0.3814
+input.lin_use_sup_rf	binary.useful-correct	ndcg	136	0.5438
+input.lin_use_sup_rf	binary.useful-correct	ndcg	137	0.3947
+input.lin_use_sup_rf	binary.useful-correct	ndcg	139	0.1646
+input.lin_use_sup_rf	binary.useful-correct	ndcg	140	0.1820
+input.lin_use_sup_rf	binary.useful-correct	ndcg	143	0.2616
+input.lin_use_sup_rf	binary.useful-correct	ndcg	144	0.5288
+input.lin_use_sup_rf	binary.useful-correct	ndcg	145	0.2383
+input.lin_use_sup_rf	binary.useful-correct	ndcg	146	0.6163
+input.lin_use_sup_rf	binary.useful-correct	ndcg	149	0.2481
+input.lin_use_sup_rf	binary.useful-correct	ndcg	all	0.3306
+input.lin_use_sup_rf	binary.useful-credible	ndcg	101	0.2563
+input.lin_use_sup_rf	binary.useful-credible	ndcg	102	0.2100
+input.lin_use_sup_rf	binary.useful-credible	ndcg	103	0.4575
+input.lin_use_sup_rf	binary.useful-credible	ndcg	104	0.2242
+input.lin_use_sup_rf	binary.useful-credible	ndcg	105	0.3361
+input.lin_use_sup_rf	binary.useful-credible	ndcg	106	0.3377
+input.lin_use_sup_rf	binary.useful-credible	ndcg	107	0.4761
+input.lin_use_sup_rf	binary.useful-credible	ndcg	108	0.1716
+input.lin_use_sup_rf	binary.useful-credible	ndcg	109	0.3377
+input.lin_use_sup_rf	binary.useful-credible	ndcg	110	0.4852
+input.lin_use_sup_rf	binary.useful-credible	ndcg	111	0.3089
+input.lin_use_sup_rf	binary.useful-credible	ndcg	112	0.2650
+input.lin_use_sup_rf	binary.useful-credible	ndcg	114	0.1240
+input.lin_use_sup_rf	binary.useful-credible	ndcg	115	0.2015
+input.lin_use_sup_rf	binary.useful-credible	ndcg	117	0.3037
+input.lin_use_sup_rf	binary.useful-credible	ndcg	118	0.6279
+input.lin_use_sup_rf	binary.useful-credible	ndcg	120	0.3036
+input.lin_use_sup_rf	binary.useful-credible	ndcg	121	0.0436
+input.lin_use_sup_rf	binary.useful-credible	ndcg	122	0.2720
+input.lin_use_sup_rf	binary.useful-credible	ndcg	127	0.1806
+input.lin_use_sup_rf	binary.useful-credible	ndcg	128	0.3949
+input.lin_use_sup_rf	binary.useful-credible	ndcg	129	0.2998
+input.lin_use_sup_rf	binary.useful-credible	ndcg	131	0.3274
+input.lin_use_sup_rf	binary.useful-credible	ndcg	132	0.1054
+input.lin_use_sup_rf	binary.useful-credible	ndcg	133	0.4277
+input.lin_use_sup_rf	binary.useful-credible	ndcg	134	0.3308
+input.lin_use_sup_rf	binary.useful-credible	ndcg	136	0.4627
+input.lin_use_sup_rf	binary.useful-credible	ndcg	137	0.4788
+input.lin_use_sup_rf	binary.useful-credible	ndcg	139	0.1836
+input.lin_use_sup_rf	binary.useful-credible	ndcg	140	0.2656
+input.lin_use_sup_rf	binary.useful-credible	ndcg	143	0.3712
+input.lin_use_sup_rf	binary.useful-credible	ndcg	144	0.5073
+input.lin_use_sup_rf	binary.useful-credible	ndcg	145	0.2387
+input.lin_use_sup_rf	binary.useful-credible	ndcg	146	0.5487
+input.lin_use_sup_rf	binary.useful-credible	ndcg	149	0.2706
+input.lin_use_sup_rf	binary.useful-credible	ndcg	all	0.3182
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	102	0.1278
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	103	0.1799
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	104	0.1640
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	105	0.2624
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	106	0.3377
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	107	0.4349
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	108	0.1574
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	109	0.2316
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	110	0.1328
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	111	0.1510
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	114	0.0350
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	115	0.2226
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	117	0.2514
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	118	0.6394
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	120	0.2622
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	121	0.0408
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	122	0.1060
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	127	0.2164
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	128	0.0699
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	129	0.2343
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	131	0.3357
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	132	0.0718
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	133	0.4396
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	134	0.3243
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	136	0.5438
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	137	0.4729
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	139	0.1509
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	140	0.1836
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	143	0.2339
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	144	0.5352
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	145	0.2185
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	146	0.5582
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	149	0.2496
+input.lin_use_sup_rf	binary.useful-correct-credible	ndcg	all	0.2599
+input.lin_use_sup_rf	graded.harmful-only	runid,topic,compatibility		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,101,0.03508857459023654		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,102,0.011823896172457937		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,103,0.3334605968073765		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,104,0.03032706919405991		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,105,0.09197743660753696		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,106,0.0		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,107,0.0048288936186484		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,108,0.01251070167833034		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,109,0.05093095846642307		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,110,0.30375090933244525		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,111,0.20295218427819947		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,112,0.20018421842726708		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,114,0.08887605976241265		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,115,0.0		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,117,0.07300732952742457		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,118,0.08050627291552002		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,120,1.1266401694937445e-06		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,121,1.0064532564996798e-14		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,122,0.0853045415285014		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,128,0.22772794344447805		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,129,0.07407531177854099		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,131,0.051860517066955096		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,132,0.012038175652131266		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,134,0.11577036146031044		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,136,0.3386149365126216		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,137,0.269310722146001		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,139,0.227734883232021		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,140,0.05687262136344231		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,143,0.03476115831727296		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,144,0.0		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,146,0.0		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,149,5.406655211358619e-07		
+input.lin_use_sup_rf	graded.harmful-only	lin_use_sup_rf,average,0.09419681066207236		
+input.lin_use_sup_rf	graded.helpful-only	runid,topic,compatibility		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,101,0.01559615273705812		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,102,0.0005566633365080826		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,103,0.03240479928990418		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,104,2.6473996832462427e-06		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,105,0.051244265391505964		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,106,0.06633828904688403		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,107,0.15308592473307112		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,108,0.024854825463972875		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,109,0.019357640621384325		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,110,0.11753922513471463		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,111,0.019044747521975228		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,112,0.15995029450411058		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,114,0.041310299054197724		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,115,0.03257102596279471		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,117,0.09776728058742049		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,118,0.13059107284064164		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,120,0.07672052094215141		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,121,0.02142767611742479		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,122,0.05178193909656018		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,127,0.09927395840252967		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,128,0.026727395021728856		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,129,0.023296863667937887		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,131,0.07700342084793939		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,132,0.04995682498455747		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,133,0.13457809982163618		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,134,0.05155341690641236		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,136,0.23958434964369393		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,137,0.17060327624104754		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,139,0.015082879985572133		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,140,0.12379964893795635		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,143,0.047182109117687526		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,144,0.4870059058282698		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,145,0.030448420432128972		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,146,0.5387854882038747		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,149,0.041293634473199205		
+input.lin_use_sup_rf	graded.helpful-only	lin_use_sup_rf,average,0.09338059949423246		

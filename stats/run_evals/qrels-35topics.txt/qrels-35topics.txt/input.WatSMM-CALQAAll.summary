@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	101	0.0206
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	102	0.0995
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	103	0.1023
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	104	0.0078
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	105	0.1805
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	106	0.0000
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	107	0.0611
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	108	0.0904
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	109	0.1073
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	110	0.0103
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	111	0.0211
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	112	0.0207
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	114	0.1200
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	115	0.1681
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	117	0.0169
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	118	0.1759
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	120	0.1478
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	121	0.0224
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	122	0.0864
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	127	0.0549
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	128	0.0780
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	129	0.0695
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	131	0.0914
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	132	0.1130
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	133	0.1365
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	134	0.0708
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	136	0.0271
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	137	0.1007
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	139	0.0832
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	140	0.1703
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	143	0.1430
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	144	0.1214
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	145	0.0567
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	146	0.0963
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	149	0.0921
+input.WatSMM-CALQAAll	2aspects.correct-credible	cam_map	all	0.0847
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	101	0.0417
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	102	0.1373
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	103	0.0678
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	104	0.0249
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	105	0.1703
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	106	0.0000
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	107	0.0682
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	108	0.0941
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	109	0.0931
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	110	0.0178
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	111	0.0350
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	112	0.0285
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	114	0.0837
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	115	0.1906
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	117	0.0759
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	118	0.1906
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	120	0.1827
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	121	0.0281
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	122	0.0754
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	127	0.0623
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	128	0.0763
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	129	0.1125
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	131	0.1275
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	132	0.0920
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	133	0.1352
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	134	0.0700
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	136	0.0568
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	137	0.0677
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	139	0.0679
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	140	0.1653
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	143	0.1341
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	144	0.1361
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	145	0.0532
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	146	0.1041
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	149	0.1006
+input.WatSMM-CALQAAll	2aspects.useful-credible	cam_map	all	0.0905
+input.WatSMM-CALQAAll	3aspects	cam_map_three	101	0.0278
+input.WatSMM-CALQAAll	3aspects	cam_map_three	102	0.1113
+input.WatSMM-CALQAAll	3aspects	cam_map_three	103	0.0896
+input.WatSMM-CALQAAll	3aspects	cam_map_three	104	0.0173
+input.WatSMM-CALQAAll	3aspects	cam_map_three	105	0.1670
+input.WatSMM-CALQAAll	3aspects	cam_map_three	106	0.0000
+input.WatSMM-CALQAAll	3aspects	cam_map_three	107	0.0541
+input.WatSMM-CALQAAll	3aspects	cam_map_three	108	0.0910
+input.WatSMM-CALQAAll	3aspects	cam_map_three	109	0.1030
+input.WatSMM-CALQAAll	3aspects	cam_map_three	110	0.0118
+input.WatSMM-CALQAAll	3aspects	cam_map_three	111	0.0262
+input.WatSMM-CALQAAll	3aspects	cam_map_three	112	0.0190
+input.WatSMM-CALQAAll	3aspects	cam_map_three	114	0.1098
+input.WatSMM-CALQAAll	3aspects	cam_map_three	115	0.1591
+input.WatSMM-CALQAAll	3aspects	cam_map_three	117	0.0506
+input.WatSMM-CALQAAll	3aspects	cam_map_three	118	0.1742
+input.WatSMM-CALQAAll	3aspects	cam_map_three	120	0.1397
+input.WatSMM-CALQAAll	3aspects	cam_map_three	121	0.0273
+input.WatSMM-CALQAAll	3aspects	cam_map_three	122	0.0807
+input.WatSMM-CALQAAll	3aspects	cam_map_three	127	0.0483
+input.WatSMM-CALQAAll	3aspects	cam_map_three	128	0.0773
+input.WatSMM-CALQAAll	3aspects	cam_map_three	129	0.0836
+input.WatSMM-CALQAAll	3aspects	cam_map_three	131	0.0958
+input.WatSMM-CALQAAll	3aspects	cam_map_three	132	0.1033
+input.WatSMM-CALQAAll	3aspects	cam_map_three	133	0.1352
+input.WatSMM-CALQAAll	3aspects	cam_map_three	134	0.0651
+input.WatSMM-CALQAAll	3aspects	cam_map_three	136	0.0387
+input.WatSMM-CALQAAll	3aspects	cam_map_three	137	0.0821
+input.WatSMM-CALQAAll	3aspects	cam_map_three	139	0.0696
+input.WatSMM-CALQAAll	3aspects	cam_map_three	140	0.1683
+input.WatSMM-CALQAAll	3aspects	cam_map_three	143	0.1377
+input.WatSMM-CALQAAll	3aspects	cam_map_three	144	0.1277
+input.WatSMM-CALQAAll	3aspects	cam_map_three	145	0.0544
+input.WatSMM-CALQAAll	3aspects	cam_map_three	146	0.0961
+input.WatSMM-CALQAAll	3aspects	cam_map_three	149	0.0946
+input.WatSMM-CALQAAll	3aspects	cam_map_three	all	0.0839
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	101	0.1394
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	102	0.2779
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	103	0.2000
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	104	0.1517
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	105	0.2247
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	106	0.0342
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	107	0.1465
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	108	0.2439
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	109	0.2374
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	110	0.1140
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	111	0.1816
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	112	0.0935
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	114	0.2196
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	115	0.3038
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	117	0.2951
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	118	0.2807
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	120	0.2697
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	121	0.1453
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	122	0.2433
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	127	0.1397
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	128	0.1907
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	129	0.2070
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	131	0.2084
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	132	0.2415
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	133	0.2841
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	134	0.1825
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	136	0.1845
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	137	0.1941
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	139	0.1549
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	140	0.2940
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	143	0.2931
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	144	0.2872
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	145	0.1633
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	146	0.2476
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	149	0.2280
+input.WatSMM-CALQAAll	graded.usefulness	ndcg	all	0.2087
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	102	0.2000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	103	0.4000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	104	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	105	0.9000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	106	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	107	0.3000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	108	0.6000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	109	0.6000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	110	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	111	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	112	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	114	0.8000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	115	0.9000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	117	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	118	0.9000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	120	0.3000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	121	0.1000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	122	0.1000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	127	0.2000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	128	0.2000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	129	0.1000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	131	0.5000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	132	0.2000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	133	1.0000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	134	0.7000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	136	0.1000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	137	0.1000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	139	0.4000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	140	0.8000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	143	0.9000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	144	0.9000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	145	0.2000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	146	0.7000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	149	0.4000
+input.WatSMM-CALQAAll	binary.useful-correct	P_10	all	0.3971
+input.WatSMM-CALQAAll	binary.incorrect	P_10	101	0.2000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	102	0.2000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	103	0.1000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	104	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	105	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	106	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	107	0.1000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	108	0.1000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	109	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	110	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	111	0.3000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	112	0.1000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	114	0.1000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	115	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	117	0.1000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	118	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	120	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	121	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	122	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	128	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	129	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	131	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	132	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	134	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	136	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	137	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	139	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	140	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	143	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	144	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	146	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	149	0.0000
+input.WatSMM-CALQAAll	binary.incorrect	P_10	all	0.0406
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	102	0.2175
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	103	0.3628
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	104	0.0780
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	105	0.3048
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	106	0.0382
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	107	0.1192
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	108	0.2561
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	109	0.3265
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	110	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	111	0.1118
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	112	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	114	0.3292
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	115	0.2438
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	117	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	118	0.2847
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	120	0.1754
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	121	0.0934
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	122	0.2287
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	127	0.1009
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	128	0.2703
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	129	0.1508
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	131	0.1198
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	132	0.3369
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	133	0.2990
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	134	0.1859
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	136	0.0245
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	137	0.2350
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	139	0.2408
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	140	0.3379
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	143	0.3860
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	144	0.2632
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	145	0.1755
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	146	0.2188
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	149	0.2603
+input.WatSMM-CALQAAll	binary.useful-correct	ndcg	all	0.1993
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	101	0.1799
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	102	0.3182
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	103	0.2431
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	104	0.1420
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	105	0.3568
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	106	0.0000
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	107	0.2835
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	108	0.3068
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	109	0.3127
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	110	0.1762
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	111	0.2266
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	112	0.1501
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	114	0.2859
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	115	0.4774
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	117	0.1387
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	118	0.3702
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	120	0.4409
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	121	0.1138
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	122	0.2901
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	127	0.2527
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	128	0.2432
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	129	0.2422
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	131	0.3305
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	132	0.3397
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	133	0.3039
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	134	0.2639
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	136	0.2217
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	137	0.3043
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	139	0.2886
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	140	0.3095
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	143	0.3414
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	144	0.2932
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	145	0.1755
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	146	0.2681
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	149	0.2769
+input.WatSMM-CALQAAll	binary.useful-credible	ndcg	all	0.2648
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	102	0.2626
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	103	0.4223
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	104	0.0780
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	105	0.3858
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	106	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	107	0.2393
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	108	0.2791
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	109	0.3252
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	110	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	111	0.1397
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	114	0.4852
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	115	0.4132
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	117	0.0000
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	118	0.3314
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	120	0.3046
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	121	0.1100
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	122	0.3337
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	127	0.2118
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	128	0.2703
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	129	0.1521
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	131	0.1406
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	132	0.1770
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	133	0.3171
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	134	0.2535
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	136	0.0245
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	137	0.3392
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	139	0.2520
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	140	0.3408
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	143	0.4044
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	144	0.2533
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	145	0.1871
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	146	0.2627
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	149	0.2619
+input.WatSMM-CALQAAll	binary.useful-correct-credible	ndcg	all	0.2412
+input.WatSMM-CALQAAll	graded.harmful-only	runid,topic,compatibility		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,101,0.07208935901967138		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,102,0.11880461836276877		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,103,0.06093672329209768		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,104,0.0002498160063184713		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,105,0.0001649344983544858		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,106,0.0		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,107,0.06202306907977655		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,108,0.07363834330576736		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,109,5.5733945636202496e-08		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,110,0.0014987185481876717		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,111,0.10847679657389903		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,112,0.126454713389798		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,114,0.04777680458072197		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,115,0.0		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,117,0.09593377042863606		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,118,0.022944314497638667		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,120,0.000551434111006795		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,121,0.0		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,122,0.000567437324819155		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,128,0.019663460112745668		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,129,0.0001147745056454462		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,131,1.4461192382774652e-25		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,132,0.05512403165343751		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,134,9.943832216165522e-06		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,136,0.0004048732686461098		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,137,0.02364877324762418		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,139,0.007682125979640165		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,140,0.0		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,143,1.4443857182954323e-24		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,144,0.0018922826921579671		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,146,0.1719783558211019		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,149,0.0		
+input.WatSMM-CALQAAll	graded.harmful-only	WatSMM-CALQAAll,average,0.033519672808331964		
+input.WatSMM-CALQAAll	graded.helpful-only	runid,topic,compatibility		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,101,0.03944368682467334		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,102,0.23225584294593535		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,103,0.25862214077391604		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,104,0.13580623137271738		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,105,0.23059936540773868		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,106,0.008620440103345367		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,107,0.175154978770332		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,108,0.28084011281138443		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,109,0.2798666826569845		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,110,4.947608169205635e-15		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,111,0.043602752954688226		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,112,0.004419500341343911		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,114,0.39468259430271757		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,115,0.20658210918043088		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,117,0.12355270608498484		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,118,0.2861205747728852		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,120,0.1611281686440843		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,121,0.0908570059143448		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,122,0.2384623734886201		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,127,0.20339092787697058		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,128,0.21818018585684734		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,129,0.02659691815461744		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,131,0.13351035299182196		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,132,0.12049921966732616		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,133,0.2726331790902506		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,134,0.3619121914405008		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,136,0.04512919007019953		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,137,0.16389775017047079		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,139,0.22600707446313764		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,140,0.3342352009729578		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,143,0.42033446474010017		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,144,0.5401046266860084		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,145,0.2150509465067929		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,146,0.523640501095522		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,149,0.09830034792412685		
+input.WatSMM-CALQAAll	graded.helpful-only	WatSMM-CALQAAll,average,0.20268686700167954		

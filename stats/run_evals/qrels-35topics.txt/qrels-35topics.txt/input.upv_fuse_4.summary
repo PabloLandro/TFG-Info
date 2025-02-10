@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.upv_fuse_4	2aspects.correct-credible	cam_map	101	0.0454
+input.upv_fuse_4	2aspects.correct-credible	cam_map	102	0.0489
+input.upv_fuse_4	2aspects.correct-credible	cam_map	103	0.1719
+input.upv_fuse_4	2aspects.correct-credible	cam_map	104	0.1461
+input.upv_fuse_4	2aspects.correct-credible	cam_map	105	0.0234
+input.upv_fuse_4	2aspects.correct-credible	cam_map	106	0.2035
+input.upv_fuse_4	2aspects.correct-credible	cam_map	107	0.0641
+input.upv_fuse_4	2aspects.correct-credible	cam_map	108	0.0634
+input.upv_fuse_4	2aspects.correct-credible	cam_map	109	0.1456
+input.upv_fuse_4	2aspects.correct-credible	cam_map	110	0.1595
+input.upv_fuse_4	2aspects.correct-credible	cam_map	111	0.0900
+input.upv_fuse_4	2aspects.correct-credible	cam_map	112	0.0264
+input.upv_fuse_4	2aspects.correct-credible	cam_map	114	0.0080
+input.upv_fuse_4	2aspects.correct-credible	cam_map	115	0.2018
+input.upv_fuse_4	2aspects.correct-credible	cam_map	117	0.0022
+input.upv_fuse_4	2aspects.correct-credible	cam_map	118	0.5162
+input.upv_fuse_4	2aspects.correct-credible	cam_map	120	0.2616
+input.upv_fuse_4	2aspects.correct-credible	cam_map	121	0.0278
+input.upv_fuse_4	2aspects.correct-credible	cam_map	122	0.0571
+input.upv_fuse_4	2aspects.correct-credible	cam_map	127	0.1701
+input.upv_fuse_4	2aspects.correct-credible	cam_map	128	0.1883
+input.upv_fuse_4	2aspects.correct-credible	cam_map	129	0.1618
+input.upv_fuse_4	2aspects.correct-credible	cam_map	131	0.3258
+input.upv_fuse_4	2aspects.correct-credible	cam_map	132	0.0494
+input.upv_fuse_4	2aspects.correct-credible	cam_map	133	0.1192
+input.upv_fuse_4	2aspects.correct-credible	cam_map	134	0.1590
+input.upv_fuse_4	2aspects.correct-credible	cam_map	136	0.1512
+input.upv_fuse_4	2aspects.correct-credible	cam_map	137	0.0059
+input.upv_fuse_4	2aspects.correct-credible	cam_map	139	0.0549
+input.upv_fuse_4	2aspects.correct-credible	cam_map	140	0.1020
+input.upv_fuse_4	2aspects.correct-credible	cam_map	143	0.1134
+input.upv_fuse_4	2aspects.correct-credible	cam_map	144	0.2441
+input.upv_fuse_4	2aspects.correct-credible	cam_map	145	0.1410
+input.upv_fuse_4	2aspects.correct-credible	cam_map	146	0.1219
+input.upv_fuse_4	2aspects.correct-credible	cam_map	149	0.0886
+input.upv_fuse_4	2aspects.correct-credible	cam_map	all	0.1274
+input.upv_fuse_4	2aspects.useful-credible	cam_map	101	0.1436
+input.upv_fuse_4	2aspects.useful-credible	cam_map	102	0.1170
+input.upv_fuse_4	2aspects.useful-credible	cam_map	103	0.3253
+input.upv_fuse_4	2aspects.useful-credible	cam_map	104	0.3262
+input.upv_fuse_4	2aspects.useful-credible	cam_map	105	0.0443
+input.upv_fuse_4	2aspects.useful-credible	cam_map	106	0.1982
+input.upv_fuse_4	2aspects.useful-credible	cam_map	107	0.0691
+input.upv_fuse_4	2aspects.useful-credible	cam_map	108	0.0947
+input.upv_fuse_4	2aspects.useful-credible	cam_map	109	0.2559
+input.upv_fuse_4	2aspects.useful-credible	cam_map	110	0.1638
+input.upv_fuse_4	2aspects.useful-credible	cam_map	111	0.1838
+input.upv_fuse_4	2aspects.useful-credible	cam_map	112	0.2444
+input.upv_fuse_4	2aspects.useful-credible	cam_map	114	0.1086
+input.upv_fuse_4	2aspects.useful-credible	cam_map	115	0.2162
+input.upv_fuse_4	2aspects.useful-credible	cam_map	117	0.0034
+input.upv_fuse_4	2aspects.useful-credible	cam_map	118	0.5299
+input.upv_fuse_4	2aspects.useful-credible	cam_map	120	0.3458
+input.upv_fuse_4	2aspects.useful-credible	cam_map	121	0.1072
+input.upv_fuse_4	2aspects.useful-credible	cam_map	122	0.1286
+input.upv_fuse_4	2aspects.useful-credible	cam_map	127	0.2255
+input.upv_fuse_4	2aspects.useful-credible	cam_map	128	0.3671
+input.upv_fuse_4	2aspects.useful-credible	cam_map	129	0.2332
+input.upv_fuse_4	2aspects.useful-credible	cam_map	131	0.3148
+input.upv_fuse_4	2aspects.useful-credible	cam_map	132	0.1279
+input.upv_fuse_4	2aspects.useful-credible	cam_map	133	0.1253
+input.upv_fuse_4	2aspects.useful-credible	cam_map	134	0.1986
+input.upv_fuse_4	2aspects.useful-credible	cam_map	136	0.1993
+input.upv_fuse_4	2aspects.useful-credible	cam_map	137	0.0072
+input.upv_fuse_4	2aspects.useful-credible	cam_map	139	0.2964
+input.upv_fuse_4	2aspects.useful-credible	cam_map	140	0.1399
+input.upv_fuse_4	2aspects.useful-credible	cam_map	143	0.1948
+input.upv_fuse_4	2aspects.useful-credible	cam_map	144	0.2569
+input.upv_fuse_4	2aspects.useful-credible	cam_map	145	0.1494
+input.upv_fuse_4	2aspects.useful-credible	cam_map	146	0.1216
+input.upv_fuse_4	2aspects.useful-credible	cam_map	149	0.1128
+input.upv_fuse_4	2aspects.useful-credible	cam_map	all	0.1908
+input.upv_fuse_4	3aspects	cam_map_three	101	0.0957
+input.upv_fuse_4	3aspects	cam_map_three	102	0.0897
+input.upv_fuse_4	3aspects	cam_map_three	103	0.2312
+input.upv_fuse_4	3aspects	cam_map_three	104	0.2178
+input.upv_fuse_4	3aspects	cam_map_three	105	0.0404
+input.upv_fuse_4	3aspects	cam_map_three	106	0.2242
+input.upv_fuse_4	3aspects	cam_map_three	107	0.0689
+input.upv_fuse_4	3aspects	cam_map_three	108	0.0918
+input.upv_fuse_4	3aspects	cam_map_three	109	0.2035
+input.upv_fuse_4	3aspects	cam_map_three	110	0.1879
+input.upv_fuse_4	3aspects	cam_map_three	111	0.1228
+input.upv_fuse_4	3aspects	cam_map_three	112	0.1629
+input.upv_fuse_4	3aspects	cam_map_three	114	0.0760
+input.upv_fuse_4	3aspects	cam_map_three	115	0.2488
+input.upv_fuse_4	3aspects	cam_map_three	117	0.0030
+input.upv_fuse_4	3aspects	cam_map_three	118	0.5654
+input.upv_fuse_4	3aspects	cam_map_three	120	0.2877
+input.upv_fuse_4	3aspects	cam_map_three	121	0.0719
+input.upv_fuse_4	3aspects	cam_map_three	122	0.0881
+input.upv_fuse_4	3aspects	cam_map_three	127	0.1949
+input.upv_fuse_4	3aspects	cam_map_three	128	0.2483
+input.upv_fuse_4	3aspects	cam_map_three	129	0.1856
+input.upv_fuse_4	3aspects	cam_map_three	131	0.3426
+input.upv_fuse_4	3aspects	cam_map_three	132	0.0972
+input.upv_fuse_4	3aspects	cam_map_three	133	0.1228
+input.upv_fuse_4	3aspects	cam_map_three	134	0.2007
+input.upv_fuse_4	3aspects	cam_map_three	136	0.1674
+input.upv_fuse_4	3aspects	cam_map_three	137	0.0063
+input.upv_fuse_4	3aspects	cam_map_three	139	0.2066
+input.upv_fuse_4	3aspects	cam_map_three	140	0.1145
+input.upv_fuse_4	3aspects	cam_map_three	143	0.1534
+input.upv_fuse_4	3aspects	cam_map_three	144	0.2520
+input.upv_fuse_4	3aspects	cam_map_three	145	0.1460
+input.upv_fuse_4	3aspects	cam_map_three	146	0.1310
+input.upv_fuse_4	3aspects	cam_map_three	149	0.0974
+input.upv_fuse_4	3aspects	cam_map_three	all	0.1641
+input.upv_fuse_4	graded.usefulness	ndcg	101	0.4340
+input.upv_fuse_4	graded.usefulness	ndcg	102	0.4089
+input.upv_fuse_4	graded.usefulness	ndcg	103	0.6315
+input.upv_fuse_4	graded.usefulness	ndcg	104	0.7279
+input.upv_fuse_4	graded.usefulness	ndcg	105	0.2763
+input.upv_fuse_4	graded.usefulness	ndcg	106	0.6172
+input.upv_fuse_4	graded.usefulness	ndcg	107	0.2735
+input.upv_fuse_4	graded.usefulness	ndcg	108	0.5059
+input.upv_fuse_4	graded.usefulness	ndcg	109	0.6068
+input.upv_fuse_4	graded.usefulness	ndcg	110	0.4771
+input.upv_fuse_4	graded.usefulness	ndcg	111	0.5139
+input.upv_fuse_4	graded.usefulness	ndcg	112	0.6948
+input.upv_fuse_4	graded.usefulness	ndcg	114	0.4098
+input.upv_fuse_4	graded.usefulness	ndcg	115	0.6913
+input.upv_fuse_4	graded.usefulness	ndcg	117	0.0701
+input.upv_fuse_4	graded.usefulness	ndcg	118	0.8689
+input.upv_fuse_4	graded.usefulness	ndcg	120	0.6843
+input.upv_fuse_4	graded.usefulness	ndcg	121	0.4628
+input.upv_fuse_4	graded.usefulness	ndcg	122	0.4799
+input.upv_fuse_4	graded.usefulness	ndcg	127	0.5111
+input.upv_fuse_4	graded.usefulness	ndcg	128	0.7356
+input.upv_fuse_4	graded.usefulness	ndcg	129	0.5332
+input.upv_fuse_4	graded.usefulness	ndcg	131	0.6941
+input.upv_fuse_4	graded.usefulness	ndcg	132	0.5419
+input.upv_fuse_4	graded.usefulness	ndcg	133	0.3505
+input.upv_fuse_4	graded.usefulness	ndcg	134	0.6782
+input.upv_fuse_4	graded.usefulness	ndcg	136	0.4859
+input.upv_fuse_4	graded.usefulness	ndcg	137	0.1467
+input.upv_fuse_4	graded.usefulness	ndcg	139	0.7775
+input.upv_fuse_4	graded.usefulness	ndcg	140	0.3906
+input.upv_fuse_4	graded.usefulness	ndcg	143	0.5618
+input.upv_fuse_4	graded.usefulness	ndcg	144	0.5521
+input.upv_fuse_4	graded.usefulness	ndcg	145	0.4918
+input.upv_fuse_4	graded.usefulness	ndcg	146	0.3161
+input.upv_fuse_4	graded.usefulness	ndcg	149	0.4288
+input.upv_fuse_4	graded.usefulness	ndcg	all	0.5152
+input.upv_fuse_4	binary.useful-correct	P_10	102	0.2000
+input.upv_fuse_4	binary.useful-correct	P_10	103	0.1000
+input.upv_fuse_4	binary.useful-correct	P_10	104	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	105	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	106	0.6000
+input.upv_fuse_4	binary.useful-correct	P_10	107	0.3000
+input.upv_fuse_4	binary.useful-correct	P_10	108	0.2000
+input.upv_fuse_4	binary.useful-correct	P_10	109	0.3000
+input.upv_fuse_4	binary.useful-correct	P_10	110	0.3000
+input.upv_fuse_4	binary.useful-correct	P_10	111	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	112	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	114	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	115	0.8000
+input.upv_fuse_4	binary.useful-correct	P_10	117	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	118	1.0000
+input.upv_fuse_4	binary.useful-correct	P_10	120	0.4000
+input.upv_fuse_4	binary.useful-correct	P_10	121	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	122	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	127	0.3000
+input.upv_fuse_4	binary.useful-correct	P_10	128	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	129	0.4000
+input.upv_fuse_4	binary.useful-correct	P_10	131	1.0000
+input.upv_fuse_4	binary.useful-correct	P_10	132	0.1000
+input.upv_fuse_4	binary.useful-correct	P_10	133	0.7000
+input.upv_fuse_4	binary.useful-correct	P_10	134	0.4000
+input.upv_fuse_4	binary.useful-correct	P_10	136	0.2000
+input.upv_fuse_4	binary.useful-correct	P_10	137	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	139	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	140	0.1000
+input.upv_fuse_4	binary.useful-correct	P_10	143	0.2000
+input.upv_fuse_4	binary.useful-correct	P_10	144	0.8000
+input.upv_fuse_4	binary.useful-correct	P_10	145	0.0000
+input.upv_fuse_4	binary.useful-correct	P_10	146	0.6000
+input.upv_fuse_4	binary.useful-correct	P_10	149	0.2000
+input.upv_fuse_4	binary.useful-correct	P_10	all	0.2706
+input.upv_fuse_4	binary.incorrect	P_10	101	0.2000
+input.upv_fuse_4	binary.incorrect	P_10	102	0.5000
+input.upv_fuse_4	binary.incorrect	P_10	103	0.9000
+input.upv_fuse_4	binary.incorrect	P_10	104	1.0000
+input.upv_fuse_4	binary.incorrect	P_10	105	0.3000
+input.upv_fuse_4	binary.incorrect	P_10	106	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	107	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	108	0.3000
+input.upv_fuse_4	binary.incorrect	P_10	109	0.4000
+input.upv_fuse_4	binary.incorrect	P_10	110	0.2000
+input.upv_fuse_4	binary.incorrect	P_10	111	0.5000
+input.upv_fuse_4	binary.incorrect	P_10	112	0.8000
+input.upv_fuse_4	binary.incorrect	P_10	114	0.1000
+input.upv_fuse_4	binary.incorrect	P_10	115	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	117	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	118	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	120	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	121	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	122	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	128	1.0000
+input.upv_fuse_4	binary.incorrect	P_10	129	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	131	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	132	0.6000
+input.upv_fuse_4	binary.incorrect	P_10	134	0.3000
+input.upv_fuse_4	binary.incorrect	P_10	136	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	137	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	139	1.0000
+input.upv_fuse_4	binary.incorrect	P_10	140	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	143	0.4000
+input.upv_fuse_4	binary.incorrect	P_10	144	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	146	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	149	0.0000
+input.upv_fuse_4	binary.incorrect	P_10	all	0.2656
+input.upv_fuse_4	binary.useful-correct	ndcg	102	0.3126
+input.upv_fuse_4	binary.useful-correct	ndcg	103	0.3712
+input.upv_fuse_4	binary.useful-correct	ndcg	104	0.0693
+input.upv_fuse_4	binary.useful-correct	ndcg	105	0.2035
+input.upv_fuse_4	binary.useful-correct	ndcg	106	0.6903
+input.upv_fuse_4	binary.useful-correct	ndcg	107	0.2717
+input.upv_fuse_4	binary.useful-correct	ndcg	108	0.4671
+input.upv_fuse_4	binary.useful-correct	ndcg	109	0.4542
+input.upv_fuse_4	binary.useful-correct	ndcg	110	0.5728
+input.upv_fuse_4	binary.useful-correct	ndcg	111	0.0520
+input.upv_fuse_4	binary.useful-correct	ndcg	112	0.0000
+input.upv_fuse_4	binary.useful-correct	ndcg	114	0.1550
+input.upv_fuse_4	binary.useful-correct	ndcg	115	0.7083
+input.upv_fuse_4	binary.useful-correct	ndcg	117	0.0436
+input.upv_fuse_4	binary.useful-correct	ndcg	118	0.9043
+input.upv_fuse_4	binary.useful-correct	ndcg	120	0.5817
+input.upv_fuse_4	binary.useful-correct	ndcg	121	0.0668
+input.upv_fuse_4	binary.useful-correct	ndcg	122	0.1953
+input.upv_fuse_4	binary.useful-correct	ndcg	127	0.4365
+input.upv_fuse_4	binary.useful-correct	ndcg	128	0.2165
+input.upv_fuse_4	binary.useful-correct	ndcg	129	0.4314
+input.upv_fuse_4	binary.useful-correct	ndcg	131	0.7130
+input.upv_fuse_4	binary.useful-correct	ndcg	132	0.2212
+input.upv_fuse_4	binary.useful-correct	ndcg	133	0.3335
+input.upv_fuse_4	binary.useful-correct	ndcg	134	0.6297
+input.upv_fuse_4	binary.useful-correct	ndcg	136	0.4789
+input.upv_fuse_4	binary.useful-correct	ndcg	137	0.1008
+input.upv_fuse_4	binary.useful-correct	ndcg	139	0.2602
+input.upv_fuse_4	binary.useful-correct	ndcg	140	0.3240
+input.upv_fuse_4	binary.useful-correct	ndcg	143	0.4107
+input.upv_fuse_4	binary.useful-correct	ndcg	144	0.5695
+input.upv_fuse_4	binary.useful-correct	ndcg	145	0.4725
+input.upv_fuse_4	binary.useful-correct	ndcg	146	0.3647
+input.upv_fuse_4	binary.useful-correct	ndcg	149	0.3830
+input.upv_fuse_4	binary.useful-correct	ndcg	all	0.3666
+input.upv_fuse_4	binary.useful-credible	ndcg	101	0.3581
+input.upv_fuse_4	binary.useful-credible	ndcg	102	0.3412
+input.upv_fuse_4	binary.useful-credible	ndcg	103	0.6474
+input.upv_fuse_4	binary.useful-credible	ndcg	104	0.7194
+input.upv_fuse_4	binary.useful-credible	ndcg	105	0.1487
+input.upv_fuse_4	binary.useful-credible	ndcg	106	0.5045
+input.upv_fuse_4	binary.useful-credible	ndcg	107	0.2871
+input.upv_fuse_4	binary.useful-credible	ndcg	108	0.3332
+input.upv_fuse_4	binary.useful-credible	ndcg	109	0.5483
+input.upv_fuse_4	binary.useful-credible	ndcg	110	0.3390
+input.upv_fuse_4	binary.useful-credible	ndcg	111	0.5235
+input.upv_fuse_4	binary.useful-credible	ndcg	112	0.3761
+input.upv_fuse_4	binary.useful-credible	ndcg	114	0.1054
+input.upv_fuse_4	binary.useful-credible	ndcg	115	0.4426
+input.upv_fuse_4	binary.useful-credible	ndcg	117	0.0604
+input.upv_fuse_4	binary.useful-credible	ndcg	118	0.7828
+input.upv_fuse_4	binary.useful-credible	ndcg	120	0.6466
+input.upv_fuse_4	binary.useful-credible	ndcg	121	0.2016
+input.upv_fuse_4	binary.useful-credible	ndcg	122	0.4449
+input.upv_fuse_4	binary.useful-credible	ndcg	127	0.5375
+input.upv_fuse_4	binary.useful-credible	ndcg	128	0.7294
+input.upv_fuse_4	binary.useful-credible	ndcg	129	0.5298
+input.upv_fuse_4	binary.useful-credible	ndcg	131	0.6578
+input.upv_fuse_4	binary.useful-credible	ndcg	132	0.3602
+input.upv_fuse_4	binary.useful-credible	ndcg	133	0.3372
+input.upv_fuse_4	binary.useful-credible	ndcg	134	0.5143
+input.upv_fuse_4	binary.useful-credible	ndcg	136	0.5035
+input.upv_fuse_4	binary.useful-credible	ndcg	137	0.1436
+input.upv_fuse_4	binary.useful-credible	ndcg	139	0.3937
+input.upv_fuse_4	binary.useful-credible	ndcg	140	0.4375
+input.upv_fuse_4	binary.useful-credible	ndcg	143	0.5196
+input.upv_fuse_4	binary.useful-credible	ndcg	144	0.5546
+input.upv_fuse_4	binary.useful-credible	ndcg	145	0.4749
+input.upv_fuse_4	binary.useful-credible	ndcg	146	0.2912
+input.upv_fuse_4	binary.useful-credible	ndcg	149	0.4374
+input.upv_fuse_4	binary.useful-credible	ndcg	all	0.4352
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	102	0.2268
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	103	0.3499
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	104	0.0693
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	105	0.1039
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	106	0.5045
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	107	0.2735
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	108	0.2947
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	109	0.4904
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	110	0.1474
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	111	0.0650
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	114	0.0981
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	115	0.4269
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	117	0.0000
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	118	0.7754
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	120	0.5097
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	121	0.0529
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	122	0.1336
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	127	0.4084
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	128	0.2165
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	129	0.4266
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	131	0.7300
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	132	0.1855
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	133	0.3301
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	134	0.5022
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	136	0.4789
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	137	0.1057
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	139	0.2289
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	140	0.3268
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	143	0.3867
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	144	0.5632
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	145	0.4560
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	146	0.2828
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	149	0.3757
+input.upv_fuse_4	binary.useful-correct-credible	ndcg	all	0.3190
+input.upv_fuse_4	graded.harmful-only	runid,topic,compatibility		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,101,0.054159676856968854		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,102,0.13534250305798926		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,103,0.322503907492304		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,104,0.28711241479010396		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,105,0.06405470650348655		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,106,0.0		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,107,0.008533933066824357		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,108,0.256996127825441		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,109,0.06462555100574276		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,110,0.03305672536698716		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,111,0.3108857043912581		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,112,0.33560698920939586		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,114,0.05103379331314093		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,115,4.5779239762554716e-05		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,117,0.0		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,118,1.3360964895816788e-06		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,120,2.9115498606394513e-18		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,121,0.0014254624326180936		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,122,0.051792932925646455		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,128,0.802555796946		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,129,0.0054332950326033205		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,131,0.0		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,132,0.17198345086155395		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,134,0.1864542200765007		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,136,0.000128179266216285		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,137,4.1799047877339006e-05		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,139,0.4928260068297062		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,140,0.0		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,143,0.13055018692959836		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,144,0.0		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,146,0.0		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,149,0.07517144039828338		
+input.upv_fuse_4	graded.harmful-only	upv_fuse_4,average,0.12007255996757805		
+input.upv_fuse_4	graded.helpful-only	runid,topic,compatibility		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,101,0.019736376408361084		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,102,0.02026512135664088		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,103,0.06383427517109286		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,104,0.004369645709796609		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,105,0.005352377594116332		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,106,0.1734480123868561		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,107,0.2158646107085257		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,108,0.024170475567304856		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,109,0.2234511006401951		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,110,0.25892256010769316		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,111,0.03930690540098013		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,112,0.04514922872148547		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,114,0.013157759980324361		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,115,0.05580990703307927		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,117,0.005756961909064001		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,118,0.152565914456926		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,120,0.1708013679448452		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,121,0.0929569422852917		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,122,0.09037795825100874		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,127,0.2487742421295916		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,128,0.023376121585013756		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,129,0.13883533912991167		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,131,0.1646978690367843		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,132,0.10041946457471818		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,133,0.22134372973710956		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,134,0.14027194382722516		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,136,0.1120430579769619		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,137,0.0008680923428838775		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,139,0.02003632780769897		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,140,0.06184085256418393		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,143,0.12868678579671464		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,144,0.45574122858642263		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,145,0.053790831859434125		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,146,0.13988646009522615		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,149,0.17010811730968967		
+input.upv_fuse_4	graded.helpful-only	upv_fuse_4,average,0.11017194188551875		

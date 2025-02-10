@@ -1,0 +1,3 @@
+runid,topic,compatibility
+vera0,101,0.34575224783842207
+vera0,average,0.34575224783842207

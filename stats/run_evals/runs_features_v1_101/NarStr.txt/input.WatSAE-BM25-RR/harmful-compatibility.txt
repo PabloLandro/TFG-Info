@@ -1,0 +1,2 @@
+runid,topic,compatibility
+WatSAE-BM25-RR,average,0.0

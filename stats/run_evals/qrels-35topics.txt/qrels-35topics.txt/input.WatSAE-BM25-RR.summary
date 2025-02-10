@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	101	0.0355
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	102	0.0781
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	103	0.1243
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	104	0.0758
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	105	0.0567
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	106	0.0179
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	107	0.0693
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	108	0.0497
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	109	0.1749
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	110	0.0461
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	111	0.0713
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	112	0.0177
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	114	0.0584
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	115	0.1526
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	117	0.0038
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	118	0.1650
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	120	0.1065
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	121	0.0283
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	122	0.0158
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	127	0.0620
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	128	0.1139
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	129	0.0586
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	131	0.1088
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	132	0.1387
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	133	0.0918
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	134	0.0713
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	136	0.0280
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	137	0.0248
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	139	0.1021
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	140	0.0921
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	143	0.0517
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	144	0.0863
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	145	0.0262
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	146	0.1020
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	149	0.0547
+input.WatSAE-BM25-RR	2aspects.correct-credible	cam_map	all	0.0732
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	101	0.0609
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	102	0.1227
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	103	0.1440
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	104	0.1594
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	105	0.0865
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	106	0.0181
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	107	0.0824
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	108	0.0688
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	109	0.2085
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	110	0.0834
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	111	0.1070
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	112	0.0412
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	114	0.0751
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	115	0.1868
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	117	0.0436
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	118	0.1736
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	120	0.1454
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	121	0.0438
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	122	0.0282
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	127	0.0639
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	128	0.1445
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	129	0.0964
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	131	0.1334
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	132	0.1577
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	133	0.0920
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	134	0.0802
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	136	0.0602
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	137	0.0359
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	139	0.0930
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	140	0.1204
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	143	0.0577
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	144	0.0994
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	145	0.0246
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	146	0.1075
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	149	0.0655
+input.WatSAE-BM25-RR	2aspects.useful-credible	cam_map	all	0.0946
+input.WatSAE-BM25-RR	3aspects	cam_map_three	101	0.0406
+input.WatSAE-BM25-RR	3aspects	cam_map_three	102	0.0952
+input.WatSAE-BM25-RR	3aspects	cam_map_three	103	0.1261
+input.WatSAE-BM25-RR	3aspects	cam_map_three	104	0.1063
+input.WatSAE-BM25-RR	3aspects	cam_map_three	105	0.0682
+input.WatSAE-BM25-RR	3aspects	cam_map_three	106	0.0174
+input.WatSAE-BM25-RR	3aspects	cam_map_three	107	0.0626
+input.WatSAE-BM25-RR	3aspects	cam_map_three	108	0.0597
+input.WatSAE-BM25-RR	3aspects	cam_map_three	109	0.1772
+input.WatSAE-BM25-RR	3aspects	cam_map_three	110	0.0556
+input.WatSAE-BM25-RR	3aspects	cam_map_three	111	0.0797
+input.WatSAE-BM25-RR	3aspects	cam_map_three	112	0.0275
+input.WatSAE-BM25-RR	3aspects	cam_map_three	114	0.0671
+input.WatSAE-BM25-RR	3aspects	cam_map_three	115	0.1481
+input.WatSAE-BM25-RR	3aspects	cam_map_three	117	0.0292
+input.WatSAE-BM25-RR	3aspects	cam_map_three	118	0.1613
+input.WatSAE-BM25-RR	3aspects	cam_map_three	120	0.1085
+input.WatSAE-BM25-RR	3aspects	cam_map_three	121	0.0333
+input.WatSAE-BM25-RR	3aspects	cam_map_three	122	0.0192
+input.WatSAE-BM25-RR	3aspects	cam_map_three	127	0.0549
+input.WatSAE-BM25-RR	3aspects	cam_map_three	128	0.1239
+input.WatSAE-BM25-RR	3aspects	cam_map_three	129	0.0713
+input.WatSAE-BM25-RR	3aspects	cam_map_three	131	0.1235
+input.WatSAE-BM25-RR	3aspects	cam_map_three	132	0.1456
+input.WatSAE-BM25-RR	3aspects	cam_map_three	133	0.0903
+input.WatSAE-BM25-RR	3aspects	cam_map_three	134	0.0678
+input.WatSAE-BM25-RR	3aspects	cam_map_three	136	0.0401
+input.WatSAE-BM25-RR	3aspects	cam_map_three	137	0.0247
+input.WatSAE-BM25-RR	3aspects	cam_map_three	139	0.0861
+input.WatSAE-BM25-RR	3aspects	cam_map_three	140	0.1013
+input.WatSAE-BM25-RR	3aspects	cam_map_three	143	0.0540
+input.WatSAE-BM25-RR	3aspects	cam_map_three	144	0.0916
+input.WatSAE-BM25-RR	3aspects	cam_map_three	145	0.0251
+input.WatSAE-BM25-RR	3aspects	cam_map_three	146	0.1025
+input.WatSAE-BM25-RR	3aspects	cam_map_three	149	0.0581
+input.WatSAE-BM25-RR	3aspects	cam_map_three	all	0.0784
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	101	0.1625
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	102	0.3137
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	103	0.3255
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	104	0.2556
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	105	0.2310
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	106	0.1006
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	107	0.1738
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	108	0.2285
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	109	0.3352
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	110	0.2125
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	111	0.2875
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	112	0.1387
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	114	0.2174
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	115	0.3231
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	117	0.2227
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	118	0.3026
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	120	0.2852
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	121	0.1730
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	122	0.1431
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	127	0.1548
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	128	0.2897
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	129	0.2077
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	131	0.3093
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	132	0.3029
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	133	0.2892
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	134	0.1830
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	136	0.1725
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	137	0.1382
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	139	0.1686
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	140	0.2719
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	143	0.2696
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	144	0.2889
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	145	0.1128
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	146	0.2615
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	149	0.2192
+input.WatSAE-BM25-RR	graded.usefulness	ndcg	all	0.2306
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	102	0.2000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	103	0.2000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	104	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	105	0.3000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	106	0.2000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	107	0.2000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	108	0.3000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	109	0.4000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	110	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	111	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	112	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	114	0.4000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	115	0.5000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	117	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	118	0.9000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	120	0.3000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	121	0.1000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	122	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	127	0.4000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	128	0.3000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	129	0.2000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	131	0.6000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	132	0.3000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	133	0.9000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	134	0.7000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	136	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	137	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	139	0.5000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	140	0.6000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	143	0.3000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	144	0.4000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	145	0.2000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	146	0.7000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	149	0.4000
+input.WatSAE-BM25-RR	binary.useful-correct	P_10	all	0.3088
+input.WatSAE-BM25-RR	binary.incorrect	P_10	101	0.2000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	102	0.6000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	103	0.4000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	104	0.9000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	105	0.4000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	106	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	107	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	108	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	109	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	110	0.9000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	111	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	112	0.5000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	114	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	115	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	117	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	118	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	120	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	121	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	122	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	128	0.7000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	129	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	131	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	132	0.5000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	134	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	136	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	137	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	139	0.1000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	140	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	143	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	144	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	146	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	149	0.0000
+input.WatSAE-BM25-RR	binary.incorrect	P_10	all	0.1844
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	102	0.2076
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	103	0.3807
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	104	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	105	0.2081
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	106	0.0958
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	107	0.1335
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	108	0.1965
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	109	0.3759
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	110	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	111	0.1984
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	112	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	114	0.2217
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	115	0.2331
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	117	0.0311
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	118	0.3151
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	120	0.1770
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	121	0.0908
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	122	0.0335
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	127	0.1366
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	128	0.3039
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	129	0.1297
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	131	0.2333
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	132	0.3449
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	133	0.2971
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	134	0.1636
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	136	0.0083
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	137	0.0419
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	139	0.2384
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	140	0.2528
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	143	0.2861
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	144	0.2834
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	145	0.1260
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	146	0.2462
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	149	0.2189
+input.WatSAE-BM25-RR	binary.useful-correct	ndcg	all	0.1826
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	101	0.2496
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	102	0.3338
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	103	0.3702
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	104	0.3309
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	105	0.2842
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	106	0.0978
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	107	0.3473
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	108	0.2734
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	109	0.4520
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	110	0.2870
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	111	0.3858
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	112	0.1797
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	114	0.2999
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	115	0.5047
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	117	0.0786
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	118	0.3909
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	120	0.4312
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	121	0.2233
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	122	0.1637
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	127	0.2435
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	128	0.3015
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	129	0.2295
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	131	0.2875
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	132	0.3489
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	133	0.3195
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	134	0.2600
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	136	0.2227
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	137	0.1574
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	139	0.3168
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	140	0.2996
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	143	0.2968
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	144	0.3102
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	145	0.1260
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	146	0.2843
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	149	0.2560
+input.WatSAE-BM25-RR	binary.useful-credible	ndcg	all	0.2841
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	102	0.1818
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	103	0.4431
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	104	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	105	0.2343
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	106	0.0978
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	107	0.2594
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	108	0.2152
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	109	0.4227
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	110	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	111	0.2478
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	114	0.2660
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	115	0.4243
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	117	0.0000
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	118	0.3676
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	120	0.3305
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	121	0.1070
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	122	0.0489
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	127	0.2521
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	128	0.3039
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	129	0.1308
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	131	0.1507
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	132	0.4145
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	133	0.3204
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	134	0.2103
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	136	0.0083
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	137	0.0604
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	139	0.2595
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	140	0.2550
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	143	0.2937
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	144	0.2754
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	145	0.1344
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	146	0.2834
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	149	0.2202
+input.WatSAE-BM25-RR	binary.useful-correct-credible	ndcg	all	0.2188
+input.WatSAE-BM25-RR	graded.harmful-only	runid,topic,compatibility		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,101,0.10417436916485141		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,102,0.33463403137706504		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,103,0.34203059256186563		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,104,0.32336131953763386		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,105,0.15819374617851514		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,106,0.0		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,107,0.05779318297513716		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,108,0.10485062888351962		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,109,0.03022686283295138		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,110,0.11805102130229699		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,111,0.13596272932830977		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,112,0.1778878204493047		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,114,0.01726389111801165		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,115,0.08717431604650071		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,117,0.0		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,118,0.0899652057256831		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,120,0.07601933497220432		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,121,0.0		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,122,0.06361406547012052		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,128,0.631639951398301		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,129,0.004483306460409788		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,131,1.6715392992573006e-06		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,132,0.35208902536005676		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,134,0.1015578937855557		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,136,0.0		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,137,0.20586199512509126		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,139,0.10287076376053453		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,140,0.0		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,143,0.005923683552743316		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,144,0.13968604870905416		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,146,0.01466952628521511		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,149,0.0		
+input.WatSAE-BM25-RR	graded.harmful-only	WatSAE-BM25-RR,average,0.11812459324688226		
+input.WatSAE-BM25-RR	graded.helpful-only	runid,topic,compatibility		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,101,0.06444885760010718		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,102,0.09066862007563431		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,103,0.13461916600900029		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,104,0.030584496038985054		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,105,0.061293762208674385		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,106,0.10090553861197206		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,107,0.10976904134545712		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,108,0.0797453160315387		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,109,0.16970349294023795		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,110,4.259521099317299e-07		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,111,0.08922345793296269		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,112,0.03516210457227089		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,114,0.18866590460284072		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,115,0.23203106945808896		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,117,0.05201959192065762		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,118,0.20727773081497894		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,120,0.11712620717040494		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,121,0.10842005749931459		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,122,0.04614118396908438		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,127,0.2668223684704372		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,128,0.24894713905695617		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,129,0.11547491557015241		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,131,0.10719606494830769		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,132,0.21412932477188773		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,133,0.3014127896931351		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,134,0.19632276239931973		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,136,0.00959616047719844		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,137,0.0016542056128762267		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,139,0.2831850904955138		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,140,0.2603291859335472		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,143,0.1904507278878218		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,144,0.259382274110866		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,145,0.12108310727754316		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,146,0.529073055717136		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,149,0.06703882624930653		
+input.WatSAE-BM25-RR	graded.helpful-only	WatSAE-BM25-RR,average,0.14542582924075212		

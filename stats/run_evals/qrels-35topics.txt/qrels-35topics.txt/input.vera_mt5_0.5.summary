@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	101	0.0356
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	102	0.2983
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	103	0.3569
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	104	0.1040
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	105	0.2366
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	106	0.3184
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	107	0.1195
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	108	0.2346
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	109	0.3105
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	110	0.3596
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	111	0.2559
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	112	0.0598
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	114	0.0810
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	115	0.2304
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	117	0.1479
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	118	0.6101
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	120	0.3294
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	121	0.0354
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	122	0.1727
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	127	0.2702
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	128	0.4515
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	129	0.2214
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	131	0.1803
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	132	0.0994
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	133	0.2478
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	134	0.4142
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	136	0.3037
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	137	0.2790
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	139	0.4075
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	140	0.2068
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	143	0.3794
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	144	0.3032
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	145	0.1894
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	146	0.2408
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	149	0.3322
+input.vera_mt5_0.5	2aspects.correct-credible	cam_map	all	0.2521
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	101	0.1406
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	102	0.2485
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	103	0.3125
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	104	0.1172
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	105	0.2144
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	106	0.3059
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	107	0.1119
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	108	0.2321
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	109	0.3218
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	110	0.3276
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	111	0.2501
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	112	0.1330
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	114	0.1102
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	115	0.2272
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	117	0.1625
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	118	0.6132
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	120	0.3852
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	121	0.1863
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	122	0.1489
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	127	0.2488
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	128	0.3466
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	129	0.2934
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	131	0.1740
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	132	0.1078
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	133	0.2399
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	134	0.3984
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	136	0.2438
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	137	0.2061
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	139	0.2983
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	140	0.2461
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	143	0.3429
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	144	0.2883
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	145	0.1950
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	146	0.2410
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	149	0.3659
+input.vera_mt5_0.5	2aspects.useful-credible	cam_map	all	0.2510
+input.vera_mt5_0.5	3aspects	cam_map_three	101	0.0937
+input.vera_mt5_0.5	3aspects	cam_map_three	102	0.2954
+input.vera_mt5_0.5	3aspects	cam_map_three	103	0.3510
+input.vera_mt5_0.5	3aspects	cam_map_three	104	0.1198
+input.vera_mt5_0.5	3aspects	cam_map_three	105	0.2581
+input.vera_mt5_0.5	3aspects	cam_map_three	106	0.3643
+input.vera_mt5_0.5	3aspects	cam_map_three	107	0.1376
+input.vera_mt5_0.5	3aspects	cam_map_three	108	0.2788
+input.vera_mt5_0.5	3aspects	cam_map_three	109	0.3193
+input.vera_mt5_0.5	3aspects	cam_map_three	110	0.3953
+input.vera_mt5_0.5	3aspects	cam_map_three	111	0.2619
+input.vera_mt5_0.5	3aspects	cam_map_three	112	0.0887
+input.vera_mt5_0.5	3aspects	cam_map_three	114	0.1237
+input.vera_mt5_0.5	3aspects	cam_map_three	115	0.2758
+input.vera_mt5_0.5	3aspects	cam_map_three	117	0.1809
+input.vera_mt5_0.5	3aspects	cam_map_three	118	0.6089
+input.vera_mt5_0.5	3aspects	cam_map_three	120	0.3762
+input.vera_mt5_0.5	3aspects	cam_map_three	121	0.1281
+input.vera_mt5_0.5	3aspects	cam_map_three	122	0.1748
+input.vera_mt5_0.5	3aspects	cam_map_three	127	0.2863
+input.vera_mt5_0.5	3aspects	cam_map_three	128	0.4169
+input.vera_mt5_0.5	3aspects	cam_map_three	129	0.2446
+input.vera_mt5_0.5	3aspects	cam_map_three	131	0.2118
+input.vera_mt5_0.5	3aspects	cam_map_three	132	0.1150
+input.vera_mt5_0.5	3aspects	cam_map_three	133	0.2482
+input.vera_mt5_0.5	3aspects	cam_map_three	134	0.4421
+input.vera_mt5_0.5	3aspects	cam_map_three	136	0.2835
+input.vera_mt5_0.5	3aspects	cam_map_three	137	0.2571
+input.vera_mt5_0.5	3aspects	cam_map_three	139	0.3696
+input.vera_mt5_0.5	3aspects	cam_map_three	140	0.2195
+input.vera_mt5_0.5	3aspects	cam_map_three	143	0.3734
+input.vera_mt5_0.5	3aspects	cam_map_three	144	0.3010
+input.vera_mt5_0.5	3aspects	cam_map_three	145	0.1966
+input.vera_mt5_0.5	3aspects	cam_map_three	146	0.2519
+input.vera_mt5_0.5	3aspects	cam_map_three	149	0.3433
+input.vera_mt5_0.5	3aspects	cam_map_three	all	0.2684
+input.vera_mt5_0.5	graded.usefulness	ndcg	101	0.5367
+input.vera_mt5_0.5	graded.usefulness	ndcg	102	0.5210
+input.vera_mt5_0.5	graded.usefulness	ndcg	103	0.6231
+input.vera_mt5_0.5	graded.usefulness	ndcg	104	0.5705
+input.vera_mt5_0.5	graded.usefulness	ndcg	105	0.5622
+input.vera_mt5_0.5	graded.usefulness	ndcg	106	0.7523
+input.vera_mt5_0.5	graded.usefulness	ndcg	107	0.5005
+input.vera_mt5_0.5	graded.usefulness	ndcg	108	0.6099
+input.vera_mt5_0.5	graded.usefulness	ndcg	109	0.6726
+input.vera_mt5_0.5	graded.usefulness	ndcg	110	0.6672
+input.vera_mt5_0.5	graded.usefulness	ndcg	111	0.5316
+input.vera_mt5_0.5	graded.usefulness	ndcg	112	0.5273
+input.vera_mt5_0.5	graded.usefulness	ndcg	114	0.4378
+input.vera_mt5_0.5	graded.usefulness	ndcg	115	0.6455
+input.vera_mt5_0.5	graded.usefulness	ndcg	117	0.5423
+input.vera_mt5_0.5	graded.usefulness	ndcg	118	0.8838
+input.vera_mt5_0.5	graded.usefulness	ndcg	120	0.7837
+input.vera_mt5_0.5	graded.usefulness	ndcg	121	0.5858
+input.vera_mt5_0.5	graded.usefulness	ndcg	122	0.4683
+input.vera_mt5_0.5	graded.usefulness	ndcg	127	0.6520
+input.vera_mt5_0.5	graded.usefulness	ndcg	128	0.7145
+input.vera_mt5_0.5	graded.usefulness	ndcg	129	0.5881
+input.vera_mt5_0.5	graded.usefulness	ndcg	131	0.6608
+input.vera_mt5_0.5	graded.usefulness	ndcg	132	0.4760
+input.vera_mt5_0.5	graded.usefulness	ndcg	133	0.4867
+input.vera_mt5_0.5	graded.usefulness	ndcg	134	0.8070
+input.vera_mt5_0.5	graded.usefulness	ndcg	136	0.5336
+input.vera_mt5_0.5	graded.usefulness	ndcg	137	0.5235
+input.vera_mt5_0.5	graded.usefulness	ndcg	139	0.6915
+input.vera_mt5_0.5	graded.usefulness	ndcg	140	0.4909
+input.vera_mt5_0.5	graded.usefulness	ndcg	143	0.6792
+input.vera_mt5_0.5	graded.usefulness	ndcg	144	0.5152
+input.vera_mt5_0.5	graded.usefulness	ndcg	145	0.5699
+input.vera_mt5_0.5	graded.usefulness	ndcg	146	0.5585
+input.vera_mt5_0.5	graded.usefulness	ndcg	149	0.6409
+input.vera_mt5_0.5	graded.usefulness	ndcg	all	0.6003
+input.vera_mt5_0.5	binary.useful-correct	P_10	102	0.7000
+input.vera_mt5_0.5	binary.useful-correct	P_10	103	0.6000
+input.vera_mt5_0.5	binary.useful-correct	P_10	104	0.1000
+input.vera_mt5_0.5	binary.useful-correct	P_10	105	1.0000
+input.vera_mt5_0.5	binary.useful-correct	P_10	106	0.9000
+input.vera_mt5_0.5	binary.useful-correct	P_10	107	0.5000
+input.vera_mt5_0.5	binary.useful-correct	P_10	108	0.9000
+input.vera_mt5_0.5	binary.useful-correct	P_10	109	0.5000
+input.vera_mt5_0.5	binary.useful-correct	P_10	110	1.0000
+input.vera_mt5_0.5	binary.useful-correct	P_10	111	0.3000
+input.vera_mt5_0.5	binary.useful-correct	P_10	112	0.0000
+input.vera_mt5_0.5	binary.useful-correct	P_10	114	0.6000
+input.vera_mt5_0.5	binary.useful-correct	P_10	115	0.9000
+input.vera_mt5_0.5	binary.useful-correct	P_10	117	0.3000
+input.vera_mt5_0.5	binary.useful-correct	P_10	118	1.0000
+input.vera_mt5_0.5	binary.useful-correct	P_10	120	0.8000
+input.vera_mt5_0.5	binary.useful-correct	P_10	121	0.1000
+input.vera_mt5_0.5	binary.useful-correct	P_10	122	0.3000
+input.vera_mt5_0.5	binary.useful-correct	P_10	127	0.8000
+input.vera_mt5_0.5	binary.useful-correct	P_10	128	0.7000
+input.vera_mt5_0.5	binary.useful-correct	P_10	129	0.4000
+input.vera_mt5_0.5	binary.useful-correct	P_10	131	0.9000
+input.vera_mt5_0.5	binary.useful-correct	P_10	132	0.3000
+input.vera_mt5_0.5	binary.useful-correct	P_10	133	1.0000
+input.vera_mt5_0.5	binary.useful-correct	P_10	134	1.0000
+input.vera_mt5_0.5	binary.useful-correct	P_10	136	0.6000
+input.vera_mt5_0.5	binary.useful-correct	P_10	137	0.3000
+input.vera_mt5_0.5	binary.useful-correct	P_10	139	0.8000
+input.vera_mt5_0.5	binary.useful-correct	P_10	140	0.6000
+input.vera_mt5_0.5	binary.useful-correct	P_10	143	0.9000
+input.vera_mt5_0.5	binary.useful-correct	P_10	144	1.0000
+input.vera_mt5_0.5	binary.useful-correct	P_10	145	0.1000
+input.vera_mt5_0.5	binary.useful-correct	P_10	146	0.7000
+input.vera_mt5_0.5	binary.useful-correct	P_10	149	0.4000
+input.vera_mt5_0.5	binary.useful-correct	P_10	all	0.6176
+input.vera_mt5_0.5	binary.incorrect	P_10	101	0.6000
+input.vera_mt5_0.5	binary.incorrect	P_10	102	0.1000
+input.vera_mt5_0.5	binary.incorrect	P_10	103	0.2000
+input.vera_mt5_0.5	binary.incorrect	P_10	104	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	105	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	106	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	107	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	108	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	109	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	110	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	111	0.4000
+input.vera_mt5_0.5	binary.incorrect	P_10	112	0.2000
+input.vera_mt5_0.5	binary.incorrect	P_10	114	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	115	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	117	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	118	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	120	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	121	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	122	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	128	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	129	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	131	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	132	0.1000
+input.vera_mt5_0.5	binary.incorrect	P_10	134	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	136	0.1000
+input.vera_mt5_0.5	binary.incorrect	P_10	137	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	139	0.1000
+input.vera_mt5_0.5	binary.incorrect	P_10	140	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	143	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	144	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	146	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	149	0.0000
+input.vera_mt5_0.5	binary.incorrect	P_10	all	0.0563
+input.vera_mt5_0.5	binary.useful-correct	ndcg	102	0.6277
+input.vera_mt5_0.5	binary.useful-correct	ndcg	103	0.7274
+input.vera_mt5_0.5	binary.useful-correct	ndcg	104	0.2641
+input.vera_mt5_0.5	binary.useful-correct	ndcg	105	0.5562
+input.vera_mt5_0.5	binary.useful-correct	ndcg	106	0.8120
+input.vera_mt5_0.5	binary.useful-correct	ndcg	107	0.5309
+input.vera_mt5_0.5	binary.useful-correct	ndcg	108	0.6721
+input.vera_mt5_0.5	binary.useful-correct	ndcg	109	0.6401
+input.vera_mt5_0.5	binary.useful-correct	ndcg	110	0.8019
+input.vera_mt5_0.5	binary.useful-correct	ndcg	111	0.4954
+input.vera_mt5_0.5	binary.useful-correct	ndcg	112	0.0000
+input.vera_mt5_0.5	binary.useful-correct	ndcg	114	0.3360
+input.vera_mt5_0.5	binary.useful-correct	ndcg	115	0.7475
+input.vera_mt5_0.5	binary.useful-correct	ndcg	117	0.5031
+input.vera_mt5_0.5	binary.useful-correct	ndcg	118	0.9016
+input.vera_mt5_0.5	binary.useful-correct	ndcg	120	0.7240
+input.vera_mt5_0.5	binary.useful-correct	ndcg	121	0.1456
+input.vera_mt5_0.5	binary.useful-correct	ndcg	122	0.4884
+input.vera_mt5_0.5	binary.useful-correct	ndcg	127	0.6590
+input.vera_mt5_0.5	binary.useful-correct	ndcg	128	0.7900
+input.vera_mt5_0.5	binary.useful-correct	ndcg	129	0.5313
+input.vera_mt5_0.5	binary.useful-correct	ndcg	131	0.6628
+input.vera_mt5_0.5	binary.useful-correct	ndcg	132	0.3217
+input.vera_mt5_0.5	binary.useful-correct	ndcg	133	0.4842
+input.vera_mt5_0.5	binary.useful-correct	ndcg	134	0.8122
+input.vera_mt5_0.5	binary.useful-correct	ndcg	136	0.5960
+input.vera_mt5_0.5	binary.useful-correct	ndcg	137	0.5946
+input.vera_mt5_0.5	binary.useful-correct	ndcg	139	0.7236
+input.vera_mt5_0.5	binary.useful-correct	ndcg	140	0.4326
+input.vera_mt5_0.5	binary.useful-correct	ndcg	143	0.7499
+input.vera_mt5_0.5	binary.useful-correct	ndcg	144	0.5408
+input.vera_mt5_0.5	binary.useful-correct	ndcg	145	0.5533
+input.vera_mt5_0.5	binary.useful-correct	ndcg	146	0.5999
+input.vera_mt5_0.5	binary.useful-correct	ndcg	149	0.6196
+input.vera_mt5_0.5	binary.useful-correct	ndcg	all	0.5778
+input.vera_mt5_0.5	binary.useful-credible	ndcg	101	0.3859
+input.vera_mt5_0.5	binary.useful-credible	ndcg	102	0.5117
+input.vera_mt5_0.5	binary.useful-credible	ndcg	103	0.6558
+input.vera_mt5_0.5	binary.useful-credible	ndcg	104	0.5051
+input.vera_mt5_0.5	binary.useful-credible	ndcg	105	0.3894
+input.vera_mt5_0.5	binary.useful-credible	ndcg	106	0.5082
+input.vera_mt5_0.5	binary.useful-credible	ndcg	107	0.3627
+input.vera_mt5_0.5	binary.useful-credible	ndcg	108	0.4373
+input.vera_mt5_0.5	binary.useful-credible	ndcg	109	0.6548
+input.vera_mt5_0.5	binary.useful-credible	ndcg	110	0.5190
+input.vera_mt5_0.5	binary.useful-credible	ndcg	111	0.5722
+input.vera_mt5_0.5	binary.useful-credible	ndcg	112	0.5079
+input.vera_mt5_0.5	binary.useful-credible	ndcg	114	0.1251
+input.vera_mt5_0.5	binary.useful-credible	ndcg	115	0.4742
+input.vera_mt5_0.5	binary.useful-credible	ndcg	117	0.3819
+input.vera_mt5_0.5	binary.useful-credible	ndcg	118	0.9010
+input.vera_mt5_0.5	binary.useful-credible	ndcg	120	0.6887
+input.vera_mt5_0.5	binary.useful-credible	ndcg	121	0.2760
+input.vera_mt5_0.5	binary.useful-credible	ndcg	122	0.4359
+input.vera_mt5_0.5	binary.useful-credible	ndcg	127	0.5617
+input.vera_mt5_0.5	binary.useful-credible	ndcg	128	0.7927
+input.vera_mt5_0.5	binary.useful-credible	ndcg	129	0.5917
+input.vera_mt5_0.5	binary.useful-credible	ndcg	131	0.4581
+input.vera_mt5_0.5	binary.useful-credible	ndcg	132	0.3737
+input.vera_mt5_0.5	binary.useful-credible	ndcg	133	0.4662
+input.vera_mt5_0.5	binary.useful-credible	ndcg	134	0.6537
+input.vera_mt5_0.5	binary.useful-credible	ndcg	136	0.5311
+input.vera_mt5_0.5	binary.useful-credible	ndcg	137	0.4683
+input.vera_mt5_0.5	binary.useful-credible	ndcg	139	0.5878
+input.vera_mt5_0.5	binary.useful-credible	ndcg	140	0.5289
+input.vera_mt5_0.5	binary.useful-credible	ndcg	143	0.6908
+input.vera_mt5_0.5	binary.useful-credible	ndcg	144	0.4880
+input.vera_mt5_0.5	binary.useful-credible	ndcg	145	0.5377
+input.vera_mt5_0.5	binary.useful-credible	ndcg	146	0.5602
+input.vera_mt5_0.5	binary.useful-credible	ndcg	149	0.6655
+input.vera_mt5_0.5	binary.useful-credible	ndcg	all	0.5214
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	102	0.4864
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	103	0.6456
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	104	0.2641
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	105	0.3750
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	106	0.5082
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	107	0.3221
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	108	0.4433
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	109	0.6322
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	110	0.2649
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	111	0.4483
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	114	0.1743
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	115	0.5123
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	117	0.2500
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	118	0.8991
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	120	0.6584
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	121	0.0806
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	122	0.3558
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	127	0.5763
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	128	0.7900
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	129	0.5293
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	131	0.4932
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	132	0.1786
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	133	0.4815
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	134	0.6636
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	136	0.5960
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	137	0.6992
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	139	0.5893
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	140	0.4364
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	143	0.7002
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	144	0.5377
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	145	0.5204
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	146	0.5580
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	149	0.6180
+input.vera_mt5_0.5	binary.useful-correct-credible	ndcg	all	0.4936
+input.vera_mt5_0.5	graded.harmful-only	runid,topic,compatibility		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,101,0.11401919959959872		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,102,0.05610437432228461		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,103,0.027645855188736027		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,104,0.0066897289286715865		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,105,0.0009078643062494049		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,106,0.0		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,107,2.553118708025983e-08		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,108,0.011757740418688593		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,109,0.0063525107111212405		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,110,0.08824849855863223		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,111,0.19281113574283248		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,112,0.20990321891232974		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,114,0.000760934932973288		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,115,6.808825567078315e-14		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,117,0.016282281659801057		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,118,2.284558052966043e-06		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,120,1.5872109810504212e-24		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,121,0.030334569623322986		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,122,0.0003323279877391175		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,128,0.0016760199302144519		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,129,0.021252882812095066		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,131,5.738821352222291e-16		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,132,0.18787939042856355		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,134,6.574349951596168e-07		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,136,0.10971005202238737		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,137,0.08561563382636374		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,139,0.0297153917308283		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,140,1.4556191269955714e-19		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,143,0.005302752036688748		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,144,0.0		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,146,1.9189718503199323e-07		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,149,8.648619611937199e-08		
+input.vera_mt5_0.5	graded.harmful-only	vera_mt5_0.5,average,0.03760330029961899		
+input.vera_mt5_0.5	graded.helpful-only	runid,topic,compatibility		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,101,0.01098779820788503		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,102,0.3328541592817676		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,103,0.3736802419615974		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,104,0.09983400311470604		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,105,0.13895556382899513		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,106,0.27906618657470983		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,107,0.09045330488099144		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,108,0.1848923203042467		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,109,0.4060937638337702		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,110,0.3917322832862166		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,111,0.29419151329746257		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,112,0.02100732431419743		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,114,0.229800393849194		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,115,0.07347461365308212		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,117,0.2966472608134629		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,118,0.41485305966758784		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,120,0.2733103781154341		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,121,0.15033736501241088		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,122,0.2545733015893999		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,127,0.33498332585552765		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,128,0.6158435491959333		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,129,0.23524747805438415		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,131,0.08736760002460442		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,132,0.22081979779234556		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,133,0.5565206816598103		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,134,0.31934252023955984		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,136,0.5289121692946944		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,137,0.43175187321114		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,139,0.464330445676134		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,140,0.35259023128599204		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,143,0.5585884244117002		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,144,0.7251763938777199		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,145,0.19195588920232837		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,146,0.37027749193350246		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,149,0.2722838460762953		
+input.vera_mt5_0.5	graded.helpful-only	vera_mt5_0.5,average,0.3023639015251082		

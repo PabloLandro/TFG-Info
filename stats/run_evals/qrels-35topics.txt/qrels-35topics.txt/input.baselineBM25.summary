@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.baselineBM25	2aspects.correct-credible	cam_map	101	0.0061
+input.baselineBM25	2aspects.correct-credible	cam_map	102	0.0818
+input.baselineBM25	2aspects.correct-credible	cam_map	103	0.1704
+input.baselineBM25	2aspects.correct-credible	cam_map	104	0.1271
+input.baselineBM25	2aspects.correct-credible	cam_map	105	0.0350
+input.baselineBM25	2aspects.correct-credible	cam_map	106	0.3716
+input.baselineBM25	2aspects.correct-credible	cam_map	107	0.2459
+input.baselineBM25	2aspects.correct-credible	cam_map	108	0.1647
+input.baselineBM25	2aspects.correct-credible	cam_map	109	0.2543
+input.baselineBM25	2aspects.correct-credible	cam_map	110	0.2921
+input.baselineBM25	2aspects.correct-credible	cam_map	111	0.1889
+input.baselineBM25	2aspects.correct-credible	cam_map	112	0.0225
+input.baselineBM25	2aspects.correct-credible	cam_map	114	0.0101
+input.baselineBM25	2aspects.correct-credible	cam_map	115	0.2811
+input.baselineBM25	2aspects.correct-credible	cam_map	117	0.1972
+input.baselineBM25	2aspects.correct-credible	cam_map	118	0.3630
+input.baselineBM25	2aspects.correct-credible	cam_map	120	0.1271
+input.baselineBM25	2aspects.correct-credible	cam_map	121	0.0049
+input.baselineBM25	2aspects.correct-credible	cam_map	122	0.0347
+input.baselineBM25	2aspects.correct-credible	cam_map	127	0.2152
+input.baselineBM25	2aspects.correct-credible	cam_map	128	0.3367
+input.baselineBM25	2aspects.correct-credible	cam_map	129	0.0809
+input.baselineBM25	2aspects.correct-credible	cam_map	131	0.2660
+input.baselineBM25	2aspects.correct-credible	cam_map	132	0.0349
+input.baselineBM25	2aspects.correct-credible	cam_map	133	0.2242
+input.baselineBM25	2aspects.correct-credible	cam_map	134	0.1348
+input.baselineBM25	2aspects.correct-credible	cam_map	136	0.1595
+input.baselineBM25	2aspects.correct-credible	cam_map	137	0.0851
+input.baselineBM25	2aspects.correct-credible	cam_map	139	0.0189
+input.baselineBM25	2aspects.correct-credible	cam_map	140	0.0937
+input.baselineBM25	2aspects.correct-credible	cam_map	143	0.1190
+input.baselineBM25	2aspects.correct-credible	cam_map	144	0.2082
+input.baselineBM25	2aspects.correct-credible	cam_map	145	0.1046
+input.baselineBM25	2aspects.correct-credible	cam_map	146	0.3801
+input.baselineBM25	2aspects.correct-credible	cam_map	149	0.1778
+input.baselineBM25	2aspects.correct-credible	cam_map	all	0.1605
+input.baselineBM25	2aspects.useful-credible	cam_map	101	0.0767
+input.baselineBM25	2aspects.useful-credible	cam_map	102	0.2072
+input.baselineBM25	2aspects.useful-credible	cam_map	103	0.2967
+input.baselineBM25	2aspects.useful-credible	cam_map	104	0.2946
+input.baselineBM25	2aspects.useful-credible	cam_map	105	0.0486
+input.baselineBM25	2aspects.useful-credible	cam_map	106	0.3697
+input.baselineBM25	2aspects.useful-credible	cam_map	107	0.2728
+input.baselineBM25	2aspects.useful-credible	cam_map	108	0.1959
+input.baselineBM25	2aspects.useful-credible	cam_map	109	0.4783
+input.baselineBM25	2aspects.useful-credible	cam_map	110	0.4816
+input.baselineBM25	2aspects.useful-credible	cam_map	111	0.3439
+input.baselineBM25	2aspects.useful-credible	cam_map	112	0.2108
+input.baselineBM25	2aspects.useful-credible	cam_map	114	0.0851
+input.baselineBM25	2aspects.useful-credible	cam_map	115	0.2968
+input.baselineBM25	2aspects.useful-credible	cam_map	117	0.2235
+input.baselineBM25	2aspects.useful-credible	cam_map	118	0.3984
+input.baselineBM25	2aspects.useful-credible	cam_map	120	0.1942
+input.baselineBM25	2aspects.useful-credible	cam_map	121	0.0313
+input.baselineBM25	2aspects.useful-credible	cam_map	122	0.0781
+input.baselineBM25	2aspects.useful-credible	cam_map	127	0.2195
+input.baselineBM25	2aspects.useful-credible	cam_map	128	0.6470
+input.baselineBM25	2aspects.useful-credible	cam_map	129	0.1147
+input.baselineBM25	2aspects.useful-credible	cam_map	131	0.2638
+input.baselineBM25	2aspects.useful-credible	cam_map	132	0.0998
+input.baselineBM25	2aspects.useful-credible	cam_map	133	0.2399
+input.baselineBM25	2aspects.useful-credible	cam_map	134	0.1685
+input.baselineBM25	2aspects.useful-credible	cam_map	136	0.2651
+input.baselineBM25	2aspects.useful-credible	cam_map	137	0.1974
+input.baselineBM25	2aspects.useful-credible	cam_map	139	0.2103
+input.baselineBM25	2aspects.useful-credible	cam_map	140	0.1351
+input.baselineBM25	2aspects.useful-credible	cam_map	143	0.2056
+input.baselineBM25	2aspects.useful-credible	cam_map	144	0.2043
+input.baselineBM25	2aspects.useful-credible	cam_map	145	0.1174
+input.baselineBM25	2aspects.useful-credible	cam_map	146	0.3718
+input.baselineBM25	2aspects.useful-credible	cam_map	149	0.2066
+input.baselineBM25	2aspects.useful-credible	cam_map	all	0.2357
+input.baselineBM25	3aspects	cam_map_three	101	0.0511
+input.baselineBM25	3aspects	cam_map_three	102	0.1527
+input.baselineBM25	3aspects	cam_map_three	103	0.2177
+input.baselineBM25	3aspects	cam_map_three	104	0.1979
+input.baselineBM25	3aspects	cam_map_three	105	0.0474
+input.baselineBM25	3aspects	cam_map_three	106	0.4020
+input.baselineBM25	3aspects	cam_map_three	107	0.2850
+input.baselineBM25	3aspects	cam_map_three	108	0.2083
+input.baselineBM25	3aspects	cam_map_three	109	0.3507
+input.baselineBM25	3aspects	cam_map_three	110	0.3852
+input.baselineBM25	3aspects	cam_map_three	111	0.2452
+input.baselineBM25	3aspects	cam_map_three	112	0.1405
+input.baselineBM25	3aspects	cam_map_three	114	0.0633
+input.baselineBM25	3aspects	cam_map_three	115	0.3340
+input.baselineBM25	3aspects	cam_map_three	117	0.2153
+input.baselineBM25	3aspects	cam_map_three	118	0.4206
+input.baselineBM25	3aspects	cam_map_three	120	0.1926
+input.baselineBM25	3aspects	cam_map_three	121	0.0225
+input.baselineBM25	3aspects	cam_map_three	122	0.0544
+input.baselineBM25	3aspects	cam_map_three	127	0.2344
+input.baselineBM25	3aspects	cam_map_three	128	0.4409
+input.baselineBM25	3aspects	cam_map_three	129	0.0924
+input.baselineBM25	3aspects	cam_map_three	131	0.3020
+input.baselineBM25	3aspects	cam_map_three	132	0.0723
+input.baselineBM25	3aspects	cam_map_three	133	0.2349
+input.baselineBM25	3aspects	cam_map_three	134	0.1695
+input.baselineBM25	3aspects	cam_map_three	136	0.1965
+input.baselineBM25	3aspects	cam_map_three	137	0.1438
+input.baselineBM25	3aspects	cam_map_three	139	0.1458
+input.baselineBM25	3aspects	cam_map_three	140	0.1075
+input.baselineBM25	3aspects	cam_map_three	143	0.1594
+input.baselineBM25	3aspects	cam_map_three	144	0.2075
+input.baselineBM25	3aspects	cam_map_three	145	0.1109
+input.baselineBM25	3aspects	cam_map_three	146	0.3851
+input.baselineBM25	3aspects	cam_map_three	149	0.1876
+input.baselineBM25	3aspects	cam_map_three	all	0.2050
+input.baselineBM25	graded.usefulness	ndcg	101	0.3870
+input.baselineBM25	graded.usefulness	ndcg	102	0.5011
+input.baselineBM25	graded.usefulness	ndcg	103	0.6144
+input.baselineBM25	graded.usefulness	ndcg	104	0.7188
+input.baselineBM25	graded.usefulness	ndcg	105	0.2805
+input.baselineBM25	graded.usefulness	ndcg	106	0.7498
+input.baselineBM25	graded.usefulness	ndcg	107	0.6984
+input.baselineBM25	graded.usefulness	ndcg	108	0.6396
+input.baselineBM25	graded.usefulness	ndcg	109	0.8158
+input.baselineBM25	graded.usefulness	ndcg	110	0.7523
+input.baselineBM25	graded.usefulness	ndcg	111	0.6016
+input.baselineBM25	graded.usefulness	ndcg	112	0.7100
+input.baselineBM25	graded.usefulness	ndcg	114	0.3650
+input.baselineBM25	graded.usefulness	ndcg	115	0.7114
+input.baselineBM25	graded.usefulness	ndcg	117	0.4960
+input.baselineBM25	graded.usefulness	ndcg	118	0.7712
+input.baselineBM25	graded.usefulness	ndcg	120	0.5941
+input.baselineBM25	graded.usefulness	ndcg	121	0.3670
+input.baselineBM25	graded.usefulness	ndcg	122	0.3419
+input.baselineBM25	graded.usefulness	ndcg	127	0.6272
+input.baselineBM25	graded.usefulness	ndcg	128	0.8584
+input.baselineBM25	graded.usefulness	ndcg	129	0.4167
+input.baselineBM25	graded.usefulness	ndcg	131	0.7091
+input.baselineBM25	graded.usefulness	ndcg	132	0.4852
+input.baselineBM25	graded.usefulness	ndcg	133	0.5364
+input.baselineBM25	graded.usefulness	ndcg	134	0.6667
+input.baselineBM25	graded.usefulness	ndcg	136	0.4973
+input.baselineBM25	graded.usefulness	ndcg	137	0.5897
+input.baselineBM25	graded.usefulness	ndcg	139	0.7362
+input.baselineBM25	graded.usefulness	ndcg	140	0.3627
+input.baselineBM25	graded.usefulness	ndcg	143	0.5703
+input.baselineBM25	graded.usefulness	ndcg	144	0.5406
+input.baselineBM25	graded.usefulness	ndcg	145	0.4754
+input.baselineBM25	graded.usefulness	ndcg	146	0.6381
+input.baselineBM25	graded.usefulness	ndcg	149	0.5272
+input.baselineBM25	graded.usefulness	ndcg	all	0.5815
+input.baselineBM25	binary.useful-correct	P_10	102	0.1000
+input.baselineBM25	binary.useful-correct	P_10	103	0.2000
+input.baselineBM25	binary.useful-correct	P_10	104	0.0000
+input.baselineBM25	binary.useful-correct	P_10	105	0.2000
+input.baselineBM25	binary.useful-correct	P_10	106	0.8000
+input.baselineBM25	binary.useful-correct	P_10	107	0.6000
+input.baselineBM25	binary.useful-correct	P_10	108	0.6000
+input.baselineBM25	binary.useful-correct	P_10	109	0.1000
+input.baselineBM25	binary.useful-correct	P_10	110	0.0000
+input.baselineBM25	binary.useful-correct	P_10	111	0.1000
+input.baselineBM25	binary.useful-correct	P_10	112	0.0000
+input.baselineBM25	binary.useful-correct	P_10	114	0.0000
+input.baselineBM25	binary.useful-correct	P_10	115	0.9000
+input.baselineBM25	binary.useful-correct	P_10	117	0.3000
+input.baselineBM25	binary.useful-correct	P_10	118	0.9000
+input.baselineBM25	binary.useful-correct	P_10	120	0.4000
+input.baselineBM25	binary.useful-correct	P_10	121	0.0000
+input.baselineBM25	binary.useful-correct	P_10	122	0.0000
+input.baselineBM25	binary.useful-correct	P_10	127	0.6000
+input.baselineBM25	binary.useful-correct	P_10	128	0.1000
+input.baselineBM25	binary.useful-correct	P_10	129	0.2000
+input.baselineBM25	binary.useful-correct	P_10	131	1.0000
+input.baselineBM25	binary.useful-correct	P_10	132	0.0000
+input.baselineBM25	binary.useful-correct	P_10	133	0.8000
+input.baselineBM25	binary.useful-correct	P_10	134	0.3000
+input.baselineBM25	binary.useful-correct	P_10	136	0.3000
+input.baselineBM25	binary.useful-correct	P_10	137	0.0000
+input.baselineBM25	binary.useful-correct	P_10	139	0.0000
+input.baselineBM25	binary.useful-correct	P_10	140	0.2000
+input.baselineBM25	binary.useful-correct	P_10	143	0.0000
+input.baselineBM25	binary.useful-correct	P_10	144	0.8000
+input.baselineBM25	binary.useful-correct	P_10	145	0.0000
+input.baselineBM25	binary.useful-correct	P_10	146	0.9000
+input.baselineBM25	binary.useful-correct	P_10	149	0.1000
+input.baselineBM25	binary.useful-correct	P_10	all	0.3088
+input.baselineBM25	binary.incorrect	P_10	101	0.8000
+input.baselineBM25	binary.incorrect	P_10	102	0.5000
+input.baselineBM25	binary.incorrect	P_10	103	0.6000
+input.baselineBM25	binary.incorrect	P_10	104	0.6000
+input.baselineBM25	binary.incorrect	P_10	105	0.1000
+input.baselineBM25	binary.incorrect	P_10	106	0.0000
+input.baselineBM25	binary.incorrect	P_10	107	0.0000
+input.baselineBM25	binary.incorrect	P_10	108	0.0000
+input.baselineBM25	binary.incorrect	P_10	109	0.6000
+input.baselineBM25	binary.incorrect	P_10	110	1.0000
+input.baselineBM25	binary.incorrect	P_10	111	0.8000
+input.baselineBM25	binary.incorrect	P_10	112	0.6000
+input.baselineBM25	binary.incorrect	P_10	114	0.0000
+input.baselineBM25	binary.incorrect	P_10	115	0.0000
+input.baselineBM25	binary.incorrect	P_10	117	0.1000
+input.baselineBM25	binary.incorrect	P_10	118	0.0000
+input.baselineBM25	binary.incorrect	P_10	120	0.0000
+input.baselineBM25	binary.incorrect	P_10	121	0.0000
+input.baselineBM25	binary.incorrect	P_10	122	0.2000
+input.baselineBM25	binary.incorrect	P_10	128	0.8000
+input.baselineBM25	binary.incorrect	P_10	129	0.0000
+input.baselineBM25	binary.incorrect	P_10	131	0.0000
+input.baselineBM25	binary.incorrect	P_10	132	0.1000
+input.baselineBM25	binary.incorrect	P_10	134	0.3000
+input.baselineBM25	binary.incorrect	P_10	136	0.0000
+input.baselineBM25	binary.incorrect	P_10	137	0.6000
+input.baselineBM25	binary.incorrect	P_10	139	1.0000
+input.baselineBM25	binary.incorrect	P_10	140	0.0000
+input.baselineBM25	binary.incorrect	P_10	143	0.6000
+input.baselineBM25	binary.incorrect	P_10	144	0.0000
+input.baselineBM25	binary.incorrect	P_10	146	0.0000
+input.baselineBM25	binary.incorrect	P_10	149	0.0000
+input.baselineBM25	binary.incorrect	P_10	all	0.2906
+input.baselineBM25	binary.useful-correct	ndcg	102	0.3306
+input.baselineBM25	binary.useful-correct	ndcg	103	0.3612
+input.baselineBM25	binary.useful-correct	ndcg	104	0.1476
+input.baselineBM25	binary.useful-correct	ndcg	105	0.2599
+input.baselineBM25	binary.useful-correct	ndcg	106	0.7869
+input.baselineBM25	binary.useful-correct	ndcg	107	0.6883
+input.baselineBM25	binary.useful-correct	ndcg	108	0.6714
+input.baselineBM25	binary.useful-correct	ndcg	109	0.4615
+input.baselineBM25	binary.useful-correct	ndcg	110	0.5197
+input.baselineBM25	binary.useful-correct	ndcg	111	0.2459
+input.baselineBM25	binary.useful-correct	ndcg	112	0.0000
+input.baselineBM25	binary.useful-correct	ndcg	114	0.2223
+input.baselineBM25	binary.useful-correct	ndcg	115	0.7447
+input.baselineBM25	binary.useful-correct	ndcg	117	0.4892
+input.baselineBM25	binary.useful-correct	ndcg	118	0.8294
+input.baselineBM25	binary.useful-correct	ndcg	120	0.5295
+input.baselineBM25	binary.useful-correct	ndcg	121	0.1026
+input.baselineBM25	binary.useful-correct	ndcg	122	0.1606
+input.baselineBM25	binary.useful-correct	ndcg	127	0.6082
+input.baselineBM25	binary.useful-correct	ndcg	128	0.3305
+input.baselineBM25	binary.useful-correct	ndcg	129	0.3592
+input.baselineBM25	binary.useful-correct	ndcg	131	0.7046
+input.baselineBM25	binary.useful-correct	ndcg	132	0.2032
+input.baselineBM25	binary.useful-correct	ndcg	133	0.5210
+input.baselineBM25	binary.useful-correct	ndcg	134	0.6243
+input.baselineBM25	binary.useful-correct	ndcg	136	0.3089
+input.baselineBM25	binary.useful-correct	ndcg	137	0.2004
+input.baselineBM25	binary.useful-correct	ndcg	139	0.2359
+input.baselineBM25	binary.useful-correct	ndcg	140	0.2848
+input.baselineBM25	binary.useful-correct	ndcg	143	0.4061
+input.baselineBM25	binary.useful-correct	ndcg	144	0.5638
+input.baselineBM25	binary.useful-correct	ndcg	145	0.4619
+input.baselineBM25	binary.useful-correct	ndcg	146	0.6705
+input.baselineBM25	binary.useful-correct	ndcg	149	0.5155
+input.baselineBM25	binary.useful-correct	ndcg	all	0.4279
+input.baselineBM25	binary.useful-credible	ndcg	101	0.1056
+input.baselineBM25	binary.useful-credible	ndcg	102	0.4275
+input.baselineBM25	binary.useful-credible	ndcg	103	0.6482
+input.baselineBM25	binary.useful-credible	ndcg	104	0.6601
+input.baselineBM25	binary.useful-credible	ndcg	105	0.2013
+input.baselineBM25	binary.useful-credible	ndcg	106	0.6746
+input.baselineBM25	binary.useful-credible	ndcg	107	0.5816
+input.baselineBM25	binary.useful-credible	ndcg	108	0.4979
+input.baselineBM25	binary.useful-credible	ndcg	109	0.7456
+input.baselineBM25	binary.useful-credible	ndcg	110	0.7380
+input.baselineBM25	binary.useful-credible	ndcg	111	0.6259
+input.baselineBM25	binary.useful-credible	ndcg	112	0.3613
+input.baselineBM25	binary.useful-credible	ndcg	114	0.0348
+input.baselineBM25	binary.useful-credible	ndcg	115	0.5496
+input.baselineBM25	binary.useful-credible	ndcg	117	0.5190
+input.baselineBM25	binary.useful-credible	ndcg	118	0.7184
+input.baselineBM25	binary.useful-credible	ndcg	120	0.3285
+input.baselineBM25	binary.useful-credible	ndcg	121	0.1300
+input.baselineBM25	binary.useful-credible	ndcg	122	0.2992
+input.baselineBM25	binary.useful-credible	ndcg	127	0.5532
+input.baselineBM25	binary.useful-credible	ndcg	128	0.8841
+input.baselineBM25	binary.useful-credible	ndcg	129	0.4381
+input.baselineBM25	binary.useful-credible	ndcg	131	0.5574
+input.baselineBM25	binary.useful-credible	ndcg	132	0.3516
+input.baselineBM25	binary.useful-credible	ndcg	133	0.4988
+input.baselineBM25	binary.useful-credible	ndcg	134	0.5046
+input.baselineBM25	binary.useful-credible	ndcg	136	0.5746
+input.baselineBM25	binary.useful-credible	ndcg	137	0.3740
+input.baselineBM25	binary.useful-credible	ndcg	139	0.2660
+input.baselineBM25	binary.useful-credible	ndcg	140	0.4140
+input.baselineBM25	binary.useful-credible	ndcg	143	0.5394
+input.baselineBM25	binary.useful-credible	ndcg	144	0.5381
+input.baselineBM25	binary.useful-credible	ndcg	145	0.4734
+input.baselineBM25	binary.useful-credible	ndcg	146	0.6607
+input.baselineBM25	binary.useful-credible	ndcg	149	0.5599
+input.baselineBM25	binary.useful-credible	ndcg	all	0.4867
+input.baselineBM25	binary.useful-correct-credible	ndcg	102	0.2813
+input.baselineBM25	binary.useful-correct-credible	ndcg	103	0.3194
+input.baselineBM25	binary.useful-correct-credible	ndcg	104	0.1476
+input.baselineBM25	binary.useful-correct-credible	ndcg	105	0.1955
+input.baselineBM25	binary.useful-correct-credible	ndcg	106	0.6746
+input.baselineBM25	binary.useful-correct-credible	ndcg	107	0.5677
+input.baselineBM25	binary.useful-correct-credible	ndcg	108	0.4844
+input.baselineBM25	binary.useful-correct-credible	ndcg	109	0.4389
+input.baselineBM25	binary.useful-correct-credible	ndcg	110	0.2173
+input.baselineBM25	binary.useful-correct-credible	ndcg	111	0.3071
+input.baselineBM25	binary.useful-correct-credible	ndcg	114	0.0804
+input.baselineBM25	binary.useful-correct-credible	ndcg	115	0.5424
+input.baselineBM25	binary.useful-correct-credible	ndcg	117	0.6241
+input.baselineBM25	binary.useful-correct-credible	ndcg	118	0.7128
+input.baselineBM25	binary.useful-correct-credible	ndcg	120	0.1813
+input.baselineBM25	binary.useful-correct-credible	ndcg	121	0.0982
+input.baselineBM25	binary.useful-correct-credible	ndcg	122	0.1028
+input.baselineBM25	binary.useful-correct-credible	ndcg	127	0.5193
+input.baselineBM25	binary.useful-correct-credible	ndcg	128	0.3305
+input.baselineBM25	binary.useful-correct-credible	ndcg	129	0.3564
+input.baselineBM25	binary.useful-correct-credible	ndcg	131	0.5831
+input.baselineBM25	binary.useful-correct-credible	ndcg	132	0.2120
+input.baselineBM25	binary.useful-correct-credible	ndcg	133	0.4875
+input.baselineBM25	binary.useful-correct-credible	ndcg	134	0.5164
+input.baselineBM25	binary.useful-correct-credible	ndcg	136	0.3089
+input.baselineBM25	binary.useful-correct-credible	ndcg	137	0.1976
+input.baselineBM25	binary.useful-correct-credible	ndcg	139	0.2322
+input.baselineBM25	binary.useful-correct-credible	ndcg	140	0.2873
+input.baselineBM25	binary.useful-correct-credible	ndcg	143	0.3833
+input.baselineBM25	binary.useful-correct-credible	ndcg	144	0.5606
+input.baselineBM25	binary.useful-correct-credible	ndcg	145	0.4503
+input.baselineBM25	binary.useful-correct-credible	ndcg	146	0.6664
+input.baselineBM25	binary.useful-correct-credible	ndcg	149	0.5138
+input.baselineBM25	binary.useful-correct-credible	ndcg	all	0.3813
+input.baselineBM25	graded.harmful-only	runid,topic,compatibility		
+input.baselineBM25	graded.harmful-only	baselineBM25,101,0.005954514084555965		
+input.baselineBM25	graded.harmful-only	baselineBM25,102,0.09169372078361239		
+input.baselineBM25	graded.harmful-only	baselineBM25,103,0.3751324650219204		
+input.baselineBM25	graded.harmful-only	baselineBM25,104,0.17628026041987827		
+input.baselineBM25	graded.harmful-only	baselineBM25,105,0.01899775363215148		
+input.baselineBM25	graded.harmful-only	baselineBM25,106,0.0		
+input.baselineBM25	graded.harmful-only	baselineBM25,107,0.0005272567669136558		
+input.baselineBM25	graded.harmful-only	baselineBM25,108,0.0360345589868578		
+input.baselineBM25	graded.harmful-only	baselineBM25,109,0.3394025816827475		
+input.baselineBM25	graded.harmful-only	baselineBM25,110,0.37847327355116644		
+input.baselineBM25	graded.harmful-only	baselineBM25,111,0.43470015264155937		
+input.baselineBM25	graded.harmful-only	baselineBM25,112,0.26721660808056663		
+input.baselineBM25	graded.harmful-only	baselineBM25,114,0.03831686049366911		
+input.baselineBM25	graded.harmful-only	baselineBM25,115,0.0015673772016145597		
+input.baselineBM25	graded.harmful-only	baselineBM25,117,0.06578757547512595		
+input.baselineBM25	graded.harmful-only	baselineBM25,118,0.05063183206405448		
+input.baselineBM25	graded.harmful-only	baselineBM25,120,0.003461150570765104		
+input.baselineBM25	graded.harmful-only	baselineBM25,121,3.793149755912638e-08		
+input.baselineBM25	graded.harmful-only	baselineBM25,122,0.07639810659241578		
+input.baselineBM25	graded.harmful-only	baselineBM25,128,0.8548966488516285		
+input.baselineBM25	graded.harmful-only	baselineBM25,129,0.0019285971181762767		
+input.baselineBM25	graded.harmful-only	baselineBM25,131,1.9905665161157233e-07		
+input.baselineBM25	graded.harmful-only	baselineBM25,132,0.04048266028339544		
+input.baselineBM25	graded.harmful-only	baselineBM25,134,0.18671659068287616		
+input.baselineBM25	graded.harmful-only	baselineBM25,136,0.0		
+input.baselineBM25	graded.harmful-only	baselineBM25,137,0.575177707787591		
+input.baselineBM25	graded.harmful-only	baselineBM25,139,0.30212481473975644		
+input.baselineBM25	graded.harmful-only	baselineBM25,140,0.0		
+input.baselineBM25	graded.harmful-only	baselineBM25,143,0.30075108136356954		
+input.baselineBM25	graded.harmful-only	baselineBM25,144,0.0		
+input.baselineBM25	graded.harmful-only	baselineBM25,146,3.881059314147627e-08		
+input.baselineBM25	graded.harmful-only	baselineBM25,149,0.00025658206967444947		
+input.baselineBM25	graded.harmful-only	baselineBM25,average,0.1444659689607808		
+input.baselineBM25	graded.helpful-only	runid,topic,compatibility		
+input.baselineBM25	graded.helpful-only	baselineBM25,101,0.07305715776882074		
+input.baselineBM25	graded.helpful-only	baselineBM25,102,0.03879291581209642		
+input.baselineBM25	graded.helpful-only	baselineBM25,103,0.05178348902179539		
+input.baselineBM25	graded.helpful-only	baselineBM25,104,4.320303899626498e-06		
+input.baselineBM25	graded.helpful-only	baselineBM25,105,0.008944942159120704		
+input.baselineBM25	graded.helpful-only	baselineBM25,106,0.3858449980506427		
+input.baselineBM25	graded.helpful-only	baselineBM25,107,0.26029120281573287		
+input.baselineBM25	graded.helpful-only	baselineBM25,108,0.08153110450428566		
+input.baselineBM25	graded.helpful-only	baselineBM25,109,0.052346252719046006		
+input.baselineBM25	graded.helpful-only	baselineBM25,110,0.08642884355236417		
+input.baselineBM25	graded.helpful-only	baselineBM25,111,0.12836374849572652		
+input.baselineBM25	graded.helpful-only	baselineBM25,112,0.10621308737541305		
+input.baselineBM25	graded.helpful-only	baselineBM25,114,0.012798139050331404		
+input.baselineBM25	graded.helpful-only	baselineBM25,115,0.07798363599517964		
+input.baselineBM25	graded.helpful-only	baselineBM25,117,0.3554772081074913		
+input.baselineBM25	graded.helpful-only	baselineBM25,118,0.06592999486053203		
+input.baselineBM25	graded.helpful-only	baselineBM25,120,0.07502853351569637		
+input.baselineBM25	graded.helpful-only	baselineBM25,121,0.04259695005376146		
+input.baselineBM25	graded.helpful-only	baselineBM25,122,0.05618705497987681		
+input.baselineBM25	graded.helpful-only	baselineBM25,127,0.2541432419289012		
+input.baselineBM25	graded.helpful-only	baselineBM25,128,0.0647599269984528		
+input.baselineBM25	graded.helpful-only	baselineBM25,129,0.12988334248758943		
+input.baselineBM25	graded.helpful-only	baselineBM25,131,0.1079872284277773		
+input.baselineBM25	graded.helpful-only	baselineBM25,132,0.011448441073933228		
+input.baselineBM25	graded.helpful-only	baselineBM25,133,0.2892839290789177		
+input.baselineBM25	graded.helpful-only	baselineBM25,134,0.1313605327388084		
+input.baselineBM25	graded.helpful-only	baselineBM25,136,0.20459744644781197		
+input.baselineBM25	graded.helpful-only	baselineBM25,137,0.0777647092935993		
+input.baselineBM25	graded.helpful-only	baselineBM25,139,0.0015806036377320853		
+input.baselineBM25	graded.helpful-only	baselineBM25,140,0.06714736264224236		
+input.baselineBM25	graded.helpful-only	baselineBM25,143,0.040375206771143285		
+input.baselineBM25	graded.helpful-only	baselineBM25,144,0.4601212483852844		
+input.baselineBM25	graded.helpful-only	baselineBM25,145,0.07027648387052418		
+input.baselineBM25	graded.helpful-only	baselineBM25,146,0.5695733440497871		
+input.baselineBM25	graded.helpful-only	baselineBM25,149,0.08279943390060153		
+input.baselineBM25	graded.helpful-only	baselineBM25,average,0.1292201731678548		

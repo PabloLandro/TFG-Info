@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.citius.r8	2aspects.correct-credible	cam_map	101	0.1540
+input.citius.r8	2aspects.correct-credible	cam_map	102	0.1062
+input.citius.r8	2aspects.correct-credible	cam_map	103	0.1976
+input.citius.r8	2aspects.correct-credible	cam_map	104	0.1338
+input.citius.r8	2aspects.correct-credible	cam_map	105	0.1236
+input.citius.r8	2aspects.correct-credible	cam_map	106	0.3726
+input.citius.r8	2aspects.correct-credible	cam_map	107	0.1758
+input.citius.r8	2aspects.correct-credible	cam_map	108	0.1505
+input.citius.r8	2aspects.correct-credible	cam_map	109	0.2246
+input.citius.r8	2aspects.correct-credible	cam_map	110	0.2789
+input.citius.r8	2aspects.correct-credible	cam_map	111	0.1439
+input.citius.r8	2aspects.correct-credible	cam_map	112	0.0215
+input.citius.r8	2aspects.correct-credible	cam_map	114	0.0154
+input.citius.r8	2aspects.correct-credible	cam_map	115	0.2986
+input.citius.r8	2aspects.correct-credible	cam_map	117	0.2729
+input.citius.r8	2aspects.correct-credible	cam_map	118	0.5237
+input.citius.r8	2aspects.correct-credible	cam_map	120	0.2613
+input.citius.r8	2aspects.correct-credible	cam_map	121	0.0077
+input.citius.r8	2aspects.correct-credible	cam_map	122	0.0750
+input.citius.r8	2aspects.correct-credible	cam_map	127	0.2717
+input.citius.r8	2aspects.correct-credible	cam_map	128	0.3622
+input.citius.r8	2aspects.correct-credible	cam_map	129	0.1868
+input.citius.r8	2aspects.correct-credible	cam_map	131	0.3201
+input.citius.r8	2aspects.correct-credible	cam_map	132	0.0905
+input.citius.r8	2aspects.correct-credible	cam_map	133	0.2184
+input.citius.r8	2aspects.correct-credible	cam_map	134	0.2328
+input.citius.r8	2aspects.correct-credible	cam_map	136	0.1722
+input.citius.r8	2aspects.correct-credible	cam_map	137	0.0642
+input.citius.r8	2aspects.correct-credible	cam_map	139	0.0512
+input.citius.r8	2aspects.correct-credible	cam_map	140	0.1561
+input.citius.r8	2aspects.correct-credible	cam_map	143	0.2260
+input.citius.r8	2aspects.correct-credible	cam_map	144	0.1880
+input.citius.r8	2aspects.correct-credible	cam_map	145	0.2444
+input.citius.r8	2aspects.correct-credible	cam_map	146	0.2446
+input.citius.r8	2aspects.correct-credible	cam_map	149	0.1942
+input.citius.r8	2aspects.correct-credible	cam_map	all	0.1932
+input.citius.r8	2aspects.useful-credible	cam_map	101	0.3568
+input.citius.r8	2aspects.useful-credible	cam_map	102	0.2368
+input.citius.r8	2aspects.useful-credible	cam_map	103	0.3095
+input.citius.r8	2aspects.useful-credible	cam_map	104	0.3180
+input.citius.r8	2aspects.useful-credible	cam_map	105	0.1644
+input.citius.r8	2aspects.useful-credible	cam_map	106	0.3648
+input.citius.r8	2aspects.useful-credible	cam_map	107	0.1853
+input.citius.r8	2aspects.useful-credible	cam_map	108	0.1897
+input.citius.r8	2aspects.useful-credible	cam_map	109	0.3812
+input.citius.r8	2aspects.useful-credible	cam_map	110	0.3975
+input.citius.r8	2aspects.useful-credible	cam_map	111	0.3017
+input.citius.r8	2aspects.useful-credible	cam_map	112	0.2072
+input.citius.r8	2aspects.useful-credible	cam_map	114	0.1202
+input.citius.r8	2aspects.useful-credible	cam_map	115	0.3046
+input.citius.r8	2aspects.useful-credible	cam_map	117	0.2360
+input.citius.r8	2aspects.useful-credible	cam_map	118	0.5368
+input.citius.r8	2aspects.useful-credible	cam_map	120	0.3759
+input.citius.r8	2aspects.useful-credible	cam_map	121	0.1377
+input.citius.r8	2aspects.useful-credible	cam_map	122	0.1546
+input.citius.r8	2aspects.useful-credible	cam_map	127	0.3333
+input.citius.r8	2aspects.useful-credible	cam_map	128	0.6608
+input.citius.r8	2aspects.useful-credible	cam_map	129	0.2650
+input.citius.r8	2aspects.useful-credible	cam_map	131	0.3135
+input.citius.r8	2aspects.useful-credible	cam_map	132	0.1720
+input.citius.r8	2aspects.useful-credible	cam_map	133	0.2224
+input.citius.r8	2aspects.useful-credible	cam_map	134	0.2953
+input.citius.r8	2aspects.useful-credible	cam_map	136	0.2832
+input.citius.r8	2aspects.useful-credible	cam_map	137	0.0758
+input.citius.r8	2aspects.useful-credible	cam_map	139	0.2368
+input.citius.r8	2aspects.useful-credible	cam_map	140	0.2030
+input.citius.r8	2aspects.useful-credible	cam_map	143	0.3201
+input.citius.r8	2aspects.useful-credible	cam_map	144	0.1948
+input.citius.r8	2aspects.useful-credible	cam_map	145	0.2893
+input.citius.r8	2aspects.useful-credible	cam_map	146	0.2491
+input.citius.r8	2aspects.useful-credible	cam_map	149	0.2172
+input.citius.r8	2aspects.useful-credible	cam_map	all	0.2746
+input.citius.r8	3aspects	cam_map_three	101	0.2379
+input.citius.r8	3aspects	cam_map_three	102	0.1828
+input.citius.r8	3aspects	cam_map_three	103	0.2424
+input.citius.r8	3aspects	cam_map_three	104	0.2126
+input.citius.r8	3aspects	cam_map_three	105	0.1694
+input.citius.r8	3aspects	cam_map_three	106	0.4033
+input.citius.r8	3aspects	cam_map_three	107	0.1944
+input.citius.r8	3aspects	cam_map_three	108	0.1852
+input.citius.r8	3aspects	cam_map_three	109	0.2928
+input.citius.r8	3aspects	cam_map_three	110	0.3526
+input.citius.r8	3aspects	cam_map_three	111	0.2018
+input.citius.r8	3aspects	cam_map_three	112	0.1381
+input.citius.r8	3aspects	cam_map_three	114	0.0882
+input.citius.r8	3aspects	cam_map_three	115	0.3485
+input.citius.r8	3aspects	cam_map_three	117	0.2596
+input.citius.r8	3aspects	cam_map_three	118	0.5636
+input.citius.r8	3aspects	cam_map_three	120	0.3148
+input.citius.r8	3aspects	cam_map_three	121	0.0938
+input.citius.r8	3aspects	cam_map_three	122	0.1128
+input.citius.r8	3aspects	cam_map_three	127	0.2983
+input.citius.r8	3aspects	cam_map_three	128	0.4625
+input.citius.r8	3aspects	cam_map_three	129	0.2130
+input.citius.r8	3aspects	cam_map_three	131	0.3446
+input.citius.r8	3aspects	cam_map_three	132	0.1361
+input.citius.r8	3aspects	cam_map_three	133	0.2211
+input.citius.r8	3aspects	cam_map_three	134	0.2954
+input.citius.r8	3aspects	cam_map_three	136	0.2105
+input.citius.r8	3aspects	cam_map_three	137	0.0719
+input.citius.r8	3aspects	cam_map_three	139	0.1740
+input.citius.r8	3aspects	cam_map_three	140	0.1714
+input.citius.r8	3aspects	cam_map_three	143	0.2682
+input.citius.r8	3aspects	cam_map_three	144	0.1922
+input.citius.r8	3aspects	cam_map_three	145	0.2668
+input.citius.r8	3aspects	cam_map_three	146	0.2652
+input.citius.r8	3aspects	cam_map_three	149	0.2029
+input.citius.r8	3aspects	cam_map_three	all	0.2397
+input.citius.r8	graded.usefulness	ndcg	101	0.5782
+input.citius.r8	graded.usefulness	ndcg	102	0.5212
+input.citius.r8	graded.usefulness	ndcg	103	0.6204
+input.citius.r8	graded.usefulness	ndcg	104	0.7420
+input.citius.r8	graded.usefulness	ndcg	105	0.5376
+input.citius.r8	graded.usefulness	ndcg	106	0.7468
+input.citius.r8	graded.usefulness	ndcg	107	0.5359
+input.citius.r8	graded.usefulness	ndcg	108	0.5816
+input.citius.r8	graded.usefulness	ndcg	109	0.6767
+input.citius.r8	graded.usefulness	ndcg	110	0.6882
+input.citius.r8	graded.usefulness	ndcg	111	0.5885
+input.citius.r8	graded.usefulness	ndcg	112	0.6581
+input.citius.r8	graded.usefulness	ndcg	114	0.4440
+input.citius.r8	graded.usefulness	ndcg	115	0.7133
+input.citius.r8	graded.usefulness	ndcg	117	0.5207
+input.citius.r8	graded.usefulness	ndcg	118	0.8336
+input.citius.r8	graded.usefulness	ndcg	120	0.7632
+input.citius.r8	graded.usefulness	ndcg	121	0.5636
+input.citius.r8	graded.usefulness	ndcg	122	0.4773
+input.citius.r8	graded.usefulness	ndcg	127	0.6504
+input.citius.r8	graded.usefulness	ndcg	128	0.8891
+input.citius.r8	graded.usefulness	ndcg	129	0.5560
+input.citius.r8	graded.usefulness	ndcg	131	0.7041
+input.citius.r8	graded.usefulness	ndcg	132	0.5453
+input.citius.r8	graded.usefulness	ndcg	133	0.4750
+input.citius.r8	graded.usefulness	ndcg	134	0.7646
+input.citius.r8	graded.usefulness	ndcg	136	0.4980
+input.citius.r8	graded.usefulness	ndcg	137	0.4199
+input.citius.r8	graded.usefulness	ndcg	139	0.7341
+input.citius.r8	graded.usefulness	ndcg	140	0.4650
+input.citius.r8	graded.usefulness	ndcg	143	0.6764
+input.citius.r8	graded.usefulness	ndcg	144	0.4454
+input.citius.r8	graded.usefulness	ndcg	145	0.6523
+input.citius.r8	graded.usefulness	ndcg	146	0.5458
+input.citius.r8	graded.usefulness	ndcg	149	0.5656
+input.citius.r8	graded.usefulness	ndcg	all	0.6108
+input.citius.r8	binary.useful-correct	P_10	102	0.2000
+input.citius.r8	binary.useful-correct	P_10	103	0.4000
+input.citius.r8	binary.useful-correct	P_10	104	0.0000
+input.citius.r8	binary.useful-correct	P_10	105	0.9000
+input.citius.r8	binary.useful-correct	P_10	106	0.6000
+input.citius.r8	binary.useful-correct	P_10	107	0.7000
+input.citius.r8	binary.useful-correct	P_10	108	0.6000
+input.citius.r8	binary.useful-correct	P_10	109	0.2000
+input.citius.r8	binary.useful-correct	P_10	110	0.0000
+input.citius.r8	binary.useful-correct	P_10	111	0.0000
+input.citius.r8	binary.useful-correct	P_10	112	0.0000
+input.citius.r8	binary.useful-correct	P_10	114	0.2000
+input.citius.r8	binary.useful-correct	P_10	115	0.8000
+input.citius.r8	binary.useful-correct	P_10	117	0.3000
+input.citius.r8	binary.useful-correct	P_10	118	1.0000
+input.citius.r8	binary.useful-correct	P_10	120	0.3000
+input.citius.r8	binary.useful-correct	P_10	121	0.0000
+input.citius.r8	binary.useful-correct	P_10	122	0.0000
+input.citius.r8	binary.useful-correct	P_10	127	0.6000
+input.citius.r8	binary.useful-correct	P_10	128	0.1000
+input.citius.r8	binary.useful-correct	P_10	129	0.2000
+input.citius.r8	binary.useful-correct	P_10	131	1.0000
+input.citius.r8	binary.useful-correct	P_10	132	0.2000
+input.citius.r8	binary.useful-correct	P_10	133	0.9000
+input.citius.r8	binary.useful-correct	P_10	134	0.6000
+input.citius.r8	binary.useful-correct	P_10	136	0.0000
+input.citius.r8	binary.useful-correct	P_10	137	0.1000
+input.citius.r8	binary.useful-correct	P_10	139	0.1000
+input.citius.r8	binary.useful-correct	P_10	140	0.3000
+input.citius.r8	binary.useful-correct	P_10	143	0.3000
+input.citius.r8	binary.useful-correct	P_10	144	0.8000
+input.citius.r8	binary.useful-correct	P_10	145	0.3000
+input.citius.r8	binary.useful-correct	P_10	146	0.7000
+input.citius.r8	binary.useful-correct	P_10	149	0.6000
+input.citius.r8	binary.useful-correct	P_10	all	0.3824
+input.citius.r8	binary.incorrect	P_10	101	0.9000
+input.citius.r8	binary.incorrect	P_10	102	0.7000
+input.citius.r8	binary.incorrect	P_10	103	0.4000
+input.citius.r8	binary.incorrect	P_10	104	0.9000
+input.citius.r8	binary.incorrect	P_10	105	0.0000
+input.citius.r8	binary.incorrect	P_10	106	0.0000
+input.citius.r8	binary.incorrect	P_10	107	0.0000
+input.citius.r8	binary.incorrect	P_10	108	0.2000
+input.citius.r8	binary.incorrect	P_10	109	0.0000
+input.citius.r8	binary.incorrect	P_10	110	1.0000
+input.citius.r8	binary.incorrect	P_10	111	0.6000
+input.citius.r8	binary.incorrect	P_10	112	0.6000
+input.citius.r8	binary.incorrect	P_10	114	0.0000
+input.citius.r8	binary.incorrect	P_10	115	0.0000
+input.citius.r8	binary.incorrect	P_10	117	0.2000
+input.citius.r8	binary.incorrect	P_10	118	0.0000
+input.citius.r8	binary.incorrect	P_10	120	0.0000
+input.citius.r8	binary.incorrect	P_10	121	0.0000
+input.citius.r8	binary.incorrect	P_10	122	0.1000
+input.citius.r8	binary.incorrect	P_10	128	0.9000
+input.citius.r8	binary.incorrect	P_10	129	0.0000
+input.citius.r8	binary.incorrect	P_10	131	0.0000
+input.citius.r8	binary.incorrect	P_10	132	0.5000
+input.citius.r8	binary.incorrect	P_10	134	0.3000
+input.citius.r8	binary.incorrect	P_10	136	0.0000
+input.citius.r8	binary.incorrect	P_10	137	0.2000
+input.citius.r8	binary.incorrect	P_10	139	0.7000
+input.citius.r8	binary.incorrect	P_10	140	0.0000
+input.citius.r8	binary.incorrect	P_10	143	0.4000
+input.citius.r8	binary.incorrect	P_10	144	0.0000
+input.citius.r8	binary.incorrect	P_10	146	0.0000
+input.citius.r8	binary.incorrect	P_10	149	0.0000
+input.citius.r8	binary.incorrect	P_10	all	0.2687
+input.citius.r8	binary.useful-correct	ndcg	102	0.4017
+input.citius.r8	binary.useful-correct	ndcg	103	0.5011
+input.citius.r8	binary.useful-correct	ndcg	104	0.0753
+input.citius.r8	binary.useful-correct	ndcg	105	0.4831
+input.citius.r8	binary.useful-correct	ndcg	106	0.7947
+input.citius.r8	binary.useful-correct	ndcg	107	0.5515
+input.citius.r8	binary.useful-correct	ndcg	108	0.5590
+input.citius.r8	binary.useful-correct	ndcg	109	0.4909
+input.citius.r8	binary.useful-correct	ndcg	110	0.5723
+input.citius.r8	binary.useful-correct	ndcg	111	0.1006
+input.citius.r8	binary.useful-correct	ndcg	112	0.0000
+input.citius.r8	binary.useful-correct	ndcg	114	0.2169
+input.citius.r8	binary.useful-correct	ndcg	115	0.7604
+input.citius.r8	binary.useful-correct	ndcg	117	0.6173
+input.citius.r8	binary.useful-correct	ndcg	118	0.9034
+input.citius.r8	binary.useful-correct	ndcg	120	0.6249
+input.citius.r8	binary.useful-correct	ndcg	121	0.1285
+input.citius.r8	binary.useful-correct	ndcg	122	0.2832
+input.citius.r8	binary.useful-correct	ndcg	127	0.5905
+input.citius.r8	binary.useful-correct	ndcg	128	0.4343
+input.citius.r8	binary.useful-correct	ndcg	129	0.4978
+input.citius.r8	binary.useful-correct	ndcg	131	0.7085
+input.citius.r8	binary.useful-correct	ndcg	132	0.2675
+input.citius.r8	binary.useful-correct	ndcg	133	0.4637
+input.citius.r8	binary.useful-correct	ndcg	134	0.7078
+input.citius.r8	binary.useful-correct	ndcg	136	0.3693
+input.citius.r8	binary.useful-correct	ndcg	137	0.2704
+input.citius.r8	binary.useful-correct	ndcg	139	0.3632
+input.citius.r8	binary.useful-correct	ndcg	140	0.4130
+input.citius.r8	binary.useful-correct	ndcg	143	0.5793
+input.citius.r8	binary.useful-correct	ndcg	144	0.4749
+input.citius.r8	binary.useful-correct	ndcg	145	0.5766
+input.citius.r8	binary.useful-correct	ndcg	146	0.6084
+input.citius.r8	binary.useful-correct	ndcg	149	0.5627
+input.citius.r8	binary.useful-correct	ndcg	all	0.4692
+input.citius.r8	binary.useful-credible	ndcg	101	0.5783
+input.citius.r8	binary.useful-credible	ndcg	102	0.4739
+input.citius.r8	binary.useful-credible	ndcg	103	0.6601
+input.citius.r8	binary.useful-credible	ndcg	104	0.6669
+input.citius.r8	binary.useful-credible	ndcg	105	0.3382
+input.citius.r8	binary.useful-credible	ndcg	106	0.6622
+input.citius.r8	binary.useful-credible	ndcg	107	0.5034
+input.citius.r8	binary.useful-credible	ndcg	108	0.4654
+input.citius.r8	binary.useful-credible	ndcg	109	0.6603
+input.citius.r8	binary.useful-credible	ndcg	110	0.6461
+input.citius.r8	binary.useful-credible	ndcg	111	0.6058
+input.citius.r8	binary.useful-credible	ndcg	112	0.3614
+input.citius.r8	binary.useful-credible	ndcg	114	0.1103
+input.citius.r8	binary.useful-credible	ndcg	115	0.5449
+input.citius.r8	binary.useful-credible	ndcg	117	0.5817
+input.citius.r8	binary.useful-credible	ndcg	118	0.8383
+input.citius.r8	binary.useful-credible	ndcg	120	0.7343
+input.citius.r8	binary.useful-credible	ndcg	121	0.1638
+input.citius.r8	binary.useful-credible	ndcg	122	0.4439
+input.citius.r8	binary.useful-credible	ndcg	127	0.6574
+input.citius.r8	binary.useful-credible	ndcg	128	0.8962
+input.citius.r8	binary.useful-credible	ndcg	129	0.5787
+input.citius.r8	binary.useful-credible	ndcg	131	0.6213
+input.citius.r8	binary.useful-credible	ndcg	132	0.4334
+input.citius.r8	binary.useful-credible	ndcg	133	0.4599
+input.citius.r8	binary.useful-credible	ndcg	134	0.5988
+input.citius.r8	binary.useful-credible	ndcg	136	0.5640
+input.citius.r8	binary.useful-credible	ndcg	137	0.2948
+input.citius.r8	binary.useful-credible	ndcg	139	0.3682
+input.citius.r8	binary.useful-credible	ndcg	140	0.5083
+input.citius.r8	binary.useful-credible	ndcg	143	0.6886
+input.citius.r8	binary.useful-credible	ndcg	144	0.4445
+input.citius.r8	binary.useful-credible	ndcg	145	0.6543
+input.citius.r8	binary.useful-credible	ndcg	146	0.5282
+input.citius.r8	binary.useful-credible	ndcg	149	0.5846
+input.citius.r8	binary.useful-credible	ndcg	all	0.5406
+input.citius.r8	binary.useful-correct-credible	ndcg	102	0.3595
+input.citius.r8	binary.useful-correct-credible	ndcg	103	0.4785
+input.citius.r8	binary.useful-correct-credible	ndcg	104	0.0753
+input.citius.r8	binary.useful-correct-credible	ndcg	105	0.2925
+input.citius.r8	binary.useful-correct-credible	ndcg	106	0.6622
+input.citius.r8	binary.useful-correct-credible	ndcg	107	0.4696
+input.citius.r8	binary.useful-correct-credible	ndcg	108	0.4592
+input.citius.r8	binary.useful-correct-credible	ndcg	109	0.4780
+input.citius.r8	binary.useful-correct-credible	ndcg	110	0.2298
+input.citius.r8	binary.useful-correct-credible	ndcg	111	0.0670
+input.citius.r8	binary.useful-correct-credible	ndcg	114	0.1312
+input.citius.r8	binary.useful-correct-credible	ndcg	115	0.5518
+input.citius.r8	binary.useful-correct-credible	ndcg	117	0.8503
+input.citius.r8	binary.useful-correct-credible	ndcg	118	0.8323
+input.citius.r8	binary.useful-correct-credible	ndcg	120	0.5685
+input.citius.r8	binary.useful-correct-credible	ndcg	121	0.1022
+input.citius.r8	binary.useful-correct-credible	ndcg	122	0.1943
+input.citius.r8	binary.useful-correct-credible	ndcg	127	0.5466
+input.citius.r8	binary.useful-correct-credible	ndcg	128	0.4343
+input.citius.r8	binary.useful-correct-credible	ndcg	129	0.4932
+input.citius.r8	binary.useful-correct-credible	ndcg	131	0.6768
+input.citius.r8	binary.useful-correct-credible	ndcg	132	0.2214
+input.citius.r8	binary.useful-correct-credible	ndcg	133	0.4640
+input.citius.r8	binary.useful-correct-credible	ndcg	134	0.5997
+input.citius.r8	binary.useful-correct-credible	ndcg	136	0.3693
+input.citius.r8	binary.useful-correct-credible	ndcg	137	0.3162
+input.citius.r8	binary.useful-correct-credible	ndcg	139	0.2951
+input.citius.r8	binary.useful-correct-credible	ndcg	140	0.4166
+input.citius.r8	binary.useful-correct-credible	ndcg	143	0.5660
+input.citius.r8	binary.useful-correct-credible	ndcg	144	0.4759
+input.citius.r8	binary.useful-correct-credible	ndcg	145	0.5247
+input.citius.r8	binary.useful-correct-credible	ndcg	146	0.5208
+input.citius.r8	binary.useful-correct-credible	ndcg	149	0.5571
+input.citius.r8	binary.useful-correct-credible	ndcg	all	0.4327
+input.citius.r8	graded.harmful-only	runid,topic,compatibility		
+input.citius.r8	graded.harmful-only	citius.r8,101,0.5726364925361641		
+input.citius.r8	graded.harmful-only	citius.r8,102,0.1083143135267704		
+input.citius.r8	graded.harmful-only	citius.r8,103,0.2570390056567327		
+input.citius.r8	graded.harmful-only	citius.r8,104,0.21905005898656502		
+input.citius.r8	graded.harmful-only	citius.r8,105,0.03855909611330683		
+input.citius.r8	graded.harmful-only	citius.r8,106,0.0		
+input.citius.r8	graded.harmful-only	citius.r8,107,0.0016153001145501455		
+input.citius.r8	graded.harmful-only	citius.r8,108,0.20670007537634685		
+input.citius.r8	graded.harmful-only	citius.r8,109,0.021124439097253436		
+input.citius.r8	graded.harmful-only	citius.r8,110,0.41794061646843667		
+input.citius.r8	graded.harmful-only	citius.r8,111,0.3471396818424479		
+input.citius.r8	graded.harmful-only	citius.r8,112,0.2871612825927771		
+input.citius.r8	graded.harmful-only	citius.r8,114,0.030672625168828776		
+input.citius.r8	graded.harmful-only	citius.r8,115,0.0007460830676445748		
+input.citius.r8	graded.harmful-only	citius.r8,117,0.11282055466704244		
+input.citius.r8	graded.harmful-only	citius.r8,118,8.930852426810075e-05		
+input.citius.r8	graded.harmful-only	citius.r8,120,7.13107154475625e-23		
+input.citius.r8	graded.harmful-only	citius.r8,121,0.06306282272674568		
+input.citius.r8	graded.harmful-only	citius.r8,122,0.05639484656380903		
+input.citius.r8	graded.harmful-only	citius.r8,128,0.7963725327049173		
+input.citius.r8	graded.harmful-only	citius.r8,129,0.01096864692312147		
+input.citius.r8	graded.harmful-only	citius.r8,131,3.795776191921662e-23		
+input.citius.r8	graded.harmful-only	citius.r8,132,0.35323576032366993		
+input.citius.r8	graded.harmful-only	citius.r8,134,0.17991782005537582		
+input.citius.r8	graded.harmful-only	citius.r8,136,1.0535588212551478e-10		
+input.citius.r8	graded.harmful-only	citius.r8,137,0.13696020122591737		
+input.citius.r8	graded.harmful-only	citius.r8,139,0.2997996555369666		
+input.citius.r8	graded.harmful-only	citius.r8,140,1.1333642890508339e-18		
+input.citius.r8	graded.harmful-only	citius.r8,143,0.3942763870065925		
+input.citius.r8	graded.harmful-only	citius.r8,144,0.0		
+input.citius.r8	graded.harmful-only	citius.r8,146,5.503792722385572e-14		
+input.citius.r8	graded.harmful-only	citius.r8,149,0.06213554408755141		
+input.citius.r8	graded.harmful-only	citius.r8,average,0.15546041096872537		
+input.citius.r8	graded.helpful-only	runid,topic,compatibility		
+input.citius.r8	graded.helpful-only	citius.r8,101,0.04310922048848477		
+input.citius.r8	graded.helpful-only	citius.r8,102,0.03538043543900008		
+input.citius.r8	graded.helpful-only	citius.r8,103,0.21744855651295347		
+input.citius.r8	graded.helpful-only	citius.r8,104,9.408615448943721e-07		
+input.citius.r8	graded.helpful-only	citius.r8,105,0.11949482227084163		
+input.citius.r8	graded.helpful-only	citius.r8,106,0.3806990809453438		
+input.citius.r8	graded.helpful-only	citius.r8,107,0.29996181953482814		
+input.citius.r8	graded.helpful-only	citius.r8,108,0.18222405031254416		
+input.citius.r8	graded.helpful-only	citius.r8,109,0.1634707966651871		
+input.citius.r8	graded.helpful-only	citius.r8,110,0.1515360416710313		
+input.citius.r8	graded.helpful-only	citius.r8,111,0.08973725802159946		
+input.citius.r8	graded.helpful-only	citius.r8,112,0.09940678591528043		
+input.citius.r8	graded.helpful-only	citius.r8,114,0.05584645259620882		
+input.citius.r8	graded.helpful-only	citius.r8,115,0.10872303241416656		
+input.citius.r8	graded.helpful-only	citius.r8,117,0.4299584135377375		
+input.citius.r8	graded.helpful-only	citius.r8,118,0.09643932034579264		
+input.citius.r8	graded.helpful-only	citius.r8,120,0.12155179985879633		
+input.citius.r8	graded.helpful-only	citius.r8,121,0.1141824438376386		
+input.citius.r8	graded.helpful-only	citius.r8,122,0.13064129461485005		
+input.citius.r8	graded.helpful-only	citius.r8,127,0.3316585418830359		
+input.citius.r8	graded.helpful-only	citius.r8,128,0.1856597575744041		
+input.citius.r8	graded.helpful-only	citius.r8,129,0.1293209739758394		
+input.citius.r8	graded.helpful-only	citius.r8,131,0.26380564485349806		
+input.citius.r8	graded.helpful-only	citius.r8,132,0.14135093830670128		
+input.citius.r8	graded.helpful-only	citius.r8,133,0.6483720999609472		
+input.citius.r8	graded.helpful-only	citius.r8,134,0.22485162086417704		
+input.citius.r8	graded.helpful-only	citius.r8,136,0.06800888380233268		
+input.citius.r8	graded.helpful-only	citius.r8,137,0.12703540629939417		
+input.citius.r8	graded.helpful-only	citius.r8,139,0.013105780771868336		
+input.citius.r8	graded.helpful-only	citius.r8,140,0.2043878830170841		
+input.citius.r8	graded.helpful-only	citius.r8,143,0.1923539015501377		
+input.citius.r8	graded.helpful-only	citius.r8,144,0.44937191829646755		
+input.citius.r8	graded.helpful-only	citius.r8,145,0.24010382373078692		
+input.citius.r8	graded.helpful-only	citius.r8,146,0.14191548804171428		
+input.citius.r8	graded.helpful-only	citius.r8,149,0.23834097072746116		
+input.citius.r8	graded.helpful-only	citius.r8,average,0.183984462842848		

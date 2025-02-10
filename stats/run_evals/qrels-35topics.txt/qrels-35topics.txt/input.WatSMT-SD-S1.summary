@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	101	0.0003
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	102	0.1583
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	103	0.2255
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	104	0.0782
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	105	0.0889
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	106	0.2987
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	107	0.2492
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	108	0.2368
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	109	0.2960
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	110	0.2928
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	111	0.0482
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	112	0.0240
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	114	0.1524
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	115	0.2701
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	117	0.0000
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	118	0.3994
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	120	0.0901
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	121	0.0464
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	122	0.0455
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	127	0.2077
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	128	0.1637
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	129	0.1270
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	131	0.2249
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	132	0.0582
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	133	0.1338
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	134	0.2280
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	136	0.1885
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	137	0.0870
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	139	0.2124
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	140	0.0836
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	143	0.2043
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	144	0.2816
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	145	0.0617
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	146	0.2886
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	149	0.1398
+input.WatSMT-SD-S1	2aspects.correct-credible	cam_map	all	0.1626
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	101	0.0007
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	102	0.1523
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	103	0.1116
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	104	0.1609
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	105	0.0893
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	106	0.2974
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	107	0.2204
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	108	0.2351
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	109	0.2114
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	110	0.1143
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	111	0.0575
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	112	0.0437
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	114	0.0697
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	115	0.2735
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	117	0.0000
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	118	0.4292
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	120	0.1274
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	121	0.0875
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	122	0.0178
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	127	0.2134
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	128	0.2164
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	129	0.1632
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	131	0.2229
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	132	0.0263
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	133	0.1353
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	134	0.2153
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	136	0.1861
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	137	0.0454
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	139	0.1340
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	140	0.1178
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	143	0.2029
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	144	0.2837
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	145	0.0673
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	146	0.2802
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	149	0.1656
+input.WatSMT-SD-S1	2aspects.useful-credible	cam_map	all	0.1536
+input.WatSMT-SD-S1	3aspects	cam_map_three	101	0.0005
+input.WatSMT-SD-S1	3aspects	cam_map_three	102	0.1630
+input.WatSMT-SD-S1	3aspects	cam_map_three	103	0.1878
+input.WatSMT-SD-S1	3aspects	cam_map_three	104	0.1076
+input.WatSMT-SD-S1	3aspects	cam_map_three	105	0.1001
+input.WatSMT-SD-S1	3aspects	cam_map_three	106	0.3218
+input.WatSMT-SD-S1	3aspects	cam_map_three	107	0.2881
+input.WatSMT-SD-S1	3aspects	cam_map_three	108	0.2669
+input.WatSMT-SD-S1	3aspects	cam_map_three	109	0.2625
+input.WatSMT-SD-S1	3aspects	cam_map_three	110	0.2671
+input.WatSMT-SD-S1	3aspects	cam_map_three	111	0.0523
+input.WatSMT-SD-S1	3aspects	cam_map_three	112	0.0291
+input.WatSMT-SD-S1	3aspects	cam_map_three	114	0.1460
+input.WatSMT-SD-S1	3aspects	cam_map_three	115	0.3124
+input.WatSMT-SD-S1	3aspects	cam_map_three	117	0.0000
+input.WatSMT-SD-S1	3aspects	cam_map_three	118	0.4482
+input.WatSMT-SD-S1	3aspects	cam_map_three	120	0.1280
+input.WatSMT-SD-S1	3aspects	cam_map_three	121	0.0749
+input.WatSMT-SD-S1	3aspects	cam_map_three	122	0.0385
+input.WatSMT-SD-S1	3aspects	cam_map_three	127	0.2406
+input.WatSMT-SD-S1	3aspects	cam_map_three	128	0.1829
+input.WatSMT-SD-S1	3aspects	cam_map_three	129	0.1386
+input.WatSMT-SD-S1	3aspects	cam_map_three	131	0.2510
+input.WatSMT-SD-S1	3aspects	cam_map_three	132	0.0526
+input.WatSMT-SD-S1	3aspects	cam_map_three	133	0.1361
+input.WatSMT-SD-S1	3aspects	cam_map_three	134	0.2448
+input.WatSMT-SD-S1	3aspects	cam_map_three	136	0.1869
+input.WatSMT-SD-S1	3aspects	cam_map_three	137	0.0722
+input.WatSMT-SD-S1	3aspects	cam_map_three	139	0.1779
+input.WatSMT-SD-S1	3aspects	cam_map_three	140	0.0949
+input.WatSMT-SD-S1	3aspects	cam_map_three	143	0.2052
+input.WatSMT-SD-S1	3aspects	cam_map_three	144	0.2831
+input.WatSMT-SD-S1	3aspects	cam_map_three	145	0.0629
+input.WatSMT-SD-S1	3aspects	cam_map_three	146	0.2917
+input.WatSMT-SD-S1	3aspects	cam_map_three	149	0.1484
+input.WatSMT-SD-S1	3aspects	cam_map_three	all	0.1704
+input.WatSMT-SD-S1	graded.usefulness	ndcg	101	0.0392
+input.WatSMT-SD-S1	graded.usefulness	ndcg	102	0.3042
+input.WatSMT-SD-S1	graded.usefulness	ndcg	103	0.2550
+input.WatSMT-SD-S1	graded.usefulness	ndcg	104	0.4633
+input.WatSMT-SD-S1	graded.usefulness	ndcg	105	0.3496
+input.WatSMT-SD-S1	graded.usefulness	ndcg	106	0.6876
+input.WatSMT-SD-S1	graded.usefulness	ndcg	107	0.6971
+input.WatSMT-SD-S1	graded.usefulness	ndcg	108	0.6271
+input.WatSMT-SD-S1	graded.usefulness	ndcg	109	0.5004
+input.WatSMT-SD-S1	graded.usefulness	ndcg	110	0.3666
+input.WatSMT-SD-S1	graded.usefulness	ndcg	111	0.2303
+input.WatSMT-SD-S1	graded.usefulness	ndcg	112	0.1911
+input.WatSMT-SD-S1	graded.usefulness	ndcg	114	0.2818
+input.WatSMT-SD-S1	graded.usefulness	ndcg	115	0.6528
+input.WatSMT-SD-S1	graded.usefulness	ndcg	117	0.1053
+input.WatSMT-SD-S1	graded.usefulness	ndcg	118	0.7955
+input.WatSMT-SD-S1	graded.usefulness	ndcg	120	0.4705
+input.WatSMT-SD-S1	graded.usefulness	ndcg	121	0.4591
+input.WatSMT-SD-S1	graded.usefulness	ndcg	122	0.1342
+input.WatSMT-SD-S1	graded.usefulness	ndcg	127	0.6388
+input.WatSMT-SD-S1	graded.usefulness	ndcg	128	0.4791
+input.WatSMT-SD-S1	graded.usefulness	ndcg	129	0.4468
+input.WatSMT-SD-S1	graded.usefulness	ndcg	131	0.6501
+input.WatSMT-SD-S1	graded.usefulness	ndcg	132	0.1680
+input.WatSMT-SD-S1	graded.usefulness	ndcg	133	0.4052
+input.WatSMT-SD-S1	graded.usefulness	ndcg	134	0.5918
+input.WatSMT-SD-S1	graded.usefulness	ndcg	136	0.4814
+input.WatSMT-SD-S1	graded.usefulness	ndcg	137	0.2173
+input.WatSMT-SD-S1	graded.usefulness	ndcg	139	0.2818
+input.WatSMT-SD-S1	graded.usefulness	ndcg	140	0.3353
+input.WatSMT-SD-S1	graded.usefulness	ndcg	143	0.4944
+input.WatSMT-SD-S1	graded.usefulness	ndcg	144	0.6269
+input.WatSMT-SD-S1	graded.usefulness	ndcg	145	0.3523
+input.WatSMT-SD-S1	graded.usefulness	ndcg	146	0.5801
+input.WatSMT-SD-S1	graded.usefulness	ndcg	149	0.4664
+input.WatSMT-SD-S1	graded.usefulness	ndcg	all	0.4236
+input.WatSMT-SD-S1	binary.useful-correct	P_10	102	0.5000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	103	0.6000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	104	0.0000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	105	0.2000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	106	0.8000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	107	0.9000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	108	0.5000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	109	0.8000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	110	0.9000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	111	0.1000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	112	0.0000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	114	0.7000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	115	0.8000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	117	0.1000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	118	0.7000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	120	0.5000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	121	0.1000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	122	0.1000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	127	0.8000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	128	0.1000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	129	0.4000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	131	0.9000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	132	0.2000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	133	0.8000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	134	1.0000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	136	0.5000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	137	0.1000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	139	0.6000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	140	0.2000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	143	0.8000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	144	0.9000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	145	0.0000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	146	1.0000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	149	0.3000
+input.WatSMT-SD-S1	binary.useful-correct	P_10	all	0.4971
+input.WatSMT-SD-S1	binary.incorrect	P_10	101	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	102	0.5000
+input.WatSMT-SD-S1	binary.incorrect	P_10	103	0.2000
+input.WatSMT-SD-S1	binary.incorrect	P_10	104	1.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	105	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	106	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	107	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	108	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	109	0.1000
+input.WatSMT-SD-S1	binary.incorrect	P_10	110	0.1000
+input.WatSMT-SD-S1	binary.incorrect	P_10	111	0.1000
+input.WatSMT-SD-S1	binary.incorrect	P_10	112	0.3000
+input.WatSMT-SD-S1	binary.incorrect	P_10	114	0.1000
+input.WatSMT-SD-S1	binary.incorrect	P_10	115	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	117	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	118	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	120	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	121	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	122	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	128	0.8000
+input.WatSMT-SD-S1	binary.incorrect	P_10	129	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	131	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	132	0.1000
+input.WatSMT-SD-S1	binary.incorrect	P_10	134	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	136	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	137	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	139	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	140	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	143	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	144	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	146	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	149	0.0000
+input.WatSMT-SD-S1	binary.incorrect	P_10	all	0.1031
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	102	0.4452
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	103	0.6425
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	104	0.0700
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	105	0.3819
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	106	0.7520
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	107	0.7667
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	108	0.7360
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	109	0.7140
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	110	0.7802
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	111	0.2311
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	112	0.0000
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	114	0.5059
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	115	0.6941
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	117	0.3700
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	118	0.8323
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	120	0.4476
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	121	0.2126
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	122	0.3167
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	127	0.6279
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	128	0.4978
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	129	0.4329
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	131	0.6571
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	132	0.3726
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	133	0.4233
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	134	0.6284
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	136	0.5046
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	137	0.3767
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	139	0.5503
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	140	0.2781
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	143	0.5493
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	144	0.6102
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	145	0.3323
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	146	0.6194
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	149	0.4795
+input.WatSMT-SD-S1	binary.useful-correct	ndcg	all	0.4953
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	101	0.0435
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	102	0.3244
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	103	0.2970
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	104	0.4944
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	105	0.2727
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	106	0.6071
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	107	0.4006
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	108	0.5163
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	109	0.5593
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	110	0.1238
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	111	0.2838
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	112	0.2144
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	114	0.0646
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	115	0.5020
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	117	0.0000
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	118	0.7564
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	120	0.2889
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	121	0.2336
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	122	0.1026
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	127	0.4483
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	128	0.4834
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	129	0.4600
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	131	0.4937
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	132	0.1207
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	133	0.3921
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	134	0.4793
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	136	0.4892
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	137	0.2022
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	139	0.4307
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	140	0.3916
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	143	0.5145
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	144	0.5988
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	145	0.3500
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	146	0.5868
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	149	0.4971
+input.WatSMT-SD-S1	binary.useful-credible	ndcg	all	0.3721
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	102	0.3787
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	103	0.6309
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	104	0.0700
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	105	0.2993
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	106	0.6071
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	107	0.5143
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	108	0.5284
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	109	0.7361
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	110	0.2437
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	111	0.2886
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	114	0.1493
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	115	0.4888
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	117	0.0000
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	118	0.7532
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	120	0.2073
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	121	0.2108
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	122	0.1415
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	127	0.3843
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	128	0.4978
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	129	0.4366
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	131	0.5170
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	132	0.3183
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	133	0.4090
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	134	0.5112
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	136	0.5046
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	137	0.4769
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	139	0.5192
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	140	0.2805
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	143	0.5227
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	144	0.6061
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	145	0.3200
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	146	0.5920
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	149	0.4824
+input.WatSMT-SD-S1	binary.useful-correct-credible	ndcg	all	0.4129
+input.WatSMT-SD-S1	graded.harmful-only	runid,topic,compatibility		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,101,8.057082257056036e-07		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,102,0.08793133468263144		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,103,0.014860997545654505		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,104,0.13479586788679276		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,105,0.013667149798179005		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,106,3.014657493652661e-11		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,107,0.0		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,108,0.010207590688341343		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,109,0.053477783303705693		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,110,0.008067759006727753		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,111,0.09108208646372713		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,112,0.16386797505842005		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,114,0.04230986840456144		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,115,1.825887638641426e-09		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,117,0.0		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,118,3.3906234913166086e-07		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,120,0.0		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,121,1.0885588853810261e-17		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,122,0.008302959785405503		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,128,0.5316836130438009		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,129,0.00045034169523040617		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,131,0.0029168212619797382		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,132,0.00718150020569488		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,134,0.005538052016386262		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,136,0.0		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,137,0.0018617548556701562		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,139,0.0011693391840751982		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,140,4.7112191469530433e-23		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,143,0.0007844008991807071		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,144,0.0		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,146,9.039596019877184e-15		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,149,0.0		
+input.WatSMT-SD-S1	graded.harmful-only	WatSMT-SD-S1,average,0.036879948200399464		
+input.WatSMT-SD-S1	graded.helpful-only	runid,topic,compatibility		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,101,8.948718560265024e-16		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,102,0.1998771199299039		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,103,0.31926584176175343		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,104,6.590590256058482e-05		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,105,0.028073838786081155		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,106,0.37191338742225544		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,107,0.1838454171943862		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,108,0.14021426962172195		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,109,0.5355009580391734		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,110,0.4312137428843747		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,111,0.12163650298698443		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,112,0.06522250599298725		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,114,0.2791639202618665		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,115,0.09183790919962354		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,117,0.12014380689762744		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,118,0.17545897072195382		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,120,0.060070269529286874		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,121,0.1895352347284815		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,122,0.12001975262123052		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,127,0.17745051038464585		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,128,0.2482573734376925		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,129,0.268129367694849		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,131,0.12096077277372423		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,132,0.18205401678907027		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,133,0.271581182902318		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,134,0.24696677496444003		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,136,0.4240380225771107		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,137,0.18907501799329487		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,139,0.3524640865865734		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,140,0.03242363262307481		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,143,0.44346162715925513		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,144,0.6708835331108598		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,145,0.08403708810846515		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,146,0.44080829576988295		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,149,0.12051466090551782		
+input.WatSMT-SD-S1	graded.helpful-only	WatSMT-SD-S1,average,0.2201761519503722		

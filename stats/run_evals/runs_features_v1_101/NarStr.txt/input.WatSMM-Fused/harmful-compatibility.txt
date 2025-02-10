@@ -1,0 +1,2 @@
+runid,topic,compatibility
+WatSMM-Fused,average,0.0

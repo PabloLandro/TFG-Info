@@ -3,3 +3,5 @@ pyserini
 python-dotenv
 rbo
 tiktoken
+pandas
+matplotlib

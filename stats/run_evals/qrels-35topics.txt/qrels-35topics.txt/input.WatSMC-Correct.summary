@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	101	0.0360
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	102	0.2169
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	103	0.1127
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	104	0.0930
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	105	0.2851
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	106	0.2798
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	107	0.2284
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	108	0.4266
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	109	0.0654
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	110	0.2030
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	111	0.0980
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	112	0.0254
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	114	0.1407
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	115	0.2135
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	117	0.2221
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	118	0.4776
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	120	0.2310
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	121	0.2768
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	122	0.1436
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	127	0.2569
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	128	0.1566
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	129	0.1140
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	131	0.2311
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	132	0.0312
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	133	0.1938
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	134	0.3100
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	136	0.3052
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	137	0.2577
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	139	0.4670
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	140	0.0953
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	143	0.2577
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	144	0.3478
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	145	0.3254
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	146	0.3178
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	149	0.1172
+input.WatSMC-Correct	2aspects.correct-credible	cam_map	all	0.2160
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	101	0.0739
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	102	0.1187
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	103	0.1759
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	104	0.1427
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	105	0.2568
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	106	0.2760
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	107	0.2444
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	108	0.4085
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	109	0.0688
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	110	0.3554
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	111	0.1066
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	112	0.0352
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	114	0.1214
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	115	0.2572
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	117	0.0747
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	118	0.4721
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	120	0.3346
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	121	0.2002
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	122	0.1414
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	127	0.2301
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	128	0.1547
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	129	0.1886
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	131	0.2337
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	132	0.0187
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	133	0.1955
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	134	0.3047
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	136	0.1930
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	137	0.2170
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	139	0.3822
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	140	0.1236
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	143	0.2759
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	144	0.3361
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	145	0.3530
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	146	0.3111
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	149	0.1256
+input.WatSMC-Correct	2aspects.useful-credible	cam_map	all	0.2145
+input.WatSMC-Correct	3aspects	cam_map_three	101	0.0493
+input.WatSMC-Correct	3aspects	cam_map_three	102	0.1884
+input.WatSMC-Correct	3aspects	cam_map_three	103	0.1421
+input.WatSMC-Correct	3aspects	cam_map_three	104	0.1252
+input.WatSMC-Correct	3aspects	cam_map_three	105	0.2838
+input.WatSMC-Correct	3aspects	cam_map_three	106	0.3051
+input.WatSMC-Correct	3aspects	cam_map_three	107	0.2911
+input.WatSMC-Correct	3aspects	cam_map_three	108	0.4179
+input.WatSMC-Correct	3aspects	cam_map_three	109	0.0720
+input.WatSMC-Correct	3aspects	cam_map_three	110	0.2404
+input.WatSMC-Correct	3aspects	cam_map_three	111	0.0988
+input.WatSMC-Correct	3aspects	cam_map_three	112	0.0234
+input.WatSMC-Correct	3aspects	cam_map_three	114	0.1644
+input.WatSMC-Correct	3aspects	cam_map_three	115	0.2224
+input.WatSMC-Correct	3aspects	cam_map_three	117	0.1643
+input.WatSMC-Correct	3aspects	cam_map_three	118	0.5080
+input.WatSMC-Correct	3aspects	cam_map_three	120	0.2940
+input.WatSMC-Correct	3aspects	cam_map_three	121	0.2401
+input.WatSMC-Correct	3aspects	cam_map_three	122	0.1431
+input.WatSMC-Correct	3aspects	cam_map_three	127	0.2323
+input.WatSMC-Correct	3aspects	cam_map_three	128	0.1558
+input.WatSMC-Correct	3aspects	cam_map_three	129	0.1391
+input.WatSMC-Correct	3aspects	cam_map_three	131	0.2612
+input.WatSMC-Correct	3aspects	cam_map_three	132	0.0259
+input.WatSMC-Correct	3aspects	cam_map_three	133	0.1931
+input.WatSMC-Correct	3aspects	cam_map_three	134	0.3129
+input.WatSMC-Correct	3aspects	cam_map_three	136	0.2671
+input.WatSMC-Correct	3aspects	cam_map_three	137	0.2545
+input.WatSMC-Correct	3aspects	cam_map_three	139	0.4306
+input.WatSMC-Correct	3aspects	cam_map_three	140	0.1045
+input.WatSMC-Correct	3aspects	cam_map_three	143	0.2580
+input.WatSMC-Correct	3aspects	cam_map_three	144	0.3444
+input.WatSMC-Correct	3aspects	cam_map_three	145	0.3416
+input.WatSMC-Correct	3aspects	cam_map_three	146	0.3296
+input.WatSMC-Correct	3aspects	cam_map_three	149	0.1199
+input.WatSMC-Correct	3aspects	cam_map_three	all	0.2213
+input.WatSMC-Correct	graded.usefulness	ndcg	101	0.3360
+input.WatSMC-Correct	graded.usefulness	ndcg	102	0.4091
+input.WatSMC-Correct	graded.usefulness	ndcg	103	0.5310
+input.WatSMC-Correct	graded.usefulness	ndcg	104	0.4094
+input.WatSMC-Correct	graded.usefulness	ndcg	105	0.5262
+input.WatSMC-Correct	graded.usefulness	ndcg	106	0.6678
+input.WatSMC-Correct	graded.usefulness	ndcg	107	0.6794
+input.WatSMC-Correct	graded.usefulness	ndcg	108	0.6073
+input.WatSMC-Correct	graded.usefulness	ndcg	109	0.3063
+input.WatSMC-Correct	graded.usefulness	ndcg	110	0.6352
+input.WatSMC-Correct	graded.usefulness	ndcg	111	0.1984
+input.WatSMC-Correct	graded.usefulness	ndcg	112	0.1542
+input.WatSMC-Correct	graded.usefulness	ndcg	114	0.4551
+input.WatSMC-Correct	graded.usefulness	ndcg	115	0.5094
+input.WatSMC-Correct	graded.usefulness	ndcg	117	0.1215
+input.WatSMC-Correct	graded.usefulness	ndcg	118	0.8288
+input.WatSMC-Correct	graded.usefulness	ndcg	120	0.7237
+input.WatSMC-Correct	graded.usefulness	ndcg	121	0.4097
+input.WatSMC-Correct	graded.usefulness	ndcg	122	0.4260
+input.WatSMC-Correct	graded.usefulness	ndcg	127	0.4435
+input.WatSMC-Correct	graded.usefulness	ndcg	128	0.4493
+input.WatSMC-Correct	graded.usefulness	ndcg	129	0.4209
+input.WatSMC-Correct	graded.usefulness	ndcg	131	0.6377
+input.WatSMC-Correct	graded.usefulness	ndcg	132	0.1435
+input.WatSMC-Correct	graded.usefulness	ndcg	133	0.4860
+input.WatSMC-Correct	graded.usefulness	ndcg	134	0.7058
+input.WatSMC-Correct	graded.usefulness	ndcg	136	0.4646
+input.WatSMC-Correct	graded.usefulness	ndcg	137	0.6104
+input.WatSMC-Correct	graded.usefulness	ndcg	139	0.6269
+input.WatSMC-Correct	graded.usefulness	ndcg	140	0.4348
+input.WatSMC-Correct	graded.usefulness	ndcg	143	0.4927
+input.WatSMC-Correct	graded.usefulness	ndcg	144	0.6697
+input.WatSMC-Correct	graded.usefulness	ndcg	145	0.6521
+input.WatSMC-Correct	graded.usefulness	ndcg	146	0.6432
+input.WatSMC-Correct	graded.usefulness	ndcg	149	0.4322
+input.WatSMC-Correct	graded.usefulness	ndcg	all	0.4928
+input.WatSMC-Correct	binary.useful-correct	P_10	102	0.8000
+input.WatSMC-Correct	binary.useful-correct	P_10	103	0.3000
+input.WatSMC-Correct	binary.useful-correct	P_10	104	0.1000
+input.WatSMC-Correct	binary.useful-correct	P_10	105	1.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	106	0.7000
+input.WatSMC-Correct	binary.useful-correct	P_10	107	0.7000
+input.WatSMC-Correct	binary.useful-correct	P_10	108	0.9000
+input.WatSMC-Correct	binary.useful-correct	P_10	109	0.3000
+input.WatSMC-Correct	binary.useful-correct	P_10	110	0.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	111	0.2000
+input.WatSMC-Correct	binary.useful-correct	P_10	112	0.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	114	0.7000
+input.WatSMC-Correct	binary.useful-correct	P_10	115	0.5000
+input.WatSMC-Correct	binary.useful-correct	P_10	117	0.3000
+input.WatSMC-Correct	binary.useful-correct	P_10	118	1.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	120	0.6000
+input.WatSMC-Correct	binary.useful-correct	P_10	121	0.5000
+input.WatSMC-Correct	binary.useful-correct	P_10	122	0.2000
+input.WatSMC-Correct	binary.useful-correct	P_10	127	1.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	128	0.4000
+input.WatSMC-Correct	binary.useful-correct	P_10	129	0.3000
+input.WatSMC-Correct	binary.useful-correct	P_10	131	0.9000
+input.WatSMC-Correct	binary.useful-correct	P_10	132	0.2000
+input.WatSMC-Correct	binary.useful-correct	P_10	133	1.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	134	1.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	136	0.8000
+input.WatSMC-Correct	binary.useful-correct	P_10	137	0.3000
+input.WatSMC-Correct	binary.useful-correct	P_10	139	0.8000
+input.WatSMC-Correct	binary.useful-correct	P_10	140	0.2000
+input.WatSMC-Correct	binary.useful-correct	P_10	143	0.6000
+input.WatSMC-Correct	binary.useful-correct	P_10	144	1.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	145	0.6000
+input.WatSMC-Correct	binary.useful-correct	P_10	146	1.0000
+input.WatSMC-Correct	binary.useful-correct	P_10	149	0.4000
+input.WatSMC-Correct	binary.useful-correct	P_10	all	0.5676
+input.WatSMC-Correct	binary.incorrect	P_10	101	0.2000
+input.WatSMC-Correct	binary.incorrect	P_10	102	0.2000
+input.WatSMC-Correct	binary.incorrect	P_10	103	0.2000
+input.WatSMC-Correct	binary.incorrect	P_10	104	0.4000
+input.WatSMC-Correct	binary.incorrect	P_10	105	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	106	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	107	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	108	0.1000
+input.WatSMC-Correct	binary.incorrect	P_10	109	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	110	1.0000
+input.WatSMC-Correct	binary.incorrect	P_10	111	0.2000
+input.WatSMC-Correct	binary.incorrect	P_10	112	0.2000
+input.WatSMC-Correct	binary.incorrect	P_10	114	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	115	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	117	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	118	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	120	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	121	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	122	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	128	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	129	0.1000
+input.WatSMC-Correct	binary.incorrect	P_10	131	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	132	0.1000
+input.WatSMC-Correct	binary.incorrect	P_10	134	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	136	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	137	0.2000
+input.WatSMC-Correct	binary.incorrect	P_10	139	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	140	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	143	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	144	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	146	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	149	0.0000
+input.WatSMC-Correct	binary.incorrect	P_10	all	0.0906
+input.WatSMC-Correct	binary.useful-correct	ndcg	102	0.6100
+input.WatSMC-Correct	binary.useful-correct	ndcg	103	0.3411
+input.WatSMC-Correct	binary.useful-correct	ndcg	104	0.3111
+input.WatSMC-Correct	binary.useful-correct	ndcg	105	0.6526
+input.WatSMC-Correct	binary.useful-correct	ndcg	106	0.7141
+input.WatSMC-Correct	binary.useful-correct	ndcg	107	0.7175
+input.WatSMC-Correct	binary.useful-correct	ndcg	108	0.7170
+input.WatSMC-Correct	binary.useful-correct	ndcg	109	0.3398
+input.WatSMC-Correct	binary.useful-correct	ndcg	110	0.1580
+input.WatSMC-Correct	binary.useful-correct	ndcg	111	0.2403
+input.WatSMC-Correct	binary.useful-correct	ndcg	112	0.0000
+input.WatSMC-Correct	binary.useful-correct	ndcg	114	0.5719
+input.WatSMC-Correct	binary.useful-correct	ndcg	115	0.4121
+input.WatSMC-Correct	binary.useful-correct	ndcg	117	0.5215
+input.WatSMC-Correct	binary.useful-correct	ndcg	118	0.8691
+input.WatSMC-Correct	binary.useful-correct	ndcg	120	0.6329
+input.WatSMC-Correct	binary.useful-correct	ndcg	121	0.6009
+input.WatSMC-Correct	binary.useful-correct	ndcg	122	0.4291
+input.WatSMC-Correct	binary.useful-correct	ndcg	127	0.5060
+input.WatSMC-Correct	binary.useful-correct	ndcg	128	0.4874
+input.WatSMC-Correct	binary.useful-correct	ndcg	129	0.2953
+input.WatSMC-Correct	binary.useful-correct	ndcg	131	0.6244
+input.WatSMC-Correct	binary.useful-correct	ndcg	132	0.2499
+input.WatSMC-Correct	binary.useful-correct	ndcg	133	0.4878
+input.WatSMC-Correct	binary.useful-correct	ndcg	134	0.7349
+input.WatSMC-Correct	binary.useful-correct	ndcg	136	0.6625
+input.WatSMC-Correct	binary.useful-correct	ndcg	137	0.5992
+input.WatSMC-Correct	binary.useful-correct	ndcg	139	0.8008
+input.WatSMC-Correct	binary.useful-correct	ndcg	140	0.3926
+input.WatSMC-Correct	binary.useful-correct	ndcg	143	0.5989
+input.WatSMC-Correct	binary.useful-correct	ndcg	144	0.6877
+input.WatSMC-Correct	binary.useful-correct	ndcg	145	0.6247
+input.WatSMC-Correct	binary.useful-correct	ndcg	146	0.6450
+input.WatSMC-Correct	binary.useful-correct	ndcg	149	0.4458
+input.WatSMC-Correct	binary.useful-correct	ndcg	all	0.5201
+input.WatSMC-Correct	binary.useful-credible	ndcg	101	0.3787
+input.WatSMC-Correct	binary.useful-credible	ndcg	102	0.4707
+input.WatSMC-Correct	binary.useful-credible	ndcg	103	0.5171
+input.WatSMC-Correct	binary.useful-credible	ndcg	104	0.3923
+input.WatSMC-Correct	binary.useful-credible	ndcg	105	0.5399
+input.WatSMC-Correct	binary.useful-credible	ndcg	106	0.5736
+input.WatSMC-Correct	binary.useful-credible	ndcg	107	0.3662
+input.WatSMC-Correct	binary.useful-credible	ndcg	108	0.7604
+input.WatSMC-Correct	binary.useful-credible	ndcg	109	0.2697
+input.WatSMC-Correct	binary.useful-credible	ndcg	110	0.7286
+input.WatSMC-Correct	binary.useful-credible	ndcg	111	0.2826
+input.WatSMC-Correct	binary.useful-credible	ndcg	112	0.2247
+input.WatSMC-Correct	binary.useful-credible	ndcg	114	0.2908
+input.WatSMC-Correct	binary.useful-credible	ndcg	115	0.5959
+input.WatSMC-Correct	binary.useful-credible	ndcg	117	0.2424
+input.WatSMC-Correct	binary.useful-credible	ndcg	118	0.7242
+input.WatSMC-Correct	binary.useful-credible	ndcg	120	0.6193
+input.WatSMC-Correct	binary.useful-credible	ndcg	121	0.5140
+input.WatSMC-Correct	binary.useful-credible	ndcg	122	0.4624
+input.WatSMC-Correct	binary.useful-credible	ndcg	127	0.5204
+input.WatSMC-Correct	binary.useful-credible	ndcg	128	0.5046
+input.WatSMC-Correct	binary.useful-credible	ndcg	129	0.4591
+input.WatSMC-Correct	binary.useful-credible	ndcg	131	0.4860
+input.WatSMC-Correct	binary.useful-credible	ndcg	132	0.2390
+input.WatSMC-Correct	binary.useful-credible	ndcg	133	0.4880
+input.WatSMC-Correct	binary.useful-credible	ndcg	134	0.7216
+input.WatSMC-Correct	binary.useful-credible	ndcg	136	0.4155
+input.WatSMC-Correct	binary.useful-credible	ndcg	137	0.5227
+input.WatSMC-Correct	binary.useful-credible	ndcg	139	0.7287
+input.WatSMC-Correct	binary.useful-credible	ndcg	140	0.4662
+input.WatSMC-Correct	binary.useful-credible	ndcg	143	0.5774
+input.WatSMC-Correct	binary.useful-credible	ndcg	144	0.6484
+input.WatSMC-Correct	binary.useful-credible	ndcg	145	0.6249
+input.WatSMC-Correct	binary.useful-credible	ndcg	146	0.5976
+input.WatSMC-Correct	binary.useful-credible	ndcg	149	0.4634
+input.WatSMC-Correct	binary.useful-credible	ndcg	all	0.4976
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	102	0.5634
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	103	0.3106
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	104	0.3111
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	105	0.6040
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	106	0.5736
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	107	0.4351
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	108	0.7772
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	109	0.2951
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	110	0.1706
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	111	0.3001
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	114	0.1915
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	115	0.4762
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	117	0.8772
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	118	0.7136
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	120	0.4682
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	121	0.5983
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	122	0.5162
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	127	0.7295
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	128	0.4874
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	129	0.2978
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	131	0.5096
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	132	0.2150
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	133	0.4989
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	134	0.7227
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	136	0.6625
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	137	0.6659
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	139	0.7669
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	140	0.3961
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	143	0.6316
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	144	0.6862
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	145	0.5738
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	146	0.6024
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	149	0.4436
+input.WatSMC-Correct	binary.useful-correct-credible	ndcg	all	0.5173
+input.WatSMC-Correct	graded.harmful-only	runid,topic,compatibility		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,101,0.12186310732701777		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,102,0.020713336527369286		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,103,0.24128403265392612		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,104,0.08806790438721351		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,105,0.01179003596243311		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,106,1.8934562360582956e-19		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,107,3.967316970718749e-15		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,108,0.05365839871766163		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,109,0.02271997131851344		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,110,0.6003520233474754		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,111,0.1437731507963406		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,112,0.09657415857844188		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,114,0.003287917080366508		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,115,0.0		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,117,0.0		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,118,0.000332523838874562		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,120,6.796426378609413e-07		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,121,6.842079706571716e-11		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,122,0.0024325181238717738		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,128,0.009550506991741215		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,129,0.1254284099611393		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,131,0.0003368117896207098		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,132,0.05004840321587954		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,134,1.1439467928480875e-07		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,136,0.0		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,137,0.16618176339257978		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,139,0.012072689040350798		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,140,0.0		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,143,0.0019152868740133066		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,144,0.0		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,146,9.35935476485246e-08		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,149,2.18299880279025e-08		
+input.WatSMC-Correct	graded.harmful-only	WatSMC-Correct,average,0.05538699560794087		
+input.WatSMC-Correct	graded.helpful-only	runid,topic,compatibility		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,101,0.34322856196634555		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,102,0.3111591036135739		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,103,0.11493382040670887		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,104,0.1090511525448923		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,105,0.23952540754850252		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,106,0.2910186173754295		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,107,0.1808201817415201		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,108,0.3410956553244507		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,109,0.114288457848908		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,110,0.015752081479008428		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,111,0.23919958375981382		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,112,0.015131337535600625		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,114,0.21063042576930208		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,115,0.2413435730279627		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,117,0.37631713852765863		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,118,0.08294906798489804		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,120,0.11005068581708967		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,121,0.31856407193695363		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,122,0.3165609774010081		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,127,0.4116929948058622		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,128,0.31421106180340364		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,129,0.014466377532243608		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,131,0.11859405621404251		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,132,0.0943842209753672		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,133,0.5590877922638221		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,134,0.3128742341194057		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,136,0.6773272648194248		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,137,0.4087895368241847		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,139,0.498601777747091		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,140,0.2500866151282794		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,143,0.3560981306575812		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,144,0.6291497814034749		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,145,0.4271016690147402		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,146,0.7181782763747173		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,149,0.07939317179659788		
+input.WatSMC-Correct	graded.helpful-only	WatSMC-Correct,average,0.28119019608828183		

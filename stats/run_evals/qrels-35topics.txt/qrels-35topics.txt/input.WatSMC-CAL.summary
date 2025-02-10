@@ -1,0 +1,389 @@
+run	qrels	measure	topic	score
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	101	0.0521
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	102	0.2280
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	103	0.1505
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	104	0.0745
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	105	0.4137
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	106	0.1764
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	107	0.2154
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	108	0.5292
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	109	0.1756
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	110	0.2148
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	111	0.1060
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	112	0.0404
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	114	0.1511
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	115	0.1459
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	117	0.0599
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	118	0.5691
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	120	0.3006
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	121	0.0042
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	122	0.1588
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	127	0.1790
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	128	0.3113
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	129	0.1091
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	131	0.2536
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	132	0.1898
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	133	0.2043
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	134	0.3153
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	136	0.1379
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	137	0.3237
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	139	0.4087
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	140	0.1221
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	143	0.3469
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	144	0.3697
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	145	0.3636
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	146	0.3129
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	149	0.1312
+input.WatSMC-CAL	2aspects.correct-credible	cam_map	all	0.2242
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	101	0.1522
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	102	0.4199
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	103	0.2807
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	104	0.2349
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	105	0.3696
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	106	0.1775
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	107	0.2437
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	108	0.5443
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	109	0.3495
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	110	0.3697
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	111	0.2496
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	112	0.1981
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	114	0.1537
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	115	0.1488
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	117	0.1652
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	118	0.5606
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	120	0.3463
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	121	0.0224
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	122	0.3085
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	127	0.1564
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	128	0.5887
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	129	0.1808
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	131	0.2936
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	132	0.3635
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	133	0.1944
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	134	0.3176
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	136	0.1141
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	137	0.5648
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	139	0.3772
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	140	0.0997
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	143	0.3028
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	144	0.3738
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	145	0.3899
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	146	0.3176
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	149	0.1707
+input.WatSMC-CAL	2aspects.useful-credible	cam_map	all	0.2886
+input.WatSMC-CAL	3aspects	cam_map_three	101	0.1015
+input.WatSMC-CAL	3aspects	cam_map_three	102	0.2873
+input.WatSMC-CAL	3aspects	cam_map_three	103	0.2062
+input.WatSMC-CAL	3aspects	cam_map_three	104	0.1644
+input.WatSMC-CAL	3aspects	cam_map_three	105	0.3998
+input.WatSMC-CAL	3aspects	cam_map_three	106	0.1970
+input.WatSMC-CAL	3aspects	cam_map_three	107	0.2602
+input.WatSMC-CAL	3aspects	cam_map_three	108	0.5202
+input.WatSMC-CAL	3aspects	cam_map_three	109	0.2544
+input.WatSMC-CAL	3aspects	cam_map_three	110	0.2483
+input.WatSMC-CAL	3aspects	cam_map_three	111	0.1667
+input.WatSMC-CAL	3aspects	cam_map_three	112	0.1321
+input.WatSMC-CAL	3aspects	cam_map_three	114	0.1865
+input.WatSMC-CAL	3aspects	cam_map_three	115	0.1726
+input.WatSMC-CAL	3aspects	cam_map_three	117	0.1117
+input.WatSMC-CAL	3aspects	cam_map_three	118	0.5819
+input.WatSMC-CAL	3aspects	cam_map_three	120	0.3336
+input.WatSMC-CAL	3aspects	cam_map_three	121	0.0152
+input.WatSMC-CAL	3aspects	cam_map_three	122	0.2071
+input.WatSMC-CAL	3aspects	cam_map_three	127	0.1865
+input.WatSMC-CAL	3aspects	cam_map_three	128	0.4039
+input.WatSMC-CAL	3aspects	cam_map_three	129	0.1350
+input.WatSMC-CAL	3aspects	cam_map_three	131	0.3047
+input.WatSMC-CAL	3aspects	cam_map_three	132	0.2453
+input.WatSMC-CAL	3aspects	cam_map_three	133	0.2097
+input.WatSMC-CAL	3aspects	cam_map_three	134	0.3406
+input.WatSMC-CAL	3aspects	cam_map_three	136	0.1293
+input.WatSMC-CAL	3aspects	cam_map_three	137	0.4397
+input.WatSMC-CAL	3aspects	cam_map_three	139	0.3915
+input.WatSMC-CAL	3aspects	cam_map_three	140	0.1161
+input.WatSMC-CAL	3aspects	cam_map_three	143	0.3270
+input.WatSMC-CAL	3aspects	cam_map_three	144	0.3724
+input.WatSMC-CAL	3aspects	cam_map_three	145	0.3784
+input.WatSMC-CAL	3aspects	cam_map_three	146	0.3134
+input.WatSMC-CAL	3aspects	cam_map_three	149	0.1440
+input.WatSMC-CAL	3aspects	cam_map_three	all	0.2567
+input.WatSMC-CAL	graded.usefulness	ndcg	101	0.5220
+input.WatSMC-CAL	graded.usefulness	ndcg	102	0.7022
+input.WatSMC-CAL	graded.usefulness	ndcg	103	0.6011
+input.WatSMC-CAL	graded.usefulness	ndcg	104	0.6441
+input.WatSMC-CAL	graded.usefulness	ndcg	105	0.5555
+input.WatSMC-CAL	graded.usefulness	ndcg	106	0.5059
+input.WatSMC-CAL	graded.usefulness	ndcg	107	0.7140
+input.WatSMC-CAL	graded.usefulness	ndcg	108	0.7263
+input.WatSMC-CAL	graded.usefulness	ndcg	109	0.6650
+input.WatSMC-CAL	graded.usefulness	ndcg	110	0.5883
+input.WatSMC-CAL	graded.usefulness	ndcg	111	0.5595
+input.WatSMC-CAL	graded.usefulness	ndcg	112	0.6456
+input.WatSMC-CAL	graded.usefulness	ndcg	114	0.5052
+input.WatSMC-CAL	graded.usefulness	ndcg	115	0.4812
+input.WatSMC-CAL	graded.usefulness	ndcg	117	0.4507
+input.WatSMC-CAL	graded.usefulness	ndcg	118	0.8498
+input.WatSMC-CAL	graded.usefulness	ndcg	120	0.7126
+input.WatSMC-CAL	graded.usefulness	ndcg	121	0.2525
+input.WatSMC-CAL	graded.usefulness	ndcg	122	0.5654
+input.WatSMC-CAL	graded.usefulness	ndcg	127	0.5041
+input.WatSMC-CAL	graded.usefulness	ndcg	128	0.8539
+input.WatSMC-CAL	graded.usefulness	ndcg	129	0.4111
+input.WatSMC-CAL	graded.usefulness	ndcg	131	0.7527
+input.WatSMC-CAL	graded.usefulness	ndcg	132	0.6178
+input.WatSMC-CAL	graded.usefulness	ndcg	133	0.4842
+input.WatSMC-CAL	graded.usefulness	ndcg	134	0.7340
+input.WatSMC-CAL	graded.usefulness	ndcg	136	0.3720
+input.WatSMC-CAL	graded.usefulness	ndcg	137	0.8834
+input.WatSMC-CAL	graded.usefulness	ndcg	139	0.7128
+input.WatSMC-CAL	graded.usefulness	ndcg	140	0.3425
+input.WatSMC-CAL	graded.usefulness	ndcg	143	0.5088
+input.WatSMC-CAL	graded.usefulness	ndcg	144	0.6581
+input.WatSMC-CAL	graded.usefulness	ndcg	145	0.6394
+input.WatSMC-CAL	graded.usefulness	ndcg	146	0.6765
+input.WatSMC-CAL	graded.usefulness	ndcg	149	0.3393
+input.WatSMC-CAL	graded.usefulness	ndcg	all	0.5925
+input.WatSMC-CAL	binary.useful-correct	P_10	102	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	103	0.1000
+input.WatSMC-CAL	binary.useful-correct	P_10	104	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	105	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	106	0.5000
+input.WatSMC-CAL	binary.useful-correct	P_10	107	0.6000
+input.WatSMC-CAL	binary.useful-correct	P_10	108	0.9000
+input.WatSMC-CAL	binary.useful-correct	P_10	109	0.1000
+input.WatSMC-CAL	binary.useful-correct	P_10	110	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	111	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	112	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	114	0.8000
+input.WatSMC-CAL	binary.useful-correct	P_10	115	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	117	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	118	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	120	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	121	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	122	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	127	0.6000
+input.WatSMC-CAL	binary.useful-correct	P_10	128	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	129	0.3000
+input.WatSMC-CAL	binary.useful-correct	P_10	131	0.9000
+input.WatSMC-CAL	binary.useful-correct	P_10	132	0.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	133	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	134	0.8000
+input.WatSMC-CAL	binary.useful-correct	P_10	136	0.7000
+input.WatSMC-CAL	binary.useful-correct	P_10	137	0.1000
+input.WatSMC-CAL	binary.useful-correct	P_10	139	0.8000
+input.WatSMC-CAL	binary.useful-correct	P_10	140	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	143	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	144	1.0000
+input.WatSMC-CAL	binary.useful-correct	P_10	145	0.7000
+input.WatSMC-CAL	binary.useful-correct	P_10	146	0.9000
+input.WatSMC-CAL	binary.useful-correct	P_10	149	0.4000
+input.WatSMC-CAL	binary.useful-correct	P_10	all	0.5059
+input.WatSMC-CAL	binary.incorrect	P_10	101	0.6000
+input.WatSMC-CAL	binary.incorrect	P_10	102	0.4000
+input.WatSMC-CAL	binary.incorrect	P_10	103	0.7000
+input.WatSMC-CAL	binary.incorrect	P_10	104	0.2000
+input.WatSMC-CAL	binary.incorrect	P_10	105	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	106	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	107	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	108	0.1000
+input.WatSMC-CAL	binary.incorrect	P_10	109	0.3000
+input.WatSMC-CAL	binary.incorrect	P_10	110	1.0000
+input.WatSMC-CAL	binary.incorrect	P_10	111	0.9000
+input.WatSMC-CAL	binary.incorrect	P_10	112	0.7000
+input.WatSMC-CAL	binary.incorrect	P_10	114	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	115	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	117	0.3000
+input.WatSMC-CAL	binary.incorrect	P_10	118	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	120	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	121	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	122	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	128	1.0000
+input.WatSMC-CAL	binary.incorrect	P_10	129	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	131	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	132	0.8000
+input.WatSMC-CAL	binary.incorrect	P_10	134	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	136	0.1000
+input.WatSMC-CAL	binary.incorrect	P_10	137	0.9000
+input.WatSMC-CAL	binary.incorrect	P_10	139	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	140	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	143	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	144	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	146	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	149	0.0000
+input.WatSMC-CAL	binary.incorrect	P_10	all	0.2500
+input.WatSMC-CAL	binary.useful-correct	ndcg	102	0.2454
+input.WatSMC-CAL	binary.useful-correct	ndcg	103	0.3466
+input.WatSMC-CAL	binary.useful-correct	ndcg	104	0.2081
+input.WatSMC-CAL	binary.useful-correct	ndcg	105	0.7020
+input.WatSMC-CAL	binary.useful-correct	ndcg	106	0.5680
+input.WatSMC-CAL	binary.useful-correct	ndcg	107	0.7049
+input.WatSMC-CAL	binary.useful-correct	ndcg	108	0.8020
+input.WatSMC-CAL	binary.useful-correct	ndcg	109	0.3683
+input.WatSMC-CAL	binary.useful-correct	ndcg	110	0.1331
+input.WatSMC-CAL	binary.useful-correct	ndcg	111	0.0323
+input.WatSMC-CAL	binary.useful-correct	ndcg	112	0.0000
+input.WatSMC-CAL	binary.useful-correct	ndcg	114	0.6025
+input.WatSMC-CAL	binary.useful-correct	ndcg	115	0.5253
+input.WatSMC-CAL	binary.useful-correct	ndcg	117	0.1062
+input.WatSMC-CAL	binary.useful-correct	ndcg	118	0.8838
+input.WatSMC-CAL	binary.useful-correct	ndcg	120	0.6806
+input.WatSMC-CAL	binary.useful-correct	ndcg	121	0.0633
+input.WatSMC-CAL	binary.useful-correct	ndcg	122	0.1124
+input.WatSMC-CAL	binary.useful-correct	ndcg	127	0.5512
+input.WatSMC-CAL	binary.useful-correct	ndcg	128	0.3378
+input.WatSMC-CAL	binary.useful-correct	ndcg	129	0.2737
+input.WatSMC-CAL	binary.useful-correct	ndcg	131	0.7132
+input.WatSMC-CAL	binary.useful-correct	ndcg	132	0.1011
+input.WatSMC-CAL	binary.useful-correct	ndcg	133	0.4853
+input.WatSMC-CAL	binary.useful-correct	ndcg	134	0.7279
+input.WatSMC-CAL	binary.useful-correct	ndcg	136	0.4550
+input.WatSMC-CAL	binary.useful-correct	ndcg	137	0.4797
+input.WatSMC-CAL	binary.useful-correct	ndcg	139	0.7227
+input.WatSMC-CAL	binary.useful-correct	ndcg	140	0.3847
+input.WatSMC-CAL	binary.useful-correct	ndcg	143	0.6545
+input.WatSMC-CAL	binary.useful-correct	ndcg	144	0.6763
+input.WatSMC-CAL	binary.useful-correct	ndcg	145	0.6049
+input.WatSMC-CAL	binary.useful-correct	ndcg	146	0.6523
+input.WatSMC-CAL	binary.useful-correct	ndcg	149	0.3535
+input.WatSMC-CAL	binary.useful-correct	ndcg	all	0.4488
+input.WatSMC-CAL	binary.useful-credible	ndcg	101	0.4366
+input.WatSMC-CAL	binary.useful-credible	ndcg	102	0.7150
+input.WatSMC-CAL	binary.useful-credible	ndcg	103	0.6290
+input.WatSMC-CAL	binary.useful-credible	ndcg	104	0.5492
+input.WatSMC-CAL	binary.useful-credible	ndcg	105	0.6336
+input.WatSMC-CAL	binary.useful-credible	ndcg	106	0.3928
+input.WatSMC-CAL	binary.useful-credible	ndcg	107	0.5196
+input.WatSMC-CAL	binary.useful-credible	ndcg	108	0.8299
+input.WatSMC-CAL	binary.useful-credible	ndcg	109	0.6516
+input.WatSMC-CAL	binary.useful-credible	ndcg	110	0.7315
+input.WatSMC-CAL	binary.useful-credible	ndcg	111	0.5220
+input.WatSMC-CAL	binary.useful-credible	ndcg	112	0.3790
+input.WatSMC-CAL	binary.useful-credible	ndcg	114	0.2467
+input.WatSMC-CAL	binary.useful-credible	ndcg	115	0.3196
+input.WatSMC-CAL	binary.useful-credible	ndcg	117	0.3878
+input.WatSMC-CAL	binary.useful-credible	ndcg	118	0.8395
+input.WatSMC-CAL	binary.useful-credible	ndcg	120	0.6628
+input.WatSMC-CAL	binary.useful-credible	ndcg	121	0.1428
+input.WatSMC-CAL	binary.useful-credible	ndcg	122	0.6321
+input.WatSMC-CAL	binary.useful-credible	ndcg	127	0.3557
+input.WatSMC-CAL	binary.useful-credible	ndcg	128	0.8626
+input.WatSMC-CAL	binary.useful-credible	ndcg	129	0.4462
+input.WatSMC-CAL	binary.useful-credible	ndcg	131	0.5795
+input.WatSMC-CAL	binary.useful-credible	ndcg	132	0.6586
+input.WatSMC-CAL	binary.useful-credible	ndcg	133	0.4017
+input.WatSMC-CAL	binary.useful-credible	ndcg	134	0.6309
+input.WatSMC-CAL	binary.useful-credible	ndcg	136	0.3148
+input.WatSMC-CAL	binary.useful-credible	ndcg	137	0.6911
+input.WatSMC-CAL	binary.useful-credible	ndcg	139	0.6995
+input.WatSMC-CAL	binary.useful-credible	ndcg	140	0.2948
+input.WatSMC-CAL	binary.useful-credible	ndcg	143	0.5737
+input.WatSMC-CAL	binary.useful-credible	ndcg	144	0.6518
+input.WatSMC-CAL	binary.useful-credible	ndcg	145	0.6229
+input.WatSMC-CAL	binary.useful-credible	ndcg	146	0.6636
+input.WatSMC-CAL	binary.useful-credible	ndcg	149	0.4172
+input.WatSMC-CAL	binary.useful-credible	ndcg	all	0.5453
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	102	0.2214
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	103	0.3475
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	104	0.2081
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	105	0.7079
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	106	0.3928
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	107	0.4975
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	108	0.8313
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	109	0.3343
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	110	0.1721
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	111	0.0403
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	114	0.2133
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	115	0.3150
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	117	0.0000
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	118	0.8497
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	120	0.6208
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	121	0.0746
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	122	0.1211
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	127	0.4652
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	128	0.3378
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	129	0.2761
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	131	0.5134
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	132	0.0623
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	133	0.4298
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	134	0.6240
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	136	0.4550
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	137	0.4383
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	139	0.7017
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	140	0.3754
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	143	0.6850
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	144	0.6756
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	145	0.5716
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	146	0.6679
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	149	0.3556
+input.WatSMC-CAL	binary.useful-correct-credible	ndcg	all	0.4116
+input.WatSMC-CAL	graded.harmful-only	runid,topic,compatibility		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,101,0.10252986994518758		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,102,0.3835065220958164		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,103,0.08461230375710742		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,104,0.09287160170381571		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,105,4.7924719039297556e-06		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,106,0.0		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,107,0.006603976565139128		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,108,0.0674116782731767		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,109,0.07250842774406364		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,110,0.3692699685402379		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,111,0.6100345500176719		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,112,0.3000414779009304		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,114,0.040218838634585245		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,115,0.0		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,117,0.41311030988950287		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,118,1.9371988674070572e-07		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,120,0.011795178072834991		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,121,3.910607145959505e-06		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,122,0.02738503441527571		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,128,0.9357868853220296		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,129,0.03202011364221495		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,131,0.06639391150438444		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,132,0.6083087116157251		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,134,0.002078875288013174		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,136,0.46739088805632273		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,137,0.6067206507192906		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,139,0.026340280258641716		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,140,0.0		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,143,0.0030676025959809746		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,144,0.0		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,146,0.013675538695874855		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,149,0.0		
+input.WatSMC-CAL	graded.harmful-only	WatSMC-CAL,average,0.16699037787664872		
+input.WatSMC-CAL	graded.helpful-only	runid,topic,compatibility		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,101,0.055635380249455274		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,102,0.02792732815946776		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,103,0.1207844903286108		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,104,0.20463254883990029		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,105,0.06745697158440822		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,106,0.25796936808904897		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,107,0.12492435836681584		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,108,0.4137949900709334		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,109,0.0224291164411778		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,110,0.012097045702487031		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,111,0.04406195146394158		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,112,0.10952884831140126		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,114,0.21800628935897978		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,115,0.04753259102822384		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,117,0.113285237338969		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,118,0.22262642876953065		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,120,0.2528130632471101		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,121,0.05630223216016067		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,122,0.14030644890669985		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,127,0.2063209825865879		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,128,0.028383403285526233		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,129,0.12643879491738858		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,131,0.07641102399488212		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,132,0.06283178233518433		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,133,0.09950833754098072		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,134,0.3141743662697465		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,136,0.4866428824808191		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,137,0.25592119880137437		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,139,0.506595191887331		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,140,0.7515845714751939		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,143,0.548088194397316		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,144,0.5998289441528669		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,145,0.4646048542161926		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,146,0.8032227876157985		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,149,0.03718602306709809		
+input.WatSMC-CAL	graded.helpful-only	WatSMC-CAL,average,0.2251388007840459		
