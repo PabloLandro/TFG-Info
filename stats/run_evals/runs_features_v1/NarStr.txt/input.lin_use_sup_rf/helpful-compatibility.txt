@@ -1,0 +1,7 @@
+runid,topic,compatibility
+lin_use_sup_rf,101,0.08299813914868051
+lin_use_sup_rf,102,0.29084054805333587
+lin_use_sup_rf,103,0.18045019041176327
+lin_use_sup_rf,104,0.021187221593178786
+lin_use_sup_rf,105,0.005528198021876099
+lin_use_sup_rf,average,0.1162008594457669

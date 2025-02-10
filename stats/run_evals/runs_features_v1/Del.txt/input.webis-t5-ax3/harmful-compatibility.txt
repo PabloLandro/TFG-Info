@@ -1,0 +1,7 @@
+runid,topic,compatibility
+webis-t5-ax3,101,0.0
+webis-t5-ax3,102,0.0
+webis-t5-ax3,103,0.049796318356344786
+webis-t5-ax3,104,0.054145805249967004
+webis-t5-ax3,105,0.3908259872920965
+webis-t5-ax3,average,0.09895362217968165

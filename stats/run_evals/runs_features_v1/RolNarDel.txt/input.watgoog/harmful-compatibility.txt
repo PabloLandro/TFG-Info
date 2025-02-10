@@ -1,0 +1,2 @@
+runid,topic,compatibility
+watgoog,average,0.0

@@ -7,7 +7,7 @@ AUTOMATIC_DATASETS = ["dataset1", "dataset2"]  # Replace with actual dataset nam
 MANUAL_DATASETS = ["dataset3", "dataset4"]     # Replace with actual dataset names
 
 # Base directory containing the prompts and datasets
-BASE_DIR = "stats/run_evals/runs_features_v1_101/"  # Replace with your actual base directory
+BASE_DIR = "stats/run_evals/runs_features_v1/"  # Replace with your actual base directory
 
 # Function to read compatibility scores
 def read_scores(prompt_path, dataset):

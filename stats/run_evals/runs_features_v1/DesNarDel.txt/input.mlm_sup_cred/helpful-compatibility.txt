@@ -1,0 +1,3 @@
+runid,topic,compatibility
+mlm_sup_cred,101,0.1725682011798334
+mlm_sup_cred,average,0.1725682011798334

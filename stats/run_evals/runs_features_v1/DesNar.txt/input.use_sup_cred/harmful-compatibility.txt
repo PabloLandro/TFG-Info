@@ -1,0 +1,7 @@
+runid,topic,compatibility
+use_sup_cred,101,0.0
+use_sup_cred,102,0.0031466065176046364
+use_sup_cred,103,0.026743827917437586
+use_sup_cred,104,0.057947411675219135
+use_sup_cred,105,0.3121435985842301
+use_sup_cred,average,0.07999628893889829
