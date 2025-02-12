@@ -21,7 +21,7 @@ export LANG=C.UTF-8
 LLM_QRELS_DIR=$(realpath "$1")
 TOPICS=$(realpath "misinfo-resources-2021/misinfo-2021-topics.xml")
 PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs")
-RUN_EVALS_DIR=stats/run_evals
+RUN_EVALS_DIR="stats/run_evals"
 
 
 LLM_DIR_NAME=$(basename "$LLM_QRELS_DIR")

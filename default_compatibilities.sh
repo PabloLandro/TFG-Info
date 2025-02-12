@@ -1,0 +1,45 @@
+#!/bin/bash
+#SBATCH --job-name=tfm           # Job name
+#SBATCH --nodelist=hpc-gpu4
+#SBATCH --nodes=1                    # -N Run all processes on a single node
+#SBATCH --ntasks=1                   # -n Run a single task
+#SBATCH --cpus-per-task=32            # -c Run 1 processor per task
+#SBATCH --gres=gpu:A100_80:1
+##SBATCH --constraint=cpu_amd
+#SBATCH --mem=40G                    # Job memory request
+#SBATCH --time=00:40:00              # Time limit hrs:min:sec
+#SBATCH --qos=regular                 # Cola
+#SBATCH --output=log_%x_%j.log       # Standard output and error log
+
+
+source ~/.bashrc
+conda init bash
+conda activate myTrecEnv
+export LC_ALL=C.UTF-8
+export LANG=C.UTF-8
+
+QRELS=$1
+TOPICS=$(realpath "misinfo-resources-2021/misinfo-2021-topics.xml")
+PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs")
+RUN_EVALS_DIR="stats/run_evals"
+
+QRELS_DIR=$(dirname "$QRELS")
+QRELS_NAME=$(basename "$QRELS")
+
+DERIVED_QRELS="${QRELS_DIR}/${QRELS_NAME}_derived"
+
+rm -r "$DERIVED_QRELS"
+mkdir -p "$DERIVED_QRELS"
+
+bash misinfo-resources-2021/scripts/gen-2021-derived-qrels.sh "$QRELS" "$TOPICS" "$DERIVED_QRELS"
+
+EVAL_OUT_DIR="${RUN_EVALS_DIR}/${QRELS_NAME}"
+
+find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
+	RUN_NAME=$(basename "$PARTICIPANT_RUN_FILE")
+	mkdir -p "${EVAL_OUT_DIR}/${RUN_NAME}"
+	# Helpful compatibility
+	python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.helpful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/helpful-compatibility.txt"
+	# Harmful compatiblity
+	python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
+done
