@@ -46,10 +46,10 @@ def generate_plot(base_path, iterate_subdirs):
     # Create the plot
     plt.figure(figsize=(10, 6))
     for i, dataset in enumerate(labels):
-        if dataset in AUTOMATIC_DATASETS:
-            plt.scatter(helpful_scores[i], harmful_scores[i], color='red', marker='o', label='Automatic' if i == 0 else "")
-        elif dataset in MANUAL_DATASETS:
-            plt.scatter(helpful_scores[i], harmful_scores[i], color='blue', marker='s', label='Manual' if i == 0 else "")
+        #if dataset in AUTOMATIC_DATASETS:
+        plt.scatter(helpful_scores[i], harmful_scores[i], color='red', marker='o', label='Automatic' if i == 0 else "")
+        #elif dataset in MANUAL_DATASETS:
+        #    plt.scatter(helpful_scores[i], harmful_scores[i], color='blue', marker='s', label='Manual' if i == 0 else "")
 
     plt.title(f"Prompt: {os.path.basename(base_path)}")
     plt.xlabel("Helpful Compatibility")
