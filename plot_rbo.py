@@ -5,6 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
+DEPTH = 1000
+
 # Function to read compatibility scores
 def read_scores(prompt_path, dataset):
     helpful_path = os.path.join(prompt_path, dataset, "helpful-compatibility.txt")
@@ -19,21 +21,22 @@ def read_scores(prompt_path, dataset):
     return helpful_avg, harmful_avg
 
 # Function to compute RBO for two rankings
-def compute_rbo(rank1, rank2, p=0.9):
-    """Computes Rank-Biased Overlap (RBO) between two rankings."""
-    rank1 = list(rank1)
-    rank2 = list(rank2)
-    S = set(rank1)
-    T = set(rank2)
-    overlap = 0.0
-    rbo = 0.0
+def compute_rbo(run, ideal, p=0.95):
+    run_set = set()
+    ideal_set = set()
 
-    for d in range(1, max(len(rank1), len(rank2)) + 1):
-        overlap += 1 if d <= len(rank1) and d <= len(rank2) and rank1[d - 1] == rank2[d - 1] else 0
-        rbo += (overlap / d) * (p ** (d - 1))
-
-    return rbo * (1 - p)
-
+    score = 0.0
+    normalizer = 0.0
+    weight = 1.0
+    for i in range(DEPTH):
+        if i < len(run):
+            run_set.add(run[i])
+        if i < len(ideal):
+            ideal_set.add(ideal[i])
+        score += weight*len(ideal_set.intersection(run_set))/(i + 1)
+        normalizer += weight
+        weight *= p
+    return score/normalizer 
 # Function to get dataset rankings based on helpful - harmful
 def get_rankings(base_dir):
     rankings = {}
