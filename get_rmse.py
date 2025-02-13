@@ -17,8 +17,8 @@ def read_scores(prompt_path, dataset):
 
     return helpful_avg, harmful_avg
 
-# Function to calculate RMSE between prompt scores and reference scores
-def calculate_rmse(prompt_dir, reference_dir):
+# Function to calculate 2D RMSE between prompt scores and reference scores
+def calculate_rmse_2d(prompt_dir, reference_dir):
     prompt_scores = {}
     reference_scores = {}
 
@@ -36,20 +36,18 @@ def calculate_rmse(prompt_dir, reference_dir):
             helpful, harmful = read_scores(reference_dir, dataset)
             reference_scores[dataset] = (helpful, harmful)
 
-    # Calculate RMSE
-    helpful_rmse = []
-    harmful_rmse = []
+    # Calculate RMSE in 2D
+    squared_errors = []
 
     for dataset, (prompt_helpful, prompt_harmful) in prompt_scores.items():
         if dataset in reference_scores:
             ref_helpful, ref_harmful = reference_scores[dataset]
-            helpful_rmse.append((prompt_helpful - ref_helpful) ** 2)
-            harmful_rmse.append((prompt_harmful - ref_harmful) ** 2)
+            squared_errors.append(
+                (prompt_helpful - ref_helpful) ** 2 + (prompt_harmful - ref_harmful) ** 2
+            )
 
-    helpful_rmse = np.sqrt(np.mean(helpful_rmse)) if helpful_rmse else None
-    harmful_rmse = np.sqrt(np.mean(harmful_rmse)) if harmful_rmse else None
-
-    return helpful_rmse, harmful_rmse
+    overall_rmse = np.sqrt(np.mean(squared_errors)) if squared_errors else None
+    return overall_rmse
 
 # Function to process all prompt directories and generate RMSE plots
 def process_prompts(prompts_dir, reference_dir):
@@ -66,37 +64,33 @@ def process_prompts(prompts_dir, reference_dir):
     for prompt in os.listdir(prompts_dir):
         prompt_path = os.path.join(prompts_dir, prompt)
         if os.path.isdir(prompt_path):
-            helpful_rmse, harmful_rmse = calculate_rmse(prompt_path, reference_dir)
-            results.append((prompt, helpful_rmse, harmful_rmse))
+            overall_rmse = calculate_rmse_2d(prompt_path, reference_dir)
+            results.append((prompt, overall_rmse))
 
     # Plot RMSE
     prompts = [r[0] for r in results]
-    helpful_rmses = [r[1] for r in results]
-    harmful_rmses = [r[2] for r in results]
+    rmses = [r[1] for r in results]
 
     x = np.arange(len(prompts))
-    width = 0.35
 
     plt.figure(figsize=(12, 6))
-    plt.bar(x - width / 2, helpful_rmses, width, label="Helpful RMSE", color="blue")
-    plt.bar(x + width / 2, harmful_rmses, width, label="Harmful RMSE", color="red")
+    plt.bar(x, rmses, color="purple")
 
     plt.xlabel("Prompts")
-    plt.ylabel("RMSE")
-    plt.title("RMSE of Compatibility Scores")
+    plt.ylabel("Overall RMSE")
+    plt.title("Overall RMSE of Compatibility Scores in 2D")
     plt.xticks(x, prompts, rotation=45, ha="right")
-    plt.legend()
     plt.tight_layout()
 
-    output_plot = os.path.join(prompts_dir, "rmse_plot.png")
+    output_plot = os.path.join(prompts_dir, "overall_rmse_plot.png")
     plt.savefig(output_plot)
     plt.close()
-    print(f"RMSE plot saved to {output_plot}")
+    print(f"Overall RMSE plot saved to {output_plot}")
 
     # Save results to CSV
-    output_csv = os.path.join(prompts_dir, "rmse_results.csv")
-    pd.DataFrame(results, columns=["Prompt", "Helpful RMSE", "Harmful RMSE"]).to_csv(output_csv, index=False)
-    print(f"RMSE results saved to {output_csv}")
+    output_csv = os.path.join(prompts_dir, "overall_rmse_results.csv")
+    pd.DataFrame(results, columns=["Prompt", "Overall RMSE"]).to_csv(output_csv, index=False)
+    print(f"Overall RMSE results saved to {output_csv}")
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
