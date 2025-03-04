@@ -1,11 +1,20 @@
 #!/bin/bash
-echo "Hello"
+
+# Check if both URL and DOWNLOAD_DIR are provided as arguments
+if [ -z "$1" ] || [ -z "$2" ]; then
+    echo "Usage: $0 <URL> <DOWNLOAD_DIR>"
+    exit 1
+fi
+
 # Variables
-URL="https://pages.nist.gov/trec-browser/trec30/misinfo/runs/"
+URL="$1"
+DOWNLOAD_DIR="$2"
 USERNAME="tipster"
 PASSWORD="cdroms"
-DOWNLOAD_DIR="resources/participant_runs"
 TIMEOUT=10
+
+echo "URL provided: $URL"
+echo "Download directory provided: $DOWNLOAD_DIR"
 
 # Step 1: Download the webpage
 wget --user="$USERNAME" --password="$PASSWORD" -q -O page.html "$URL"
@@ -47,4 +56,3 @@ done
 
 # Clean up
 rm page.html
-
