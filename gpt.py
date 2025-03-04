@@ -1,7 +1,6 @@
 import os, requests, re, sys
 import json
 
-from openai import OpenAI
 
 from dotenv import load_dotenv
 
@@ -123,40 +122,3 @@ def write_partition():
         for item in list2:
             json.dump(item, f2)
             f2.write('\n')
-    ##client = OpenAI()
-#batch_input_file
-#
-#def upload_file_to_batch():
-    #global client
-    #global batch_input_file
-    #batch_input_file = client.files.create(
-        #file=open("batchinput.jsonl", "rb"),
-        #purpose="batch"
-    #)
-    #print(batch_input_file)
-#
-#def create_batch():
-    #global client
-    #global batch_input_file
-#
-    #batch_input_file_id = batch_input_file.id
-    #batch_object = client.batches.create(
-        #input_file_id=batch_input_file_id,
-        #endpoint="/v1/chat/completions",
-        #completion_window="24h",
-        #metadata={
-            #"description": "trec evaluation",
-        #}
-    #)
-    #with open("batch_object.txt", "w") as file:
-        #file.write(json.dumps(batch_object))
-#
-#def print_batch_status(id):
-    #global client
-    #print(client.batches.retrieve(id))
-#
-#def cancel_batch(id):
-    #global client
-    #client.batches.cancel(id)
-
-

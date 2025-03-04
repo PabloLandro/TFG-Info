@@ -1,9 +1,9 @@
 from pyserini.search.lucene import LuceneSearcher
-from gpt import evaluate, evaluate_batch
+from gpt import evaluate
 from trec_utils import get_topics_dict, get_qrels_dict_all, get_qrels_dict
 from itertools import combinations
 import json
-import os, sys
+import os
 
 # This script is for evaluating a set of (topic_id, doc_id) using ChatGPT
 

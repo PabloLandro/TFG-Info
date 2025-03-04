@@ -1,6 +1,5 @@
 import os
 import xml.etree.ElementTree as ET
-from pyserini.search.lucene import LuceneSearcher
 
 def preprocess_run(run):
     run["u"] = int(run["u"]) if run["u"] is not None else None
@@ -30,10 +29,9 @@ def unpack_split(parts):
     return (parts + [None] * 6)[:6]
 
 
-def get_qrels_dict(name, verbose=True):
+def get_qrels_dict(name):
     qrels = {}
     path = os.path.join("resources", "qrels", name) 
-    total_lines = sum(1 for _ in open(path, "r"))
     with open(path, "r") as file:
         last_topic_id = ""
         run = {}
@@ -65,10 +63,9 @@ def get_qrels_dict_all(verbose=True):
                         print(f"ERROR: pair ({topic_id},{doc_id}) is in more than one qrel file")
     return qrels
 
-def get_topics_dict(name, verbose=True):
+def get_topics_dict(name):
     # Open the topics file as an xml tree
     root = ET.parse(os.path.join('resources', name)).getroot()
-    n_topics = sum(1 for _ in root.findall("topics"))
     
     # Load the topic into a dictionary
     topics = {}
