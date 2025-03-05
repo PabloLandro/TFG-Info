@@ -9,7 +9,7 @@ import os, argparse, json, sys
 searcher = LuceneSearcher("/mnt/beegfs/groups/irgroup/indexes/C4/")
 
 # Load the topics into a dictionary
-topics = get_topics_dict("misinfo-2021-topics.xml")
+topics = get_topics_dict(os.path.join("resources", "topics", "misinfo-2021-topics.xml"))
 
 # Get all combinations of prompts by changing features
 def get_prompt_template_list(featured_prompt_template):
