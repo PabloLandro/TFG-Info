@@ -1,5 +1,4 @@
-import os, requests, re, sys
-import json
+import os, requests, re
 
 
 from dotenv import load_dotenv
@@ -50,7 +49,7 @@ def fill_prompt(description, narrative, doc, prompt_template):
     return prompt_template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
 
-def evaluate(description, narrative, doc, prompt_template=template, send_request=True):    
+def evaluate(description, narrative, doc, prompt_template=template, no_evaluate=True):    
     global total_tokens
 
     try:
@@ -58,7 +57,7 @@ def evaluate(description, narrative, doc, prompt_template=template, send_request
         prompt = fill_prompt(description, narrative, doc, prompt_template)
 
         total_tokens += len(encoding.encode(prompt))
-        if not send_request:
+        if no_evaluate:
             return None
         print("Sending request")
 
@@ -83,42 +82,3 @@ def evaluate(description, narrative, doc, prompt_template=template, send_request
             raise Exception(f"Error: {response.status_code} - {response.text}")
     except Exception as e:
         print(f"Error in gpt.py: {e}")
-
-batch_data = []
-
-def evaluate_batch(description, narrative, doc, prompt_template, topic_id, doc_id, prompt_name):
-    global batch_data
-    prompt = fill_prompt(description, narrative, doc, prompt_template)
-    aux = {}
-    aux["custom_id"] = topic_id + "-" + doc_id + "-" + prompt_name
-    aux["method"] = "POST"
-    aux["url"] = "/v1/chat/completions"
-    aux["body"] = payload.copy()
-    aux["body"]["messages"] = [{"role": "user", "content": prompt}]
-    batch_data.append(aux)
-
-def write_jsonl():
-    global batch_data
-    print("Writing jsonl")
-    #print(batch_data)
-    with open("batchinput.jsonl", "w") as file:
-        for request in batch_data:
-            file.write(json.dumps(request) + "\n")
-
-def write_partition():
-    global batch_data
-    half = len(batch_data) // 2
-    list1 = batch_data[:half]
-    list2 = batch_data[half:]
-
-    # Write the first part to a JSONL file
-    with open('batchinput1.jsonl', 'w') as f1:
-        for item in list1:
-            json.dump(item, f1)
-            f1.write('\n')
-
-    # Write the second part to a JSONL file
-    with open('batchinput2.jsonl', 'w') as f2:
-        for item in list2:
-            json.dump(item, f2)
-            f2.write('\n')
