@@ -158,7 +158,7 @@ def create_parser():
 
     # Optional argument for prompt names
     parser.add_argument("--prompt_names", help="Comma-separated list of prompt names to be run on featured prompt, if not present, all will be ran (optional) (e.g. Str,Nar,Des)", nargs="?", default=[])
-    parser.add_argument("--no_evaluate", help="If present, requests will not be sent to LLM API, this can be used to just count tokens (optional)", action="store_true", nargs="?")
+    parser.add_argument("--no_evaluate", help="If present, requests will not be sent to LLM API, this can be used to just count tokens (optional)", action="store_true")
     return parser
 
 def check_args(parser, args):
