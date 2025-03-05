@@ -1,6 +1,4 @@
-import sys
 import os
-sys.path.append(os.getcwd())
 from confussion import get_stats_from_folder
 
 RUNS_FOLDER = "runs_features_v1"
