@@ -214,8 +214,8 @@ if __name__ == "__main__":
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
-        get_runs_featured_prompt(prompt_template, args.qrels_file, args.output_directory, args.topic_list, prompt_names=args.prompt_name, no_evaluate=args.no_evaluate)
+        get_runs_featured_prompt(prompt_template, args.qrels_file, args.output, args.topic_list, prompt_names=args.prompt_name, no_evaluate=args.no_evaluate)
     else:
-        get_runs_non_featured_prompt(prompt_template, args.qrels_file, args.output_directory, args.topic_list, no_evaluate=args.no_evaluate)
+        get_runs_non_featured_prompt(prompt_template, args.qrels_file, args.output, args.topic_list, no_evaluate=args.no_evaluate)
 
     print_total_tokens()
