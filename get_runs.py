@@ -182,7 +182,7 @@ def check_args(parser, args):
     is_feature_prompt = "feature" in args.prompt_file.lower()
 
     # Check if output is correct
-    if os.path.isfile(args.output):
+    if os.path.isfile(args.output) and is_feature_prompt:
         print(f"{args.output} is a file, when it should be a dir.")
         parser.print_help()
         sys.exit()
