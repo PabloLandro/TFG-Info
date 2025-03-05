@@ -63,9 +63,9 @@ def get_qrels_dict_all(verbose=True):
                         print(f"ERROR: pair ({topic_id},{doc_id}) is in more than one qrel file")
     return qrels
 
-def get_topics_dict(name):
+def get_topics_dict(topics_file):
     # Open the topics file as an xml tree
-    root = ET.parse(os.path.join('resources', name)).getroot()
+    root = ET.parse(topics_file).getroot()
     
     # Load the topic into a dictionary
     topics = {}
@@ -78,81 +78,4 @@ def get_topics_dict(name):
         topics[topic_id]["stance"] = topic.find("stance").text
     return topics
 
-topics = get_topics_dict("misinfo-2021-topics.xml")
-
-def get_preference(topic_id, u, s, cr):
-    u = int(u) if u is not None else None
-    s = int(s) if s is not None else None
-    cr = int(cr) if cr is not None else None
-    co = get_correctness(topics[topic_id]["stance"], s)
-    return calculate_preference(u, co, cr)
-
-def get_correctness(stance, supportiveness):
-    if stance == "helpful":
-        if supportiveness == 2:
-            return 2
-        elif supportiveness == 0:
-            return 0
-        else:
-            return 1
-    elif stance == "unhelpful":
-        if supportiveness == 2:
-            return 0
-        elif supportiveness == 0:
-            return 2
-        else:
-            return 1
-    else:
-        return 1
-
-
-def calculate_preference(u, co, cr):
-    
-    if u == 0:
-        return 0
-    
-    # Correct
-    if co == 2:
-        if cr == 2:
-            if u == 2:
-                return 12
-            elif u == 1:
-                return 11
-        elif cr == 1:
-            if u == 2:
-                return 10
-            elif u == 1:
-                return 9
-        elif cr == 0:
-            if u == 2:
-                return 8
-            elif u == 1:
-                return 7
-    # Neutral
-    elif co == 1:
-        if cr == 2:
-            if u == 2:
-                return 6
-            elif u == 1:
-                return 5
-        elif cr == 1:
-            if u == 2:
-                return 4
-            elif u == 1:
-                return 3
-        elif cr == 0:
-            if u == 2:
-                return 2
-            elif u == 1:
-                return 1
-
-    # Incorrect
-    elif co == 0:
-        if cr == 0:
-            return -1
-        elif cr == 1:
-            return -2
-        elif cr == 2:
-            return -3
-    return -4
-
+topics = get_topics_dict(os.path.join("resources", "topics", "misinfo-2021-topics.xml"))
