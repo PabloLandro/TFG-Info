@@ -177,13 +177,6 @@ def check_args(parser, args):
         parser.print_help()
         sys.exit()
 
-    # topic_list
-
-    if not os.path.isfile(args.topic_list):
-        print(f"{args.topic_list} is not a file, should be the topic_list.")
-        parser.print_help()
-        sys.exit()
-
     # output
 
     is_feature_prompt = "feature" in args.prompt_file.lower()
