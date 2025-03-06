@@ -98,12 +98,15 @@ def run_run_list(prompt_template, run_list, output, no_evaluate=False):
 # Gives a run_list to run the same (topic,doc) pairs as another runs folder
 def copy_run_list_from_file(file):
     run_list = {}
-    with open(file, "r") as file:
-        for line in file:
-            topic_id,_,doc_id,_,_,_ = line.split()
-            if topic_id not in run_list:
-                run_list[topic_id] = []
-            run_list[topic_id].append(doc_id)
+    try:
+        with open(file, "r") as file:
+            for line in file:
+                topic_id, _, doc_id, _, _, _ = line.split()
+                if topic_id not in run_list:
+                    run_list[topic_id] = []
+                run_list[topic_id].append(doc_id)
+    except FileNotFoundError:
+        print(f"Error: The file '{file}' does not exist, couldn´t copy run list from file.")
     return run_list
 
 # Replaces all elements in directory that are present in the run_list with new runs
