@@ -46,21 +46,6 @@ def get_filtered_runs(run_folder):
         if missing_docs > 0:
             #print(f"WARN: Missing {missing_docs} documents for topic {topic_id}")
             pass
-    # Count number of useful/unuseful
-    #for topic_id in runs:
-    #    pos = 0
-    #    neg = 0
-    #    for doc_id in runs[topic_id]:
-    #        if qrels[topic_id][doc_id]['u'] > 0:
-    #            pos += 1
-    #        else:
-    #            neg += 1
-        #print(f"For topic_id {topic_id} there are {pos} useful qrels and {neg} unuseful")
-
-    #for topic_id in qrels:
-    #    if not topic_id in runs:
-            #print(f"WARN: Missing topic {topic_id} run")
-    #        pass
     return runs
 
 def get_kappa(TP,FP,FN,TN):
@@ -77,19 +62,6 @@ def get_kappa(TP,FP,FN,TN):
 
 def get_mae(TP,FP,FN,TN):
     return (FP + FN) / (TP + FP + FN + TN)
-
-#def get_runs_as_array(runs, stat, pos_vals=POS_VALS):
-#    true_vals = []
-#    pred_vals = []
-#    for topic_id in runs:
-#        for doc_id in runs[topic_id]:
-#            if qrels[topic_id][doc_id] is None or runs[topic_id][doc_id] is None:
-#                continue
-#            true_vals.append(1 if qrels[topic_id][doc_id] in pos_vals else 0)
-#            pred_vals.append(1 if runs[topic_id][doc_id] in pos_vals else 0)
-#    if len(pred_vals) == 10:
-#        print("PROBLEM")
-#    return true_vals, pred_vals
 
 def get_confidence_interval(TP, FP, FN, TN, get_feature, bootstraps=20):
     feature_values = []
