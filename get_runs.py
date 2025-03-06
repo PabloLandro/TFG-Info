@@ -144,7 +144,6 @@ def get_runs_featured_prompt(featured_prompt_template, qrels_file, output_dir, t
 
 def get_runs_non_featured_prompt(prompt_template, qrels_file, output_file, topic_list, no_evaluate=False):
     exclude_list = copy_run_list_from_file(output_file)
-    exclude_list = []
     run_list = get_run_list(topic_list, qrels_file, exclude_list)
     run_run_list(prompt_template, run_list, output_file, no_evaluate=no_evaluate)
 
@@ -217,7 +216,7 @@ if __name__ == "__main__":
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
-        get_runs_featured_prompt(prompt_template, args.qrels_file, args.output, args.topic_list, prompt_names=args.prompt_name, no_evaluate=args.no_evaluate)
+        get_runs_featured_prompt(prompt_template, args.qrels_file, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
     else:
         get_runs_non_featured_prompt(prompt_template, args.qrels_file, args.output, args.topic_list, no_evaluate=args.no_evaluate)
 
