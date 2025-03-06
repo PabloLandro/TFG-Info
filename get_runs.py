@@ -101,6 +101,8 @@ def copy_run_list_from_file(file):
     with open(file, "r") as file:
         for line in file:
             topic_id,_,doc_id,_,_,_ = line.split()
+            if topic_id not in run_list:
+                run_list[topic_id] = []
             run_list[topic_id].append(doc_id)
     return run_list
 
@@ -142,6 +144,7 @@ def get_runs_featured_prompt(featured_prompt_template, qrels_file, output_dir, t
 
 def get_runs_non_featured_prompt(prompt_template, qrels_file, output_file, topic_list, no_evaluate=False):
     exclude_list = copy_run_list_from_file(output_file)
+    exclude_list = []
     run_list = get_run_list(topic_list, qrels_file, exclude_list)
     run_run_list(prompt_template, run_list, output_file, no_evaluate=no_evaluate)
 
@@ -154,7 +157,7 @@ def create_parser():
     parser.add_argument("prompt_file", help="The prompt file to use, if featured prompt, the name should contain the 'feature' substring.")
     parser.add_argument("qrels_file", help="The qrels file to be used.")
     parser.add_argument("output", help="Directory to save the output. If it's a non featured prompt, it should be a file")
-    parser.add_argument("topic_list", help="Comma-separated list of topics (e.g. 101,102,103)", type=lambda s: list(map(int, s.split(','))))
+    parser.add_argument("topic_list", help="Comma-separated list of topics (e.g. 101,102,103)", type=lambda s: s.split(','))
 
     # Optional argument for prompt names
     parser.add_argument("--prompt_names", help="Comma-separated list of prompt names to be run on featured prompt, if not present, all will be ran (optional) (e.g. Str,Nar,Des)", nargs="?", default=[])
