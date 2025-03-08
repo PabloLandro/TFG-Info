@@ -4,12 +4,22 @@ from trec_utils import get_topics_dict, get_qrels_dict_all, get_qrels_dict
 from itertools import combinations
 import os, argparse, json, sys
 
-# This script is for evaluating a set of (topic_id, doc_id) using ChatGPT
+QRELS_2019=os.path.join("misinfo-resources-2019", "qrels", "qrels_raw")
+QRELS_2020=os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels")
+QRELS_2021=os.path.join("misinfo-resources-2021", "qrels", "qrels-35topics.txt")
+QRELS_2022=os.path.join("misinfo-resources-2022", "qrels", "qrels.final.oct-19-2022")
 
-searcher = LuceneSearcher("/mnt/beegfs/groups/irgroup/indexes/C4/")
+TOPICS_2019=os.path.join("misinfo-resources-2019", "topics", "misinfo-2019-topics.xml")
+TOPICS_2020=os.path.join("misinfo-resources-2020", "topics", "misinfo-2020-topics.xml")
+TOPICS_2021=os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topics.xml")
+TOPICS_2022=os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml")
+
+INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb-b13")
+INDEX_2020=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "CC-NEWS-TREC-misinfo-2020")
+INDEX_2021=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
+INDEX_2022=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
 
 # Load the topics into a dictionary
-topics = get_topics_dict(os.path.join("resources", "topics", "misinfo-2021-topics.xml"))
 
 # Get all combinations of prompts by changing features
 def get_prompt_template_list(featured_prompt_template):
@@ -56,13 +66,7 @@ def is_visited(topic_id, doc_id, exclude_list):
         return True
     return False
 
-def get_run_list(topic_list, qrels_name="misinfo-qrels.3aspects", exclude_list=[]):
-    qrels = {}
-    if qrels_name == "all":
-        qrels = get_qrels_dict_all()
-    else:
-        qrels = get_qrels_dict(qrels_name) 
-
+def get_run_list(topic_list, qrels, exclude_list=[]):
     run_list = {}
     for topic_id in topic_list:
         run_list[topic_id] = []
@@ -75,13 +79,13 @@ def get_run_list(topic_list, qrels_name="misinfo-qrels.3aspects", exclude_list=[
 # This is used to check that the same prompt template for the same topic and doc is being sent twice
 history = {}
 
-def run_run_list(prompt_template, run_list, output, no_evaluate=False):
+def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluate=False):
     run_count = 0
     for topic_id, doc_ids in run_list.items():
         with open(output, "a") as file:
             for doc_id in doc_ids:
                 doc = json.loads(searcher.doc(doc_id).raw())["text"]
-                print(f"Evaluating {topic_id} {doc_id} {run_count}/{len(run_list)} for current prompt template")
+                print(f"Evaluating {topic_id} {doc_id} {run_count}/{len(run_list[topic_id])} for current prompt template")
                 run_count += 1
                 if (topic_id not in history):
                     history[topic_id] = {}
@@ -109,26 +113,7 @@ def copy_run_list_from_file(file):
         print(f"Error: The file '{file}' does not exist, couldn´t copy run list from file.")
     return run_list
 
-# Replaces all elements in directory that are present in the run_list with new runs
-def replace_folder_with_run_list(run_list, directory):
-    for topic_id in os.listdir(directory):
-        if topic_id not in run_list:
-            continue
-        with open(os.path.join(directory, topic_id), "r") as file, open("auxfile", "w") as auxfile:
-            for line in file:
-                doc_id,_,_,_ = line.split()
-                if doc_id not in run_list[topic_id]:
-                    auxfile.write(line)
-                else:
-                    doc = json.loads(searcher.doc(doc_id).raw())["text"]
-                    print(f"Evaluating {topic_id} {doc_id}")
-                    run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc)
-                    if run is not None:
-                        auxfile.write(f'{doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
-                        print(f"Writing to {os.path.join('runs', topic_id)}")
-        os.replace("auxfile", os.path.join(directory, topic_id))
-
-def get_runs_featured_prompt(featured_prompt_template, qrels_file, output_dir, topic_list, prompt_names=[], no_evaluate=False):
+def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, output_dir, topic_list, prompt_names=[], no_evaluate=False):
     prompt_template_list = get_prompt_template_list(featured_prompt_template)
     os.makedirs(output_dir, exist_ok=True)
     for (prompt_template, features) in prompt_template_list:
@@ -142,13 +127,14 @@ def get_runs_featured_prompt(featured_prompt_template, qrels_file, output_dir, t
         print("Evaluating", file_name)
         path = os.path.join(output_dir, file_name)
         exclude_list = copy_run_list_from_file(path)
-        run_list = get_run_list(topic_list, qrels_file, exclude_list=exclude_list)
-        run_run_list(prompt_template, run_list, path, send_request=False, no_evaluate=no_evaluate)
+        run_list = get_run_list(topic_list, qrels, exclude_list=exclude_list)
+        run_run_list(prompt_template, run_list, path, topics, searcher, no_evaluate=no_evaluate)
 
-def get_runs_non_featured_prompt(prompt_template, qrels_file, output_file, topic_list, no_evaluate=False):
+def get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, output_file, topic_list, no_evaluate=False):
+    topics = get_topics_dict(topics_file)
     exclude_list = copy_run_list_from_file(output_file)
-    run_list = get_run_list(topic_list, qrels_file, exclude_list)
-    run_run_list(prompt_template, run_list, output_file, no_evaluate=no_evaluate)
+    run_list = get_run_list(topic_list, qrels, exclude_list)
+    run_run_list(prompt_template, run_list, output_file, topics, searcher, no_evaluate=no_evaluate)
 
 
 def create_parser():
@@ -157,9 +143,14 @@ def create_parser():
 
     # Required arguments
     parser.add_argument("prompt_file", help="The prompt file to use, if featured prompt, the name should contain the 'feature' substring.")
-    parser.add_argument("qrels_file", help="The qrels file to be used.")
+    parser.add_argument(
+        "--year",
+        type=int,
+        choices=[2019, 2020, 2021, 2022],
+        required=True,
+        help="Year must be one of 2019, 2020, 2021, or 2022."
+    )
     parser.add_argument("output", help="Directory to save the output. If it's a non featured prompt, it should be a file")
-    parser.add_argument("topic_list", help="Comma-separated list of topics (e.g. 101,102,103)", type=lambda s: s.split(','))
 
     # Optional argument for prompt names
     parser.add_argument("--prompt_names", help="Comma-separated list of prompt names to be run on featured prompt, if not present, all will be ran (optional) (e.g. Str,Nar,Des)", nargs="?", default=[])
@@ -172,13 +163,6 @@ def check_args(parser, args):
 
     if not os.path.isfile(args.prompt_file):
         print(f"{args.prompt_file} is not a file, should be the prompt_file.")
-        parser.print_help()
-        sys.exit()
-
-    # qrels_file
-
-    if not os.path.isfile(args.qrels_file):
-        print(f"{args.qrels_file} is not a file, should be the qrels_file.")
         parser.print_help()
         sys.exit()
 
@@ -200,6 +184,18 @@ def check_args(parser, args):
         parser.print_help()
         sys.exit()
 
+def get_year_data(year):
+    if year == 2019:
+        return QRELS_2019, TOPICS_2019, INDEX_2019
+    if year == 2020:
+        return QRELS_2020, TOPICS_2020, INDEX_2020
+    if year == 2021:
+        return QRELS_2021, TOPICS_2021, INDEX_2021
+    if year == 2022:
+        return QRELS_2022, TOPICS_2022, INDEX_2022
+    print(f"ERROR, incorrect year {year}")
+    sys.exit()
+
 if __name__ == "__main__":
     
     parser = create_parser()
@@ -217,10 +213,17 @@ if __name__ == "__main__":
 
     check_args(parser, args)
 
+    qrels_file, topics_file, index_dir = get_year_data(args.year)
+
+    qrels = get_qrels_dict(qrels_file)
+    topics = get_topics_dict(topics_file)
+    searcher = LuceneSearcher(index_dir)
+
+
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
-        get_runs_featured_prompt(prompt_template, args.qrels_file, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
+        get_runs_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
     else:
-        get_runs_non_featured_prompt(prompt_template, args.qrels_file, args.output, args.topic_list, no_evaluate=args.no_evaluate)
+        get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, no_evaluate=args.no_evaluate)
 
     print_total_tokens()

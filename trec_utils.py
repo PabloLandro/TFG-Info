@@ -29,7 +29,7 @@ def unpack_split(parts):
     return (parts + [None] * 6)[:6]
 
 
-def get_qrels_dict(qrels_file):
+def get_qrels_dict(qrels_file, skip_unuseful=True):
     qrels = {}
     with open(qrels_file, "r") as file:
         last_topic_id = ""
@@ -38,6 +38,8 @@ def get_qrels_dict(qrels_file):
             doc_run = {}
             doc_run["topic_id"], _, doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = unpack_split(line.split())
             preprocess_run(doc_run)
+            if doc_run["u"] <= 0 and skip_unuseful:
+                continue
             if last_topic_id != doc_run["topic_id"]:
                 qrels[last_topic_id] = run
                 last_topic_id = doc_run["topic_id"]
@@ -45,12 +47,12 @@ def get_qrels_dict(qrels_file):
             run[doc_run["doc_id"]] = doc_run
     return qrels
 
-def get_qrels_dict_all(verbose=True):
+def get_qrels_dict_all():
     qrels = {}
 
     for qrel_file_name in os.listdir(os.path.join("resources", "qrels")):
         qrels_file = os.path.join("resources", "qrels", qrel_file_name)
-        aux = get_qrels_dict(qrels_file, verbose=verbose)
+        aux = get_qrels_dict(qrels_file)
         for topic_id, topic_run in aux.items():
             # If that topic id isnt on our dict, we add it
             if topic_id not in qrels:
