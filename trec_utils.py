@@ -77,7 +77,6 @@ def get_topics_dict(topics_file):
         topics[topic_id] = {}
         topics[topic_id]["description"] = topic.find("description").text
         topics[topic_id]["narrative"] = topic.find("narrative").text
-        topics[topic_id]["stance"] = topic.find("stance").text
     return topics
 
 topics = get_topics_dict(os.path.join("resources", "topics", "misinfo-2021-topics.xml"))
