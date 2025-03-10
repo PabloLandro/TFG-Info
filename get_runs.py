@@ -14,7 +14,8 @@ TOPICS_2020=os.path.join("misinfo-resources-2020", "topics", "misinfo-2020-topic
 TOPICS_2021=os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topics.xml")
 TOPICS_2022=os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml")
 
-INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb-b13")
+#INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb-b13")
+INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb_rawtext2")
 INDEX_2020=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "CC-NEWS-TREC-misinfo-2020")
 INDEX_2021=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
 INDEX_2022=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
@@ -76,6 +77,15 @@ def get_run_list(topic_list, qrels, exclude_list=[]):
             run_list[topic_id].append(doc_id)
     return run_list
 
+def get_doc_content(searcher, doc_id):
+    doc = ""
+    try:
+        doc = json.loads(searcher.doc(doc_id).raw())["text"]
+    except:
+        doc = searcher.doc(doc_id).raw()
+    return doc
+
+
 # This is used to check that the same prompt template for the same topic and doc is being sent twice
 history = {}
 
@@ -84,7 +94,7 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
     for topic_id, doc_ids in run_list.items():
         with open(output, "a") as file:
             for doc_id in doc_ids:
-                doc = json.loads(searcher.doc(doc_id).raw())["text"]
+                doc = get_doc_content(searcher, doc_id) 
                 print(f"Evaluating {topic_id} {doc_id} {run_count}/{len(run_list[topic_id])} for current prompt template")
                 run_count += 1
                 if (topic_id not in history):
@@ -151,6 +161,8 @@ def create_parser():
         help="Year must be one of 2019, 2020, 2021, or 2022."
     )
     parser.add_argument("output", help="Directory to save the output. If it's a non featured prompt, it should be a file")
+    
+    parser.add_argument("topic_list", help="Comma-separated list of topics (e.g. 101,102,103)", type=lambda s: s.split(','))
 
     # Optional argument for prompt names
     parser.add_argument("--prompt_names", help="Comma-separated list of prompt names to be run on featured prompt, if not present, all will be ran (optional) (e.g. Str,Nar,Des)", nargs="?", default=[])
