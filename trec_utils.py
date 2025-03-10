@@ -90,7 +90,7 @@ def get_topics_dict(topics_file):
             topics[topic_id]["description"] = topic.find("question").text
 
         # 2022 doesnt have narrative
-        if not topic.find("narrative").text is None:
+        if not topic.find("narrative") is None:
             topics[topic_id]["narrative"] = topic.find("narrative").text
         else:
             topics[topic_id]["narrative"] = topic.find("background").text
