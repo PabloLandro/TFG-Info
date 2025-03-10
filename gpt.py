@@ -45,16 +45,16 @@ def print_total_tokens():
     global total_tokens
     print("Total tokens: ", total_tokens)
 
-def fill_prompt(description, narrative, doc, prompt_template):
-    return prompt_template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
+def fill_prompt(query, description, narrative, doc, prompt_template):
+    return prompt_template.replace("%QUERY%", query).replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
 
-def evaluate(description, narrative, doc, prompt_template=template, no_evaluate=True):    
+def evaluate(query, description, narrative, doc, prompt_template=template, no_evaluate=True):    
     global total_tokens
 
     try:
         # Replace the fields in the template
-        prompt = fill_prompt(description, narrative, doc, prompt_template)
+        prompt = fill_prompt(query, description, narrative, doc, prompt_template)
 
         total_tokens += len(encoding.encode(prompt))
         if no_evaluate:

@@ -73,8 +73,26 @@ def get_topics_dict(topics_file):
     topics = {}
 
     for topic in root.findall("topic"):
+
         topic_id = topic.find("number").text
         topics[topic_id] = {}
-        topics[topic_id]["description"] = topic.find("description").text
-        topics[topic_id]["narrative"] = topic.find("narrative").text
+
+        # 2020 doesnt have query
+        if not topic.find("query") is None:
+            topics[topic_id]["query"] = topic.find("query").text
+        else:
+            topics[topic_id]["query"] = topic.find("title").text
+
+        # 2022 doesnt have description
+        if not topic.find("description") is None:
+            topics[topic_id]["description"] = topic.find("description").text
+        else:
+            topics[topic_id]["description"] = topic.find("question").text
+
+        # 2022 doesnt have narrative
+        if not topic.find("narrative").text is None:
+            topics[topic_id]["narrative"] = topic.find("narrative").text
+        else:
+            topics[topic_id]["narrative"] = topic.find("background").text
+
     return topics
