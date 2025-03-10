@@ -104,7 +104,7 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
                 if (prompt_template in history[topic_id][doc_id]):
                     print("Fatal error, repeated (topic_id, doc_id, prompt_template) run, should revise code", topic_id, doc_id, prompt_template)
                 history[topic_id][doc_id][prompt_template] = True
-                run = evaluate(topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
+                run = evaluate(topics[topic_id]["query"], topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
                 if run is not None:
                     print(f"Writing to {output}")
                     file.write(f'{topic_id} 0 {doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
