@@ -36,7 +36,15 @@ def get_qrels_dict(qrels_file, skip_unuseful=True):
         run = {}
         for line in file:
             doc_run = {}
-            doc_run["topic_id"], _, doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = unpack_split(line.split())
+            doc_run["topic_id"], check, doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = unpack_split(line.split())
+
+            # 2022 qrels dont have 0 separator
+            if not check == "0":
+                doc_run["s"] = doc_run["u"]
+                doc_run["u"] = doc_run["doc_id"]
+                doc_run["id"] = check
+                del doc_run["cr"]
+
             preprocess_run(doc_run)
             if doc_run["u"] <= 0 and skip_unuseful:
                 continue
