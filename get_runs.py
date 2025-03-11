@@ -69,9 +69,9 @@ def is_visited(topic_id, doc_id, exclude_list):
 
 def get_run_list(topic_list, qrels, exclude_list=[]):
     run_list = {}
-
-    if len(topic_list) == 0 and topic_list[0] == "all":
-        topic_list[0] = list(qrels.keys())
+    print(topic_list)
+    if len(topic_list) == 1 and topic_list[0] == "all":
+        topic_list = list(qrels.keys())
 
     for topic_id in topic_list:
         run_list[topic_id] = []
@@ -80,6 +80,8 @@ def get_run_list(topic_list, qrels, exclude_list=[]):
                 continue
             run_list[topic_id].append(doc_id)
     return run_list
+
+not_found_list = []
 
 def get_doc_content(searcher, doc_id):
     use_id = doc_id
@@ -90,8 +92,10 @@ def get_doc_content(searcher, doc_id):
         return json.loads(searcher.doc(use_id).raw())["text"]
     except:
         print(f"ERROR, failed with doc_id: {doc_id}")
-        return searcher.doc(use_id).raw()
-
+        if not searcher.doc(use_id) is None:
+            return searcher.doc(use_id).raw() 
+        not_found_list.append(doc_id)
+        return None
 
 
 # This is used to check that the same prompt template for the same topic and doc is being sent twice
@@ -103,6 +107,8 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
         with open(output, "a") as file:
             for doc_id in doc_ids:
                 doc = get_doc_content(searcher, doc_id) 
+                if doc is None:
+                    continue
                 print(f"Evaluating {topic_id} {doc_id} {run_count}/{len(run_list[topic_id])} for current prompt template")
                 run_count += 1
                 if (topic_id not in history):
@@ -130,6 +136,12 @@ def copy_run_list_from_file(file):
     except FileNotFoundError:
         print(f"Error: The file '{file}' does not exist, couldn´t copy run list from file.")
     return run_list
+
+def print_not_found_docs():
+    global not_found_list
+    print("The following docs where not found in the indexes")
+    print(not_found_list)
+
 
 def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, output_dir, topic_list, prompt_names=[], no_evaluate=False):
     prompt_template_list = get_prompt_template_list(featured_prompt_template)
@@ -242,8 +254,10 @@ if __name__ == "__main__":
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
+        print("Starting")
         get_runs_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
     else:
         get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, no_evaluate=args.no_evaluate)
 
+    print_not_found_docs()
     print_total_tokens()
