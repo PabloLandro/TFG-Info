@@ -69,6 +69,10 @@ def is_visited(topic_id, doc_id, exclude_list):
 
 def get_run_list(topic_list, qrels, exclude_list=[]):
     run_list = {}
+
+    if len(topic_list) == 0 and topic_list[0] == "all":
+        topic_list[0] = list(qrels.keys())
+
     for topic_id in topic_list:
         run_list[topic_id] = []
         for doc_id in qrels[topic_id]:

@@ -19,11 +19,6 @@ headers = {
     "Authorization": f"Bearer {api_key}"
 }
 
-# Read the template prompt from file
-template = ""
-with open(os.path.join("resources", "prompts", "prompt_v2.txt"), 'r') as file:
-    template = file.read()
-
 # Define the payload parameters
 payload = {
     "model": model,
@@ -33,9 +28,6 @@ payload = {
     "temperature": 0.7,
     "messages": None
 }
-
-def get_prompt(description, narrative, doc):
-    return template.replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
 encoding = tiktoken.encoding_for_model(model)
 
@@ -49,7 +41,7 @@ def fill_prompt(query, description, narrative, doc, prompt_template):
     return prompt_template.replace("%QUERY%", query).replace("%DESCRIPTION%", description).replace("%NARRATIVE%", narrative).replace("%DOCUMENT%",doc)
 
 
-def evaluate(query, description, narrative, doc, prompt_template=template, no_evaluate=True):    
+def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=True):    
     global total_tokens
 
     try:
