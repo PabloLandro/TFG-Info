@@ -42,8 +42,8 @@ def get_qrels_dict(qrels_file, skip_unuseful=True):
             if not check == "0":
                 doc_run["s"] = doc_run["u"]
                 doc_run["u"] = doc_run["doc_id"]
-                doc_run["id"] = check
-                del doc_run["cr"]
+                doc_run["doc_id"] = check
+                doc_run["cr"] = None
 
             preprocess_run(doc_run)
             if doc_run["u"] <= 0 and skip_unuseful:

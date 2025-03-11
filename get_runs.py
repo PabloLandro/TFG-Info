@@ -78,12 +78,16 @@ def get_run_list(topic_list, qrels, exclude_list=[]):
     return run_list
 
 def get_doc_content(searcher, doc_id):
-    doc = ""
+    use_id = doc_id
+    if searcher.doc(doc_id) is None:
+        print("changing id")
+        use_id = "<urn:uuid:" + doc_id + ">"
     try:
-        doc = json.loads(searcher.doc(doc_id).raw())["text"]
+        return json.loads(searcher.doc(use_id).raw())["text"]
     except:
-        doc = searcher.doc(doc_id).raw()
-    return doc
+        print(f"ERROR, failed with doc_id: {doc_id}")
+        return searcher.doc(use_id).raw()
+
 
 
 # This is used to check that the same prompt template for the same topic and doc is being sent twice
