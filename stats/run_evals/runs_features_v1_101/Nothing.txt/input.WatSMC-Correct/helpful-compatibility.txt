@@ -1,3 +1,0 @@
-runid,topic,compatibility
-WatSMC-Correct,101,0.4565233345893562
-WatSMC-Correct,average,0.4565233345893562

@@ -1,3 +1,0 @@
-runid,topic,compatibility
-watbm25p,101,1.5055238987389004e-22
-watbm25p,average,1.5055238987389004e-22

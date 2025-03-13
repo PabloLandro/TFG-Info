@@ -1,3 +1,0 @@
-runid,topic,compatibility
-bm25_rob_rf,101,0.15293250139220263
-bm25_rob_rf,average,0.15293250139220263

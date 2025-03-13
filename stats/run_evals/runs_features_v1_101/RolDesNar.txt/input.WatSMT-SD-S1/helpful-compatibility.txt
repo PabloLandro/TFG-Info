@@ -1,3 +1,0 @@
-runid,topic,compatibility
-WatSMT-SD-S1,101,9.167553443502766e-07
-WatSMT-SD-S1,average,9.167553443502766e-07

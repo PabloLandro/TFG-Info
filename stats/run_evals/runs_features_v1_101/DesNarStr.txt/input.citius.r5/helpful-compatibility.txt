@@ -1,3 +1,0 @@
-runid,topic,compatibility
-citius.r5,101,0.47713214354381256
-citius.r5,average,0.47713214354381256

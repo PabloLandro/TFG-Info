@@ -1,2 +1,0 @@
-runid,topic,compatibility
-webis-t5-ax1,average,0.0

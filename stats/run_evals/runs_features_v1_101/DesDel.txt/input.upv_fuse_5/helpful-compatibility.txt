@@ -1,3 +1,0 @@
-runid,topic,compatibility
-upv_fuse_5,101,0.16795892150450983
-upv_fuse_5,average,0.16795892150450983

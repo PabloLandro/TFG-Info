@@ -1,3 +1,0 @@
-runid,topic,compatibility
-vera_mt5_0.5,101,0.2123584093738963
-vera_mt5_0.5,average,0.2123584093738963

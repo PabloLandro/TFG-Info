@@ -1,3 +1,0 @@
-runid,topic,compatibility
-mt5_r,101,0.5050011805619601
-mt5_r,average,0.5050011805619601

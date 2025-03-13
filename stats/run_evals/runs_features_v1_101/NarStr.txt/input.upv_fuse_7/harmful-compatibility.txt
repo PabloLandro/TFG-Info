@@ -1,2 +1,0 @@
-runid,topic,compatibility
-upv_fuse_7,average,0.0

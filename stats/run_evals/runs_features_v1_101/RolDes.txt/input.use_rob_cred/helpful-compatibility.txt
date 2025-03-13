@@ -1,3 +1,0 @@
-runid,topic,compatibility
-use_rob_cred,101,0.02966619381163805
-use_rob_cred,average,0.02966619381163805

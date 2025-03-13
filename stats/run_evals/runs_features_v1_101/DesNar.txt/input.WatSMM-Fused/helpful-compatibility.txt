@@ -1,3 +1,0 @@
-runid,topic,compatibility
-WatSMM-Fused,101,0.27410462124034474
-WatSMM-Fused,average,0.27410462124034474

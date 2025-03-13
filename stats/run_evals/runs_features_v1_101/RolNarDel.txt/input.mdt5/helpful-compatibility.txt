@@ -1,3 +1,0 @@
-runid,topic,compatibility
-mdt5,101,0.19070758980969493
-mdt5,average,0.19070758980969493

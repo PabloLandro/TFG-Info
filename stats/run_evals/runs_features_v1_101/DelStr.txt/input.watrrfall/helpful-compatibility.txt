@@ -1,3 +1,0 @@
-runid,topic,compatibility
-watrrfall,101,0.18585315550794174
-watrrfall,average,0.18585315550794174

@@ -1,3 +1,0 @@
-runid,topic,compatibility
-use_sup_cred,101,0.21113570794131067
-use_sup_cred,average,0.21113570794131067

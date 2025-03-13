@@ -1,3 +1,0 @@
-runid,topic,compatibility
-vera_mdt5_0.95,101,1.3886118023047156e-19
-vera_mdt5_0.95,average,1.3886118023047156e-19

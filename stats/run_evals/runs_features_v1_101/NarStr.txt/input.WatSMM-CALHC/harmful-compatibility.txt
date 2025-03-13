@@ -1,2 +1,0 @@
-runid,topic,compatibility
-WatSMM-CALHC,average,0.0

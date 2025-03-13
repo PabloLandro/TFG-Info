@@ -1,3 +1,0 @@
-runid,topic,compatibility
-WatSMM-CALPR,101,0.35536763506279373
-WatSMM-CALPR,average,0.35536763506279373
