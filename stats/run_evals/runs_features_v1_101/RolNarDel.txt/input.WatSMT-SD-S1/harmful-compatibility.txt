@@ -1,2 +1,0 @@
-runid,topic,compatibility
-WatSMT-SD-S1,average,0.0

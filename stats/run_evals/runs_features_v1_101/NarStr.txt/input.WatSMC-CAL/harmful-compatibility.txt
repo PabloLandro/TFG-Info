@@ -1,2 +1,0 @@
-runid,topic,compatibility
-WatSMC-CAL,average,0.0

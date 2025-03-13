@@ -1,3 +1,0 @@
-runid,topic,compatibility
-WatSAM-BM25,101,0.09108939355255789
-WatSAM-BM25,average,0.09108939355255789

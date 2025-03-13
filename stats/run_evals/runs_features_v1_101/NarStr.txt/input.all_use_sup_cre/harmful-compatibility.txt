@@ -1,2 +1,0 @@
-runid,topic,compatibility
-all_use_sup_cre,average,0.0

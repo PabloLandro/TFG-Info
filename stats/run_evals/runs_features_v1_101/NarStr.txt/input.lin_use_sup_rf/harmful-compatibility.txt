@@ -1,2 +1,0 @@
-runid,topic,compatibility
-lin_use_sup_rf,average,0.0

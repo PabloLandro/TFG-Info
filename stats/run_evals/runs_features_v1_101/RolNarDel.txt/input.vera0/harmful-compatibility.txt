@@ -1,2 +1,0 @@
-runid,topic,compatibility
-vera0,average,0.0

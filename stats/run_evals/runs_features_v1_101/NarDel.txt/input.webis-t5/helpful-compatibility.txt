@@ -1,3 +1,0 @@
-runid,topic,compatibility
-webis-t5,101,0.32948153862180485
-webis-t5,average,0.32948153862180485

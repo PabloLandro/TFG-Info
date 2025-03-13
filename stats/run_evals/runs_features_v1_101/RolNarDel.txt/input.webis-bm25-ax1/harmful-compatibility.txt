@@ -1,2 +1,0 @@
-runid,topic,compatibility
-webis-bm25-ax1,average,0.0

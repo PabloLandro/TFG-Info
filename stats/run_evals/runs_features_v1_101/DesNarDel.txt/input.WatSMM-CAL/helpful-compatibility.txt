@@ -1,3 +1,0 @@
-runid,topic,compatibility
-WatSMM-CAL,101,0.1218593804455689
-WatSMM-CAL,average,0.1218593804455689
