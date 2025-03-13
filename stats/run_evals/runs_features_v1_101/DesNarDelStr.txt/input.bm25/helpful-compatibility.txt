@@ -1,0 +1,3 @@
+runid,topic,compatibility
+bm25,101,0.12204615218097523
+bm25,average,0.12204615218097523

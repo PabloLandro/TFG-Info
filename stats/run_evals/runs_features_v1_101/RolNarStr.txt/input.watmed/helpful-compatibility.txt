@@ -1,0 +1,3 @@
+runid,topic,compatibility
+watmed,101,0.09564884216029769
+watmed,average,0.09564884216029769

@@ -1,0 +1,3 @@
+runid,topic,compatibility
+vera_mdt5_0.5,101,0.16025962434708613
+vera_mdt5_0.5,average,0.16025962434708613

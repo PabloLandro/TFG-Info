@@ -1,0 +1,3 @@
+runid,topic,compatibility
+watgoog,101,0.003500719560038977
+watgoog,average,0.003500719560038977

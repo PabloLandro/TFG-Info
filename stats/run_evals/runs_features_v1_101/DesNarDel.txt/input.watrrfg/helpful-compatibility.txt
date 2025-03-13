@@ -1,0 +1,3 @@
+runid,topic,compatibility
+watrrfg,101,0.001653877611698374
+watrrfg,average,0.001653877611698374
