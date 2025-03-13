@@ -1,5 +1,4 @@
-import os, requests, re
-
+import os, requests, re, sys
 
 from dotenv import load_dotenv
 
@@ -47,7 +46,8 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
     try:
         # Replace the fields in the template
         prompt = fill_prompt(query, description, narrative, doc, prompt_template)
-
+        if total_tokens == 0:
+            print(prompt)
         total_tokens += len(encoding.encode(prompt))
         if no_evaluate:
             return None
@@ -65,7 +65,8 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
             output_format = r'^U=(0|1|2) S=(0|1|2) C=(0|1|2)$'
             if not bool(re.match(output_format,response_content)):
                 raise Exception(f"Error: Format of response invalid: {response_content}")
-            matches = re.findall(r"(U|S|C)=(0|1|2)", response_content)
+                sys.exit()
+            matches = re.findall(r"(U|S|C)=(-1|0|1|2)", response_content)
             out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
             print(out)
             return out

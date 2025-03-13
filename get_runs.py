@@ -157,6 +157,8 @@ def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, 
         print("Evaluating", file_name)
         path = os.path.join(output_dir, file_name)
         exclude_list = copy_run_list_from_file(path)
+        print("Exclude list:")
+        print(exclude_list)
         run_list = get_run_list(topic_list, qrels, exclude_list=exclude_list)
         run_run_list(prompt_template, run_list, path, topics, searcher, no_evaluate=no_evaluate)
 
