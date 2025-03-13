@@ -3,7 +3,7 @@ import pandas as pd
 import sys
 import matplotlib.pyplot as plt
 
-DEPTH = 1000
+DEPTH = 70
 
 # Function to read compatibility scores
 def read_scores(prompt_path, dataset):
