@@ -19,8 +19,27 @@ export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
 
 LLM_QRELS_DIR=$(realpath "$1")
-TOPICS=$(realpath "misinfo-resources-2021/misinfo-2021-topics.xml")
-PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs")
+
+YEAR=$2
+
+# Assign the TOPICS variable based on the year
+case "$YEAR" in
+    2021)
+        TOPICS=$(realpath "misinfo-resources-2021/topics/misinfo-2021-topics.xml")
+        ;;
+    2022)
+        TOPICS=$(realpath "misinfo-resources-2022/topics/misinfo-2022-topics.xml")
+        ;;
+    2019)
+        TOPICS=$(realpath "misinfo-resources-2019/topics/misinfo-2019-topics.xml")
+        ;;
+    *)
+        echo "Error: Unsupported year $YEAR"
+        exit 2
+        ;;
+esac
+
+PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs")/$YEAR
 RUN_EVALS_DIR="stats/run_evals"
 
 
