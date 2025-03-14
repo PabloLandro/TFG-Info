@@ -79,9 +79,41 @@ def merge_doc_runs(doc_run1, doc_run2):
 # Hay veces que un qrel o un run no tenga alguna de las etiquetas, en ese caso añadimos Nones
 # para lo que tenemos que crear una función que lo handlee
 
-def unpack_split(parts):
+def unpack_split(parts, n=6):
     return (parts + [None] * 6)[:6]
 
+def read_line_from_qrel(line, year):
+    # Define parsing functions for each year
+    def parse_2019(line):
+        return None
+
+    def parse_2020(line):
+        return None
+
+    def parse_2021(line):
+        topic_id,_,doc_id,u,s,cr = unpack_split(line.split())
+        aux = {"topic_id": topic_id, "doc_id": doc_id, "u": u, "s": s, "cr": cr}
+        preprocess_run(aux)
+        return aux
+
+    def parse_2022(line):
+        return None
+
+    # Map years to their corresponding parsers
+    year_parsers = {
+        2019: parse_2019,
+        2020: parse_2020,
+        2021: parse_2021,
+        2022: parse_2022,
+    }
+
+    # Get the parser for the given year
+    parser = year_parsers.get(year)
+    if parser is None:
+        raise ValueError(f"Unsupported year format: {year}")
+
+    # Parse the line using the appropriate parser
+    return parser(line)
 
 def get_qrels_dict(qrels_file, skip_unuseful=True):
     qrels = {}

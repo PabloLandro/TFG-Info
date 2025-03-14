@@ -144,7 +144,6 @@ def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, 
         run_run_list(prompt_template, run_list, path, topics, searcher, no_evaluate=no_evaluate)
 
 def get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, output_file, topic_list, no_evaluate=False):
-    topics = get_topics_dict(topics_file)
     exclude_list = copy_run_list_from_file(output_file)
     run_list = get_run_list(topic_list, qrels, exclude_list)
     run_run_list(prompt_template, run_list, output_file, topics, searcher, no_evaluate=no_evaluate)

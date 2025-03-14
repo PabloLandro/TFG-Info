@@ -1,5 +1,5 @@
 import os, argparse, sys
-from trec_utils import preprocess_run, get_year_data, get_stats
+from trec_utils import preprocess_run, get_year_data, get_stats, read_line_from_qrel
 import numpy as np
 
 POS_VALS = [1,2]
@@ -11,38 +11,18 @@ def is_int(string):
     except ValueError:
         return False
 
-def get_filtered_runs(run_folder, qrels):
+def get_filtered_runs(run_file, qrels, year):
     runs = {}
-    # Iterate over every topic run file
-    for topic_id in os.listdir(run_folder):
-        if not is_int(topic_id):
-            continue
-        run = {}
-        with open(os.path.join(run_folder, topic_id), "r") as file:
-            count = 0
-            for line in file:
-                doc_run = {}
-
-                # Read every doc_run for this topic
-                doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = line.split(" ")
-                # If there is not qrel run for this document, we skip it
-                if not doc_run["doc_id"] in qrels[topic_id]:
-                    #print("Doc not found in qrels")
-                    continue
-                count += 1
-                # Add correctiveness and preference
-                preprocess_run(doc_run)
-                run[doc_run["doc_id"]] = doc_run
-            #print(f"{topic_id} valid: {count}")
-        runs[topic_id] = run
-        # Check if there is any document missing
-        missing_docs = 0
-        for doc_id in qrels[topic_id]:
-            if doc_id not in run:
-                missing_docs += 1
-        if missing_docs > 0:
-            #print(f"WARN: Missing {missing_docs} documents for topic {topic_id}")
-            pass
+    with open(run_file, "r") as file:
+        for line in file:
+            doc_run = read_line_from_qrel(line, year)
+            topic_id = doc_run["topic_id"]
+            doc_id = doc_run["doc_id"]
+            if not doc_id in qrels[topic_id]:
+                continue
+            if topic_id not in runs:
+                runs[topic_id] = {}
+            runs[topic_id][doc_id] = doc_run
     return runs
 
 def get_kappa(TP,FP,FN,TN):
@@ -108,8 +88,8 @@ def get_confussion(stat, pos_vals, runs, qrels):
         print(TP,FP,FN,TN)
     return  TP,FP,FN,TN
 
-def get_stats_from_folder(folder, qrels):
-    runs = get_filtered_runs(folder, qrels)
+def get_stats_from_folder(folder, qrels, year):
+    runs = get_filtered_runs(folder, qrels, year)
     out = {}
     for stat in ["u", "cr", "s"]:
         TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs, qrels)
@@ -159,11 +139,11 @@ def generate_confussion_matrix(qrels, input_file, output):
             write_confussion(stat, stats[stat]["pos_vals"], stats[stat]["name"], file)
         
 
-def generate_tables(qrels, input_folder, output):
+def generate_tables(qrels, input_folder, output, year):
     stats = {}
 
     for combination in os.listdir(input_folder):
-        stats[combination] = get_stats_from_folder(os.path.join(input_folder, combination), qrels)
+        stats[combination] = get_stats_from_folder(os.path.join(input_folder, combination), qrels, year)
 
     for stat in ["u", "s", "cr"]:
         with open(output + stat, "w") as file:
@@ -215,7 +195,7 @@ def main():
     if args.mode == "matrix":
         generate_confussion_matrix(qrels, args.input, args.output)
     elif args.mode == "table":
-        generate_tables(qrels, args.input, args.output)
+        generate_tables(qrels, args.input, args.output, args.year)
 
 if __name__ == "__main__":
     main()
