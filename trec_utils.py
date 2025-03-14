@@ -31,7 +31,7 @@ def get_year_aux(year):
     sys.exit()
 
 def get_year_data(year):
-    qrels_file, topics_file, index_dir = get_year_data(year)
+    qrels_file, topics_file, index_dir = get_year_aux(year)
     qrels = get_qrels_dict(qrels_file)
     topics = get_topics_dict(topics_file)
     searcher = LuceneSearcher(index_dir)

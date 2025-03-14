@@ -109,7 +109,7 @@ def get_confussion(stat, pos_vals, runs, qrels):
     return  TP,FP,FN,TN
 
 def get_stats_from_folder(folder, qrels):
-    runs = get_filtered_runs(folder)
+    runs = get_filtered_runs(folder, qrels)
     out = {}
     for stat in ["u", "cr", "s"]:
         TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs, qrels)
@@ -141,11 +141,13 @@ def write_confussion(stat, pos_vals, name, runs, file):
 
 
 
-def validate_input(mode, input_path, output_path):
+def validate_input(mode, input_path, year, output_path):
     if mode == "matrix" and not os.path.isfile(input_path):
         sys.exit(f"Error: For mode 'matrix', input must be a file. '{input_path}' is not a valid file.")
     if mode == "table" and not os.path.isdir(input_path):
         sys.exit(f"Error: For mode 'table', input must be a folder. '{input_path}' is not a valid folder.")
+    if year not in [2019, 2020, 2021, 2022]:
+        sys.exit(f"Error: Year must be one of 2019, 2020, 2021, 2022. Provided: {year}")
     if not os.path.isdir(output_path):
         sys.exit(f"Error: Output must be a directory. '{output_path}' is not a valid directory.")
 
@@ -193,7 +195,7 @@ def main():
     )
     parser.add_argument(
         "year",
-        choices=["2019", "2020", "2021", "2022"],
+        type=int,
         help="Year of data to use. Must be one of: 2019, 2020, 2021, 2022."
     )
     parser.add_argument(
@@ -204,7 +206,7 @@ def main():
     args = parser.parse_args()
 
     # Validate the input based on mode
-    validate_input(args.mode, args.input, args.output)
+    validate_input(args.mode, args.input, args.year, args.output)
 
     # Get year-specific data
     qrels,_,_ = get_year_data(args.year)
