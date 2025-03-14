@@ -1,5 +1,59 @@
-import os
+import os, sys
 import xml.etree.ElementTree as ET
+from pyserini.search.lucene import LuceneSearcher
+
+QRELS_2019=os.path.join("misinfo-resources-2019", "qrels", "qrels_raw")
+QRELS_2020=os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels")
+QRELS_2021=os.path.join("misinfo-resources-2021", "qrels", "qrels-35topics.txt")
+QRELS_2022=os.path.join("misinfo-resources-2022", "qrels", "qrels.final.oct-19-2022")
+
+TOPICS_2019=os.path.join("misinfo-resources-2019", "topics", "misinfo-2019-topics.xml")
+TOPICS_2020=os.path.join("misinfo-resources-2020", "topics", "misinfo-2020-topics.xml")
+TOPICS_2021=os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topics.xml")
+TOPICS_2022=os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml")
+
+#INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb-b13")
+INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb_rawtext2")
+INDEX_2020=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "CC-NEWS-TREC-misinfo-2020")
+INDEX_2021=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
+INDEX_2022=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
+
+def get_year_aux(year):
+    if year == 2019:
+        return QRELS_2019, TOPICS_2019, INDEX_2019
+    if year == 2020:
+        return QRELS_2020, TOPICS_2020, INDEX_2020
+    if year == 2021:
+        return QRELS_2021, TOPICS_2021, INDEX_2021
+    if year == 2022:
+        return QRELS_2022, TOPICS_2022, INDEX_2022
+    print(f"ERROR, incorrect year {year}")
+    sys.exit()
+
+def get_year_data(year):
+    qrels_file, topics_file, index_dir = get_year_data(year)
+    qrels = get_qrels_dict(qrels_file)
+    topics = get_topics_dict(topics_file)
+    searcher = LuceneSearcher(index_dir)
+    return qrels,topics,searcher
+
+def get_stats():
+    data = {
+        "u": {
+            "pos_vals": [1, 2],  # Example array of integers
+            "name": "Usefulness"
+        },
+        "s": {
+            "pos_vals": [2],  # Example array of integers
+            "name": "Supportiveness"
+        },
+        "cr": {
+            "pos_vals": [1, 2],  # Example array of integers
+            "name": "Credibility"
+        }
+    }
+    return data
+
 
 def preprocess_run(run):
     run["u"] = int(run["u"]) if run["u"] is not None else None

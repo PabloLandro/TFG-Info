@@ -1,26 +1,7 @@
-from pyserini.search.lucene import LuceneSearcher
-from gpt import evaluate, print_total_tokens
-from trec_utils import get_topics_dict, get_qrels_dict_all, get_qrels_dict
+from gpt import evaluate, print_total_tokens, get_year_data
+from trec_utils import get_topics_dict, get_qrels_dict
 from itertools import combinations
 import os, argparse, json, sys
-
-QRELS_2019=os.path.join("misinfo-resources-2019", "qrels", "qrels_raw")
-QRELS_2020=os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels")
-QRELS_2021=os.path.join("misinfo-resources-2021", "qrels", "qrels-35topics.txt")
-QRELS_2022=os.path.join("misinfo-resources-2022", "qrels", "qrels.final.oct-19-2022")
-
-TOPICS_2019=os.path.join("misinfo-resources-2019", "topics", "misinfo-2019-topics.xml")
-TOPICS_2020=os.path.join("misinfo-resources-2020", "topics", "misinfo-2020-topics.xml")
-TOPICS_2021=os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topics.xml")
-TOPICS_2022=os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml")
-
-#INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb-b13")
-INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb_rawtext2")
-INDEX_2020=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "CC-NEWS-TREC-misinfo-2020")
-INDEX_2021=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
-INDEX_2022=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
-
-# Load the topics into a dictionary
 
 # Get all combinations of prompts by changing features
 def get_prompt_template_list(featured_prompt_template):
@@ -218,18 +199,6 @@ def check_args(parser, args):
         parser.print_help()
         sys.exit()
 
-def get_year_data(year):
-    if year == 2019:
-        return QRELS_2019, TOPICS_2019, INDEX_2019
-    if year == 2020:
-        return QRELS_2020, TOPICS_2020, INDEX_2020
-    if year == 2021:
-        return QRELS_2021, TOPICS_2021, INDEX_2021
-    if year == 2022:
-        return QRELS_2022, TOPICS_2022, INDEX_2022
-    print(f"ERROR, incorrect year {year}")
-    sys.exit()
-
 if __name__ == "__main__":
     
     parser = create_parser()
@@ -247,12 +216,7 @@ if __name__ == "__main__":
 
     check_args(parser, args)
 
-    qrels_file, topics_file, index_dir = get_year_data(args.year)
-
-    qrels = get_qrels_dict(qrels_file)
-    topics = get_topics_dict(topics_file)
-    searcher = LuceneSearcher(index_dir)
-
+    qrels, topics, searcher = get_year_data(args.year)
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:

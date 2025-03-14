@@ -1,11 +1,8 @@
-import os
-from trec_utils import get_qrels_dict, get_qrels_dict_all, preprocess_run
+import os, argparse, sys
+from trec_utils import preprocess_run, get_year_data, get_stats
 import numpy as np
 
 POS_VALS = [1,2]
-
-# Load the qrel runs into;q a dictionary indexed by topic_id
-qrels = get_qrels_dict_all()
 
 def is_int(string):
     try:
@@ -14,7 +11,7 @@ def is_int(string):
     except ValueError:
         return False
 
-def get_filtered_runs(run_folder):
+def get_filtered_runs(run_folder, qrels):
     runs = {}
     # Iterate over every topic run file
     for topic_id in os.listdir(run_folder):
@@ -79,7 +76,7 @@ def get_confidence_interval(TP, FP, FN, TN, get_feature, bootstraps=20):
     out["ub"] = np.percentile(feature_values, 97.5)
     return out
 
-def get_confussion(stat, pos_vals, runs):
+def get_confussion(stat, pos_vals, runs, qrels):
     TP = 0
     FP = 0
     FN = 0
@@ -111,11 +108,11 @@ def get_confussion(stat, pos_vals, runs):
         print(TP,FP,FN,TN)
     return  TP,FP,FN,TN
 
-def get_stats_from_folder(folder):
+def get_stats_from_folder(folder, qrels):
     runs = get_filtered_runs(folder)
     out = {}
     for stat in ["u", "cr", "s"]:
-        TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs)
+        TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs, qrels)
         out[stat] = {}
         out[stat]["kappa"] = get_kappa(TP, FP, FN, TN)
         out[stat]["kappa_interval"] = get_confidence_interval(TP, FP, FN, TN, get_kappa)
@@ -123,21 +120,100 @@ def get_stats_from_folder(folder):
         out[stat]["mae_interval"] = get_confidence_interval(TP, FP, FN, TN, get_mae)
     return out
 
-def print_confussion(stat, pos_vals, name, runs):
+def write_confussion(stat, pos_vals, name, runs, file):
     
     TP, FP, FN, TN = get_confussion(stat, pos_vals, runs)
 
-    print(f"\n{name} confussion matrix:")
-    print(f"TP={TP}\tFP={FP}\tFN={FN}\tTN={TN}")
+    file.write(f"\n{name} confussion matrix:\n")
+    file.write(f"TP={TP}\tFP={FP}\tFN={FN}\tTN={TN}\n")
 
     precision = TP / (TP+FP)
-    print(f"Precision: {precision}")
+    file.write(f"Precision: {precision}\n")
 
     MAE = get_mae(TP, FP, FN, TN)
-    print(f"MAE: {MAE}")
+    file.write(f"MAE: {MAE}\n")
 
     kappa = get_kappa(TP, FP, FN, TN)
-    print(f"Cohen´s Kapa: {kappa}")
+    file.write(f"Cohen´s Kapa: {kappa}\n")
 
     recall = TP / (TP + FN)
-    print(f"Recall: {recall}\n")
+    file.write(f"Recall: {recall}\n\n")
+
+
+
+def validate_input(mode, input_path, output_path):
+    if mode == "matrix" and not os.path.isfile(input_path):
+        sys.exit(f"Error: For mode 'matrix', input must be a file. '{input_path}' is not a valid file.")
+    if mode == "table" and not os.path.isdir(input_path):
+        sys.exit(f"Error: For mode 'table', input must be a folder. '{input_path}' is not a valid folder.")
+    if not os.path.isdir(output_path):
+        sys.exit(f"Error: Output must be a directory. '{output_path}' is not a valid directory.")
+
+def generate_confussion_matrix(qrels, input_file, output):
+    print(f"Generating confusion matrix with qrels {qrels} for file {input_file} into {output}.")
+    with open(input_file, "w") as file:
+        stats = get_stats()
+        for stat in stats.keys():
+            write_confussion(stat, stats[stat]["pos_vals"], stats[stat]["name"], file)
+        
+
+def generate_tables(qrels, input_folder, output):
+    stats = {}
+
+    for combination in os.listdir(input_folder):
+        stats[combination] = get_stats_from_folder(os.path.join(input_folder, combination), qrels)
+
+    for stat in ["u", "s", "cr"]:
+        with open(output + stat, "w") as file:
+            file.write(f"Table for {stat}\n")
+            file.write("Prompt features\t\t\tMAE\t\t\tCohen's Kappa\n")
+            for combination in ["Nothing", "Rol", "Des", "Nar", "Del", "Str", "RolDes", "RolNar", "RolDel", "RolStr", "DesNar", "DesDel", "DesStr", "NarDel", "NarStr", "DelStr", "RolDesNar", "RolDesDel", "RolDesStr", "RolNarDel", "RolNarStr", "RolDelStr", "DesNarDel", "DesNarStr", "NarDelStr", "RolDesNarDel", "RolDesNarStr", "RolDesDelStr", "RolNarDelStr", "DesNarDelStr", "RolDesNarDelStr"]:
+            #for combination in stats:
+                if stats[combination] is None or stat not in stats[combination]:
+                    file.write(f"{combination}\t\t\tErroro\t\t\tErroro\n")
+                else:
+                    mae = stats[combination][stat]["mae"]
+                    mae_interval = stats[combination][stat]["mae_interval"]
+                    mae_margin = max(mae-mae_interval["lb"], mae_interval["ub"] - mae)
+                    kappa = stats[combination][stat]["kappa"]
+                    kappa_interval = stats[combination][stat]["kappa_interval"]
+                    kappa_margin = max(kappa-kappa_interval["lb"], kappa_interval["ub"] - kappa)
+                    file.write(f"{combination:<12}&{mae:.2f}$pm${mae_margin:.2f}&{kappa:.2f}$pm${kappa_margin:.2f}\\\\\n")
+
+def main():
+    parser = argparse.ArgumentParser(description="Process input based on mode and year.")
+    parser.add_argument(
+        "mode",
+        choices=["matrix", "table"],
+        help="Mode of operation. 'matrix' requires a file, 'table' requires a folder."
+    )
+    parser.add_argument(
+        "input",
+        help="Input file (for matrix) or folder (for table)."
+    )
+    parser.add_argument(
+        "year",
+        choices=["2019", "2020", "2021", "2022"],
+        help="Year of data to use. Must be one of: 2019, 2020, 2021, 2022."
+    )
+    parser.add_argument(
+        "output",
+        help="Path to output folder."
+    )
+
+    args = parser.parse_args()
+
+    # Validate the input based on mode
+    validate_input(args.mode, args.input, args.output)
+
+    # Get year-specific data
+    qrels,_,_ = get_year_data(args.year)
+
+    # Perform actions based on mode
+    if args.mode == "matrix":
+        generate_confussion_matrix(qrels, args.input, args.output)
+    elif args.mode == "table":
+        generate_tables(qrels, args.input, args.output)
+
+if __name__ == "__main__":
+    main()
