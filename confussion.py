@@ -189,7 +189,7 @@ def main():
     validate_input(args.mode, args.input, args.year, args.output)
 
     # Get year-specific data
-    qrels,_,_ = get_year_data(args.year)
+    qrels,_,_ = get_year_data(args.year, with_graded_usefulness=True)
 
     # Perform actions based on mode
     if args.mode == "matrix":

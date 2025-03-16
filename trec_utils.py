@@ -5,6 +5,7 @@ from pyserini.search.lucene import LuceneSearcher
 QRELS_2019=os.path.join("misinfo-resources-2019", "qrels", "qrels_raw")
 QRELS_2020=os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels")
 QRELS_2021=os.path.join("misinfo-resources-2021", "qrels", "qrels-35topics.txt")
+QRELS_2021_graded_usefulness=os.path.join("misinfo-resources-2021", "qrels", "2021-derived-qrels", "misinfo-qrels-graded.usefulness")
 QRELS_2022=os.path.join("misinfo-resources-2022", "qrels", "qrels.final.oct-19-2022")
 
 TOPICS_2019=os.path.join("misinfo-resources-2019", "topics", "misinfo-2019-topics.xml")
@@ -30,9 +31,27 @@ def get_year_aux(year):
     print(f"ERROR, incorrect year {year}")
     sys.exit()
 
-def get_year_data(year):
+def get_year_aux_usefulness(year):
+    if year == 2019:
+        return QRELS_2019
+    if year == 2020:
+        return QRELS_2020
+    if year == 2021:
+        return QRELS_2021_graded_usefulness
+    if year == 2022:
+        return QRELS_2022
+    print(f"ERROR, incorrect year {year}")
+    sys.exit()
+    
+def get_year_data(year, with_graded_usefulness=False):
     qrels_file, topics_file, index_dir = get_year_aux(year)
-    qrels = get_qrels_dict(qrels_file)
+    qrels = {}
+    if with_graded_usefulness:
+        qrels1 = get_qrels_dict(qrels_file)
+        qrels2 = get_qrels_dict(get_year_aux_usefulness(year))
+        qrels = merge_qrels(qrels1, qrels2)
+    else:
+        qrels = get_qrels_dict(qrels_file)
     topics = get_topics_dict(topics_file)
     searcher = LuceneSearcher(index_dir)
     return qrels,topics,searcher
@@ -140,6 +159,18 @@ def get_qrels_dict(qrels_file, skip_unuseful=True):
                 run = {}
             run[doc_run["doc_id"]] = doc_run
     return qrels
+
+#qrels1 has priority, in case of conflict, the entry from qrels1 will be kept
+def merge_qrels(qrels1, qrels2):
+    for topic_id in qrels2:
+        if topic_id not in qrels1:
+            qrels1[topic_id] = qrels2[topic_id]
+            continue
+        for doc_id in qrels2[topic_id]:
+            if doc_id in qrels1[topic_id]:
+                continue
+            qrels1[topic_id][doc_id] = qrels2[topic_id][doc_id]
+    return qrels1
 
 def get_qrels_dict_all():
     qrels = {}
