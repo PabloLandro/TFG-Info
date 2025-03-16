@@ -33,6 +33,8 @@ def get_kappa(TP,FP,FN,TN):
     pe = possitive_agreement + negative_agreement
     if pe == 1:
         print(TP,FP,FN,TN)
+    if pe == 1:
+        return 0
     kappa = (p0 - pe) / (1 - pe)
     return kappa
 
@@ -149,8 +151,8 @@ def generate_tables(qrels, input_folder, output, year):
         with open(output + stat, "w") as file:
             file.write(f"Table for {stat}\n")
             file.write("Prompt features\t\t\tMAE\t\t\tCohen's Kappa\n")
-            for combination in ["Nothing", "Rol", "Des", "Nar", "Del", "Str", "RolDes", "RolNar", "RolDel", "RolStr", "DesNar", "DesDel", "DesStr", "NarDel", "NarStr", "DelStr", "RolDesNar", "RolDesDel", "RolDesStr", "RolNarDel", "RolNarStr", "RolDelStr", "DesNarDel", "DesNarStr", "NarDelStr", "RolDesNarDel", "RolDesNarStr", "RolDesDelStr", "RolNarDelStr", "DesNarDelStr", "RolDesNarDelStr"]:
-            #for combination in stats:
+            #for combination in ["Nothing", "Rol", "Des", "Nar", "Del", "Str", "RolDes", "RolNar", "RolDel", "RolStr", "DesNar", "DesDel", "DesStr", "NarDel", "NarStr", "DelStr", "RolDesNar", "RolDesDel", "RolDesStr", "RolNarDel", "RolNarStr", "RolDelStr", "DesNarDel", "DesNarStr", "NarDelStr", "RolDesNarDel", "RolDesNarStr", "RolDesDelStr", "RolNarDelStr", "DesNarDelStr", "RolDesNarDelStr"]:
+            for combination in stats:
                 if stats[combination] is None or stat not in stats[combination]:
                     file.write(f"{combination}\t\t\tErroro\t\t\tErroro\n")
                 else:
