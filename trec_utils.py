@@ -47,11 +47,11 @@ def get_year_data(year, with_graded_usefulness=False):
     qrels_file, topics_file, index_dir = get_year_aux(year)
     qrels = {}
     if with_graded_usefulness:
-        qrels1 = get_qrels_dict(qrels_file)
-        qrels2 = get_qrels_dict(get_year_aux_usefulness(year))
+        qrels1 = get_qrels_dict(qrels_file, year)
+        qrels2 = get_qrels_dict(get_year_aux_usefulness(year), year, skip_unuseful=False)
         qrels = merge_qrels(qrels1, qrels2)
     else:
-        qrels = get_qrels_dict(qrels_file)
+        qrels = get_qrels_dict(qrels_file, year)
     topics = get_topics_dict(topics_file)
     searcher = LuceneSearcher(index_dir)
     return qrels,topics,searcher
@@ -134,23 +134,13 @@ def read_line_from_qrel(line, year):
     # Parse the line using the appropriate parser
     return parser(line)
 
-def get_qrels_dict(qrels_file, skip_unuseful=True):
+def get_qrels_dict(qrels_file, year, skip_unuseful=True):
     qrels = {}
     with open(qrels_file, "r") as file:
         last_topic_id = ""
         run = {}
         for line in file:
-            doc_run = {}
-            doc_run["topic_id"], check, doc_run["doc_id"], doc_run["u"], doc_run["s"], doc_run["cr"] = unpack_split(line.split())
-
-            # 2022 qrels dont have 0 separator
-            if not check == "0":
-                doc_run["s"] = doc_run["u"]
-                doc_run["u"] = doc_run["doc_id"]
-                doc_run["doc_id"] = check
-                doc_run["cr"] = None
-
-            preprocess_run(doc_run)
+            doc_run = read_line_from_qrel(line, year)
             if doc_run["u"] <= 0 and skip_unuseful:
                 continue
             if last_topic_id != doc_run["topic_id"]:
@@ -171,24 +161,6 @@ def merge_qrels(qrels1, qrels2):
                 continue
             qrels1[topic_id][doc_id] = qrels2[topic_id][doc_id]
     return qrels1
-
-def get_qrels_dict_all():
-    qrels = {}
-
-    for qrel_file_name in os.listdir(os.path.join("resources", "qrels")):
-        qrels_file = os.path.join("resources", "qrels", qrel_file_name)
-        aux = get_qrels_dict(qrels_file)
-        for topic_id, topic_run in aux.items():
-            # If that topic id isnt on our dict, we add it
-            if topic_id not in qrels:
-                qrels[topic_id] = topic_run
-            # In other case we iterate over doc_ids to merge the topic_runs
-            else:
-                for doc_id, doc_run in aux[topic_id].items():
-                    qrels[topic_id][doc_id], error = merge_doc_runs(qrels[topic_id][doc_id], doc_run)
-                    if error:
-                        print(f"ERROR: pair ({topic_id},{doc_id}) is in more than one qrel file")
-    return qrels
 
 def get_topics_dict(topics_file):
     # Open the topics file as an xml tree

@@ -1,5 +1,4 @@
 from gpt import evaluate, print_total_tokens, get_year_data
-from trec_utils import get_topics_dict, get_qrels_dict
 from itertools import combinations
 import os, argparse, json, sys
 

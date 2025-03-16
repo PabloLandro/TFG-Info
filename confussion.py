@@ -93,7 +93,8 @@ def get_confussion(stat, pos_vals, runs, qrels):
 def get_stats_from_folder(folder, qrels, year):
     runs = get_filtered_runs(folder, qrels, year)
     out = {}
-    for stat in ["u", "cr", "s"]:
+    stats = get_stats()
+    for stat in stats:
         TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs, qrels)
         out[stat] = {}
         out[stat]["kappa"] = get_kappa(TP, FP, FN, TN)
