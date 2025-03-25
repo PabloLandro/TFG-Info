@@ -1,0 +1,34 @@
+Table for cr
+Prompt features			MAE			Cohen's Kappa
+DesNar.txt  &0.37$pm$0.02&0.01$pm$0.01\\
+RolDesNarDel.txt&0.48$pm$0.05&0.02$pm$0.03\\
+DesNarDel.txt&0.48$pm$0.05&0.02$pm$0.03\\
+RolDel.txt  &0.36$pm$0.03&0.02$pm$0.02\\
+RolNar.txt  &0.37$pm$0.02&0.01$pm$0.01\\
+DelStr.txt  &0.37$pm$0.04&0.01$pm$0.01\\
+DesStr.txt  &0.37$pm$0.02&0.01$pm$0.01\\
+DesNarStr.txt&0.49$pm$0.08&0.01$pm$0.02\\
+NarDel.txt  &0.37$pm$0.03&0.00$pm$0.00\\
+RolDesNarDelStr.txt&0.47$pm$0.07&0.04$pm$0.03\\
+Des.txt     &0.36$pm$0.04&0.02$pm$0.01\\
+RolDelStr.txt&0.49$pm$0.05&0.00$pm$0.00\\
+RolDesDelStr.txt&0.47$pm$0.05&0.04$pm$0.03\\
+RolNarStr.txt&0.49$pm$0.06&0.00$pm$0.00\\
+RolDesStr.txt&0.47$pm$0.07&0.04$pm$0.03\\
+RolNarDel.txt&0.48$pm$0.05&0.02$pm$0.04\\
+Del.txt     &0.37$pm$0.03&0.00$pm$0.00\\
+DesDelStr.txt&0.49$pm$0.05&0.00$pm$0.00\\
+Str.txt     &0.37$pm$0.03&0.01$pm$0.01\\
+RolDes.txt  &0.36$pm$0.04&0.02$pm$0.02\\
+RolStr.txt  &0.37$pm$0.03&0.01$pm$0.02\\
+DesNarDelStr.txt&0.48$pm$0.06&0.02$pm$0.03\\
+Rol.txt     &0.37$pm$0.02&0.01$pm$0.02\\
+RolDesNar.txt&0.49$pm$0.05&0.01$pm$0.04\\
+Nar.txt     &0.37$pm$0.02&0.00$pm$0.00\\
+RolDesNarStr.txt&0.48$pm$0.05&0.03$pm$0.04\\
+RolDesDel.txt&0.46$pm$0.07&0.06$pm$0.03\\
+Nothing.txt &0.46$pm$0.02&0.00$pm$0.00\\
+NarDelStr.txt&0.49$pm$0.06&0.00$pm$0.00\\
+NarStr.txt  &0.37$pm$0.03&0.01$pm$0.01\\
+DesDel.txt  &0.37$pm$0.03&0.01$pm$0.01\\
+RolNarDelStr.txt&0.48$pm$0.08&0.03$pm$0.04\\
