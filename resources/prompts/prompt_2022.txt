@@ -1,0 +1,41 @@
+You are given a question from a search user and a document.
+You must provide three different scores as described:
+
+Usefulness (U): You will judge the document based on the degree to
+which a user would find the document useful. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful to make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the treatment or provides
+    strong guidance about the health treatment.
+
+Answer (A): You will judge how the document answers to the
+user query. The possible answers are:
+0. No: The document says the answer to the question is "no" or provides
+    strong support that would lead a user to conclude the answer is "no".
+1. Yes: The document says the answer to the question is "yes" or provides
+    strong support that would lead a user to conclude that the answer is "yes".
+2. Unclear: The document addressed the question, but a reasonable user 
+    would not be able to conclude the answer was "yes" or "no" given the document.
+
+
+
+
+A person has typed %QUERY% into a search engine.
+
+The user wants to answer the following question:
+%DESCRIPTION%
+
+Consider the following document:
+
+%DOCUMENT%
+
+END OF DOCUMENT
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2.
+The output must be in this format: "U=0 A=1" or "U=1 A=1".
+
+Be strict with your answer (A), it is important that you do not tag with 2
+an aspect that should be a 1 or 0.

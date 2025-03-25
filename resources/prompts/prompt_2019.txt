@@ -1,0 +1,59 @@
+You are given a question from a search user and a document.
+You must provide three different scores as described:
+
+Relevance (R): You will judge the document based on the degree to
+which a user would find the document useful. The grades of usefulness are:
+0. Not relevant: If the document does not contain helpful information, written in a foreign language (not
+    in English), contains adult material, is unreadable or broken.
+1. Relevant: If the document contains information that the user would nd helpful in meeting their
+    information need
+2. Highly relevant: If the document directly addresses the core issue of the topic
+
+Medical Intervention Efficacy (E): You will indicate the efficacy of the treatment
+according to the document, independent from what you believe to be true. The grades of efficacy are:
+0. No information: If the document does not state the health issue, but the assessor considered it relevant.
+1. Ineffective: If the document states that the medical intervention is ineffective or harmful. If the
+    document contains evidence for both the ineffective and effective directions, but it clearly supports the
+    ineffective option over the effective one.
+2. Inconclusive: If the document contains evidence for both the ineffective and effective directions, but
+    it does not clearly support one over the other. Or, it states that it is unknown whether or not the
+    medical intervention helps. Or, it explicitly mentions the medical intervention, but does not provide
+    any information on its efficacy, benefits, or disadvantages.
+3. Effective: If the document states that the medical intervention is or can be an effective option to the
+    health issue. If the document contains evidences for both the ineffective and effective directions, but
+    it clearly supports the effective option over the ineffective one.
+
+Credibility (C): You will take into account your opinion of the purpose of the document, the correctness
+    of information, the amount of expertise, authoritativeness and trustworthiness. You will judge this 
+    independently from usefulness.
+The grades of credibility are:
+0. Not credible: If the document is a mask for advertising or marketing purposes, is from a personal
+    blog or a forum, or written by a non-expert person. If the document itself, or the hosting website,
+    provides or claims that go against well-known medical consensus (e.g., smoking cigarettes does not
+    cause cancer).
+1. Credible: Some criteria used to consider a document credible are:
+    1) if the document has a high level of E-A-T (Expertise-Authoritativeness-Trustworthiness)
+    2) includes an author or a publishing institute expert in the field
+    3) includes citations or references to credible sources such as universities, research/clinics,
+        government websites, medical publications, and lab studies
+    4) is hosted in a hospital/clinic or government website, or online newspaper with wide circulation,
+        is well written, motivated and organized.
+
+A person has typed %QUERY% into a search engine.
+
+The user wants to answer the following question:
+%DESCRIPTION%
+
+Consider the following document:
+
+%DOCUMENT%
+
+END OF DOCUMENT
+
+Now based on the question and the document provide me with the
+relevance, efficacy and credibility grade, each as a number
+between 0 and 2, or between 0 and 1 in the case of credibility.
+The output must be in this format: "R=0 E=1 C=2" or "R=1 E=1 C=1".
+
+Be strict with your answers, it is important that you do not tag with
+inconclusive something that should be positive or negative.
