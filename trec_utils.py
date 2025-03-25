@@ -119,6 +119,9 @@ def read_line_from_qrel(line, year):
         return aux
 
     def parse_2022(line):
+        topic_id,_,doc_id,u,s = unpack_split(line.split())
+        aux = {"topic_id": topic_id, "doc_id": doc_id, "u": u, "s": s, "cr": None}
+        preprocess_run(aux)
         return None
 
     # Map years to their corresponding parsers
