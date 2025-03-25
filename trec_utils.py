@@ -63,7 +63,7 @@ def get_stats():
             "name": "Usefulness"
         },
         "s": {
-            "pos_vals": [2],  # Example array of integers
+            "pos_vals": [1, 2],  # Example array of integers
             "name": "Supportiveness"
         },
         "cr": {
@@ -137,17 +137,13 @@ def read_line_from_qrel(line, year):
 def get_qrels_dict(qrels_file, year, skip_unuseful=True):
     qrels = {}
     with open(qrels_file, "r") as file:
-        last_topic_id = ""
-        run = {}
         for line in file:
             doc_run = read_line_from_qrel(line, year)
             if doc_run["u"] <= 0 and skip_unuseful:
                 continue
-            if last_topic_id != doc_run["topic_id"]:
-                qrels[last_topic_id] = run
-                last_topic_id = doc_run["topic_id"]
-                run = {}
-            run[doc_run["doc_id"]] = doc_run
+            if doc_run["topic_id"] not in qrels:
+                qrels[doc_run["topic_id"]] = {}
+            qrels[doc_run["topic_id"]][doc_run["doc_id"]] = doc_run
     return qrels
 
 #qrels1 has priority, in case of conflict, the entry from qrels1 will be kept

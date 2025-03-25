@@ -1,4 +1,4 @@
-import argparse, os
+import argparse, os, sys
 from trec_utils import get_qrels_dict
 
 def create_parser():
@@ -55,9 +55,9 @@ def main():
     args = parser.parse_args()
     validate_args(args)
 
-    usefulness_dict = get_qrels_dict(os.path.join(args.directory, 2021, args.usefulness_run), skip_unuseful=False)
-    supportiveness_dict = get_qrels_dict(os.path.join(args.directory, 2021, args.supportiveness_run), skip_unuseful=False)
-    credibility_dict = get_qrels_dict(os.path.join(args.directory, 2021, args.credibility_run), skip_unuseful=False)
+    usefulness_dict = get_qrels_dict(os.path.join(args.directory, args.usefulness_run), 2021, skip_unuseful=False)
+    supportiveness_dict = get_qrels_dict(os.path.join(args.directory, args.supportiveness_run), 2021, skip_unuseful=False)
+    credibility_dict = get_qrels_dict(os.path.join(args.directory, args.credibility_run), 2021, skip_unuseful=False)
 
     with open(os.path.join(args.directory, "combined"), "w") as file:
         for topic in usefulness_dict:
@@ -68,7 +68,8 @@ def main():
                 if doc_id not in supportiveness_dict[topic] or doc_id not in credibility_dict[topic]:
                     print("Missing doc")
                     continue
-                file.write(f"{topic} 0 {doc_id} {usefulness_dict[topic][doc_id]["u"]} {supportiveness_dict[topic][doc_id]["s"]} {credibility_dict[topic][doc_id]["cr"]}")
+                file.write(f"{topic} 0 {doc_id} {usefulness_dict[topic][doc_id]['u' ]} {supportiveness_dict[topic][doc_id]['s']} {credibility_dict[topic][doc_id]['cr']}")
+                file.write("\n")
     
 
 if __name__ == "__main__":
