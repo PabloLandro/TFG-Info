@@ -104,6 +104,9 @@ def unpack_split(parts, n=6):
 def read_line_from_qrel(line, year):
     # Define parsing functions for each year
     def parse_2019(line):
+        topic_id,_,doc_id,u,s,cr = unpack_split(line.split())
+        aux = {"topic_id": topic_id, "doc_id": doc_id, "u": u, "s": s, "cr": cr}
+        preprocess_run(aux)
         return None
 
     def parse_2020(line):
