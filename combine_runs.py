@@ -1,7 +1,7 @@
-import argparse
-import os
+import argparse, os
+from trec_utils import get_qrels_dict
 
-def main():
+def create_parser():
     # Initialize the parser
     parser = argparse.ArgumentParser(description="Verify directory and file arguments.")
     
@@ -31,10 +31,9 @@ def main():
         required=True,
         help="Path to the credibility_run file within the directory."
     )
-    
-    # Parse the arguments
-    args = parser.parse_args()
-    
+    return parser
+
+def validate_args(args):
     # Validate directory
     if not os.path.isdir(args.directory):
         raise ValueError(f"The directory '{args.directory}' does not exist.")
@@ -47,6 +46,30 @@ def main():
             raise ValueError(f"The file '{file_path}' does not exist in the directory '{args.directory}'.")
     
     print("All arguments are valid.")
+
+def main():
+    
+    parser = create_parser()
+    
+    # Parse the arguments
+    args = parser.parse_args()
+    validate_args(args)
+
+    usefulness_dict = get_qrels_dict(os.path.join(args.directory, 2021, args.usefulness_run), skip_unuseful=False)
+    supportiveness_dict = get_qrels_dict(os.path.join(args.directory, 2021, args.supportiveness_run), skip_unuseful=False)
+    credibility_dict = get_qrels_dict(os.path.join(args.directory, 2021, args.credibility_run), skip_unuseful=False)
+
+    with open(os.path.join(args.directory, "combined"), "w") as file:
+        for topic in usefulness_dict:
+            if topic not in supportiveness_dict or topic not in credibility_dict:
+                print("Missing topic")
+                continue
+            for doc_id in usefulness_dict[topic]:
+                if doc_id not in supportiveness_dict[topic] or doc_id not in credibility_dict[topic]:
+                    print("Missing doc")
+                    continue
+                file.write(f"{topic} 0 {doc_id} {usefulness_dict[topic][doc_id]["u"]} {supportiveness_dict[topic][doc_id]["s"]} {credibility_dict[topic][doc_id]["cr"]}")
+    
 
 if __name__ == "__main__":
     main()
