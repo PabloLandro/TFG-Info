@@ -1,4 +1,5 @@
-from gpt import evaluate, print_total_tokens, get_year_data
+from gpt import evaluate, print_total_tokens
+from trec_utils import get_year_data
 from itertools import combinations
 import os, argparse, json, sys
 
