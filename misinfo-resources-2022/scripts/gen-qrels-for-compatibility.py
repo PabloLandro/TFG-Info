@@ -102,6 +102,9 @@ grades = {
     (VERY_USEFUL, UNJUDGED): 2,  # there are no cases of this
     (USEFUL, UNJUDGED): 1,  # there is one case of this for some reason
     (NOT_USEFUL, UNJUDGED): 0,
+    (NOT_USEFUL, JUDGED_CORRECT): 0,    #These two lines werent in the original script
+    (NOT_USEFUL, JUDGED_INCORRECT): 0,  #I added them to avoid crashes, some documents were labeled 0,1 by gpt
+    (NOT_USEFUL, JUDGED_UNCLEAR): 0,
     (USEFUL, JUDGED_INCORRECT): -1,
     (VERY_USEFUL, JUDGED_INCORRECT): -2,
 }

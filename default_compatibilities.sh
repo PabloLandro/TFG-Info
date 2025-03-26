@@ -19,7 +19,7 @@ export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
 
 
-f [ "$#" -ne 2 ]; then
+if [ "$#" -ne 2 ]; then
     echo "Usage: $0 <qrel_file> <year>"
     exit 1
 fi
@@ -48,7 +48,26 @@ case "$YEAR" in
         ;;
 esac
 
-PARTICIPANT_RUNS_DIR=$(realpath "resources/$YEAR/participant_runs")
+# Set participant runs according to year
+case "$YEAR" in
+    2019)
+	PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs/2019")
+        ;;
+    2020)
+        ;;
+    2021)
+	PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs/2021")
+        ;;
+    2022)
+	PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs/2022/adhoc")
+        ;;
+    *)
+        echo "Invalid year: $year"
+        echo "Year must be one of: 2019, 2020, 2021, 2022"
+        exit 1
+        ;;
+esac
+
 RUN_EVALS_DIR="stats/run_evals"
 
 QRELS_DIR=$(dirname "$QRELS")

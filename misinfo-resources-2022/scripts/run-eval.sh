@@ -9,9 +9,8 @@ ADHOC_OUT_DIR="$1"
 #AP_OUT_DIR="/project/6003284/smucker/group-data/trec/resources22/run-summaries/prediction"
 
 # directories with the runs to evaluate
-ADHOC="resources/participant_runs/2022"
-#PREDICTION="/project/6003284/smucker/group-data/trec/resources22/runs/prediction"
-
+ADHOC="resources/participant_runs/2022/adhoc"
+#PREDICTION=="resources/participant_runs/2022/prediction"
 QRELS="$2"
 TOPICS="misinfo-resources-2022/topics/misinfo-2022-topics.txt"
 

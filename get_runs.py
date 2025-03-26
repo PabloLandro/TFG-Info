@@ -89,6 +89,7 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
             for doc_id in doc_ids:
                 doc = get_doc_content(searcher, doc_id) 
                 if doc is None:
+                    print(f"NONE DOCUMENT {doc_id}")
                     continue
                 print(f"Evaluating {topic_id} {doc_id} {run_count}/{len(run_list[topic_id])} for current prompt template")
                 run_count += 1
