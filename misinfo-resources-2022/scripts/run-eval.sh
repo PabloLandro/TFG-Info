@@ -1,20 +1,25 @@
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <output_directory> <derived_qrels_directory>"
+    exit 1
+fi
+
 # To run this script, you need to set all of these paths correctly
 # and you need to make the output directories.
-ADHOC_OUT_DIR="/project/6003284/smucker/group-data/trec/resources22/run-summaries/retrieval"
-AP_OUT_DIR="/project/6003284/smucker/group-data/trec/resources22/run-summaries/prediction"
+ADHOC_OUT_DIR="$1"
+#AP_OUT_DIR="/project/6003284/smucker/group-data/trec/resources22/run-summaries/prediction"
 
 # directories with the runs to evaluate
-ADHOC="/project/6003284/smucker/group-data/trec/resources22/runs/retrieval"
-PREDICTION="/project/6003284/smucker/group-data/trec/resources22/runs/prediction"
+ADHOC="resources/participant_runs/2022"
+#PREDICTION="/project/6003284/smucker/group-data/trec/resources22/runs/prediction"
 
-QRELS="../qrels/2022-derived-qrels"
-TOPICS="../topics/misinfo-2022-topics.txt"
+QRELS="$2"
+TOPICS="misinfo-resources-2022/topics/misinfo-2022-topics.txt"
 
 # extended trec_eval: https://github.com/lcschv/Trec_eval_extension
-trec_eval="../Trec_eval_extension/Trec_eval_extension/trec_eval"
+trec_eval="misinfo-resources-2022/scripts/trec_eval"
 # https://github.com/trec-health-misinfo/Compatibility
-compatibility="../Compatibility/compatibility.py"
-ap_evaluation="./answer_prediction_evaluation.py"
+compatibility="misinfo-resources-2022/scripts/compatibility.py"
+#ap_evaluation="./answer_prediction_evaluation.py"
 
 ############ Config section above ends.  You should not need to edit anything below here. ###############
 
@@ -75,12 +80,12 @@ do
 
 done
 
-for RUN_FULL_PATH in $PREDICTION/*
-do
-    RUN_NAME=`basename $RUN_FULL_PATH`
-    SUMMARY="$AP_OUT_DIR/$RUN_NAME.summary"
-    printf "run\tmeasure\tscore\n" > $SUMMARY
+#for RUN_FULL_PATH in $PREDICTION/*
+#do
+#    RUN_NAME=`basename $RUN_FULL_PATH`
+#     SUMMARY="$AP_OUT_DIR/$RUN_NAME.summary"
+#     printf "run\tmeasure\tscore\n" > $SUMMARY
 
-    python $ap_evaluation -t $TOPICS -r $RUN_FULL_PATH >> $SUMMARY
+#     python $ap_evaluation -t $TOPICS -r $RUN_FULL_PATH >> $SUMMARY
 
-done
+# done
