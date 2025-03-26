@@ -65,12 +65,12 @@ do
 
     # $trec_eval -q -c -M 1000 -m cam_map_three -R qrels_threeaspects $QRELS/misinfo-qrels.3aspects $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "3aspects" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
 
-    $trec_eval -q -c -M 1000 -m ndcg -R qrels $QRELS/misinfo-qrels.graded-usefulness $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "graded.usefulness" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
+    #$trec_eval -q -c -M 1000 -m ndcg -R qrels $QRELS/misinfo-qrels.graded-usefulness $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "graded.usefulness" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
 
-    $trec_eval -q -c -M 1000 -m P.10 -R qrels $QRELS/misinfo-qrels.binary-useful-correct $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.useful-correct" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
-    $trec_eval -q -c -M 1000 -m P.10 -R qrels $QRELS/misinfo-qrels.binary-incorrect $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.incorrect" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
+    #$trec_eval -q -c -M 1000 -m P.10 -R qrels $QRELS/misinfo-qrels.binary-useful-correct $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.useful-correct" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
+    #trec_eval -q -c -M 1000 -m P.10 -R qrels $QRELS/misinfo-qrels.binary-incorrect $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.incorrect" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
 
-    $trec_eval -q -c -M 1000 -m ndcg -R qrels $QRELS/misinfo-qrels.binary-useful-correct $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.useful-correct" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
+    #$trec_eval -q -c -M 1000 -m ndcg -R qrels $QRELS/misinfo-qrels.binary-useful-correct $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.useful-correct" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
     # $trec_eval -q -c -M 1000 -m ndcg -R qrels $QRELS/misinfo-qrels-binary.useful-credible $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.useful-credible" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
     # $trec_eval -q -c -M 1000 -m ndcg -R qrels $QRELS/misinfo-qrels-binary.useful-correct-credible $RUN_FULL_PATH | gawk '{print "'$RUN_NAME'" "\t" "binary.useful-correct-credible" "\t" $1 "\t" $2 "\t" $3}' >> $SUMMARY
 

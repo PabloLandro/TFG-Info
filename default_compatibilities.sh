@@ -18,9 +18,37 @@ conda activate myTrecEnv
 export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
 
+
+f [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <qrel_file> <year>"
+    exit 1
+fi
+
 QRELS=$1
-TOPICS=$(realpath "misinfo-resources-2021/misinfo-2021-topics.xml")
-PARTICIPANT_RUNS_DIR=$(realpath "resources/participant_runs")
+YEAR=$2
+
+# Set variable based on the year
+case "$YEAR" in
+    2019)
+        TOPICS=""misinfo-resources-2019/topics/misinfo-2019-topics.xml""
+        ;;
+    2020)
+        TOPICS="Value for 2020"
+        ;;
+    2021)
+        TOPICS="misinfo-resources-2021/topics/misinfo-2021-topics.xml"
+        ;;
+    2022)
+        TOPICS="misinfo-resources-2022/topics/misinfo-2022-topics.xml"
+        ;;
+    *)
+        echo "Invalid year: $year"
+        echo "Year must be one of: 2019, 2020, 2021, 2022"
+        exit 1
+        ;;
+esac
+
+PARTICIPANT_RUNS_DIR=$(realpath "resources/$YEAR/participant_runs")
 RUN_EVALS_DIR="stats/run_evals"
 
 QRELS_DIR=$(dirname "$QRELS")
@@ -31,15 +59,56 @@ DERIVED_QRELS="${QRELS_DIR}/${QRELS_NAME}_derived"
 rm -r "$DERIVED_QRELS"
 mkdir -p "$DERIVED_QRELS"
 
-bash misinfo-resources-2021/scripts/gen-2021-derived-qrels.sh "$QRELS" "$TOPICS" "$DERIVED_QRELS"
+# GEN DERIVED QRELS
+case "$YEAR" in
+    2019)
+        TOPICS=""misinfo-resources-2019/topics/misinfo-2019-topics.xml""
+        ;;
+    2020)
+        TOPICS="Value for 2020"
+        ;;
+    2021)
+        bash misinfo-resources-2021/scripts/gen-2021-derived-qrels.sh "$QRELS" "$TOPICS" "$DERIVED_QRELS"
+        ;;
+    2022)
+		python misinfo-resources-2022/scripts/gen-qrels-for-compatibility.py --qrels $QRELS --output $DERIVED_QRELS
+        ;;
+    *)
+        echo "Invalid year: $year"
+        echo "Year must be one of: 2019, 2020, 2021, 2022"
+        exit 1
+        ;;
+esac
 
 EVAL_OUT_DIR="${RUN_EVALS_DIR}/${QRELS_NAME}"
 
 find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
 	RUN_NAME=$(basename "$PARTICIPANT_RUN_FILE")
 	mkdir -p "${EVAL_OUT_DIR}/${RUN_NAME}"
-	# Helpful compatibility
-	python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.helpful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/helpful-compatibility.txt"
-	# Harmful compatiblity
-	python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
+
+	# HELPFUL AND HARMFUL COMPATIBILITIES
+	case "$YEAR" in
+    2019)
+        TOPICS=""misinfo-resources-2019/topics/misinfo-2019-topics.xml""
+        ;;
+    2020)
+        TOPICS="Value for 2020"
+        ;;
+    2021)
+        # Helpful compatibility
+		python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.helpful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/helpful-compatibility.txt"
+		# Harmful compatiblity
+		python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
+        ;;
+    2022)
+		python misinfo-resources-2022/scripts/gen-qrels-for-compatibility.py --qrels $QRELS --output $DERIVED_QRELS
+        ;;
+    *)
+        echo "Invalid year: $year"
+        echo "Year must be one of: 2019, 2020, 2021, 2022"
+        exit 1
+        ;;
+esac
+
+	
 done
