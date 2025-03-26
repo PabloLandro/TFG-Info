@@ -1,5 +1,5 @@
 from gpt import evaluate, print_total_tokens
-from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file
+from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file, get_qrels_dict
 from itertools import combinations
 import os, argparse, json, sys
 
@@ -43,12 +43,12 @@ def get_prompt_template_list(featured_prompt_template):
 
 
 # Have this function for checking if a topic_id, doc_id pair was already evaluated
-def is_visited(topic_id, doc_id, exclude_list):
-    if topic_id in exclude_list and doc_id in exclude_list[topic_id]:
+def is_visited(topic_id, doc_id, exclude_dict):
+    if topic_id in exclude_dict and doc_id in exclude_dict[topic_id]:
         return True
     return False
 
-def get_run_list(topic_list, qrels, exclude_list=[]):
+def get_run_list(topic_list, qrels, exclude_dict={}):
     run_list = {}
     print(topic_list)
     if len(topic_list) == 1 and topic_list[0] == "all":
@@ -57,7 +57,7 @@ def get_run_list(topic_list, qrels, exclude_list=[]):
     for topic_id in topic_list:
         run_list[topic_id] = []
         for doc_id in qrels[topic_id]:
-            if is_visited(topic_id, doc_id, exclude_list):
+            if is_visited(topic_id, doc_id, exclude_dict):
                 continue
             run_list[topic_id].append(doc_id)
     return run_list
@@ -106,20 +106,6 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
                 print(f"Writing to {output}")
                 write_run_to_file(file, topic_id, doc_id, run)
 
-# Gives a run_list to run the same (topic,doc) pairs as another runs folder
-def copy_run_list_from_file(file):
-    run_list = {}
-    try:
-        with open(file, "r") as file:
-            for line in file:
-                topic_id, _, doc_id, _, _, _ = line.split()
-                if topic_id not in run_list:
-                    run_list[topic_id] = []
-                run_list[topic_id].append(doc_id)
-    except FileNotFoundError:
-        print(f"Error: The file '{file}' does not exist, couldn´t copy run list from file.")
-    return run_list
-
 def print_not_found_docs():
     global not_found_list
     print("The following docs where not found in the indexes")
@@ -139,15 +125,15 @@ def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, 
             continue
         print("Evaluating", file_name)
         path = os.path.join(output_dir, file_name)
-        exclude_list = copy_run_list_from_file(path)
-        print("Exclude list:")
-        print(exclude_list)
-        run_list = get_run_list(topic_list, qrels, exclude_list=exclude_list)
+        exclude_dict = get_qrels_dict(path, skip_unuseful=False)
+        print("Exclude dict:")
+        print(exclude_dict)
+        run_list = get_run_list(topic_list, qrels, exclude_dict=exclude_dict)
         run_run_list(prompt_template, run_list, path, topics, searcher, no_evaluate=no_evaluate)
 
 def get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, output_file, topic_list, no_evaluate=False):
-    exclude_list = copy_run_list_from_file(output_file)
-    run_list = get_run_list(topic_list, qrels, exclude_list)
+    exclude_dict = get_qrels_dict(output_file, skip_unuseful=False)
+    run_list = get_run_list(topic_list, qrels, exclude_dict)
     run_run_list(prompt_template, run_list, output_file, topics, searcher, no_evaluate=no_evaluate)
 
 
