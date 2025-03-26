@@ -1,6 +1,14 @@
-import os, sys
+import os, sys, re
 import xml.etree.ElementTree as ET
 from pyserini.search.lucene import LuceneSearcher
+
+YEAR = 2021
+
+def set_year(year):
+    global YEAR
+    if year not in [2019, 2020, 2021, 2022]:
+        raise Exception("Incorrect year")
+    YEAR = year
 
 QRELS_2019=os.path.join("misinfo-resources-2019", "qrels", "qrels_raw")
 QRELS_2020=os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels")
@@ -19,39 +27,35 @@ INDEX_2020=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C
 INDEX_2021=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
 INDEX_2022=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
 
-def get_year_aux(year):
-    if year == 2019:
+def get_year_aux():
+    if YEAR == 2019:
         return QRELS_2019, TOPICS_2019, INDEX_2019
-    if year == 2020:
+    if YEAR == 2020:
         return QRELS_2020, TOPICS_2020, INDEX_2020
-    if year == 2021:
+    if YEAR == 2021:
         return QRELS_2021, TOPICS_2021, INDEX_2021
-    if year == 2022:
+    if YEAR == 2022:
         return QRELS_2022, TOPICS_2022, INDEX_2022
-    print(f"ERROR, incorrect year {year}")
-    sys.exit()
 
-def get_year_aux_usefulness(year):
-    if year == 2019:
+def get_year_aux_usefulness():
+    if YEAR == 2019:
         return QRELS_2019
-    if year == 2020:
+    if YEAR == 2020:
         return QRELS_2020
-    if year == 2021:
+    if YEAR == 2021:
         return QRELS_2021_graded_usefulness
-    if year == 2022:
+    if YEAR == 2022:
         return QRELS_2022
-    print(f"ERROR, incorrect year {year}")
-    sys.exit()
     
-def get_year_data(year, with_graded_usefulness=False):
-    qrels_file, topics_file, index_dir = get_year_aux(year)
+def get_year_data(with_graded_usefulness=False):
+    qrels_file, topics_file, index_dir = get_year_aux()
     qrels = {}
     if with_graded_usefulness:
-        qrels1 = get_qrels_dict(qrels_file, year)
-        qrels2 = get_qrels_dict(get_year_aux_usefulness(year), year, skip_unuseful=False)
+        qrels1 = get_qrels_dict(qrels_file)
+        qrels2 = get_qrels_dict(get_year_aux_usefulness(), skip_unuseful=False)
         qrels = merge_qrels(qrels1, qrels2)
     else:
-        qrels = get_qrels_dict(qrels_file, year)
+        qrels = get_qrels_dict(qrels_file)
     topics = get_topics_dict(topics_file)
     searcher = LuceneSearcher(index_dir)
     return qrels,topics,searcher
@@ -101,7 +105,7 @@ def merge_doc_runs(doc_run1, doc_run2):
 def unpack_split(parts, n=6):
     return (parts + [None] * n)[:n]
 
-def read_line_from_qrel(line, year):
+def read_line_from_qrel(line):
     # Define parsing functions for each year
     def parse_2019(line):
         topic_id,_,doc_id,u,s,cr = unpack_split(line.split(), n=6)
@@ -133,18 +137,16 @@ def read_line_from_qrel(line, year):
     }
 
     # Get the parser for the given year
-    parser = year_parsers.get(year)
-    if parser is None:
-        raise ValueError(f"Unsupported year format: {year}")
+    parser = year_parsers.get(YEAR)
 
     # Parse the line using the appropriate parser
     return parser(line)
 
-def get_qrels_dict(qrels_file, year, skip_unuseful=True):
+def get_qrels_dict(qrels_file, skip_unuseful=True):
     qrels = {}
     with open(qrels_file, "r") as file:
         for line in file:
-            doc_run = read_line_from_qrel(line, year)
+            doc_run = read_line_from_qrel(line)
             if doc_run["u"] <= 0 and skip_unuseful:
                 continue
             if doc_run["topic_id"] not in qrels:
@@ -195,3 +197,52 @@ def get_topics_dict(topics_file):
             topics[topic_id]["narrative"] = topic.find("background").text
 
     return topics
+
+def read_gpt_output(gpt_line):
+
+    if YEAR == 2019:
+        output_format = r'^R=(0|1|2) E=(0|1|2|3) C=(0|1)$'
+        if not bool(re.match(output_format,gpt_line)):
+            raise Exception(f"Error: Format of response invalid: {gpt_line}")
+        matches = re.findall(r"(R|E|C)=(|0|1|2|3)", gpt_line)
+        out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
+        print(out)
+        return out
+
+    if YEAR == 2021:
+        output_format = r'^U=(0|1|2) S=(0|1|2) C=(0|1|2)$'
+        if not bool(re.match(output_format,gpt_line)):
+            raise Exception(f"Error: Format of response invalid: {gpt_line}")
+        matches = re.findall(r"(U|S|C)=(-1|0|1|2)", gpt_line)
+        out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
+        print(out)
+        return out
+    
+    if YEAR == 2021:
+        output_format = r'^U=(0|1|2) A=(0|1|2)$'
+        if not bool(re.match(output_format,gpt_line)):
+            raise Exception(f"Error: Format of response invalid: {gpt_line}")
+        matches = re.findall(r"(U|A)=(0|1|2)", gpt_line)
+        out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
+        print(out)
+        return out
+    
+def write_run_to_file(file, topic_id, doc_id, run):
+
+    if YEAR == 2019:
+        write = f'{topic_id} 0 {doc_id} {run["r"]} {run["e"]} {run["cr"]}\n'
+        file.write(write)
+        print(f"writing: {write}")
+        return
+
+    if YEAR == 2021:
+        write = f'{topic_id} 0 {doc_id} {run["u"]} {run["s"]} {run["cr"]}\n'
+        file.write(write)
+        print(f"write{write}")
+        return
+
+    if YEAR == 2022:
+        write = f'{topic_id} {doc_id} {run["u"]} {run["a"]}\n'
+        file.write(f'{topic_id} {doc_id} {run["u"]} {run["a"]}\n')
+        print(f"write{write}")
+        return

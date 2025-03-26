@@ -1,4 +1,4 @@
-import os, requests, re, sys
+import os, requests
 
 from dotenv import load_dotenv
 
@@ -43,35 +43,26 @@ def fill_prompt(query, description, narrative, doc, prompt_template):
 def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=True):    
     global total_tokens
 
-    try:
-        # Replace the fields in the template
-        prompt = fill_prompt(query, description, narrative, doc, prompt_template)
-        if total_tokens == 0:
-            print(prompt)
-        total_tokens += len(encoding.encode(prompt))
-        if no_evaluate:
-            return None
-        print("Sending request")
+    # Replace the fields in the template
+    prompt = fill_prompt(query, description, narrative, doc, prompt_template)
+    if total_tokens == 0:
+        print(prompt)
+    total_tokens += len(encoding.encode(prompt))
+    if no_evaluate:
+        return None
+    print("Sending request")
 
-        # Add a message to the payload
-        payload["messages"] = [{"role": "user", "content": prompt}]
+    # Add a message to the payload
+    payload["messages"] = [{"role": "user", "content": prompt}]
 
-        # Make a POST request to the API endpoint
-        response = requests.post(api_url, headers=headers, json=payload)
+    # Make a POST request to the API endpoint
+    response = requests.post(api_url, headers=headers, json=payload)
 
-        # Check if the request was successful
-        if response.status_code == 200:
-            response_content = response.json()['choices'][0]['message']['content']
-            output_format = r'^U=(0|1|2) S=(0|1|2) C=(0|1|2)$'
-            if not bool(re.match(output_format,response_content)):
-                raise Exception(f"Error: Format of response invalid: {response_content}")
-                sys.exit()
-            matches = re.findall(r"(U|S|C)=(-1|0|1|2)", response_content)
-            out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
-            print(out)
-            return out
-        else:
-            # Handle error responses
-            raise Exception(f"Error: {response.status_code} - {response.text}")
-    except Exception as e:
-        print(f"Error in gpt.py: {e}")
+    # Check if the request was successful
+    if response.status_code == 200:
+        response_content = response.json()['choices'][0]['message']['content']
+        print(response_content)
+        return response_content
+    else:
+        # Handle error responses
+        raise Exception(f"Error: {response.status_code} - {response.text}")

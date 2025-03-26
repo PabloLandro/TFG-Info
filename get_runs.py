@@ -1,5 +1,5 @@
 from gpt import evaluate, print_total_tokens
-from trec_utils import get_year_data
+from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file
 from itertools import combinations
 import os, argparse, json, sys
 
@@ -99,10 +99,11 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
                 if (prompt_template in history[topic_id][doc_id]):
                     print("Fatal error, repeated (topic_id, doc_id, prompt_template) run, should revise code", topic_id, doc_id, prompt_template)
                 history[topic_id][doc_id][prompt_template] = True
-                run = evaluate(topics[topic_id]["query"], topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
+                gpt_output = evaluate(topics[topic_id]["query"], topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
+                run = read_gpt_output(gpt_output)
                 if run is not None:
                     print(f"Writing to {output}")
-                    file.write(f'{topic_id} 0 {doc_id} {run["u"]} {run["s"]} {run["cr"]}\n')
+                    write_run_to_file(file, topic_id, doc_id, run)
 
 # Gives a run_list to run the same (topic,doc) pairs as another runs folder
 def copy_run_list_from_file(file):
@@ -215,7 +216,9 @@ if __name__ == "__main__":
 
     check_args(parser, args)
 
-    qrels, topics, searcher = get_year_data(args.year)
+    set_year(args.year)
+
+    qrels, topics, searcher = get_year_data()
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
