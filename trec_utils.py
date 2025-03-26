@@ -204,7 +204,7 @@ def read_gpt_output(gpt_line):
         output_format = r'^R=(0|1|2) E=(0|1|2|3) C=(0|1)$'
         if not bool(re.match(output_format,gpt_line)):
             raise Exception(f"Error: Format of response invalid: {gpt_line}")
-        matches = re.findall(r"(R|E|C)=(|0|1|2|3)", gpt_line)
+        matches = re.findall(r"(R|E|C)=(0|1|2|3)", gpt_line)
         out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
         print(out)
         return out
@@ -218,7 +218,7 @@ def read_gpt_output(gpt_line):
         print(out)
         return out
     
-    if YEAR == 2021:
+    if YEAR == 2022:
         output_format = r'^U=(0|1|2) A=(0|1|2)$'
         if not bool(re.match(output_format,gpt_line)):
             raise Exception(f"Error: Format of response invalid: {gpt_line}")
