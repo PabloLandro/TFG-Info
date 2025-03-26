@@ -99,15 +99,15 @@ def merge_doc_runs(doc_run1, doc_run2):
 # para lo que tenemos que crear una función que lo handlee
 
 def unpack_split(parts, n=6):
-    return (parts + [None] * 6)[:6]
+    return (parts + [None] * n)[:n]
 
 def read_line_from_qrel(line, year):
     # Define parsing functions for each year
     def parse_2019(line):
-        topic_id,_,doc_id,u,s,cr = unpack_split(line.split())
+        topic_id,_,doc_id,u,s,cr = unpack_split(line.split(), n=6)
         aux = {"topic_id": topic_id, "doc_id": doc_id, "u": u, "s": s, "cr": cr}
         preprocess_run(aux)
-        return None
+        return aux
 
     def parse_2020(line):
         return None
@@ -119,10 +119,10 @@ def read_line_from_qrel(line, year):
         return aux
 
     def parse_2022(line):
-        topic_id,doc_id,u,s = unpack_split(line.split())
+        topic_id,doc_id,u,s = unpack_split(line.split(), n=4)
         aux = {"topic_id": topic_id, "doc_id": doc_id, "u": u, "s": s, "cr": None}
         preprocess_run(aux)
-        return None
+        return aux
 
     # Map years to their corresponding parsers
     year_parsers = {
