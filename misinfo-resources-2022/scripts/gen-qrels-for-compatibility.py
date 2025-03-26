@@ -22,10 +22,10 @@ UNJUDGED: Final[int] = -1
 # %% read prefs
 parser = argparse.ArgumentParser()
 
-parser.add_argument('--qrels', default="qrels/qrels.final.oct-19-2022")
-parser.add_argument('--topics', default="topics/misinfo-2022-topics.xml")
-parser.add_argument('--prefs', default="qrels/trec2022_act26_v2.csv")
-parser.add_argument('--output', default="qrels/2022-derived-qrels/misinfo-qrels")
+parser.add_argument('--qrels', default="misinfo-resources-2022/qrels/qrels.final.oct-19-2022")
+parser.add_argument('--topics', default="misinfo-resources-2022/topics/misinfo-2022-topics.xml")
+parser.add_argument('--prefs', default="misinfo-resources-2022/qrels/trec2022_act26_v2.csv")
+parser.add_argument('--output', default="misinfo-resources-2022/qrels/2022-derived-qrels/misinfo-qrels")
 
 args = parser.parse_known_args()
 
