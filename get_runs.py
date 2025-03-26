@@ -101,9 +101,10 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
                 history[topic_id][doc_id][prompt_template] = True
                 gpt_output = evaluate(topics[topic_id]["query"], topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
                 run = read_gpt_output(gpt_output)
-                if run is not None:
-                    print(f"Writing to {output}")
-                    write_run_to_file(file, topic_id, doc_id, run)
+                if run is None:
+                    raise Exception("None run")
+                print(f"Writing to {output}")
+                write_run_to_file(file, topic_id, doc_id, run)
 
 # Gives a run_list to run the same (topic,doc) pairs as another runs folder
 def copy_run_list_from_file(file):
