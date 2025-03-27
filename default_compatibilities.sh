@@ -90,7 +90,7 @@ case "$YEAR" in
         bash misinfo-resources-2021/scripts/gen-2021-derived-qrels.sh "$QRELS" "$TOPICS" "$DERIVED_QRELS"
         ;;
     2022)
-		python misinfo-resources-2022/scripts/gen-qrels-for-compatibility.py --qrels $QRELS --output $DERIVED_QRELS
+		python misinfo-resources-2022/scripts/gen-qrels-for-compatibility.py --qrels $QRELS --output $DERIVED_QRELS/misinfo-qrels
         ;;
     *)
         echo "Invalid year: $year"
@@ -120,7 +120,7 @@ find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
 		python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
         ;;
     2022)
-		python misinfo-resources-2022/scripts/gen-qrels-for-compatibility.py --qrels $QRELS --output $DERIVED_QRELS
+		python misinfo-resources-2022/scripts/run-eval.sh  $QRELS
         ;;
     *)
         echo "Invalid year: $year"
