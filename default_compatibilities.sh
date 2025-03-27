@@ -101,12 +101,9 @@ esac
 
 EVAL_OUT_DIR="${RUN_EVALS_DIR}/${QRELS_NAME}"
 
-find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
-	RUN_NAME=$(basename "$PARTICIPANT_RUN_FILE")
-	mkdir -p "${EVAL_OUT_DIR}/${RUN_NAME}"
 
-	# HELPFUL AND HARMFUL COMPATIBILITIES
-	case "$YEAR" in
+# HELPFUL AND HARMFUL COMPATIBILITIES
+case "$YEAR" in
     2019)
         TOPICS=""misinfo-resources-2019/topics/misinfo-2019-topics.xml""
         ;;
@@ -114,13 +111,16 @@ find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
         TOPICS="Value for 2020"
         ;;
     2021)
+        find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
+        RUN_NAME=$(basename "$PARTICIPANT_RUN_FILE")
+        mkdir -p "${EVAL_OUT_DIR}/${RUN_NAME}"
         # Helpful compatibility
-		python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.helpful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/helpful-compatibility.txt"
-		# Harmful compatiblity
-		python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
+        python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.helpful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/helpful-compatibility.txt"
+        # Harmful compatiblity
+        python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
         ;;
     2022)
-		python misinfo-resources-2022/scripts/run-eval.sh  $QRELS
+		python misinfo-resources-2022/scripts/run-eval.sh  $PARTICIPANT_RUNS_DIR $DERIVED_QRELS
         ;;
     *)
         echo "Invalid year: $year"
@@ -128,6 +128,8 @@ find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
         exit 1
         ;;
 esac
+
+
 
 	
 done
