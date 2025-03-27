@@ -1,0 +1,263 @@
+run	qrels	measure	topic	score
+input.hm22.vera	graded.usefulness	ndcg	151	0.4348
+input.hm22.vera	graded.usefulness	ndcg	152	0.3191
+input.hm22.vera	graded.usefulness	ndcg	153	0.5906
+input.hm22.vera	graded.usefulness	ndcg	154	0.7297
+input.hm22.vera	graded.usefulness	ndcg	155	0.7373
+input.hm22.vera	graded.usefulness	ndcg	156	0.7249
+input.hm22.vera	graded.usefulness	ndcg	157	0.6613
+input.hm22.vera	graded.usefulness	ndcg	158	0.6469
+input.hm22.vera	graded.usefulness	ndcg	159	0.6628
+input.hm22.vera	graded.usefulness	ndcg	160	0.8190
+input.hm22.vera	graded.usefulness	ndcg	161	0.7607
+input.hm22.vera	graded.usefulness	ndcg	162	0.8226
+input.hm22.vera	graded.usefulness	ndcg	163	0.6666
+input.hm22.vera	graded.usefulness	ndcg	164	0.7214
+input.hm22.vera	graded.usefulness	ndcg	165	0.2268
+input.hm22.vera	graded.usefulness	ndcg	167	0.5683
+input.hm22.vera	graded.usefulness	ndcg	168	0.5591
+input.hm22.vera	graded.usefulness	ndcg	170	0.6277
+input.hm22.vera	graded.usefulness	ndcg	171	0.6235
+input.hm22.vera	graded.usefulness	ndcg	173	0.6779
+input.hm22.vera	graded.usefulness	ndcg	174	0.6870
+input.hm22.vera	graded.usefulness	ndcg	175	0.6540
+input.hm22.vera	graded.usefulness	ndcg	176	0.6748
+input.hm22.vera	graded.usefulness	ndcg	177	0.7612
+input.hm22.vera	graded.usefulness	ndcg	178	0.7638
+input.hm22.vera	graded.usefulness	ndcg	179	0.6293
+input.hm22.vera	graded.usefulness	ndcg	180	0.5375
+input.hm22.vera	graded.usefulness	ndcg	181	0.4538
+input.hm22.vera	graded.usefulness	ndcg	182	0.2832
+input.hm22.vera	graded.usefulness	ndcg	183	0.8289
+input.hm22.vera	graded.usefulness	ndcg	184	0.6794
+input.hm22.vera	graded.usefulness	ndcg	185	0.5991
+input.hm22.vera	graded.usefulness	ndcg	186	0.6399
+input.hm22.vera	graded.usefulness	ndcg	187	0.7413
+input.hm22.vera	graded.usefulness	ndcg	188	0.6592
+input.hm22.vera	graded.usefulness	ndcg	189	0.2307
+input.hm22.vera	graded.usefulness	ndcg	190	0.7346
+input.hm22.vera	graded.usefulness	ndcg	191	0.6856
+input.hm22.vera	graded.usefulness	ndcg	192	0.6366
+input.hm22.vera	graded.usefulness	ndcg	193	0.7177
+input.hm22.vera	graded.usefulness	ndcg	194	0.7010
+input.hm22.vera	graded.usefulness	ndcg	195	0.7372
+input.hm22.vera	graded.usefulness	ndcg	197	0.7072
+input.hm22.vera	graded.usefulness	ndcg	199	0.7006
+input.hm22.vera	graded.usefulness	ndcg	200	0.5855
+input.hm22.vera	graded.usefulness	ndcg	all	0.6358
+input.hm22.vera	binary.useful-correct	P_10	151	0.0000
+input.hm22.vera	binary.useful-correct	P_10	152	0.0000
+input.hm22.vera	binary.useful-correct	P_10	153	0.0000
+input.hm22.vera	binary.useful-correct	P_10	154	0.8000
+input.hm22.vera	binary.useful-correct	P_10	155	0.2000
+input.hm22.vera	binary.useful-correct	P_10	156	1.0000
+input.hm22.vera	binary.useful-correct	P_10	157	0.3000
+input.hm22.vera	binary.useful-correct	P_10	158	0.2000
+input.hm22.vera	binary.useful-correct	P_10	159	0.0000
+input.hm22.vera	binary.useful-correct	P_10	160	1.0000
+input.hm22.vera	binary.useful-correct	P_10	161	1.0000
+input.hm22.vera	binary.useful-correct	P_10	162	1.0000
+input.hm22.vera	binary.useful-correct	P_10	163	0.5000
+input.hm22.vera	binary.useful-correct	P_10	164	0.9000
+input.hm22.vera	binary.useful-correct	P_10	165	0.3000
+input.hm22.vera	binary.useful-correct	P_10	167	0.9000
+input.hm22.vera	binary.useful-correct	P_10	168	0.4000
+input.hm22.vera	binary.useful-correct	P_10	170	0.0000
+input.hm22.vera	binary.useful-correct	P_10	171	0.8000
+input.hm22.vera	binary.useful-correct	P_10	173	0.0000
+input.hm22.vera	binary.useful-correct	P_10	174	0.7000
+input.hm22.vera	binary.useful-correct	P_10	175	0.8000
+input.hm22.vera	binary.useful-correct	P_10	176	0.8000
+input.hm22.vera	binary.useful-correct	P_10	177	0.9000
+input.hm22.vera	binary.useful-correct	P_10	178	0.9000
+input.hm22.vera	binary.useful-correct	P_10	179	0.9000
+input.hm22.vera	binary.useful-correct	P_10	180	0.5000
+input.hm22.vera	binary.useful-correct	P_10	181	0.0000
+input.hm22.vera	binary.useful-correct	P_10	182	0.1000
+input.hm22.vera	binary.useful-correct	P_10	183	1.0000
+input.hm22.vera	binary.useful-correct	P_10	184	0.7000
+input.hm22.vera	binary.useful-correct	P_10	185	0.8000
+input.hm22.vera	binary.useful-correct	P_10	186	0.3000
+input.hm22.vera	binary.useful-correct	P_10	187	1.0000
+input.hm22.vera	binary.useful-correct	P_10	188	0.8000
+input.hm22.vera	binary.useful-correct	P_10	189	0.0000
+input.hm22.vera	binary.useful-correct	P_10	190	0.6000
+input.hm22.vera	binary.useful-correct	P_10	191	1.0000
+input.hm22.vera	binary.useful-correct	P_10	192	0.8000
+input.hm22.vera	binary.useful-correct	P_10	193	0.9000
+input.hm22.vera	binary.useful-correct	P_10	194	0.9000
+input.hm22.vera	binary.useful-correct	P_10	195	0.9000
+input.hm22.vera	binary.useful-correct	P_10	197	0.7000
+input.hm22.vera	binary.useful-correct	P_10	199	1.0000
+input.hm22.vera	binary.useful-correct	P_10	200	0.5000
+input.hm22.vera	binary.useful-correct	P_10	all	0.5956
+input.hm22.vera	binary.incorrect	P_10	151	0.0000
+input.hm22.vera	binary.incorrect	P_10	152	0.1000
+input.hm22.vera	binary.incorrect	P_10	153	0.3000
+input.hm22.vera	binary.incorrect	P_10	154	0.1000
+input.hm22.vera	binary.incorrect	P_10	155	0.7000
+input.hm22.vera	binary.incorrect	P_10	156	0.0000
+input.hm22.vera	binary.incorrect	P_10	157	0.1000
+input.hm22.vera	binary.incorrect	P_10	158	0.3000
+input.hm22.vera	binary.incorrect	P_10	159	0.6000
+input.hm22.vera	binary.incorrect	P_10	160	0.0000
+input.hm22.vera	binary.incorrect	P_10	161	0.0000
+input.hm22.vera	binary.incorrect	P_10	162	0.0000
+input.hm22.vera	binary.incorrect	P_10	163	0.0000
+input.hm22.vera	binary.incorrect	P_10	164	0.0000
+input.hm22.vera	binary.incorrect	P_10	167	0.0000
+input.hm22.vera	binary.incorrect	P_10	168	0.0000
+input.hm22.vera	binary.incorrect	P_10	170	0.8000
+input.hm22.vera	binary.incorrect	P_10	173	0.7000
+input.hm22.vera	binary.incorrect	P_10	175	0.0000
+input.hm22.vera	binary.incorrect	P_10	177	0.0000
+input.hm22.vera	binary.incorrect	P_10	178	0.0000
+input.hm22.vera	binary.incorrect	P_10	179	0.0000
+input.hm22.vera	binary.incorrect	P_10	181	0.0000
+input.hm22.vera	binary.incorrect	P_10	183	0.0000
+input.hm22.vera	binary.incorrect	P_10	184	0.2000
+input.hm22.vera	binary.incorrect	P_10	185	0.0000
+input.hm22.vera	binary.incorrect	P_10	186	0.0000
+input.hm22.vera	binary.incorrect	P_10	187	0.0000
+input.hm22.vera	binary.incorrect	P_10	188	0.0000
+input.hm22.vera	binary.incorrect	P_10	189	0.1000
+input.hm22.vera	binary.incorrect	P_10	190	0.0000
+input.hm22.vera	binary.incorrect	P_10	192	0.0000
+input.hm22.vera	binary.incorrect	P_10	193	0.0000
+input.hm22.vera	binary.incorrect	P_10	194	0.0000
+input.hm22.vera	binary.incorrect	P_10	195	0.0000
+input.hm22.vera	binary.incorrect	P_10	197	0.1000
+input.hm22.vera	binary.incorrect	P_10	199	0.0000
+input.hm22.vera	binary.incorrect	P_10	all	0.1108
+input.hm22.vera	binary.useful-correct	ndcg	151	0.3919
+input.hm22.vera	binary.useful-correct	ndcg	152	0.1670
+input.hm22.vera	binary.useful-correct	ndcg	153	0.2046
+input.hm22.vera	binary.useful-correct	ndcg	154	0.6347
+input.hm22.vera	binary.useful-correct	ndcg	155	0.3933
+input.hm22.vera	binary.useful-correct	ndcg	156	0.7296
+input.hm22.vera	binary.useful-correct	ndcg	157	0.5719
+input.hm22.vera	binary.useful-correct	ndcg	158	0.4519
+input.hm22.vera	binary.useful-correct	ndcg	159	0.4013
+input.hm22.vera	binary.useful-correct	ndcg	160	0.8330
+input.hm22.vera	binary.useful-correct	ndcg	161	0.8950
+input.hm22.vera	binary.useful-correct	ndcg	162	0.8309
+input.hm22.vera	binary.useful-correct	ndcg	163	0.7805
+input.hm22.vera	binary.useful-correct	ndcg	164	0.8720
+input.hm22.vera	binary.useful-correct	ndcg	165	0.2225
+input.hm22.vera	binary.useful-correct	ndcg	167	0.6717
+input.hm22.vera	binary.useful-correct	ndcg	168	0.6078
+input.hm22.vera	binary.useful-correct	ndcg	170	0.2316
+input.hm22.vera	binary.useful-correct	ndcg	171	0.6675
+input.hm22.vera	binary.useful-correct	ndcg	173	0.5684
+input.hm22.vera	binary.useful-correct	ndcg	174	0.7589
+input.hm22.vera	binary.useful-correct	ndcg	175	0.7053
+input.hm22.vera	binary.useful-correct	ndcg	176	0.7182
+input.hm22.vera	binary.useful-correct	ndcg	177	0.8571
+input.hm22.vera	binary.useful-correct	ndcg	178	0.8173
+input.hm22.vera	binary.useful-correct	ndcg	179	0.8050
+input.hm22.vera	binary.useful-correct	ndcg	180	0.5486
+input.hm22.vera	binary.useful-correct	ndcg	181	0.4677
+input.hm22.vera	binary.useful-correct	ndcg	182	0.2998
+input.hm22.vera	binary.useful-correct	ndcg	183	0.8636
+input.hm22.vera	binary.useful-correct	ndcg	184	0.7767
+input.hm22.vera	binary.useful-correct	ndcg	185	0.7050
+input.hm22.vera	binary.useful-correct	ndcg	186	0.6289
+input.hm22.vera	binary.useful-correct	ndcg	187	0.8177
+input.hm22.vera	binary.useful-correct	ndcg	188	0.7889
+input.hm22.vera	binary.useful-correct	ndcg	189	0.0487
+input.hm22.vera	binary.useful-correct	ndcg	190	0.7757
+input.hm22.vera	binary.useful-correct	ndcg	191	0.7518
+input.hm22.vera	binary.useful-correct	ndcg	192	0.7867
+input.hm22.vera	binary.useful-correct	ndcg	193	0.7840
+input.hm22.vera	binary.useful-correct	ndcg	194	0.7623
+input.hm22.vera	binary.useful-correct	ndcg	195	0.7713
+input.hm22.vera	binary.useful-correct	ndcg	197	0.7593
+input.hm22.vera	binary.useful-correct	ndcg	199	0.7854
+input.hm22.vera	binary.useful-correct	ndcg	200	0.6445
+input.hm22.vera	binary.useful-correct	ndcg	all	0.6346
+input.hm22.vera	graded.harmful-only	runid,topic,compatibility		
+input.hm22.vera	graded.harmful-only	hm22.vera,151,7.609843755226778e-17		
+input.hm22.vera	graded.harmful-only	hm22.vera,152,0.04383774221164654		
+input.hm22.vera	graded.harmful-only	hm22.vera,153,0.26716675353759234		
+input.hm22.vera	graded.harmful-only	hm22.vera,154,0.05841722148430119		
+input.hm22.vera	graded.harmful-only	hm22.vera,155,0.5890660977135679		
+input.hm22.vera	graded.harmful-only	hm22.vera,156,4.4389687334692914e-26		
+input.hm22.vera	graded.harmful-only	hm22.vera,157,0.43685165675194315		
+input.hm22.vera	graded.harmful-only	hm22.vera,158,0.11137047159337195		
+input.hm22.vera	graded.harmful-only	hm22.vera,159,0.06448307404227173		
+input.hm22.vera	graded.harmful-only	hm22.vera,160,1.2830635925314804e-11		
+input.hm22.vera	graded.harmful-only	hm22.vera,161,2.60060653220576e-06		
+input.hm22.vera	graded.harmful-only	hm22.vera,162,3.55198797160073e-25		
+input.hm22.vera	graded.harmful-only	hm22.vera,163,3.8729316877796576e-18		
+input.hm22.vera	graded.harmful-only	hm22.vera,164,0.004666977687057616		
+input.hm22.vera	graded.harmful-only	hm22.vera,167,1.784264058878768e-21		
+input.hm22.vera	graded.harmful-only	hm22.vera,168,0.004959134813400244		
+input.hm22.vera	graded.harmful-only	hm22.vera,170,0.4961917862161556		
+input.hm22.vera	graded.harmful-only	hm22.vera,173,0.7150582721149518		
+input.hm22.vera	graded.harmful-only	hm22.vera,175,3.266377716223508e-25		
+input.hm22.vera	graded.harmful-only	hm22.vera,177,7.150430586526226e-07		
+input.hm22.vera	graded.harmful-only	hm22.vera,178,5.874176130877006e-14		
+input.hm22.vera	graded.harmful-only	hm22.vera,179,0.017399863472764145		
+input.hm22.vera	graded.harmful-only	hm22.vera,181,9.115350041162296e-23		
+input.hm22.vera	graded.harmful-only	hm22.vera,183,1.6010249229014005e-20		
+input.hm22.vera	graded.harmful-only	hm22.vera,184,0.11680944907551985		
+input.hm22.vera	graded.harmful-only	hm22.vera,185,1.475520601132838e-24		
+input.hm22.vera	graded.harmful-only	hm22.vera,186,0.01737860859983993		
+input.hm22.vera	graded.harmful-only	hm22.vera,187,0.022322259374544504		
+input.hm22.vera	graded.harmful-only	hm22.vera,188,5.621304384507705e-06		
+input.hm22.vera	graded.harmful-only	hm22.vera,189,0.051196377959826275		
+input.hm22.vera	graded.harmful-only	hm22.vera,190,1.0213300037739751e-21		
+input.hm22.vera	graded.harmful-only	hm22.vera,192,3.073967654880498e-11		
+input.hm22.vera	graded.harmful-only	hm22.vera,193,1.4113452598399383e-22		
+input.hm22.vera	graded.harmful-only	hm22.vera,194,4.438722301622536e-12		
+input.hm22.vera	graded.harmful-only	hm22.vera,195,3.6232739528459956e-22		
+input.hm22.vera	graded.harmful-only	hm22.vera,197,0.1942275874762474		
+input.hm22.vera	graded.harmful-only	hm22.vera,199,8.642797158073784e-26		
+input.hm22.vera	graded.harmful-only	hm22.vera,average,0.0867949262466769		
+input.hm22.vera	graded.helpful-only	runid,topic,compatibility		
+input.hm22.vera	graded.helpful-only	hm22.vera,151,4.444633881271181e-17		
+input.hm22.vera	graded.helpful-only	hm22.vera,152,0.0004444960372812987		
+input.hm22.vera	graded.helpful-only	hm22.vera,153,0.06129611482389986		
+input.hm22.vera	graded.helpful-only	hm22.vera,154,0.7040417531595519		
+input.hm22.vera	graded.helpful-only	hm22.vera,155,0.13527304568395693		
+input.hm22.vera	graded.helpful-only	hm22.vera,156,0.9227899606625063		
+input.hm22.vera	graded.helpful-only	hm22.vera,157,0.1474506171960997		
+input.hm22.vera	graded.helpful-only	hm22.vera,158,0.08613781419164733		
+input.hm22.vera	graded.helpful-only	hm22.vera,159,0.08239014428758117		
+input.hm22.vera	graded.helpful-only	hm22.vera,160,0.31294819135897284		
+input.hm22.vera	graded.helpful-only	hm22.vera,161,0.5192658540416665		
+input.hm22.vera	graded.helpful-only	hm22.vera,162,0.3793951363404409		
+input.hm22.vera	graded.helpful-only	hm22.vera,163,0.23765753814544174		
+input.hm22.vera	graded.helpful-only	hm22.vera,164,0.4765166363509897		
+input.hm22.vera	graded.helpful-only	hm22.vera,165,0.1899286691485622		
+input.hm22.vera	graded.helpful-only	hm22.vera,167,0.3202497300036373		
+input.hm22.vera	graded.helpful-only	hm22.vera,168,0.3930420422156352		
+input.hm22.vera	graded.helpful-only	hm22.vera,170,0.024762891730017604		
+input.hm22.vera	graded.helpful-only	hm22.vera,171,0.33299712544332644		
+input.hm22.vera	graded.helpful-only	hm22.vera,173,0.026755359032035783		
+input.hm22.vera	graded.helpful-only	hm22.vera,174,0.15665525817804757		
+input.hm22.vera	graded.helpful-only	hm22.vera,175,0.22884734382326344		
+input.hm22.vera	graded.helpful-only	hm22.vera,176,0.3759346589811852		
+input.hm22.vera	graded.helpful-only	hm22.vera,177,0.22313371142566968		
+input.hm22.vera	graded.helpful-only	hm22.vera,178,0.2686672175725165		
+input.hm22.vera	graded.helpful-only	hm22.vera,179,0.5619896977925198		
+input.hm22.vera	graded.helpful-only	hm22.vera,180,0.32474023130800084		
+input.hm22.vera	graded.helpful-only	hm22.vera,181,0.05925951629511315		
+input.hm22.vera	graded.helpful-only	hm22.vera,182,0.036291277870193414		
+input.hm22.vera	graded.helpful-only	hm22.vera,183,0.683179251541599		
+input.hm22.vera	graded.helpful-only	hm22.vera,184,0.6344996205100818		
+input.hm22.vera	graded.helpful-only	hm22.vera,185,0.1441689416930258		
+input.hm22.vera	graded.helpful-only	hm22.vera,186,0.19033677856509384		
+input.hm22.vera	graded.helpful-only	hm22.vera,187,0.20985934613712537		
+input.hm22.vera	graded.helpful-only	hm22.vera,188,0.36864876091780646		
+input.hm22.vera	graded.helpful-only	hm22.vera,189,6.174021306536582e-21		
+input.hm22.vera	graded.helpful-only	hm22.vera,190,0.2404383303596408		
+input.hm22.vera	graded.helpful-only	hm22.vera,191,0.3577109431037755		
+input.hm22.vera	graded.helpful-only	hm22.vera,192,0.34683778289859085		
+input.hm22.vera	graded.helpful-only	hm22.vera,193,0.1367771686579113		
+input.hm22.vera	graded.helpful-only	hm22.vera,194,0.1789137474718599		
+input.hm22.vera	graded.helpful-only	hm22.vera,195,0.3274062233043128		
+input.hm22.vera	graded.helpful-only	hm22.vera,197,0.5710624691507412		
+input.hm22.vera	graded.helpful-only	hm22.vera,199,0.07800911713691733		
+input.hm22.vera	graded.helpful-only	hm22.vera,200,0.0798005449669644		
+input.hm22.vera	graded.helpful-only	hm22.vera,average,0.26970024576700463		

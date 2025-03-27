@@ -1,0 +1,263 @@
+run	qrels	measure	topic	score
+input.WatS-BM25-Query	graded.usefulness	ndcg	151	0.6205
+input.WatS-BM25-Query	graded.usefulness	ndcg	152	0.2315
+input.WatS-BM25-Query	graded.usefulness	ndcg	153	0.6902
+input.WatS-BM25-Query	graded.usefulness	ndcg	154	0.5173
+input.WatS-BM25-Query	graded.usefulness	ndcg	155	0.7120
+input.WatS-BM25-Query	graded.usefulness	ndcg	156	0.6488
+input.WatS-BM25-Query	graded.usefulness	ndcg	157	0.6641
+input.WatS-BM25-Query	graded.usefulness	ndcg	158	0.4601
+input.WatS-BM25-Query	graded.usefulness	ndcg	159	0.7461
+input.WatS-BM25-Query	graded.usefulness	ndcg	160	0.4523
+input.WatS-BM25-Query	graded.usefulness	ndcg	161	0.3665
+input.WatS-BM25-Query	graded.usefulness	ndcg	162	0.8212
+input.WatS-BM25-Query	graded.usefulness	ndcg	163	0.5956
+input.WatS-BM25-Query	graded.usefulness	ndcg	164	0.4920
+input.WatS-BM25-Query	graded.usefulness	ndcg	165	0.0593
+input.WatS-BM25-Query	graded.usefulness	ndcg	167	0.4037
+input.WatS-BM25-Query	graded.usefulness	ndcg	168	0.3357
+input.WatS-BM25-Query	graded.usefulness	ndcg	170	0.5238
+input.WatS-BM25-Query	graded.usefulness	ndcg	171	0.6132
+input.WatS-BM25-Query	graded.usefulness	ndcg	173	0.8588
+input.WatS-BM25-Query	graded.usefulness	ndcg	174	0.7610
+input.WatS-BM25-Query	graded.usefulness	ndcg	175	0.4868
+input.WatS-BM25-Query	graded.usefulness	ndcg	176	0.6567
+input.WatS-BM25-Query	graded.usefulness	ndcg	177	0.6360
+input.WatS-BM25-Query	graded.usefulness	ndcg	178	0.7011
+input.WatS-BM25-Query	graded.usefulness	ndcg	179	0.6777
+input.WatS-BM25-Query	graded.usefulness	ndcg	180	0.4308
+input.WatS-BM25-Query	graded.usefulness	ndcg	181	0.6042
+input.WatS-BM25-Query	graded.usefulness	ndcg	182	0.5377
+input.WatS-BM25-Query	graded.usefulness	ndcg	183	0.2923
+input.WatS-BM25-Query	graded.usefulness	ndcg	184	0.4362
+input.WatS-BM25-Query	graded.usefulness	ndcg	185	0.5994
+input.WatS-BM25-Query	graded.usefulness	ndcg	186	0.6694
+input.WatS-BM25-Query	graded.usefulness	ndcg	187	0.5828
+input.WatS-BM25-Query	graded.usefulness	ndcg	188	0.1200
+input.WatS-BM25-Query	graded.usefulness	ndcg	189	0.4440
+input.WatS-BM25-Query	graded.usefulness	ndcg	190	0.5134
+input.WatS-BM25-Query	graded.usefulness	ndcg	191	0.3968
+input.WatS-BM25-Query	graded.usefulness	ndcg	192	0.5757
+input.WatS-BM25-Query	graded.usefulness	ndcg	193	0.7353
+input.WatS-BM25-Query	graded.usefulness	ndcg	194	0.6804
+input.WatS-BM25-Query	graded.usefulness	ndcg	195	0.5257
+input.WatS-BM25-Query	graded.usefulness	ndcg	197	0.2822
+input.WatS-BM25-Query	graded.usefulness	ndcg	199	0.6306
+input.WatS-BM25-Query	graded.usefulness	ndcg	200	0.5022
+input.WatS-BM25-Query	graded.usefulness	ndcg	all	0.5398
+input.WatS-BM25-Query	binary.useful-correct	P_10	151	0.3000
+input.WatS-BM25-Query	binary.useful-correct	P_10	152	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	153	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	154	0.4000
+input.WatS-BM25-Query	binary.useful-correct	P_10	155	0.3000
+input.WatS-BM25-Query	binary.useful-correct	P_10	156	0.7000
+input.WatS-BM25-Query	binary.useful-correct	P_10	157	0.5000
+input.WatS-BM25-Query	binary.useful-correct	P_10	158	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	159	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	160	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	161	0.1000
+input.WatS-BM25-Query	binary.useful-correct	P_10	162	1.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	163	0.5000
+input.WatS-BM25-Query	binary.useful-correct	P_10	164	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	165	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	167	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	168	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	170	0.3000
+input.WatS-BM25-Query	binary.useful-correct	P_10	171	0.8000
+input.WatS-BM25-Query	binary.useful-correct	P_10	173	0.7000
+input.WatS-BM25-Query	binary.useful-correct	P_10	174	0.8000
+input.WatS-BM25-Query	binary.useful-correct	P_10	175	0.4000
+input.WatS-BM25-Query	binary.useful-correct	P_10	176	0.7000
+input.WatS-BM25-Query	binary.useful-correct	P_10	177	0.3000
+input.WatS-BM25-Query	binary.useful-correct	P_10	178	0.5000
+input.WatS-BM25-Query	binary.useful-correct	P_10	179	0.3000
+input.WatS-BM25-Query	binary.useful-correct	P_10	180	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	181	0.6000
+input.WatS-BM25-Query	binary.useful-correct	P_10	182	0.3000
+input.WatS-BM25-Query	binary.useful-correct	P_10	183	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	184	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	185	1.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	186	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	187	0.8000
+input.WatS-BM25-Query	binary.useful-correct	P_10	188	0.1000
+input.WatS-BM25-Query	binary.useful-correct	P_10	189	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	190	0.5000
+input.WatS-BM25-Query	binary.useful-correct	P_10	191	0.2000
+input.WatS-BM25-Query	binary.useful-correct	P_10	192	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	193	1.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	194	0.8000
+input.WatS-BM25-Query	binary.useful-correct	P_10	195	0.1000
+input.WatS-BM25-Query	binary.useful-correct	P_10	197	0.0000
+input.WatS-BM25-Query	binary.useful-correct	P_10	199	0.9000
+input.WatS-BM25-Query	binary.useful-correct	P_10	200	0.6000
+input.WatS-BM25-Query	binary.useful-correct	P_10	all	0.3756
+input.WatS-BM25-Query	binary.incorrect	P_10	151	0.3000
+input.WatS-BM25-Query	binary.incorrect	P_10	152	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	153	0.6000
+input.WatS-BM25-Query	binary.incorrect	P_10	154	0.3000
+input.WatS-BM25-Query	binary.incorrect	P_10	155	0.3000
+input.WatS-BM25-Query	binary.incorrect	P_10	156	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	157	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	158	0.2000
+input.WatS-BM25-Query	binary.incorrect	P_10	159	0.7000
+input.WatS-BM25-Query	binary.incorrect	P_10	160	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	161	0.1000
+input.WatS-BM25-Query	binary.incorrect	P_10	162	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	163	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	164	0.3000
+input.WatS-BM25-Query	binary.incorrect	P_10	167	0.3000
+input.WatS-BM25-Query	binary.incorrect	P_10	168	0.1000
+input.WatS-BM25-Query	binary.incorrect	P_10	170	0.5000
+input.WatS-BM25-Query	binary.incorrect	P_10	173	0.2000
+input.WatS-BM25-Query	binary.incorrect	P_10	175	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	177	0.1000
+input.WatS-BM25-Query	binary.incorrect	P_10	178	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	179	0.4000
+input.WatS-BM25-Query	binary.incorrect	P_10	181	0.1000
+input.WatS-BM25-Query	binary.incorrect	P_10	183	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	184	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	185	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	186	0.4000
+input.WatS-BM25-Query	binary.incorrect	P_10	187	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	188	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	189	0.3000
+input.WatS-BM25-Query	binary.incorrect	P_10	190	0.1000
+input.WatS-BM25-Query	binary.incorrect	P_10	192	0.3000
+input.WatS-BM25-Query	binary.incorrect	P_10	193	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	194	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	195	0.2000
+input.WatS-BM25-Query	binary.incorrect	P_10	197	0.2000
+input.WatS-BM25-Query	binary.incorrect	P_10	199	0.0000
+input.WatS-BM25-Query	binary.incorrect	P_10	all	0.1622
+input.WatS-BM25-Query	binary.useful-correct	ndcg	151	0.5659
+input.WatS-BM25-Query	binary.useful-correct	ndcg	152	0.0000
+input.WatS-BM25-Query	binary.useful-correct	ndcg	153	0.0781
+input.WatS-BM25-Query	binary.useful-correct	ndcg	154	0.2883
+input.WatS-BM25-Query	binary.useful-correct	ndcg	155	0.5231
+input.WatS-BM25-Query	binary.useful-correct	ndcg	156	0.6517
+input.WatS-BM25-Query	binary.useful-correct	ndcg	157	0.6069
+input.WatS-BM25-Query	binary.useful-correct	ndcg	158	0.3139
+input.WatS-BM25-Query	binary.useful-correct	ndcg	159	0.2588
+input.WatS-BM25-Query	binary.useful-correct	ndcg	160	0.4233
+input.WatS-BM25-Query	binary.useful-correct	ndcg	161	0.4953
+input.WatS-BM25-Query	binary.useful-correct	ndcg	162	0.8343
+input.WatS-BM25-Query	binary.useful-correct	ndcg	163	0.6239
+input.WatS-BM25-Query	binary.useful-correct	ndcg	164	0.4732
+input.WatS-BM25-Query	binary.useful-correct	ndcg	165	0.0553
+input.WatS-BM25-Query	binary.useful-correct	ndcg	167	0.3176
+input.WatS-BM25-Query	binary.useful-correct	ndcg	168	0.1563
+input.WatS-BM25-Query	binary.useful-correct	ndcg	170	0.3806
+input.WatS-BM25-Query	binary.useful-correct	ndcg	171	0.6326
+input.WatS-BM25-Query	binary.useful-correct	ndcg	173	0.8290
+input.WatS-BM25-Query	binary.useful-correct	ndcg	174	0.7902
+input.WatS-BM25-Query	binary.useful-correct	ndcg	175	0.4990
+input.WatS-BM25-Query	binary.useful-correct	ndcg	176	0.6821
+input.WatS-BM25-Query	binary.useful-correct	ndcg	177	0.5420
+input.WatS-BM25-Query	binary.useful-correct	ndcg	178	0.7109
+input.WatS-BM25-Query	binary.useful-correct	ndcg	179	0.6010
+input.WatS-BM25-Query	binary.useful-correct	ndcg	180	0.4573
+input.WatS-BM25-Query	binary.useful-correct	ndcg	181	0.6020
+input.WatS-BM25-Query	binary.useful-correct	ndcg	182	0.5468
+input.WatS-BM25-Query	binary.useful-correct	ndcg	183	0.2945
+input.WatS-BM25-Query	binary.useful-correct	ndcg	184	0.1923
+input.WatS-BM25-Query	binary.useful-correct	ndcg	185	0.5801
+input.WatS-BM25-Query	binary.useful-correct	ndcg	186	0.4567
+input.WatS-BM25-Query	binary.useful-correct	ndcg	187	0.6251
+input.WatS-BM25-Query	binary.useful-correct	ndcg	188	0.1400
+input.WatS-BM25-Query	binary.useful-correct	ndcg	189	0.0578
+input.WatS-BM25-Query	binary.useful-correct	ndcg	190	0.6250
+input.WatS-BM25-Query	binary.useful-correct	ndcg	191	0.4324
+input.WatS-BM25-Query	binary.useful-correct	ndcg	192	0.3954
+input.WatS-BM25-Query	binary.useful-correct	ndcg	193	0.7595
+input.WatS-BM25-Query	binary.useful-correct	ndcg	194	0.7439
+input.WatS-BM25-Query	binary.useful-correct	ndcg	195	0.5507
+input.WatS-BM25-Query	binary.useful-correct	ndcg	197	0.0833
+input.WatS-BM25-Query	binary.useful-correct	ndcg	199	0.6440
+input.WatS-BM25-Query	binary.useful-correct	ndcg	200	0.5680
+input.WatS-BM25-Query	binary.useful-correct	ndcg	all	0.4686
+input.WatS-BM25-Query	graded.harmful-only	runid,topic,compatibility		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,151,0.2594201726945733		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,152,0.031428408883433706		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,153,0.6275691100895416		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,154,0.26207159337680375		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,155,0.29070178592267515		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,156,1.4604861087102754e-05		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,157,5.2167683114632354e-24		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,158,0.12142099637755722		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,159,0.48271489274424767		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,160,3.1868897962416354e-06		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,161,0.08298946354665054		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,162,1.490160148389256e-15		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,163,0.020885159314179173		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,164,0.34484351389720785		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,167,0.16781196710974017		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,168,0.06941348899737275		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,170,0.22917982679993304		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,173,0.23790837379531526		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,175,5.32026866423482e-07		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,177,0.16419683884477917		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,178,0.016330336264909356		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,179,0.16522419842753638		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,181,0.18873373391460585		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,183,0.0		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,184,0.02821189008470306		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,185,0.0		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,186,0.327157997749464		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,187,0.019660673195814597		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,188,2.749055454313083e-20		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,189,0.3189929975089411		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,190,0.04512623096345969		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,192,0.24895190993967137		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,193,8.997534524136867e-07		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,194,5.6642898662297454e-15		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,195,0.10958037123456778		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,197,0.26330185437484366		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,199,0.06826841911818049		
+input.WatS-BM25-Query	graded.harmful-only	WatS-BM25-Query,average,0.1403274440189707		
+input.WatS-BM25-Query	graded.helpful-only	runid,topic,compatibility		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,151,0.2030042081946022		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,152,0.006928642892458998		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,153,0.14507216094886963		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,154,0.3362974256609581		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,155,0.21410737794079446		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,156,0.6145656521818827		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,157,0.17545840171030017		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,158,0.03125031790736994		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,159,0.05589709077259764		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,160,0.07994052332778534		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,161,0.15407688400438485		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,162,0.35711445370639533		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,163,0.1673294779441892		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,164,0.1501060792676842		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,165,0.0004787011081356224		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,167,0.1023902655649336		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,168,1.7362324209828662e-05		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,170,0.23309952146397558		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,171,0.31831903001594286		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,173,0.28631344127307506		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,174,0.22734581138683108		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,175,0.21161199776894776		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,176,0.39074024665008406		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,177,0.09711777832562542		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,178,0.2747744638723233		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,179,0.2285004298634122		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,180,0.14436371062633038		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,181,0.3092666401935954		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,182,0.2068462325096766		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,183,0.23690721895291822		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,184,0.00027283234183586444		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,185,0.3642543598567032		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,186,0.097557519307773		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,187,0.021290320202006864		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,188,0.04083262259486405		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,189,6.901802928266852e-09		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,190,0.09347517219159156		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,191,0.0777366789350411		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,192,0.04407137599227298		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,193,0.3578874655669456		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,194,0.23865783598025617		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,195,0.07556312146796854		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,197,0.01368823237188532		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,199,0.24412656150255396		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,200,0.07233363857607623		
+input.WatS-BM25-Query	graded.helpful-only	WatS-BM25-Query,average,0.17113309538110819		

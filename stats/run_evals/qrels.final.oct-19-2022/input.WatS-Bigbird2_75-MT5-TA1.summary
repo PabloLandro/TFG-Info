@@ -1,0 +1,263 @@
+run	qrels	measure	topic	score
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	151	0.7088
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	152	0.4798
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	153	0.7670
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	154	0.7700
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	155	0.8345
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	156	0.7510
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	157	0.7934
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	158	0.6982
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	159	0.8184
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	160	0.8324
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	161	0.7766
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	162	0.8659
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	163	0.7398
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	164	0.6764
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	165	0.2761
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	167	0.6364
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	168	0.7104
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	170	0.7224
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	171	0.6491
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	173	0.8759
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	174	0.7395
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	175	0.6778
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	176	0.7033
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	177	0.7482
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	178	0.7697
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	179	0.7500
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	180	0.5457
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	181	0.7195
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	182	0.5241
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	183	0.8633
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	184	0.7504
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	185	0.6356
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	186	0.8084
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	187	0.7790
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	188	0.6856
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	189	0.3793
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	190	0.7084
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	191	0.7137
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	192	0.6759
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	193	0.7658
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	194	0.6946
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	195	0.6345
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	197	0.7442
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	199	0.7254
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	200	0.6818
+input.WatS-Bigbird2_75-MT5-TA1	graded.usefulness	ndcg	all	0.7068
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	151	0.5000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	152	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	153	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	154	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	155	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	156	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	157	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	158	0.2000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	159	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	160	0.9000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	161	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	162	1.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	163	0.3000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	164	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	165	0.2000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	167	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	168	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	170	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	171	0.4000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	173	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	174	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	175	0.9000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	176	0.9000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	177	0.5000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	178	0.7000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	179	0.3000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	180	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	181	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	182	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	183	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	184	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	185	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	186	0.5000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	187	1.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	188	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	189	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	190	0.7000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	191	1.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	192	0.4000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	193	0.9000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	194	0.7000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	195	0.4000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	197	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	199	1.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	200	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	P_10	all	0.5378
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	151	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	152	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	153	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	154	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	155	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	156	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	157	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	158	0.3000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	159	0.4000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	160	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	161	0.3000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	162	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	163	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	164	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	167	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	168	0.4000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	170	0.8000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	173	0.2000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	175	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	177	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	178	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	179	0.3000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	181	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	183	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	184	0.5000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	185	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	186	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	187	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	188	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	189	0.2000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	190	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	192	0.3000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	193	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	194	0.1000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	195	0.2000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	197	0.6000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	199	0.0000
+input.WatS-Bigbird2_75-MT5-TA1	binary.incorrect	P_10	all	0.1946
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	151	0.6277
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	152	0.1618
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	153	0.2026
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	154	0.5885
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	155	0.5822
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	156	0.7473
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	157	0.7259
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	158	0.4801
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	159	0.2593
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	160	0.8364
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	161	0.6508
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	162	0.8727
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	163	0.6896
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	164	0.7494
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	165	0.2174
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	167	0.6329
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	168	0.3912
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	170	0.3420
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	171	0.6532
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	173	0.8481
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	174	0.8056
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	175	0.7604
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	176	0.7473
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	177	0.7333
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	178	0.8089
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	179	0.6879
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	180	0.6098
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	181	0.7314
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	182	0.5131
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	183	0.8690
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	184	0.5398
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	185	0.7436
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	186	0.6515
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	187	0.8254
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	188	0.7778
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	189	0.0531
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	190	0.7781
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	191	0.7524
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	192	0.5423
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	193	0.8297
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	194	0.7621
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	195	0.6394
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	197	0.4299
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	199	0.8095
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	200	0.7706
+input.WatS-Bigbird2_75-MT5-TA1	binary.useful-correct	ndcg	all	0.6318
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	runid,topic,compatibility		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,151,0.10533470851921986		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,152,0.11813203119982993		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,153,0.5174534364996511		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,154,0.05950268165798389		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,155,0.5071037654884031		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,156,0.19721234094470597		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,157,7.893264619487749e-16		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,158,0.2098500680629192		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,159,0.190224431046973		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,160,0.00017278528671991938		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,161,0.4660442006073547		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,162,4.5762939383177245e-08		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,163,0.38548270341779833		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,164,0.07229076508136521		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,167,0.02390020816423515		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,168,0.4165813079302399		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,170,0.5589929376906189		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,173,0.22992649225247042		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,175,0.0007553429215951592		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,177,0.1022048762233918		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,178,0.000653499515030156		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,179,0.15532996269143703		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,181,0.0013547156504965115		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,183,6.121472554108693e-05		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,184,0.2842912124679642		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,185,0.08666070154285845		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,186,0.041370502147122803		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,187,0.0046193707537782415		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,188,0.09220961804960161		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,189,0.18565581088030483		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,190,0.001947023853036101		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,192,0.22829404430842257		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,193,7.063986421513232e-05		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,194,0.40578140885710184		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,195,0.17806193043636373		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,197,0.5038872151425947		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,199,1.0001145009772338e-13		
+input.WatS-Bigbird2_75-MT5-TA1	graded.harmful-only	WatS-Bigbird2_75-MT5-TA1,average,0.17111929728768607		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	runid,topic,compatibility		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,151,0.1183360258443603		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,152,0.13088137149396042		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,153,0.042186940356399416		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,154,0.5472455490641381		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,155,0.2529774683547219		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,156,0.8449234036539698		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,157,0.30895209561417875		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,158,0.12718641006843998		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,159,0.15583941884443037		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,160,0.31010130762768423		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,161,0.3319563063691335		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,162,0.3526868398794256		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,163,0.1370691660850422		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,164,0.398099097873541		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,165,0.1908074260369542		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,167,0.4200865998764068		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,168,0.14362309792129618		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,170,0.07464342545062001		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,171,0.31512466638390324		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,173,0.29367796135178453		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,174,0.21941940298383206		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,175,0.15990632394476859		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,176,0.4187053585456669		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,177,0.13901994805742854		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,178,0.2530583686962943		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,179,0.31440299619750917		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,180,0.16782881196133545		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,181,0.3348014427648905		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,182,0.21777213018143118		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,183,0.7522711789772911		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,184,0.1905494254064959		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,185,0.0966655092138441		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,186,0.24531075567182153		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,187,0.31825515940348925		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,188,0.28931698081878543		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,189,4.416494064445868e-13		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,190,0.1879440978737179		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,191,0.444459920828399		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,192,0.16013033145233055		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,193,0.1919784374627729		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,194,0.10812366338170387		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,195,0.10510664869793172		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,197,0.059356553362154285		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,199,0.0545927024152167		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,200,0.056477331186585614		
+input.WatS-Bigbird2_75-MT5-TA1	graded.helpful-only	WatS-Bigbird2_75-MT5-TA1,average,0.24404129016970064		

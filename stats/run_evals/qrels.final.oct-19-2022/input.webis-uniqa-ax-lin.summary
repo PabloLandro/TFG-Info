@@ -1,0 +1,263 @@
+run	qrels	measure	topic	score
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	151	0.5955
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	152	0.2530
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	153	0.6155
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	154	0.7190
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	155	0.4419
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	156	0.6537
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	157	0.7548
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	158	0.4879
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	159	0.6904
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	160	0.6033
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	161	0.3596
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	162	0.6306
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	163	0.6516
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	164	0.4924
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	165	0.5250
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	167	0.6339
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	168	0.7208
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	170	0.6688
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	171	0.6043
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	173	0.6686
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	174	0.5778
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	175	0.5588
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	176	0.4048
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	177	0.3022
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	178	0.6368
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	179	0.6240
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	180	0.4874
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	181	0.4555
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	182	0.5869
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	183	0.7896
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	184	0.5993
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	185	0.5016
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	186	0.5960
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	187	0.5108
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	188	0.3667
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	189	0.2853
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	190	0.4911
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	191	0.6765
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	192	0.6111
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	193	0.6452
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	194	0.6446
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	195	0.3222
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	197	0.4749
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	199	0.6607
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	200	0.5061
+input.webis-uniqa-ax-lin	graded.usefulness	ndcg	all	0.5575
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	151	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	152	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	153	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	154	0.2000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	155	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	156	0.8000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	157	0.5000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	158	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	159	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	160	0.7000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	161	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	162	0.5000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	163	0.2000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	164	0.1000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	165	0.1000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	167	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	168	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	170	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	171	0.3000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	173	0.1000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	174	0.2000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	175	0.3000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	176	0.3000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	177	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	178	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	179	0.5000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	180	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	181	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	182	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	183	0.9000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	184	0.2000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	185	0.2000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	186	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	187	0.8000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	188	0.1000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	189	0.1000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	190	0.2000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	191	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	192	0.5000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	193	0.4000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	194	0.7000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	195	0.3000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	197	0.2000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	199	0.6000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	200	0.7000
+input.webis-uniqa-ax-lin	binary.useful-correct	P_10	all	0.3089
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	151	0.2000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	152	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	153	0.3000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	154	0.2000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	155	0.1000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	156	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	157	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	158	0.3000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	159	0.7000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	160	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	161	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	162	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	163	0.3000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	164	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	167	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	168	0.3000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	170	0.5000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	173	0.5000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	175	0.1000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	177	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	178	0.2000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	179	0.2000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	181	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	183	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	184	0.1000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	185	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	186	0.3000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	187	0.1000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	188	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	189	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	190	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	192	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	193	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	194	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	195	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	197	0.4000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	199	0.0000
+input.webis-uniqa-ax-lin	binary.incorrect	P_10	all	0.1297
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	151	0.5801
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	152	0.0000
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	153	0.1379
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	154	0.5352
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	155	0.2641
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	156	0.6495
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	157	0.7477
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	158	0.4641
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	159	0.2988
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	160	0.6434
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	161	0.2906
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	162	0.6283
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	163	0.5836
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	164	0.5478
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	165	0.3235
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	167	0.6629
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	168	0.3240
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	170	0.1602
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	171	0.5723
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	173	0.6314
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	174	0.6284
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	175	0.6050
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	176	0.4367
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	177	0.3021
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	178	0.6258
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	179	0.6979
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	180	0.5636
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	181	0.4578
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	182	0.6032
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	183	0.7923
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	184	0.4239
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	185	0.5200
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	186	0.3686
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	187	0.5264
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	188	0.3674
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	189	0.2866
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	190	0.5015
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	191	0.6860
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	192	0.5473
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	193	0.7063
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	194	0.6962
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	195	0.3486
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	197	0.2906
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	199	0.7157
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	200	0.5543
+input.webis-uniqa-ax-lin	binary.useful-correct	ndcg	all	0.4955
+input.webis-uniqa-ax-lin	graded.harmful-only	runid,topic,compatibility		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,151,0.22761047451550398		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,152,0.010153837823846719		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,153,0.33910900685549955		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,154,0.13004363249406556		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,155,0.05998132495837372		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,156,9.954843396861438e-05		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,157,1.0422431902590326e-13		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,158,0.26309892221948167		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,159,0.4744639630271403		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,160,7.677787196045583e-19		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,161,0.028574595927455003		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,162,0.0		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,163,0.23760698271744243		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,164,0.002517814824106381		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,167,0.05497256608674686		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,168,0.3420016321275496		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,170,0.4138018238415201		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,173,0.2972239680609909		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,175,0.3391653669178951		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,177,1.0439760000048324e-17		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,178,0.11260984016699453		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,179,0.10067443902362667		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,181,6.918720444125777e-06		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,183,2.1807345756372267e-12		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,184,0.07629100212556775		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,185,1.549326758507601e-23		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,186,0.2719951655820778		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,187,0.11428938224731648		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,188,0.013447145507820748		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,189,2.7121780875927688e-06		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,190,6.717315181459525e-08		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,192,0.02449885379491982		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,193,1.6377072769819192e-26		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,194,5.37149657279069e-15		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,195,2.9230406022605145e-05		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,197,0.38646234352069264		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,199,4.5781743236908636e-17		
+input.webis-uniqa-ax-lin	graded.harmful-only	webis-uniqa-ax-lin,average,0.11677655571028647		
+input.webis-uniqa-ax-lin	graded.helpful-only	runid,topic,compatibility		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,151,0.13301936864066644		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,152,0.08862610697750495		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,153,0.16386755010097015		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,154,0.14858367118705243		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,155,0.04863086584883454		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,156,0.7100322670128936		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,157,0.24504160945966633		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,158,0.13438878744476265		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,159,0.12566986455275395		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,160,0.16077465586435372		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,161,0.04324907959701776		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,162,0.03145972938399062		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,163,0.14800593948954588		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,164,0.16962378026045907		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,165,0.09605948324323642		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,167,0.11642948267344949		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,168,0.098793189161564		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,170,0.05901438085299686		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,171,0.17968160782578343		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,173,0.07594507404349886		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,174,0.06737028716565743		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,175,0.07103360048500984		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,176,0.158749256034651		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,177,0.03939435320422905		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,178,0.1486074910570348		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,179,0.35842673804622444		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,180,0.09774808831842519		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,181,0.09413184923378401		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,182,0.1207161205937984		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,183,0.827522773538041		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,184,0.20721724943860995		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,185,0.04325262870881471		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,186,0.04390808218438374		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,187,0.1049357355692788		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,188,0.05025844443867223		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,189,0.08846237170456184		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,190,0.039389748716039216		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,191,0.24765465314137386		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,192,0.15649944670657503		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,193,0.052847172837551484		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,194,0.13062753266693267		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,195,0.09310969318978092		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,197,0.12259875017274006		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,199,0.04716930879342261		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,200,0.17464307928812117		
+input.webis-uniqa-ax-lin	graded.helpful-only	webis-uniqa-ax-lin,average,0.1458482433078825		

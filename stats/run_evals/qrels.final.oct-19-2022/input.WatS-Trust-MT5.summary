@@ -1,0 +1,263 @@
+run	qrels	measure	topic	score
+input.WatS-Trust-MT5	graded.usefulness	ndcg	151	0.7695
+input.WatS-Trust-MT5	graded.usefulness	ndcg	152	0.5149
+input.WatS-Trust-MT5	graded.usefulness	ndcg	153	0.8188
+input.WatS-Trust-MT5	graded.usefulness	ndcg	154	0.7693
+input.WatS-Trust-MT5	graded.usefulness	ndcg	155	0.8042
+input.WatS-Trust-MT5	graded.usefulness	ndcg	156	0.7343
+input.WatS-Trust-MT5	graded.usefulness	ndcg	157	0.7864
+input.WatS-Trust-MT5	graded.usefulness	ndcg	158	0.7221
+input.WatS-Trust-MT5	graded.usefulness	ndcg	159	0.8604
+input.WatS-Trust-MT5	graded.usefulness	ndcg	160	0.8007
+input.WatS-Trust-MT5	graded.usefulness	ndcg	161	0.8414
+input.WatS-Trust-MT5	graded.usefulness	ndcg	162	0.8515
+input.WatS-Trust-MT5	graded.usefulness	ndcg	163	0.7858
+input.WatS-Trust-MT5	graded.usefulness	ndcg	164	0.7469
+input.WatS-Trust-MT5	graded.usefulness	ndcg	165	0.2897
+input.WatS-Trust-MT5	graded.usefulness	ndcg	167	0.6761
+input.WatS-Trust-MT5	graded.usefulness	ndcg	168	0.7076
+input.WatS-Trust-MT5	graded.usefulness	ndcg	170	0.6967
+input.WatS-Trust-MT5	graded.usefulness	ndcg	171	0.6991
+input.WatS-Trust-MT5	graded.usefulness	ndcg	173	0.9096
+input.WatS-Trust-MT5	graded.usefulness	ndcg	174	0.7738
+input.WatS-Trust-MT5	graded.usefulness	ndcg	175	0.6388
+input.WatS-Trust-MT5	graded.usefulness	ndcg	176	0.6788
+input.WatS-Trust-MT5	graded.usefulness	ndcg	177	0.7206
+input.WatS-Trust-MT5	graded.usefulness	ndcg	178	0.8017
+input.WatS-Trust-MT5	graded.usefulness	ndcg	179	0.7541
+input.WatS-Trust-MT5	graded.usefulness	ndcg	180	0.6033
+input.WatS-Trust-MT5	graded.usefulness	ndcg	181	0.7511
+input.WatS-Trust-MT5	graded.usefulness	ndcg	182	0.4788
+input.WatS-Trust-MT5	graded.usefulness	ndcg	183	0.8786
+input.WatS-Trust-MT5	graded.usefulness	ndcg	184	0.7561
+input.WatS-Trust-MT5	graded.usefulness	ndcg	185	0.6732
+input.WatS-Trust-MT5	graded.usefulness	ndcg	186	0.8015
+input.WatS-Trust-MT5	graded.usefulness	ndcg	187	0.7845
+input.WatS-Trust-MT5	graded.usefulness	ndcg	188	0.7176
+input.WatS-Trust-MT5	graded.usefulness	ndcg	189	0.5883
+input.WatS-Trust-MT5	graded.usefulness	ndcg	190	0.7420
+input.WatS-Trust-MT5	graded.usefulness	ndcg	191	0.6407
+input.WatS-Trust-MT5	graded.usefulness	ndcg	192	0.6675
+input.WatS-Trust-MT5	graded.usefulness	ndcg	193	0.7673
+input.WatS-Trust-MT5	graded.usefulness	ndcg	194	0.7430
+input.WatS-Trust-MT5	graded.usefulness	ndcg	195	0.7254
+input.WatS-Trust-MT5	graded.usefulness	ndcg	197	0.7497
+input.WatS-Trust-MT5	graded.usefulness	ndcg	199	0.7447
+input.WatS-Trust-MT5	graded.usefulness	ndcg	200	0.7407
+input.WatS-Trust-MT5	graded.usefulness	ndcg	all	0.7268
+input.WatS-Trust-MT5	binary.useful-correct	P_10	151	0.4000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	152	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	153	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	154	0.6000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	155	0.2000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	156	0.9000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	157	0.8000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	158	0.3000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	159	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	160	1.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	161	0.5000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	162	1.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	163	0.9000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	164	0.7000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	165	0.3000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	167	0.6000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	168	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	170	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	171	0.7000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	173	1.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	174	0.8000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	175	0.4000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	176	1.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	177	0.5000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	178	0.8000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	179	0.2000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	180	0.7000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	181	0.6000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	182	0.2000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	183	0.9000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	184	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	185	0.9000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	186	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	187	0.8000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	188	0.6000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	189	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	190	0.8000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	191	0.9000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	192	0.1000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	193	1.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	194	1.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	195	0.7000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	197	0.0000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	199	0.9000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	200	0.8000
+input.WatS-Trust-MT5	binary.useful-correct	P_10	all	0.5444
+input.WatS-Trust-MT5	binary.incorrect	P_10	151	0.1000
+input.WatS-Trust-MT5	binary.incorrect	P_10	152	0.3000
+input.WatS-Trust-MT5	binary.incorrect	P_10	153	0.9000
+input.WatS-Trust-MT5	binary.incorrect	P_10	154	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	155	0.6000
+input.WatS-Trust-MT5	binary.incorrect	P_10	156	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	157	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	158	0.3000
+input.WatS-Trust-MT5	binary.incorrect	P_10	159	0.8000
+input.WatS-Trust-MT5	binary.incorrect	P_10	160	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	161	0.2000
+input.WatS-Trust-MT5	binary.incorrect	P_10	162	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	163	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	164	0.1000
+input.WatS-Trust-MT5	binary.incorrect	P_10	167	0.1000
+input.WatS-Trust-MT5	binary.incorrect	P_10	168	0.5000
+input.WatS-Trust-MT5	binary.incorrect	P_10	170	0.9000
+input.WatS-Trust-MT5	binary.incorrect	P_10	173	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	175	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	177	0.1000
+input.WatS-Trust-MT5	binary.incorrect	P_10	178	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	179	0.7000
+input.WatS-Trust-MT5	binary.incorrect	P_10	181	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	183	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	184	0.9000
+input.WatS-Trust-MT5	binary.incorrect	P_10	185	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	186	0.3000
+input.WatS-Trust-MT5	binary.incorrect	P_10	187	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	188	0.1000
+input.WatS-Trust-MT5	binary.incorrect	P_10	189	0.7000
+input.WatS-Trust-MT5	binary.incorrect	P_10	190	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	192	0.5000
+input.WatS-Trust-MT5	binary.incorrect	P_10	193	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	194	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	195	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	197	0.8000
+input.WatS-Trust-MT5	binary.incorrect	P_10	199	0.0000
+input.WatS-Trust-MT5	binary.incorrect	P_10	all	0.2405
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	151	0.7016
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	152	0.1324
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	153	0.2103
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	154	0.5720
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	155	0.5448
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	156	0.7384
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	157	0.7298
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	158	0.5000
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	159	0.2581
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	160	0.8166
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	161	0.7073
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	162	0.8565
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	163	0.8837
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	164	0.7636
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	165	0.2615
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	167	0.6802
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	168	0.3171
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	170	0.3195
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	171	0.7133
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	173	0.9133
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	174	0.8160
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	175	0.7148
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	176	0.7112
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	177	0.6922
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	178	0.8592
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	179	0.5819
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	180	0.6600
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	181	0.7735
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	182	0.4806
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	183	0.8825
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	184	0.3053
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	185	0.7625
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	186	0.5449
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	187	0.8310
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	188	0.8091
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	189	0.0611
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	190	0.7985
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	191	0.7209
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	192	0.4783
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	193	0.8450
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	194	0.8068
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	195	0.7375
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	197	0.3737
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	199	0.8243
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	200	0.8239
+input.WatS-Trust-MT5	binary.useful-correct	ndcg	all	0.6337
+input.WatS-Trust-MT5	graded.harmful-only	runid,topic,compatibility		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,151,0.07614359419073935		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,152,0.20811482800184686		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,153,0.7486824426491973		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,154,0.031789773999543164		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,155,0.4331526069816583		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,156,8.663007795881602e-08		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,157,7.180896972363837e-14		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,158,0.16375048655398		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,159,0.6667291692538406		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,160,0.002764656062049992		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,161,0.5109906111500849		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,162,1.2778190162929415e-12		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,163,0.00010288357421802279		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,164,0.04562304951884539		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,167,0.0805969753653623		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,168,0.4591243522958764		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,170,0.4804591057921846		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,173,0.01506887198386522		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,175,1.2171277124108143e-18		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,177,0.31627362695992084		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,178,0.0018617240242549847		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,179,0.18299162593329996		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,181,0.052669411562007815		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,183,2.0949437700592357e-10		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,184,0.34443005873997484		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,185,0.005012998975531485		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,186,0.3399541790200356		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,187,0.020829436635627894		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,188,0.18089118657762637		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,189,0.5434477132230855		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,190,0.0001249333047162177		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,192,0.38007492259821263		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,193,2.7347466268745907e-16		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,194,9.461837515173257e-07		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,195,0.0014041624483148655		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,197,0.6747161970988715		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,199,2.0393379505530467e-23		
+input.WatS-Trust-MT5	graded.harmful-only	WatS-Trust-MT5,average,0.1883182869594445		
+input.WatS-Trust-MT5	graded.helpful-only	runid,topic,compatibility		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,151,0.18605218709836122		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,152,0.25493634473338067		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,153,0.020372774801368492		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,154,0.4795384523999064		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,155,0.23947144313030005		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,156,0.7976905337476818		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,157,0.28099271574587825		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,158,0.10824394790420606		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,159,0.1107831135044092		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,160,0.29437924668862		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,161,0.39533524208763116		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,162,0.39444935490728894		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,163,0.3300533450577717		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,164,0.5287503889159169		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,165,0.1941917981691712		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,167,0.35269702373895384		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,168,0.0027894479308468193		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,170,0.02307088541127976		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,171,0.3309576577870165		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,173,0.2923553193307142		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,174,0.2692264569445996		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,175,0.14193467250013067		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,176,0.42416496275171495		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,177,0.1424157475216565		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,178,0.27800538697200883		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,179,0.1702497043485798		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,180,0.24129326818495125		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,181,0.2814444687070908		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,182,0.14507847626417283		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,183,0.8116694902918272		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,184,0.014958284478551864		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,185,0.13637714533147163		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,186,0.12173666427701155		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,187,0.2411976654884643		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,188,0.3815842680309808		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,189,3.673547123726837e-07		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,190,0.18643734344279564		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,191,0.3360822636327568		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,192,0.09275621618275061		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,193,0.12115651781052557		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,194,0.17069113464368352		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,195,0.334289246872142		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,197,0.034444985755698224		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,199,0.12220806039484838		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,200,0.19262044272150647		
+input.WatS-Trust-MT5	graded.helpful-only	WatS-Trust-MT5,average,0.24464743253322976		

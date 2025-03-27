@@ -1,0 +1,263 @@
+run	qrels	measure	topic	score
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	151	0.8007
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	152	0.4740
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	153	0.8052
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	154	0.7624
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	155	0.8054
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	156	0.7851
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	157	0.8036
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	158	0.7245
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	159	0.8532
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	160	0.7953
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	161	0.8095
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	162	0.8630
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	163	0.7960
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	164	0.6833
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	165	0.3226
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	167	0.6695
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	168	0.7161
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	170	0.7063
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	171	0.6538
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	173	0.8957
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	174	0.7869
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	175	0.6986
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	176	0.7464
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	177	0.7033
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	178	0.8017
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	179	0.7634
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	180	0.5430
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	181	0.7756
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	182	0.5498
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	183	0.8686
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	184	0.8002
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	185	0.6750
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	186	0.8325
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	187	0.7621
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	188	0.7101
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	189	0.5263
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	190	0.7429
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	191	0.6976
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	192	0.6749
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	193	0.7631
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	194	0.7563
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	195	0.5580
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	197	0.7705
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	199	0.7835
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	200	0.7499
+input.hm22_ref_neg.mt5	graded.usefulness	ndcg	all	0.7281
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	151	0.7000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	152	0.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	153	0.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	154	0.3000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	155	0.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	156	0.9000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	157	0.8000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	158	0.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	159	0.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	160	0.9000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	161	0.2000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	162	0.7000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	163	0.1000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	164	0.6000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	165	0.3000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	167	0.6000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	168	0.2000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	170	0.4000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	171	0.5000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	173	0.8000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	174	0.9000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	175	1.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	176	0.9000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	177	0.2000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	178	0.4000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	179	0.1000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	180	0.4000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	181	0.6000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	182	0.4000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	183	0.5000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	184	0.3000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	185	1.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	186	0.2000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	187	0.8000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	188	0.4000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	189	0.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	190	0.7000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	191	1.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	192	0.3000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	193	0.5000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	194	0.9000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	195	0.1000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	197	0.1000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	199	0.9000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	200	1.0000
+input.hm22_ref_neg.mt5	binary.useful-correct	P_10	all	0.4800
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	151	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	152	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	153	0.7000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	154	0.4000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	155	0.7000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	156	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	157	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	158	0.4000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	159	0.8000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	160	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	161	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	162	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	163	0.6000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	164	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	167	0.2000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	168	0.3000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	170	0.4000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	173	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	175	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	177	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	178	0.4000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	179	0.6000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	181	0.2000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	183	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	184	0.6000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	185	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	186	0.4000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	187	0.0000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	188	0.3000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	189	0.4000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	190	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	192	0.4000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	193	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	194	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	195	0.3000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	197	0.9000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	199	0.1000
+input.hm22_ref_neg.mt5	binary.incorrect	P_10	all	0.2703
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	151	0.7411
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	152	0.1440
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	153	0.2057
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	154	0.4618
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	155	0.4142
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	156	0.7886
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	157	0.7321
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	158	0.4054
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	159	0.2631
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	160	0.8073
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	161	0.5437
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	162	0.8646
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	163	0.7284
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	164	0.6904
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	165	0.2173
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	167	0.5649
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	168	0.3941
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	170	0.5595
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	171	0.6564
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	173	0.9022
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	174	0.8507
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	175	0.7574
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	176	0.7583
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	177	0.6602
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	178	0.7521
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	179	0.5219
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	180	0.5944
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	181	0.7538
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	182	0.5192
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	183	0.8492
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	184	0.5642
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	185	0.7798
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	186	0.6121
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	187	0.8109
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	188	0.7534
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	189	0.0922
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	190	0.8037
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	191	0.7620
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	192	0.4593
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	193	0.7896
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	194	0.8020
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	195	0.5226
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	197	0.4495
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	199	0.8329
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	200	0.8430
+input.hm22_ref_neg.mt5	binary.useful-correct	ndcg	all	0.6218
+input.hm22_ref_neg.mt5	graded.harmful-only	runid,topic,compatibility		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,151,0.13574488130497686		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,152,0.0694511321083977		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,153,0.5868126744186878		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,154,0.47747795374562146		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,155,0.3783136827002572		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,156,0.0019643086073366355		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,157,7.308091744897996e-17		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,158,0.30447148822765735		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,159,0.6064729583824213		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,160,0.04761027803981529		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,161,0.3896118393326536		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,162,0.43685165675194315		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,163,0.4285113003868726		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,164,0.0853352653060767		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,167,0.20145010394093407		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,168,0.43245446225706063		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,170,0.2969692840719866		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,173,0.0740468126538811		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,175,0.03528754384608563		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,177,0.10219274699458848		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,178,0.45979693963312873		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,179,0.1871058582936344		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,181,0.26234445170678355		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,183,0.0029521659031993036		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,184,0.3251848593267434		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,185,0.0019747421864075416		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,186,0.3681964127556384		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,187,0.05161745581391301		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,188,0.3404027881554719		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,189,0.36583532421589676		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,190,0.06570063079712701		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,192,0.3178134355594275		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,193,0.06985598591982835		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,194,0.2347207260433301		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,195,0.5234114709911601		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,197,0.7437880312767235		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,199,0.5942186532428325		
+input.hm22_ref_neg.mt5	graded.harmful-only	hm22_ref_neg.mt5,average,0.27043108932158105		
+input.hm22_ref_neg.mt5	graded.helpful-only	runid,topic,compatibility		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,151,0.32948501493547705		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,152,0.2270686723311076		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,153,0.049600451781544944		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,154,0.19610403616102584		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,155,0.11053683078907793		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,156,0.9119862961079784		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,157,0.33890513594326555		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,158,0.041619723488881925		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,159,0.07603100025307588		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,160,0.34325429602563845		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,161,0.21163675540277857		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,162,0.1290777590355214		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,163,0.13679868722054342		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,164,0.3566635301064365		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,165,0.24834396612384263		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,167,0.2210199342466952		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,168,0.1323181504850257		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,170,0.3459359018615526		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,171,0.31161458990580027		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,173,0.2883722456517605		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,174,0.28283312481777745		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,175,0.16881342590481477		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,176,0.5976670080257666		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,177,0.11769528112882163		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,178,0.23639280538192542		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,179,0.12121501321521179		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,180,0.13007003684313337		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,181,0.29687599699828615		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,182,0.22344621083979047		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,183,0.5449123793446888		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,184,0.2590146180149558		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,185,0.14810706855348496		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,186,0.19157113102019235		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,187,0.14246412322002924		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,188,0.3202559241330099		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,189,0.014776779557746497		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,190,0.15536004256382957		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,191,0.3655709710472262		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,192,0.17525755033107432		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,193,0.20785458219951763		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,194,0.20003596337961113		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,195,0.027932411444478868		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,197,0.13979397309625		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,199,0.14410456776074332		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,200,0.1281940523336253		
+input.hm22_ref_neg.mt5	graded.helpful-only	hm22_ref_neg.mt5,average,0.22992417820028935		

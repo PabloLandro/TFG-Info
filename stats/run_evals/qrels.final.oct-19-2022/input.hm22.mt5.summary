@@ -1,0 +1,263 @@
+run	qrels	measure	topic	score
+input.hm22.mt5	graded.usefulness	ndcg	151	0.8017
+input.hm22.mt5	graded.usefulness	ndcg	152	0.4565
+input.hm22.mt5	graded.usefulness	ndcg	153	0.8067
+input.hm22.mt5	graded.usefulness	ndcg	154	0.7770
+input.hm22.mt5	graded.usefulness	ndcg	155	0.8934
+input.hm22.mt5	graded.usefulness	ndcg	156	0.7810
+input.hm22.mt5	graded.usefulness	ndcg	157	0.8196
+input.hm22.mt5	graded.usefulness	ndcg	158	0.7567
+input.hm22.mt5	graded.usefulness	ndcg	159	0.8500
+input.hm22.mt5	graded.usefulness	ndcg	160	0.8362
+input.hm22.mt5	graded.usefulness	ndcg	161	0.8502
+input.hm22.mt5	graded.usefulness	ndcg	162	0.8700
+input.hm22.mt5	graded.usefulness	ndcg	163	0.8040
+input.hm22.mt5	graded.usefulness	ndcg	164	0.7353
+input.hm22.mt5	graded.usefulness	ndcg	165	0.3229
+input.hm22.mt5	graded.usefulness	ndcg	167	0.7109
+input.hm22.mt5	graded.usefulness	ndcg	168	0.7442
+input.hm22.mt5	graded.usefulness	ndcg	170	0.7192
+input.hm22.mt5	graded.usefulness	ndcg	171	0.7306
+input.hm22.mt5	graded.usefulness	ndcg	173	0.9002
+input.hm22.mt5	graded.usefulness	ndcg	174	0.8018
+input.hm22.mt5	graded.usefulness	ndcg	175	0.6710
+input.hm22.mt5	graded.usefulness	ndcg	176	0.7249
+input.hm22.mt5	graded.usefulness	ndcg	177	0.7420
+input.hm22.mt5	graded.usefulness	ndcg	178	0.8132
+input.hm22.mt5	graded.usefulness	ndcg	179	0.7736
+input.hm22.mt5	graded.usefulness	ndcg	180	0.6430
+input.hm22.mt5	graded.usefulness	ndcg	181	0.7525
+input.hm22.mt5	graded.usefulness	ndcg	182	0.5325
+input.hm22.mt5	graded.usefulness	ndcg	183	0.9008
+input.hm22.mt5	graded.usefulness	ndcg	184	0.8020
+input.hm22.mt5	graded.usefulness	ndcg	185	0.6672
+input.hm22.mt5	graded.usefulness	ndcg	186	0.8388
+input.hm22.mt5	graded.usefulness	ndcg	187	0.7789
+input.hm22.mt5	graded.usefulness	ndcg	188	0.7224
+input.hm22.mt5	graded.usefulness	ndcg	189	0.5517
+input.hm22.mt5	graded.usefulness	ndcg	190	0.7481
+input.hm22.mt5	graded.usefulness	ndcg	191	0.7050
+input.hm22.mt5	graded.usefulness	ndcg	192	0.7089
+input.hm22.mt5	graded.usefulness	ndcg	193	0.7832
+input.hm22.mt5	graded.usefulness	ndcg	194	0.7335
+input.hm22.mt5	graded.usefulness	ndcg	195	0.6592
+input.hm22.mt5	graded.usefulness	ndcg	197	0.7762
+input.hm22.mt5	graded.usefulness	ndcg	199	0.8293
+input.hm22.mt5	graded.usefulness	ndcg	200	0.7613
+input.hm22.mt5	graded.usefulness	ndcg	all	0.7464
+input.hm22.mt5	binary.useful-correct	P_10	151	0.8000
+input.hm22.mt5	binary.useful-correct	P_10	152	0.0000
+input.hm22.mt5	binary.useful-correct	P_10	153	0.0000
+input.hm22.mt5	binary.useful-correct	P_10	154	0.2000
+input.hm22.mt5	binary.useful-correct	P_10	155	0.1000
+input.hm22.mt5	binary.useful-correct	P_10	156	0.8000
+input.hm22.mt5	binary.useful-correct	P_10	157	0.8000
+input.hm22.mt5	binary.useful-correct	P_10	158	0.2000
+input.hm22.mt5	binary.useful-correct	P_10	159	0.0000
+input.hm22.mt5	binary.useful-correct	P_10	160	1.0000
+input.hm22.mt5	binary.useful-correct	P_10	161	0.7000
+input.hm22.mt5	binary.useful-correct	P_10	162	0.9000
+input.hm22.mt5	binary.useful-correct	P_10	163	0.9000
+input.hm22.mt5	binary.useful-correct	P_10	164	0.7000
+input.hm22.mt5	binary.useful-correct	P_10	165	0.4000
+input.hm22.mt5	binary.useful-correct	P_10	167	0.6000
+input.hm22.mt5	binary.useful-correct	P_10	168	0.2000
+input.hm22.mt5	binary.useful-correct	P_10	170	0.2000
+input.hm22.mt5	binary.useful-correct	P_10	171	0.7000
+input.hm22.mt5	binary.useful-correct	P_10	173	0.8000
+input.hm22.mt5	binary.useful-correct	P_10	174	0.8000
+input.hm22.mt5	binary.useful-correct	P_10	175	0.6000
+input.hm22.mt5	binary.useful-correct	P_10	176	0.9000
+input.hm22.mt5	binary.useful-correct	P_10	177	0.4000
+input.hm22.mt5	binary.useful-correct	P_10	178	0.7000
+input.hm22.mt5	binary.useful-correct	P_10	179	0.5000
+input.hm22.mt5	binary.useful-correct	P_10	180	0.9000
+input.hm22.mt5	binary.useful-correct	P_10	181	0.3000
+input.hm22.mt5	binary.useful-correct	P_10	182	0.3000
+input.hm22.mt5	binary.useful-correct	P_10	183	1.0000
+input.hm22.mt5	binary.useful-correct	P_10	184	0.4000
+input.hm22.mt5	binary.useful-correct	P_10	185	0.9000
+input.hm22.mt5	binary.useful-correct	P_10	186	0.4000
+input.hm22.mt5	binary.useful-correct	P_10	187	0.7000
+input.hm22.mt5	binary.useful-correct	P_10	188	0.7000
+input.hm22.mt5	binary.useful-correct	P_10	189	0.0000
+input.hm22.mt5	binary.useful-correct	P_10	190	0.9000
+input.hm22.mt5	binary.useful-correct	P_10	191	1.0000
+input.hm22.mt5	binary.useful-correct	P_10	192	0.2000
+input.hm22.mt5	binary.useful-correct	P_10	193	1.0000
+input.hm22.mt5	binary.useful-correct	P_10	194	1.0000
+input.hm22.mt5	binary.useful-correct	P_10	195	0.5000
+input.hm22.mt5	binary.useful-correct	P_10	197	0.1000
+input.hm22.mt5	binary.useful-correct	P_10	199	0.9000
+input.hm22.mt5	binary.useful-correct	P_10	200	1.0000
+input.hm22.mt5	binary.useful-correct	P_10	all	0.5800
+input.hm22.mt5	binary.incorrect	P_10	151	0.0000
+input.hm22.mt5	binary.incorrect	P_10	152	0.2000
+input.hm22.mt5	binary.incorrect	P_10	153	0.7000
+input.hm22.mt5	binary.incorrect	P_10	154	0.2000
+input.hm22.mt5	binary.incorrect	P_10	155	0.6000
+input.hm22.mt5	binary.incorrect	P_10	156	0.0000
+input.hm22.mt5	binary.incorrect	P_10	157	0.0000
+input.hm22.mt5	binary.incorrect	P_10	158	0.4000
+input.hm22.mt5	binary.incorrect	P_10	159	0.5000
+input.hm22.mt5	binary.incorrect	P_10	160	0.0000
+input.hm22.mt5	binary.incorrect	P_10	161	0.1000
+input.hm22.mt5	binary.incorrect	P_10	162	0.0000
+input.hm22.mt5	binary.incorrect	P_10	163	0.1000
+input.hm22.mt5	binary.incorrect	P_10	164	0.1000
+input.hm22.mt5	binary.incorrect	P_10	167	0.1000
+input.hm22.mt5	binary.incorrect	P_10	168	0.3000
+input.hm22.mt5	binary.incorrect	P_10	170	0.8000
+input.hm22.mt5	binary.incorrect	P_10	173	0.2000
+input.hm22.mt5	binary.incorrect	P_10	175	0.0000
+input.hm22.mt5	binary.incorrect	P_10	177	0.1000
+input.hm22.mt5	binary.incorrect	P_10	178	0.2000
+input.hm22.mt5	binary.incorrect	P_10	179	0.4000
+input.hm22.mt5	binary.incorrect	P_10	181	0.1000
+input.hm22.mt5	binary.incorrect	P_10	183	0.0000
+input.hm22.mt5	binary.incorrect	P_10	184	0.6000
+input.hm22.mt5	binary.incorrect	P_10	185	0.0000
+input.hm22.mt5	binary.incorrect	P_10	186	0.3000
+input.hm22.mt5	binary.incorrect	P_10	187	0.1000
+input.hm22.mt5	binary.incorrect	P_10	188	0.1000
+input.hm22.mt5	binary.incorrect	P_10	189	0.4000
+input.hm22.mt5	binary.incorrect	P_10	190	0.0000
+input.hm22.mt5	binary.incorrect	P_10	192	0.3000
+input.hm22.mt5	binary.incorrect	P_10	193	0.0000
+input.hm22.mt5	binary.incorrect	P_10	194	0.0000
+input.hm22.mt5	binary.incorrect	P_10	195	0.2000
+input.hm22.mt5	binary.incorrect	P_10	197	0.9000
+input.hm22.mt5	binary.incorrect	P_10	199	0.0000
+input.hm22.mt5	binary.incorrect	P_10	all	0.2162
+input.hm22.mt5	binary.useful-correct	ndcg	151	0.7449
+input.hm22.mt5	binary.useful-correct	ndcg	152	0.1344
+input.hm22.mt5	binary.useful-correct	ndcg	153	0.2142
+input.hm22.mt5	binary.useful-correct	ndcg	154	0.5167
+input.hm22.mt5	binary.useful-correct	ndcg	155	0.4657
+input.hm22.mt5	binary.useful-correct	ndcg	156	0.7853
+input.hm22.mt5	binary.useful-correct	ndcg	157	0.7685
+input.hm22.mt5	binary.useful-correct	ndcg	158	0.4761
+input.hm22.mt5	binary.useful-correct	ndcg	159	0.2745
+input.hm22.mt5	binary.useful-correct	ndcg	160	0.8459
+input.hm22.mt5	binary.useful-correct	ndcg	161	0.7386
+input.hm22.mt5	binary.useful-correct	ndcg	162	0.8785
+input.hm22.mt5	binary.useful-correct	ndcg	163	0.8803
+input.hm22.mt5	binary.useful-correct	ndcg	164	0.7827
+input.hm22.mt5	binary.useful-correct	ndcg	165	0.2452
+input.hm22.mt5	binary.useful-correct	ndcg	167	0.6979
+input.hm22.mt5	binary.useful-correct	ndcg	168	0.5287
+input.hm22.mt5	binary.useful-correct	ndcg	170	0.4855
+input.hm22.mt5	binary.useful-correct	ndcg	171	0.7555
+input.hm22.mt5	binary.useful-correct	ndcg	173	0.8744
+input.hm22.mt5	binary.useful-correct	ndcg	174	0.8450
+input.hm22.mt5	binary.useful-correct	ndcg	175	0.7162
+input.hm22.mt5	binary.useful-correct	ndcg	176	0.7252
+input.hm22.mt5	binary.useful-correct	ndcg	177	0.6845
+input.hm22.mt5	binary.useful-correct	ndcg	178	0.8211
+input.hm22.mt5	binary.useful-correct	ndcg	179	0.6236
+input.hm22.mt5	binary.useful-correct	ndcg	180	0.6892
+input.hm22.mt5	binary.useful-correct	ndcg	181	0.7262
+input.hm22.mt5	binary.useful-correct	ndcg	182	0.5233
+input.hm22.mt5	binary.useful-correct	ndcg	183	0.8976
+input.hm22.mt5	binary.useful-correct	ndcg	184	0.5504
+input.hm22.mt5	binary.useful-correct	ndcg	185	0.7709
+input.hm22.mt5	binary.useful-correct	ndcg	186	0.6316
+input.hm22.mt5	binary.useful-correct	ndcg	187	0.8158
+input.hm22.mt5	binary.useful-correct	ndcg	188	0.8073
+input.hm22.mt5	binary.useful-correct	ndcg	189	0.1268
+input.hm22.mt5	binary.useful-correct	ndcg	190	0.8172
+input.hm22.mt5	binary.useful-correct	ndcg	191	0.7645
+input.hm22.mt5	binary.useful-correct	ndcg	192	0.5884
+input.hm22.mt5	binary.useful-correct	ndcg	193	0.8552
+input.hm22.mt5	binary.useful-correct	ndcg	194	0.8121
+input.hm22.mt5	binary.useful-correct	ndcg	195	0.6322
+input.hm22.mt5	binary.useful-correct	ndcg	197	0.4831
+input.hm22.mt5	binary.useful-correct	ndcg	199	0.8553
+input.hm22.mt5	binary.useful-correct	ndcg	200	0.8471
+input.hm22.mt5	binary.useful-correct	ndcg	all	0.6601
+input.hm22.mt5	graded.harmful-only	runid,topic,compatibility		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,151,0.04355148478157007		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,152,0.08463688045059067		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,153,0.5548418148852362		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,154,0.23459866663832243		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,155,0.6052753006983796		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,156,6.534020059635577e-06		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,157,1.6567079607732093e-15		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,158,0.32571784777031854		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,159,0.45510942729039977		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,160,0.01067293339369419		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,161,0.33936374164846245		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,162,0.0001983236225044186		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,163,0.08621894891035041		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,164,0.07592463475262644		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,167,0.08703188921616462		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,168,0.3315021397549057		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,170,0.41078174475093354		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,173,0.2563505874557184		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,175,0.03273875469929017		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,177,0.2595854032108198		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,178,0.165817501268873		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,179,0.1590386712448588		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,181,0.154396417077956		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,183,0.000793205598276726		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,184,0.314677516644386		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,185,5.8773306479189284e-05		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,186,0.2334728319488584		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,187,0.08143462443389413		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,188,0.2007395069103054		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,189,0.3658554474918807		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,190,0.028968715573943662		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,192,0.18766222256453513		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,193,1.3318856554671621e-08		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,194,3.5860766289974073e-07		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,195,0.42154870246102033		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,197,0.6767798722105953		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,199,3.2068333006365145e-08		
+input.hm22.mt5	graded.harmful-only	hm22.mt5,average,0.1941986883967855		
+input.hm22.mt5	graded.helpful-only	runid,topic,compatibility		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,151,0.2743975252774547		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,152,0.12172448701565088		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,153,0.048690940064299186		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,154,0.30244958165306834		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,155,0.12846190090862758		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,156,0.885691008377718		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,157,0.360011635557766		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,158,0.15809205118876996		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,159,0.12257114008812206		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,160,0.3312535995118238		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,161,0.47314097901533714		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,162,0.288614326928695		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,163,0.3341623680496865		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,164,0.41266309087487596		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,165,0.2747916043835859		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,167,0.40001155536491106		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,168,0.29669634583814736		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,170,0.22510518474068114		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,171,0.3996300859404038		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,173,0.3078656028541774		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,174,0.2533525289177848		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,175,0.27371799354273524		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,176,0.5937037660784069		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,177,0.17677929360176603		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,178,0.2827999257525218		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,179,0.34535970442297115		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,180,0.2939726704841999		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,181,0.2491467616239964		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,182,0.20397557767100352		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,183,0.7967407858175894		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,184,0.3496681020390811		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,185,0.1539916088248707		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,186,0.21075104061012867		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,187,0.12879034826944802		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,188,0.35098296024970593		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,189,0.06984564887485525		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,190,0.19365507197022827		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,191,0.3576801425954339		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,192,0.21888494261450975		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,193,0.11384973006675013		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,194,0.13294702016400223		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,195,0.16290203559132843		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,197,0.17793676750147783		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,199,0.33571615718675896		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,200,0.19849187270310656		
+input.hm22.mt5	graded.helpful-only	hm22.mt5,average,0.28381483268463253		
