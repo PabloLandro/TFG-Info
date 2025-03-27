@@ -17,12 +17,11 @@ def read_scores_2021(prompt_path, dataset):
     return helpful_avg, harmful_avg
 
 def read_scores_2022(prompt_path, dataset):
-    summary_path = os.path.join(prompt_path, f"{dataset}.summary")
+    summary_path = os.path.join(prompt_path, f"{dataset}")
 
-    summary_df = pd.read_csv(summary_path)
-
-    helpful_avg = summary_df[summary_df["qrels"] == "graded.helpful-only" and summary_df["topic"] == "average"]["compatibility"].values[0]
-    harmful_avg = summary_df[summary_df["qrels"] == "graded.harmful-only" and summary_df["topic"] == "average"]["compatibility"].values[0]
+    summary_df = pd.read_csv(summary_path, delimiter=r'\s|,|\t', engine='python')
+    helpful_avg = float(summary_df[(summary_df["qrels"] == "graded.helpful-only") & (summary_df["topic"] == "average")]["score"].values[0])
+    harmful_avg = float(summary_df[(summary_df["qrels"] == "graded.harmful-only") & (summary_df["topic"] == "average")]["score"].values[0])
 
     return helpful_avg, harmful_avg
 
@@ -35,6 +34,10 @@ def read_scores(prompt_path, dataset, year):
 
 # Function to compute RBO for two rankings
 def compute_rbo(run, ideal, p=0.95):
+    print("ours:")
+    print(run)
+    print("ideal:")
+    print(ideal)
     run_set = set()
     ideal_set = set()
 
@@ -56,9 +59,8 @@ def get_rankings(base_dir, year):
 
     for dataset in os.listdir(base_dir):
         dataset_path = os.path.join(base_dir, dataset)
-        if os.path.isdir(dataset_path):
-            helpful, harmful = read_scores(base_dir, dataset, year)
-            rankings[dataset] = helpful - harmful
+        helpful, harmful = read_scores(base_dir, dataset, year)
+        rankings[dataset] = helpful - harmful
 
     # Sort datasets by helpful - harmful in descending order
     ranked = sorted(rankings.items(), key=lambda x: x[1], reverse=True)
@@ -159,7 +161,8 @@ if __name__ == "__main__":
 
     if args.mode == "single":
         reference_rankings = get_rankings(reference, args.year)
-        get_prompt_rbo(args.input, reference_rankings, args.year)
+        rbo = get_prompt_rbo(args.input, reference_rankings, args.year)
+        print(f"RBO between ranking of systems using official qrels vs ranking using our LLM qrels: {rbo}")
     elif args.mode == "features":
         process_prompts_with_rbo(args.input, reference, args.year)
 
