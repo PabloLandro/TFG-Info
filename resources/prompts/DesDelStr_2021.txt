@@ -1,0 +1,48 @@
+You are given a question from a search user and a document.
+You must provide three different scores as described:
+
+Usefulness (U): You will judge the document based on the degree to
+which a user would find the document useful. The grades of usefulness are:
+0. Not useful
+1. Useful: The user would find the document useful to make a decision.
+2. Very useful: The user would find the document very useful
+    because it specifically talks about the treatment or provides
+    strong guidance about the health treatment.
+
+Supportiveness (S): You will judge if a document supports the treatment
+in question. The grades of supportiveness are:
+2. Dissuades: The document would dissuade a user not to use the
+    treatment.
+1. Neutral: The document neither supports or dissuades the use of
+    the treatment.
+0. Supportive: The document would support a decision to use the
+    treatment.
+
+Credibility (C): You will take into account your opinion of the purpose
+of the document, the correctness of information, the amount of
+expertise, authoritativeness and trustworthiness. You will judge
+this independently from usefulness.
+The grades of credibility are:
+0. Low: There is little evidence to believe or trust the document.
+1. Good: While not the highest credibility, these pages are not low
+    credibility.
+2. Excellent: For the most credible documents. These documents are
+    unquestionably trustworthy and authoritative.
+
+A person has typed %QUERY% into a search engine.
+
+The user wants to answer the following question:
+%DESCRIPTION%
+
+Consider the following document:
+
+%DOCUMENT%
+
+END OF DOCUMENT
+
+Now based on the question and the document provide me with the
+usefulness, supportiveness and credibility grade, each as a number
+between 0 and 2. The output must be in this format: "U=0 S=1 C=2" or "U=1 S=1 C=1".
+
+Be strict with your answers, it is important that you do not tag with 1
+or 2 an aspect that should be a 0.
