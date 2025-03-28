@@ -101,6 +101,8 @@ def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluat
                     print("Fatal error, repeated (topic_id, doc_id, prompt_template) run, should revise code", topic_id, doc_id, prompt_template)
                 history[topic_id][doc_id][prompt_template] = True
                 gpt_output = evaluate(topics[topic_id]["query"], topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
+                if gpt_output is None:
+                    continue
                 run = read_gpt_output(gpt_output)
                 if run is None:
                     raise Exception("None run")
@@ -122,6 +124,8 @@ def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, 
             file_name = "Nothing"
         else:
             file_name = "".join([feature[0].upper() + feature[1] + feature[2] for feature in features])
+        if len(prompt_names) == 1 and prompt_names == file_name:
+            continue
         if len(prompt_names) > 0 and file_name not in  prompt_names:
             continue
         print("Evaluating", file_name)
@@ -203,7 +207,9 @@ if __name__ == "__main__":
     is_feature_prompt = "feature" in args.prompt_file.lower()
 
     check_args(parser, args)
-
+    
+    print(args.prompt_names)
+    
     set_year(args.year)
 
     qrels, topics, searcher = get_year_data()
