@@ -1,15 +1,16 @@
 #!/bin/bash
 
 # Usefulness and credibility can be treated as is
-# Supportiveness on the other hand is offsetted, we must substract 1 so it has the same meaning as in 2021 qrels
+# Supportiveness on the other hand is offset, so we must subtract 1 to match the meaning in 2021 qrels.
 
 # Check if the correct number of arguments is passed
-if [ "$#" -ne 1 ]; then
-    echo "Usage: $0 <input_file>"
+if [ "$#" -ne 2 ]; then
+    echo "Usage: $0 <input_file> <output_file>"
     exit 1
 fi
 
 input_file="$1"
+output_file="$2"
 
 # Check if the input file exists
 if [ ! -f "$input_file" ]; then
@@ -39,7 +40,7 @@ while IFS= read -r line; do
     echo "${cols[0]} ${cols[1]} ${cols[2]} ${cols[3]} ${cols[4]} ${cols[5]} ${cols[6]}" >> "$temp_file"
 done < "$input_file"
 
-# Replace the original file with the modified content
-mv "$temp_file" "$input_file"
+# Write the processed content to the output file
+mv "$temp_file" "$output_file"
 
-echo "File '$input_file' has been updated."
+echo "File has been processed. Output written to '$output_file'."

@@ -61,7 +61,9 @@ mkdir -p "$DERIVED_QRELS"
 # Generate derived QRELs
 case "$YEAR" in
     2019)
-        # No additional processing needed for 2019
+        AUX_QRELS=$QRELS_2021ified
+        bash misinfo-resources-2019/scripts/transform_qrels_to_2021_format.sh $QRELS $AUX_QRELS
+        bash misinfo-resources-2021/scripts/gen-2021-derived-qrels.sh $AUX_QRELS $TOPICS $DERIVED_QRELS
         ;;
     2020)
         echo "Processing logic for 2020 not implemented"
@@ -80,7 +82,14 @@ mkdir -p "$EVAL_OUT_DIR"
 # Perform evaluation
 case "$YEAR" in
     2019)
-        # No evaluation needed for 2019
+        find "$PARTICIPANT_RUNS_DIR" -type f | while read -r PARTICIPANT_RUN_FILE; do
+            RUN_NAME=$(basename "$PARTICIPANT_RUN_FILE")
+            mkdir -p "${EVAL_OUT_DIR}/${RUN_NAME}"
+            # Helpful compatibility
+            python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.helpful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/helpful-compatibility.txt"
+            # Harmful compatibility
+            python misinfo-resources-2021/scripts/compatibility.py "${DERIVED_QRELS}/misinfo-qrels-graded.harmful-only" "$PARTICIPANT_RUN_FILE" > "${EVAL_OUT_DIR}/${RUN_NAME}/harmful-compatibility.txt"
+        done
         ;;
     2020)
         echo "Evaluation logic for 2020 not implemented"
