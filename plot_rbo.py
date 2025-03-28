@@ -2,7 +2,7 @@ import os, argparse, sys
 import pandas as pd
 import matplotlib.pyplot as plt
 
-DEPTH = 70
+DEPTH = 45
 
 def read_scores_2021(prompt_path, dataset):
     helpful_path = os.path.join(prompt_path, dataset, "helpful-compatibility.txt")

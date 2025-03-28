@@ -53,7 +53,7 @@ END OF DOCUMENT
 Now based on the question and the document provide me with the
 relevance, efficacy and credibility grade, each as a number
 between 0 and 2, or between 0 and 1 in the case of credibility.
-The output must be in this format: "R=0 E=1 C=2" or "R=1 E=1 C=1".
+The output must be in this format: "R=0 E=1 C=0" or "R=1 E=1 C=1".
 
 Be strict with your answers, it is important that you do not tag with
 inconclusive something that should be positive or negative.
