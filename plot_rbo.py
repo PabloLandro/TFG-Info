@@ -2,7 +2,7 @@ import os, argparse, sys
 import pandas as pd
 import matplotlib.pyplot as plt
 
-DEPTH = 45
+DEPTH = 70
 
 def read_scores_2021(prompt_path, dataset):
     helpful_path = os.path.join(prompt_path, dataset, "helpful-compatibility.txt")
@@ -27,7 +27,7 @@ def read_scores_2022(prompt_path, dataset):
 
 # Function to read compatibility scores
 def read_scores(prompt_path, dataset, year):
-    if year == 2021:
+    if year == 2021 or year == 2019:
         return read_scores_2021(prompt_path, dataset)
     elif year == 2022:
         return read_scores_2022(prompt_path, dataset)
@@ -151,7 +151,7 @@ if __name__ == "__main__":
 
     reference = ""
     if args.year == 2019:
-        pass
+        reference = os.path.join("stats", "run_evals", "qrels_raw")
     elif args.year == 2020:
         pass
     elif args.year == 2021:
