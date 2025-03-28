@@ -20,8 +20,7 @@ was developed and explored over three papers.  Start with the first
 
 """
 
-import argparse
-import sys
+import argparse, sys, re
 
 # Default persistence of 0.95, which is roughly equivalent to NSCG@20.
 # Can be changed on the command line.
@@ -82,7 +81,7 @@ def main():
     qrels = {}
     with open(args.qrels) as qrelsf:
         for line in qrelsf:
-            (topic, q0, docno, qrel) = line.rstrip().split()
+            (topic, q0, docno, qrel) = re.split(r'\s+', line.rstrip())
             qrel = float(qrel)
             if qrel > 0.0:
                 if topic not in qrels:

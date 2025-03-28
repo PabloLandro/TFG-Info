@@ -21,26 +21,32 @@ fi
 # Temporary auxiliary file
 temp_file=$(mktemp)
 
-# Process the file and subtract 1 from the 5th column
+# Process the file
 while IFS= read -r line; do
     # Split the line into columns
     cols=($line)
 
-    # Check if the line has at least 7 columns
-    if [ ${#cols[@]} -ne 7 ]; then
-        echo "Error: Invalid line format in input file. Each line must have 7 columns."
+    # Check if the line has at least 6 columns
+    if [ ${#cols[@]} -ne 6 ]; then
+        echo "Error: Invalid line format in input file. Each line must have 6 columns."
         rm "$temp_file"  # Clean up the temporary file
         exit 1
+    fi
+
+    # Check if the 5th column is -2, -1, or 0. If so, skip this line
+    if [[ "${cols[4]}" =~ ^(-2|-1|0)$ ]]; then
+        continue
     fi
 
     # Subtract 1 from the 5th column (index 4)
     cols[4]=$((cols[4] - 1))
 
     # Write the modified line to the temporary file
-    echo "${cols[0]} ${cols[1]} ${cols[2]} ${cols[3]} ${cols[4]} ${cols[5]} ${cols[6]}" >> "$temp_file"
+    echo "${cols[0]} ${cols[1]} ${cols[2]} ${cols[3]} ${cols[4]} ${cols[5]}" >> "$temp_file"
 done < "$input_file"
 
 # Write the processed content to the output file
 mv "$temp_file" "$output_file"
 
 echo "File has been processed. Output written to '$output_file'."
+

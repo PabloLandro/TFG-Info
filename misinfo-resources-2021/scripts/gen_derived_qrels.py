@@ -52,12 +52,14 @@ except OSError as e:
 
 try:
     # Read qrels
-    _qrels = pd.read_csv(args.qrels, sep=' ',
+    _qrels = pd.read_csv(args.qrels, sep=r'\s+',
                          names=['topic.id', 'iteration', 'docno', 'usefulness', 'supportiveness', 'credibility'])
+    print(_qrels)
 
     _qrels = _qrels[~_qrels['topic.id'].isin([
         113, 116, 119, 123, 124, 125, 126, 130, 135, 138, 141, 142, 147, 148, 150]
     )]
+
     # Read topics
     root = et.parse(args.topics).getroot()
 except OSError as e:
@@ -109,6 +111,8 @@ For topics that are unhelpful
 
 
 def get_grade(topic_id, usefulness, supportiveness, credibility):
+    if topic_id not in topic2answer:
+        return 0
     topic_stance = topic2answer[topic_id]
 
     usefulness_mapping = {'very_useful': 2, 'useful': 1, 'not_useful': 0}
@@ -127,7 +131,7 @@ def get_grade(topic_id, usefulness, supportiveness, credibility):
     low_or_not_judged_flag = True if credibility in [credibility_mapping['low'],
                                                      credibility_mapping['not_judged']] else False
 
-    if usefulness == usefulness_mapping['not_useful']:
+    if (usefulness == usefulness_mapping['not_useful']) or (credibility == credibility_mapping['not_useful']) or (supportiveness == supportiveness_mapping['not_useful']):
         grade = 0
     elif correct_flag:
         if usefulness == usefulness_mapping['very_useful']:
@@ -168,6 +172,7 @@ def get_grade(topic_id, usefulness, supportiveness, credibility):
             elif low_or_not_judged_flag:
                 grade = -1
     if grade == -100:
+        print(f"WEIRD PARAMS {usefulness} {supportiveness} {credibility}")
         raise Exception('Can not determine a grade.')
 
     return grade
@@ -182,8 +187,11 @@ def assert_range(t, g, us, ss, cs):
             for c in cs:
                 assert get_grade(t, u, s, c) == g
 
-
-assert_unhelpful = partial(assert_range, 101)
+assert_unhelpful = None
+if 101 in topic2answer:
+    assert_unhelpful = partial(assert_range, 101)
+else:
+    assert_unhelpful = partial(assert_range, 1)
 assert_unhelpful(-3, [1, 2], 2, 2)
 assert_unhelpful(-2, [1, 2], 2, 1)
 assert_unhelpful(-1, [1, 2], 2, [-2, 0])
@@ -201,7 +209,11 @@ assert_unhelpful(10, 2, 0, 1)
 assert_unhelpful(11, 1, 0, 2)
 assert_unhelpful(12, 2, 0, 2)
 
-assert_helpful = partial(assert_range, 106)
+assert_helpful=None 
+if 106 in topic2answer:
+    assert_helpful = partial(assert_range, 106)
+else:
+    assert_helpful = partial(assert_range, 5)
 assert_helpful(-3, [1, 2], 0, 2)
 assert_helpful(-2, [1, 2], 0, 1)
 assert_helpful(-1, [1, 2], 0, [-2, 0])

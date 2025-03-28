@@ -61,7 +61,8 @@ mkdir -p "$DERIVED_QRELS"
 # Generate derived QRELs
 case "$YEAR" in
     2019)
-        AUX_QRELS=$QRELS_2021ified
+        AUX_QRELS="${QRELS}_2021ified"
+	echo "$AUX_QRELS"
         bash misinfo-resources-2019/scripts/transform_qrels_to_2021_format.sh $QRELS $AUX_QRELS
         bash misinfo-resources-2021/scripts/gen-2021-derived-qrels.sh $AUX_QRELS $TOPICS $DERIVED_QRELS
         ;;
