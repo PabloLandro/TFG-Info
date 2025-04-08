@@ -127,15 +127,20 @@ def write_confussion(stat, pos_vals, name, runs, qrels, file):
 def validate_input(mode, input_path, year, output_path):
     if mode == "table" and not os.path.isdir(input_path):
         sys.exit(f"Error: For mode 'table', input must be a folder. '{input_path}' is not a valid folder.")
+    if mode == "matrix" and not os.path.isfile(input_path):
+        sys.exit(f"Error: For mode 'matrix', input must be a file. '{input_path}' is not a valid file.")
+    if mode == "table" and not os.path.isdir(output_path):
+        sys.exit(f"Error: For mode 'table', output must be a folder. '{output_path}' is not a valid folder.")
+    if mode == "matrix" and not os.path.isfile(output_path):
+        sys.exit(f"Error: For mode 'matrix', output must be a file. '{output_path}' is not a valid file.")
     if year not in [2019, 2020, 2021, 2022]:
         sys.exit(f"Error: Year must be one of 2019, 2020, 2021, 2022. Provided: {year}")
 
 def generate_confussion_matrix(qrels, input_file, output, year):
     runs = get_filtered_runs(input_file, qrels, year)
     stats = get_stats()
-    for stat in stats.keys():
-        out_dir = output+stat
-        with open(out_dir, "w") as out_file:
+    with open(output, "w") as out_file:
+        for stat in stats.keys():
             write_confussion(stat, stats[stat]["pos_vals"], stats[stat]["name"], runs, qrels, out_file)
         
 
