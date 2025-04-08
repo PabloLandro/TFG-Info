@@ -103,9 +103,9 @@ def get_stats_from_folder(folder, qrels, year):
         out[stat]["mae_interval"] = get_confidence_interval(TP, FP, FN, TN, get_mae)
     return out
 
-def write_confussion(stat, pos_vals, name, runs, file):
+def write_confussion(stat, pos_vals, name, runs, qrels, file):
     
-    TP, FP, FN, TN = get_confussion(stat, pos_vals, runs)
+    TP, FP, FN, TN = get_confussion(stat, pos_vals, runs, qrels)
 
     file.write(f"\n{name} confussion matrix:\n")
     file.write(f"TP={TP}\tFP={FP}\tFN={FN}\tTN={TN}\n")
@@ -125,8 +125,6 @@ def write_confussion(stat, pos_vals, name, runs, file):
 
 
 def validate_input(mode, input_path, year, output_path):
-    if mode == "matrix" and not os.path.isfile(input_path):
-        sys.exit(f"Error: For mode 'matrix', input must be a file. '{input_path}' is not a valid file.")
     if mode == "table" and not os.path.isdir(input_path):
         sys.exit(f"Error: For mode 'table', input must be a folder. '{input_path}' is not a valid folder.")
     if year not in [2019, 2020, 2021, 2022]:
@@ -134,12 +132,13 @@ def validate_input(mode, input_path, year, output_path):
     if not os.path.isdir(output_path):
         sys.exit(f"Error: Output must be a directory. '{output_path}' is not a valid directory.")
 
-def generate_confussion_matrix(qrels, input_file, output):
-    print(f"Generating confusion matrix with qrels {qrels} for file {input_file} into {output}.")
-    with open(input_file, "w") as file:
-        stats = get_stats()
-        for stat in stats.keys():
-            write_confussion(stat, stats[stat]["pos_vals"], stats[stat]["name"], file)
+def generate_confussion_matrix(qrels, input_file, output, year):
+    runs = get_filtered_runs(input_file, qrels, year)
+    stats = get_stats()
+    for stat in stats.keys():
+        out_dir = output+stat
+        with open(out_dir, "w") as out_file:
+            write_confussion(stat, stats[stat]["pos_vals"], stats[stat]["name"], runs, qrels, out_file)
         
 
 def generate_tables(qrels, input_folder, output, year):
@@ -198,7 +197,7 @@ def main():
 
     # Perform actions based on mode
     if args.mode == "matrix":
-        generate_confussion_matrix(qrels, args.input, args.output)
+        generate_confussion_matrix(qrels, args.input, args.output, args.year)
     elif args.mode == "table":
         generate_tables(qrels, args.input, args.output, args.year)
 
