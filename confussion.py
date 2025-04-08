@@ -106,7 +106,7 @@ def get_stats_from_folder(folder, qrels, year):
 def write_confussion(stat, pos_vals, name, runs, qrels, file):
     
     TP, FP, FN, TN = get_confussion(stat, pos_vals, runs, qrels)
-
+    print(f"{TP} {FP} {FN} {TN}")
     file.write(f"\n{name} confussion matrix:\n")
     file.write(f"TP={TP}\tFP={FP}\tFN={FN}\tTN={TN}\n")
 
@@ -129,8 +129,6 @@ def validate_input(mode, input_path, year, output_path):
         sys.exit(f"Error: For mode 'table', input must be a folder. '{input_path}' is not a valid folder.")
     if year not in [2019, 2020, 2021, 2022]:
         sys.exit(f"Error: Year must be one of 2019, 2020, 2021, 2022. Provided: {year}")
-    if not os.path.isdir(output_path):
-        sys.exit(f"Error: Output must be a directory. '{output_path}' is not a valid directory.")
 
 def generate_confussion_matrix(qrels, input_file, output, year):
     runs = get_filtered_runs(input_file, qrels, year)
@@ -169,7 +167,7 @@ def main():
     parser.add_argument(
         "mode",
         choices=["matrix", "table"],
-        help="Mode of operation. 'matrix' requires a file, 'table' requires a folder."
+        help="Mode of operation. 'matrix' requires a directory and a file prefix (output will add stat name to the prefix), 'table' requires a folder."
     )
     parser.add_argument(
         "input",
