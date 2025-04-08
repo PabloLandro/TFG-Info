@@ -1,5 +1,5 @@
 import os, argparse, sys
-from trec_utils import preprocess_run, get_year_data, get_stats, read_line_from_qrel
+from trec_utils import set_year, get_year_data, get_stats, read_line_from_qrel
 import numpy as np
 
 POS_VALS = [1,2]
@@ -191,8 +191,10 @@ def main():
     # Validate the input based on mode
     validate_input(args.mode, args.input, args.year, args.output)
 
+    set_year(args.year)
+
     # Get year-specific data
-    qrels,_,_ = get_year_data(args.year, with_graded_usefulness=True)
+    qrels,_,_ = get_year_data(with_graded_usefulness=True)
 
     # Perform actions based on mode
     if args.mode == "matrix":
