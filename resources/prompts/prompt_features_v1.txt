@@ -33,11 +33,11 @@ which a user would find the document useful. The grades of usefulness are:
 
 Supportiveness (S): You will judge if a document supports the treatment
 in question. The grades of supportiveness are:
-2. Dissuades: The document would dissuade a user not to use the
+0. Dissuades: The document would dissuade a user not to use the
     treatment.
 1. Neutral: The document neither supports or dissuades the use of
     the treatment.
-0. Supportive: The document would support a decision to use the
+2. Supportive: The document would support a decision to use the
     treatment.
 
 Credibility (C): You will take into account your opinion of the purpose
