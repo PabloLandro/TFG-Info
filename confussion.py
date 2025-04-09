@@ -15,7 +15,7 @@ def get_filtered_runs(run_file, qrels, year):
     runs = {}
     with open(run_file, "r") as file:
         for line in file:
-            doc_run = read_line_from_qrel(line, year)
+            doc_run = read_line_from_qrel(line)
             topic_id = doc_run["topic_id"]
             doc_id = doc_run["doc_id"]
             if not doc_id in qrels[topic_id]:
