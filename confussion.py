@@ -122,6 +122,19 @@ def write_confussion(stat, pos_vals, name, runs, qrels, file):
     recall = TP / (TP + FN)
     file.write(f"Recall: {recall}\n\n")
 
+    latex_table = f"""
+        \\begin{{table}}[]
+        \\begin{{tabular}}{{|c|ccc|}}
+        \\hline
+        Credibilidad            & \\multicolumn{{3}}{{c|}}{{Predicción}}                                          \\\\ \\hline
+                                & \\multicolumn{{1}}{{c|}}{{}}         & \\multicolumn{{1}}{{c|}}{{Positivo}} & Negativo \\\\ \\hline
+        \\multirow{{2}}{{*}}{{Actual}} & \\multicolumn{{1}}{{c|}}{{Positivo}} & \\multicolumn{{1}}{{c|}}{{{TP}}}       & {FN}       \\\\ \\cline{{2-4}} 
+                                & \\multicolumn{{1}}{{c|}}{{Negativo}} & \\multicolumn{{1}}{{c|}}{{{FP}}}       & {TN}       \\\\ \\hline
+        \\end{{tabular}}
+        \\end{{table}}
+        """
+    file.write(latex_table)
+
 
 
 def validate_input(mode, input_path, year, output_path):
