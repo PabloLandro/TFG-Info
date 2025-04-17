@@ -7,6 +7,16 @@ Cohen´s Kapa: 0.4035826120922562
 Recall: 0.9542240416821735
 
 
+        \begin{table}[]
+        \begin{tabular}{|c|ccc|}
+        \hline
+        Usefulness            & \multicolumn{3}{c|}{Predicción}                                          \\ \hline
+                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{Positivo} & Negativo \\ \hline
+        \multirow{2}{*}{Actual} & \multicolumn{1}{c|}{Positivo} & \multicolumn{1}{c|}{2564}       & 123       \\ \cline{2-4} 
+                                & \multicolumn{1}{c|}{Negativo} & \multicolumn{1}{c|}{1438}       & 1157       \\ \hline
+        \end{tabular}
+        \end{table}
+        
 Supportiveness confussion matrix:
 TP=1961	FP=95	FN=161	TN=470
 Precision: 0.9537937743190662
@@ -15,6 +25,16 @@ Cohen´s Kapa: 0.7249196399935695
 Recall: 0.9241281809613572
 
 
+        \begin{table}[]
+        \begin{tabular}{|c|ccc|}
+        \hline
+        Supportiveness            & \multicolumn{3}{c|}{Predicción}                                          \\ \hline
+                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{Positivo} & Negativo \\ \hline
+        \multirow{2}{*}{Actual} & \multicolumn{1}{c|}{Positivo} & \multicolumn{1}{c|}{1961}       & 161       \\ \cline{2-4} 
+                                & \multicolumn{1}{c|}{Negativo} & \multicolumn{1}{c|}{95}       & 470       \\ \hline
+        \end{tabular}
+        \end{table}
+        
 Credibility confussion matrix:
 TP=1449	FP=1149	FN=10	TN=79
 Precision: 0.5577367205542725
@@ -22,3 +42,14 @@ MAE: 0.4313360625232601
 Cohen´s Kapa: 0.062033103477355904
 Recall: 0.9931459904043866
 
+
+        \begin{table}[]
+        \begin{tabular}{|c|ccc|}
+        \hline
+        Credibility            & \multicolumn{3}{c|}{Predicción}                                          \\ \hline
+                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{Positivo} & Negativo \\ \hline
+        \multirow{2}{*}{Actual} & \multicolumn{1}{c|}{Positivo} & \multicolumn{1}{c|}{1449}       & 10       \\ \cline{2-4} 
+                                & \multicolumn{1}{c|}{Negativo} & \multicolumn{1}{c|}{1149}       & 79       \\ \hline
+        \end{tabular}
+        \end{table}
+        
