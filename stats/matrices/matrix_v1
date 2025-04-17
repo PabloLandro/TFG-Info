@@ -10,10 +10,10 @@ Recall: 0.9712773998488284
         \begin{table}[]
         \begin{tabular}{|c|ccc|}
         \hline
-        Usefulness            & \multicolumn{3}{c|}{Predicción}                                          \\ \hline
-                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{Positivo} & Negativo \\ \hline
-        \multirow{2}{*}{Actual} & \multicolumn{1}{c|}{Positivo} & \multicolumn{1}{c|}{2570}       & 76       \\ \cline{2-4} 
-                                & \multicolumn{1}{c|}{Negativo} & \multicolumn{1}{c|}{1557}       & 1012       \\ \hline
+        \textbf{Usefulness}            & & \multicolumn{2}{c|}{\textbf{Predicción}}                                          \\ \hline
+                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{\textbf{Positivo}} & \textbf{Negativo} \\ \hline
+        \multirow{2}{*}{\textbf{Actual}} & \multicolumn{1}{c|}{\textbf{Positivo}} & \multicolumn{1}{c|}{2570}       & 76       \\ \cline{2-4} 
+                                & \multicolumn{1}{c|}{\textbf{Negativo}} & \multicolumn{1}{c|}{1557}       & 1012       \\ \hline
         \end{tabular}
         \end{table}
         
@@ -28,10 +28,10 @@ Recall: 0.9225621414913958
         \begin{table}[]
         \begin{tabular}{|c|ccc|}
         \hline
-        Supportiveness            & \multicolumn{3}{c|}{Predicción}                                          \\ \hline
-                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{Positivo} & Negativo \\ \hline
-        \multirow{2}{*}{Actual} & \multicolumn{1}{c|}{Positivo} & \multicolumn{1}{c|}{1930}       & 162       \\ \cline{2-4} 
-                                & \multicolumn{1}{c|}{Negativo} & \multicolumn{1}{c|}{109}       & 445       \\ \hline
+        \textbf{Supportiveness}            & & \multicolumn{2}{c|}{\textbf{Predicción}}                                          \\ \hline
+                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{\textbf{Positivo}} & \textbf{Negativo} \\ \hline
+        \multirow{2}{*}{\textbf{Actual}} & \multicolumn{1}{c|}{\textbf{Positivo}} & \multicolumn{1}{c|}{1930}       & 162       \\ \cline{2-4} 
+                                & \multicolumn{1}{c|}{\textbf{Negativo}} & \multicolumn{1}{c|}{109}       & 445       \\ \hline
         \end{tabular}
         \end{table}
         
@@ -46,10 +46,10 @@ Recall: 0.9924502402196294
         \begin{table}[]
         \begin{tabular}{|c|ccc|}
         \hline
-        Credibility            & \multicolumn{3}{c|}{Predicción}                                          \\ \hline
-                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{Positivo} & Negativo \\ \hline
-        \multirow{2}{*}{Actual} & \multicolumn{1}{c|}{Positivo} & \multicolumn{1}{c|}{1446}       & 11       \\ \cline{2-4} 
-                                & \multicolumn{1}{c|}{Negativo} & \multicolumn{1}{c|}{1120}       & 69       \\ \hline
+        \textbf{Credibility}            & & \multicolumn{2}{c|}{\textbf{Predicción}}                                          \\ \hline
+                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{\textbf{Positivo}} & \textbf{Negativo} \\ \hline
+        \multirow{2}{*}{\textbf{Actual}} & \multicolumn{1}{c|}{\textbf{Positivo}} & \multicolumn{1}{c|}{1446}       & 11       \\ \cline{2-4} 
+                                & \multicolumn{1}{c|}{\textbf{Negativo}} & \multicolumn{1}{c|}{1120}       & 69       \\ \hline
         \end{tabular}
         \end{table}
         

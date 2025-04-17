@@ -126,10 +126,10 @@ def write_confussion(stat, pos_vals, name, runs, qrels, file):
         \\begin{{table}}[]
         \\begin{{tabular}}{{|c|ccc|}}
         \\hline
-        {name}            & \\multicolumn{{3}}{{c|}}{{Predicción}}                                          \\\\ \\hline
-                                & \\multicolumn{{1}}{{c|}}{{}}         & \\multicolumn{{1}}{{c|}}{{Positivo}} & Negativo \\\\ \\hline
-        \\multirow{{2}}{{*}}{{Actual}} & \\multicolumn{{1}}{{c|}}{{Positivo}} & \\multicolumn{{1}}{{c|}}{{{TP}}}       & {FN}       \\\\ \\cline{{2-4}} 
-                                & \\multicolumn{{1}}{{c|}}{{Negativo}} & \\multicolumn{{1}}{{c|}}{{{FP}}}       & {TN}       \\\\ \\hline
+        \\textbf{{{name}}}            & & \\multicolumn{{2}}{{c|}}{{\\textbf{{Predicción}}}}                                          \\\\ \\hline
+                                & \\multicolumn{{1}}{{c|}}{{}}         & \\multicolumn{{1}}{{c|}}{{\\textbf{{Positivo}}}} & \\textbf{{Negativo}} \\\\ \\hline
+        \\multirow{{2}}{{*}}{{\\textbf{{Actual}}}} & \\multicolumn{{1}}{{c|}}{{\\textbf{{Positivo}}}} & \\multicolumn{{1}}{{c|}}{{{TP}}}       & {FN}       \\\\ \\cline{{2-4}} 
+                                & \\multicolumn{{1}}{{c|}}{{\\textbf{{Negativo}}}} & \\multicolumn{{1}}{{c|}}{{{FP}}}       & {TN}       \\\\ \\hline
         \\end{{tabular}}
         \\end{{table}}
         """
