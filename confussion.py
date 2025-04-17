@@ -123,16 +123,20 @@ def write_confussion(stat, pos_vals, name, runs, qrels, file):
     file.write(f"Recall: {recall}\n\n")
 
     latex_table = f"""
-        \\begin{{table}}[]
-        \\begin{{tabular}}{{|c|ccc|}}
-        \\hline
-        \\textbf{{{name}}}            & & \\multicolumn{{2}}{{c|}}{{\\textbf{{Predicción}}}}                                          \\\\ \\hline
-                                & \\multicolumn{{1}}{{c|}}{{}}         & \\multicolumn{{1}}{{c|}}{{\\textbf{{Positivo}}}} & \\textbf{{Negativo}} \\\\ \\hline
-        \\multirow{{2}}{{*}}{{\\textbf{{Actual}}}} & \\multicolumn{{1}}{{c|}}{{\\textbf{{Positivo}}}} & \\multicolumn{{1}}{{c|}}{{{TP}}}       & {FN}       \\\\ \\cline{{2-4}} 
-                                & \\multicolumn{{1}}{{c|}}{{\\textbf{{Negativo}}}} & \\multicolumn{{1}}{{c|}}{{{FP}}}       & {TN}       \\\\ \\hline
-        \\end{{tabular}}
-        \\end{{table}}
-        """
+\\begin{{table}}[]
+\\centering
+\\begin{{tabular}}{{|c|cc|}}
+\\hline
+\\textbf{{{name}}}  & \\multicolumn{{2}}{{c|}}{{\\textbf{{Predicción}}}} \\\\ \\hline
+                        & \\textbf{{Positivo}} & \\textbf{{Negativo}}  \\\\ \\hline
+\\textbf{{Actual Positivo}} & {TP}             & {FN}                \\\\ \\hline
+\\textbf{{Actual Negativo}} & {FP}             & {TN}                \\\\ \\hline
+\\end{{tabular}}
+\\caption{{Matriz de confusión para {name} con prompt vx}}
+\\label{{tab:confusion-matrix-{name}-vx}}
+\\end{{table}}
+"""
+
     file.write(latex_table)
 
 

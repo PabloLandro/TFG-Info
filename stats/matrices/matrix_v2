@@ -7,16 +7,19 @@ Cohen´s Kapa: 0.4035826120922562
 Recall: 0.9542240416821735
 
 
-        \begin{table}[]
-        \begin{tabular}{|c|ccc|}
-        \hline
-        \textbf{Usefulness}            & & \multicolumn{2}{c|}{\textbf{Predicción}}                                          \\ \hline
-                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{\textbf{Positivo}} & \textbf{Negativo} \\ \hline
-        \multirow{2}{*}{\textbf{Actual}} & \multicolumn{1}{c|}{\textbf{Positivo}} & \multicolumn{1}{c|}{2564}       & 123       \\ \cline{2-4} 
-                                & \multicolumn{1}{c|}{\textbf{Negativo}} & \multicolumn{1}{c|}{1438}       & 1157       \\ \hline
-        \end{tabular}
-        \end{table}
-        
+\begin{table}[]
+\centering
+\begin{tabular}{|c|cc|}
+\hline
+\textbf{Usefulness}  & \multicolumn{2}{c|}{\textbf{Predicción}} \\ \hline
+                        & \textbf{Positivo} & \textbf{Negativo}  \\ \hline
+\textbf{Actual Positivo} & 2564             & 123                \\ \hline
+\textbf{Actual Negativo} & 1438             & 1157                \\ \hline
+\end{tabular}
+\caption{Matriz de confusión para Usefulness con prompt vx}
+\label{tab:confusion-matrix-Usefulness-vx}
+\end{table}
+
 Supportiveness confussion matrix:
 TP=1961	FP=95	FN=161	TN=470
 Precision: 0.9537937743190662
@@ -25,16 +28,19 @@ Cohen´s Kapa: 0.7249196399935695
 Recall: 0.9241281809613572
 
 
-        \begin{table}[]
-        \begin{tabular}{|c|ccc|}
-        \hline
-        \textbf{Supportiveness}            & & \multicolumn{2}{c|}{\textbf{Predicción}}                                          \\ \hline
-                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{\textbf{Positivo}} & \textbf{Negativo} \\ \hline
-        \multirow{2}{*}{\textbf{Actual}} & \multicolumn{1}{c|}{\textbf{Positivo}} & \multicolumn{1}{c|}{1961}       & 161       \\ \cline{2-4} 
-                                & \multicolumn{1}{c|}{\textbf{Negativo}} & \multicolumn{1}{c|}{95}       & 470       \\ \hline
-        \end{tabular}
-        \end{table}
-        
+\begin{table}[]
+\centering
+\begin{tabular}{|c|cc|}
+\hline
+\textbf{Supportiveness}  & \multicolumn{2}{c|}{\textbf{Predicción}} \\ \hline
+                        & \textbf{Positivo} & \textbf{Negativo}  \\ \hline
+\textbf{Actual Positivo} & 1961             & 161                \\ \hline
+\textbf{Actual Negativo} & 95             & 470                \\ \hline
+\end{tabular}
+\caption{Matriz de confusión para Supportiveness con prompt vx}
+\label{tab:confusion-matrix-Supportiveness-vx}
+\end{table}
+
 Credibility confussion matrix:
 TP=1449	FP=1149	FN=10	TN=79
 Precision: 0.5577367205542725
@@ -43,13 +49,15 @@ Cohen´s Kapa: 0.062033103477355904
 Recall: 0.9931459904043866
 
 
-        \begin{table}[]
-        \begin{tabular}{|c|ccc|}
-        \hline
-        \textbf{Credibility}            & & \multicolumn{2}{c|}{\textbf{Predicción}}                                          \\ \hline
-                                & \multicolumn{1}{c|}{}         & \multicolumn{1}{c|}{\textbf{Positivo}} & \textbf{Negativo} \\ \hline
-        \multirow{2}{*}{\textbf{Actual}} & \multicolumn{1}{c|}{\textbf{Positivo}} & \multicolumn{1}{c|}{1449}       & 10       \\ \cline{2-4} 
-                                & \multicolumn{1}{c|}{\textbf{Negativo}} & \multicolumn{1}{c|}{1149}       & 79       \\ \hline
-        \end{tabular}
-        \end{table}
-        
+\begin{table}[]
+\centering
+\begin{tabular}{|c|cc|}
+\hline
+\textbf{Credibility}  & \multicolumn{2}{c|}{\textbf{Predicción}} \\ \hline
+                        & \textbf{Positivo} & \textbf{Negativo}  \\ \hline
+\textbf{Actual Positivo} & 1449             & 10                \\ \hline
+\textbf{Actual Negativo} & 1149             & 79                \\ \hline
+\end{tabular}
+\caption{Matriz de confusión para Credibility con prompt vx}
+\label{tab:confusion-matrix-Credibility-vx}
+\end{table}
