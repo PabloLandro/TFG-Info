@@ -6,3 +6,4 @@ tiktoken
 pandas
 matplotlib
 argparse
+ollama

@@ -15,7 +15,7 @@ MODEL_CONFIGS = {
         "encoding": tiktoken.encoding_for_model("gpt-4o-mini"),
         "library": "openai"
     },
-    "llama3": {
+    "llama3:8b-instruct-q4_1": {
         "api_url": None,  # Ollama doesn't use API URLs
         "encoding": None,  # Encoding not needed for Ollama
         "library": "llama3:8b-instruct-q4_1"
@@ -29,6 +29,14 @@ model_config = MODEL_CONFIGS[current_model]
 # Update model and configurations
 def set_model(model_name):
     global current_model, model_config
+
+    model_mapping = {
+        "gpt": "gpt-4o-mini",
+        "llama3": "llama3:8b-instruct-q4_1"  # Change 'llama3-model' to whatever the actual model name for llama3 is
+    }
+
+    model_name = model_mapping[model_name]
+
     if model_name not in MODEL_CONFIGS:
         raise ValueError(f"Model {model_name} not found. Available models: {list(MODEL_CONFIGS.keys())}")
     current_model = model_name

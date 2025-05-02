@@ -1,4 +1,4 @@
-from gpt import evaluate, print_total_tokens
+from gpt import set_model, evaluate, print_total_tokens
 from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file, get_qrels_dict
 from itertools import combinations
 import os, argparse, json, sys
@@ -162,6 +162,14 @@ def create_parser():
     # Optional argument for prompt names
     parser.add_argument("--prompt_names", help="Comma-separated list of prompt names to be run on featured prompt, if not present, all will be ran (optional) (e.g. Str,Nar,Des)", nargs="?", default=[])
     parser.add_argument("--no_evaluate", help="If present, requests will not be sent to LLM API, this can be used to just count tokens (optional)", action="store_true")
+
+    parser.add_argument(
+        "--model",
+        choices=["gpt", "llama3"],
+        help="Specify the model to use. Options are: gpt, llama3. Default is gpt.",
+        default="gpt"
+    )
+
     return parser
 
 def check_args(parser, args):
@@ -207,10 +215,8 @@ if __name__ == "__main__":
     is_feature_prompt = "feature" in args.prompt_file.lower()
 
     check_args(parser, args)
-    
-    print(args.prompt_names)
-    
-    set_year(args.year)
+
+    set_model(args.model)
 
     qrels, topics, searcher = get_year_data()
 
