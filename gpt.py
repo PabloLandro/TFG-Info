@@ -2,11 +2,18 @@ import os
 import requests
 from dotenv import load_dotenv
 import tiktoken
-import ollama  # Import Ollama library
+from ollama import Client as OllamaClient
 
 # Load API key from .env
 load_dotenv()
 api_key = os.getenv("API_KEY")
+
+ollama_client = OllamaClient(
+  host=os.getenv("OLLAMA_HOST"),
+)
+
+# Initialize total_tokens counter
+total_tokens = 0
 
 # Centralized configuration for models
 MODEL_CONFIGS = {
@@ -42,6 +49,10 @@ def set_model(model_name):
     current_model = model_name
     model_config = MODEL_CONFIGS[model_name]
 
+# Get current token count
+def print_total_tokens():
+    print(f"Total tokens: {total_tokens}")
+
 # Common evaluate function
 def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=True):
     global total_tokens
@@ -53,10 +64,8 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
         # OpenAI: Calculate tokens and make HTTP request
         encoding = model_config["encoding"]
         total_tokens += len(encoding.encode(prompt))
-
         if no_evaluate:
             return None
-
         # Prepare payload
         payload = {
             "model": current_model,
@@ -66,7 +75,7 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
             "temperature": 0.7,
             "messages": [{"role": "user", "content": prompt}]
         }
-
+        print("Evaluating with openai")
         # Make OpenAI API request
         response = requests.post(model_config["api_url"], headers={
             "Content-Type": "application/json",
@@ -78,12 +87,12 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
         else:
             raise Exception(f"Error: {response.status_code} - {response.text}")
 
-    elif model_config["library"] == "ollama":
+    elif model_config["library"] == "llama3:8b-instruct-q4_1":
         # Ollama: Directly call the chat function
         if no_evaluate:
             return None
-
-        response = ollama.chat(model=current_model, messages=[
+        print("Evaluating with ollama")
+        response = ollama_client.chat(model=current_model, messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
         ])

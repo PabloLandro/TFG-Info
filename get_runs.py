@@ -219,10 +219,10 @@ if __name__ == "__main__":
     set_model(args.model)
 
     qrels, topics, searcher = get_year_data()
+    print(args.no_evaluate)
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
-        print("Starting")
         get_runs_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
     else:
         get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, no_evaluate=args.no_evaluate)

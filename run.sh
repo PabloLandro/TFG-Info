@@ -17,5 +17,8 @@ conda init bash
 conda activate myTrecEnv
 export LC_ALL=C.UTF-8
 export LANG=C.UTF-8
-python confussion.py
 
+#python plot_rbo.py stats/run_evals/runs_2019 2019 --mode=single
+#python plot_rbo.py stats/run_evals/runs_2022 2022 --mode=single
+python confussion.py matrix runs/runs_v1 2021 stats/matrices/matrix_v1
+python confussion.py matrix runs/runs_v2 2021 stats/matrices/matrix_v2
