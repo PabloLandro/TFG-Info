@@ -21,11 +21,11 @@ TOPICS_2020=os.path.join("misinfo-resources-2020", "topics", "misinfo-2020-topic
 TOPICS_2021=os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topics.xml")
 TOPICS_2022=os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml")
 
-#INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb-b13")
-INDEX_2019=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "clueweb_rawtext2")
-INDEX_2020=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "CC-NEWS-TREC-misinfo-2020")
-INDEX_2021=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
-INDEX_2022=os.path.join("/", "mnt", "beegfs", "groups", "irgroup", "indexes", "C4")
+INDEXES_DIR = os.getenv("INDEXES_PATH")
+INDEX_2019=os.path.join(INDEXES_DIR, "clueweb_rawtext2")
+INDEX_2020=os.path.join(INDEXES_DIR, "CC-NEWS-TREC-misinfo-2020")
+INDEX_2021=os.path.join(INDEXES_DIR, "C4")
+INDEX_2022=os.path.join(INDEXES_DIR, "C4")
 
 def get_year_aux():
     if YEAR == 2019:

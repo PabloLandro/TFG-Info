@@ -2,15 +2,10 @@ import os
 import requests
 from dotenv import load_dotenv
 import tiktoken
-from ollama import Client as OllamaClient
-
+from ollama
 # Load API key from .env
 load_dotenv()
 api_key = os.getenv("API_KEY")
-
-ollama_client = OllamaClient(
-  host=os.getenv("OLLAMA_HOST"),
-)
 
 # Initialize total_tokens counter
 total_tokens = 0
@@ -92,7 +87,7 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
         if no_evaluate:
             return None
         print("Evaluating with ollama")
-        response = ollama_client.chat(model=current_model, messages=[
+        response = ollama.chat(model=current_model, messages=[
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
         ])
