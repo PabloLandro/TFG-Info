@@ -1,0 +1,596 @@
+Baseline Characteristics and the Effect of Selenium Supplementation on Cancer Incidence in a Randomized Clinical Trial | Cancer Epidemiology, Biomarkers & Prevention
+Skip to main content
+AACR Publications
+Cancer Discovery
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Immunology Research
+Cancer Prevention Research
+Cancer Research
+Clinical Cancer Research
+Molecular Cancer Research
+Molecular Cancer Therapeutics
+Register
+Log in
+Advertisement
+Main menu
+Home
+About
+The Journal
+AACR Journals
+Subscriptions
+Permissions and Reprints
+Reviewing
+Articles
+OnlineFirst
+Current Issue
+Past Issues
+CEBP Focus Archive
+Meeting Abstracts
+Collections
+Highly Cited Collection
+Prevention and Early Detection
+Editors' Picks
+For Authors
+Information for Authors
+Author Services
+Best of: Author Profiles
+Submit
+Alerts
+Table of Contents
+OnlineFirst
+Editors' Picks
+Citation
+Author/Keyword
+News
+Cancer Discovery News
+AACR Publications
+Cancer Discovery
+Cancer Epidemiology, Biomarkers & Prevention
+Cancer Immunology Research
+Cancer Prevention Research
+Cancer Research
+Clinical Cancer Research
+Molecular Cancer Research
+Molecular Cancer Therapeutics
+User menu
+Register
+Log in
+Search
+Search for this keyword
+Advanced search
+Search for this keyword
+Advanced Search
+Home
+About
+The Journal
+AACR Journals
+Subscriptions
+Permissions and Reprints
+Reviewing
+Articles
+OnlineFirst
+Current Issue
+Past Issues
+CEBP Focus Archive
+Meeting Abstracts
+Collections
+Highly Cited Collection
+Prevention and Early Detection
+Editors' Picks
+For Authors
+Information for Authors
+Author Services
+Best of: Author Profiles
+Submit
+Alerts
+Table of Contents
+OnlineFirst
+Editors' Picks
+Citation
+Author/Keyword
+News
+Cancer Discovery News
+Research Articles
+Baseline Characteristics and the Effect of Selenium Supplementation on Cancer Incidence in a Randomized Clinical Trial
+A Summary Report of the Nutritional Prevention of Cancer Trial
+Anna J. Duffield-Lillico, Mary E. Reid, Bruce W. Turnbull, Gerald F. Combs Jr., Elizabeth H. Slate, Lori A. Fischbach, James R. Marshall and Larry C. Clark
+Anna J. Duffield-Lillico
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Mary E. Reid
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Bruce W. Turnbull
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Gerald F. Combs
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Elizabeth H. Slate
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Lori A. Fischbach
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+James R. Marshall
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Larry C. Clark
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+DOI: Published July 2002
+Article
+Figures & Data
+Info & Metrics
+PDF
+Abstract
+The Nutritional Prevention of Cancer Trial was a randomized, clinical trial designed to evaluate the efficacy of selenium asselenized yeast (200 μg daily) in preventing therecurrence of nonmelanoma skin cancer among 1312 residents of the Eastern United States. Original secondary analyses through December 31, 1993 showed striking inverse associations between treatment and the incidence of total [hazard ratio (HR) = 0.61, 95% confidence interval (CI) = 0.46–0.82], lung, prostate, and colorectal cancer and total cancer mortality. This report presents results through February 1, 1996, the end of blinded treatment. Effect modification by baseline characteristics is also evaluated. The effects of treatment overall and within subgroups of baseline age, gender, smoking status, and plasma selenium were examined using incidence rate ratios and Cox proportional hazards models. Selenium supplementation reduced total (HR = 0.75, 95% CI = 0.58–0.97) and prostate (HR = 0.48, 95% CI = 0.28–0.80) cancer incidence but was not significantly associated with lung (HR = 0.74, 95% CI = 0.44–1.24) and colorectal (HR = 0.46, 95% CI = 0.21–1.02) cancer incidence. The effects of treatment on other site-specific cancers are also described. The protective effect of selenium was confined to males (HR = 0.67, 95% CI = 0.50–0.89) and was most pronounced in former smokers. Participants with baseline plasma selenium concentrations in the lowest two tertiles (<121.6 ng/ml) experienced reductions in total cancer incidence, whereas those in the highest tertile showed an elevated incidence (HR = 1.20, 95% CI = 0.77–1.86). The Nutritional Prevention of Cancer trial continues to show a protective effect of selenium on cancer incidence, although not all site-specific cancers exhibited a reduction in incidence. This treatment effect was restricted to males and to those with lower baseline plasma selenium concentrations.
+Introduction
+The NPC4 Trial (1) contributed substantially to the evidence supporting selenium as a chemopreventive agent. These results, which have been cited in the medical literature over 400 times in the last 5 years, have also received considerable public attention. The study was originally designed to test the efficacy of selenium supplementation in preventing NMSC recurrence in men and women with a history of two or more BCCs or one SCC of the skin. The hypothesis for this trial was supported by Clark’s observation that populations in the southeastern United States, a region with soil selenium concentrations lower than those of the rest of the country, showed elevated NMSC rates (2) . Thus, Clark and colleagues initiated a randomized clinical trial of selenium supplementation for preventing the recurrence of NMSC in this high-risk population. The original trial results failed to confirm that selenium supplementation prevented NMSC recurrence. Indeed, the incidence of new BCCs was increased by a nonsignificant 10% among selenium-supplemented individuals, whereas the incidence of new SCCs was increased by an again nonsignificant 14%.
+Nevertheless, early in the intervention, an unexpected deficit of other cancer and mortality endpoints among selenium-supplemented participants became apparent, so that in 1993, endpoints for the trial were expanded to include lung, prostate, and colorectal cancer, as well as total cancer incidence and total cancer mortality. In 1994, the Safety Monitoring and Advisory Committee recommended the trial be unblinded and results published. The National Cancer Institute audited the study in May 1995, and, with the National Cancer Institute’s approval, the blinded phase of patient treatment and follow-up ended in February 1996. At this time, all participants were informed of their treatment status, given the opportunity to take selenium supplements, and reconsented to participate in the Open-Label Phase of this trial.
+The apparent effects of selenium supplementation on cancer incidence through the end of 1993 (representing an average of 6.4 years of subject follow-up) were striking. The original report indicated that selenium supplementation led to a marginally statistically significant decrease in (a) lung cancer incidence (HR = 0.56, 95% CI = 0.0.31–1.01, P = 0.05), (b) statistically significant decreases in prostate cancer incidence (HR = 0.35, 95% CI = 0.18–0.65, P = 0.001), (c) colorectal cancer incidence (HR = 0.39, 95% CI = 0.17–0.90, P = 0.03), (d) total cancer incidence (HR = 0.61, 95% CI = 0.46–0.82, P < 0.001), and (e) total cancer mortality (HR = 0.48, 95% CI = 0.0.31–0.76, P = 0.001).
+The current report adds considerably to the statistical precision of this trial by extending the previously reported results (September 15, 1983 to December 31, 1993) through the entire blinded phase of the trial (September 15 1983 to February 1, 1996). With total cancer incidence as the primary end point, mean subject follow-up time was enhanced by 1 year to an average of 7.4 years. Overall, selenium supplementation continued to reduce the incidence of total cancer and prostate, colorectal, and lung cancers, although the reduction in incidence of the latter two cancers was not statistically significant. Not all site-specific cancers presented in this report exhibited a reduction in risk with selenium supplementation. In addition, this analysis describes the effect of selenium supplementation on total cancer incidence within subgroups defined by key baseline characteristics including age, gender, smoking status, and plasma selenium. The protective effect of selenium supplementation on total cancer incidence was most prominent in males and those with lower baseline plasma selenium concentrations. Although the examination of treatment effects in subgroup analyses is fraught with potential limitations, and the modest sample size limits statistical power and interpretation, subgroup analyses in this important dataset provide an opportunity to evaluate trends in the data, which may further our understanding of the effectiveness of selenium as a chemopreventive agent.
+Materials and Methods
+The protocol for the NPC study is described in the original report by Clark et al. (1) . Briefly, this study was a randomized, double-blind, placebo-controlled trial conducted among 1312 participants living in the Eastern United States. Participants had a history of two or more BCCs or one SCC of the skin, with one of these occurring within the year prior to randomization. Participants had a life expectancy of at least 5 years and had had no internal malignancies treated within the previous 5 years. Exclusion criteria included a history of significant liver or kidney disorders. Although recruitment was gender neutral, approximately three-quarters of the participants were male.
+This study was conducted in dermatology clinics in seven cities located in low-selenium areas of the United States, including Augusta, Georgia; Macon, Georgia; Columbia, South Carolina; Miami, Florida; Wilson, North Carolina; Greenville, North Carolina; and Newington, Connecticut. Recruitment began on September 15, 1983 and continued each year through 1991. Participants were randomized in a double-blinded fashion to the experimental treatment or an identical placebo. Experimental participants were treated with 200 μg of selenium supplied in a 0.5-g high-selenium baker’s yeast tablet provided by Nutrition 21 (La Jolla, CA) through 1995 and by Cypress Systems (Fresno, CA) thereafter. The selenium content of each batch of pills was determined in the laboratories of Dr. G. F. Combs, Jr. and of Dr. I. S. Palmer (South Dakota State University, Brookings, SD) using the diaminonapthalene-fluorometric procedure after nitric-perchloric acid digestion (3) . Plasma selenium concentration was determined in the laboratory of Dr. G. F. Combs, Jr. by automated electrothermal atomic absorption spectrophotometry (Perkin-Elmer 3030; Perkin-Elmer Corp., Norwalk, CT) equipped with an electrodeless discharge lamp and automatic Zeeman-effect background correction. Quality control included multiple aliquots of human plasma as external control samples. A coefficient of variation of <7% (for duplicate analyses) was the criterion for acceptance (4) .
+At the baseline interview, sociodemographic and behavioral variables including education (number of years of schooling, 0–18), occupation (classified according to NIH standards), numbers of years on farm, use of vitamin supplements, use of sunscreen, cancer screening information, number of alcoholic drinks/day, smoking status (current, former, never), number of cigarettes smoked/day, and years of smoking were collected from the participants. In addition, a thorough medical and medication history was obtained at baseline and updated at each biannual follow-up visit. Patient medical records from each clinic were reviewed periodically to ascertain information from both study and nonstudy visits to ensure the completeness and accuracy of the information. For participants who became inactive, annual contact was attempted using the National Death Index and ChoicePoint (formerly Equifax Inc.) to determine vital status and identify diagnoses of new illnesses. In the event of reports of new illnesses or medical procedures, research nurses requested medical, surgical, and pathology records from physicians in hospitals for documentation. Searches for additional cases of cancer were also performed at each state tumor registry in which a clinic site was located. An oncologist or appropriate medical specialist reviewed every cancer record and confirmed the diagnosis. A nosologist coded the death certificates. Review and coding of all records occurred in a blinded manner.
+At the end of the blinded period of treatment on February 2, 1996, 35.9% of participants were still on treatment, 16.6% were off treatment but still having routine dermatological examinations, 22.1% of participants were censored for dermatological endpoints but not other endpoints, and 24.8% had died. After a total of 9301 PY of follow-up, no participants were lost to vital follow-up, and only seven subjects (three in the selenium group and four in the placebo group) declined to provide additional illness information. Participant-reported compliance indicated that 79.3% of participants (80.3% in the placebo group and 78.4% in the selenium group) missed taking a pill less than twice a month.
+Sixty-two participants (including two cancer cases in each treatment group) whose initial blood draws were drawn >4 days after the randomization date were excluded from the analysis. Thus, all statistical analyses were based on data from those 1250 participants with initial blood draws within 4 days of randomization. Results obtained from the total cohort of 1312 participants and the subsample of 1250 participants with valid baseline selenium values (621 participants in the selenium group and 629 participants in the placebo group) showed no significant differences when continuous (age, BMI, and plasma selenium concentrations) and categorical (gender and smoking status) baseline variables were compared using t tests and χ2 tests, respectively. In addition, no significant differences in incidence data from the total cohort and subsample of the NPC participants were detected.
+Within the subsample of 1250 NPC participants, t tests and χ2 tests were conducted to determine any differences in the distribution of these baseline variables between treatment groups. PY of follow-up were calculated among the subsample of 1250 subjects. For subjects without cancer, PY were computed using the date of randomization as the start date, and the earlier of February 1, 1996 or the date of death as the closing date. PY of follow-up for cancer cases were calculated through the date of the first category-specific, postrandomization primary cancer diagnosis (excluding NMSC) documented in pathology, surgery, or medical reports. Participants with multiple cancers at different sites were counted only once in the analysis of total cancer incidence and once in each site-specific analysis in which an incident cancer was diagnosed.
+Total cancer incidence data between treatment groups were analyzed statistically through the comparison of Nelson-Aalen (5) cumulative hazard function estimates calculated at different time points of the trial and the two-sided log-rank test. RRs, calculated using the ratio of the incidence density for the treatment groups, and the corresponding 95% CIs for site-specific and total cancer incidence and total cancer mortality were calculated. Ps were derived from log-rank tests. Supporting analyses included the calculation of HRs and 95% CIs using the Cox proportional hazards model, which allowed adjustment for age at baseline (continuous variable), gender, and smoking status (never, former, current) as covariates when appropriate. Throughout this report, results of both the incidence rate ratio and Cox proportional hazards models will be displayed in the tables, although only the latter will be presented in the text. Among the 1250 participants with baseline blood draws within 4 days of randomization, the effect of selenium supplementation on total cancer incidence was assessed within subgroups determined by baseline characteristics. Effect modification by median age (65 years), gender, and smoking status (never, former, current) at randomization was tested using the Mantel-Haenszel test for heterogeneity in the unadjusted models. The statistical significance of the interaction between each baseline characteristic and treatment group, adjusted for other important baseline variables, was tested in a Cox proportional hazards model that included this interaction and the corresponding main effect terms, in addition to the variables for the adjustment.
+The statistical association between total cancer incidence and concentrations of baseline plasma selenium was also determined. Based on the distribution among the 1250 participants with valid values, baseline plasma selenium concentrations were divided by the median (≤113.4 ng/ml and >113.4 ng/ml) and by tertiles (≤105.2 ng/ml, 105.3–121.6 ng/ml, and >121.6 ng/ml). The effect of selenium supplementation on total cancer incidence was assessed within these subgroups of baseline plasma selenium with the same techniques used for the analyses within subgroups of baseline age, gender, and smoking status.
+HRs, 95% CIs, and tests of statistical significance adjusted for age, gender, and smoking status at baseline were calculated to determine the association between baseline plasma selenium concentrations and the subsequent development of total cancer, according to treatment group. To confirm the consistency of this association, three different measures of baseline plasma selenium were used: (a) as a continuous variable (each unit = 10 ng/ml); (b) by the median value; and (c) by tertiles. The subgroups below the median or in the first tertile of baseline plasma selenium were used as the referent groups in their respective models. Tests for trends in the effects of baseline plasma selenium across tertiles were conducted using the tertile number as a continuous term in Cox proportional hazards models.
+All techniques were implemented using STATA 6.0 (6) .
+Results
+Selected baseline characteristics of participants, by treatment group, are displayed in Table 1⇓ . The treatment groups were well balanced for all evaluated baseline characteristics. At randomization, the mean age was 63.4 years among participants randomized to selenium and 63.0 years among those randomized to placebo. The mean BMI (kg/m2) and proportions of current, never, and former smokers at baseline did not vary appreciably across treatment groups. The mean baseline plasma selenium concentrations were 114.4 and 114.0 ng/ml for selenium- and placebo-supplemented individuals, respectively. The distributions of baseline plasma selenium by median and tertile were almost identical across treatment groups.
+View this table:
+View inline
+View popup
+Table 1
+Baseline characteristics of participants by treatment group
+At unblinding (February 1, 1996), the trial had 9301 PY of follow-up (4694 and 4607 years for the selenium and placebo groups, respectively). Throughout this period, 242 cases of incident cancer were diagnosed. Of these, 105 occurred in the selenium-supplemented group, and 137 occurred in the placebo-supplemented group. Total cancer cumulative incidence curves over time since randomization are shown in Fig. 1⇓ . Cumulative incidence was lower among those receiving selenium than among those receiving placebo, throughout the entire trial. At the end of the study, the selenium group showed a significantly lower incidence (25%) of total cancer (HR = 0.75, 95% CI = 0.58–0.97, P = 0.03) than the placebo group (Table 2)⇓ . Table 2⇓ also shows the RR and HR (HR = 0.61, 95% CI = 0.46–0.82, P < 0.001) estimates for total cancer from the 1983–1993 analysis published in 1996 (1) . The overall effect of selenium is diminished slightly by the inclusion of 25 months of additional follow-up.
+Download figure
+Open in new tab
+Download powerpoint
+Fig. 1.
+Cumulative incidence of total cancer in the NPC Trial by treatment group.
+View this table:
+View inline
+View popup
+Table 2
+Total cancer incidence by treatment group and follow-up period
+Analyses by cancer site are displayed in Table 3⇓ . The most frequent site-specific cancer in this cohort was prostate cancer (n = 64), closely followed by lung cancer (n = 60) and then by colorectal cancer (n = 28). Prostate cancer incidence was significantly reduced by selenium supplementation (HR = 0.48, 95% CI = 0.28–0.80, P = 0.005); lung cancer incidence showed a nonsignificant 26% reduction (HR = 0.74, 95% CI = 0.44–1.24, P = 0.26), and colorectal cancer incidence exhibited a marginally significant reduction of 54% (HR = 0.46, 95% CI = 0.21–1.02, P = 0.057). Selenium-supplemented individuals experienced nonsignificant reductions in incidence for other carcinomas (thyroid, pancreatic, gastric, renal, endometrial, mesothelioma, and unknown primary), other noncarcinomas (glioblastoma, Kaposi’s sarcoma, astrocytoma, histiocytoma, liposarcoma, leiomyosarcoma, and sarcoma), and cancer of the esophagus. Conversely, participants supplemented with selenium showed nonsignificantly increased incidence of five of the other specific cancers, including melanoma, bladder cancer, breast cancer, head and neck cancer, lymphoma, and leukemia, compared with those supplemented with placebo (Table 3)⇓ .
+View this table:
+View inline
+View popup
+Table 3
+Site-specific cancer incidence by treatment group (through February 1, 1996)
+Table 3⇓ also shows total cancer mortality by treatment group. One hundred and six cancer deaths occurred throughout the trial. Of these, 40 were among selenium-supplemented individuals, and 66 were among placebo-supplemented participants (HR = 0.59, 95% CI = 0.39–0.87, P = 0.008).
+The effects of selenium supplementation on total cancer incidence within subgroups defined by baseline cancer risk factors are shown in Table 4⇓ . There was no evidence that the effect of selenium supplementation was related to age at baseline. The adjusted treatment effects for males and females were 0.67 (95% CI = 0.50–0.89, P = 0.005) and 1.20 (95% CI = 0.66–2.20, P = 0.55), respectively. Thus, any protective treatment effect in the study was confined to males. Multivariate adjustment for age and smoking status did not alter the treatment effects within either gender subgroup. Ps for heterogeneity and interaction were not statistically significant.
+View this table:
+View inline
+View popup
+Table 4
+Total cancer incidence by treatment group and subgroups defined by baseline characteristics
+Table 4⇓ also presents subgroup analysis by baseline cigarette smoking status. Selenium supplementation decreased unadjusted total cancer incidence, although not significantly so, for each category of smoking status (never, former, and current smokers). Similar treatment effects were observed in never smokers (HR = 0.81, 95% CI 0.47–1.41, P = 0.46) and current smokers (HR = 0.86, 95% CI 0.56–1.31, P = 0.47). Former smokers experienced a statistically significant treatment benefit (HR = 0.66, 95% CI = 0.44–0.97, p = 0.04). Nevertheless, Ps for heterogeneity and interaction were not statistically significant.
+The report by Clark et al. (7) , which described a more extensive analysis of incident prostate cancer in the 1983–1993 dataset, indicated that the effect of selenium supplementation was strongest among participants with the lowest baseline plasma selenium concentrations (RR = 0.08, P = 0.002 for individuals with baseline plasma selenium concentrations <106.4 ng/ml). We investigated the association between selenium supplementation and the incidence of total cancer across strata of baseline plasma selenium (Table 5)⇓ . A statistically significant inverse association between selenium supplementation and total cancer incidence was apparent in participants below the median baseline selenium (HR = 0.62, 95% CI = 0.43–0.90, P = 0.01), whereas those above the median value at baseline experienced a nonsignificant reduction in incidence (HR = 0.91, 95% CI = 0.63–1.30, P = 0.60). However, a significant interaction between treatment group and baseline plasma selenium divided by the median concentration was not apparent (P for interaction = 0.14).
+View this table:
+View inline
+View popup
+Table 5
+Total cancer incidence by treatment group and baseline plasma selenium
+Table 5⇓ shows that selenium supplementation led to a significant 49% reduction in incidence among those in the lowest tertile of baseline plasma selenium (HR = 0.51, 95% CI = 0.32–0.81, P = 0.005) and to a nonsignificant 30% reduction in incidence among those in the second tertile (HR = 0.70, 95% CI = 0.44–1.09, P = 0.11). For those in the third tertile, selenium supplementation was associated with a nonsignificant 20% increase in incidence (HR = 1.20, 95% CI = 0.77–1.86, P = 0.43). A significant interaction between treatment group and tertile of baseline plasma selenium was evident (P for interaction = 0.007).
+As a means of exploring the nature of this interaction, we present the HRs for total cancer according to baseline selenium status within treatment group. Table 6⇓ presents these HRs, 95% CIs, and tests of statistical significance, relating baseline plasma selenium concentrations to the subsequent development of total cancer. HRs were calculated using three different exposure measures of baseline plasma selenium: (a) as a continuous variable (each unit = 10 ng/ml); (b) by the median value; and (c) by tertiles.
+View this table:
+View inline
+View popup
+Table 6
+Total cancer incidence according to baseline plasma selenium, by treatment group
+A strong positive association between baseline plasma selenium and the incidence of total cancer is seen within the selenium group for the continuous, dichotomous, and trichotomous analyses of baseline selenium concentrations. When baseline plasma selenium is treated as a continuous variable, selenium supplementation increased total cancer incidence by 12% (HR = 0.12, 95% CI = 1.03–1.22, P = 0.005) for every unit (where 1 unit = 10 ng/ml) increase in baseline plasma selenium concentration. When selenium is treated as a dichotomous variable, the comparison of total cancers above the median with those below the median yielded a HR of 1.45 (95% CI = 0.98–2.15, P = 0.06). Using the first baseline selenium tertile as the referent group among selenium-supplemented subjects, the HR was 1.29 (95% CI = 0.78–2.15, P = 0.32) in the second tertile and 1.88 (95% CI = 1.15–3.05, P = 0.01) in the third tertile of baseline plasma selenium. The trend for this association was statistically significant (P = 0.01). Thus, the trichotomous analysis revealed that among selenium-supplemented participants, those in the third tertile experienced an almost 2-fold, statistically significant elevation of incidence compared with participants in the first tertile.
+The association of baseline plasma selenium and total cancer in the placebo group, albeit weak, was in the protective direction, with individuals of higher status showing a lower incidence of total cancer (Table 6)⇓ . There was a nonsignificant decrease in incidence of total cancer with increasing baseline selenium in increments of 10 ng/ml (HR = 0.97, 95% CI = 0.90–1.05, P = 0.49). The decrease in incidence was also nonsignificant when comparing the effects of baseline selenium above the median, as opposed to below the median (HR = 0.95, 95% CI = 0.68–1.34, P = 0.79). This nonsignificant reduction in total cancer incidence is again apparent in the comparison of tertiles of baseline plasma selenium. Using the first tertile as the referent group, the HR was 0.88 (95% CI = 0.59–1.31, P = 0.52) in the second and 0.76 (95% CI = 0.50–1.16, P = 0.20) in the third tertile. The P for trend in this trichotomous analysis was 0.20.
+Discussion
+The NPC Trial is the only double-blind, placebo-controlled, randomized trial to date to have tested the effect of selenium supplementation on cancer incidence in a Western population. The original secondary analyses of the NPC data showed a highly significant inverse association of selenium supplementation with the incidence of total cancer through December 31, 1993, over a mean period of 6.4 years of follow-up (1) . In this report, we describe analyses of the effect of selenium supplementation on total cancer incidence through the end of randomized, blinded treatment (February 1, 1996). This extended follow-up attenuated the protective effect of selenium supplementation on total cancer incidence, although selenium supplementation continued to reduce the incidence of total cancer over a mean follow-up of more than 7 years. A significant inverse association with the most common cancer, prostate cancer, was observed. For the next most common sites, lung and colorectal cancers, respectively, inverse but nonsignificant associations with selenium supplementation and incidence were determined. These results are consistent with the majority of epidemiological studies that support the efficacy of selenium as a chemopreventive agent against all cancers (8, 9, 10, 11, 12, 13, 14, 15, 16) and prostate (17, 18, 19) , lung (12 , 20, 21, 22, 23, 24) , and colorectal cancers (25, 26, 27, 28) . However, not all epidemiological trials consistently support a protective association between selenium and cancer (26 , 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41) .
+Of the remaining eight cancer sites evaluated in this report, nonsignificant reductions in incidence were apparent in three categories: (a) other carcinomas; (b) other noncarcinomas; and (c) esophageal cancer. Results from epidemiological trials on these three cancer categories have been inconsistent (41, 42, 43, 44, 45) .
+Conversely, nonsignificant increases in incidence were evident in five cancer types, including melanoma, bladder cancer, breast cancer, head and neck cancer, and lymphoma and leukemia. These results, although nonsignificant and based on small case numbers, may indicate potential increased risk with selenium supplementation. Previous reports on the effects of selenium on melanoma (24 , 46, 47, 48, 49) , bladder cancer (33 , 48 , 50) , head and neck cancer (51, 52, 53) , and lymphoma and leukemia (24 , 37 , 41 , 54) in epidemiological trials have been varied. The evidence associating selenium status and breast cancer is conflicting. Analogous to that observed in the NPC Trial, several prospective studies have shown nonsignificant positive associations between serum (24) and toenail (55 , 56) selenium status and breast cancer. However, the lack of an association between serum (57) , toenail (58) , and four indicators (59) of selenium status and breast cancer risk has been suggested by several case-control studies. Similarly, several prospective trials have shown equivocal associations between serum (37 , 60) and toenail (61) selenium status and breast cancer risk. Many case-control studies have suggested a protective effect of higher selenium status (26 , 62 , 63) in postmenopausal but not premenopausal women (64) . In addition, inverse trends between breast cancer and selenium concentrations in serum (29) , toenails (65) , and drinking water (41) have been suggested in prospective trials, although results were nonsignificant. Moreover, significant inverse associations between breast cancer risk and serum (66, 67, 68) and hair (23) selenium have been documented.
+Methodological issues, primarily the difficulty of assessing long-term selenium exposure, may explain some of the inconsistencies in the association of selenium and cancer reported from epidemiological trials (69) . In addition, treatment and disease may alter selenium status and thus may lead to temporal ambiguity and misclassification of selenium status. Nevertheless, a meta-analysis of cohort studies comparing associations of serum selenium, retinol, β-carotene, and vitamin E with cancer suggests that selenium has a remarkably consistent protective effect (70) .
+Furthermore, evidence for the chemopreventive efficacy of selenium has been consistently represented in laboratory trials, although the exact mechanism(s) of its activity is unclear. The overwhelming majority of in vivo studies in rodents have shown that various forms of selenium inhibit carcinogen-induced covalent DNA adduct formation and retard oxidative damage to DNA, lipids, and proteins at multiple organ sites (71) . In vitro and in vivo systems have shown that tumor cell growth, cell proliferation, and cell cycle biomarkers; apoptosis; p53 expression; cyclooxygenase 2 expression; DNA, RNA, and protein synthesis; the activation of transcriptional factors activator protein 1 and nuclear factor κB; the activities of protein kinase C and protein kinase A, thymidine kinase, c-Jun-NH2-kinase, and DNA cytosine methyltransferase; and 8-isoprostane formation are modified by various forms of selenium treatment (71) .
+Effect Modification.
+Several potential effect modifiers for the effect of selenium supplementation on total cancer were presented in this analysis, including age at baseline, gender, and baseline smoking and plasma selenium statuses. Our data suggest that gender and baseline plasma selenium status predict the effect of selenium supplementation on total cancer.
+Gender.
+The high proportion of males in the trial reflects the higher age-adjusted incidence of NMSC among men living in the United States (for BCC, 247/100,000 PY for males and 150/100,000 PY for females; for SCC, 65/100,000 and 24/100,000 PY for males and females, respectively) (72) . The difference in the participation of women also reflects the reliance on three Veterans Administration hospitals for subject recruitment, where there was an overwhelming preponderance of males among the potentially eligible patients. Whereas the recruitment of patients was gender blind, it is likely that the lower number of females in the trial and their lower incidence of cancer limited the power to investigate the interaction between gender and treatment. Thus, the apparent interaction between gender and treatment was not statistically significant, and the overall protective treatment effect was detectable only among males. Moreover, although the effect in men appeared to be concentrated in those whose baseline plasma selenium concentrations were below the median or in the lowest tertiles, baseline plasma selenium status did not modify the treatment effect among women (data not shown).
+This discrepancy in the effect of selenium supplementation on cancer protection by gender has also been noted elsewhere. A case-control study of total cancer mortality nested within a prospective trial of 10,532 persons in the Netherlands showed that among males, the mean serum selenium for cases was significantly less than that for controls and that the adjusted risk of cancer mortality for the lowest quintile of serum selenium (<100.8 ng/ml) was more than twice that of men with higher concentrations (RR = 2.7, 90% CI = 1.2–6.2; Ref. 30 ). In females, however, selenium concentrations were similar among cases and controls, with no evidence of increased cancer mortality associated with low serum selenium (30) . Similar results were observed in a longitudinal study of 39,268 men and women participating in the Finnish Social Insurance Institution’s Mobile Clinic Health Examination Survey (29) .
+Effect modification by gender may be attributed in part to gender differences in selenium metabolism. In a European study, females excreted significantly higher amounts of selenium per kilogram of body weight compared with males (73) . Furthermore, whole-body residence time and body load adjusted for body weight have been estimated to be greater in males than females (74) . Patterson et al. (74) speculated that these gender differences might reflect hormonal differences and the strong affinity of the testes for selenium. Thus, future chemoprevention trials may need to consider dose adjustments for gender (74) or whether large numbers of women should be included in the study samples. Clearly, we need to further evaluate how gender may modify the effect of selenium on cancer outcomes.
+Smoking.
+After adjustment for age and gender, selenium supplementation was associated with a statistically significant reduction in total cancer incidence among former smokers and with nonsignificant reductions among never and current smokers. This is consistent with the proposal that former smokers are an ideal target population for chemoprevention trials (75 , 76) . The α-Tocopherol β-Carotene Cancer Prevention Study Group (77) documented a nonsignificant reduction in lung cancer incidence with α-tocopherol and increased lung cancer incidence with β-carotene in heavy current smokers. Cumulative and continuing exposure to tobacco smoke may have overwhelmed the effect of chemopreventive agents usually associated with early initiation and promotion stages of carcinogenesis (78) .
+Baseline Plasma Selenium.
+Clark et al. (1) reported that selenium supplementation had the greatest effect on prostate cancer prevention in men from this trial with the lowest baseline plasma selenium status. In the current analyses, the protective effect of treatment on total cancer incidence was likewise confined to participants in the lowest tertile of baseline plasma selenium. Moreover, a formal interaction between baseline plasma selenium by tertile and treatment was detected in this analysis. Modification of the association between treatment and cancer incidence by baseline status of the supplemented nutrient is strikingly similar to the treatment effects for prostate cancer observed in the PHS (79 , 80) . Within the placebo group of the PHS, those in the lowest versus the highest quartile of baseline plasma β-carotene experienced a marginally significant increased risk of prostate cancer (RR = 1.45, 95% CI = 0.98–2.15), with a marginally significant P for trend over plasma quartiles. However, men in the lowest quartile randomly assigned to β-carotene supplementation had a significant reduction in prostate cancer risk (RR = 0.68, 95% CI = 0.46–0.99) compared with those assigned to placebo. Supplementation of those in the highest baseline quartile was associated with a nonsignificant increase in risk (RR = 1.33, 95% CI = 0.91–1.96). Thus, β-carotene supplementation in the PHS reduced the risk of prostate cancer only among those individuals with low baseline plasma β-carotene levels.
+In the current analysis of the NPC Trial, attempts to glean information on the nature of the effect modification of selenium treatment by baseline plasma selenium reveal a complex and confusing pattern, one that is not entirely consistent with our understanding of selenium as protective against cancer. Indeed, these results clearly indicate the lack of a protective effect among participants whose baseline plasma selenium concentrations were in the upper tertile. It is noteworthy that this group of participants was selected on the basis of residency in an area in which the selenium intake was likely to be lower than in other regions of the United States. Thus, these results provide little support for the use of 200 μg selenium/day to protect against cancer among average-risk individuals with plasma concentrations at or above the United States estimated average of 123 ng/ml (mean ± SD serum selenium in 16,693 subjects obtained from the Third National Health and Nutrition Examination Survey (NHANES III) was 123 ± 17 ng/ml (81) .
+In addition, among selenium-supplemented individuals, we observe a striking association; those with higher baseline concentrations experienced an elevated incidence of cancer. A pattern of modestly decreased incidence among placebo participants coupled with no risk gradient among treated participants seems somewhat plausible; however, the pattern we observed was clearly unpredicted and unsettling. It is critical that this effect be further evaluated in carefully controlled mechanistic studies.
+There are several limitations in this study. First, as mentioned earlier, total and site-specific cancers (excluding NMSC) were not primary endpoints of the NPC Trial (82) . Nevertheless, the ascertainment of these endpoints did not change throughout the entirety of the trial through February 1, 1996. Second, this trial possessed differential statistical power to detect an overall treatment effect in males versus females, as well as for gender-specific cancers. An adequately powered hypothesis-driven biomarker study should thus be conducted in females, before women are included in large-scale chemoprevention trials with selenium. A third limitation is the inherent difficulty in the assessment of selenium status. Due to variations in levels of the element between foodstuffs and the uncertainty about the availability for absorption of the different forms of the element, simple measures of dietary selenium intake indicative of the general status of a population are not sufficient for determining selenium status in individuals (83) . It is therefore necessary to measure biochemical concentrations of selenium in the body and not simply gross intake (83) . Ideally, the combination of two or more indices of selenium status would ensure a more accurate assessment. However, because 98.5% of the NPC participants had plasma selenium concentrations greater than the 70–90 ng/ml required to maximize plasma selenoproteins (84 , 85) , plasma selenium was the only index used to measure selenium status in this trial. Although plasma selenium concentrations reflect long-term selenium status in populations with relatively constant selenium intakes, it seems prudent that future selenium chemoprevention trials include multiple sequential plasma measures before randomization to more accurately define an individual’s baseline plasma selenium status.
+Finally, although the incidence estimates were adjusted for potential confounders such as age, gender, and smoking status, the lack of detailed information on unmeasured risk factors such as family history of cancer, physical activity level, biochemical status of other nutrients, and dietary intake data from foods and alcohol is a possible limitation. Randomization should minimize the likelihood of confounding by these factors. However, it is noteworthy that, during 1994–1995, plasma selenium concentrations measured in 1134 British people ages 65 years and over were strongly and directly correlated with plasma zinc, cholesterol, vitamin C, several carotenoids, and α-tocopherol, independent of age (86) . Thus, future investigations of this cohort will consider the impact of other antioxidants, including the tocopherols and carotenoids, on cancer incidence and the extent to which they may modulate the effect of selenium supplementation. In addition, we plan to conduct genotype analyses on the study cohort to determine the effect of selenium supplementation on the activity of the inducible enzyme thiolmethyltransferase, which is critical in the methylation of selenium compounds; the prevalence of genetic polymorphisms of key genes in selenium and carcinogen metabolism, including thiolmethyltransferase, classical glutathione peroxidase (GSHPx-1; Refs. 87 and 88 ), and the recently identified Mr 15,000 selenoprotein (89) ; and the effect of these polymorphisms on cancer incidence and response to selenium supplementation.
+In conclusion, this summary analysis of the NPC Trial, which includes data from the entire period of blinded treatment, continues to provide support for the efficacy of selenium supplementation in reducing total cancer incidence, total cancer mortality, and the incidence of prostate cancer and, to a lesser extent, lung and colorectal cancer. Not all site-specific cancers exhibited a reduction in incidence, although small case numbers limit the precision of our data. Indeed, the incidences of several site-specific cancers, including breast cancer, were nonsignificantly increased with an average of 7.4 years of follow-up. The protective effect of selenium supplementation on total cancer incidence was most prominent in males and in those with lower baseline plasma selenium concentrations. Those participants with baseline plasma selenium concentrations above the United States average showed a nonsignificant elevated incidence of total cancer. Our data suggest that effect modification of the association between selenium supplementation and cancer incidence (and/or biomarkers of carcinogenesis) by baseline plasma selenium status should be monitored and assessed in ongoing and future selenium prevention trials including those underway at the University of Arizona (90) and the recently initiated Selenium and Vitamin E Cancer Prevention Trial (91) .
+Future research studies should evaluate selenium metabolism and the effect of supplementation on genetic biomarkers of cancer risk in males and females to identify disparities that may account for the apparent differences in the chemopreventive effects of selenium between genders. Future studies should also assess the effect of selenium supplementation on these biomarkers in populations of varying selenium status both within the United States and around the world to help elucidate the mechanism by which selenium status mediates the chemopreventive activity of this element.
+Acknowledgments
+We thank all participants for their adherence and commitment throughout the duration of this study and acknowledge the collaborating dermatologists for their cooperation in facilitating the trial. We are grateful to Patricia Wilkins for her meticulous data collection and study management, Edward Wittke for his critical role in computer hardware, software and database management, and Phyllis Click, R.N., and Victoria Brummet, R.N., for their tireless efforts in reviewing medical documentation. We also wish to recognize the members of the Data Safety and Monitoring Board: Dr. Tim Byers, Dr. Harvey Cohen, Dr. Stephen George, and Dr. Robert Greenberg.
+Footnotes
+The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+↵1 Supported in part by National Cancer Center Grant RO1 CA49764 from the NIH.
+↵2 To whom requests for reprints should be addressed, at Arizona Cancer Center, Room 2964, P. O. Box 245024, Tucson, AZ 85724-5024. Phone: (520) 626-4768; Fax: (520) 626-5348; E-mail: jrmarshall{at}azcc.arizona.edu
+↵3 Deceased.
+↵4 The abbreviations used are: NPC, Nutritional Prevention of Cancer; HR, hazard ratio; CI, confidence interval; NMSC, nonmelanoma skin cancer; BCC, basal cell carcinoma; SCC, squamous cell carcinoma; BMI, body mass index; PY, person-year(s); RR, relative risk; PHS, Physicians’ Health Study.
+Received November 2, 2001.
+Revision received April 1, 2002.
+Accepted April 23, 2002.
+References
+↵
+Clark L. C., Combs G. F., Jr., Turnbull B. W., Slate E. H., Chalker D. K., Chow J., Davis L. S., Glover R. A., Graham G. F., Gross E. G., Krongrad A., Lesher J. L. J., Park H. K., Sanders B. B. J., Smith C. L., Taylor J. R., the Nutritional Prevention of Cancer Study Group. Effects of selenium supplementation for cancer prevention in patients with carcinoma of the skin. A randomized controlled trial. J. Am. Med. Assoc., 276: 1957-1963, 1996.
+OpenUrlCrossRefPubMed
+↵
+Clark L. C., Graham G. F., Crounse R. G., Grimson R., Hulka B., Shy C. M. Plasma selenium and skin neoplasms: a case-control study. Nutr. Cancer, 6: 13-21, 1984.
+OpenUrlPubMed
+↵
+Olson O. E., Palmer I. S., Cary E. E. Modification of the official fluorometric method for selenium in plants. J. Assoc. Off. Anal. Chem., 58: 117-126, 1975.
+OpenUrl
+↵
+McShane L. M., Clark L. C., Combs G. F., Jr., Turnbull B. W. Reporting the accuracy of biochemical measurements for epidemiologic and nutrition studies. Am. J. Clin. Nutr., 53: 1354-1360, 1991.
+OpenUrlAbstract/FREE Full Text
+↵
+Lin D. Y., Shen L., Ying Z., Breslow N. E. Group sequential designs for monitoring survival probabilities. Biometrics, 52: 1033-1041, 1996.
+OpenUrlCrossRefPubMed
+↵
+. Stata Statistical Software Version 6.0, Stata Corp. College Station, TX 1999.
+↵
+Clark L. C., Dalkin B., Krongrad A., Combs G. F., Jr., Turnbull B. W., Slate E. H., Witherington R., Herlong J. H., Janosko E., Carpenter D., Borosso C., Falk S., Rounder J. Decreased incidence of prostate cancer with selenium supplementation: results of a double-blind cancer prevention trial. Br J. Urol., 81: 730-734, 1998.
+OpenUrlCrossRefPubMed
+↵
+Shamberger R. J., Frost D. V. Possible protective effect of selenium against human cancer. Can. Med. Assoc. J., 100: 682-686, 1969.
+OpenUrlPubMed
+↵
+Clark L. C. The epidemiology of selenium and cancer. Fed. Proc., 44: 2584-2589, 1985.
+OpenUrlPubMed
+↵
+Yu S-Y., Chu Y-J., Gong X-L., Hou C., Li W-G., Gong H-M., Xie J-R. Regional variation of cancer mortality incidence and its relation to selenium levels in China. Biol. Trace Elem. Res., 7: 21-29, 1985.
+↵
+Schrauzer G. N. Cancer mortality correlation studies. II. Regional associations of mortalities with the consumptions of foods and other commodities. Med. Hypotheses, 2: 39-49, 1976.
+OpenUrlPubMed
+↵
+Willett W. C., Polk B. F., Morris J. S., Stampfer M. J., Pressel S., Rosner B., Taylor J. O., Schneider K., Hames C. G. Prediagnostic serum selenium and risk of cancer. Lancet, 2: 130-134, 1983.
+OpenUrlPubMed
+↵
+Salonen J. T., Alfthan G., Huttunen J. K., Puska P. Association between serum selenium and the risk of cancer. Am. J. Epidemiol., 120: 342-349, 1984.
+OpenUrlAbstract/FREE Full Text
+↵
+Salonen J. T., Salonen R., Lappetelainen R., Maenpaa P. H., Alfthan G., Puska P. Risk of cancer in relation to serum concentrations of selenium and vitamins A and E: matched case-control analysis of prospective data. Br. Med. J. Clin. Res., 290: 417-420, 1985.
+OpenUrl
+↵
+Fex G., Pettersson B., Akesson B. Low plasma selenium as a risk factor for cancer death in middle-aged men. Nutr. Cancer, 10: 221-229, 1987.
+OpenUrlPubMed
+↵
+Blot W. J., Li J. Y., Taylor P. R., Guo W., Dawsey S. M., Li B. The Linxian trials: mortality rates by vitamin-mineral intervention group. Am. J. Clin. Nutr., 62: 1424S-1426S, 1995.
+OpenUrlAbstract/FREE Full Text
+↵
+Hardell L., Degerman A., Tomic R., Marklund S. L., Bergfors M. Levels of selenium in plasma and glutathione peroxidase in erythrocytes in patients with prostate cancer or benign hyperplasia. Eur. J. Cancer Prev., 4: 91-95, 1995.
+OpenUrlPubMed
+↵
+Nomura A. M., Lee J., Stemmermann G. N., Combs G. F., Jr. Serum selenium and subsequent risk of prostate cancer. Cancer Epidemiol. Biomark. Prev., 9: 883-887, 2000.
+OpenUrlAbstract/FREE Full Text
+↵
+Yoshizawa K., Willett W. C., Morris S. J., Stampfer M. J., Spiegelman D., Rimm E. B., Giovannucci E. Study of prediagnostic selenium level in toenails and the risk of advanced prostate cancer. J. Natl. Cancer Inst. (Bethesda), 90: 1219-1224, 1998.
+OpenUrlAbstract/FREE Full Text
+↵
+Zachara B. A., Marchaluk-Wisniewska E., Maciag A., Peplinski J., Skokowski J., Lambrecht W. Decreased selenium concentration and glutathione peroxidase activity in blood and increase of these parameters in malignant tissue of lung cancer patients. Lung, 175: 321-332, 1997.
+OpenUrlCrossRefPubMed
+↵
+Knekt P., Marniemi J., Teppo L., Heliovaara M., Aromaa A. Is low selenium status a risk factor for lung cancer?. Am. J. Epidemiol., 148: 975-982, 1998.
+OpenUrlAbstract/FREE Full Text
+↵
+van den Brandt P. A., Goldbohm R. A., van’t Veer P., Bode P., Dorant E., Hermus R. J., Sturmans F. A prospective cohort study on selenium status and the risk of lung cancer. Cancer Res., 53: 4860-4865, 1993.
+OpenUrlAbstract/FREE Full Text
+↵
+Piccinini L., Borella P., Bargellini A., Medici C. I., Zoboli A. A case-control study on selenium, zinc, and copper in plasma and hair of subjects affected by breast and lung cancer. Biol. Trace Elem. Res., 51: 23-30, 1996.
+OpenUrlPubMed
+↵
+Coates R. J., Weiss N. S., Daling J. R., Morris J. S., Labbe R. F. Serum levels of selenium and retinol and the subsequent risk of cancer. Am. J. Epidemiol., 128: 515-523, 1988.
+OpenUrlAbstract/FREE Full Text
+↵
+Shenberg C., Feldstein H., Cornelis R., Mees L., Versieck J., Vanballenberghe L., Cafmeyer J., Maenhaut W. Br, Rb, Zn, Fe, Se and K in blood of colorectal patients by INAA and PIXE. J. Trace Elem. Med. Biol., 9: 193-199, 1995.
+OpenUrlPubMed
+↵
+Ghadirian P., Maisonneuve P., Perret C., Kennedy G., Boyle P., Krewski D., Lacroix A. A case-control study of toenail selenium and cancer of the breast, colon, and prostate. Cancer Detect. Prev., 24: 305-313, 2000.
+OpenUrlPubMed
+↵
+Nelson R. L., Davis F. G., Sutter E., Kikendall J. W., Sobin L. H., Milner J. A., Bowen P. E. Serum selenium and colonic neoplastic risk. Dis. Colon Rectum, 38: 1306-1310, 1995.
+OpenUrlCrossRefPubMed
+↵
+Beno I., Klvanova J., Magalova T., Brtkova A. Blood levels of natural antioxidants in gastric and colorectal precancerous lesions and cancers in Slovakia. Neoplasma (Bratisl.), 47: 37-40, 2000.
+OpenUrlPubMed
+↵
+Knekt P., Aromaa A., Maatela J., Alfthan G., Aaran R. K., Hakama M., Hakulinen T., Peto R., Teppo L. Serum selenium and subsequent risk of cancer among Finnish men and women. J. Natl. Cancer Inst. (Bethesda), 82: 864-868, 1990.
+OpenUrlAbstract/FREE Full Text
+↵
+Kok F. J., de Bruijn A. M., Hofman A., Vermeeren R., Valkenburg H. A. Is serum selenium a risk factor for cancer in men only?. Am. J. Epidemiol., 125: 12-16, 1987.
+OpenUrlAbstract/FREE Full Text
+↵
+Hartman T. J., Albanes D., Pietinen P., Hartman A. M., Rautalahti M., Tangrea J. A., Taylor P. R. The association between baseline vitamin E, selenium, and prostate cancer in the α-Tocopherol, β-Carotene Cancer Prevention Study. Cancer Epidemiol. Biomark. Prev., 7: 335-340, 1998.
+OpenUrlAbstract
+↵
+Helzlsouer K. J., Huang H. Y., Alberg A. J., Hoffman S., Burke A., Norkus E. P., Morris J. S., Comstock G. W. Association between α-tocopherol, γ-tocopherol, selenium, and subsequent prostate cancer. J. Natl. Cancer Inst. (Bethesda), 92: 2018-2023, 2000.
+OpenUrlAbstract/FREE Full Text
+↵
+Nomura A., Heilbrun L. K., Morris J. S., Stemmermann G. N. Serum selenium and the risk of cancer, by specific sites: case-control analysis of prospective data. J. Natl. Cancer Inst. (Bethesda), 79: 103-108, 1987.
+↵
+Kabuto M., Imai H., Yonezawa C., Neriishi K., Akiba S., Kato H., Suzuki T., Land C. E., Blot W. J. Prediagnostic serum selenium and zinc levels and subsequent risk of lung and stomach cancer in Japan. Cancer Epidemiol. Biomark. Prev., 3: 465-469, 1994.
+OpenUrlAbstract
+↵
+Comstock G. W., Alberg A. J., Huang H. Y., Wu K., Burke A. E., Hoffman S. C., Norkus E. P., Gross M., Cutler R. G., Morris J. S., Spate V. L., Helzlsouer K. J. The risk of developing lung cancer associated with antioxidants in the blood: ascorbic acid, carotenoids, α-tocopherol, selenium, and total peroxyl radical absorbing capacity. Cancer Epidemiol. Biomark. Prev., 6: 907-916, 1997.
+OpenUrlAbstract
+↵
+Schober S. E., Comstock G. W., Helsing K. J., Salkeld R. M., Morris J. S., Rider A. A., Brookmeyer R. Serologic precursors of cancer. I. Prediagnostic serum nutrients and colon cancer risk. Am. J. Epidemiol., 126: 1033-1041, 1987.
+OpenUrlAbstract/FREE Full Text
+↵
+Criqui M. H., Bangdiwala S., Goodman D. S., Blaner W. S., Morris J. S., Kritchevsky S., Lippel K., Mebane I., Tyroler H. A. Selenium, retinol, retinol-binding protein, and uric acid. Associations with cancer mortality in a population-based prospective case-control study. Ann. Epidemiol., 1: 385-393, 1991.
+OpenUrlPubMed
+↵
+Ratnasinghe D., Tangrea J. A., Forman M. R., Hartman T., Gunter E. W., Qiao Y-L., Yao S-X., Barett M. J., Giffen C. A., Erozan Y., Tockman M. S., Taylor P. R. Serum tocopherols, selenium and lung cancer risk among tin miners in China. Cancer Causes Control, 11: 129-135, 2000.
+OpenUrlCrossRefPubMed
+↵
+van den Brandt P. A., Goldbohm R. A., van’t Veer P., Bode P., Dorant E., Hermus R. J., Sturmans F. A prospective cohort study on toenail selenium levels and risk of gastrointestinal cancer. J. Natl. Cancer Inst. (Bethesda), 85: 224-229, 1993.
+OpenUrlAbstract/FREE Full Text
+↵
+Bostick R. M., Potter J. D., McKenzie D. R., Sellers T. A., Kushi L. H., Steinmetz K. A., Folsom A. R. Reduced risk of colon cancer with high intake of vitamin E: the Iowa Women’s Health Study. Cancer Res., 53: 4230-4237, 1993.
+OpenUrlAbstract/FREE Full Text
+↵
+Vinceti M., Rovesti S., Gabrielli C., Marchesi C., Bergomi M., Martini M., Vivoli G. Cancer mortality in a residential cohort exposed to environmental selenium through drinking water. J. Clin. Epidemiol., 48: 1091-1097, 1995.
+OpenUrlCrossRefPubMed
+↵
+Garland M., Morris J. S., Stampfer M. J., Colditz G. A., Spate V. L., Baskett C. K., Rosner B., Speizer F. E., Willett W. C., Hunter D. J. Prospective study of toenail selenium levels and cancer among women. J. Natl. Cancer Inst. (Bethesda), 87: 497-505, 1995.
+OpenUrlAbstract/FREE Full Text
+↵
+Glattre E., Thomassen Y., Thoresen S. O., Haldorsen T., Lund-Larsen P. G., Theodorsen L., Aaseth J. Prediagnostic serum selenium in a case-control study of thyroid cancer. Int. J. Epidemiol., 18: 45-49, 1989.
+OpenUrlAbstract/FREE Full Text
+↵
+Burney P. G., Comstock G. W., Morris J. S. Serologic precursors of cancer: serum micronutrients and the subsequent risk of pancreatic cancer. Am. J. Clin. Nutr., 49: 895-900, 1989.
+OpenUrlAbstract/FREE Full Text
+↵
+Mark S. D., Qiao Y. L., Dawsey S. M., Wu Y. P., Katki H., Gunter E. W., Fraumeni J. F., Jr., Blot W. J., Dong Z. W., Taylor P. R. Prospective study of serum selenium levels and incident esophageal and gastric cancers. J. Natl. Cancer Inst. (Bethesda), 92: 1753-1763, 2000.
+OpenUrlAbstract/FREE Full Text
+↵
+Vinceti M., Rothman K. J., Bergomi M., Borciani N., Serra L., Vivoli G. Excess melanoma incidence in a cohort exposed to high levels of environmental selenium. Cancer Epidemiol. Biomark. Prev., 7: 353-357, 1998.
+OpenUrl
+↵
+Reinhold U., Biltz H., Bayer W., Schmidt K. H. Serum selenium levels in patients with malignant melanoma. Acta Dermato-Venereol., 69: 132-136, 1989.
+OpenUrlPubMed
+↵
+Knekt P., Aromaa A., Maatela J., Alfthan G., Aaran R. K., Nikkari T., Hakama M., Hakulinen T., Teppo L. Serum micronutrients and risk of cancers of low incidence in Finland. Am. J. Epidemiol., 134: 356-361, 1991.
+OpenUrlAbstract/FREE Full Text
+↵
+Breslow R. A., Alberg A. J., Helzlsouer K. J., Bush T. L., Norkus E. P., Morris J. S., Spate V. E., Comstock G. W. Serological precursors of cancer: malignant melanoma, basal and squamous cell skin cancer, and prediagnostic levels of retinol, β-carotene, lycopene, α-tocopherol, and selenium. Cancer Epidemiol. Biomark. Prev., 4: 837-842, 1995.
+OpenUrlAbstract
+↵
+Helzlsouer K. J., Comstock G. W., Morris J. S. Selenium, lycopene, α-tocopherol, β-carotene, retinol, and subsequent bladder cancer. Cancer Res., 49: 6144-6148, 1989.
+OpenUrlAbstract/FREE Full Text
+↵
+Zheng W., Blot W. J., Diamond E. L., Norkus E. P., Spate V., Morris J. S., Comstock G. W. Serum micronutrients and the subsequent risk of oral and pharyngeal cancer. Cancer Res., 53: 795-798, 1993.
+OpenUrlAbstract/FREE Full Text
+↵
+Lajtman Z., Nosso D., Romic Z., Trutin-Ostovic K., Krpan D. Laryngeal cancer and blood selenium levels. Eur. Arch. Oto-Rhino-Laryngol., 251: 170-172, 1994.
+↵
+Rogers M. A., Thomas D. B., Davis S., Weiss N. S., Vaughan T. L., Nevissi A. E. A case-control study of oral cancer and pre-diagnostic concentrations of selenium and zinc in nail tissue. Int. J. Cancer, 48: 182-188, 1991.
+OpenUrlPubMed
+↵
+Guven M., Ozturk B., Sayal A., Ozet A. Lipid peroxidation and antioxidant system in the blood of patients with Hodgkin’s disease. Clin. Biochem., 33: 209-212, 2000.
+OpenUrlCrossRefPubMed
+↵
+Hunter D. J., Morris J. S., Stampfer M. J., Colditz G. A., Speizer F. E., Willett W. C. A prospective study of selenium status and breast cancer risk. J. Am. Med. Assoc., 264: 1128-1131, 1990.
+OpenUrlCrossRefPubMed
+↵
+van Noord P. A., Maas M. J., van der Tweel I., Collette C. Selenium and the risk of postmenopausal breast cancer in the DOM cohort. Breast Cancer Res. Treat., 25: 11-19, 1993.
+OpenUrlPubMed
+↵
+Overvad K., Gron P., Langhoff O., Tarp U., Foldspang A., Thorling E. B. Selenium in human mammary carcinogenesis: a case-referent study. Eur. J. Cancer Prev., 1: 27-30, 1991.
+OpenUrlPubMed
+↵
+van’t Veer P., Strain J. J., Fernandez-Crehuet J., Martin B. C., Thamm M., Kardinaal A. F., Kohlmeier L., Huttunen J. K., Martin-Moreno J. M., Kok F. J. Tissue antioxidants and postmenopausal breast cancer: the European Community Multicentre Study on Antioxidants. Myocardial Infarction, and Cancer of the Breast (EURAMIC). Cancer Epidemiol. Biomark. Prev., 5: 441-447, 1996.
+OpenUrlAbstract
+↵
+van’t Veer P., van der Wielen R. P., Kok F. J., Hermus R. J., Sturmans F. Selenium in diet, blood, and toenails in relation to breast cancer: a case-control study. Am. J. Epidemiol., 131: 987-994, 1990.
+OpenUrlAbstract/FREE Full Text
+↵
+Dorgan J. F., Albanes D., Virtamo J., Heinonen O. P., Chandler D. W., Galmarini M., McShane L. M., Barrett M. J., Tangrea J., Taylor P. R. Relationships of serum androgens and estrogens to prostate cancer risk: results from a prospective study in Finland. Cancer Epidemiol. Biomark. Prev., 7: 1069-1074, 1998.
+OpenUrlAbstract/FREE Full Text
+↵
+van Noord P. A., Collette H. J., Maas M. J., de Waard F. Selenium levels in nails of premenopausal breast cancer patients assessed prediagnostically in a cohort-nested case-referent study among women screened in the DOM project. Int. J. Epidemiol., 16: 318-322, 1987.
+OpenUrlAbstract/FREE Full Text
+↵
+Gerber M., Richardson S., Salkeld R., Chappuis P. Antioxidants in female breast cancer patients. Cancer Investig., 9: 421-428, 1991.
+OpenUrlPubMed
+↵
+Strain J. J., Bokje E., van’t Veer P., Coulter J., Stewart C., Logan H., Odling-Smee W., Spence R. A., Steele K. Thyroid hormones and selenium status in breast cancer. Nutr. Cancer, 27: 48-52, 1997.
+OpenUrlPubMed
+↵
+Mannisto S., Alfthan G., Virtanen M., Kataja V., Uusitupa M., Pietinen P. Toenail selenium and breast cancer-a case-control study in Finland. Eur. J. Clin. Nutr., 54: 98-103, 2000.
+OpenUrlCrossRefPubMed
+↵
+van den Brandt P. A., Goldbohm R. A., van’t Veer P., Bode P., Dorant E., Hermus R. J., Sturmans F. Toenail selenium levels and the risk of breast cancer. Am. J. Epidemiol., 140: 20-26, 1994.
+OpenUrlAbstract/FREE Full Text
+↵
+Hardell L., Danell M., Angqvist C. A., Marklund S. L., Fredriksson M., Zakari A. L., Kjellgren A. Levels of selenium in plasma and glutathione peroxidase in erythrocytes and the risk of breast cancer. A case-control study. Biol. Trace Elem. Res., 36: 99-108, 1993.
+OpenUrlPubMed
+↵
+Gupta S., Narang R., Krishnaswami K., Yadav S. Plasma selenium level in cancer patients. Indian J. Cancer, 31: 192-197, 1994.
+OpenUrlPubMed
+↵
+Basu T. K., Hill G. B., Ng D., Abdi E., Temple N. Serum vitamins A and E, β-carotene, and selenium in patients with breast cancer. J. Am. Coll. Nutr., 8: 524-529, 1989.
+OpenUrlPubMed
+↵
+Combs G. F., Jr., Combs S. B. Selenium and cancer Combs G. F., Jr. Combs S. B. eds. . The Role of Selenium in Nutrition, 413-462, Academic Press San Diego, CA 1986.
+↵
+Comstock G. W., Bush T. L., Helzlsouer K. Serum retinol, β-carotene, vitamin E, and selenium as related to subsequent cancer of specific sites. Am. J. Epidemiol., 135: 115-121, 1992.
+OpenUrlAbstract/FREE Full Text
+↵
+El-Bayoumy K. The protective role of selenium on genetic damage and on cancer. Mutat. Res., 475: 123-139, 2001.
+OpenUrlCrossRefPubMed
+↵
+Scotto J., Fears T. R., Fraumeni J. F. . Incidence of Nonmelanoma Skin Cancer in the United States. NIH Publication, United States Department of Health and Human Services Washington, DC 1983.
+↵
+Rodrigue Zrodriguez E. M., San Zalaejos M. T., Dia Zromero C. Urinary selenium status of healthy people. Eur. J. Clin. Chem. Clin. Biochem., 33: 127-133, 1995.
+OpenUrlPubMed
+↵
+Patterson B., Veillon C. C., Taylor P., Patterson K., Levander O. A. Selenium metabolism in humans differs by gender: results from a stable isotope tracer study. FASEB J., 15: A969 2001.
+OpenUrl
+↵
+Burns D. M. Primary prevention, smoking, and smoking cessation: implications for future trends in lung cancer prevention. Cancer (Phila.), 89: 2506-2509, 2000.
+OpenUrlCrossRefPubMed
+↵
+Khuri F. R., Kurie J. M., Hong W. K. Chemoprevention of respiratory tract cancer. Hematol. Oncol. Clin. N. Am., 11: 387-408, 1997.
+OpenUrlCrossRefPubMed
+↵
+The α-Tocopherol β-Carotene Cancer Prevention Study Group. The effect of vitamin E and β-carotene on the incidence of lung cancer and other cancers in male smokers. N. Engl. J. Med., 330: 1029-1035, 1994.
+OpenUrlCrossRefPubMed
+↵
+Blumberg J., Block G. The α-tocopherol, β-carotene cancer prevention study in Finland. Nutr. Rev., 52: 242-245, 1994.
+OpenUrlPubMed
+↵
+Hennekens C. H., Buring J. E., Manson J. E., Stampfer M., Rosner B., Cook N. R., Belanger C., LaMotte F., Gaziano J. M., Ridker P. M., Willett W., Peto R. Lack of effect of long-term supplementation with β-carotene on the incidence of malignant neoplasms and cardiovascular disease. N. Engl. J. Med., 334: 1145-1149, 1996.
+OpenUrlCrossRefPubMed
+↵
+Cook N. R., Stampfer M. J., Ma J., Manson J. E., Sacks F. M., Buring J. E., Hennekens C. H. β-Carotene supplementation for patients with low baseline levels and decreased risks of total and prostate carcinoma. Cancer (Phila.), 86: 1783-1792, 1999.
+OpenUrlCrossRefPubMed
+↵
+Hu G., Cassano P. A. Antioxidant nutrients and pulmonary function: the Third National Health and Nutrition Examination Survey (NHANES III). Am. J. Epidemiol., 151: 975-981, 2000.
+OpenUrlAbstract/FREE Full Text
+↵
+Colditz G. A. Selenium and cancer prevention. Promising results indicate further trials required. J. Am. Med. Assoc., 276: 1984-1985, 1996.
+OpenUrlCrossRefPubMed
+↵
+Reilly C. . Selenium in Food and Health, Blackie Academic & Professional London 1996.
+↵
+Hill K. E., Xia Y., Akesson B., Boeglin M. E., Burk R. F. Selenoprotein P concentration in plasma is an index of selenium status in selenium-deficient and selenium-supplemented Chinese subjects. J. Nutr., 126: 138-145, 1996.
+↵
+Duffield A. J., Thomson C. D., Hill K. E., Williams S. An estimation of selenium requirements for New Zealanders. Am. J. Clin. Nutr., 70: 896-903, 1999.
+OpenUrlAbstract/FREE Full Text
+↵
+Bates C. J., Thane C. W., Prentice A., Delves H. T. Selenium status and its correlates in a British national diet and nutrition survey: people aged 65 years and over. J. Trace Elem. Med. Biol., 16: 1-8, 2002.
+OpenUrlCrossRefPubMed
+↵
+Ratnasinghe D., Tangrea J. A., Andersen M. R., Barrett M. J., Virtamo J., Taylor P. R., Albanes D. Glutathione peroxidase codon 198 polymorphism variant increases lung cancer risk. Cancer Res., 60: 6381-6383, 2000.
+OpenUrlAbstract/FREE Full Text
+↵
+Forsberg L., de Faire U., Marklund S. L., Andersson P. M., Stegmayr B., Morgenstern R. Phenotype determination of a common Pro-Leu polymorphism in human glutathione peroxidase 1. Blood Cells Mol. Dis., 26: 423-426, 2000.
+OpenUrlCrossRefPubMed
+↵
+Kumaraswamy E., Malykh A., Korotkov K. V., Kozyavkin S., Hu Y., Kwon S. Y., Moustafa M. E., Carlson B. A., Berry M. J., Lee B. J., Hatfield D. L., Diamond A. M., Gladyshev V. N. Structure-expression relationships of the 15-kDa selenoprotein gene. Possible role of the protein in cancer etiology. J. Biol. Chem., 275: 35540-35547, 2000.
+OpenUrlAbstract/FREE Full Text
+↵
+Clark L. C., Marshall J. R. Randomized, controlled chemoprevention trials in populations at very high risk for prostate cancer: elevated prostate-specific antigen and high-grade prostatic intraepithelial neoplasia. Urology, 57: 185-187, 2001.
+OpenUrlCrossRefPubMed
+↵
+Klein E. A., Thompson I. M., Lippman S. M., Goodman P. J., Albanes D., Taylor P. R., Coltman C. SELECT: the next prostate cancer prevention trial. J. Urol., 166: 1311-1315, 2001.
+OpenUrlCrossRefPubMed
+View Abstract
+PreviousNext
+Back to top
+July 2002
+Volume 11, Issue 7
+Table of Contents
+Index by Author
+Search for this keyword
+Sign up for alerts
+View this article with LENS
+Open full page PDF
+Article Alerts
+User Name *
+Password *
+Sign In to Email Alerts with your Email Address
+Email *
+Email Article
+Thank you for sharing this Cancer Epidemiology, Biomarkers & Prevention article.
+NOTE: We request your email address only to inform the recipient that it was you who recommended this article, and that it is not junk mail. We do not retain these email addresses.
+Your Email *
+Your Name *
+Send To *
+Enter multiple addresses on separate lines or separate them with commas.
+You are going to email the following Baseline Characteristics and the Effect of Selenium Supplementation on Cancer Incidence in a Randomized Clinical Trial
+Message Subject (Your Name) has forwarded a page to you from Cancer Epidemiology, Biomarkers & Prevention
+Message Body (Your Name) thought you would be interested in this article in Cancer Epidemiology, Biomarkers & Prevention.
+Your Personal Message
+Citation Tools
+Baseline Characteristics and the Effect of Selenium Supplementation on Cancer Incidence in a Randomized Clinical Trial
+Anna J. Duffield-Lillico, Mary E. Reid, Bruce W. Turnbull, Gerald F. Combs Jr., Elizabeth H. Slate, Lori A. Fischbach, James R. Marshall and Larry C. Clark
+Cancer Epidemiol Biomarkers Prev July 1 2002 (11) (7) 630-639;
+Citation Manager Formats
+BibTeX
+Bookends
+EasyBib
+EndNote (tagged)
+EndNote 8 (xml)
+Medlars
+Mendeley
+Papers
+RefWorks Tagged
+Ref Manager
+RIS
+Zotero
+Share
+Baseline Characteristics and the Effect of Selenium Supplementation on Cancer Incidence in a Randomized Clinical Trial
+Anna J. Duffield-Lillico, Mary E. Reid, Bruce W. Turnbull, Gerald F. Combs Jr., Elizabeth H. Slate, Lori A. Fischbach, James R. Marshall and Larry C. Clark
+Cancer Epidemiol Biomarkers Prev July 1 2002 (11) (7) 630-639;
+Share This Article:
+Copy
+Tweet Widget
+Facebook Like
+Google Plus One
+Jump to section
+Article
+Abstract
+Introduction
+Materials and Methods
+Results
+Discussion
+Acknowledgments
+Footnotes
+References
+Figures & Data
+Info & Metrics
+PDF
+Advertisement
+Related Articles
+Cited By...
+More in this TOC Section
+Bacterial Translocation and Liver Cancer
+Cross-cancer Pleiotropy in Lung Cancer
+LGALS3 Promotes Glioblastoma Development and Progression
+Show more Research Articles
+Home
+Alerts
+Feedback
+Privacy Policy
+Facebook Twitter LinkedIn YouTube RSS
+Articles
+Online First
+Current Issue
+Past Issues
+Info for
+Authors
+Subscribers
+Advertisers
+Librarians
+Reviewers
+About Cancer Epidemiology, Biomarkers & Prevention
+About the Journal
+Editorial Board
+Permissions
+Submit a Manuscript
+Copyright © 2019 by the American Association for Cancer Research.
+Cancer Epidemiology, Biomarkers & Prevention
+eISSN: 1538-7755
+ISSN: 1055-9965
+Advertisement

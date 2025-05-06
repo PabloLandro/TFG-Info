@@ -1,0 +1,103 @@
+Perfect birth control for breastfeeding mothers – Gbogbonise
+Home
+About us
+Services
+Categories
+Antiaging
+Child Health
+General Health
+Healthy woman
+Herbs
+Medical conditions
+Surgical conditions
+Home
+About us
+Services
+Categories
+Antiaging
+Child Health
+General Health
+Healthy woman
+Herbs
+Medical conditions
+Surgical conditions
+Healthy woman
+Perfect birth control for breastfeeding mothers
+by Abiodun Omonori · November 12, 2018
+It is widely accepted that once a woman puts her baby to breast frequently, the chances of her becoming pregnant drops to almost zero, and there’s a scientific basis for this; continuous suckling leads to the production and release of a counter hormone (Prolactin) which disrupts the cyclical pattern of the release of some hormones from the brain (Hypothalamus), which in turn leads to cessation of menses and temporary inability to conceive. In other words, there are chemicals produced in the brain which when released into the blood, bring about a monthly period. However, continuous suckling leads to secretion of another counter chemical (Prolactin) which blocks the production of the chemicals that ensure a cyclical menstrual flow. This is known medically as ‘Lactational Amenorrhea.’ Lactation= milk production, Amenorrhea= no menstruation.
+Now to the million dollar question; does breastfeeding prevent pregnancy all the time?
+Generally, the efficacy of this natural family planning method reduces significantly after 6 months, largely due to a reduction in the frequency of breastfeeding. For ‘Lactational Amenorrhea’ to continue to take place, you have to breastfeed at least every 4 hours during the day, and 6-hourly at night, because the more the child sucks, the better the chances of preventing pregnancy. Even if you see your period while exclusively breastfeeding your baby, the period is likely anovulatory, meaning there is no egg released, and if this is so, conception is not possible.
+Menstruation is expected to resume within 8 weeks after stopping breastfeeding, with initial cycles being frequently unpredictable and then normalizes over a couple of months.
+I can hardly forget the interaction I had with a woman few months ago, who came with complaints of tummy aches and nausea. She delivered about 8 months ago and her baby boy was still being breastfed, only for her to discover that she had become pregnant again. The look on her face was that of despair and intense sadness, as she innocently asked me if I could help her remove it.
+It might be dangerous to assume that since you are breastfeeding your baby exclusively, then you can allow daddy in all the time without a gate pass. I have seen quite a number of breastfeeding mothers become pregnant recently, with a few attempting to halt the process by all means, leading to some complications.
+The Progesterone-based contraceptive methods are safe for breastfeeding mothers and they include; hormonal implants, injections, mini pills, and IUD.
+My advice is simple, even if you believe you can’t get pregnant while breastfeeding, at least use condom so as to avoid telling stories that touch the heart.
+Share
+$('#twitter').sharrre({ share: { twitter: true }, template: '
+{total}
+', enableHover: false, enableTracking: true, buttons: { twitter: {via: 'gbogbonise_ng'}}, click: function(api, options){ api.simulateClick(); api.openPopup('twitter'); } }); $('#facebook').sharrre({ share: { facebook: true }, template: '
+{total}
+', enableHover: false, enableTracking: true, buttons:{layout: 'box_count'}, click: function(api, options){ api.simulateClick(); api.openPopup('facebook'); } }); $('#googleplus').sharrre({ share: { googlePlus: true }, template: '
+{total}
+', enableHover: false, enableTracking: true, buttons:{size: 'tall'}, urlCurl: 'http://gbogbonise.com/wp-content/plugins/hueman-addons/addons/assets/front/js/sharrre.php', click: function(api, options){ api.simulateClick(); api.openPopup('googlePlus'); } }); // Scrollable sharrre bar, contributed by Erik Frye. Awesome! var $_shareContainer = $(".sharrre-container"), $_header = $('#header'), $_postEntry = $('.entry'), $window = $(window), startSharePosition = $_shareContainer.offset(),//object contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(), topOfTemplate = $_header.offset().top, topSpacing = _setTopSpacing(); //triggered on scroll shareScroll = function(){ var scrollTop = $window.scrollTop() + topOfTemplate, stopLocation = contentBottom - ($_shareContainer.outerHeight() + topSpacing); $_shareContainer.css({position : 'fixed'}); if( scrollTop > stopLocation ){ $_shareContainer.css( { position:'relative' } ); $_shareContainer.offset( { top: contentBottom - $_shareContainer.outerHeight(), left: startSharePosition.left, } ); } else if (scrollTop >= $_postEntry.offset().top - topSpacing){ $_shareContainer.css( { position:'fixed',top: '100px' } ); $_shareContainer.offset( { //top: scrollTop + topSpacing, left: startSharePosition.left, } ); } else if (scrollTop < startSharePosition.top + ( topSpacing - 1 ) ) { $_shareContainer.css( { position:'relative' } ); $_shareContainer.offset( { top: $_postEntry.offset().top, left:startSharePosition.left, } ); } }, //triggered on resize shareMove = function() { startSharePosition = $_shareContainer.offset(); contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(); topOfTemplate = $_header.offset().top; _setTopSpacing(); }; /* As new images load the page content body gets longer. The bottom of the content area needs to be adjusted in case images are still loading. */ setTimeout( function() { contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(); }, 2000); function _setTopSpacing(){ var distanceFromTop = 20; if( $window.width() > 1024 ) { topSpacing = distanceFromTop + $('.nav-wrap').outerHeight(); } else { topSpacing = distanceFromTop; } return topSpacing; } //setup event listeners $window.scroll( _.throttle( function() { if ( $window.width() > 719 ) { shareScroll(); } else { $_shareContainer.css({ top:'', left:'', position:'' }) } }, 50 ) ); $window.resize( _.debounce( function() { if ( $window.width() > 719 ) { shareMove(); } else { $_shareContainer.css({ top:'', left:'', position:'' }) } }, 50 ) ); });
+Abiodun Omonori
+Abiodun Omonori is an interesting writer, skillfully admixing a fine blend of humour and reality. A medical doctor with interest in sexual and mental health, as well as preventive medicine.
+You may also like...
+WHY YOU SHOULD LEARN ABOUT CONTRACEPTION
+March 12, 2018
+MISCARRIAGE; What it is and why it happens
+June 10, 2018
+Early signs of pregnancy
+March 9, 2018
+2 Responses
+Comments2
+Pingbacks0
+Bejide bukola says:
+November 13, 2018 at 9:06 am
+Tank u doc.
+Reply
+Me says:
+November 13, 2018 at 1:49 pm
+The more the merrier 😊
+Reply
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Comment
+Name *
+Email *
+Website
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Follow:
+Previous story What you must know about Hypertension!
+Subscribe to Blog via Email
+Be the first to get notified about new posts, as well as availability of discounts on our life-changing products.
+Email Address
+5 POINTS TO CONSIDER BEFORE TAKING ‘GBOGBONISE’
+24 Feb, 2018
+Categories
+Antiaging
+Child Health
+General Health
+Healthy woman
+Herbs
+Medical conditions
+Adsense
+Subscribe to Blog via Email
+Enter your email address to subscribe to this blog and receive notifications of new posts by email.
+Join 11 other subscribers
+Email Address
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here: Cookie Policy
+Home
+About us
+Services
+Categories
+Antiaging
+Child Health
+General Health
+Healthy woman
+Herbs
+Medical conditions
+Surgical conditions
+Gbogbonise © 2019. All Rights Reserved.

@@ -1,0 +1,451 @@
+Skeptic » eSkeptic » December 8, 2010
+alert message here
+⚠ You have javascript turned off. This site requires it to function properly. Please turn it on in your browser preferences.
+The Skeptics Society & Skeptic magazine
+Search
+Menu
+eSkeptic
+read eSkeptic
+subscribe, unsubscribe, change address
+browse by year
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+Cell Phones and Cancer
+by Michael Shermer and Bernard Leikind
+Ever since the publication of physicist Dr. Bernard Leikind’s article in Skeptic (see eSkeptic for June 9, 2010) and my subsequent column in Scientific American in which I cited Leikind’s arguments (both of which were skeptical of claims that cell phone use causes brain cancer), we have been inundated with letters disputing our skepticism. The letters come in a variety of flavors, so what follows are Dr. Leikind’s responses to the critics that he identifies by their email names. My own response to critics will appear in the next issue of Scientific American, so in the meantime I defer to Dr. Leikind’s responses below, as well as to the SkepDoc Harriet Hall, M.D. along with oncologist Dr. David Gorski, both of whom blog at ScienceBasedMedicine.org, which covers the ongoing controversy over cell phones and cancer.
+For example, when I queried her on my critics, Dr. Hall responded to me:
+I agree that it is premature to say that cell phones “can’t possibly” cause cancer, although Leikind is correct to say physics shows they can’t possibly do it by the mechanisms that have been commonly proposed. The fact remains: there is no good evidence that cell phones do cause cancer. And so far I’m not convinced by the proposed mechanisms by which they might cause cancer. The radiation/mutation and tissue heating explanations have pretty well been debunked. I’m going to continue to think that cell phones don’t cause cancer — and that there is a high probability that the kind of radiation they emit “can’t” cause cancer — until I see something much more convincing in the way of evidence. If they do somehow cause cancer, studies to date have established that any effect can’t be a very large one. Any potential cancer risk pales against the high risk of accidents from using them while driving, and against the convenience and safety effects of having instant communication.
+And I asked Dr. Gorski as well, and he responded to me thusly (with links to further reading):
+Basically, as I said, the article is correct in dubbing the idea that cell phone radiation causes cancer as very, very improbable, but I thought Leikind went too far in declaring it “impossible” based a priori on physics because, quite frankly, he completely ignores newer biological understanding of mechanisms of carcinogenesis. As I said in my post, I do not believe that cell phones cause cancer. I consider it highly unlikely and implausible. I do think, however, that declaring it “impossible” is premature. More reading from ScienceBasedMedicine.org:
+http://www.sciencebasedmedicine.org/?p=84
+http://www.sciencebasedmedicine.org/?p=8
+http://www.sciencebasedmedicine.org/?p=3073
+http://www.sciencebasedmedicine.org/?p=3666
+And, here’s my explanation on just how complex cancer is:
+http://www.sciencebasedmedicine.org/?p=4832
+Finally, Dr. Leikind sent me this wonderful general response to the critics, which I happen to agree with and will be interested in hearing from readers about this ongoing controversy:
+It interests me that so many readers see “microwaves from cell phones cannot cause cancer” and understand us to be saying “there are no physiological effects from microwaves.” But our message is not that there are no physiological effects, but that we (the appropriate scientists and engineers) know exactly what the physiological effects of absorbing microwaves are. And those effects cannot cause cancer, and we know this because there are many identical but more powerful similar effects, such as exercise. No one thinks that exercise causes cancer. I also find it persuasive that no one is concerned about cell phone microwaves causing skin cancer. But the radiation is more intense in our hands, ears, and scalp than it is in brains or optic or auditory nerves, and skin cells reproduce many times more frequently than any glial brain cells, and even many more times more frequently than any neuron cells.
+Dr. Leikind’s responses to the posted critiques of my and his claims follow:
+GreenMind suspects that I may have ties to the cell phone industry. I use an old model Motorola RAZR V3 cell phone and pay T-Mobile about $40 per month for my cell phone service. I would be happy to earn some money from my investigation and writing about cell phones and cancer.
+The precautionary principle draws passionate support from public health care professional, Dr. Martin Donohoe. In the case of cell phone microwave radiation, scientists have already done the appropriate research. We know exactly what happens when any material, including living tissue, absorbs microwave radiation. The microwave energy appears as additional shaking, jostling, rattling and rolling of the molecules. In a living human being with her powerful temperature control mechanisms functioning and her blood flowing, we know that there is no potential for microwave radiation from a cell phone to cause significant, widespread or irreparable harm. Therefore, the precautionary principle does not apply. The situation is different when someone invents a new chemical. The precautionary principle would apply to eating cell phones but not to talking on them. It would not apply to texting while driving because the harmful potential is well known.
+Freedom for All and dideldum worry about power levels and heating. A cell phone emits about a watt of microwave radiation. Some of that power enters the user’s hand, ear, scalp, skull, and brain and other tissues. To produce this watt of microwave radiation, the cell phone’s electronics must convert somewhat more than a watt of power from its batteries. The excess power and all of the power that goes to operate the circuitry of the phone appears as a temperature increase in the phone. The phone may feel warm. This energy transfers to the user’s hand or ear. Some may transfer to the environment by infrared radiation or convection. This energy does not cause cancer. The temperature increase in the human brain from absorbed cell phone microwave radiation is so small that many researchers mistakenly believe that there are non-thermal effects. The temperature never reaches the various potentially harmful temperatures that Freedom cites.
+GreenMind questions Dr. Shermer’s and my statement that there is no known mechanism by which cell phone microwaves might cause cancer. I claim more than that there is no known mechanism. I assert that there is no unknown mechanism.
+To summarize, here is the proof. We know exactly what happens to the cell phone microwaves the body absorbs. The energy transfers from the radiation to jostling, jiggling, vibrating and twisting of the molecules. From there, the energy enters to flowing blood, reaches the entire body, and moves to the environment. If the power flow is large, the transfer to the environment will occur primarily by the evaporation of sweat. For the watt or less absorbed from cell phones, the transfer will occur by small changes to the flow of blood to the body’s surface causing slight increases in radiation, conduction, and convection to the environment. There is little temperature increase in a living human being from cell phone microwaves. We know many other processes and effects that produce exactly the same effects at much greater energy and power levels, and all of these are safe and do not cause cancer. Exercise is one such process. Wearing a ski cap is another.
+Any researcher who proposes a mechanism by which cell phone radiation might trigger or enhance carcinogenesis is welcome to do so, but must begin with the process described, and also explain why much larger, but otherwise identical processes, do not trigger the proposed mechanism. This thought informs my consideration of the many real and supposed physiological effects of microwave radiation cited by readers.
+In the following, I use colloquial language but I could have used the technical terms. Knowledgeable scientists will recognize what these are. I mention specific readers in these notes, but often other readers made similar points.
+Richard2010 correctly asserts that it might be possible to modify the complicated and lengthy process by which an initiating incident leads to cancer. He says that microwaves might influence any of the intermediate steps that do not involve breakage of DNA. The only means by which cell phone microwave radiation might influence those steps is through the jiggling, jostling, rocking and rolling that occur when the organism’s thermal control system is functioning. Test tube experiments that do not reproduce the stable temperature conditions in a living organism, however, are not relevant. While some can imagine putative carcinogenic mechanisms from electromagnetic radiation, the only forms of electromagnetic radiation that cause cancer, ultraviolet, X-rays, and gamma rays, operate by breaking chemical bonds in DNA.
+Megahurtz, Richard2010, and many other readers assert that microwaves have physiological effects. Some readers cite Russian studies, well known to researchers in this field. Western scientists could not replicate the Russian studies, and do not credit them. Readers point to therapeutic methods. Every therapeutic method that involves microwaves begins with the process I describe. Therapeutic use of microwaves always involves heating tissues.
+Monastralblue asserts that microwaves modify chemical bonds or transfer molecules from one quantum state to another nearby state without breaking the bonds. Quantum states of molecules that differ by such a small amount of energy that a microwave photon might cause a transition from one state, the supposedly safe one, to another, the supposedly bad one, will be virtually equally populated in the living organism because of the random shaking, rattling, and rolling of the organism’s molecules. The supposedly bad state will not be empty. If population of the supposed state were bad in some way, carcinogenic or cancer enhancing, then the state would be doing its dirty work at all times.
+fscr37 says that Dr. Shermer and I have unstated assumptions and implies that these may be unjustified. The primary scientific assumption that pertains to the question of cell phones and cancer is that the laws of physics apply to biological systems, to organisms, just as they apply to anything else.
+The various speculative models, such as the resonance effects to which fscr37 refers, are unphysical and unbiological because they neglect to consider the environment in an organism when they supposedly occur. The energy exchange time, the time it takes for a molecule to transfer energy within its own modes of oscillation or with its neighbors, is about a hundred quadrillionths of a second, 10-13 seconds. This is the result of direct measurements. The oscillation periods of microwave radiation are about a hundred trillionth of a second, 10-10 seconds. That is, molecular jostling will interrupt any buildup of energy by any individual molecule or bond long before the processes frscr37 cites might develop.
+Iward notes that the risk that a cell may become cancerous relates to the rate at which it divides. In the brain, for example, neurons divide rarely, if at all, while glial cells divide more often. In adults, brain cancers are gliomas, not neuromas. If there were some effect of microwaves on carcinogenesis related to the division rate of cells, we’d expect that the microwaves might cause skin cancer in phone users’ hands, ears, and scalp. The skin cells divide much more rapidly than any brain cells, and the intensity of the radiation is higher in these skin cells than in any brain cells. Cell phone radiation does not cause skin cancer, and no one fears that it might.
+Iward, hereticoftruth, Mark Pine guess that cell phone microwave radiation might have chemical effects other than breaking DNA molecules and refer specifically to denaturing of enzymes. Large, complex biological molecules (and small ones too) take on their shapes through a combination of strong covalent bonds and many weaker chemical bonds, such as hydrogen bonds, van der Waals bonds, and others. Denaturing a molecule refers to the process by which the molecule assumes another form, denaturing. It assumes the denatured form by breaking bonds, mostly weak ones. A cell phone’s microwave radiation absorbed by a living human being cannot denature any biological protein or enzyme unless that radiation can substantially increase the tissue’s temperature in the living organism. High power microwave radiation, much higher than from any cell phone, may damage the cornea in this way. Cooking tissue is bad, but does not cause cancer.
+Rivk, tomerg compares microwave cooking with absorbing microwave radiation from a cell phone. Sending microwave power into a roast in a microwave oven causes the temperature of the meat to rise. Sending the same microwave power into a living human being causes the person to sweat with little temperature increase. Dr. Eleanor Adair and others have done this experiment many times. Microwaving a human being causes sweat, not cancer. Can readers guess the difference between a cut of meat and a human being?
+Microwaving a person with power levels similar to those of a microwave oven is safe and does not cause cancer. It is not a good idea to microwave a man’s testicles because they prefer temperatures lower than core body temperature. It is a bad idea to microwave your cornea or lens because they have little or no blood supply to provide cooling.
+Kiya, jschunke, and pradhangegeorge say that they and other people are hypersensitive to electromagnetic radiation and cite personal experience of these effects from their cell phone use. There is no such thing as electromagnetic sensitivity. It is an imaginary ailment. All double blind tests show that no one can tell if a cell phone or cell phone tower is radiating except through the usual human senses, such as looking at the screen or holding the phone and noting that it is warm. There have been many amusing reports of locals developing vague symptoms when the phone company installs a tower, symptoms that disappear when investigation reveals that the company has not yet installed the amplifiers. Perhaps Kiya would be less prone to headaches if he or she were to choose less annoying people to talk to.
+Richard2010 refers to non-thermal effects of microwave radiation. There are none in living organisms, in humans. This fact has not prevented mistaken researchers from doing studies and publishing about non-thermal effects. These researchers mistake the fact that they do not observe a temperature increase with something non-thermal taking place. By their definition, an ice cube melting in a glass of tea or water boiling would be non-thermal effects, but they are thermal effects. Every effect of cell phone microwave radiation must be a thermal effect because the absorbed energy goes into shaking, wiggling, rocking and rolling of the molecules. None of the energy goes anywhere else. If this causes changes to the blood-brain barrier, just to choose one example, then plenty of other things would also cause changes to the blood-brain barrier, such as wearing a ski cap. Wearing a ski cap is safe as long as it doesn’t cover your eyes.
+Islesin refers to a comment in Microwave News. This journal has long added to the public’s fears of imagined harm from electromagnetic fields. Scientific American readers may remember the kerfuffle about potential harm from high voltage power lines and household appliances. Microwave News was on the wrong side of that issue too.
+On the Internet I am often known as Left Coast Bernard. I say to my neighbor, CaliforniaJoe, that photons are the chunks of energy that carry all forms of electromagnetic radiation, not just visible light.
+Agdavis comments on the units in Dr. Shermer’s column, which come from my Skeptic magazine essays. Chemists like to use kJ/mol, kilojoules per mole, which is an energy density, because they like matters relevant to test tube quantities. Using kJ/mol to refer to the energy in a chemical bond is telling us how much energy is in an Avogadro number of bonds, 6 X 1023. An Avogadro number of things is known as a mole, abbreviated mol. A watt-hour is a unit of energy (not a watt per hour); Joules. Physicists would prefer to use a density, just as chemists do. They would refer to Joules/bond or Joules/molecule, while the chemists like Joules per mole, a much larger, test tube sized number. Another reader confuses a mole of cell phones with a mole of photons from a cell phone. Comparing the energy in a mole of chemical bonds with the energy in a mole of microwave photons is correct thinking because it is also comparing the energy in a single bond with the energy in a single photon. The physical effect is, as always, one photon to one bond. Microwave photons do not have sufficient energy to modify any chemical bond, strong or weak.
+Monastralblue comments upon safety factors. Here is the way, roughly speaking, that the appropriate organizations establish safety factors for non-ionizing radiation. Since it is a well-established fact that this radiation transfers its energy into tissues as additional shaking, rattling, and rolling, the safety committees find the lowest detectable power level that produces a detectable temperature change, not the lowest level at which some harm occurs. Then they divide this level by 10 or 100. This becomes the official safe level. Exceeding the safe level only means that some temperature increase might be noticed, not that any harm would occur.
+Skeptical perspectives on science and physics
+SCIENCE FRICTION
+Where the Known Meets the Unknown
+(hardback $10) by Michael Shermer
+In each of the essays in this book, Shermer explores the very personal barriers and biases that plague and propel science, especially when scientists push against the unknown. What do we know, and what do we not know? How does science respond to controversy, attack, and uncertainty? When does theory become accepted fact? READ more and order the book.
+Physics of the Impossible
+(lecture on DVD $23.95 CD $15.95) by Michio Kaku
+One hundred years ago, scientists would have said that lasers, televisions, and the atomic bomb were beyond the realm of physical possibility. Kaku explores to what extent technologies and devices deemed equally impossible today might become commonplace in the future. From teleportation to the routine use of force fields, Kaku uses the world of science fiction to explore the fundamentals — and the limits — of the laws of physics as we know them today…
+READ more and order the lecture.
+« PREVIOUS
+NEXT »
+Recommended by Amazon
+Get eSkeptic
+Science in your inbox!
+eSkeptic delivers great articles, videos, podcasts, reviews, event announcements, and more to your inbox.
+Sign me up!
+Digital Free Trial
+Donate to Skeptic
+Please support the work of the Skeptics Society. Make the world a more rational place and help us defend the role of science in society.
+Donate directly
+Donate via PayPal Giving Fund
+Make a monthly recurring donation
+Donate via eBay
+Browse by Topic
+Tags
+aliens atheism belief biology brain Carl Sagan consciousness creationism critical thinking Darwin debate evolution evolution and/or creationism God human nature Intelligent Design morality mythology neuroscience paranormal/supernatural/occult physics pseudoscience psychology religion review science Science Salon skepticism UFOs universe
+Detecting Baloney
+The Baloney Detection Kit Sandwich (Infographic)
+For a class project, a pair of 11th grade physics students created the infographic shown below, inspired by Michael Shermer’s Baloney Detection Kit: a 16-page booklet designed to hone your critical thinking skills.
+View the infographic
+FREE PDF Download
+Top 10 Things to Know About Alternative Medicine
+Harriet Hall M.D. discusses: alternative versus conventional medicine, flu fear mongering, chiropractic, vaccines and autism, placebo effect, diet, homeopathy, acupuncture, “natural remedies,” and detoxification.
+Download the free PDF
+FREE Video Series
+Science Based Medicine vs. Alternative Medicine
+Understanding the difference could save your life! In this superb 10-part video lecture series, Harriet Hall M.D., contrasts science-based medicine with so-called “complementary and alternative” methods.
+Watch the free series
+FREE PDF Download
+Is Terrorism an Existential Threat?
+This free booklet reveals 10 myths that explain why terrorism is not a threat to our way of life or our survival.
+Download the free PDF
+FREE PDF Download
+The Top Ten Strangest Beliefs
+Michael Shermer has compiled a list of the top 10 strangest beliefs that he has encountered in his quarter century as a professional skeptic.
+Download the free PDF
+FREE PDF Download
+Who believes them? Why? How can you tell if they’re true?
+What is a conspiracy theory, why do people believe in them, and can you tell the difference between a true conspiracy and a false one?
+Download the free PDF
+FREE PDF Download
+The Science Behind Why People See Ghosts
+Mind altering experiences are one of the foundations of widespread belief in the paranormal. But as skeptics are well aware, accepting them as reality can be dangerous…
+Download the free PDF
+FREE PDF Download
+Top 10 Myths About Evolution (and how we know it really happened)
+If humans came from apes, why aren’t apes evolving into humans? Find out in this pamphlet!
+Download the free PDF
+FREE PDF Download
+Learn to do Psychic “Cold Reading” in 10
+Easy Lessons
+Psychic readings and fortunetelling are an ancient art — a combination of acting and psychological manipulation.
+Download the free PDF
+FREE PDF Download
+5 Cryptid Cards
+Download and print 5 Cryptid Cards created by Junior Skeptic Editor Daniel Loxton. Creatures include: The Yeti, Griffin, Sasquatch/Bigfoot, Loch Ness Monster, and the Cadborosaurus.
+Download the free PDF
+Society
+Donate
+About the Society
+What We Do
+Membership
+Skepticism 101
+Skeptical Activism
+Magazine
+Current Issue
+Subscribe/Renew (Print)
+Subscribe (Digital)
+Buy Print Issues
+Buy Digital Issues
+Submit an article
+eSkeptic
+Current Issue
+Back Issues
+Subscribe
+Unsubscribe
+Change Address
+Browse by Subject
+Shop
+Shop Online
+Subscriptions/Renewals
+Back Issues
+Books
+Lectures
+Clothing
+Science Salon
+About Science Salon
+Upcoming Science Salons
+Watch Past Salons
+Listen on iTunes
+Listen on Spotify
+Listen on Soundcloud
+Tours
+About Our Tours
+Grand Irish Odyssey
+Area 51
+Grand Canyon
+Death Valley
+Mojave Desert
+Junior Skeptic
+Get Junior Skeptic
+Current Issue
+Back Issues
+Meet the Creators
+Read sample issue (PDF)
+Junior Skeptic FAQ
+Podcasts
+Science Salon
+Watch Live
+Skepticality
+Skepticality App
+MonsterTalk
+MonsterTalk App
+RSS feeds
+Main
+Reading Room
+eSkeptic
+Insight Blog
+Skepticality
+MonsterTalk
+Contact
+1-626-794-3119
+General Inquiries
+Website Inquiries
+Orders Support
+Subscriptions Support
+Change Address
+Copyright © 1992–2019. All rights reserved. The Skeptics Society | P.O. Box 338 | Altadena, CA, 91001 | 1-626-794-3119. Privacy Policy.
+Magazine
+Home
+Overview
+The Magazine
+Current Issue
+Back Issues
+The Magazine
+Buy Print Issues
+Buy Digital Issues
+Subscriptions
+The Magazine
+subscribe or renew (print)
+subscribe (digital)
+About the Magazine
+Editorial Board
+Masthead
+Submit an Article
+Carbon Comic
+Tables of Contents
+The Magazine
+Volume 21–25
+Volume 16–20
+Volume 11–15
+Volume 6–10
+Volume 1–5
+Junior Skeptic
+The Magazine
+About Junior Skeptic
+Current Issue
+Back Issues
+Junior Skeptic
+issues 61–present
+issues 51–60
+Issues 41–50
+Issues 31–40
+Issues 21–30
+Issues 11–20
+Issues 1–10
+Read Sample Issue
+Get Junior Skeptic
+Meet The Creators
+FAQ
+Book Projects
+Skeptics Mix Tape
+On Pyramid Power
+Society
+Home
+Overview
+The Society
+A Brief Introduction
+What We Do
+The Founders
+The Society
+Michael Shermer
+Pat Linse
+A Skeptical Manifesto
+Media Appearances
+Contact Us
+Get Involved
+The Society
+Become a Member
+Donate
+Skeptic Forum
+Fight Fraud
+Fix Wikipedia
+Related Organizations
+Education
+Home
+Science Salon
+Education
+About Science Salon
+Upcoming Salons
+Watch Past Salons
+Listen on iTunes
+Listen on Spotify
+Listen on Soundcloud
+Conferences
+Education
+About Our Conferences
+Upcoming Conferences
+Past Conferences
+Geology Tours
+Education
+About Our Tours
+Upcoming Tours
+Geology Tours
+2018 Grand Irish Odyssey
+Past Tours
+Geology Tours
+2017 Grand Canyon
+2016 Great Britain
+2015 Central California Classics
+2014 Grand Canyon, Zion & Bryce
+2014 Area 51 & Alien Landscapes
+2013 Skeptics at the Beach
+2013 Death Valley Redux
+2012 Viva Mojave!
+2011 Whale Watching
+2011 Glacier Cruise
+2011 Anza-Borrego
+2010 San Andreas
+2010 Owens Valley
+2010 Death Valley
+2009 San Andreas
+2009 Utah
+eSkeptic
+Education
+Current Issue
+Back Issues
+eSkeptic
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+Subscribe
+Unsubscribe
+Insight Blog
+Education
+Read the Blog
+About the Blog
+About the Authors
+Comment Policy
+Podcasts
+Education
+Our Podcasts
+Science Salon
+Podcasts
+About Science Salon
+Watch or Listen
+Skepticality
+Podcasts
+About Skepticality
+About the Hosts
+Get the App
+Skepticality
+iOS
+Android
+Windows
+Past Episodes
+Skepticality
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+MonsterTalk
+Podcasts
+About MonsterTalk
+About the Hosts
+Support MonsterTalk
+Get the App
+MonsterTalk
+iOS
+Android
+Windows
+Past Episodes
+MonsterTalk
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+Skepticism 101
+Education
+About Skepticism 101
+Contribute
+Reading Room
+Education
+About Reading Room
+Shop
+Home
+Skeptic Magazine
+Shop
+Subscribe or Renew
+All Back Issues
+Skeptic Magazine
+Buy Print Issues
+Buy Digital Issues
+Volume 21 + 22
+Volume 19 + 20
+Volume 17 + 18
+Volume 15 + 16
+Volume 13 + 14
+Volume 11 + 12
+Volume 9 + 10
+Volume 7 + 8
+Volume 5 + 6
+Volume 3 + 4
+Volume 1 + 2
+Books
+Shop
+All Books
+Critical Thinking Classics
+Evolution/Creationism
+For Children
+Nature of Human Nature
+Pseudohistory
+Pseudoscience
+Religion & Ethics
+Science
+Science History
+Skepticism
+Social Forces
+Junior Skeptic
+Shop
+All PDFs for sale
+Quick Links
+Shop
+Shop Homepage
+Donate
+Gift Certificates
+Best Sellers
+Recommended
+$10 Books
+$5 Booklets
+Clothing & Swag
+Audio Books
+DVDs & CDs
+Shipping Info
+Donate

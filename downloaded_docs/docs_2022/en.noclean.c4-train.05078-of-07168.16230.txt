@@ -1,0 +1,83 @@
+Why is Methanol Toxic, But Not Ethanol? | The Skeptical Chemist
+Home
+Articles
+Everyday Science
+Discovery To Market
+Structure-Based Design
+Not Exactly Peer Review
+Education
+High School Level Guides
+University Level Guides
+Store
+Write For Us
+The Team
+About Us
+Contact Us
+Home
+Articles
+Everyday Science
+Discovery To Market
+Structure-Based Design
+Not Exactly Peer Review
+Education
+High School Level Guides
+University Level Guides
+Store
+Write For Us
+Everyday Science
+Why is Methanol Toxic, But Not Ethanol?
+by Sean · Published June 4, 2017 · Updated January 5, 2019
+Ethanol (alcohol) is a poison that is widely consumed all around the world. However drinking methanol the same way leads to poisoning of a different, irreversible kind. We look at the chemistry and biochemistry involved in two very similar molecules, and how they affect the body in different ways.
+How Methanol Gets into Our Alcohol
+Former West Virginia moonshiner John Bowman explains the workings of a still.
+There have been many cases around the world of people experiencing methanol poisoning after consuming illegally sold alcoholic beverages. Especially in developing countries where small bars cannot afford the price of taxed liquor, they turn to create their own. One of the dangers of consuming moonshine – or ‘home-made alcohol’ is the risk that it might have been spiked with methanol, or simply formed as a side product of improper fermentation.
+Low concentrations of methanol occur naturally in most alcoholic beverages without causing any harm. However higher levels have been found when processes – especially microbiological – fail to meet aseptic conditions, therefore introducing wild yeasts into the fermentation process. These microbes have an enzyme called pectin methyl esterase, which is able to convert pectin to methanol.
+Pectin is found in fruits, and is extracted in the process of juice production for other purposes.
+Either way, the side effects that come with methanol ingestion can be severe: a slight inebriation for 10 to 20 hours, and then a toxicity characterized generally by weakness, vomiting, pain, confusion, severe lowering of blood pH, ocular toxicity and eventually coma and death1.
+Methanol Toxicity
+The differences in the way methanol and ethanol affect the body is actually… not very different at all. Methanol on its own is not very toxic, comparable in fact, to your everyday alcohol in that they can inhibit brain functions through CNS depressant properties. Your body, however, likes to break chemicals down so that they can be excreted – a process known as metabolism. One of the first steps in metabolism tends to be oxidation.
+Related: Meet the CYP450 Superfamily of Enzymes
+Methanol is no exception, being oxidized by an enzyme in the liver called alcohol dehydrogenase – the same enzyme that works on ethanol. While ethanol is converted into acetaldehyde, methanol is converted in the same manner into formaldehyde. It is worth noting that both acetaldehyde and formaldehyde are dangerous chemicals and known carcinogens2.
+Metabolic pathways of ethanol and methanol in the body.
+The acute toxicity associated with methanol poisoning stems from the conversion of formaldehyde to formic acid by another enzyme, aldehyde dehydrogenase. This same enzyme is responsible for converting acetaldehyde (from the ethanol pathway) into the less toxic acetic acid, or vinegar.
+Formic acid (also known as formate) on the other hand, isn’t as well tolerated as acetic acid. Accumulation of this chemical in the blood deprives cells of oxygen by inhibiting the enzyme cytochrome c oxidase in their mitochondrias, a key element of the respiratory electron transport chain. Formic acid, together with formaldehyde, are responsible for nerve damage, blindness, and other unpleasant effects associated with methanol poisoning.
+Antidotes For Methanol Poisoning
+The prognosis for methanol poisoning (or rather, formic acid poisoning) is actually quite good if treated early on. The antidote comes in the form of a drug called fomepizole, which is a competitive inhibitor of alcohol dehydrogenase, preventing the formation of formaldehyde. In the absence of this drug, ethanol can also be used as it binds to the same enzyme more strongly than methanol, thereby saturating the active sites and preventing the conversion of methanol to formaldehyde. In this way methanol is excreted via the kidneys before it can be converted into its toxic metabolites. Hemodialysis can also accelerate the removal of blood methanol and formate.
+Reference
+McMartin, K. E., Ambre, J. J., & Tephly, T. R. (1980). Methanol poisoning in human subjects: role for formic acid accumulation in the metabolic acidosis. The American journal of medicine, 68(3), 414-418.
+Kerns, W. D., Pavkov, K. L., Donofrio, D. J., Gralla, E. J., & Swenberg, J. A. (1983). Carcinogenicity of formaldehyde in rats and mice after long-term inhalation exposure. Cancer research, 43(9), 4382-4392.
+Tags: AlcoholEthanolMethanolMoonshinePoisonToxicology
+You may also like...
+Fungi Are The Deadliest Agricultural Pest That You Don’t See
+September 11, 2018
+by Katharina · Published September 11, 2018 · Last modified January 5, 2019
+The Faults in Our Wines
+November 26, 2017
+by Sean · Published November 26, 2017 · Last modified January 5, 2019
+Does Alcohol Really Kill Brain Cells? The Effects of Booze on The Body
+September 26, 2018
+by Katharina · Published September 26, 2018 · Last modified January 5, 2019
+Leave a Reply	Cancel reply
+Cart
+About the author
+Sean Lim
+Chief Editor
+Sean is the Chief Editor at TSC. He likes daydreaming, chemistry, and boxing. His day job involves doing one of the above for a pharmaceutical company.
+See All Posts
+Newsletter
+Enjoying our content? Subscribe to our quarterly newsletter to access exclusive articles, deals and giveaways!
+Leave this field empty if you're human:
+Home
+The Team
+About Us
+Contact Us
+Terms of Use
+Follow Us
+Instagram
+Facebook
+Twitter
+LinkedIn
+YouTube
+RSS Feed
+© 2019 The Skeptical Chemist, All Rights Reserved.
+It's our birthday! 20% off all store orders in March 2019 Dismiss

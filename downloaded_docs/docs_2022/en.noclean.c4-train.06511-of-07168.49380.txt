@@ -1,0 +1,209 @@
+Evaluating The Evidence for Cell Phones and WiFi « Critical Thinking « Skeptic North
+About
+Authors
+Commenting Policy
+Contact
+Disclaimer
+Canada
+Atlantic
+Quebec
+Ontario
+Prairies
+Alberta
+British Columbia
+Territories
+Critical Thinking
+Cognition
+Logic and Fallacies
+Probability and Statistics
+Skepticism
+Health
+Alt-Med or Alt-Menace?
+Alternative Medicine
+Diet and Nutrition
+Health Canada Approves...
+Health Policy
+Medical Conditions
+Medicinal Advertising
+Medicine
+Vaccines
+Media
+Canada Speaks
+Events
+Reviews
+Skeptic North News
+Skeptical Fails and Wins
+Science
+Astronomy
+Environment
+Evolution
+Paranormal
+Pseudoscience
+Social Sciences
+Conspiracy Theories
+Culture
+Economics
+History
+There’s Nothing Sinister Lurking in That Baby Formula
+Write Canadian MPs to bring Clinical Trial Transparency to Canada
+New Film Fights Vaccine Hesitancy
+Homeopaths are not Medical Experts
+Naturopath Education: Still Replete With Bollocks
+Health Canada – It’s Far Past Time to Put a Stop to the NHPD Farce
+Evaluating The Evidence for Cell Phones and WiFi
+Posted on 02 June 2011 by Michael Kruse.
+Picking up where I left off yesterday, here is a short discussion about the application of the Precautionary Principle and the Weight of Evidence approach to evaluating scientific claims.
+The Precautionary Principle
+In many discussions of the “dangers” of WiFi and cell phones, the precautionary principle is evoked. It is the idea that we have “an obligation, if the level of harm may be high, for action to prevent or minimise such harm even when the absence of scientific certainty makes it difficult to predict the likelihood of harm occurring, or the level of harm should it occur.” It is important to note that the precautionary principle or approach is required when we do not have a scientific consensus or if we have a lack of scientific certainty. It is used often in European regulation of potential health and environmental hazards. “Scientific certainty” is an important clause here, because it does not mean 100% certainty. Science can never give that absolute a result and if we required 100% certainty of no risk, we would not walk out our front doors or even get out of bed, lest we have a mishap.
+The proper application of the precautionary approach depends, of course, on the solutions and precautions being offered. The IARC of the WHO mentioned yesterday suggests that cell phone exposure should be limited for those under 16 and adults should choose hands-free devices when possible. On the surface, that sounds logical. However, given that there is little if any evidence of harm and that the WHO, as detailed by Ed Yong in the Cancer Research UK blog, had to put cell phone radiation in the 2b category because it could not rule out a possibility of an increased risk, these restrictions are jumping the gun. When the uncertainty is exceedingly small, precaution seems unnecessary.
+However, going one step further and making the same claims about WiFi, which is, in practice orders of magnitude below the exposure level of a cell phone, is downright ridiculous. A fair analogy would be coffee, which is the same class 2b as cell phone radiation. Extending the caution to WiFi would be like extending the warning about coffee to smelling the freshly ground beans.
+This has not stopped the Ontario* New Democratic Party (full disclosure: I am a member) from calling for warning labels to be place on cell phones and other related devices. I know what is going on here: many, many well-meaning individuals are afraid of missing the next “cigarette smoking” type of threat and they are being overly cautious because of the political and perceived health price that might be paid. This fear, given the weak epidemiological evidence and no mechanism of injury suggested anywhere in the literature, is unfounded.
+On popular gambit of the fringe is to suggest that a manufacture cannot market their product until they have proven that the product is harmless. This is, by definition, attempting to prove a negative; an impossible standard to hold a manufacture to. Everyone wants to use safe products, and I am not suggesting (the proper socialist that I am, see above) that government regulation places an undue burden on the poor manufacturer, but it is also unfair to place impossible restrictions on a manufacturer that make them responsible for ensuring that every conceivable harm that may be perpetrated by or with their product must be eliminated before they are allowed to sell it. I am thinking of a hammer manufacturer responsible for ensuring its customers do not injure their thumbs or being forced to render the tool impervious for use as a weapon. As was suggested by the judge in the case of Sanchez vs the Department of Energy in which it was suggested that the Large Hadron Collider could produce a black hole and swallow the entire earth:
+“Injury in fact requires some “credible threat of harm…. At most, Wagner has alleged that experiments at the Large Hadron Collider (the “Collider”) have “potential adverse consequences.” Speculative fear of future harm does not constitute an injury in fact sufficient to confer standing”
+“Speculative fear of future harm,” hmm, sounds familiar.
+The straw men of cigarette smoke, thalidomide, acid rain and even global warming are often evoked as parables of caution in our approach to cell phone and WiFi use, but we should be careful when considering them as such. Tobacco was shown to be directly and clearly harmful in animal studies and epidemiological studies as early as the 1930’s and by the 60’s and 70’s surgeons general were speaking out against the harms of tobacco. The implied message that is being sent by those who compare WiFi with smoking is that there is an active campaign of suppression by pro-RF supporters that is industry funded and led in order to discredit clear scientific evidence of harm. There may be a conspiracy, but proof of one, beyond speculation, is never offered and there is no long history, like there is of smoking, to suggest that there is a clear link between low level RF from wireless devices and any human health problem
+As far as the red herrings of thalidomide, acid rain, and global warming go, scientists have been on the forefront of warning the public about the dangers of these issues. Thalidomide was the catalyst for the development of the modern drug approval process that forced the drug manufacturers to prove safety and efficacy of their product and demanded post-approval follow up trials that have caught things like the Vioxx scandal. These problems are examples of the scientific method of investigation working, but because proponents of dirty electricity have made their mind up prior to looking at the evidence they ignore the same mainstream science that proved acid rain and global warming to be a threat while failing to find any problem with EMF and RF.
+The precautionary approach is fine when dealing with a certain level of uncertainty, but make no mistake, the uncertainty over cell phones is small, and if there is a link, it is likely drowned out by larger effects and may be impossible to prove in long term studies.
+Weight of Evidence Approach
+The “weight of evidence” approach to evaluation of causality is often vilified by cell phone and WiFi scare mongers as being an inadequate way to judge the evidence – often because it disagrees with their own sentiments about the science. If you can’t disqualify the evidence, then you can go after the method of evaluation and disqualify that, right? Of course, the weight of evidence approach is often portrayed as a dumbshow of putting all the “positive” trials on one side of the scale and all of the “negative” trials on the other and taking the difference in mass as the evidence. This is how Dr. Phillips characterised it in his paper on electromagnetic fields and DNA damage, as well as his appearance on CBC Radio. Of course, the procedure is much more like a systematic review, where all of the papers, regardless of their outcomes, are weighed for their quality. (The higher quality studies will have good internal and external validity, proper blinding and randomisation, large enough sample size, proper controls and good statistical analysis; as well as being reproduced by independent investigators.) Then they are tallied and a rational conclusion is offered as to the most likely state of the evidence (of course, it is much more involved than I am stating, but suffice it to say, it does not involve a scale.) This is standard operating procedure and, in fact, is what we all do when we are evaluating evidence: we decide which studies are good and we pool the evidence before we make a decision.
+Of course, the systematic review and the weight of evidence approaches decide what the good qualities are going to be prior to initiating the literature search. This reduces the amount of bias the investigator may bring to the table when making a decision. This is why the WHO, Health Canada, and many other governmental bodies who are responsible for setting policy use this system. The WHO defends this practice in their guidelines for assessing health information:
+“All studies, with either positive or negative effects, need to be evaluated and judged on their own merit, and then all together in a weight-of-evidence approach. It is important to determine how much a set of evidence changes the probability that exposure causes an outcome. Generally, studies must be replicated or be in agreement with similar studies. The evidence for an effect is further strengthened if the results from different types of studies (epidemiology or laboratory) point to the same conclusion”
+They are interested not in a specific outcome, but the one that is most true. The opposite is true for Havas, Davis and those groups spreading fear about cell phones and WiFi: they have made up their mind prior to evaluating the evidence, so they only give weight to those studies that agree with their premise and ignore those that do not. The evidence for WiFi dangers disappears when looked at closely, and the few positive findings from some labs are never reproduced independently. The probability that cell phones or WiFi are causing any health concern remains very, very low.
+Conclusion
+Let me be very clear here: no one is saying that we should ignore the problem. As is stated in the WHO description above, the symptoms that people are reporting are real, we just disagree on the source. People get headaches. They are restless, have foggy brains, have heart palpitations and get cancer. The evidence does not support the conclusion that cell phones or WiFi are the source, but we should continue to look for the source and make sure we are not missing other possible subtle environmental effects or allow anxiety disorders to go undiagnosed.
+To be frank, I do not care if we are warned to limit our cell phone use and I don’t care if a telecom company is forced to move its cell tower off the top of a building or away from a park. I will not be the one advocating for the placement of a repeater station on the behalf of a private company. If a condo board does not want to allow this, it is within their right to deny access or get out of a contract. What is at stake here goes beyond how many bars are on my cell phone or my access to a wireless Internet source (although access to the internet is a social justice issue.) What is at risk is an entrenchment of the distrust of science and the emboldening of those mistaken individuals attempting to make the public afraid in light of very poor evidence. A very good point was brought up in CASS’s discussion about the hysteria around EHS: if people are convinced that the real symptoms their child is feeling at school are because of the wireless network, it may distract the parents and medical professionals from identifying a true, and possibly life threatening, condition. Heart palpitations are not normal. It is common for them to be caused by anxiety, but if there is a electrical problem in the heart and it goes undiagnosed because we blame it on the WiFi network, that could spell peril for the child involved. That is why skeptics speak out against the bad science around cell phone and WiFi. We, as a society cannot be blinded by ideology and must continue to search for the scientific truth around a phenomena in order to be prepared to deal with it properly.
+On Monday: how a certain sector of the public is responding to the fear spread by the mis-informed and ideologically steadfast.
+picture licensed under Creative Commons by Lmduga
+*originally given as Canadian – corrected to Ontario – again, last minute edits are dangerous :)
+21 Responses to “Evaluating The Evidence for Cell Phones and WiFi”
+Ian says:
+June 2, 2011 at 7:02 pm
+The Ontario NDP called for stickers, while affiliated with the federal or Canadian NDP, Jack Layton’s party has made no statement on the issue.
+deever says:
+June 3, 2011 at 11:48 am
+“given that there is little if any evidence of harm”
+What nonsense! Kruse, you still at it? For someone who appeared to claim to me his independent-mindedness, you sure come across as someone who owes someone something. Maybe $ for a website? I saw you also at that CN Tower Metro piece commenting. Amazing tenacity in effectively assisting people’s demise. But why?
+Should your quoted phrase above be called a flat lie? For how could you be so ill-informed after even I thrust before you & your readers a mountain of leads to pursue. Will you tell your readers some of the important backstory to the IARC thing, without which they might not have been even so bold as they were in being as meek as they were. But given that they were specifically addressing cancer, it is perhaps technically acceptable that they say 2B, “possible”. Just refrain from spinning that technical term into PR or everyday use for some credulous readers, as industry hacks are doing. The dangers from synthetic xenobiotic RF are great, have always been known to be so, which info has been diligently & muscularly kept from mainstream view. Expect public receptivity to protective advocacy 2 B somewhat easier now, notwithstanding your & the likes of Trottier’s & Tricque’s interventions.
+What “is downright ridiculous” is your continuing to fall for simplistic linear biophysical relationships, when you have been pointed to complex disinterested science, eg read Blackman’s ch. 14 http://www.bioinitiative.org/freeaccess/report/docs/section_14.pdf . How dare you then talk about lesser and greater quantities as if that is all that could matter?
+Ont. NDP Gélinas’ private bill is misdirected, but not for your reasons. She, despite strong advice to her advisors, mentioned SAR in the proposal, as if that were really relevant. A lower SAR phone might increase danger, in several ways, considering both resultant dose-response and the more complex issues.
+How dare you say “no mechanism of injury suggested anywhere in the literature”?? IARC people already mentioned their reviewing such. I put forth Panagopoulos’ work to you, for instance, and he has written a textbook chapter on this, replete with equations if that is to your taste. Sufficiency of description of “mechanism”, I believe, is beyond Western-dominated biophysics; but it surely is sufficient, from so many experimental & theoretical angles, to prove harm for public health professionals, especially for environmental advocates. About that backstory I mentioned above: the Council of Europe voted to accept on May 27 their Enviro. etc committee’s May 6 report on the dangers of wireless, which goes much farther than the EU Parl. concern expressed in ’09, and they even call out ICNIRP & its gross & undue influence on regulators worldwide. Around the same time, on France3 was broadcast the best teevee journalism to date on topic, 1&1/2 hours. Any of you bilingual enough to watch/listen, you should ask yourselves why Kruse et al persist in being so off the mark. And most important at IARC, there was a storm of protest about corruption, leading to expulsion of the Chair, surely having a de-intimidating effect so much so that so very many were surprised by the outcome. “Health” Canada’s Macnamee on Mesley’s CBC piece on the IARC thing, said “It’s incredible”. Look him up on microwavenews.com (& for more on IARC), see where he strangely gets published.
+You are, yet again, completely wrong about the inapplicability of the “parables”. Synthetic RF has been known scientifically to be xenobiotically dangerous for decades and decades. The history is very long, the corruption of process very clear and even well-documented. You choose not to look – why? Just why?
+I’ve only read part of your poor piece, but this post is long already, maybe I’ll put more after reading more.
+deever says:
+June 3, 2011 at 4:36 pm
+No time to respond by points to the wrongful rest of Kruse’s piece above, but in so many aspects, it reflects an upside-down world-view. Internet access is indeed a social justice issue — how does bringing that up argue in favour of wi-fi harmful to health?? It’s akin to, how will you call 9-1-1 without your cell phones & their infrastructure, which weaken you in the first place? Or how will many poor Africans do their banking to help alleviate poverty (or get access to health care), as if there weren’t very many other ways to assist? Only the completely unimaginative and uncritical can fall for this. But I have come to see in my skepto encounters, that severe lack of creativity is the order of their day, as is blinkered search for “evidence”, just look away when it gets uncomfortable, what a false scepticism. And for someone lamenting the status of “science” coming out of all this, Euro & US studies clearly showing drastic skewing towards findings of “no harm” based on ultimate study funding source, this doesn’t exercise our fretter over science. What a sorry situation, to see such writers affect a susceptible group of people. I bumped into a sister skeptokook site, looks rather like this one, skeptochick, on the Favre bee CCD paper implicating microwave exposures. What a mess they make of that, too. The real baneful influence around are the skeptos I’ve seen, which moves me in part to bother with posting on such a site as this, there will be a few quieter onlookers who think twice and start to doubt their skepto comfort zone.
+John Greg says:
+June 3, 2011 at 8:19 pm
+deever-the-troll said:
+“I bumped into a sister skeptokook site, looks rather like this one, skeptochick, on the Favre bee CCD paper implicating microwave exposures. [sic]”
+Yes and you were quickly and soundly exposed for your ignorance, innacuracy, deceptions, mangling of fact to suit your really bizarre style of English/rhetoric/prose, and just plain Wrongness too. The Web is a small place in so many ways.
+deever says:
+June 4, 2011 at 10:15 pm
+Keep the faith, John.
+deever says:
+June 4, 2011 at 10:34 pm
+To take a couple of moments to provide some links I felt too hurried above to do:
+http://www.cbc.ca/thenational/indepthanalysis/wendymesley/2011/05/cellphone_use_and_cancer.html#socialcomments-submit
+for Mesley’s CBC bit
+for some similar short coverage in NZ, see
+http://www.3news.co.nz/Should-cell-phone-radiation-be-cause-for-alarm/tabid/817/articleID/213666/Default.aspx
+that very much longer France3 documentary, “Mauvauses Ondes”, is now viewable at http://videos.next-up.org/France3/Hors_Serie_Mauvaises_Ondes/16_05_2011.html
+i think i erred above re the IARC Chair, i might have mixed up his chairing of something else that has been called into question; but his absence surely made for a more impartial assessment, and there were some calling for 2A
+and that PACE/COE official adoption of their Enviro etc committee report, see the adopted text at http://assembly.coe.int/Main.asp?link=/Documents/AdoptedText/ta11/ERES1815.htm and the
+report itself at http://assembly.coe.int/Main.asp?link=/Documents/WorkingDocs/Doc11/EDOC12608.htm , and in the latter, note well, fellow Canadians, how what is said closely follows what readers here were pointed to via deever’s comments at http://www.skepticnorth.com/2010/11/levitt-and-lai-peddling-discredited-emf-science/ re 18 recommendations submitted to our own Parl. committee, which failed to act protectively & sensibly, but the tide is turning, no matter the blindness of some skeptic
+gmcevoy says:
+June 5, 2011 at 5:42 am
+“given that there is little if any evidence of harm”
+“What nonsense! Kruse, you still at it? For someone who appeared to claim to me his independent-mindedness, you sure come across as someone who owes someone something. Maybe $ for a website?”
+37 studies of people who claim such electrosensitivity they can tell if a device is on or off
+30 negative teh rest unconvincing – I’d provide a link, but something tells me you’re not interested – is rather damning evidence of over-blown claims and harmlessness
+and the best you can do is suggest pecuniary skullduggery
+Oh, there’s nonsense here all right
+deever says:
+June 5, 2011 at 7:16 am
+Let’s boil it down to this, gmcevoy, for a moment: Let’s say someone like me refuses to look at negative studies. But I experience and perceive others’ suffering very closely associated with contentious exposures. I don’t have to assume the vast majority of adherents of skeptasm do not look at positive studies, because it is obvious, also assuming for the moment that they can examine evidence and reason as I do, that they’d share my judgement of danger were they to look. It also follows that skeptasts do not recognize any of their or others’ suffering as similarly related. What does it come down to? A group of humans saying, it hurts us, another group refusing to accept such, and supporting the continued, how shall I say, “progress”. You try to reason from there, if ethics enter into it for you at all.
+group S1, sufferers: neg. study no see, pos. see, feel & see & connect study to suffering, figure danger, say “stop”
+group S2, skeptasts: pos. no see, neg. see, make no connexion re suffering, figure no danger, say “keep at it”
+Treat it as an exercise in ethical impasse – what to do?
+gmcevoy says:
+June 6, 2011 at 11:46 pm
+Whiskey Tango Foxtrot
+Tim McDowell says:
+June 5, 2011 at 1:58 pm
+A nice summary, and a thoughtful piece. Too bad the EMF “true believers” have come out a-ranting.
+The bottom line is that the IARC recommendation does not change anything, other than recommend that we treat the possible carcinogenic effects of cellphones the same way we treat other possible carcinogens, such as caffeine. I don’t see people panicking and avoiding Starbucks.
+The notion of microwave radiation emitted by cell phones as a cause of cancer is implausible based on particle physics. The only way we currently know for EM energy to cause cancer is to interact directly with DNA, such as happens with ionizing radiation. Microwave radiation is simply orders of magnitude too weak to have any such interaction. It doesn’t really matter how much exposure. It is the equivalent of throwing ping-pong balls at a brick wall.
+The cell phone cancer scare is deja vu all over again. We’ve already gone through concerns about EMF and cancer in the 1980′s and 1990′s, and it was proven conclusively that there is no connection.
+There is no such thing as an EMF sensitive. It is a delusionary disorder. There is a strong link between those who believe they are EMF sensitive, and those who believe they have Total Body Candidiasis, Adrenal Fatigue, Morgellon’s Disease, Chronic Lyme Disease and other pseudo-diagnoses promoted by pseudoscientists and AltMed practitioners.
+These are people with anxiety problems who are seeking attention.
+elemental says:
+June 5, 2011 at 5:02 pm
+“The notion of microwave radiation emitted by cell phones as a cause of cancer is implausible based on particle physics. The only way we currently know for EM energy to cause cancer is to interact directly with DNA, such as happens with ionizing radiation. Microwave radiation is simply orders of magnitude too weak to have any such interaction. It doesn’t really matter how much exposure. It is the equivalent of throwing ping-pong balls at a brick wall.”
+When will you people quit applying your naive application of high-school physics to highly complicated, poorly-understood systems? How can you champion science yet trust your own foggy impressions of the subject? How do you justify your assessment that EMF sensitivity is actually an attention-seeking symptom of a psychiatric disorder? Surely your belief in that requires scientific evidence?
+Consider this: under the right conditions, you can shine visible light into matter and produce UV light. I’m not saying this is happening when you use a cellphone – my point is, if the dynamics of hunk of crystal is that rich, imagine what could happen when microwaves are incident upon a tremendously complicated hunk of matter called a human.
+DJL says:
+June 6, 2011 at 8:50 pm
+The ‘complexity’ of the ‘hunk of matter’ is irrelevant to the physical phenomenon taking place. The shining of light followed by absorption and re-emission is called fluorescence (or its longer-lived cousin phosphorescence). It happens when an atom absorbs the electromagnetic energy, exciting an electron into a higher energy state. When that electron decays from that state back to its original state, it re-emits light; this happens regardless of how complex a system it is in. The electrons in your hand don’t really care if they are a part of you, a part of a crystal on the ground, or a part of the moon, the same physical process occurs. Now, for cancer-causing radiation, you are giving the atom so much energy that the electron actually breaks free from the atom, and you now have a strong oxidizing agent in the body. If the electromagnetic energy you are applying, is not strong enough to cause that ionization.. well, it just simply doesn’t happen. Doesn’t matter if it’s in your hand, or in a crystal, its the same process.
+deever says:
+June 6, 2011 at 11:24 pm
+What is your point, DJL, other than the pedestrian and largely irrelevant one made over & over again? DNA fragmentation, for example, obviously can occur in close association with exposure to regular “low level” cell phone radiation, including from base station antennae. Look at the decade of work for example of Dimitris Panagopoulos at U of Athens (who loses his office, gets promotion blocked, has unprecedented journal rejection of paper, all right after testifying about their work to a Canadian Parl. committee — skeptos suspect nothing or keep weirdly silent about their suspicions). At IARC of course they review possible and plausible mechanisms, were there sufficient descriptive confidence in this regarding the generation of cancer, they would have made it 2A at least, as some there recommended already. What are you trying to say? Are you aware of study that attributes harm to the low frequency modulation patterns? Why could there not be variegated damage done? Even provocation of microwave auditory effect — know about that, even industry hacks accept its existence, but skeptos are strangely silent about this strange effect? — might be brought about in various ways. A Russian ’79 paper found “hearers” of this effect heard at the pulse frequency. Frey i think had earlier found “peaks” more important than incident power. It’s not all about raw power, about pingpong balls and brick walls of skepto simple-minded unimaginativeness, or inattentivenss. Read Blackman’s ch 14 of the Bioinitiative already suggested above for starters maybe if you have genuine interest. The biological reactivity is what is at issue, not idealized physical interactions.
+I just came across some follow-up on my comment re WHO (not specifically IARC; on Kruse’s other wrongheaded piece), “what took them so long [?]” — read http://andrewamarino.com/blog/?p=154 . A researcher-insider’s account of what went wrong and how, leading to the deaths & injury of so many (that skeptos I’ve seen seem unable to admit to themselves) is his recent book, Going Somewhere. Another insider’s account that should be read by any self-respecting independent-minded person looking seriously into the emf controversy, is Motorola man Robert C. Kane’s Cellular Telephone Russian Roulette (look for it online, on scribd.com ). Anyway, I bring this because of the pretty big IARC-WHO thing last week. Denialists who have the upper hand in regulatory circles still, will maintain as industry hacks and their cheerleaders & other abettors, that nothing is established, expect Death Canada to say it had already issued suggestions about individual precautions if one is concerned about the unprotectiveness of its simplistic Danger Code 6, a Harperion travesty of a government in Canada will be completely unmoved to protect the public if it means perturbing what are effectively corporate clientele. On that long-established-as-dangerous closeness of industry & abettors to the research world, do read e.g. http://andrewamarino.com/PDFs/157-EBM2009.pdf on brain effect studies.
+What about the work on DNA as fractal antennae reported by Martin Blank, see link at that other Kruse piece. There is so much out there to engage someone interested in the biophysical end of determining harm — but who few will dare to go into such research when they face persecution or gross limitation (see again the Marino links above)?
+On at least this issue (and I’d bet so many more, but as i said, i am not intending to wade into other skeptoslop, lucky you all), skeptos seem interested in preserving some status quo rather than getting closer to the truth of the matter, little to do with freethinking, more to do with unexamined assumptions, which makes the ‘sceptic’ label laughable at times.
+gmcevoy says:
+June 7, 2011 at 12:07 am
+and your dissertation gaining your PhD in Physics was submitted when?
+deever says:
+June 5, 2011 at 9:48 pm
+Good one again, elemental, we are coming at it from different angles, completely lost on scraptos. Simplicity is the order of the day, can’t take a complex world, look straight ahead. Any other way and, well, anxiety disorder might be provoked, wouldn’t you know.
+Well, some readers here might know better.
+Brick walls…? Skeptos…? Yeah, that’d be about it.
+Richie says:
+July 12, 2011 at 3:13 pm
+This is nonsense. Particle physics does not say or imply anything about cancer. Cancer may occur by damage to DNA (mutations) or without mutations. You have no clue what you are writing about.
+Also, the comparison with coffee is inappropriate – people have a choice as to whether to drink or not coffee, coffee does not satiate the air and get you exposed against your will. Read the literature and learn how to make proper and meaningful comparisons. I rarely saw so much nonsense piled together as in the post above.
+elemental says:
+June 7, 2011 at 12:55 am
+DJL: nope, not fluorescence. Not phosphorescence either. Not for what I described – an atom cannot absorb a single photon and relax with the emission of photon of higher-frequency. That would violate conservation of energy. Also, the terms fluorescence and phosphorescence refer to resonant effects – when the incident field matches a transition energy of the atom. What I described could be a resonant process, but need not be. Read up on:
+http://en.wikipedia.org/wiki/Nonlinear_optics
+Though that article doesn’t come close to listing all the nonlinear effects that are known.
+And don’t tell me the body is a linear media! To reiterate, though – I’m not saying any of these effects are present in the case microwaves on the body, I’m just pointing out how the same simplistic sceptics’ reasoning, applied to a piece of crystal, would fail quite spectacularly.
+gmcevoy: in a few years, hopefully! Should I just stop wasting my time with you?
+Trackbacks/Pingbacks
+Skeptical News Roundup! « The Winnipeg Skeptics says:
+June 13, 2011 at 8:09 pm
+[...] over the WHO’s recent classification of cellphone use as a type 2B potential carcinogen, there is still no good evidence that your mobile device is poisoning your [...]
+Green Wi-fi | PEI Curmudgeon's Blog says:
+July 31, 2011 at 6:35 am
+[...] Trottier, Michael Kruse and here and here, Bernard Liekind, Corey Pein, Steve Thoms, and John Timmer, to name a few. In [...]
+Episode 18: WiFi, Mobile Phones, and Electrosensitivity « Life, the Universe & Everything Else says:
+March 25, 2012 at 2:08 pm
+[...] Not-So-Dangerous Truth Behind Microwaves | Elizabeth May on EFM (SkepticNorth, Winnipeg Skeptics) | Evaluating The Evidence for Cell Phones and WiFi | “Dirty Electricity” | Electrosensitivity in Sweden | Skeptics’ Guide 5×5 [...]
+LUEE Episode 18: WiFi, Mobile Phones, and Electrosensitivity « The Winnipeg Skeptics says:
+March 25, 2012 at 11:28 pm
+[...] Not-So-Dangerous Truth Behind Microwaves | Elizabeth May on EFM (SkepticNorth, Winnipeg Skeptics) | Evaluating The Evidence for Cell Phones and WiFi | “Dirty Electricity” | Electrosensitivity in Sweden | Skeptics’ Guide 5×5 [...]
+Author Bio
+More by this Author
+Filed Under
+Michael Kruse
+Michael is an advanced-care paramedic in York Region, just north of Toronto, Ontario. A semi-retired theatrical lighting designer as well, he re-trained in 2005 as an EMT-PS at the University of Iowa and as an ACP at Durham College, and is currently working towards a B.Sc at the University of Toronto. Michael is a founder and the chair of the board of directors of Bad Science Watch. He is also the recipient of the first annual Barry Beyerstein Award for Skepticism. Follow Michael on twitter @anxiousmedic. Michael's musings are his own and do not necessarily represent those of his employer or Bad Science Watch.
+New Film Fights Vaccine Hesitancy
+Royal Society of Canada and Safety Code 6
+Chronic Lyme Disease Creeps into Green Party Bill
+Bryce Wylde's Bad Flu Advice
+NHP Licensing by Health Canada Ignores Reality
+C4ST and Frank Clegg Spreading WiFi Fear
+Stories and Medicine
+Naturopaths Petition for More Prescribing Rights
+Categories
+Critical Thinking, Health, Health Policy, Probability and Statistics, Skepticism
+Tags
+cell phones , Havas , WHO , WiFi
+RSS Feed
+You Might Also Like...
+Cell Phones and WiFi and Cancer, Oh My…
+Cell Phones Still Not Linked to Brain Cancer
+It’s Wifi Day!
+Local Cell Tower Hysteria
+New Study Shows EMF Effect On Brain – So What?
+© 2019 Skeptic North.

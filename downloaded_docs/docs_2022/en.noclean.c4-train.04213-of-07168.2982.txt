@@ -1,0 +1,120 @@
+WiFi Radiation - Everything You Need To Know - EMF Academy
+Knowledge
+Recommended Products
+Buyer Guides
+Product Reviews
+Knowledge
+Recommended Products
+Buyer Guides
+Product Reviews
+Home BlogKnowledge WiFi Radiation – Everything You Need To Know
+Knowledge
+WiFi Radiation – Everything You Need To Know
+by Christian December 16, 2017
+written by Christian December 16, 2017
+WiFi is absolutely everywhere these days, from our homes and places of work to our schools and coffee shops. So with WiFi taking over the world, we have to ask, is this safe?
+Let’s walk through it together step by step.
+(Also, I would love for you to take just a minute and check out Nicolas Pineault’s groundbreaking E-book “A Non-Tinfoil Guide To EMFs.” It is the most entertaining and informative book on EMF radiation you’ll ever read, I promise.)
+First of all:
+Does WiFi Really Emit Radiation?
+Devices that push WiFI like Routers, some modems, and even our phones through hot-spot functions, emit what is often called Radio Frequency radiation, or sometimes called microwave radiation. Routers, Modems and other devices that push WiFi to do so constantly so that connections can be maintained.
+RF radiation, which includes both radio waves, and microwaves, is at the far end of the electromagnetic spectrum and is a low energy wave. This makes RF and microwave radiation a form of “non-ionizing radiation” which just means that there is enough energy to move the atoms in a molecule around and cause friction, but not enough energy to actually remove a charged particle (ionizing).
+When RF or microwave radiation is absorbed in large quantities, it can produce heat. This is home our microwave ovens heat up food, by loading up our food or water with RF radiation, which causes a large amount of friction, which produces heat.
+It is now a well studied and accepted fact that long-term and excessive exposure to this kind of radiation will produce negative biological and health effects in humans. Although microwaves are intended to heat food, they produce the same type of radiation that WiFi routers produce when they use radio waves to transmit data.
+Is WiFi Radiation Harmful?
+Long-term exposure to Radio Frequency waves or microwave radiation has long been studied and shown to produce all sorts of adverse health effects. See my post on EMF Radiation Exposure Symptoms for a full list of common symptoms. Even the American Cancer Society, who in large part will not fully say that EMF radiation causes long-term harm, and instead errs on the side of not enough research, admits on their website, that:
+“…there has been concern that some forms of non-ionizing radiation might have biological effects that could result in cancer…”
+-American Cancer Society
+Independent studies have connected EMF radiation from WiFI to a whole host of health issues such as:
+Interruption of the brain glucose metabolism
+Increased permeability of the blood-brain barrier
+Interruption of cell metabolism
+Breaks in DNA chains
+Frequent and long-term exposure to WiFi also commonly causes symptoms such as:
+Fatigue – Most recognizable is fatigue even after what seemed like a full, or rest-full nights sleep, or fatigue that persists through the day.
+Trouble Sleeping – This one is extremely common, as peoples bedrooms have become a hotbed for EMF radiation. From cell-phones next to the bed, metal spring mattresses acting as antennas, to the WiFi in our homes, EMF radiation while we sleep is extremely common. In fact, I wrote a whole article about how to rid your bedroom of EMFs and finally get a restful nights sleep, check it out here.
+Tinnitus – More commonly known as just ringing in the ears, it doesn’t always present as a ringing. Tinnitus is defined as the hearing of a consistent sound when no such external sound is present, and can actually present as a hissing, a clicking, a roaring, or a number of other sounds. This is common with severe Electo-hypersensitivity.
+Brain Fog – or cognitive decline, it is noticeable when you feel that your memory has been declining, or you’re having trouble recalling names, or places or events. It is also noticeable if you are having a tough time concentrating. Some scientists believe that the dramatic rise in Alzheimers Disease can be partially attributed to EMF damage and our wireless age.
+Chest Pain and Heart Palpitations – Often seen in patients with EHS, or any reaction to the EMFs around them, the feeling is similar to angina, when blood flow is restricted to the heart. Less severe, but still symptomatic can be a fluttering or racing heartbeat.
+Skin Reactions – Some people react with irritations to the skin like redness, tingling, or even a rash. This is most commonly present in the face and upper arms but can present nearly anywhere on the body.
+What is a Safe Distance from WiFi Radiation?
+This is a tough one to answer. As we’ve already established, WiFi radiation is a type of non-ionizing EMF radiation and is primarily harmful in cases of frequent and long-term exposure. Whereas a microwave oven uses an intense amount of RF radiation to quickly heat food, WiFi uses the same type of radiation, but over 100,000 times less intensity.
+This type of radiation follows what is called the inverse square law, which essentially means that the farther you are from the source you are, the safer you are. As you double your distance from the source of the radiation, you quarter your radiation exposure. See the link for more on this.
+This just shows that when it comes to WiFI, although there really is no “safe distance” because if you’re device is receiving a connection, you’re absorbing radiation. The key here is distance, the further away you are from the source, the less radiation you will be absorbing.
+The best things you can do are to dramatically lower the EMF radiation in your home by using less wifi, using ethernet instead, and a ton of other steps. Check out my posts “11 Ways To Reduce Computer EMF Exposure,” “11 Ways To Reduce EMF Exposure,” and “How To Eliminate EMFs In The Bedroom” for a whole wealth of helpful tips at lowering your exposure to EMF radiation.
+How To Protect Against WiFi Radiation
+1. Get a good EMF Meter.
+This is extremely important for a lot of reasons but will be crucial for any step to reducing radiation. Having a quality EMF meter will allow you to determine what kind of radiation devices in your home are emitted, as well as how much. This will also be crucial in understanding how different changes are improving this I would highly recommend either the TriField TF2 (read my review), or Meterk (read my review) if you need a lower cost EMF meter.
+2. Reduce WiFi Exposure
+This one is the simplest and most important. First, if possible set up a wired network in your home, as it is faster, simpler, and much safer. The best things you can do is simply eliminate WiFi in your home, the following is from my massive post on “11 Ways To Reduce Computer Radiation Exposure.”
+If you’ve bought a computer any time in the last 5 years, there is almost a certainty that it has wifi built in. We’re far past the days of getting separate wifi cards or adapters for our computers. The problem is, Wifi does emit RF radiation, a type of EMF radiation that is very harmful. Whether you have a desktop computer or a laptop that you use, it likely uses Wifi, so let’s take care of that.
+First of all, you need to resolve the wifi issues with the computer itself. Nearly every laptop is going to have wifi built in. The best thing you can do is hardwire to your laptop, especially if there is a consistent place you use it like a home desk. Take the time to wire in an ethernet cable. This is NOT complicated.
+First just purchase an appropriate length ethernet cable from Amazon.
+Plug the ethernet cable into the back of your router. Typically there will be about 4 ports on the back and one additional port for the ethernet cable coming from your modem. Just plug the ethernet cable into any of the other 4 ports.
+Plug the other end of the cable into your laptop or desktop, done.
+Check out the image below for a visual.
+Now that we’ve hardwired internet to your computer, you need to actually disable Wifi, you can do this in 1 of two places. Ideally, you’d just disable it on your router. Unfortunately, if there isn’t a wifi button on the router itself, it can take a little bit of work in the settings to accomplish this.
+I’d suggest just googling “How to disable wireless on (your router name here).” That is the best solution. The second best option is to disable wireless on your device. Just because you hardwired your computer for ethernet, doesn’t mean that wireless is still not turned on and running, constantly pinging and looking for a wireless network.
+A few things to watch out for:
+Many wireless routers automatically kick wifi back on when there is a firmware update, or the device gets restarted. When our internet is running slow or not working, the first thing our internet provider will tell us to do is power cycle the router and modem (basically just turning them both off and back on). Make sure that when your router comes back on it doesn’t automatically turn the wifi back on.
+Many modems provided by internet service providers are also routers pushing wifi. So even if you bought your own router and use it for your internet, you’re modem may also be pushing wifi into your home. I just ran into this personally. I was helping my mother in law set up ithe nternet in her new home. She had a router that she wanted me to set up, but when doing so I found out the modem her internet company gave her was already pushing out a wifi. Obviously, I disabled that and set up a few ethernet cables in her home.
+3. Use a Better Ethernet Cable
+This one is if you are planning on continuing to use WiFi (which I completely understand, it is super convenient!). Most people don’t know that the short ethernet cable that comes from the manufacturer of their router that connects the router to the modem can actually be a source of EMF radiation, and should ideally be protected.
+Luckily, you can get a really inexpensive version of the same cable that will do exactly the same thing but comes encased in a special screened shield that will block that radiation entirely. You can pick it up on Amazon.
+4. Get Rid of Wireless Devices
+If you’ve read my post on “Is Bluetooth Dangerous“, you would know that whenever possible, you should replace wireless versions of accessories with the wired versions. This includes keyboards, mice, printers, scanners, headphones, and just about anything else, as the wired versions are almost always safer.
+5. Distance is Key!
+Like we talked about above when we talked about the inverse square law, distance from the source of radiation is vitally important! Try to situate your router as far away from where you spend your time as possible, while still maintaining a strong connection.
+6. Put Your Router On A Timer
+If you check out my post “How To Eliminate EMFs In The Bedroom” you’ll read a lot about how much EMF radiation reducing our sleep quality. So, if you’re set on having your WiFI router on, I would suggest setting it on a timer.
+You can actually get a completely mechanical timer on Amazon for super cheap. Then all you have to do is plug your router into it, and set a time period, say from midnight to 7 am, and it will automatically turn your router off and then back on again. Depending on your sensitivity to EMF radiation, you could quickly notice better and more restful sleep.
+What Next?
+I’d encourage you to read a few of my other posts, especially “11 Ways To Reduce Computer EMF Exposure,” “11 Ways To Reduce EMF Exposure,” “How To Eliminate EMFs In The Bedroom,” and “Smart Meter EMF Protection“, for some more quality tips and advice to reduce your exposure to EMF radiation.
+I’d encourage you to just try a few of the things I outlined in this article, and see what kind of impact it has in your life, and on your health.
+Also, I just want to quickly mention that if you’re at all concerned about EMF radiation, you should take a second and check out Nicolas Pineault’s The Non-Tinfoil Guide to EMFs. It is an entertaining and extremely informative ebook on EMF radiation that I absolutely love.
+If you enjoyed my post on WiFi Radiation, consider sharing it with your friends and family!
+Source: https://www.electricsense.com/3544/wifi-radiation-how-to-protect-yourself/
+0 comment
+0
+FacebookTwitterGoogle +PinterestLinkedinEmail
+Christian
+I created and currently manage EMF Academy, one of the premier sources for EMF safety knowledge. I am so passionate about spreading this crucial information. If you need anything, just shoot me an email at [email protected] and I'll do everything I can to help.
+previous post
+Does Aluminum Foil Protect Against EMF Radiation?
+next post
+EMF Radiation From Power Lines – What You Need To Know
+You may also like
+WiFi Router Guard – What It Is and...
+Low EMF Wired Baby Monitor – What To...
+5G Radiation Dangers – The Definitive Guide
+Can Bluetooth Headphones Cause Brain Cancer?
+Installing Hard Wired Internet – A Simple Guide
+Cell Phone Radiation Hand Pain – The Definitive...
+Low EMF Power Strips and Surge Protectors
+EMF Radiation and Sleep – The Essential Guide
+Safest Light Bulbs – The Definitive Guide
+9 Examples of EMF Radiation In Everyday Life...
+Leave a Comment Cancel Reply
+Save my name, email, and website in this browser for the next time I comment.
+Hey! I'm Christian
+And this is my family. For the past 6 years or so I’ve put a lot of time into researching EMF Radiation and why it’s so dangerous. I wanted to do what I could to protect myself and my family from this danger. This blog started as a simple way for me to share what I learned with the world. Now it is one of the largest and most trusted sources to learn about EMF radiation.
+Let’s Get To Know Eachother
+About Me
+Contact Me
+Affiliate Disclosure
+EMF Academy is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. EMF Academy also participates in affiliate programs with Clickbank, ShareASale, and other sites. EMF Academy is compensated for referring traffic and business to these companies.
+Facebook
+Twitter
+Privacy Policy
+Terms And Conditions
+Disclaimer
+Medical Disclaimer
+@2019 - emfacademy.com. All Right Reserved.
+Back To Top
+Want A Free EMF Meter?
+Enter your email for a chance to win one of the 10 Meterk EMF Meters I'll be giving away May 2nd, 2019.
+Visit this page for more details.
+You'll also get my Top 10 EMF Protection Tips and be signed up for the exclusive EMF Academy Newsletter!
+Sign Me Up!
+We hate spam as much as you. Your email address is 100% safe and secure.
+x

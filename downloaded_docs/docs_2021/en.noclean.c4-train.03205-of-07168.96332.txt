@@ -1,0 +1,174 @@
+Seroprevalence of Bb, Bm, & Powassan in Residents Bitten by Ixodes Ticks | Madison Area Lyme Support Group
+Madison Area Lyme Support Group
+About/Contact
+Articles & Documents
+Meetings
+Petitioning the State of Wisconsin
+Photographs
+Videos
+Seroprevalence of Bb, Bm, & Powassan in Residents Bitten by Ixodes Ticks
+March 8, 2019
+https://wwwnc.cdc.gov/eid/article/25/4/18-0202_article?fbclid=IwAR3Ul329rua5cLKPHHxRVaGsmiH22QIWqjngZyYPO5MJgucoBHdTjjkHFLM
+Volume 25, Number 4—April 2019
+Seroprevalence of Borrelia burgdorferi, B. miyamotoi, and Powassan Virus in Residents Bitten by Ixodes Ticks, Maine, USA
+Robert P. Smith, Susan P. Elias , Catherine E. Cavanaugh, Charles B. Lubelczyk, Eleanor H. Lacombe, Janna Brancato, Hester Doyle, Peter W. Rand, Gregory D. Ebel, and Peter J. Krause
+_____________________________________________
+Reports of Lyme disease in Maine, USA, have increased from a few cases in the late 1980s to 1,848 cases in 2017 (1), coinciding with range expansion of Ixodes scapularis ticks over the past 3 decades (2). The Maine Center for Disease Control reported the first 2 cases of hard-tick relapsing fever caused by Borrelia miyamotoi during 2016 and an additional 6 cases during 2017 (1). Hard-tick relapsing fever might be present as a nonspecific febrile illness (3,4). Han et al. (5) found a B. miyamotoi infection prevalence of 3.7% in adult I. scapularis ticks in Maine, ≈10-fold less than that for B. burgdorferi infection (50%, range 32%–65%) (6).
+Powassan virus (POWV) encephalitis can be a devastating human infection and has infected 10 residents of Maine during 2000–2017. There are 2 variants of POWV with distinct enzootic cycles and tick vectors. Lineage 1 is transmitted by I. cookei ticks and lineage 2, sometimes referred to as deer tick virus, is transmitted by I. scapularis ticks (7). Both lineages are present in Maine (7), but lineage 1 has a lesser risk for transmission because human bites by I. cookei ticks are infrequent (8). One fatal Maine case was demonstrated to be caused by lineage 2 POWV (7). Although POWV infection prevalence in Maine I. scapularis ticks is low (0.7%–1.8%) (9), frequent exposure to I. scapularis bites (8) and rapidity of POWV transmission (i.e., POWV might be transmitted to vertebrates after only 15 min from onset of the tick bite) (10) raise concern.
+To clarify frequency of exposure to B. burgdoferi, B. miyamotoi, and POWV pathogens, our objective was to determine the seroprevalence of each of these pathogens in residents of Maine, USA, who had been bitten by I. scapularis or I. cookei ticks. We also anticipated that a serosurvey might provide evidence of asymptomatic POWV infection or self-limited illness in a few persons, as reported elsewhere (11,12).
+The Study
+The Vector-Borne Disease Laboratory of the Maine Medical Center Research provided a free, statewide tick identification service during 1989–2013 to monitor exposure to I. scapularis ticks during range expansion of this invasive vector of human and animal disease. Persons submitted ticks that they had removed from themselves, family members, and pets. As of 2014, 33,332 ticks representing 14 species were identified in Maine; I. scapularis ticks were predominant.
+During 2014 (2), we used our tick identification service database to identify persons who had removed >1 attached I. scapularis or I. cookei tick(s) from any person in the household in the previous 5 years (2009–2013). We invited these persons to participate in a serosurvey to assess past exposure to B. burgdorferi, B. miyamotoi and POWV. At the clinics, accompanying family members who self-reported as being tick-bitten were also invited to participate. The study was approved by Maine Medical Center Institutional Review Board (Protocol #4222). Participants provided informed consent (assent for minors) and submitted 30 mL of blood. Blood was centrifuged at 3,500 rpm for 15 min. Serum aliquots were stored at −20°C and then shipped to testing laboratories.
+Serologic testing for antibodies to B. miyamotoi was conducted at the laboratory of one of the authors (P.J.K.). An ELISA and confirmatory Western blot assay were used to detect serum reactivity to B. miyamotoi GlpQ protein (13). For the ELISA, serum samples were diluted 1:320 and a signal >3 SD above the mean of 3 B. miyamotoi–negative serum controls was considered positive for B. miyamotoi antibody. Serum samples were considered B. miyamotoi seropositive if ELISA IgG and Western blot IgG tests yielded positive results.
+Serologic evidence of exposure to B. burgdorferi was detected by the standard 2-step ELISA and Western blot assay in the Lyme Disease Serology Laboratory at Yale New Haven Hospital by one of the authors (H.D.). A reactive serum was defined as reaction to a dilution >1:100. All borderline or reactive serum were further characterized by Western blot immunoassay. Specimens were considered positive for B. burgdorferi exposure if the IgG immunoblot contained >5 of the 10 most common B. burgdorferi–associated bands (14).
+Serologic testing for POWV was conducted by one of the authors (G.D.E.) by using a plaque-reduction neutralization test (PRNT) and a POWV–West Nile virus (WNV) chimeric virus (POWV–premembrane–envelope [prME]/WNV) assay as described (15). The specificity of the assay was determined by cross-neutralization studies, which demonstrated that antiserum raised against POWV efficiently neutralized chimeric POWV–prME/WNV but not WNV and that antiserum raised against WNV do not neutralize POWV–prME/WNV (15). Use of the chimeric POWV–prME/WNV assay virus enabled PRNT testing to be conducted on African green monkey kidney (Vero) cells according to standard procedures by using a 90% neutralization cutoff to be considered positive (15).
+Of 230 enrolled persons, 190 were in our tick identification program database, and 40 were family members (Table 1). Among the 190 persons, 1 tick bite was from an I. cookei nymph, 13% of bites were from I. scapularis nymphs, and 86% of bites were from I. scapularis adult females. Engorgement of ticks ranged from slight (43%) to moderate (38%) to high (18%). Among the study population, 32 (13.9%) were seropositive for B. burgdorferi, 6 (2.6%) were seropositive for B. miyamotoi, and 2 (0.9%) were seropositive for both pathogens (Table 2). The serum of 1 person (0.4%) neutralized POWV at a titer of 1:20 and WNV at a titer of 1:10. We designated this serum as flavivirus positive. This person reported a history of neurologic illness for >1 year and a tick bite within the study year.
+Conclusions
+Among residents of southern Maine with a history of I. scapularis tick bites, the percentage who were seropositive for B. burgdorferi was 6 times greater than that for B. miyamotoi (13.7% vs. 2.1%) and 30 times greater than the percentage of deer ticks infected with POWV (0.4%). Because our study population consisted of persons bitten by I. scapularis ticks (with engorgement ranging from slight to high), we expected seroprevalence to be greater than that for the general population. The B. burgdorferi seroprevalence of 13.7% in our study population was ≈1.5 times higher than the seroprevalence of 9.4% reported by Krause et al. (13) in healthy residents of southern New England. In contrast, the B. miyamotoi seroprevalence of 2.1% was comparable to the seroprevalence of 3.9% reported by Krause at al. (13).
+Of 1,854 cases of infection with Borrelia spp. reported in Maine in 2017, a total of 1,848 were attributed to Lyme disease and only 6 (0.3%) were attributed to B. miyamotoi (1). On the basis of a seroprevalence of ≈2% in this study and that B. miyamotoi might be transmitted by all tick stages, we believe that this disease is underdiagnosed in Maine (5). Our population was identified by history of tick exposure, rather than by symptoms. Our results therefore represent the relative frequency of exposure to these different agents rather than risk for illness.
+Although the sensitivity and specificity of the 2-tier antibody assay for B. burgdorferi is better validated than those of the B. miyamotoi and POWV assays, the sensitivity and specificity of these assays are good (13–15). Nonetheless, our findings might represent overestimates or underestimates of actual exposure to these agents because of false-positive or false-negative results. These data provide evidence that humans are exposed to B. burgdorferi, B. miyamotoi, and POWV in Maine and help define the prevalence of human infection caused by each of these tickborne pathogens.
+References
+Maine Center for Disease Control. Reportable infectious diseases in Maine, 2017 summary; 2018. [cited 2018 Sep 18]. https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/publications/#annualreports
+Rand PW, Lacombe EH, Dearborn R, Cahill B, Elias S, Lubelczyk CB, et al. Passive surveillance in Maine, an area emergent for tick-borne diseases. J Med Entomol. 2007;44:1118–29. DOIPubMed
+Platonov AE, Karan LS, Kolyasnikova NM, Makhneva NA, Toporkova MG, Maleev VV, et al. Humans infected with relapsing fever spirochete Borrelia miyamotoi, Russia. Emerg Infect Dis. 2011;17:1816–23. DOIPubMed
+Krause PJ, Fish D, Narasimhan S, Barbour AG. Borrelia miyamotoi infection in nature and in humans. Clin Microbiol Infect. 2015;21:631–9. DOIPubMed
+Han S, Lubelczyk C, Hickling GJ, Tsao JI. Transovarial transmission rate and filial infection prevalence of Borrelia miyamotoi from Ixodes scapularis collected from hunter-harvested white-tailed deer. Presented at: International Symposium on Tick-Borne Pathogens and Disease; Vienna, Austria; September 24–26, 2017.
+Smith RP, Elias SP, Borelli TJ, Missaghi B, York BJ, Kessler RA, et al. Human babesiosis, 1995–2011, Maine, USA. Emerg Infect Dis. 2014;20:1727–30. DOIPubMed
+Cavanaugh CE, Muscat PL, Telford SR III, Goethert H, Pendlebury W, Elias SP, et al. Fatal deer tick virus infection in Maine. Clin Infect Dis. 2017;65:1043–6. DOIPubMed
+Smith RP Jr, Lacombe EH, Rand PW, Dearborn R. Diversity of tick species biting humans in an emerging area for Lyme disease. Am J Public Health. 1992;82:66–9. DOIPubMed
+Robich RM, Lubelczyk C, Welch M, Henderson E, Smith RP Jr. Detection of Powassan virus (lineage II) from Ixodes scapularis collected from four counties in Maine. Poster LB-5175. Presented at: 66th Annual Meeting of the American Society of Tropical Medicine and Hygiene; Baltimore, MD, USA; November 5–9, 2017.
+Ebel GD, Kramer LD. Short report: duration of tick attachment required for transmission of powassan virus by deer ticks. Am J Trop Med Hyg. 2004;71:268–71. DOIPubMed
+Frost HM, Schotthoefer AM, Thomm AM, Dupuis AP II, Kehl SC, Kramer LD, et al. Serologic evidence of Powassan virus infection in patients with suspected Lyme disease. Emerg Infect Dis. 2017;23:1384–8. DOIPubMed
+El Khoury MY, Camargo JF, White JL, Backenson BP, Dupuis AP II, Escuyer KL, et al. Potential role of deer tick virus in Powassan encephalitis cases in Lyme disease-endemic areas of New York, U.S.A. Emerg Infect Dis. 2013;19:1926–33. DOIPubMed
+Krause PJ, Narasimhan S, Wormser GP, Barbour AG, Platonov AE, Brancato J, et al.; Tick Borne Diseases Group. Borrelia miyamotoi sensu lato seroreactivity and seroprevalence in the northeastern United States. Emerg Infect Dis. 2014;20:1183–90. DOIPubMed
+Centers for Disease Control and Prevention (CDC). Recommendations for test performance and interpretation from the second national conference on serologic diagnosis of Lyme disease.MMWR Morb Mortal Wkly Rep. 1995;44:590–1.PubMed
+Nofchissey RA, Deardorff ER, Blevins TM, Anishchenko M, Bosco-Lauth A, Berl E, et al. Seroprevalence of Powassan virus in New England deer, 1979-2010. Am J Trop Med Hyg. 2013;88:1159–62. DOIPubMed
+Share this:
+LinkedIn
+More
+Facebook
+Related
+Category:
+Borrelia Miyamotoi (Relapsing Fever Group), Lyme, research, Testing, Ticks, Viruses
+Comments Off on Seroprevalence of Bb, Bm, & Powassan in Residents Bitten by Ixodes Ticks
+Yet Another Worthless Study Showing 2-Tiered Lyme Testing Can Not Rule Infection Out
+Systemic Sarcoidosis Associated with Exposure to Bb in 21 Year Old Man
+Search
+Search:
+Go!
+Archives
+Archives Select Month April 2019 (95) March 2019 (106) February 2019 (62) January 2019 (84) December 2018 (59) November 2018 (58) October 2018 (90) September 2018 (82) August 2018 (71) July 2018 (63) June 2018 (83) May 2018 (85) April 2018 (68) March 2018 (82) February 2018 (77) January 2018 (41) December 2017 (39) November 2017 (38) October 2017 (53) September 2017 (56) August 2017 (53) July 2017 (49) June 2017 (51) May 2017 (32) April 2017 (37) March 2017 (49) February 2017 (23) January 2017 (38) December 2016 (36) November 2016 (41) October 2016 (21) September 2016 (15) August 2016 (7) July 2016 (19) June 2016 (16) May 2016 (15) April 2016 (15) March 2016 (15) February 2016 (21) January 2016 (10) December 2015 (6) November 2015 (8) October 2015 (10) September 2015 (8) August 2015 (9) July 2015 (10) June 2015 (4) May 2015 (4) April 2015 (4) March 2015 (4) February 2015 (3) December 2014 (3) November 2014 (1) October 2014 (2) September 2014 (5) August 2014 (2) July 2014 (1) May 2014 (2) March 2014 (2) January 2014 (1) November 2013 (1) October 2013 (1) September 2013 (1) August 2013 (3) July 2013 (3) April 2013 (1) March 2013 (1) January 2013 (1) December 2012 (1) November 2012 (1) October 2012 (2) September 2012 (1) August 2012 (1) July 2012 (4) June 2012 (2) May 2012 (1) April 2012 (1) March 2012 (3) February 2012 (1) January 2012 (1) December 2011 (1) November 2011 (1) October 2011 (2) September 2011 (9) June 2011 (1) May 2011 (3) April 2011 (1) March 2011 (4) January 2011 (1) December 2010 (1) October 2010 (3) September 2010 (3) August 2010 (7) July 2010 (2) June 2010 (2) May 2010 (7)
+Lyme Non-Profits
+Wisconsin Lyme Network Facebook
+Lyme Resources
+Affordable Blood Draws/injections in Wisconsin
+Blood Draws in Madison
+Columbia Specimen Bank 646-774-7503
+Find a Lyme Support Group
+IgenX, Inc. (lab testing)
+ILADS (International Lyme And Associated Diseases Society)
+Learn about Lyme
+Lyme Bio Bank (NDRI & Bay Area Lyme Foundation)
+Lyme Curriculum & Educational Activities
+Lyme Disease Association
+Lyme Info
+Lyme-Symptoms
+Lymedisease.org (Formally CALDA)
+LymeLight Foundation
+National Suicide Hotline
+On-line Mental Health Therapy
+SE Wisconsin Support Group
+Tick borne disease education
+Tick Borne Disease Prevention: Stuff for Kids
+Tick-Borne Disease Alliance
+TRUTHCURES
+What is Lyme
+WISCONSIN LYME NETWORK
+Online Support Groups
+Lyme Support Group of Southeast Wisconsin (Facebook)
+Military Lyme Info
+Military Lyme Support (Facebook)
+Parents Whose Children Have Lyme/MSIDS
+Wisconsin-LymeSupport (Yahoo Group)
+Wisconsin/Illinios Lyme (Facebook)
+Visitors
+224,034
+Top Posts & Pages
+Transmission of Lyme disease - Lida Mattman, PhD
+Removing Parasites to Fix Lyme & Chronic Illnesses - Dr. Jay Davidson
+Babesia Treatment
+Bill Gates' Former Doctor Says Billionaire 'Refused to Vaccinate His Children'
+DMSO/MSM for Lyme/MSIDS
+Four Essential Oils for Stopping Bartonella From Taking Over Your Brain
+Mycoplasma Treatment
+Bartonella Treatment
+Untreatable Form of Lyme Disease Could Hit 2 Million Americans By 2020, Scientists Warn
+Articles & Documents
+Categories
+Activism
+Adrenals
+Allodynia
+Alpha Gal Meat Allergy
+Alzheimer's
+Anaplasmosis
+Autism
+Babesia
+Bartonella
+Biofilm
+Borrelia Miyamotoi (Relapsing Fever Group)
+C-diff
+Candida
+Chiropractic Care for MSIDS
+Clinic
+Corrections
+Detoxing
+diet and nutrition
+Disability
+Educational handouts
+Ehrlichiosis
+Eye Issues
+Genetic Mutations
+Gut Health
+Hearing Loss
+Heart Issues
+Hemp Oil
+Herbs
+Hyperthermia
+Inflammation
+Interstitial Cystitis
+Lyme
+Lyme Vaccine
+Malaria
+Marijuana
+Mast Cell Activation Syndrome (MCAS)
+Meetings
+Mold
+Morgellons
+mosquitoes
+Mycoplasma
+Pain Management
+PANS
+Parasites
+Pregnancy
+Prevention
+Psychological Aspects
+Q Fever
+research
+Rickettsia
+Rocky Mountain Spotted Fever
+Sleep
+Supplements
+Support Group Presentations
+Syphilis
+Testing
+Tickborne Relapsing Fever
+Ticks
+Toxoplasmosis
+Transmission
+Treatment
+Tularemia
+Uncategorized
+vaccines
+Viruses
+Zika
+Blog at WordPress.com.

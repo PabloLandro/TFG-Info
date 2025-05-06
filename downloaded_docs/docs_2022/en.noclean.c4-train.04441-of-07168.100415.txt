@@ -1,0 +1,76 @@
+Is Marijuana Dependence Really a Problem?
+Sign up Log-In
+Home / Map
+Find
+Find a Dispensary
+Find a Doctor
+Find a Lawyer
+Blog & News
+Strains
+Jobs
+Shop
+Events
+You can now order CBD ONLINE!
+Check availability in your area now!
+SHOP NOW!
+Buy CBD Online!
+Download our App Today!
+Download our App Today!
+"); // $(".article-body").prepend("
+"); // }, 100); // window.setTimeout(function () { // var mainStoryElements = $("h2:contains(OTHER STORIES YOU MAY ENJOY...)").prevAll(); // var mainStoryContainer = $(".main-story") // mainStoryContainer.append(mainStoryElements.get().reverse()); // }, 200); // window.setTimeout(function () { // $(".main-story img").closest("p").addClass("article-embedded-img"); // $(".main-story iframe").closest("p").addClass("article-embedded-vid"); // }, 300); // window.setTimeout(function () { // $(".article-embedded-vid").each(function() { // var vidCaption = $(this).next(); // $(vidCaption).addClass("vidCaption"); // $(this).append(vidCaption); // }); // }, 400); // } // } $(document).ready(function() { comment.init(); comment.list(); // paragraphStyling.init(); setTimeout(() => { $('div[data-mantis-zone="blog-article-body]"').append('
+ADVERTISEMENT
+'); }, 1000); $('.article-body-text p').filter(function() { return $.trim($(this).text()) === '' && $(this).children().length == 0 }).remove(); $('#lightit-button').css({'cursor':'pointer'}).click(function(event) { event.preventDefault(); document.location = 'https://cannabis.net/register/'; }); var valentinesAd = ''; $("strong:contains('OTHER STORIES YOU MAY ENJOY...')").closest("h2").prepend(valentinesAd); });
+Home Page Blog Opinion Is Marijuana Dependence Really a Problem?
+marijuana dependence
+Is Marijuana Dependence Really a Problem?
+Can You Get Addicted to Pot?
+Posted by:
+Reginald Reefer on Saturday Oct 27, 2018
+1298 Views / 3 Lights
+Is Marijuana Dependence Really a Problem?
+I frequently hear people talk about “Marijuana Dependence” as if it’s a serious issue however have very few times actually met a person who shouldn’t be smoking weed. Most people are pretty chill when it comes to their smoking habits.
+In fact, the vast majority of consumers will begin to self-regulate and even abstain from smoking as they get older, have jobs, families, and the likes. Nonetheless, people are still talking about “marijuana dependence” as if it’s a ‘thing’.
+However, over the past few years [post legalization], we’ve seen a decline of people being admitted to rehabilitation clinics for Marijuana Use Disorder [MUD]. There’s a couple of reasons why this is happening.
+People are become savvier with marijuana
+One of the first things we need to take into consideration is that legal cannabis has been around since about 1997 [Medically, California]. Since 2012, we have had legal marijuana within a recreational setting. As people are more exposed to cannabis, potencies, methods of consumption, and the likes, they are also becoming more educated on its effects.
+A seasoned cannabis consumer will hardly ever have weed “get the best of them” because they know how cannabis interacts with their body and know how to self-regulate their consumption to not get to extremes. For newcomer consumers, this might not be the case.
+Perhaps they underestimate the power of an edible and consume another, eventually, freaked out they run to the hospital where they become a statistic. These statistics play a role in determining ‘how many people are dependent on marijuana or not’. It’s ammunition for prohibitionists.
+Nonetheless, as time goes on and the market gets educated on these concepts, these adverse reactions will continue to diminish.
+People aren’t being forced to go to Rehab
+Another side effect of legalization is that we won’t have people being forced to choose between jail or rehab. The vast majority of the statistics used by prohibitionists to justify their claim that “marijuana is addictive” comes from rehabilitation clinics.
+The vast majority of people being admitted to these clinics for cannabis related issues are forced to be there by the State. The State then takes these “forced admissions” as proof that marijuana is addicted.
+However, with consuming cannabis no longer a crime in many places, this mechanism has pretty much vanished. As a result, the statistics surrounding marijuana use disorder has dropped significantly since legalization and continues to be in the decline.
+But is Marijuana Dependence a real thing?
+Sorry to break it to you kids…yes! Some people can get addicted to marijuana just like they can get addicted to sex, carbonated soda and exercise. You see, the model of “marijuana dependence” and any other “addiction” we are used to is outdated.
+People look at addicts as being sick when in reality they aren’t ill. They are addicted and while there are traits of physical addiction, most of it is psychological. More importantly, most addicts live in conditions they would rather not want to live in. The drug is merely their way of coping with a harsh reality.
+Most addicts tend to be solitary people. They hang out with other desperate souls and continue to feed their addictive patterns. However, the ‘drug’ isn’t so much the problem, their life situation is. Or rather, it’s a combination of genetics, current situation and the drug.
+The Rat Park Experiments in the 1970s can help us understand the nature of addiction more clearly. Within this experiment, they created two separate groups of rats. One rat in your standard laboratory cage and the other in a space 20 times the size of a standard cage.
+Within each of the areas, the rats had access to two droppers. One of the droppers were laced with cocaine or heroin while the other had normal drinking water.
+The vast majority of the rats in the first smaller cage consumed drugs at a higher level than those who had ample space, things to play with, mates and so forth. This shows us that your living conditions has a lot to do with whether or not you’ll become an addict or not. After all, many people experiment with many drugs…yet the majority of them stop there.
+So yes, marijuana dependence can be a thing, but it doesn’t necessarily mean that marijuana is to be blamed for the issue. There are many factors we need to consider when we’re talking about addiction.
+Marijuana, out of all of the legal substances is the safest with the lowest lethality levels. You need to consume roughly 1500 pounds of marijuana in 15 minutes to induce a lethal dose, which is physically impossible.
+We shouldn’t ignore the fact that some people will get hooked on weed and we should provide safe avenues for folks to get rid of their addiction, but to say “Marijuana Dependence is a real problem” is stretching it a bit too far.
+Is Marijuana Dependence Really a Problem? from CannabisNet on Vimeo.
+OTHER STORIES YOU MAY ENJOY...
+CAN YOU GET ADDICTED TO CANNABIS, CLICK HERE.
+OR...
+HOW TO GET OF OPPIATES USING MEDICAL MARIJUANA, CLICK HERE.
+What did you think?
+Keep reading... click here
+Please log-in or register to post a comment.
+Leave a Comment:
+Submit
+CATEGORIES
+Events	Technology	Medical	Sexy	Recipes	History	Dabs	Locations	Smoke	Vaping	Interview	Sports	B2B	News	How To	Strains	Opinion	Personal Story	Vote	Videos	Funny
+FEATURED
+Vote
+And The Winner Is… Cannabis
+Voters in California, Maine, Arizona, Nevada and Massachusetts will decide on legalizing recreational cannabis while voters in Florida, Arkansas, North Dakota and Montana will decide on legalizing medical marijuana.
+News
+Is Big Pharma Trying To Make Money From Hops-Derived CBD Products?
+We know that hops is the close cousin of cannabis, but does it really contain CBD that’s just as powerful? Or is Isodiol trying to get on the bandwagon with its claims?
+News
+What Will Happen To CBD Now That FDA Commissioner Gottlieb Has Resigned?
+Prior to his resignation, Gottlieb said that he planned for the agency to hold a public hearing, “in the near future”, to gather feedback from stakeholders regarding their use of CBD products as well as hear out any safety concerns. “We’ll use this meeting to gather additional input relevant to the lawful pathways by which products containing cannabis or cannabis-derived compounds can be marketed, and how we can make these legal pathways more predictable and efficient,” he said in a statement.
+Home Blog & News Strains Jobs Shop Events About Us Advertising Affiliates Contact Us
+Terms of Use Privacy Policy

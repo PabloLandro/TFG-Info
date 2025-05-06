@@ -1,0 +1,100 @@
+Why drinking kefir can benefit your blood pressure
+Home
+Science
+Archaeology
+Biology
+Chemistry
+Physics
+Tech
+Automotive
+Energy
+Computer Science
+Engineering
+Electronics
+Health
+Nutrition
+Medicine
+Wellness
+Public Health
+Mind
+Psychology
+Child Development
+Neuroscience
+Mental Health
+Earth
+Animals & Plants
+Environment
+Geography
+Space
+Search
+Knowridge Science Report
+Home
+Science
+Archaeology
+Biology
+Chemistry
+Physics
+Tech
+Automotive
+Energy
+Computer Science
+Engineering
+Electronics
+Health
+Nutrition
+Medicine
+Wellness
+Public Health
+Mind
+Psychology
+Child Development
+Neuroscience
+Mental Health
+Earth
+Animals & Plants
+Environment
+Geography
+Space
+Home High Blood Pressure Why drinking kefir can benefit your blood pressure
+High Blood Pressure
+Nutrition
+Why drinking kefir can benefit your blood pressure
+By
+Knowridge
+-
+April 16, 2019
+In a recent study, researchers from Auburn University in Alabama found that drinking kefir may improve blood pressure by promoting communication between the gut and brain.
+Kefir is a fermented probiotic milk beverage known to help maintain the balance of beneficial bacteria in the digestive system.
+Previous research has found that an imbalance in the gut’s colony of bacteria (microbiota) may cause high blood pressure in some people.
+On the other hand, probiotics, live bacteria supplements that are beneficial to the digestive system, have been found to lower blood pressure.
+In the current study, a research team studied three groups of rats to determine how kefir reduces high blood pressure:
+the first group had high blood pressure and was treated with kefir (“treated”).
+the second group had high blood pressure and was not treated (“untreated”).
+the third group had normal blood pressure and was not treated (“control”).
+The team found that after 9 weeks of kefir feeding, the treated rats had lower levels of endotoxins (toxic substances associated with a disruption in the cells), lower blood pressure and improved intestinal permeability when compared with the untreated group.
+Healthy intestines allow some substances to pass through but generally act as a barrier to keep out harmful bacteria and other potentially dangerous substances.
+In addition, kefir restored the natural balance of four different bacteria in the gut and of an enzyme in the brain essential for normal nervous system function.
+This suggests that the nervous and digestive systems work together to reduce high blood pressure.
+The researchers suggest that kefir can help control high blood pressure because it involves gut microbiota-brain axis communication during hypertension.
+The team presented their findings at Experimental Biology 2018.
+Copyright © 2018 Knowridge Science Report. All rights reserved.
+Knowridge
+Most Popular
+These two types of drugs are linked to dementia
+In a recent study from the University of East Anglia, researchers find that long-term use of anticholinergic antidepressants is linked to a higher risk...
+Scientists confirm the main cause of dementia
+In a recent study, researchers confirmed they discovered the main cause of dementia. The researchers suggest that the build-up of urea in the brain to...
+For older people, weight training is more important than cardio exercise
+In a recent study from Wake Forest University, researchers found that weight training is more effective than cardio for older people. It is known that...
+Three common drugs linked to high dementia risk
+In a recent study, researchers found long-term use of two antidepressants is linked to a higher risk of dementia. In addition, drugs prescribed for bladder...
+Three common prescribed drugs may increase stroke risk by 60%
+In a recent study, researchers from the University of Aberdeen found that drugs routinely prescribed for allergies, heart disease and Parkinson’s are linked to...
+Load more
+About
+Terms
+Privacy
+Submit
+Contact
+Copyright © 2019 | Knowridge® | Sydney, Australia
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();

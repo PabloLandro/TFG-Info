@@ -1,0 +1,222 @@
+Why's that Salt Pink?! Find Out Pink Himalayan Salt Benefits :A non-numeric value encountered in /home/natu5654/public_html/wp-content/themes/voice/css/dynamic-css.php on line 11
+body, button, input, select, textarea{font-size: 1.6rem;}.vce-single .entry-headline p{font-size: 2.2rem;}.main-navigation a{font-size: rem;}.sidebar .widget-title{font-size: 1.8rem;}.sidebar .widget{font-size: 1.4rem;}.vce-featured-link-article{font-size: 5.2rem;}.vce-featured-grid-big.vce-featured-grid .vce-featured-link-article{font-size: 3.4rem;}.vce-featured-grid .vce-featured-link-article{font-size: 2.2rem;}h1 { font-size: 4.5rem; }h2 { font-size: 4rem; }h3 { font-size: 3.5rem; }h4 { font-size: 2.5rem; }h5 { font-size: 2rem; }h6 { font-size: 1.8rem; }.comment-reply-title, .main-box-title{font-size: 2.2rem;}h1.entry-title{font-size: 4.5rem;}.vce-lay-a .entry-title a{font-size: 3.4rem;}.vce-lay-b .entry-title{font-size: 2.4rem;}.vce-lay-c .entry-title, .vce-sid-none .vce-lay-c .entry-title{font-size: 2.2rem;}.vce-lay-d .entry-title{font-size: 1.5rem;}.vce-lay-e .entry-title{font-size: 1.4rem;}.vce-lay-f .entry-title{font-size: 1.4rem;}.vce-lay-g .entry-title a, .vce-lay-g .entry-title a:hover{font-size: 3rem;}.vce-lay-h .entry-title{font-size: 2.4rem;}.entry-meta div,.entry-meta div a,.vce-lay-g .meta-item,.vce-lay-c .meta-item{font-size: 1.4rem;}.vce-lay-d .meta-category a,.vce-lay-d .entry-meta div,.vce-lay-d .entry-meta div a,.vce-lay-e .entry-meta div,.vce-lay-e .entry-meta div a,.vce-lay-e .fn,.vce-lay-e .meta-item{font-size: 1.3rem;}body {background-color:#f0f0f0;}body,.mks_author_widget h3,.site-description,.meta-category a,textarea {font-family: 'Open Sans';font-weight: 400;}h1,h2,h3,h4,h5,h6,blockquote,.vce-post-link,.site-title,.site-title a,.main-box-title,.comment-reply-title,.entry-title a,.vce-single .entry-headline p,.vce-prev-next-link,.author-title,.mks_pullquote,.widget_rss ul li .rsswidget,#bbpress-forums .bbp-forum-title,#bbpress-forums .bbp-topic-permalink {font-family: 'Roboto Slab';font-weight: 400;}.main-navigation a,.sidr a{font-family: 'Roboto Slab';font-weight: 400;}.vce-single .entry-content,.vce-single .entry-headline,.vce-single .entry-footer{width: 600px;}.vce-lay-a .lay-a-content{width: 600px;max-width: 600px;}.vce-page .entry-content,.vce-page .entry-title-page {width: 600px;}.vce-sid-none .vce-single .entry-content,.vce-sid-none .vce-single .entry-headline,.vce-sid-none .vce-single .entry-footer {width: 600px;}.vce-sid-none .vce-page .entry-content,.vce-sid-none .vce-page .entry-title-page,.error404 .entry-content {width: 600px;max-width: 600px;}body, button, input, select, textarea{color: #444444;}h1,h2,h3,h4,h5,h6,.entry-title a,.prev-next-nav a,#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink,.woocommerce ul.products li.product .price .amount{color: #000000;}a,.entry-title a:hover,.vce-prev-next-link:hover,.vce-author-links a:hover,.required,.error404 h4,.prev-next-nav a:hover,#bbpress-forums .bbp-forum-title:hover, #bbpress-forums .bbp-topic-permalink:hover,.woocommerce ul.products li.product h3:hover,.woocommerce ul.products li.product h3:hover mark,.main-box-title a:hover{color: #81d742;}.vce-square,.vce-main-content .mejs-controls .mejs-time-rail .mejs-time-current,button,input[type="button"],input[type="reset"],input[type="submit"],.vce-button,.pagination-wapper a,#vce-pagination .next.page-numbers,#vce-pagination .prev.page-numbers,#vce-pagination .page-numbers,#vce-pagination .page-numbers.current,.vce-link-pages a,#vce-pagination a,.vce-load-more a,.vce-slider-pagination .owl-nav > div,.vce-mega-menu-posts-wrap .owl-nav > div,.comment-reply-link:hover,.vce-featured-section a,.vce-lay-g .vce-featured-info .meta-category a,.vce-404-menu a,.vce-post.sticky .meta-image:before,#vce-pagination .page-numbers:hover,#bbpress-forums .bbp-pagination .current,#bbpress-forums .bbp-pagination a:hover,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product .added_to_cart,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce ul.products li.product .added_to_cart:hover,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.woocommerce span.onsale,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.comments-holder .navigation .page-numbers.current,.vce-lay-a .vce-read-more:hover,.vce-lay-c .vce-read-more:hover{background-color: #81d742;}#vce-pagination .page-numbers,.comments-holder .navigation .page-numbers{background: transparent;color: #81d742;border: 1px solid #81d742;}.comments-holder .navigation .page-numbers:hover{background: #81d742;border: 1px solid #81d742;}.bbp-pagination-links a{background: transparent;color: #81d742;border: 1px solid #81d742 !important;}#vce-pagination .page-numbers.current,.bbp-pagination-links span.current,.comments-holder .navigation .page-numbers.current{border: 1px solid #81d742;}.widget_categories .cat-item:before,.widget_categories .cat-item .count{background: #81d742;}.comment-reply-link,.vce-lay-a .vce-read-more,.vce-lay-c .vce-read-more{border: 1px solid #81d742;}.entry-meta div,.entry-meta-count,.entry-meta div a,.comment-metadata a,.meta-category span,.meta-author-wrapped,.wp-caption .wp-caption-text,.widget_rss .rss-date,.sidebar cite,.site-footer cite,.sidebar .vce-post-list .entry-meta div,.sidebar .vce-post-list .entry-meta div a,.sidebar .vce-post-list .fn,.sidebar .vce-post-list .fn a,.site-footer .vce-post-list .entry-meta div,.site-footer .vce-post-list .entry-meta div a,.site-footer .vce-post-list .fn,.site-footer .vce-post-list .fn a,#bbpress-forums .bbp-topic-started-by,#bbpress-forums .bbp-topic-started-in,#bbpress-forums .bbp-forum-info .bbp-forum-content,#bbpress-forums p.bbp-topic-meta,span.bbp-admin-links a,.bbp-reply-post-date,#bbpress-forums li.bbp-header,#bbpress-forums li.bbp-footer,.woocommerce .woocommerce-result-count,.woocommerce .product_meta{color: #9b9b9b;}.main-box-title, .comment-reply-title, .main-box-head{background: #81d742;color: #000000;}.main-box-title a{color: #000000;}.sidebar .widget .widget-title a{color: #000000;}.main-box,.comment-respond,.prev-next-nav{background: #f9f9f9;}.vce-post,ul.comment-list > li.comment,.main-box-single,.ie8 .vce-single,#disqus_thread,.vce-author-card,.vce-author-card .vce-content-outside,.mks-bredcrumbs-container,ul.comment-list > li.pingback{background: #ffffff;}.mks_tabs.horizontal .mks_tab_nav_item.active{border-bottom: 1px solid #ffffff;}.mks_tabs.horizontal .mks_tab_item,.mks_tabs.vertical .mks_tab_nav_item.active,.mks_tabs.horizontal .mks_tab_nav_item.active{background: #ffffff;}.mks_tabs.vertical .mks_tab_nav_item.active{border-right: 1px solid #ffffff;}#vce-pagination,.vce-slider-pagination .owl-controls,.vce-content-outside,.comments-holder .navigation{background: #f3f3f3;}.sidebar .widget-title{background: #81d742;color: #232323;}.sidebar .widget{background: #f9f9f9;}.sidebar .widget,.sidebar .widget li a,.sidebar .mks_author_widget h3 a,.sidebar .mks_author_widget h3,.sidebar .vce-search-form .vce-search-input,.sidebar .vce-search-form .vce-search-input:focus{color: #444444;}.sidebar .widget li a:hover,.sidebar .widget a,.widget_nav_menu li.menu-item-has-children:hover:after,.widget_pages li.page_item_has_children:hover:after{color: #81d742;}.sidebar .tagcloud a {border: 1px solid #81d742;}.sidebar .mks_author_link,.sidebar .tagcloud a:hover,.sidebar .mks_themeforest_widget .more,.sidebar button,.sidebar input[type="button"],.sidebar input[type="reset"],.sidebar input[type="submit"],.sidebar .vce-button,.sidebar .bbp_widget_login .button{background-color: #81d742;}.sidebar .mks_author_widget .mks_autor_link_wrap,.sidebar .mks_themeforest_widget .mks_read_more{background: #f3f3f3;}.sidebar #wp-calendar caption,.sidebar .recentcomments,.sidebar .post-date,.sidebar #wp-calendar tbody{color: rgba(68,68,68,0.7);}.site-footer{background: #373941;}.site-footer .widget-title{color: #000000;}.site-footer,.site-footer .widget,.site-footer .widget li a,.site-footer .mks_author_widget h3 a,.site-footer .mks_author_widget h3,.site-footer .vce-search-form .vce-search-input,.site-footer .vce-search-form .vce-search-input:focus{color: #f9f9f9;}.site-footer .widget li a:hover,.site-footer .widget a,.site-info a{color: #81d742;}.site-footer .tagcloud a {border: 1px solid #81d742;}.site-footer .mks_author_link,.site-footer .mks_themeforest_widget .more,.site-footer button,.site-footer input[type="button"],.site-footer input[type="reset"],.site-footer input[type="submit"],.site-footer .vce-button,.site-footer .tagcloud a:hover{background-color: #81d742;}.site-footer #wp-calendar caption,.site-footer .recentcomments,.site-footer .post-date,.site-footer #wp-calendar tbody,.site-footer .site-info{color: rgba(249,249,249,0.7);}.top-header,.top-nav-menu li .sub-menu{background: #3a3a3a;}.top-header,.top-header a{color: #ffffff;}.top-header .vce-search-form .vce-search-input,.top-header .vce-search-input:focus,.top-header .vce-search-submit{color: #ffffff;}.top-header .vce-search-form .vce-search-input::-webkit-input-placeholder { color: #ffffff;}.top-header .vce-search-form .vce-search-input:-moz-placeholder { color: #ffffff;}.top-header .vce-search-form .vce-search-input::-moz-placeholder { color: #ffffff;}.top-header .vce-search-form .vce-search-input:-ms-input-placeholder { color: #ffffff;}.header-1-wrapper{height: 100px;padding-top: 15px;}.header-2-wrapper,.header-3-wrapper{height: 100px;}.header-2-wrapper .site-branding,.header-3-wrapper .site-branding{top: 15px;left: 0px;}.site-title a, .site-title a:hover{color: #8224e3;}.site-description{color: #a04b19;}.main-header{background-color: #81d742;}.header-bottom-wrapper{background: #fcfcfc;}.vce-header-ads{margin: 5px 0;}.header-3-wrapper .nav-menu > li > a{padding: 40px 15px;}.header-sticky,.sidr{background: rgba(129,215,66,0.95);}.ie8 .header-sticky{background: #81d742;}.main-navigation a,.nav-menu .vce-mega-menu > .sub-menu > li > a,.sidr li a,.vce-menu-parent{color: #000000;}.nav-menu > li:hover > a,.nav-menu > .current_page_item > a,.nav-menu > .current-menu-item > a,.nav-menu > .current-menu-ancestor > a,.main-navigation a.vce-item-selected,.main-navigation ul ul li:hover > a,.nav-menu ul .current-menu-item a,.nav-menu ul .current_page_item a,.vce-menu-parent:hover,.sidr li a:hover,.sidr li.sidr-class-current_page_item > a,.main-navigation li.current-menu-item.fa:before,.vce-responsive-nav{color: #ffffff;}#sidr-id-vce_main_navigation_menu .soc-nav-menu li a:hover {color: #ffffff;}.nav-menu > li:hover > a,.nav-menu > .current_page_item > a,.nav-menu > .current-menu-item > a,.nav-menu > .current-menu-ancestor > a,.main-navigation a.vce-item-selected,.main-navigation ul ul,.header-sticky .nav-menu > .current_page_item:hover > a,.header-sticky .nav-menu > .current-menu-item:hover > a,.header-sticky .nav-menu > .current-menu-ancestor:hover > a,.header-sticky .main-navigation a.vce-item-selected:hover{background-color: #81d742;}.search-header-wrap ul {border-top: 2px solid #ffffff;}.vce-cart-icon a.vce-custom-cart span {background: #ffffff;font-family: 'Open Sans';}.vce-border-top .main-box-title{border-top: 2px solid #81d742;}.tagcloud a:hover,.sidebar .widget .mks_author_link,.sidebar .widget.mks_themeforest_widget .more,.site-footer .widget .mks_author_link,.site-footer .widget.mks_themeforest_widget .more,.vce-lay-g .entry-meta div,.vce-lay-g .fn,.vce-lay-g .fn a{color: #FFF;}.vce-featured-header .vce-featured-header-background{opacity: 0.5}.vce-featured-grid .vce-featured-header-background,.vce-post-big .vce-post-img:after,.vce-post-slider .vce-post-img:after{opacity: 0.5}.vce-featured-grid .owl-item:hover .vce-grid-text .vce-featured-header-background,.vce-post-big li:hover .vce-post-img:after,.vce-post-slider li:hover .vce-post-img:after {opacity: 0.8}.vce-featured-grid.vce-featured-grid-big .vce-featured-header-background,.vce-post-big .vce-post-img:after,.vce-post-slider .vce-post-img:after{opacity: 0.5}.vce-featured-grid.vce-featured-grid-big .owl-item:hover .vce-grid-text .vce-featured-header-background,.vce-post-big li:hover .vce-post-img:after,.vce-post-slider li:hover .vce-post-img:after {opacity: 0.8}#back-top {background: #323232}.sidr input[type=text]{background: rgba(0,0,0,0.1);color: rgba(0,0,0,0.5);}.meta-image:hover a img,.vce-lay-h .img-wrap:hover .meta-image > img,.img-wrp:hover img,.vce-gallery-big:hover img,.vce-gallery .gallery-item:hover img,.vce_posts_widget .vce-post-big li:hover img,.vce-featured-grid .owl-item:hover img,.vce-post-img:hover img,.mega-menu-img:hover img{-webkit-transform: scale(1.1);-moz-transform: scale(1.1);-o-transform: scale(1.1);-ms-transform: scale(1.1);transform: scale(1.1);}
+Homeopathy
+Professional Homeopathic Treatment
+Free Homeopathic Remedies List Online
+How To Take Homeopathic Remedies
+What Is Homeopathic Medicine? Misconceptions Debunked
+What To Expect From A Homeopathic Session
+Homeopathy Clinical Research
+Homeopathy Clinical Research: Questions?
+Remedies
+Remedy Questions?
+Product/Service Review Corner
+Product/Service Reviews
+Best Natural Cures For Insomnia
+Manuka Honey
+Morrison’s Desktop Guide
+Nordic Naturals Fish Oil Review
+Pink Himalayan Salt Benefits
+Pro-15 Probiotics Reviews
+Which Homeopathic Remedy Kit Should You Buy?
+The Ultimate Homeopathic Remedy Guide: Morrison’s Desktop Companion
+Xlear Nasal Spray Reviews
+Xylitol Sweetener
+Natural/Holistic Products Research
+About Ariel
+About Ariel
+Privacy Policy
+FREE Newsletter
+Disclaimer
+Contact Us
+Shop
+Guest Posts
+Guest Post Guidelines
+Low Cost Advertising & Link Placement
+Speaking Events
+Media Releases
+More
+Buy CBD Oil
+Juice Plus+ Nutritional Support
+BEMER Mat Therapy
+Product/Service Reviews • Remedies • Remedies [Homeopathic & Other]
+Why’s that Salt Pink?! Find Out Pink Himalayan Salt Benefits
+4 years ago
+10 Comments
+by Ariel Baradarian
+My love with pink himalayan salt benefits started many years ago.
+One night, after spending the weekend with my family in New Jersey and while preparing to drive back to Touro College in Queens, I was packing up food to take back with me to my dormitory.
+My mom was offering me different types of condiments, fruits, vegetables, pastas, etc….
+While packing, my mom handed me a pack of pink Himalayan salt. I laughed and asked my mom: “Why’s this salt pink? Why did you get this??”
+Her response: “It’s pink and it’s healthier!”
+After this episode, I did some research online, and surprisingly, I found that there are numerous, underrated pink Himalayan salt benefits. Here’s what I’ve found about Himalayan salt:
+Origin of Himalayan Salt
+As it’s name implies, Himalayan salt comes from the Himalayan Mountains in Nepal.
+The salts themselves are mineral salts have been stored underground in these mountains for millions of years and have retained their purity and are unrefined, with zero interference by outside toxins and metals, which may normally be found in ocean salt.
+Himalayan salts contain 85% sodium chloride and the remaining 15% is derived from 84 trace minerals dated from ancient sea waters. The multitude of trace elements manifests physically into a pink color, hence the reason why these salts are pink.
+Their cell structures are created in a way that they can easily store kinetic energy and be absorbed by our cells.
+Pink Himalayan Salt Benefits
+Himalayan salts provide a bounty of physical health benefits. Here they are:
+Regulates the body’s water levels in order to maintain proper functioning.
+Stabilizes pH acidic levels in the cells and brain.
+Good for blood sugar levels.
+Can minimize signs of aging.
+Boosts your energy through cellular hydroelectric energy creation.
+Helps your body absorb more food in your intestinal tract.
+Keeps your blood vessels functioning healthy and normally thereby lessenening chances of high blood pressure.
+Supports your respiratory system.
+Fights and reduces sinus issues.
+Less cramps.
+Helps to make your bones stronger.
+Capable of helping have normal sleep patterns.
+Healthier sex drive.
+Supports your circulatory system
+Regulates kidney and gall bladder health.
+When salts are used in baths, they can reinvigorate your body with the minerals that they need.
+Also, much of the research out there seems to show evidence of many of these wonderful benefits.
+Himalayan Salt VS Table Salt
+Salt is an essential part of our diet.
+We need salt to maintain our body’s fluid balance and our nerve and muscle functioning. However, table salt not only lacks the benefits of Himalayan salt, but it also is an unhealthier choice.
+Because table salt is usually refined at 1200 degrees Fahrenheit, all of the potential benefits of trace minerals that exist are zapped. In other words, they lose all possible nutrition that they could provide.
+Furthermore, 97.5% of table salt contains sodium chloride and the remaining 2.5% consists of chemicals, including sugar. More toxins are absorbed by table salt since they originally are exposed to outside, toxic elements.
+WARNING: TABLE SALT!
+Given the processed and chemically-induced nature of table salt, it serves as no surprise that consuming lots of table salt can cause tissue irritation, water retention [since salt requires A LOT of cellular water to be neutralized], high blood pressure, rheumatism, arthritis, and kid & gallbladder issues, among others
+If that wasn’t enough, many claim [as do I from personal experience] that Himalayan salt has at least a slightly more clean taste than regular table salt, though some may argue this.
+The only advantage table salt may have against Himalayan salt is that it is slightly less expensive, though in many cases this is a minor marginal difference.
+Taking all of this in mind, this clearly makes Himalayan salt the winner!
+Question: Which Brand Should I Pick?
+There are numerous brands of Himalayan salt out there.
+Finding the best quality ones can be very difficult. However, after doing my own little research, I found one that has consistently stuck out in quality and in ratings:
+Product: Sherpa Pink Himalayan Salt
+Price: Depending on the bag size, anywhere between appx. $6-$70. The bigger, the more expensive
+Cheapest Place to Buy: Amazon.com Prime Shipping! Ebay with free shipping
+Tested: Yes. It’s yummy!
+Guarantee: Good for 10 years
+My Rating: 9/10
+Sherpa Pink has one of the best reviews and top ratings that I have seen.
+Their 100% pure natural pink salts are food grade. They can be used for food, gourmet, and baths, and they come in multiple sizes.
+They also have a very reliable Kosher certification, which for salts can hard to come by, since additives can be added to salts like these.
+Sherpa Pink also offers different quality multiple grain types and they can come in cool chef jars too.
+Cons
+The only con I could find was that they don’t offer the pink salt slabs that people can use to place food and to manually cut out the salt from.
+I have had users of this salt that did not enjoy the taste. Others, like myself, have tried this salt and it tasted perfectly fine to me.
+Final Verdict: Go With Sherpa & Enjoy The Benefits
+In light of the above, I totally recommend Sherpa Pink as a high quality pink salt to use. It is one of the more natural, unprocessed pink salts that retains a ton of the above mentioned benefits that I mentioned.
+Other good Himalayan salts I found were Original Himalayan Crystal Salt and Ancient Ocean, both of which are also very high quality and all natural pink salts.
+But Sherpa is my favorite by far. Even over 2000 Amazon buyers agree with me.
+Click on the picture below to see some of the thousands of reviews on this great pink salt product.
+Spread the word! =>
+Tweet
+Share on Tumblr
+WhatsApp
+Email
+More
+Print
+Himalayan salt kosher pink salt
+Homeopathic Remedies for DEPRESSION: Natural Mental Health Boosters
+Research Clears Doubts on Homeopathic Remedies for Anxiety
+You may also like
+Health/Wellness • Remedies
+Lifestyle Changes and Efficient Remedies For Tendinitis
+Remedies
+18 Natural Remedies to Get Rid Of Scars
+Fitness • Remedies
+One of the Best Exercises for Arthritis? Swimming!﻿
+Health/Wellness • Nutrition • Remedies
+All Natural Ways To Alleviate Pain in Your life
+Guest Posts • Health/Wellness • Homeopathy Research • Natural/Holistic Products Research • Remedies [Homeopathic & Other]
+5 Versatile Essential Oils to Always Have Handy
+Remedies
+5 Ways to See Improvement in Your Muscles
+About the author
+Ariel Baradarian
+Ariel Baradarian, CCH is an experienced holistic certified homeopathic practitioner with success in addressing a wide variety of mental, emotional, and physical ailments in men, women, and children of all stripes. He works both alongside local medical and integrative doctors and their patients as well as with his own growing, global private practice, both in person in his office in Queens, NY and globally via video chat sessions. Ariel is also a natural health blogger and chief editor of naturalholistichomeopathic.com, which is dedicated to helping others heal on all levels using various types of natural healing, including homeopathy. In addition, he is the New York Producer of the Vibrant Living Network, an inspiring organization dedicated to promoting a community natural and holistic health, mindful consciousness, relational intelligence and more!
+View all posts
+Leave a Comment X
+Comment
+Name *
+Email *
+Website
+Sign me up for the FREE newsletter!
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+10 Comments
+Lemor says:
+July 19, 2015 at 12:41 AM
+Thanks for the great tips!
+Reply
+Ariel Baradarian says:
+July 19, 2015 at 12:04 PM
+Thanks Lemor joon!
+Reply
+Stefan says:
+July 21, 2015 at 4:00 PM
+It’s an remarkable piece of writing designed for all the online visitors;
+they will obtain advantage from it I am sure.
+Reply
+Ariel Baradarian says:
+July 21, 2015 at 5:30 PM
+Thank you and I totally agree :). More to come!
+Reply
+Cortney says:
+July 21, 2015 at 4:04 PM
+Hi, I do think this is an excellent website. I stumbledupon it 😉 I will return yet again since I book marked it.
+Money and freedom is the best way to change, may you be rich and continue to guide other
+people.
+Reply
+Ariel Baradarian says:
+July 21, 2015 at 5:32 PM
+Amen and you too! Your blessing and comment is very much appreciated.
+Reply
+samuel baror says:
+July 21, 2015 at 11:06 PM
+very nice
+Reply
+Ariel Baradarian says:
+July 21, 2015 at 11:11 PM
+Thanks amu! Don’t forget to make a difference 😉
+Reply
+Cellupica says:
+July 30, 2015 at 9:17 PM
+Best wishes with citing. Your sources are great.
+Reply
+Adrian says:
+August 19, 2015 at 2:01 AM
+Good post! We will be linking to this great article on our website.
+Keep up the good writing.
+Reply
+Sign Up & Receive a FREE E-book, EXCLUSIVE Discounts on Products, & More!
+First Name
+Last Name
+Email address:
+Leave this field empty if you're human:
+Any Contribution is Greatly Appreciated!
+Our Visitors!
+Categories
+Categories Select Category CBD (12) Featured (73) Fitness (31) Guest Posts (220) Health/Wellness (181) Homeopathy Research (21) Natural/Holistic Products Research (60) Nutrition (39) Online Materia Medica (25) Product/Service Reviews (30) Psychology (14) Remedies (168) Remedies [Homeopathic & Other] (61) What is Homeopathy? (22)
+Rated as a Top Health Blog for 2017!
+Rated Best Shopping Blog of 2018!
+Start Appointment
+DirectoryCritic.com - List of Directories
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here: Cookie Policy
+Copyright © 2018 Refuah Homeopathy. All Rights Reserved.
+My account
+shop
+Contact Us
+Disclaimer
+Want…
+– A FREE E-book
+– EXCLUSIVE Discounts on ALL of Ariel’s Holistic Homeopathic Healing Consultations & Package Plans
+– FREE homeopathic advice from one of the best homeopaths in the world
+– and much more!
+Then Sign Up For Our FREE Monthly Newsletter Below!
+First Name
+Last Name
+Email address:
+Leave this field empty if you're human:
+Send to Email Address Your Name Your Email Address Cancel
+Post was not sent - check your email addresses!
+Email check failed, please try again
+Sorry, your blog cannot share posts by email.

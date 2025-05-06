@@ -1,0 +1,139 @@
+Yoga For Natural Asthma Relief | Prevention
+Search
+Subscribe
+Subscribe
+Print Edition
+Give a Gift
+Health
+Health
+Memory
+Sleep & Energy
+Mental Health
+Health Conditions
+Weight Loss
+Weight Loss
+Diets
+Fitness
+Fitness
+Workouts
+Workout Clothes & Gear
+Sex
+Sex
+Relationships
+Food & Nutrition
+Food & Nutrition
+Healthy Eating
+Recipes
+Beauty
+Beauty
+Skin Care
+Makeup
+Hair
+Style
+Life
+Newsletter
+Follow
+Facebook
+Twitter
+Instagram
+YouTube
+Pinterest
+About Prevention.com
+Win
+Privacy Notice
+Terms of Use
+Weight Loss
+Health
+Beauty
+Life
+Subscribe
+Give a Gift
+Newsletter
+Type keyword(s) to search
+Today's Top Stories
+1
+See Eva Mendes's No-Makeup-Look Instagram Selfie
+2
+13 Best Night Creams for Every Skin Type
+3
+My "Gray Area" Drinking Spiraled Into Alcoholism
+4
+The Best Whole30 Smoothies to Add to Your Diet
+5
+50 Unique Mother's Day Gift Ideas
+Yoga For Natural Asthma Relief
+Breathe easier with these 2 moves
+By Ana Mantica
+Nov 3, 2011
+Yoga can't cure asthma, but certain poses can certainly help open up your airways, helping you breathe better. To keep your airways clear and prevent a coughing fit from coming on, try these two poses recommended by Baxter Bell, MD, a medical acupuncturist and registered yoga instructor in Oakland, CA. [sidebar]
+Mountain Pose
+Standing poses such as this one help keep your back in a neutral position, allowing your lungs to work more efficiently. When you're standing, gravity pulls your belly organs down toward the floor, so your diaphragm has greater freedom to move, making it easier to breathe.
+Start by standing with your feet together. Keep your spine straight, head erect, shoulders down, and arms alongside your body with palms facing inward, fingers spread. Make sure your weight is evenly distributed on both feet. Hold this position for five to 10 breaths.
+Goddess Pose
+This relaxing pose helps open up your chest, which may ease symptoms like coughing almost immediately.
+Grab a bolster or a long, round pillow. Begin by sitting on the floor. Lay a bolster directly behind you, running the same direction as your spine. Place the soles of your feet together, with your knees open to the sides in a diamond shape. Lie back, making sure your lower back, upper back, and head are supported on the bolster. Place your arms alongside your body with forearms and elbows against the floor, palms facing up. Hold this position for 5 to 20 minutes.
+NEW from Prevention!
+Sculpt a strong, sexy core with Flat Belly Yoga DVD!
+Ana Mantica Ana Mantica is a former editorial assistant at Prevention magazine.
+Advertisement - Continue Reading Below
+<% if (product.show_price && product.priceNoSymbol > 0) { %>
+(% off)
+<% var showPrice = item.data.content_product_review.product_review.show_price && (item.data.content_product_review.product_review.retailer.price > 0 || item.data.content_product_review.product_review.product.is_custom) %>
+(% off)
+rel="" >
+<%= item.data.dek.replace(/<p>/g, '<p class="item-info-dek">') %>
+More From Workouts
+8 Stability Ball Exercises for Total-Body Strength
+The Best Stretch to Do After Sitting All Day
+Advertisement - Continue Reading Below
+12 Ways to Lose Stubborn Belly Fat for Good
+7 Calorie-Burning Yoga Poses
+7 Ways to Motivate Yourself to Work Out
+9 Strength Training Tools for a Home Workout
+9 Power Walking Tips to Increase Your Calorie Burn
+8 Simple Ways to Improve Your Balance
+5 Foam Roller Exercises to Relieve Pain All Over
+A 20-Minute Arm Workout You Can Do at Home
+Workouts
+Workouts
+Fitness
+Is There A Natural Fix For Exercise-Induced Asthma?
+Natural Migraine Relief
+3 Tips For Faster Asthma Relief
+Natural Anxiety Relief
+7 Things You Don't Know About Asthma
+BPA: The Rap Sheet Gets Longer
+Allergies & Asthma
+About Prevention.com
+Newsletter
+Press Room
+Give A Gift
+Digital Editions
+Community Guidelines
+Subscribe
+Media Kit
+Advertise Online
+Other Hearst Subscriptions
+Customer Service
+A Part of Hearst Digital Media Prevention participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+©2019 Hearst Magazine Media, Inc. All Rights Reserved.
+Privacy Notice
+Your California Privacy Rights
+Interest-Based Ads
+Terms of Use
+Site Map
+data-srcset="" />
+Created for Created by for Presented by Created by
++
+Created for Created by for Presented by Created by
++
+data-srcset="" />
+<% if (data.length > lowSlideCount) { %>
+of
+<%= item.data.dek.replace(/<img(.*?)>/g, '').replace(/
+/g, '
+') %>
+<% if (data.length > lowSlideCount) { %>
+data-srcset="" />
+Created for Created by for Presented by Created by
++

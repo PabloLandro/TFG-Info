@@ -1,0 +1,381 @@
+Frontiers | Relationships Between Aerobic Fitness Levels and Cognitive Performance in Swedish Office Workers | Psychology
+Toggle navigation
+Home
+About
+Submit
+Journals
+Journals A-Z
+Research Topics
+Login
+Register
+Login using
+LinkedIn
+Twitter
+Facebook
+i
+You can login by using one of your existing accounts.
+We will be provided with an authorization token (please note: passwords are not shared with us) and will sync your accounts for you. This means that you will not need to remember your user name and password in the future and you will be able to login with the account you choose to sync, with the click of a button.
+OR
+Email *
+Please fill in this field
+Password *
+Please fill in this field
+Remember me
+Forgot Password?
+Login
+Frontiers
+Frontiers
+Office
+My frontiers
+My Frontiers
+Office
+Impact Factor 2.089
+2017 JCR, Clarivate Analytics 2018
+The world's most-cited Multidisciplinary Psychology journal
+Frontiers in Psychology
+Movement Science and Sport Psychology
+Toggle navigation Section
+(current)Section
+About
+Articles
+Research topics
+For authors
+Why submit?
+Fees
+Article types
+Author guidelines
+Review guidelines
+Submission checklist
+Contact editorial office
+Submit your manuscript
+Editorial board
+Article alerts
+Articles
+Edited by
+Sergio Machado
+Salgado de Oliveira University, Brazil
+Reviewed by
+Francesca Federico
+Faculty of Medicine and Psychology, Sapienza University of Rome, Italy
+Bernadette A. Murphy
+University of Ontario Institute of Technology, Canada
+The editor and reviewers' affiliations are the latest provided on their Loop research profiles and may not reflect their situation at the time of review.
+TABLE OF CONTENTS
+Abstract
+Introduction
+Methods
+Results
+Discussion
+Limitations
+Conclusions
+Practical Implications
+Author Contributions
+Acknowledgments
+Conflict of Interest Statement
+References
+Want to win $100,000 to host your own conference?
+Suggest a Research Topic
+Download Article
+Download PDF
+ReadCube
+EPUB
+XML (NLM)
+Supplementary
+Material
+Export citation
+EndNote
+Reference Manager
+Simple TEXT file
+BibTex
+total views
+View Article Impact
+Want to win $100,000 to host your own conference?
+Suggest a Research Topic
+SHARE ON
+Original Research ARTICLE
+Front. Psychol., 20 December 2018 | https://doi.org/10.3389/fpsyg.2018.02612
+Relationships Between Aerobic Fitness Levels and Cognitive Performance in Swedish Office Workers
+Alexandra Pantzar1, Lars S. Jonasson2, Örjan Ekblom1, Carl-Johan Boraxbekk3,4 and Maria M. Ekblom1,5*
+1The Swedish School of Sport and Health Sciences, GIH, Stockholm, Sweden
+2Department of Integrative Medical Biology, Umeå University, Umeå, Sweden
+3Centre for Demographic and Aging Research, Umeå University, Umeå, Sweden
+4Danish Research Center for Magnetic Resonance, Center for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital, Hvidovre, Denmark
+5Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden
+Objectives: Aerobic exercise influence cognition in elderly, children, and neuropsychiatric populations. Less is known about the influence of aerobic exercise in healthy samples (particularly working age), and of different fitness levels on cognition. Two hypotheses were posed: (1) low fitness levels, compared to moderate and high, will be related to poorer cognitive performance, and (2) breakpoints for the beneficial relationship between VO2 and cognition will be observed within the moderate-to-high fitness span.
+Design and Methods: The sample consisted of n=362 office workers. A submaximal cycle ergometer test estimated maximal oxygen consumption (VO2max, mL·kg−1·min−1). Based on estimated VO2max participants were split into tertiles; low (n = 121), moderate (n = 119), and high (n = 122). A cognitive test battery (9 tests), assessed processing speed, working memory, executive functions and episodic memory.
+Results: Both hypotheses were confirmed. Groups of moderate (≈40) and high (≈49) fitness outperformed the group of low (≈31) fitness for inhibition and episodic recognition, whereas no significant differences between moderate and high fitness were observed (ANCOVAs). Breakpoints between benefits fromVO2max for inhibition and recognition were estimated to ≈44/43 mL·kg−1·min−1 (multivariate broken line regressions).
+Conclusions: Results suggest that it is conceivable to expect a beneficial relationship between VO2max and some cognitive domains up to a certain fitness level. In a sample of healthy office workers, this level was estimated to 44 mL·kg−1·min−1. This has implications on organizational and societal levels; where incentives to improve fitness levels from low to moderate could yield desirable cognitive and health benefits in adults.
+Introduction
+Cognitive abilities (knowledge-related mental information processing), involve decision-making, planning, problem solving, and are crucial to a person's ability to function in everyday life. The relevant biology for cognitive abilities occur in the brain, as such, they are key to brain health.
+Cognitive abilities are influenced by multiple factors across the life-span, including upbringing environment, education, status of disease and psychiatric disorders (Lövdén et al., 2010). Lifestyle factors are also known to assert influence on brain plasticity and cognitive performance, such as nutrition (Mayer et al., 2015; Rathod et al., 2016), sleep (Walker, 2009; Benveniste et al., 2017), exercise (Hötting and Roder, 2013; Cassilhas et al., 2016) cognitive training (Chapman et al., 2016) and social activities (Davidson and McEwen, 2012).
+Aerobic exercise is of particular interest. Not only is it known to lower risk for disease, such as cardiovascular diseases, metabolic syndromes, and cancer (Wen et al., 2011; Bhatti et al., 2017), it is also known, albeit to a lesser extent, to benefit cognitive abilities and to slow down age-related cognitive decline (Voss et al., 2011; Barnes, 2015; Schultz et al., 2015). Cross-sectional studies have for example shown that older aerobically fit persons cognitively outperform age-comparative non-fit persons, resembling the performance of younger non-fit persons (Colcombe and Kramer, 2003). A growing body of evidence on beneficial effects from aerobic exercise on cognitive performance has emerged from intervention studies (Kramer et al., 1999; Erickson et al., 2011; Jonasson et al., 2017). Along these lines, increased aerobic fitness seem to improve some domains of cognitive performance (in particular executive functions and long-term memory), with the underlying assumption that aerobic exercise facilitates neuroplasticity (Hötting and Roder, 2013; Voss et al., 2013; Cassilhas et al., 2016). This line of research has primarily focused on the influence of changes in fitness levels on cognitive performance within older persons (Leckie et al., 2014; Jonasson et al., 2017), children (Chaddock-Heyman et al., 2013; Krafft et al., 2014) and clinical samples (e.g., depression, dementia; Wegner et al., 2014; Groot et al., 2016; Schuch et al., 2016). Two things are notable; firstly, this leaves a knowledge gap for working age (Cox et al., 2016), and secondly, observed increases in fitness level range from low fitness to moderate. Moreover, little is known about the levels at which aerobic fitness (VO2) has beneficial relationships with cognitive performance.
+Based on the introductory review, we make two hypotheses, (1) low fitness levels, compared to moderate and high, will be related to poorer cognitive performance, and (2) the breakpoint for the cessation of the beneficial relationship between VO2 and cognition will be observed within the moderate-to-high fitness span. These hypotheses will be investigated in a sample of office workers, in order to extend the knowledge about the relationship between aerobic fitness and cognition during our able-bodied working age.
+Methods
+Participants
+All office workers from project partners (ICA-group: n = 1,522 and Intrum Justitia: n = 497) were invited to participate in the study. Out of these, 369 persons (ICA: n = 194; Intrum Justitia: n = 168) participated in cognitive testing and a submaximal cycle ergometer test. Health-relevant screening for contraindications was performed prior to the cycle test according to ACSM (American College of Sports Medicine, 2014) guidelines (GET-P 9). Problems recording the heart rate during fitness testing (n = 7), high blood pressure (>140 systolic), back problems, and weight +140 kg, left a sample of n = 362. Based on aerobic fitness (estimated VO2max), the sample was split into tertiles, low (n = 121), moderate (n = 119), and high (n = 122) aerobic fitness (see Table 1 for sample characteristics).
+TABLE 1
+Table 1. Background characteristics of office workers across aerobic fitness level.
+Ethics
+All authors assert that all procedures in this study comply with the ethical standards from national and international committees, and with the Helsinki Declaration of 1975, as revised in 2008. The study was approved by the ethical committee at the Karolinska Institutet, Stockholm Sweden (2016/796-31). All participants provided oral and written informed consent prior to participation. All data was collected by researchers, the partner companies (co-founders, but had no involvement in the research process, except providing participants) were blind to individual employee participation at all times and have no access to the data.
+Cognitive Test Battery
+A comprehensive cognitive test battery (9 tests: 6 computerized, 3 pen and paper) was administered at the work places during office hours (duration: approximately 50 min to 1 h) by trained test leaders. 7 tests originated from the PHIBRA (Jonasson et al., 2017) study which showed good validity and reliability for measurements of the respective cognitive domains. Other versions of Trail Making Test A and B were used. All tests included a practice part (except free recall), to ensure that instructions were understood and questions could be asked. E-Prime 2.0 (Psychology Software Tools) was used for computerized tests. All cognitive data was quality checked for systematic and non-systematic errors, disrupting situational factors, and 10% of all individual tests were rescored.
+Processing Speed
+Processing speed was assessed by a computerized version of Digit Symbol from the Wechsler, Adult Intelligence Scale-Revised (Wechsler, 1981) (WAIS-R), TMT-A (Lezak, 2004), and 1-back (n-back paradigm). An array of 9 digit-symbol combinations was shown on the upper half of the screen. Below, a digit-symbol combination was presented and the task was to, as quickly as possible, decide whether the same digit-symbol combination was displayed above. A practice block of 10 trials was performed prior to three consecutive task blocks of 30 trials each. The outcome score was response time for correctly chosen digit-symbol combinations. For TMT-A, 25 encircled digits were to be connected in numerical order (1-2-3 etc.). The test leader corrected the first mistake, which did not result in a lower score (correction time included in completion time). The outcome score was completion times (sec) for participants with maximum 2 errors and one careless connection (>2 mm). For n-back, participants were required to indicate with a key press within 2 s from stimulus onset, whether the digit presented on the screen was the same digit as the digit presented 1 stimulus (1-back) or 2 stimuli (2-back; updating, see below) back. Each digit was presented for 1.5 s at an interstimuli interval (ISI) of 500 mili s (ms). Practice with feedback was performed prior to both 1- and 2-back. The check of 1-back data resulted in a judgment of insufficient quality, and was thereby excluded.
+Executive Functions
+Executive functions were measured by TMT-B (shifting; paper and pen; Lezak, 2004), 2-back (updating; Kirchner, 1958), and the Stroop test (inhibittion; Stroop, 1935). Similarly to TMT-A, TMT-B had 25 encircled, but with digits and letters that were to be connected in alternating order (1-A-2-B-3-C etc.) The outcome score followed the same rationale as for TMT-A. The outcome score for 2-back was accuracy for 4 blocks of 20 digit sequences. The Stroop paper test consisted of 50 incongruent printed color words (5 rows with 10 words; i.e., the word blue printed in red color). A practice of 10 words was completed prior to the test. During the test, the test leader commented on errors, and participants needed to say the correct color (not read the word) for all targets until the test ended. The outcome score was completion time.
+Working Memory
+Working memory was assessed by the automated version of the operation span task (working memory capacity; AOS, Unsworth et al., 2005) and the computerized version of the WAIS-R digit span backward task (working memory span; Wechsler, 1981). For AOS, participants' task was to remember letters and judge simple mathematical tasks to be true or false. In four practice blocks, two and three letter sequences were displayed (1 sec/letter, ISI of 250 ms). After each sequence, the screen showed 12 boxes containing letters, and the task was to select the correct letter order. After letter task practice, 15 mathematical tasks were to be solved (e.g., 6/2 + 2 = ?). A solution to the mathematical task was provided on the screen in combination with two boxes below stating “true” (i.e., 5) and “false” (i.e., 3). Thereafter a practice block on the combined tasks took place. A letter was presented (1 s) after each mathematical task, and for each block the order of the letter sequence was required to be remembered by choosing from the 12 letter boxes. After each block, feedback was presented (accuracy for math tasks and letters). The test consisted of 10 blocks (2 × 3–7 letter sequences), and participants were instructed to keep 85% accuracy on mathematical tasks (feedback provided). The rationale being that rehearsal of the letter task was not favored. The outcome score was the sum of correctly remembered sets multiplied by the respective set size. Participants with 11 or more math errors were excluded.
+In the digit span backward task, a digit sequence (1–9), had to be remembered in the reversed order (e.g., 9, 6, 3, 1 → 1, 3, 6, 9). Digits were presented for 1 s, with an ISI of 250 ms. Pressing the corresponding keyboard digits provided the response. Two sequences of two digits with feedback served as practice. The test span started with three digits. When a correct response was given, the difficulty increased by one digit, to a maximum of nine. After two incorrect responses on a span length the task was ended. The outcome score was the highest sequence length (i.e., span) completed correctly.
+Episodic Memory
+Episodic memory was assessed by tests of free recall (Murdock, 1962) and recognition (Nyberg et al., 1996). For free recall, 16 unrelated nouns (e.g., plank, tail, necklace) were presented (3 s/word, ISI of 1 s). Immediately after, participants' task was to write down as many of the words as possible within 2 min on paper. The outcome score was number of correctly recalled words. For recognition, participants had to encode a list of 30 words (unrelated nouns; 3 s/word, ISI of 1 s). Approximately 20–25 min later the recognition test started. Again 30 words were presented (4 sec/word, ISI of 1 s), with 15 words originating from the encoding phase and 15 being lures. Participants needed to determine whether or not each word had been presented previously or not (forced choice paradigm). The outcome score was number of correct recognized words (yes and no).
+Aerobic Fitness
+The submaximal Ekblom-Bak cycle ergometer test (Ekblom-Bak et al., 2014; Björkman et al., 2016) was performed on a Monark 838E. Maximal oxygen uptake was estimated from the change in heart rate response to two submaximal rates of work, and measured using telemetry (Polar Oy, Tampere, Finland). Body mass was recorded with a standard scale with participants dressed in light clothes and noted as kg with one decimal. Maximal oxygen consumption (VO2max) was calculated as L/min. For analyses, values were normalized to body mass and expressed as mL per minute per kg body mass. The Ekblom-Bak test has proven to be valid and reliable (Ekblom-Bak et al., 2014; Björkman et al., 2016), showing high correlation to directly measured maximal oxygen consumption (r = 0.90), no systematic error (mean difference to direct measurement = 0.02, 95% CI: −0.04 to 0.08 L/min) and limited random error (CV = 9.4% and SEE = 0.3 L/min). Also, test-retest difference scores are reliable (−0.02, 95% CI: −0.07 to 0.03 L/min).
+Web Survey
+A web survey (completion time approximately 20 min) covering domains of work environment, leadership, subjective physical activity, physical and mental health was sent to all employees of the project partner companies before the testing. Relevant measurements for the latter domain are reported here: life satisfaction (Pronk et al., 2016); sickness absence (Ferrie et al., 2005); stress single item (Elo et al., 2003); the Hospital Anxiety and Depression scale (HADS; Zigmond and Snaith, 1983). Also, open questions regarding current health status (gut/bowel, chronic obstructive pulmonary disease, blood pressure/blood lipids, cardiovascular disease, diabetes, acute and chronic pain); alcohol (5+ units/week yes/no); smoking (daily yes/no), snuff (daily yes/no); and medication intake were included. Relevant mental health medications were reported (antidepressants; N06A, n = 18 and other antidepressants N06AX, n = 1). No other medications that may affect cognitive performance were reported.
+Statistical Analyses
+Differences in group characteristics were assessed with analyses of variance (ANOVAs) and χ2 tests. Group differences in aerobic fitness on cognitive performance were investigated with ANCOVAs (covariates controlling for the influence from age, gender and education), and effect sizes (Cohens' d; Cohen, 1992) were calculated. Lastly, multivariate broken line regression analyses (R package to fit regression models with broken-line relationships; Muggeo, 2008) estimated breakpoints [Y = Intercept + β1 aerobic fitness + β2 (aerobic fitness–breakpoint)+] between aerobic fitness and cognitive performance. The + signifies that the term β2 takes the value zero for VO2 below the breakpoint. These analyses were also controlled for age, gender, and education. Alpha level was controlled for false discovery rate (Benjamini et al., 2001), and set to 0.018.
+Results
+Group differences in sample characteristics were observed for age, gender, education, and weight, see Table 1. Persons with low aerobic fitness were older than persons with moderate and high fitness (p < 0.01), and persons with high fitness were younger than persons with moderate fitness (p < 0.01). The sample consisted of 68.2% females, resulting in female majority for groups of low and moderate aerobic fitness (p < 0.01). Persons with low aerobic fitness had fewer years of education relative to persons with moderate and high fitness (p < 0.01), but no difference between moderate and high fitness levels was observed (p = 0.341). The low aerobic fitness group weighed more than moderate and high fitness groups (p < 0.01), but no difference between moderate and high fitness groups was observed (p = 0.330). There was a trend for the low aerobic fitness group (p = 0.08) to be more frequent smokers relative to groups of moderate and higher fitness. See Table 2 for descriptive data of cognitive performance.
+TABLE 2
+Table 2. Cognitive performance in raw scores in office workers across aerobic fitness level.
+ANCOVA analyses revealed group differences in aerobic fitness and cognitive performance in two of the 9 cognitive outcomes; firstly a trend for Stroop [F(5, 351) = 3.54, p = 0.030, partial η2 = 0.020], and episodic recognition [F(5, 351) = 4.99, p = 0.007, partial η2 = 0.028], see Figure 1. For Stroop, post-hoc analyses (LSD) revealed that groups with high (p = 0.013, d = 0.22) and moderate (p = 0.031, d = 0.23) aerobic fitness outperformed the low fitness group. No performance difference was observed between moderate and high aerobic fitness groups (p = 0.483). This pattern was also observed for episodic recognition; the two groups of moderate (p = 0.006, d = 0.33) and high (p = 0.006; d = 0.67) aerobic fitness outperformed the low fitness group, and no performance difference between moderate and high fitness groups was observed (p = 0.724).
+FIGURE 1
+Figure 1. Cognitive performance on Stroop (A, seconds to completion) and episodic recognition (B, number correct) in healthy office workers with low (≈31), moderate (≈40) and high (≈49) aerobic fitness (Estimated VO2max mL·kg−1·min−1). Breakpoints between aerobic fitness and performance on Stroop (C, seconds to completion), and episodic recognition (D, number correct).
+For Stroop, gender (p = 0.000, partial η2 = 0.038) was the only significant covariate (age: p = 0.243, partial η2 = 0.004; education: p = 0.528, partial η2= 0.001), whereas for recognition education was significant and a trend for gender was observed (p = 0.002, partial η2 = 0.027; p = 0.06, partial η2 = 0.010; age: p = 0.640, partial η2 = 0.001).
+Multivariate broken line regressions estimated breakpoints between aerobic fitness and the significant cognitive outcomes from the ANCOVA analyses, see Figure 1. The breakpoint in VO2max for Stroop performance was 43.95 (3.09). Coefficients for the two aerobic fitness slopes were significant: β1 = −0.33 (0.11), 95% CI = −0.55 to −0.12, p = 0.002; β2 = 0.55 (0.22), 95% CI = 0.10–1.00, p = 0.015. Out of age, gender, and education as covariates, only gender was significant (p < 0.001). The breakpoint in VO2max for episodic recognition was 43.10 (4.96). Coefficients were β1 = 0.13 (0.05), 95% CI = 0.04 0.23), p = 0.006; β2 = −0.14 (0.09), 95% CI = −0.30–0.03, p = 0.114, was not significant. Education was significant (p = 0.002), and a trend for gender (p = 0.056) was observed. Age was not significant. The overall R2 was 0.08 and 0.09 for Stroop and episodic recognition, respectively.
+Discussion
+Both hypotheses posed in this study were confirmed in sample of Swedish office workers. First, low level of aerobic fitness (VO2max mL·kg−1·min−1) was related to poorer cognitive performance as groups of moderate (≈40) and high (≈49) fitness outperformed the group of low (≈31) fitness for inhibition (trend) and episodic recognition. Also, no significant differences between moderate and high fitness were observed. Second, the breakpoints between benefits from VO2max for inhibition and episodic recognition were observed in the range for moderate-to-high fitness levels (≈44/43).
+Groups of moderate and high levels of aerobic fitness outperformed the low fitness group with a small effect size for inhibition (d = 0.23/0.22) and small to medium-sized for episodic recognition (d = 0.33/0.67). Thus, an average of aerobic fitness level of 39.9 (SD = 2.2) was associated with better performance in both inhibition and episodic recognition as compared to an average of 30.8 (SD = 4.2). However, an average aerobic fitness level of 49.0 (SD = 4.4) was not more beneficial for these cognitive outcomes as compared to 39.9. The cognitive tests (Stroop and episodic recognition) in this study that yielded group differences in performance based on aerobic fitness level measured the domains of executive functions and episodic memory. Inhibition resides in the prefrontal lobes (Diamond, 2013), and episodic recognition is a function of the temporal lobes (Tulving, 1972). These results are in line with previous research, confirming that functions residing in these brain lobes are responsive to aerobic exercise (Erickson et al., 2011; Jonasson et al., 2017). In the present study, not all tests measuring these cognitive domains yielded any significant association with aerobic fitness, reflecting the difficulty in finding the direct link between fitness-cognition relationships.
+No performance differences were observed between the moderate and high fitness groups suggesting that breakpoints for beneficial effects of aerobic fitness levels on cognitive performance do exist. Accordingly, multivariate broken line regressions estimated these VO2max breakpoints to ≈43–44, for both significant cognitive outcomes.
+Reports of aerobic fitness levels at population levels are scarce. However, one study has shown that a VO2max level of 43–44 mL·kg−1·min−1 was not reached at the Swedish population level at any age range (Ekblom et al., 2007). In that study, the highest median of VO2max was reported for ages of 20–29 (women: 40.7; men: 39.5), and the lowest in ages of 60–65 (women: 25.0; men: 26.6). Importantly, low levels of aerobic fitness (females: <32.5; males: <35.0) have been reported to be a risk factor for all-cause mortality (Blair et al., 1989). It is well known that aerobic capacity is influenced by sex (Hermansen and Andersen, 1965; Cureton et al., 1986), and age (Jackson et al., 1995, 1996). Therefore, it seems likely that breakpoints in VO2 and cognitive performance will vary as functions of both gender and age. Moreover, females are often overrepresented in exercise-cognition intervention studies (Holzschneider et al., 2012; Hötting et al., 2012), and effect sizes seem to increase as a function of female participation (Colcombe and Kramer, 2003). Gender asserted influence on the relationship between aerobic fitness and performance in inhibition (p < 0.001, partial η2 = 0.038) and recognition (p = 0.056, partial η2 = 0.010). However, age as a covariate was not significant in any analyses. This is likely explained by the age range (21–66) in a relatively healthy sample, such that the relationship between fitness and cognition is relatively stable in adulthood until effects of cognitive aging is observable. Also, level of education asserted influence on performance in episodic recognition (p = 0.002, partial η2 = 0.027). Hence, the results that group differences in aerobic fitness level influenced cognitive performance in inhibition and episodic recognition were reliable also when controlling for age, gender and education. Considering that effect sizes were small and medium-sized, and that the overall R2 in the two models of broken line regressions were 8 and 9% respectively, this strengthens the argument that multiple factors are contributing to the beneficial relationship between aerobic fitness and cognitive performance.
+Evidence on beneficial effects of increased aerobic fitness on cognitive performance has emerged from RCT exercise interventions, notably from elderly samples (Kramer et al., 1999; Erickson et al., 2011; Jonasson et al., 2017). Inclusion criteria typically involve low physical activity levels. For example, at baseline a VO2 peak of 21.6 was reported, with an increase to 27.7 after 6 months of aerobic exercise, which was accompanied by an improvement in a domain general cognitive score (Jonasson et al., 2017). To the best of our knowledge only one RCT exercise intervention has been conducted in a middle-aged sample so far (Hötting et al., 2012). In this study, three groups were formed: aerobic exercise (pre: 28.30; post: 32.53), stretch/coordination (pre: 30.47; post: 31.23) and inactive controls (pre: 30.41; post: 30.91). After 6 months, both aerobic exercisers and the stretch/coordination group improved in episodic memory, whereas stretchers alone improved in attention suggesting that not only aerobic exercise is beneficial to cognition and that different exercise types may yield different effects. Another study (not randomized) investigated in a middle-aged sample, a combination of physical exercise and cognitive training (Holzschneider et al., 2012). Four groups were formed: aerobic exercise/spatial training, aerobic exercise/perceptual training, stretch/spatial training, and stretch/perceptual training. Both groups of spatial training improved in spatial ability, but this improvement did not vary with aerobic fitness, despite improvements in VO2 from 29.7 to 34.8. Taken together, exercise intervention studies have provided some evidence that increases from low to moderately low aerobic fitness exert positive effects on some cognitive domains. Note, these improvements did not involve an increase from moderate to high fitness levels, due to the sedentary characteristics of the studied samples. To the best of our knowledge, no investigations on breakpoints between the beneficial relationship between aerobic fitness and cognitive performance has previously been conducted in a fitness heterogeneous sample.
+No effects of aerobic fitness levels were observed for the majority of the cognitive outcomes (processing speed, attention, executive functions of shifting and updating, working memory capacity and span, and episodic free recall). Findings regarding aerobic fitness and cognitive performance are in general mixed (Colcombe and Kramer, 2003; Young et al., 2015). Explanations may include small cognitive batteries, variability in cognitive tests, sample characteristics (e.g., age gender, education, healthy or diseased samples; Roig et al., 2013; Voelcker-Rehage and Niemann, 2013). The investigated sample of Swedish office workers consisted of 68.2% females with an age range from 21 to 66 years, and an education attainment range from 9 to 22 years. Hence, these factors were controlled for in all analyses.
+This line of research typically examines older persons (Leckie et al., 2014; Jonasson et al., 2017), children (Chaddock-Heyman et al., 2013; Krafft et al., 2014), or clinical samples (Wegner et al., 2014; Groot et al., 2016; Schuch et al., 2016). Hence, adult healthy office workers are rarely investigated. Also, as shown in Table 1, the investigated sample was healthy. No group differences were observed for any health measurement, with the exceptions of trends for daily smoking (p = 0.08) and any current antidepressant medication (p = 0.09). As such, this study contributes knowledge on the relationship between aerobic fitness and cognitive performance in healthy adults.
+Groups of moderate and high aerobic fitness levels both outperformed the group of low aerobic fitness level. Conversely, the moderate and high fitness groups performed at a comparable cognitive level. This suggests that higher levels of aerobic fitness may not always equal better cognitive performance, but rather that improving fitness levels away from a low level may yield the largest benefits. If office workers, and the population in general, could realize an increase in aerobic fitness levels, from low to moderate, this could potentially decrease risk for disease (e.g., cardiovascular disease, meatbolic syndromes, and cancer; Blair et al., 1989; Wen et al., 2011; Wilmot et al., 2012; Bhatti et al., 2017), but could also benefit certain cognitive domains. This in turn could yield beneficial economic consequences for organizations, and society at large, in terms of lowered sick leave and sick days.
+Small and moderate effect sizes, in combination with and a small overall R2, support the notion that positive influence on cognitive performance is multifactorial. Therefore, a multifactorial approach, including nutrition (Mayer et al., 2015; Rathod et al., 2016), sleep (Walker, 2009; Benveniste et al., 2017), cognitive training (Chapman et al., 2016) and social activities (Davidson and McEwen, 2012), may yield a combined stronger positive influence on cognitive performance. This may be of special importance, especially as transfer effects of cognitive improvements from exercise has been shown to be small (Diamond and Ling, 2016). Further, even though there may exist breakpoints for some of the cognitive abilities studied here, other cognitive abilities and sample characteristics not measured here may exhibit different breakpoints than ≈43–44 mL·kg−1·min−1.
+Limitations
+The participation rate of office workers was low; in total 18.8 and 27.8% for the web survey. As such, the investigated sample is not representative for these partner companies, let alone for the population office workers. Therefore, rates of low aerobic fitness levels were likely underestimated, and rates of health were likely overestimated. Also, no moderator analyses were conducted, that could have clarified potential multifactorial positive associations between aerobic fitness and cognitive performance (Leckie et al., 2012; Stillman et al., 2016). Furthermore, estimations of breakpoints between aerobic fitness and cognitive performance needs to be replicated, and be conducted in different samples of age, disease and psychiatric disorders, and investigations of sex differences are warranted in order for potential future recommendations regarding aerobic fitness levels and cognitive functioning.
+Conclusions
+Levels of aerobic fitness exerted positive influence on performance on cognitive tests measuring the functions of inhibition and episodic recognition in office workers. Groups of moderate (≈40) and high (≈49) fitness levels (VO2max mL·kg−1·min−1) outperformed a group of low (≈31) fitness level. Groups of moderate and high fitness levels performed at a comparable level. Breakpoints between aerobic fitness and inhibition and episodic recognition could be estimated to ≈43–44 mL·kg−1·min−1. Thus, it seems plausible to expect a positive relationship from aerobic fitness level on some cognitive domains up to a certain degree. As such, limitations of the influence from aerobic exercise on cognitive performance needs to be investigated further. This has implications on organizational and societal levels; where incentives to improve fitness levels from low to moderate could yield desirable cognitive and health benefits in adults.
+Practical Implications
+• Levels of aerobic fitness exerted positive influences on executive functions and memory in Swedish office workers. Groups of moderate and high fitness levels cognitively (inhibition and episodic recognition) outperformed a group of low fitness level, whereas groups of moderate and high fitness levels performed at a comparable level.
+• It seems plausible that the primary cognitive gains of improving fitness levels would be achieved when going from low to moderate fitness levels, as suggested by the breakpoints in the broken line regression analyses.
+• Our findings suggest that physical activity promotion should especially focus on supporting individuals with low fitness levels.
+Author Contributions
+ME, ÖE, C-JB, and AP: Designed study; AP, ÖE, and ME: Collected data; AP, ÖE, ME, and LJ: Analyzed data; AP and LJ: Figures and tables; AP: Drafted manuscript; ME, ÖE, C-JB, LJ, and AP: Revised manuscript; ME, ÖE, C-JB, LJ, and AP: Approved final manuscript.
+Acknowledgments
+This study is part of the Physical activity and healthy brain functions project which is funded by KK-Stiftelsen (20160040), and by the following companies: ICA-gruppen, Intrum, SATS Elixia, Monark Exercise and Itrim Sweden. We also wish to acknowledge the skillfull assistance of Emerald Heiland in data analyses.
+Conflict of Interest Statement
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+References
+American College of Sports Medicine (2014). ACSM's Resource Manual for Guidelines for Exercise Testing and Prescription, 7 Edn. Philadelphia, PA: Wolters Kluwer; Lippincott Williams and Wilkins.
+Barnes, J. N. (2015). Exercise, cognitive function, and aging. Adv. Physiol. Educ. 39, 55–62. doi: 10.1152/advan.00101.2014
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Benjamini, Y., Drai, D., Elmer, G., Kafkafi, N., and Golani, I. (2001). Controlling the false discovery rate in behavior genetics research. Behav. Brain Res. 125, 279–284. doi: 10.1016/S0166-4328(01)00297-2
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Benveniste, H., Lee, H., and Volkow, N. D. (2017). The glymphatic pathway. Neuroscientist 5, 454–465. doi: 10.1177/1073858417691030
+CrossRef Full Text | Google Scholar
+Bhatti, J. S., Bhatti, G. K., and Reddy, P. H. (2017). Mitochondrial dysfunction and oxidative stress in metabolic disorders-A step towards mitochondria based therapeutic strategies. Biochim. Biophys. Acta 1863, 1066–1077. doi: 10.1016/j.bbadis.2016.11.010
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Björkman, F., Ekblom-Bak, E., Ekblom, O., and Ekblom, B. (2016). Validity of the revised ekblom bak cycle ergometer test in adults. Eur. J. Appl. Physiol. 116, 1627–1638. doi: 10.1007/s00421-016-3412-0
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Blair, S. N., Kohl, H. W. III., Paffenbarger, R. S. Jr., Clark, D. G., Cooper, K. H., and Gibbons, L. W. (1989). Physical fitness and all-cause mortality. a prospective study of healthy men and women. JAMA 262, 2395–2401.
+PubMed Abstract | Google Scholar
+Cassilhas, R. C., Tufik, S., and de Mello, M. T. (2016). Physical exercise, neuroplasticity, spatial learning and memory. Cell. Mol. Life Sci. 73, 975–983. doi: 10.1007/s00018-015-2102-0
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Chaddock-Heyman, L., Erickson, K. I., Voss, M. W., Knecht, A. M., Pontifex, M. B., Castelli, D. M., et al. (2013). The effects of physical activity on functional MRI activation associated with cognitive control in children: a randomized controlled intervention. Front. Hum. Neurosci. 7:72. doi: 10.3389/fnhum.2013.00072
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Chapman, S. B., Aslan, S., Spence, J. S., Keebler, M. W., DeFina, L. F., Didehbani, N., et al. (2016). Distinct Brain and behavioral benefits from cognitive vs. physical training: a randomized trial in aging adults. Front. Hum. Neurosci. 10:338. doi: 10.3389/fnhum.2016.00338
+CrossRef Full Text
+Cohen, J. (1992). A power primer. Psychol. Bull. 112, 155–159.
+PubMed Abstract | Google Scholar
+Colcombe, S., and Kramer, A. F. (2003). Fitness effects on the cognitive function of older adults: a meta-analytic study. Psychol. Sci. 14, 125–130. doi: 10.1111/1467-9280.t01-1-01430
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Cox, E. P., O'Dwyer, N., Cook, R., Vetter, M., Cheng, H. L., Rooney, K., et al. (2016). Relationship between physical activity and cognitive function in apparently healthy young to middle-aged adults: a systematic review. J. Sci. Med. Sport. 19, 616–628. doi: 10.1016/j.jsams.2015.09.003
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Cureton, K., Bishop, P., Hutchinson, P., Newland, H., Vickery, S., and Zwiren, L. (1986). Sex difference in maximal oxygen uptake. Effect of equating haemoglobin concentration. Eur. J. Appl. Physiol. Occup. Physiol. 54, 656–660.
+PubMed Abstract | Google Scholar
+Davidson, R. J., and McEwen, B. S. (2012). Social influences on neuroplasticity: stress and interventions to promote well-being. Nat. Neurosci. 15, 689–695. doi: 10.1038/nn.3093
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Diamond, A. (2013). Executive functions. Annu. Rev. Psychol. 64, 135–168. doi: 10.1146/annurev-psych-113011-143750
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Diamond, A., and Ling, D. S. (2016). Conclusions about interventions, programs, and approaches for improving executive functions that appear justified and those that, despite much hype, do not. Dev. Cogn. Neurosci. 18, 34–48. doi: 10.1016/j.dcn.2015.11.005
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Ekblom, B., Engstrom, L. M., and Ekblom, O. (2007). Secular trends of physical fitness in Swedish adults. Scand. J. Med. Sci. Sports 17, 267–273. doi: 10.1111/j.1600-0838.26006.00531.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Ekblom-Bak, E., Bjorkman, F., Hellenius, M. L., and Ekblom, B. (2014). A new submaximal cycle ergometer test for prediction of VO2max. Scand. J. Med. Sci. Sports 24, 319–326. doi: 10.1111/sms.12014
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Elo, A. L., Leppanen, A., and Jahkola, A. (2003). Validity of a single-item measure of stress symptoms. Scand. J. Work Environ. Health 28, 418–428. doi: 10.5271/sjweh.752
+CrossRef Full Text | Google Scholar
+Erickson, K. I., Voss, M. W., Prakash, R. S., Basak, C., Szabo, A., Chaddock, L., et al. (2011). Exercise training increases size of hippocampus and improves memory. Proc. Natl. Acad. Sci. U.S.A. 108, 3017–3022. doi: 10.1073/pnas.1015950108
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Ferrie, J. E., Kivimaki, M., Head, J., Shipley, M. J., Vahtera, J., and Marmot, M. G. (2005). A comparison of self-reported sickness absence with absences recorded in employers' registers: evidence from the Whitehall II study. Occup. Environ. Med. 62, 74–79. doi: 10.1136/oem.2004.013896
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Groot, C., Hooghiemstra, A. M., Raijmakers, P. G., van Berckel, B. N., Scheltens, P., Scherder, E. J., et al. (2016). The effect of physical activity on cognitive function in patients with dementia: a meta-analysis of randomized control trials. Ageing Res. Rev. 25, 13–23. doi: 10.1016/j.arr.2015.11.005
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Hermansen, L., and Andersen, K. L. (1965). Aerobic work capacity in young norwegian men and women. J. Appl. Physiol. 20, 425–431. doi: 10.1152/jappl.1965.20.3.425
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Holzschneider, K., Wolbers, T., Roder, B., and Hotting, K. (2012). Cardiovascular fitness modulates brain activation associated with spatial learning. Neuroimage 59, 3003–3014. doi: 10.1016/j.neuroimage.2011.10.021
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Hötting, K., Reich, B., Holzschneider, K., Kauschke, K., Schmidt, T., Reer, R., et al. (2012). Differential cognitive effects of cycling versus stretching/coordination training in middle-aged adults. Health Psychol. 31, 145–155. doi: 10.1037/a0025371
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Hötting, K., and Roder, B. (2013). Beneficial effects of physical exercise on neuroplasticity and cognition. Neurosci. Biobehav. Rev. 37, 2243–2257. doi: 10.1016/j.neubiorev.2013.04.005
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Jackson, A. S., Beard, E. F., Wier, L. T., Ross, R. M., Stuteville, J. E., and Blair, S. N. (1995). Changes in aerobic power of men, ages 25-70 yr. Med. Sci. Sports Exerc. 27, 113–120.
+PubMed Abstract | Google Scholar
+Jackson, A. S., Wier, L. T., Ayers, G. W., Beard, E. F., Stuteville, J. E., and Blair, S. N. (1996). Changes in aerobic power of women, ages 20-64 yr. Med. Sci. Sports Exerc. 28, 884–891.
+PubMed Abstract | Google Scholar
+Jonasson, L. S., Nyberg, L., Kramer, A. F., Lundquist, A., Riklund, K., and Boraxbekk, C. J. (2017). Aerobic exercise intervention, cognitive performance, and brain structure: results from the physical influences on brain in aging (PHIBRA) study. Front. Aging Neurosci. 8:336. doi: 10.3389/fnagi.2016.00336
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Kirchner, W. K. (1958). Age differences in short-term retention of rapidly changing information. J. Exp. Psychol. 55, 352–358.
+PubMed Abstract | Google Scholar
+Krafft, C. E., Schwarz, N. F., Chi, L., Weinberger, A. L., Schaeffer, D. J., Pierce, J. E., et al. (2014). An 8-month randomized controlled exercise trial alters brain activation during cognitive tasks in overweight children. Obesity 22, 232–242. doi: 10.1002/oby.20518
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Kramer, A. F., Hahn, S., Cohen, N. J., Banich, M. T., McAuley, E., Harrison, C. R., et al. (1999). Ageing, fitness and neurocognitive function. Nature 400, 418–419. doi: 10.1038/22682
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Leckie, R. L., Oberlin, L. E., Voss, M. W., Prakash, R. S., Szabo-Reed, A., Chaddock-Heyman, L., et al. (2014). BDNF mediates improvements in executive function following a 1-year exercise intervention. Front. Hum. Neurosci. 8, 985. doi: 10.3389/fnhum.2014.00985
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Leckie, R. L., Weinstein, A. M., Hodzic, J. C., and Erickson, K. I. (2012). Potential moderators of physical activity on brain health. J. Aging Res. 2012, 948981. doi: 10.1155/2012/948981
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Lezak, M. (2004). Neuropsychological Assessment, 4th Edn. New York, NY: Oxford University Press.
+Lövdén, M., Backman, L., Lindenberger, U., Schaefer, S., and Schmiedek, F. (2010). A theoretical framework for the study of adult cognitive plasticity. Psychol. Bull. 136, 659–676. doi: 10.1037/a0020080
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Mayer, E. A., Tillisch, K., and Gupta, A. (2015). Gut/brain axis and the microbiota. J. Clin. Invest. 125, 926–938. doi: 10.1172/JCI76304
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Muggeo, V. M. R. (2008). Segmented: an r package to fit regression models with broken-line relationships. R. News 8, 20–25.
+Google Scholar
+Murdock, B. B. (1962). The serial position effect of free recall. J. Exp. Psychol. 64, 482–488.
+Google Scholar
+Nyberg, L., McIntosh, A. R., Cabeza, R., Habib, R., Houle, S., and Tulving, E. (1996). General and specific brain regions involved in encoding and retrieval of events: what, where, and when. Proc. Natl. Acad. Sci. U.S.A. 93, 11280–11285.
+PubMed Abstract | Google Scholar
+Pronk, N. P., Kottke, T. E., Lowry, M., Katz, A. S., Gallagher, J. M., Knudson, S. M., et al. (2016). Concordance between life satisfaction and six elements of well-being among respondents to a health assessment survey, healthpartners employees, minnesota, 2011. Prev. Chronic Dis. 13:160309, doi: 10.5888/pcd13.160309
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Rathod, R., Kale, A., and Joshi, S. (2016). Novel insights into the effect of vitamin B12 and omega-3 fatty acids on brain function. J. Biomed. Sci. 23, 17. doi: 10.1186/s12929-016-0241-8
+CrossRef Full Text | Google Scholar
+Roig, M., Nordbrandt, S., Geertsen, S. S., and Nielsen, J. B. (2013). The effects of cardiovascular exercise on human memory: a review with meta-analysis. Neurosci. Biobehav. Rev. 37, 1645–1666. doi: 10.1016/j.neubiorev.2013.06.012
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Schuch, F. B., Deslandes, A. C., Stubbs, B., Gosmann, N. P., Silva, C. T., and Fleck, M. P. (2016). Neurobiological effects of exercise on major depressive disorder: a systematic review. Neurosci. Biobehav. Rev. 61, 1–11. doi: 10.1016/j.neubiorev.2015.11.012
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Schultz, S. A., Boots, E. A., Almeida, R. P., Oh, J. M., Einerson, J., Korcarz, C. E., et al. (2015). Cardiorespiratory fitness attenuates the influence of amyloid on cognition. J. Int. Neuropsychol. Soc. 21, 841–850. doi: 10.1017/S1355617715000843
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Stillman, C. M., Cohen, J., Lehman, M. E., and Erickson, K. I. (2016). Mediators of physical activity on neurocognitive function: a review at multiple levels of analysis. Front. Hum. Neurosci. 10:626. doi: 10.3389/fnhum.2016.00626
+CrossRef Full Text | Google Scholar
+Stroop, J. R. (1935). Studies of interference in serial verbal reactions. J. Exp. Psychol. 18, 643–662.
+Google Scholar
+Tulving, E. (1972). Organization of Memory, eds E. Tulving and W. Donaldson. New York, NY: Academic Press.
+Google Scholar
+Unsworth, N., Heitz, R. P., Schrock, J. C., and Engle, R. W. (2005). An automated version of the operation span task. Behav. Res. Methods 37, 498–505. doi: 10.3758/BF03192720
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Voelcker-Rehage, C., and Niemann, C. (2013). Structural and functional brain changes related to different types of physical activity across the life span. Neurosci. Biobehav. Rev. 37, 2268–2295. doi: 10.1016/j.neubiorev.2013.01.028
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Voss, M. W., Nagamatsu, L. S., Liu-Ambrose, T., and Kramer, A. F. (2011). Exercise, brain, and cognition across the life span. J. Appl. Physiol. 111, 1505–1513. doi: 10.1152/japplphysiol.00210.2011
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Voss, M. W., Vivar, C., Kramer, A. F., and van Praag, H. (2013). Bridging animal and human models of exercise-induced brain plasticity. Trends Cogn. Sci. 17, 525–544. doi: 10.1016/j.tics.2013.08.001
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Walker, M. P. (2009). The role of sleep in cognition and emotion. Ann. N. Y. Acad. Sci. 1156, 168–197. doi: 10.1111/j.1749-6632.2009.04416.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Wechsler, D. (1981). Wechsler Adult Intelligence Scale–Revised. New York, NY: Psychological Corporation.
+Wegner, M., Helmich, I., Machado, S., Nardi, A. E., Arias-Carrion, O., and Budde, H. (2014). Effects of exercise on anxiety and depression disorders: review of meta- analyses and neurobiological mechanisms. CNS Neurol. Disord. Drug Targets. 13, 1002–1014. doi: 10.2174/1871527313666140612102841
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Wen, C. P., Wai, J. P., Tsai, M. K., Yang, Y. C., Cheng, T. Y., Lee, M. C., et al. (2011). Minimum amount of physical activity for reduced mortality and extended life expectancy: a prospective cohort study. Lancet. 378, 1244–1253. doi: 10.1016/S0140-6736(11)60749-6
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Wilmot, E. G., Edwardson, C. L., Achana, F. A., Davies, M. J., Gorely, T., Gray, L. J., et al. (2012). Sedentary time in adults and the association with diabetes, cardiovascular disease and death: systematic review and meta-analysis. Diabetologia 55, 2895–2905. doi: 10.1007/s00125-012-2677-z
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Young, J., Angevaren, M., Rusted, J., and Tabet, N. (2015). Aerobic exercise to improve cognitive function in older people without known cognitive impairment. Cochrane. Database Syst. Rev. 4:CD005381. doi: 10.1002/14651858.CD005381.pub4
+CrossRef Full Text | Google Scholar
+Zigmond, A. S., and Snaith, R. P. (1983). The hospital anxiety and depression scale. Acta Psychiatr. Scand. 67, 361–370.
+PubMed Abstract | Google Scholar
+Keywords: cognition, aerobic fitness, office workers, broken line regression, exercise and cognition
+Citation: Pantzar A, Jonasson LS, Ekblom Örjan, Boraxbekk C-J and Ekblom MM (2018) Relationships Between Aerobic Fitness Levels and Cognitive Performance in Swedish Office Workers. Front. Psychol. 9:2612. doi: 10.3389/fpsyg.2018.02612
+Received: 12 September 2018; Accepted: 05 December 2018;
+Published: 20 December 2018.
+Edited by:
+Sergio Machado, Salgado de Oliveira University, Brazil
+Reviewed by:
+Francesca Federico, Sapienza Università di Roma, Italy
+Bernadette Ann Murphy, University of Ontario Institute of Technology, Canada
+Copyright © 2018 Pantzar, Jonasson, Ekblom, Boraxbekk and Ekblom. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+*Correspondence: Maria M. Ekblom, maria.ekblom@gih.se
+COMMENTARY
+ORIGINAL ARTICLE
+People also looked at
+Want to win $100,000 to host your own conference?
+Suggest a Research Topic
+Impact
+Relationships Between Aerobic Fitness Levels and Cognitive Performance in Swedish Office Workers
+Views
+Citations
+Demographics
+Social Buzz
+Since beginning
+Last 12 months
+Last 30 days
+No records found
+views and downloads views downloads
+views and downloads views downloads
+views and downloads views downloads
+Select a time period
+Since beginning
+Last 12 months
+Last 30 days
+Article Citations
+by Scopus
+by CrossRef
+Top countries
+Top referring sites
+Domain
+Field
+Specialty
+Industry
+Education
+Position
+Age and Gender
+Altmetric
+Sources
+All
+News
+Blogs
+The displayed data aggregates results from Frontiers and PubMed Central®.
+Close
+posts.
+stories.
+stories.
+Supplementary Material
+There is no supplementary material currently available for this article
+Loading supplemental data...
+Close
+File Name
+Notify me on publication
+Please enter your email address:
+If you already have an account, please login.
+You don't have a Frontiers account ? You can register here.
+Notify me
+Select one of your emails
+You have multiple emails registered with Frontiers:
+Notify me
+Notify me on publication
+Cancel
+User
+Comment deleted on
+|
+Edit
+|
+Delete
+Write a comment...
+Add
+Add
+Home
+About Frontiers
+Journals A-Z
+Institutional Membership
+Contact
+News
+Submit
+FAQs
+Terms & Conditions
+Privacy Policy
+Newsletters
+RSS/Twitter
+Team
+Careers
+© 2007 - 2019 Frontiers Media S.A. All Rights Reserved

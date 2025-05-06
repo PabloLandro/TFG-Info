@@ -1,0 +1,14 @@
+
+HTTP/1.1 200 OK
+Date: Sat, 03 Mar 2012 03:00:51 GMT
+Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny9 with Suhosin-Patch mod_python/3.3.1 Python/2.5.2 mod_ssl/2.2.9 OpenSSL/0.9.8g mod_perl/2.0.4 Perl/v5.10.0
+X-Powered-By: PHP/5.2.6-1+lenny9
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Sat, 03 Mar 2012 03:00:51 GMT
+Cache-Control: store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+What is it used for? | Creutzfeldt-Jakob Disease (CJD) University of California, San Francisco About UCSF Search UCSF UCSF Medical Center Espanol Chinese Return to Memory and Aging Center Creutzfeldt-Jakob Disease (CJD) Get Updates CJD Home CJD Matters News & Articles Staff Directory Text Size T T Overview Living with CJD Community & Support Medical Information Research Living with CJD Practical Tips Caregiving Information Professional Care Options Clinical Trials & Research Alternative Treatments Preparing for the End Help improve the diagnosis of CJD Learn more Improve dementia diagnosis and patient care Learn more Related Articles Loading Featured Loading Ginkgo Biloba View as Multiple Pages Single Page What is it used for? Does it work? Adverse effects Print Article Download PDF What is it used for? Historically, ginkgo has been used in traditional Chinese medicine for thousands of years to treat asthma, bronchitis, fatigue and ringing in the ears (tinnitus). Today, people use ginkgo leaf extracts hoping to improve memory; treat or help prevent Alzheimer's disease and other types of dementia; decrease intermittent claudication (leg pain when walking due to poor blood flow); and treat sexual dysfunction, multiple sclerosis, tinnitus, and other health conditions. Related Articles: Signs and Symptoms of CJD Practical Tips Article Image: ginkgo.jpg up Next: Does it work? Alternative Tr

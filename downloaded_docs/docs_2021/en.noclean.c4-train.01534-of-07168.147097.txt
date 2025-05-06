@@ -1,0 +1,565 @@
+Alopecia - Hair Loss - DolceraWiki
+Alopecia - Hair Loss
+From DolceraWiki
+Revision as of 04:04, 4 December 2014 by Vishal.jaiswal (Talk | contribs) (→‎Structure-Activity Relationships(SARs))
+(diff) ← Older revision | Latest revision (diff) | Newer revision → (diff)
+Jump to:	navigation, search
+Contents
+1 Rationale
+2 Introduction
+2.1 Hair basics
+2.2 What causes hair loss?
+2.3 Types of alopecia
+2.4 Androgenetic alopecia
+3 IP activity over the years
+4 Major players
+5 Taxonomy
+6 Interactive Taxonomy
+7 Treatment Approaches
+7.1 Anti-androgens
+7.1.1 Functions of Anti-androgen
+7.1.2 IP Map for anti-androgen
+7.2 Minoxidil (Vasodilators)
+7.2.1 Functions of Vasodilators
+7.2.2 IP Map for Vasodilators
+7.3 Double action (Anti-androgen + Vasodilator)
+7.3.1 Functions of (Anti-androgen + Vasodilators)
+7.3.2 IP Map for (Anti-androgen + Vasodilators)
+7.4 Hair matrix cell activator
+7.4.1 Functions of Hair matrix cell activator
+7.4.2 IP Map for Hair matrix cell activator
+8 Technology mapping based on patents analyzed
+8.1 IPMap: Composition nature matrix
+8.2 Focus of patents
+8.3 Technology focus
+8.4 Distribution of patents
+8.4.1 By patent types
+8.4.2 By key ingredients
+8.4.3 By target disease
+8.4.4 Key ingredients vs. Target disease
+8.4.5 Target species
+8.4.6 Mode of administration
+8.4.7 Product type vs. Product form
+8.4.8 Patents by target diseases
+8.4.9 List of patents
+9 Pathways and linkages
+9.1 Pathways associated with hair matrix cell activation
+9.2 Pathways associated with Anti Androgen
+9.2.1 Players of WNT inhibition Pathway
+9.2.2 Role of Pyrazole compounds in Wnt Pathway
+9.2.3 GSK3 inhibition by pyrazole compounds
+9.2.4 Inhibition by amine derivatives
+9.2.5 GSK-3 Inhibition Mechanism - Phosphorylation
+9.3 Pathway associated with anti-androgen
+9.3.1 Structure-Activity Relationships(SARs)
+9.4 Pathway associated with Minoxidil (vasodilators)
+10 Alopecia IPMap
+11 Patent activity in China
+11.1 Treatment approaches
+11.2 Details of treatment approaches
+12 Like this report?
+13 Conclusions
+14 Contact Dolcera
+Rationale
+"Medication for men plagued by hair loss has become a topic of interest in Japan since a drug company began marketing it at the end of last year." March 5th, 2006 – Source
+"An increasing number of companies are apparently turning the Chinese fear of a bald spot into big bucks with some doing so well they are branching out into other countries." February 16, 2006 – Source
+"There is something in the air, or should we say in the hair, these days. Scientific research into hair loss remedies has never been more active or more exciting." June 7, 2006 - Source
+Introduction
+Hair basics
+Hair is a complex and delicate part of the body.
+Keeping it healthy and beautiful is a challenge.
+Hair grows everywhere on the body with the exception of lips, eyelids, palms of the hands and soles of the feet.
+Hair is basically a form of skin.
+Hair is made up of a protein called keratin.
+Each shaft of hair is made of two or three inter-twined layers of keratin which grow from a follicle beneath the skin.
+Hair Structure - Source
+Hair Cycle - Source
+What causes hair loss?
+Decrease in growth of hair
+Increase in shedding of hair
+Breakage of hair
+Conversion of thick terminal hairs to thin vellus hairs
+Survey results from Japan
+Both men and women lose hair for similar reasons. Hair loss in men is often more dramatic, and follows a specific pattern of loss, one of which has been termed “Male Pattern Baldness" or "Androgenetic Alopecia".
+Types of alopecia
+Alopecia Areata (AA): Hair loss occurring in patches anywhere on the body.
+Alopecia Totalis (AT): Total loss of the hair on the scalp.
+Alopecia Universalis (AU): Total loss of all hair on the body.
+Alopecia Barbae: Loss of facial hair (for a man) especially in the beard area.
+Alopecia Mucinosa: A type of alopecia which results in scaley patches.
+Androgenetic Alopecia (AGA): Also known as male pattern baldness. It is a thinning of the hair to an almost transparent state, in both men or women. It is thought to be a hereditary form of hair loss.
+Traction Alopecia: Traction alopecia is usually due to excessive pulling or tension on hair shafts as a result of certain hair styles. It is seen more often in women, particularly those of East Indian and Afro-Caribbean origin. Hair loss depends on the way the hair is being pulled. Prolonged traction alopecia can stop new hair follicles from developing and leads to permanent hair loss.
+Anagen Effluvium: This hair loss is generally caused by chemicals such as those used to treat cancer. Initially it causes patchy hair loss, which often then leads to total hair loss. The good news is that when you stop using these chemicals the hair normally grows back (usually about 6 months later). Other drugs also can cause hair loss. Many medicines used to treat even common diseases can cause hair loss.
+Scarring Alopecia: A form of alopecia which leaves scarring on the area of hair loss.
+Telogen Effluvium: A form of hair loss where more than normal numbers of hair fall out. There is a general 'thinning' of the hair. Unlike some other hair and scalp conditions, it is temporary and the hair growth usually recovers. (Source)
+Androgenetic alopecia
+Gradual onset
+Transition from large, thick, pigmented terminal hairs to thinner, shorter, indeterminate hairs and finally to short, wispy, non-pigmented vellus hairs in the involved areas
+Characterized by a receding hairline and/or hair loss on the top of the head
+Main causes
+Genetic predisposition
+Hormonal effect of androgen
+Reduction of blood circulation around hair follicle
+Deactivation of hair matrix cells
+Some facts from Japan
+Market size: ¥ 30 Billion
+Number of products: more than 100
+(JICST-EPlus - Japanese Science & Technology)
+IP activity over the years
+The graph indicates:
+Number of patents filed every 5 years (except for first 7 years).
+First solution proposed in 1973
+Filing trend indicates steep rise in activity recently.
+IP Activity over years
+Major players
+Assignees with more than 20 patents
+Assignees with fewer than 20 patents
+Active assignees
+Assignees currently active with more than 5 patents to their credit during 2000-2005.
+Warner with 9 patents,
+Bristol with 6 and
+Abbott with 5.
+Active Assignees
+Taxonomy
+Interactive Taxonomy
+Use the mouse(click and drag/scroll up or down/click on nodes) to explore nodes in the detailed taxonomy
+Click on the red arrow on the side of a node name to view the content for that particular node in the dashboard
+Map12.mm
+Flash plugin or Javascript are turned off. Activate both and reload to view the mindmap
+Treatment Approaches
+Composition of treatment for causes are identified and categorized as follows:
+Anti-androgens (Finasteride) source
+Vasodilators (Minoxidil) source
+Double action (Anti-androgen + Vasodilator)
+Hair matrix cells activator
+Cause
+Treatment approach
+Pathways affected
+Hormonal effect of androgen Anti-androgens Testosterone pathway
+Reduction of blood circulation around hair follicle Vasodilators (eg. Minoxidil) NO/cGMP Pathway
+Deactivation of hair matrix cells Hair matrix cells activator
+Wnt pathway
+STAT pathway
+TGF beta/BMP Pathway
+FGF Pathway
+MAPK Pathway
+NOTCH Pathway
+Hedgehog Pathway
+Anti-androgens
+Anti-androgens are used in hormone therapy.
+Anti-androgens are designed to affect the hormones made in the adrenal glands. They don't stop the hormones from being made, but they stop them from having an effect leading to hair loss.
+What causes hair loss?
+Testosterone is reduced to its active metabolite, Dihydrotestosterone (DHT) by the enzyme 5 alpha reductase.
+DHT attaches to androgen receptor sites at the hair follicle.
+DHT causes gradual miniaturization of the follicle, which eventually results in hair loss.
+How do anti-androgens treat hair loss?
+Anti-androgens compete with DHT to bind to the androgen receptor.
+Upon binding of anti-androgen in place of DHT, follicle miniaturization is lowered and hair loss prevented.
+Functions of Anti-androgen
+Anti-androgen
+Functions of Anti-androgen
+IP Map for anti-androgen
+Pat/Pub#
+Nature
+Composition
+Composition action
+US20060009430
+BLOTECH (2004)
+Natural extracts Palmetto berry extract (fatty acids & sterols), Pumpkin seed extract (Vitamins-B, alpha-linolenic acid, amino acids and phytosterols), Quercetin (Flavonoids) and Beta-sitosterol (Rice bran, wheat germ, corn oils and soybeans) Fatty acids – Inhibit testosterone
+Sterols - Mechanism of action unknown.
+Quercetin results in cell growth cycle.
+Beta-sitosterol reduce inflammation on scalp
+US20060009427
+WARNER LAMBERT(2004)
+Organic compound New class of 4-cycloalkoxy benzonitrile derivatives and salts Acts as androgen receptor modulator and blocks formation of DHT.
+US20050085467
+WARNER LAMBERT(2004)
+Organic compound New class of 6-sulfonamido-quinolin-2-one and 6-sulfonamido-2-oxo-chromene derivatives. The compounds inhibit, or decrease, activation of androgen receptor by androgens.
+US20050118282
+APHIOS Corp (2003)
+Natural extracts Supercritical fluid isolate of Saw Palmetto and Sperol (Serenoa repens berry) and their analogs or derivatives. Modulates androgenic activity by inhibiting 5.alpha.-reductase activity.
+US20060009429
+Fundacion Pablo Cassara (2003)
+Nucleotide Pharmacologically active oligonucleotides (encompass both DNA and S-DNA bond) Oligonucleotides inhibit androgen receptor (AR) expression at very low concentrations in skin and hair follicle
+US20030007941
+PFIZER INC (2001)
+Organic compound Thyromimetic compounds (structurally similar to thyronine) with finasteride, or cyproterone acetate Activates thyroid hormone receptors in hair follicle which in turn promote elasticisation of follicle walls and hair follicle
+US20030073616
+N/A (1995)
+Peptides/nucleic acid Bradykinin antagonist (peptide of plasma origin from kininogen precursor-kallikrein) Inhibits synthesis of bradykinin receptors or compounds by binding to B2 receptor
+EP0279010
+KAO Corp (1987)
+Natural extracts Walnut extract (leaves/pericarps) with an organic solvent Blocks formation of DHT
+Minoxidil (Vasodilators)
+Minoxidil is a "potassium channel opener" that leads to vasodilation.
+The drug is available in two forms. Oral minoxidil is used to treat high blood pressure and the topical solution form is used to treat hair loss and baldness.
+What causes hair loss?
+A thick network of tiny veins and arteries line the outer wall of the follicle. Blood pumps through the bulb and hair via this network.
+DHT accumulates in the hair follicles and roots, constricting the blood supply of oxygen and nutrients to the hair roots; which is also seen to possibly contribute towards hair loss.
+How does Minoxidil treat hair loss?
+Minoxidil is applied to the scalp topically, where it dilates blood vessels in the scalp and sustains the hair follicles for longer period of time.
+Minoxidil is thought to have a direct mitogenic effect on epidermal cells, as has been observed both in vitro and in vivo. Though the mechanism of its action for causing cell proliferation is not very clear, minoxidil is thought to prevent intracellular calcium entry. Calcium normally enhances epidermal growth factors to inhibit hair growth, and Minoxidil by getting converted to minoxidil sulfate acts as a potassium channel agonist and enhances potassium ion permeability to prevent calcium ions from entering into cells. (Source)
+Minoxidil sulfate (MS) appears to be the active metabolite responsible for hair growth stimulation.
+Functions of Vasodilators
+Functions of Monoxidil source
+IP Map for Vasodilators
+Pat/Pub#
+Nature
+Composition
+Composition action
+US20040157856
+WARNER LAMBERT(2002)
+Organic compound Benzopyran compounds Rapidly metabolizes, and causes reduced cardiovascular effects as compared to other known potassium channel openers
+US20050053572
+LG HOUSEHOLD & HEALTH CARE(2001)
+Natural extracts Sophora flavescens extract (alkaloids & flavonoids, luteolin-7-glucose and cytosine) Hinokitiol (Taiwan hinoki oil, Aomori, Western Red Cedar oil) and Nicotinamide (Vitamin B complex) Promotes function of cell activity and dilates blood vessels
+Double action (Anti-androgen + Vasodilator)
+Combination of Vasodilator + Anti-androgen (double action) composition for effective treatment of Male-Pattern Baldness.
+What is the problem with using only Anti-androgen therapy?
+Anti-androgen is not effective in addressing the issue of vasocontriction around hair follicles due to sebum oil build up.
+Anti-androgen only prevents binding of DHT to androgen receptors. However, the effects of improper oxygen and nutrient supply to the brain due to vasocontriction still remains and gradually causes hair loss.
+What is the problem with using only Vasodilator (or Minoxidil only) therapy?
+Vasodilator or Minoxidil-based products are generally not effective in stopping hair loss as vasodilators (or Minoxidil) do not block the harmful effects of DHT in the scalp and hair follicles.
+Vasodilators or Minoxidil simply dilate blood vessels in the scalp. However, the harmful DHT still gets produced in the body, enters the scalp and hair follicles causing hair loss.
+How is the combination of Anti-androgens and Vasodilator (or Minoxidil) effective?
+Anti-androgens target the problem of DHT binding to androgen receptors and prevents follicle miniaturization.
+Vasodilators like Minoxidil cause vasodilation and therefore improve supply of oxygen and nutrients to the hair follicle and roots.
+Combination therapy therefore proves to be much more effective than individual therapy.
+Functions of (Anti-androgen + Vasodilators)
+Anti-androgen and Minoxidil
+Functions of (Anti-androgen + Vasodilators)
+IP Map for (Anti-androgen + Vasodilators)
+Pat/Pub#
+Nature
+Composition
+Composition action
+US20060052405
+N/A(2000)
+Peptides Testosterone blocker or vascular toner (Flutamide, cyproterone acetate, spironolactone, progesterone, or analogs or derivatives) and minoxidil mixed along with non-retinoid penetration enhancer and sunscreen Inhibits 5.alpha.-reductase activity (block DHT) and increase blood flow on the scalp
+US20050123577
+L'OREAL(2000)
+Peptides Prostaglandin (polyunsaturated fatty acids) EP-2, EP-3 EP-4 receptor agonist with Minoxidil, 2,4-diaminopyrimidine 3-oxide, and Aminexil, cyclic AMP Minoxidil (designed to mimic nitric oxide's effects) grows hair via prostaglandin-H synthase stimulation. EP-3 and EP-4 are expressed in anagen hair follicles which induce a reduction in the level of cAMP
+US6447762
+COLOMER GROUP(1999)
+Natural extract Hop extract (oil contains terpenes and humulene), Rosemary extract (hydroalcohol), Swertia extract (glycol with a swertiamarin), Silanodiol salicylate (biologically active silicon compound) Inhibits activity of 5-alpha-reductase, protects follicular cell membranes by neutralizing action of oxidation reaction in tissues, stimulates hair follicles and blood circulation to the hair root, supplies oxygen and nutrients to base of follicle, retains humidity, avoids dehydration of scalp
+Hair matrix cell activator
+Hair matrix cell activator is a substance that acts at the matrix cells in the hair follicle preventing their degradation.
+What causes hair loss?
+Stem cells are interspersed within the basal layer of the outer root sheath and in an area called the bulge.
+Stem cells migrate to hair matrix where they start to divide and differentiate, under the influence of substances produced by cells of the dermal papilla.
+Perifollicular matrix cells undergo slow degradation which prevents follicle stimulation.
+Hair follicle activation is required for hair growth and thus inhibition of follicle activation eventually leads to hair loss.
+How does hair cell matrix activator treat hair loss?
+Hair cell matrix activator slows down and inhibits degradation of the perifollicular matrix.
+This leads to an increase in hair follicle matrix cells that differentiate from progenitor stem cells.
+Matrix activator allows activation of hair matrix cells and therefore follicle stimulation leading to hair growth.
+Functions of Hair matrix cell activator
+Hair matrix cell activator
+Functions of Hair matrix cell activator
+IP Map for Hair matrix cell activator
+Pat/Pub#
+Nature
+Composition
+Composition action
+US20020052498
+SHISEIDO(1999)
+Organic compound (2-substituted oxyphenyl) alkanamide derivative and its salt Mechanism of action has not been made clear, having excellent hair follicle activating action and regrowth promoting effect
+US20040071647
+L'OREAL(1998)
+Peptides Metalloprotease (MMP-9) inhibitor (thiol or a hydroxamate) other than chelating calcium ions Reducing the expression of MMPs (Metalloproteases) in the scalp - slows down or inhibits the degradation of the perifollicular matrix (extracellular matrix surrounding the hair follicle)
+Technology mapping based on patents analyzed
+IPMap: Composition nature matrix
+Year
+Organic Compound
+Natural extracts
+Peptides
+Nucleotides
+Natural extract + Organic comp
+2005 .... .... .... .... UNILEVER (1)
+2004 WARNER (1) BLOTECH (1) .... .... KAO (1)
+2003 WARNER (1) APHIOS (1) .... FUNDACION (1) ....
+2002 WARNER (1) .... .... .... ....
+2001 PFIZER (1) LG HEALTH-CARE (1) .... .... ....
+2000 .... .... L’OREAL (1) / N/A (1) .... ....
+1999 SHISEDIO (1) COLOMER (1) .... .... ....
+1998 .... .... L’OREAL (1) .... ....
+1995 .... .... N/A (1) .... ....
+1987 .... KAO (1) .... .... ....
+1982 UNILEVER (1) .... .... .... ....
+Focus of patents
+Focus of patents
+Patent no.
+Rec. no.
+2-substituted oxyphenyl alkanamide derivative having excellent hair growth effect. US20020052498 1
+Thyromimetic compounds, and its role in treating hair loss US20030007941 2
+Saw Palmetto berry extract, pumpkin seed extract, sitosterol and quercetin for the treatment and prevention of the biologically detrimental effects of DHT US20060009430 3
+4-cycloalkoxy benzonitriles and its use as androgen receptor modulators US20060009427 4
+Supercritical fluid isolate of Saw Palmetto, Sperol for inhibition of 5-.alpha.-reductase activity US20050118282 5
+New class of quinolin-2-ones and chromen-2-ones andtheir use as androgen receptor antagonists US20050085467 6
+Antiandrogen oligonucleotides usable for the treatment of dermatological androgen-related disorders US20060009429 7
+Bradykinin antagonists for stimulating or inducing hair growth and/or arresting hair loss US20030073616 8
+Extract from walnut leaves and/or pericarps as 5 alpha -reductase inhibitor EP0279010 9
+Stimulating hair growth using benzopyrans US20040157856 10
+Sophora flavescens extract, Coicis semen extract, clove extract, etc for promoting hair growth, function of cell activity and dilating peripheral blood vessels. US20050053572 11
+Compositions to prevent or reduce hair loss US20060052405 12
+Prostaglandin EP-3 receptor antagonists for reducing hair loss US20050123577 13
+Synergic effect arising from the interaction of active ingredients, consisting of three plant extracts and a synthetic organosilicic compound for prevent hair loss and stimulate hair growth US6447762 14
+Metalloprotease inhibitors to induce and/or stimulate the growth US20040071647 15
+Method of decreasing sebum production and pore size US20050277699 16
+Method for reducing sebum on the hair and skin US4529587 17
+Technology focus
+Technology focus
+Distribution of patents
+By patent types
+Distribution based on patent types
+By key ingredients
+Distribution of key ingredients
+By target disease
+Distribution based on target diseases
+Key ingredients vs. Target disease
+Key ingredients vs. Target disease
+Target species
+Target species
+Mode of administration
+Mode of administration
+Product type vs. Product form
+Product type vs. Product form
+Patents by target diseases
+Target disease/ disorder
+Patent no.
+Rec. no.
+Alopecia areata, alopecia pityrodes or alopecia seborrheica, or androgenic alopecia (i.e. male pattern baldness) US20020052498 1
+Alopecia areata, male pattern baldness and female pattern baldness US20030007941 2
+Androgenic alopecia (i.e. male pattern baldness), prostatic hyperplasia or both. US20060009430 3
+Inappropriate activation of the androgen receptor, acne, oily skin, alopecia US20060009427 4
+Prostatic hyperplasia, prostatic cancer, hirsutism, acne, male pattern baldness, seborrhea, and other diseases related to androgen hyperactivity US20050118282 5
+Alopecia, acne, oily skin, prostrate cancer, hirsutism, and benign prostate hyperplasia US20050085467 6
+Androgen-associated hair loss and androgen-skin related disorders. US20060009429 7
+Androgenetic or androgenic alopecia or androgeno-genetic alopecia US20030073616 8
+Diseases caused by testosterone (male-pattern alopecia) EP0279010 9
+Alopecia areata, female pattern hair loss, hair loss secondary to chemotherapy or radiation treatment, stress-related hair loss, self-induced hair loss, scarring alopecia, and alopecia in non-human mammal US20040157856 10
+Male pattern alopecia US20050053572 11
+Alopecia, androgenic alopecia US20060052405 12
+Hair loss US20050123577 13
+Male pattern alopecia US6447762 14
+Androgenetic, androgenic or androgenogenetic alopecia US20040071647 15
+Curing other scalp related problems US20050244362 16
+List of patents
+Pathways and linkages
+Pathways associated with hair matrix cell activation
+Molecular mediators of hair follicle embryogenesis: Identification of the molecular pathways controlling differentiation and proliferation in mammalian hair follicles provides the crucial link to understanding the regulation of normal hair growth, the basis of hereditary hair loss diseases, and the origin of follicle-based tumors. Homeobox (hox), hedgehog (hh), patched (ptc), wingless (wg}/wnt, disheveled (dsh), engrailed (en), Notch 1 and armadillo/B-catenin genes are all critical for hair follicle.
+Wnt pathway: Maintains hair-inducing activity of the dermal papilla.
+Hedgehog pathway: Sonic hedgehog (SHH) signaling plays a critical role in hair follicle development. Sonic hedgehog gene. Sonic hedgehog, SHH for short, helps guide hair follicles from a resting stage into growth activity. SHH is particularly important in the embryonic formation of hair follicles.
+STAT pathway
+TGF beta/BMP Pathway: Bone morphogenetic protein (BMP) signaling have been implicated in the regulation of both proliferation and differentiation in the hair follicle. BMP2 is expressed in the embryonic ectoderm, but then localizes to the early hair follicle placode and underlying mesenchyme. BMP4 is expressed in the early dermal condensate. Research results show that BMPs are a key component of the signaling network controlling hair development and are required to induce the genetic program regulating hair shaft differentiation in the anagen hair follicle. Transforming growth factor beta (TGF-beta), inhibits mitogen - induced dermal papilla cell proliferation
+FGF Pathway: Fibroblast growth factor (bFGF) and platelet-derived growth factor (PDGF) potentiate the growth of dermal papilla cells. It is proposed that these proteins increase the synthesis of stromelysin (an enzyme, matrix metalloproteinase) which acts on the papilla cells and accelerates their growth.
+MAPK Pathway: Mitogen-activated protein kinase (MAPK) activation, increases keratinocyte turnover.
+NOTCH Pathway: Notch-1 is expressed in ectodermal-derived cells of the follicle, in the inner cells of the embryonic placode and the follicle bulb, and in the suprabasal cells of the mature outer root sheath. Delta-1, one of the three ligands is only expressed during embryonic follicle development and is exclusive to the mesenchymal cells of the pre-papilla located beneath the follicle placode, and appears to promote and accelerate placode formation, while suppressing placode formation in surrounding cells. Other ligands, Serrate 1 and Serrate 2, are expressed in matrix cells destined to form the inner root sheath and hair shaft.
+Pathways associated with Anti Androgen
+Players of WNT inhibition Pathway
+Wnt inhibition
+Patent no.
+Key compound
+Players of inhibition
+US6664247 Pyrazole compounds GSK3
+US6989385 Pyrazole compounds GSK3
+WO2005012256 Pyrazole compounds CDK,GSK3
+US6974819 Pyrimidine derivative GSK3
+US6743791 Heterocyclic compounds AKT3, GSK-3, ERK2
+US20050277773 Pyrrolo[3,2-d]pyrimidine derivatives GSK3
+US20040072836 Aza-oxindole derivatives GSK3, AKT, PKC
+EP1477489 Pyrrolopyrimidine derivatives GSK3
+WO0056710 3-(Anilinomethylene) oxindoles GSK3, AKT, PKC
+WO2003011287 Pyrazolon derivatives GSK3, ß-catenin
+US6924141 Lithium chloride, Wnt3/4/ 7 ß-catenin, GSK3, Wnt
+US6706685 Peptide sequence ß-catenin
+US6683048 Peptide sequence a-catenin, ß-catenin
+US6677116 Peptide sequence LXXLL ß-catenin
+US6303576 Peptide sequence LXXLL ß-catenin
+Role of Pyrazole compounds in Wnt Pathway
+Pyrazole
+Pyrazole (C3H4N2) refers both to the class of simple aromatic ring organic compounds of the heterocyclic series characterized by a 5-membered ring structure composed of three carbon atoms and two nitrogen atoms in adjacent positions and to the unsubstituted parent compound. Being so composed and having pharmacological effects on humans, they are classified as alkaloids although they are not known to occur in nature.
+Pyrazoles are produced synthetically through the reaction of a,ß-unsaturated aldehydes with hydrazine and subsequent dehydrogenation
+Pyrazole (C3H4N2)
+Pyrazoles are used for their analgesic, anti-inflammatory, antipyretic, antiarrhythmic, tranquilizing, muscle relaxing, psychoanaleptic, anticonvulsant, monoamineoxidase inhibiting, antidiabetic and antibacterial activities.
+Structurally related compounds are pyrazoline and pyrazolidine.
+Structurally related compounds
+GSK3 inhibition by pyrazole compounds
+US6989385
+US6664247
+WO2005012256
+R1=T-Ring D, wherein
+T is a valence bond and Ring D = 5-6 membered aryl or heteroaryl ring;
+R2 = hydrogen or C1-4 aliphatic and R2'= hydrogen;
+R3 = -R, -OR, or -N(R4)2, wherein R = hydrogen, C1-6 aliphatic, 5-6 membered heterocyclyl, phenyl, or 5-6 membered heteroaryl, and L is -O-, -S-, or -NH-; and Ring D is substituted by up to three substituents selected from -halo, -CN, -NO2, -N(R4)2, optionally substituted C1-6 aliphatic group, -OR, -C(O)R, -CO2R, -CONH(R<4>), -N(R4)COR, -N(R4)CO2R, -SO2N(R4)2, -N(R4)SO2R, -N(R6)COCH2N(R4)2, -N(R6)COCH2CH2N(R4)2, or -N(R6)COCH2CH2CH2N(R4)2, wherein R = hydrogen, C1-6 aliphatic, phenyl, 5-6 membered heteroaryl ring, or 5-6 membered heterocyclic ring
+X = R1-A-NR4- or a 5- or 6-membered carbocyclic or heterocyclic ring; A is a bond, S02, C=O, NRg(C=O) or O(C=O) wherein Rg is hydrogen or C1-4 hydrocarbyl optionally substituted by hydroxy or C1-4 alkoxy; Y is a bond or an alkylene chain of 1, 2 or 3 carbon atoms in length;
+R1 is hydrogen; carbocyclic or heterocyclic group having from 3 to 12 ring members; or C1-8 hydrocarbyl group optionally substituted by one or more substituents selected from halogen (e.g. fluorine), hydroxy, C1-4 hydrocarbyloxy, amino, mono- or di-C1-4 hydrocarbylamino, and carbocyclic or heterocyclic groups having from 3 to 12 ring members, and wherein 1 or 2 of the carbon atoms of the hydrocarbyl group may optionally be replaced by an atom or group selected from 0, S, NH, SO, S02;
+R2 is hydrogen; halogen; C1-4 alkoxy (e.g. methoxy); or a C1-4 hydrocarbyl group optionally substituted by halogen (e.g. fluorine), hydroxyl or C1-4 alkoxy (e.g. methoxy); R3 is selected from hydrogen and carbocyclic and heterocyclic groups having from 3 to 12 ring members; and
+R4 is hydrogen or a C1-4 hydrocarbyl group optionally substituted by halogen (e.g. fluorine), hydroxyl or C1-4 alkoxy (e.g. methoxy).
+X is a groupR1-A-NR4-or a 5-or 6-membered carbocyclic or heterocyclic ring;
+A is a bond,SO2, C=O, NRg (C=O) or O(C=O) wherein Rg is hydrogen orC14 hydrocarbyl optionally substituted by hydroxy or C1-4 alkoxy;Y is a bond or an alkylene chain of 1,2 or 3 carbon atoms in length;R'is hydrogen; a carbocyclic or heterocyclic group having from 3 to 12 ring members; or a C1-8 hydrocarbyl group optionally substituted by one or more substituents selected from halogen (e. g. fluorine), hydroxy, C1-4 hydrocarbyloxy, amino, mono-ordi-Cl 4 hydrocarbylamino, and carbocyclic or heterocyclic groups having from 3 to 12 ring members, and wherein 1 or 2 of the carbon atoms of the hydrocarbyl group may optionally be replaced by an atom or group selected fromO, S, NH, SO, SO2 ;R2 is hydrogen; halogen;C14 alkoxy (e. g. methoxy); or aC14 hydrocarbyl group optionally substituted by halogen (e. g. fluorine), hydroxyl orC14 alkoxy (e. g. methoxy);R3 is selected from hydrogen and carbocyclic and heterocyclic groups having from 3 to 12 ring members; andR4 is hydrogen or a C1-4 hydrocarbyl group optionally substituted by halogen (e. g. fluorine), hydroxyl or C1-4 alkoxy (e. g. methoxy).
+Inhibition by amine derivatives
+Patent Number: US6989385 Applicant: Vertex Pharmaceuticals Incorporated Title: Pyrazole compounds useful as protein kinase inhibitors
+Basic Structure:
+Derivatives of pyrimidine-pyrazole amine disclosed in US6989385 patent
+Patent Number: US7008948 Applicant: Vertex Pharmaceuticals Incorporated Title: Fused pyrimidyl pyrazole compounds useful as protein kinase inhibitors
+Basic Structure
+Derivatives of pyrimidine-pyrazole amine disclosed in US7008948 patent
+Patent Number: US6977262 Assignee: Mitsubishi Pharma Corporation Title: Dihydropyrazolopyridine compounds and pharmaceutical use thereof
+Basic Structure:
+Derivatives of pyrimidine-pyrazole amine disclosed in US6977262 patent
+Patent Number: US6664247 Assignee: Vertex Pharmaceuticals Incorporated Title: Pyrazole compounds useful as protein kinase inhibitors
+Basic Structure:
+Derivatives of pyrimidine-pyrazole amine disclosed in US6664247 patent
+Patent Number: US2004224944 Assignee: VERTEX PHARMACEUTICALS INC Title: Pyrazole compounds useful as protein kinase inhibitors
+Basic Structure:
+Derivatives of pyrimidine-pyrazole amine disclosed in US2004224944 patent
+Other derivates for alopecia
+GSK-3 Inhibition Mechanism - Phosphorylation
+GSK-3 inhibition targets treatment of chemotherapy-induced alopecia source
+In the canonical Wnt signaling cascade, adenomatous polyposis coli (APC), axin, and GSK3 constitute the so-called destruction complex, which controls the stability of beta-catenin. It is generally believed that four conserved Ser/Thr residues in the N terminus of beta-catenin are the pivotal targets for the constitutively active serine kinase GSK3. GSK3 covalently modifies beta-catenin by attaching phosphate groups (from ATP) to serine, and threonine residues. In so doing, the functional properties of the protein kinase’s substrate (beta-catenin) are modified.
+In the absence of Wnt signals, glycogen synthase kinase (GSK) is presumed to phosphorylate the N-terminal end of beta-catenin, thus promote degradation of beta-catenin and subsequent ubiquitination and proteasomal targeting.
+Exposure of cells to Wnts leads to inactivation of GSK-3 through an as yet unclear mechanism.The phosphoprotein Dishevelled is required, after receptor-ligand interaction, to transduce the signal that results in the inactivation of GSK-3. As a result, beta-catenin is dephosphorylated and escapes the ubiqduitylation-dependent destruction machinery.
+Unphosphorylated beta-catanin accumulates in the cytoplasm and translocates to the nucleus, where it can associate with the TCF/LEFs and become a transcriptional transactivator.
+More details on GSK-3
+Key points
+Beta-catenin phosphorylation at serine 45 (Ser45), threonine 41 (Thr41), Ser37, and Ser33 is critical for beta-catenin degradation. source
+Regulation of beta-catenin phosphorylation is a central part of the canonical Wnt signaling pathway. source
+Ser-X-X-X-Ser (X is any amino acid) motif is obligatory for beta-catenin phosphorylation by GSK3.source
+Beta-catenin phosphorylation/degradation and its regulation by Wnt can occur normally in the absence of Thr41 as long as the Ser-X-X-X-Ser motif/spacing is preserved. [httSp://pubs.acs.org/cgi-bin/abstract.cgi/bichaw/2006/45/i16/abs/bi0601149.html source]
+GK3 Inhibition:
+GSK3 is regulated by phosphorylation.
+Phosphorylation of GSK3beta on Ser9 (Ser21 in GSK3alpha) by protein kinase B (PKB) causes its inactivation is the primary mechanism responsible for growth factor inhibition of this kinase. Activation of GSK3beta is dependent upon the phosphorylation of Tyr216 (Tyr279 in GSK3alpha). Upon activation, it has been shown to phosphorylate a number of different cellular proteins, including p53, c-Myc, c-Jun, heat shock factor-1 (HSF-1), beta-catenin and cyclin D1. source
+GSK3 is inhibited by phosphorylation of serine-9 or serine-21 in GSK3beta and GSK3alpha, respectively. source
+GSK3’s substrate specificity is unique in that phosphorylation of substrate only occurs if a phosphoserine or phosphotyrosine is present four residues C-terminal to the site of GSK phosphorylation. source
+A phosphorylation cascade starts from GSK3 itself and initiates it in beta-catenin. source
+Thus our goal is to stop the phosphorylation of the serine and threonine residue of GSK3.
+The figure below illustrates the phosphorylation mechanism of serine and threonine by ATP.
+Phosphorylation mechanism source
+We can't stop conversion of ADP to ATP that relaseas Phosphorous group causing Phosphorylation.
+We can only block the oxygen atom on serine and threonine as a result which will in turn stop Phosphorylation.
+The two probable ways of blocking the oxygen atom are (a) As oxygen is a Lewis acid with strong electron donating capacity, so usually a strong electron pair acceptor can easily bind to oxygen atom and preventing phosphorylation or (b) breaking of the -OH bond with the carbon atom.
+Serine - pyrazole reaction
+Serine and Pyrazole reaction source
+The T-loop of GSK-3 is tyrosine phosphorylated at Y216 and Y279 in GSK-3b and GSK-3a, respectively, but not threonine phosphorylated. Y216/Y279 phosphorylation could play a role in forcing open the substrate (e.g, beta-catanin)-binding site.
+Thus, T-loop tyrosine might facilitate substrate phosphorylation but is not strictly required for kinase activity.
+Stimulation of cells with pyrazole compounds cause inactivation of GSK-3 through phosphorylation (S9 of GSK-3 beta and S21 of GSK-3 alpha), which inhibits GSK-3 activity. Thus leading to dephosphorylation of substrates (e.g., beta-catanin) resulting in their functional activation and consequent increased hair follicle morphogenisis.
+Phosphorylation of S9/S21 creates a primed pesudosubstrate that binds intramolecularly to the positively charged pocket of the GSK-3. This folding precludes phosphorylation of substrates (eg., beta-catanin) because the catalytic groove is occupied. The mechanism of inhibition is competitive.
+A consequence of this is that primed substrates, in high enough concentrations, out-compete the pesudosubstrate and thus become phosphorylated.
+Thus, small molecule inhibitors modeled to fit in the positively charged pocket of the GSK-3 kinease domain could potentially be very effective for selective inhibition of primed substrates.
+Proposed mechanisms to regulate GSK-3 source
+inactivation of GSK-3 through serine phosphorylation
+activation of GSK-3 through tyrosine phosphorylation
+inactivation of GSK-3 through tyrosine dephosphorylation
+Covalant modifications of substrates through priming phosphorylation
+inhibition or facilation of GSK-3 mediated substrate phosphorylation thriugh interation of GSK-3 with binding or scaffolding proteins
+targeting of GSK-3 to different subcellular localizations
+differential usage of isoforms or splice variants to alter subcellular localization or substrate specificity
+integration of parellel signals conveyed by a signal stimulus.
+Key Finding
+Pyrazole compounds with inhibition constant (Ki) of <0.1 mM are a good starting point for developing molecules that can inhibit serine/threonine protein kinase (such as GSK-3) and the proteins they help to regulate. source
+Pathway associated with anti-androgen
+Dihydrotestosterone
+Formed by peripheral conversion of testosterone by 5-alpha reductase
+Binds to androgen receptor on susceptible hair follicles
+Hormone-receptor complex activates genes responsible for gradual transformation of large terminal follicles to miniaturized (progressive diminution of hair shaft diameter and length in response to systemic androgens) follicles
+Structure-Activity Relationships(SARs)
+Pathway associated with Minoxidil (vasodilators)
+Minoxidil is a well know drug used for the treatment of alopecia. A co-relation between Sesquiterpene lactone (Helenalin) produced from Arnica montana and Minoxidil is illustrated in the figure below. Arnica montana, a Vasodilator, acts on the NO/cGMP Pathway through T-cells, B-cells and epithelial cells & abrogates kappa B-driven gene expression.
+Alopecia IPMap
+Dolcera IPMap for Alopecia
+Patent activity in China
+Treatment approaches
+Treatment approach Patent number Priority year Assignee/Inventor
+Vasodilators CN1772105 2005 叶明伟
+CN1772139 2005 王亚杰
+CN1569080 2003 谈汝标
+CN1506103 2002 赵章光
+CN1403100 2001 范希田
+CN1165181 1996 殷国健
+CN1031022 1988 天津市轻工业化学研究所
+Hair matrix activator CN1463693 2002 朱静建
+Anti-androgen + Vasodilator CN1150043 1996 梅晓春
+Details of treatment approaches
+Patent number Patent title Treatment approach Composition nature Composition Composition action
+CN1772105
+YE MINGWEI (CN)
+叶明伟 (2005) Chinese herbal medicine decoction for treating blood stasis obstruction type alopecia and its prepn
+治疗瘀血阻滞型脱发的中草药汤剂及制备方法 Vasodilators Herbal extract Astragalus root, prepared rhizome of rehmannia, white peony root, angelica, peach kernel and sufflower Promote blood circulation
+CN1772139
+WANG YAJIE (CN)
+王亚杰 2005 Alopecia areata treating medicine
+一种治疗斑秃的药物 Vasodilators Herbal extract Pinellia tuber, fleeceflower root, arborvitae seed, chickení s gizzard membrane, prepared rhizome of rehmannia, Poris cocos, Codonopsis pilosula, etc Promote blood circulation
+CN1569080
+TAN RUBIAO (CN)
+谈汝标 2003 Natural Chinese herb composition for treating alopecia and leucotrichia and its application
+一种可用于治疗脱发、白发的天然中草药提取组合物及应用 Vasodilators Herbal extract Ginger, Cinnamomum cassia, myrrh, clove, mace nutmeg, Loranthus mulberry mistletoe, rhizoma dioscoreae, ligustrum japonicum, drynaria, fleece-flower root, and black sesame seeds Enhances the hair growth and healthier hairs
+CN1463693
+朱静建 2002 Hair growing preparation containing compound of Chinese medicine and Western medicine
+一种含中西药复方的育发剂 Hair matrix activator Mixture of Herbal extracts and western medicine Persimmon leaf, oriental arbor-vitae leaf, ginseng leaf, yellow qi, fruit of the glossy privet, polygonum multiflorum, Kudzu root, dry ginger; Plus：Minoxidil, Vitamins and derivative, cystine, serine, leucine. Better and faster hair growth
+CN1506103
+赵章光2002 Hair follice activating liquid
+毛囊激活液 Vasodilators Herbal extract Ginseng, twists the stock blue, the licorice, the Sophora flavescens and hot peppers Activates the hair-follicle and enhances the hair growth.
+CN1403100
+范希田 2001 Trichogen and its prepn
+一种止脱生发药物及其制备方法 Vasodilators Herbal extract Ginseng, ganoderma lucidum, Chinese rhubarb, polygonum multiflorum, Chinese prickly ash, ginger, grass seed Promote blood circulation and enhance hair growth
+CN1165181
+殷国健 1996 Washing free shampoo for nourishing and growing hair
+免洗养发生发香波 Vasodilator Vitamin composition Vitamin P (Bioflavonoids), Vitamin B15, Vitamin B2, nicotinic acid, bromo—geramineum Stimulate hair growth
+CN1150043
+梅晓春 1996 Efficient low-side effect external use medicine for curing seborrheic baldness
+一种治疗脂溢性脱发的高效低副作用外用药物 Anti-androgen + Vasodilator Mixture of Herbal extracts and organic compounds Polygonum multiflorum, Ligustrum lucidum, Morus alba, Rehmannia glutinosa, Eclipta prostrata, Saliva miltiorrhiza, Carthamus tinctorius, Cnidium monnieri, Sophora flavescens, Dictamnus dasycarpus, Kochia scoparia, and antioxidants Inhibit the excess secretion of the sebaceous glands, increase the blood circulation on scalp and enhance the hair growth
+CN1031022
+天津市轻工业化学研究所 1988 Channel-stimulating and hair-growing hair shampoo
+一种通络生发香波 Vasodilators Herbal extract + detergent Herbal extracts, Penetration media, Detergents. Increases the blood circulation under the scalp, reduces the hair los
+Like this report?
+This is only a sample report with brief analysis
+Dolcera can provide a comprehensive report customized to your needs
+Buy the customized Alopecia report from Dolcera
+Patent Analytics Services Market Research Services Purchase Patent Dashboard
+Patent Landscape Services Dolcera Processes Industry Focus
+Patent Search Services Patent Alerting Services Dolcera Tools
+Conclusions
+Hair loss medication is a very active area of research and intellectual property development.
+One of the most promising areas of development is the area of Anti-androgens.
+The top companies are Merck, L’Oreal and Smithkline.
+Contact Dolcera
+Contact Dolcera
+Email: info@dolcera.com
+Phone: +1-650-269-7952
+Retrieved from "https://www.dolcera.com/wiki/index.php?title=Alopecia_-_Hair_Loss&oldid=11085"
+Navigation menu
+Personal tools
+English
+Log in
+Namespaces
+Page
+Discussion
+Variants
+Views
+Read
+View source
+View history
+More
+Search
+Navigation
+Main Page
+Community portal
+Current events
+Recent changes
+Random page
+Help
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Download PDF
+This page was last modified on 4 December 2014, at 04:04.
+This page has been accessed 2,610,759 times.
+Privacy policy
+About DolceraWiki
+Disclaimers
+Mobile view

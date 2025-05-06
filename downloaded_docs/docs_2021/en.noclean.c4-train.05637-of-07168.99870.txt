@@ -1,0 +1,264 @@
+Anemia - Psychiatry Advisor
+Skip to navigation Skip to main content
+Menu
+Close
+Search...
+Submit
+Anxiety
+Open Submenu
+Anxiety
+Back
+PTSD
+Mood Disorders
+Open Submenu
+Mood Disorders
+Back
+Bipolar Disorder
+Depressive Disorder
+Schizophrenia
+Neurocognitive
+Open Submenu
+Neurocognitive
+Back
+Alzheimer Disease and Dementia
+Parkinson Disease
+Sleep-Wake
+Open Submenu
+Sleep-Wake
+Back
+Insomnia Disorder
+Addiction
+Open Submenu
+Addiction
+Back
+Tobacco-Use Disorder
+Cannabis-Use Disorder
+Opioid-Related Disorder
+More
+Open Submenu
+More
+Back
+ADHD
+Autism Spectrum Disorders
+Child/Adolescent Psychiatry
+Eating Disorders
+General Psychiatry
+Geriatric Psychiatry
+Neurodevelopmental Disorder
+Practice Management
+Toggle Search Menu
+News
+CME
+Drugs
+Meetings
+Clinical Charts
+Resources
+Multimedia
+Jobs
+Login
+Register
+Home » Decision Support in Medicine » Hematology
+Hematology
+Anemia
+Alessandro Ghidini
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Share on Reddit
+Print
+Share by Email
+Anemia
+1. What every clinician should know
+Clinical features and incidence
+Definition: Hemoglobin (Hgb) concentration lower than 11 g/dL in the first and third trimester, or lower than 10.5 g/dL in the second trimester.
+Epidemiology: 23% of pregnant women in industrialized countries and 52% of pregnant women in non-industrialized countries.
+The most common cause of maternal anemia is iron deficiency (75% of cases).
+As anemic patients are usually asymptomatic, this condition may often be undiagnosed. Therefore, all pregnant women should have an Hgb and mean corpuscolar volume (MCV) evaluated.
+The key issue in anemia evaluation is the definition of the underlying mechanism, which leads to different therapies and different clinical implications.
+Women with chronic mild anemia may go through pregnancy and labor without symptoms. Symptoms occur when anemia becomes moderate to severe or when it has a rapid onset without the possibility of compensation.
+Symptoms result from:
+Tissue hypoxia: pallor, decreased work capicity, weakness, exertional dyspnea.
+Cardiovascular attempts at compensation: increased cardiac output and heart rate, which cause palpitations and tachycardia; in case of severe anemia these compensatory mechanisms are inadequate to deal with Hgb reduction and can lead to circulatory decompensation, with acidosis, pulmonary edema and death. When Hgb is lower than 5 g/dL, cardiac failure occurs in a third of cases; therefore, signs of decompensation are an indication for urgent treatment.
+The underlying cause.
+Pathophysiology
+The most common cause of maternal anemia is iron deficiency (75% of cases). Some degree of iron deficiency is physiologic during gestation and is related to hemodilution, due to which Hgb concentration reaches the nadir at 24-32 weeks. However, the requirements for absorbed iron increase gradually through gestation, from 0.8 mg/day in the first trimester to 7.5 mg/day in the third trimester. The absorbed iron is used to (a) expand the erythrocyte mass; (b) compensate for iron losses (i.e. blood losses during delivery); and (c) ensure adequate oxygenation and iron intake to the fetus. This request can not be suited only by diet, so a considerable amount of iron is recycled from the body’s iron reserves.
+About 42% of fertile women have small iron reserves even before pregnancy; further iron demand causes the depletion of iron storages and consequently anemia.
+2. Diagnosis and differential diagnosis
+Initial evaluation: complete blood count (CBC) with Hgb and MCV. Anemia is defined as Hgb concentration lower than 11 g/dL in the first and third trimester,or lower than 10.5 g/dL in the second trimester. Severe anemia is defined as Hgb concentration lower than 8.5 g/dL Physiologic changes that occur during gestation should not be confused with anemia: during pregnancy, the increase in plasma volume of about 50% is only partly compensated by an increase in the erythrocite mass of about 25%, resulting in hemodiluition, which leads to an alteration of some blood tests even in non-anemic pregnant women. (Figure 1)
+Figure 1.
+Changes in hematology laboratory results with pregnancy
+Evaluation of anemia starts with MCV:
+Microcytic (MCV less than 80 fL): obtain serum ferritin and Hgb electrophoresis.
+Normocytic (MCV 80-100 fL): check reticulocite count to determine whether anemia is secondary to hemolysis or to underproduction.
+Macrocytic (MCV greater than 100 fL): obtain serum vitamin B 12 and folate.
+However, mixed nutritional deficiencies (e.g. folate and iron) often lead to normocytic anemia, and most anemias at the beginning are normocytic.
+Another useful indicator of anemias due to nutritional deficiencies is red cell distribution width (RDW), which increases above 15% in case of iron, folate or vitamin B 12 deficiency.
+The patient history and some peculiar signs or symptoms may point the physician to a specific cause of anemia:
+Iron deficiency is associated to headache, tinnitus, glossitis, koilonychia and pica.
+Folate deficiency is characterized by glossitis and roughness of skin.
+Severe vitamin B 12 deficiency may lead to neurologic manifestations.
+Jaundice is a manifestation of hemolytic anemia.
+Systemic chronic diseases (chronic infections, renal failure, chronic liver disease, neoplasms, etc.) are associated with systemic deterioration as well as specific organ symptoms.
+Patients with aplastic anemia seek medical attention because of symptoms related to profound anemia, bleeding or infection.
+Certain types of congenital anemias are most frequently found in specific ethnic groups; therefore, all individuals of African ancestry should have a hemoglobin electrophoresis.
+Microcytic anemia
+First, rule out iron deficiency obtaining serum ferritin. If the serum ferritin is less than 12 ng/mL, there is an iron deficiency. If it is greater than 20 ng/mL, obtain Hgb electrophoresis. A pathological electrophoresis: hemoglobinopathies. If the electrophoresis is normal, suspect α-thalassemia trait, anemia of chronic disease (elevated PRC protein and free erythrocyte protoporphyrine) or aplastic anemia (bone marrow). (Figure 2)
+Figure 2.
+Algorithm of diagnostic work-up of microcytic anemia
+Normocytic anemia
+Obtain reticulocyte count
+A reticulocyte count of 3% or more: hemolysis or blood loss.
+Haptoglobin and peripheral smear: elliptocytosis, spherocytosis, sickle cells disease.
+Direct Coombs test: autoimmune hemolytic anemia.
+Hgb electrophoresis to exclude sickle cells anemia.
+Hemoccult or other tests if other sources of blood loss are suggested by history.
+A reticulocyte count less than 0.2%: underproduction
+Low serum ferritin: iron deficiency anemia.
+If normal or high serum ferritin obtain a bone marrow biopsy: normoblastic (chronic disease or hypotyroidism), megaloblastic (Vitamin B 12 or folate deficiency) or sideroblastic (hematologic disorders). (Figure 3)
+Figure 3.
+Algorithm of diagnostic work-up of normocytic anemia
+Macrocytic anemia
+Dose serum Vitamin B 12 and folate: Low Vitamin B 12: Vitamin B 12 deficiency
+Serum intrinsic factor antibody: pernicious anemia.
+History of bariatric surgery.
+Other causes of malabsorbtion (chronic inflammatory bowel diseases, ileal resection).
+Low folate: folate deficiency.
+Normal Vitamin B 12 and Folate: obtain a bone marrow biopsy (normoblastic, sideroblastic, megaloblastic). ( Figure 4)
+Figure 4.
+Algorithm of diagnostic work-up of macrocytic anemia
+Bone marrow biopsy is rarely performed in pregnant women. However, it becomes necessary in case of suspected hematologic disorders.
+Other invasive exams (i.e. gastroscopy) have to be performed in cases of occult blood loss due to a suspected neoplasm.
+Usually, no imaging studies have to be performed. CT scans are very seldom carried out to locate a possible neoplasm.
+3. Management
+Therapy depends on the cause of anemia. Since iron deficiency is the most common, the first therapy of anemia is the replacement one.
+Oral therapy
+High dose (up to 120-150 mg/day) of oral iron (ferrous sulfate, fumarate or gluconate).
+Absorption is increased by intake of iron on an empty stomach and by concomitant intake of Vitamin C.
+Absorption decreases with increasing doses: divide high doses into 2-3 administrations.
+To minimize gastrointestinal side effects suggest gradual introduction of the medication and intake at bedtime.
+Check serum reticulocytes and Hgb after 7-10 days of therapy to document appropriate increase.
+Parenteral therapy
+Indications: Hgb lower than 9 g/dL; lack of response to oral iron; intolerance to oral therapy; lack of compliance; malabsorption; desire for rapid anemia treatment (e.g. advanced gestational ages, Jehovah’s witness).
+Compared with standard oral preparations, intravenous administration is associated with: better maternal Hgb after 4 weeks, lower gastrointestinal side effects, higher risk of venous thrombosis, no significant differences in the need of blood transfusions and in neonatal outcomes.
+Calculation of intravenous iron dose: BV (Blood Volume) = 65 mL * weight (Kg) /100; Hgb deficit = 12 g/dL (goal in pregnancy) – actual Hgb; Iron in each g of Hgb = 3.3; IV iron dose (mg) = BV * Hgb deficit * 3.3
+Supplementation is also the therapy for anemia related to other deficiencies:
+Pernicious anemia: Vitamin B 12 350 mcg/day sublingually plus 1000 mcg IM every three months if needed.
+Folate deficiency anemia: Folic acid 4 mg/day.
+However, the key issue in anemia therapy is the definition and treatment of the underlying cause.
+Prevention of iron-deficiency anemia:
+In the U.S., supplementation with 30 mg of elemental iron is recommended for all pregnant non-anemic women.
+Routine supplementation reduces anemia and improves iron status in mother and newborns; however, no significant differences in clinical outcomes have been demonstrated.
+Subcutaneous erythropoietin (with or without iron therapy):
+Indications: severe anemia, anemia due to renal failure or other chronic diseases.
+Expensive medication.
+Side effects: flu-like illness, red cell-aplasia.
+Blood transfusion:
+Indications: associated hypovolemia from blood loss; preparation for an operative delivery in case of severe anemia.
+Side effects: risk of infection (HIV, HBV, HCV), fluid overload, allergic reactions.
+A nutrition consult should be obtained for patients with iron, folate or Vitamin B 12 anemia.
+4. Complications
+Maternal consequences
+Severe anemia is the cause of 40% of maternal deaths in undeveloped countries.
+Anemia makes the immune status of pregnant women worse: prevalence of morbidity due to infections is doubled in women with Hgb below 8 g/dL; anemia, even if mild, is associated to asymptomatic bacteriuria, often refractory to treatment.
+Severe anemia can lead to circulatory failure and death; maternal mortality rate increases drastically when Hgb falls below 5 g/dL.
+Fetal consequences
+A fall in maternal Hgb below 11 g/dL is associated with a significant rise in perinatal mortality rate (two- to three-fold increase if Hgb is less than 8 g/dL, eight- to 10-fold increase if Hgb is less than 5 g/dL);
+Hgb less than 8 g/dL is associated with a significant fall in birthweight due to increase in prematurity rate and intrauterine growth retardation.
+Anemia and iron deficiency in the mother are not associated with significant degree of anemia in the baby; however, newborns of anemic women have low iron stores and are fed with low iron content-breast milk; thus a high proportion of these infants become anemic by six months.
+Most of the adverse outcomes of anemia can be minimized by keeping Hbg values greater than 8.5 g/dL. Thus, therapy must be started immediately: with oral iron therapy reticulocytosis should be observed after 7-10 days and the Hgb can rise by as much as 1 g/week in severely anemic patients.
+5. What is the evidence for specific management and treatment recommendations
+“Centers for Disease Control and Prevention. CDC criteria for anemia in children and childbearing-aged women”. MMWR. vol. 38. 1989. pp. 400(Brief review of changes in hemoglobin and hematocrit in pregnancy; useful table of normality values throughout pregnancy.)
+Klebanoff, MA, Shiono, PH, Selby, JV. “Anemia and spontaneous preterm birth”. Am J Obstet Gynecol. vol. 164. 1991. pp. 59(Study on relationship between maternal anemia and prematurity.)
+Scanlon, KS, Yip, R, Schieve, LA. “High and low hemoglobin levels during pregnancy: differential risk for preterm birth and small for gestational age”. Obstet Gynecol. vol. 96. 2000. pp. 741(Effects of maternal anemia on fetal growth and prematurity.)
+“American College of Obstetricians and Gynecologists”. Anemia in pregnancy. Practice Bulletin #95, July 2008. (Useful and comprehensive review of the effects of anemia on pregnancy, evaluation algorithms and appropriate therapy.)
+Pena-Rosas, JP, Viteri, FE. “Effects of routine oral iron supplementation with or without folic acid for women during pregnancy. Cochrane Pregnancy and Childbirth Group”. Cochrane Database Syst Rev. 2009. (Comprehensive review of the effect of routine iron replacement on pregnancy outcome.)
+Reveiz, L, Gyte, GML, Cuervo, LG. “Treatments for iron-deficiency anaemia in pregnancy. Cochrane Pregnancy and Childbirth Group”. Cochrane Database Syst Rev. 2009. (Comprehensive review of the effect of iron therapy in the presence of maternal anemia.)
+Copyright © 2017, 2013 Decision Support in Medicine, LLC. All rights reserved.
+No sponsor or advertiser has participated in, approved or paid for the content provided by Decision Support in Medicine LLC. The Licensed Content is the property of and copyrighted by DSM.
+Powered By Decision Support in Medicine.
+Jump to Section
+Anemia
+1. What every clinician should know
+Clinical features and incidence
+Pathophysiology
+2. Diagnosis and differential diagnosis
+Microcytic anemia
+Normocytic anemia
+Macrocytic anemia
+3. Management
+Oral therapy
+Parenteral therapy
+4. Complications
+Maternal consequences
+Fetal consequences
+5. What is the evidence for specific management and treatment recommendations
+Recommended For You
+Recent Posts
+Low Scam Awareness May Indicate Alzheimer Risk in Seniors
+Barriers to Opioid Use Disorder Treatment Should Be Addressed
+Childhood Trauma Associated With Increased Risk for Suicide in Schizophrenia
+Attention Bias Modification Treatment Effective for Treatment-Resistant Anxiety in Youth
+Social Anxiety Disorder Increases the Risk for Alcohol Use Disorder
+Want to read more?
+Please login or register first to view this content.
+Login
+Register
+Open
+Next post in Hematology
+Close
+Peripheral T cell lymphoma, unspecified
+Back to Top
+Topics
+Addiction
+Alzheimer's Disease & Dementia
+ADHD
+Anxiety
+Geriatric Psychiatry
+Mood Disorders
+Neurocognitive Disorders
+Neurodevelopmental Disorder
+Personality Disorders
+PTSD Trauma and Stressor-Related
+Schizophrenia and Psychoses
+Sleep-Wake Disorders
+More Topics
+Features
+News
+Therapies
+Opinion
+Practice Management
+Resources
+Drug Database
+Clinical Charts
+CME
+Submissions
+Conferences
+Site Information
+About Us
+Advertise
+Contact Us
+Other Haymarket Medical Websites
+Cancer Therapy Advisor
+Clinical Advisor
+Clinical Pain Advisor
+Dermatology Advisor
+Endocrinology Advisor
+Hematology Advisor
+Infectious Disease Advisor
+McKnight's Senior Living
+Medical Bag
+MPR
+myCME
+Neurology Advisor
+Oncology Nurse Advisor
+Pulmonology Advisor
+Renal and Urology News
+Rheumatology Advisor
+The Cardiology Advisor
+Copyright © 2019 Haymarket Media, Inc. All Rights Reserved
+This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.
+Your use of this website constitutes acceptance of Haymarket Media’s Privacy Policy and Terms & Conditions.
+Close more info about Anemia
+Loading...
+Close more info about Anemia
+Loading...

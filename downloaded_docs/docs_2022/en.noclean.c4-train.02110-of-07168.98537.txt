@@ -1,0 +1,143 @@
+Cancers linked to inherited mutations | CancerQuest
+Skip to main content
+Select your language
+EnglishEspañolChinese, Simplified(简体中文)
+Providing reliable information about cancer biology and treatment
+Menu
+Main navigation
+For Patients
+Cancer Biology
+Media Center
+About Us
+Newsroom
+Give
+Search
+Search
+View PDF
+Cancers linked to inherited mutations
+Most cancers are thought to arise because of changes that occur during the lifetime of the affected person. Some cancer have been linked to defective (mutant) genes that are inherited from the person's parent(s). The cancer itself is not inherited, but the defective genes make it more likely that particular cancers will occur. Families with these genes can have much more cancer than others.
+The National Cancer Institute’s list of common cancer-related inherited genetic mutations includes mutations that affect several different tumor suppressor genes. The cancers caused by inherited changes to tumor suppressor genes include breast cancer, ovarian cancer, prostate cancer, leukemia, pancreatic cancer, and colon cancer.123
+NOTE: Only a portion of each of these cancer types is linked to inherited mutations. The rest of the cases are called ‘sporadic’, and they are not hereditary.
+Many cancers are now routinely tested to see if they are candidates for treatment with targeted drugs. This includes some of those linked to hereditary cancer syndromes and a growing list of other cancers.
+Because the cancers on the list below can be due to inherited gene mutations, many people diagnosed with them chose to get tested to see if they have the gene of interest. 45
+Learn about genetic testing at the Winship Cancer Institute of Emory University.
+Learn more about targeted cancer treatments.
+Below are short descriptions of some of the better understood hereditary cancers:
+Hereditary Breast Cancer
+Li-Fraumeni syndrome
+Cowden syndrome
+Lynch syndrome
+Familial Adenomatous Polyposis
+Retinoblastoma
+Multiple Endocrine Neoplasia
+Von-Hippel Lindau Syndrome
+Hereditary breast cancer and ovarian cancer
+Genes: BRCA1, BRCA2
+Related cancer types: Female breast and ovarian cancers, and other cancers, including prostate, pancreatic, and male breast cancer
+BRCA1 and BRCA2 are tumor suppressor genes; their protein products are responsible for preventing uncontrolled cell division. Specifically, the BRCA1 and BRCA2 proteins are involved in repairing DNA damage and controlling other genes. The reason why mutations in these genes are specifically linked to breast and ovarian cancer is not completely clear, but it may be linked to the hormone estrogen. Breast and ovarian cells depend on the hormone estrogen to reproduce –and they respond to changing levels of estrogen (levels of estrogen are effected by the menstrual cycle and puberty, for example). The rapid division caused by estrogen may lead to increased mutation in these genes and the subsequent development of cancer. 678
+Li-Fraumeni syndrome
+Gene: TP53
+Related cancer types: Breast cancer, soft tissue sarcoma, osteosarcoma (bone cancer), leukemia, brain tumors, adrenocortical carcinoma (cancer of the adrenal glands), and other cancers.
+The TP53 gene (also known as p53) codes for a very important tumor suppressor protein. It is involved in many activities that prevent cells from dividing uncontrollably. The important activities regulated by p53 include DNA repair, cell death (apoptosis), and control of the cell cycle. It is referred to as a “gatekeeper” gene, since its job is to ultimately protect the body from tumor formation. Inherited mutations in TP53 cause a person to be very susceptible to many kinds of cancers, since it is one of they body’s main defenses against cancer-causing activities.9101112
+Cowden syndrome (PTEN hamartoma tumor syndrome)
+Gene: PTEN (phosphatase and tensin homolog)
+Related cancer types: Breast, thyroid, endometrial (uterine lining), and other cancers
+PTEN is also a tumor suppressor gene. Like TP53, if PTEN is defective, cells may continue dividing, even though cancer-causing changes may be present. Specifically, the product of PTEN controls whether or not cells respond to messages telling them to either divide or undergo apoptosis (the cell version of suicide). If regulation of these messages is disabled, cells may end up dividing out of control, and a tumor may form. PTEN mutations are responsible for Cowden syndrome, which includes the formation of many hamartomas, which are non-malignant growths. Mutations also lead to an increased risk for breast cancer, thyroid cancer, and endometrial cancer (cancer of the uterine lining).131415
+Lynch syndrome (hereditary nonpolyposis colorectal cancer)
+Genes: MSH2, MLH1, MSH6, PMS2, EPCAM
+Related cancer types: Colorectal, endometrial, ovarian, renal pelvis, pancreatic, small intestine, liver and biliary tract, stomach, brain, and breast cancers
+The genes involved in Lynch syndrome are DNA mismatch repair genes. The proteins encoded by these genes are responsible for correcting mistakes made during when DNA is copied (DNA replication). When these genes are defective, the proteins cannot repair DNA properly. Often, the cancers associated with Lynch syndrome can be identified by ‘microsatellite instability’. Microsatellite is a term for a repeating sequence of DNA, such as CGCGCGCGG or TATATATAT. The human genome has many of these repeating sequences. Microsatellite instability means that the mutations specifically occur in these repeating sequences of DNA. Usually, there is a loss or gain of some repeats (i.e. CAGCAGCAG turns into CAGCAG). The changes in the repeated sequences can affect the stability of the DNA and can lead to cancer of many kinds.678
+Familial adenomatous polyposis
+Gene: APC (adenomatous polyposis coli)
+Related cancer types: Colorectal cancer, tumors in the small intestine, brain, stomach, bone, skin, and other tissues. Also associated with non-cancerous (benign) growths (polps) of the colon and small intestine.
+APC is a tumor suppressor gene that controls how often a cell divides, how cells stick to each other, and cell movement. APC is also involved in DNA damage detection, and works with other proteins involved in cell-cell communication. Many different mutations in APC are known to cause familial adenomatous polyposis, a condition associated with the development of many, frequently hundreds, of polyps. It is very likely that at least one of the polyps will become cancerous at some time in the patient’s life. A defective APC protein can also cause desmoid tumors, which are thick benign tumors that arise from connective tissue.16171819
+Retinoblastoma
+Gene: RB1 (retinoblastoma)
+Related cancer types: Eye cancer (cancer of the retina), pinealoma (cancer of the pineal gland), osteosarcoma, melanoma, and soft tissue sarcoma
+The RB1 gene codes for the Rb protein, which is a tumor suppressor. Rb is responsible for halting cell division if conditions are not optimal (i.e. there is DNA damage that must be repaired, or the cell is stressed in some way). It has roles in controlling other proteins involved in DNA replication, apoptosis, and cell maturation (differentiation). When there is a mutation in the RB1 gene, the Rb protein may not work, so cell growth goes unregulated. For reasons that are not completely clear, changes to RB1 tend to cause cancer in the eye, specifically in the retina. When one mutated copy of the retinoblastoma gene is inherited (causing cancers known as germinal or familial retinoblastoma), the mutant gene is present in every cell in the body, leaving the person highly susceptible to other types of cancer, primarily the pineal gland, bones, soft tissue and skin.2021222324
+Multiple endocrine neoplasia type 1 (Wermer syndrome)
+Gene: MEN1
+Related cancer types: Pancreatic endocrine tumors and (usually benign) parathyroid and pituitary gland tumors
+MEN1 codes for a tumor suppressor protein called menin. The exact function of menin is unknown, but it appears to be involved in regulating cell division, DNA repair, and apoptosis. Over a thousand different mutations in the MEN1 gene are known to cause multiple endocrine neoplasia type 1. MEN type 1 involves tumor growth in endocrine glands (the glands in the body that produce hormones). The endocrine glands commonly affected by multiple endocrine neoplasia type 1 are the parathyroid gland, the pituitary gland, and the pancreas. Usually, a mutation in MEN1 leads to a shortened version of the menin protein, which is unstable and easily broken down. When this happens, one copy of the MEN1 gene does not produce a functioning menin protein. If a mutation arsies in the second copy (which is common in endocrine glands, although the reason for this is unknown) the cell cannot produce any functional menin at all, which can lead to uncontrolled cell division and cancer.252627282930
+Multiple endocrine neoplasia type 2
+Gene: RET
+Related cancer types: Medullary thyroid cancer and pheochromocytoma (benign adrenal gland tumor)
+The RET gene is a proto-oncogene that is involved in cell signaling. It spans the cell membrane, and acts as a receptor for signals that help cells respond to changes in their environment. MEN2 can be divided into three subtypes: MEN2A, MEN2B, and Familial Medullary Thyroid Carcinoma (FMTC). Most mutations in the RET gene that cause MEN2 are very small (point) mutations that change only one amino acid in the protein. Many of these mutations are associated with inherited (familial) medullary thyroid cancer.2728313230
+Von Hippel-Lindau syndrome
+Gene: VHL
+Related cancer types: Kidney cancer and multiple noncancerous tumors, including pheochromocytoma
+The VHL gene works with other proteins to form the VCB-CUL2 complex. This complex causes other proteins in the cell to be broken down when they are damaged or no longer needed. One target of the VCB-CUL2 complex is hypoxia-inducible factor-2-alpha (HIF-2a). HIF-2a coordinates the body’s response to changes in oxygen levels by controlling cell division, and the formation of new blood vessels and red blood cells. When oxygen levels are normal, the VCB-CUL2 complex puts the brakes on HIF-2a. When VHL is mutated, the VCB-CUL2 complex cannot function properly, and can’t degrade HIF-2a or other proteins when they are damaged or not needed. HIF-2a may then stimulate excessive cell division and blood vessel formation, which leads to tumor and cyst formations, both characteristic of Von Hippel-Lindau syndrome.3334353637
+Hereditary Cancer Resources
+Risks for Hereditary Cancers
+Hereditary Breast and Ovarian Cancer
+Li-Fraumeni Syndrome
+Cowden Syndrome
+Lynch Syndrome
+Familial Adenomatous Polyposis
+Multiple Endocrine Neoplasia Type 1
+Multiple Endocrine Neoplasia Type 2
+Von-Hippel Lindau Syndrome
+Detection and Diagnosis of Hereditary Cancer
+Genetic Testing and Counseling at Emory Winship Cancer Institute
+Genetic Testing Fact Sheet (NCI)
+Family Cancer Syndromes
+Hereditary Cancer Treatments
+Hereditary Breast and Ovarian Cancer
+Li-Fraumeni Syndrome
+Cowden Syndrome
+Lynch Syndrome
+Familial Adenomatous Polyposis
+Multiple Endocrine Neoplasia Type 1
+Multiple Endocrine Neoplasia Type 2
+Von Hippel-Lindau Disease
+International Hereditary Cancer Resources
+Hereditary Breast Cancer (India)
+Cancer and Heredity (Australia)
+Genetic Ovarian Cancer Risk (Australia)
+Genetic Breast Cancer Risk (Australia)
+Genetic Cancer Risk Assessment (UK)
+1. Cancer.gov website: Genetic testing fact sheet. Reviewed April 2013. [http://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet]
+2. Larki P, Khoshbakht S, Rezaei N. Genetics of neoplasia: inherited monogenic defects associated with cancers. Acta Med Iran. 2014;52(1):91-2. [PUBMED]
+3. Foulkes WD. Inherited susceptibility to common cancers. N Engl J Med. 2008 Nov 13;359(20):2143-53. [PUBMED]
+4. NIH Genetics Home Resource: Genetic Testing. Published August 3, 2015 [http://ghr.nlm.nih.gov/handbook/testing/procedure]
+5. NCI - Genetic Testing for Hereditary Cancer Syndromes Reviewed April 2013 [http://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet]
+6. a. b. Tiwari AK, Roy HK, Lynch HT. Lynch Syndrome in the 21st Century: Clinical Perspectives. QJM. 2015 Jul 29. pii: hcv137. [Epub ahead of print] [PUBMED]
+7. a. b. Boland CR, Goel A. Microsatellite instability in colorectal cancer. Gastroenterology. 2010 Jun;138(6):2073-2087 [PUBMED]
+8. a. b. NIH Genetics Home Reference: Lynch Syndrome Published 08-03-1025 [http://ghr.nlm.nih.gov/condition/lynch-syndrome]
+9. Bougeard G, Renaux-Petel M, Flaman JM, Charbonnier C, Fermey P, Belotti M, Gauthier-Villars M, Stoppa-Lyonnet D, Consolino E, Brugières L, Caron O, Benusiglio PR, Bressac-de Paillerets B, Bonadona V, Bonaïti-Pellié C, Tinat J, Baert-Desurmont S, Frebourg T. Revisiting Li-Fraumeni Syndrome From TP53 Mutation Carriers. J Clin Oncol. 2015 Jul 20;33(21):2345-52. Epub 2015 May 26. [PUBMED]
+10. Mork ME, You YN, Ying J, Bannon SA, Lynch PM, Rodriguez-Bigas MA, Vilar E. High Prevalence of Hereditary Cancer Syndromes in Adolescents and Young Adults With Colorectal Cancer. J Clin Oncol. 2015 Jul 20. pii: JCO.2015.61.4503. [Epub ahead of print] [PUBMED]
+11. Merino D, Malkin D. p53 and hereditary cancer. Subcell Biochem. 2014;85:1-16. [PUBMED]
+12. Toss A, Tomasello C, Razzaboni E, Contu G, Grandi G, Cagnacci A, Schilder RJ, Cortesi L. Hereditary Ovarian Cancer: Not Only BRCA 1 and 2 Genes. Biomed Res Int. 2015;2015:341723. Epub 2015 May 17. [PUBMED]
+13. PTEN. From the NIH Genetics Home Reference. Published August 3, 2015 [http://ghr.nlm.nih.gov/gene/PTEN]
+14. Milella M, Falcone I, Conciatori F, Cesta Incani U, Del Curatolo A, Inzerilli N, Nuzzo CM, Vaccaro V, Vari S, Cognetti F, Ciuffreda L. PTEN: Multiple Functions in Human Malignant Tumors. Front Oncol. 2015 Feb 16;5:24. [PUBMED]
+15. Haas NB, Nathanson KL. Hereditary kidney cancer syndromes. Adv Chronic Kidney Dis. 2014 Jan;21(1):81-90 [PUBMED]
+16. NIH Genetics Home Reference: APC Reviewed March 2013, Published 8-3-2915 [http://ghr.nlm.nih.gov/gene/APC]
+17. NIH Genetics Home Reference. Familial Adenomatous Polyposis Reviewed October 2013, Published August 3, 2015 [http://ghr.nlm.nih.gov/condition/familial-adenomatous-polyposis]
+18. Half E, Bercovich D, Rozen P. Familial adenomatous polyposis. Orphanet J Rare Dis. 2009 Oct 12;4:22. [PUBMED]
+19. Narayan S, Roy D. Role of APC and DNA mismatch repair genes in the development of colorectal cancers. Mol Cancer. 2003 Dec 12;2:41. [PUBMED]
+20. NIH Genetics Home Reference: Retinoblastoma. Reviewed August 2009, Published August 3, 2015 [http://ghr.nlm.nih.gov/condition/retinoblastoma]
+21. Giacinti C, Giordano A. RB and cell cycle progression. Oncogene. 2006 Aug 28;25(38):5220-7. [PUBMED]
+22. Lohmann DR, Gallie BL. In: Pagon RA, Adam MP, Ardinger HH, Wallace SE, Amemiya A, Bean LJH, Bird TD, Fong CT, Smith RJH, Stephens K, editors. GeneReviews® [Internet]. Seattle (WA): University of Washington, Seattle; 1993-2015. 2000 Jul 18 [updated 2013 Mar 28] [PUBMED]
+23. Berger AH, Knudson AG, Pandolfi PP. A continuum model for tumour suppression. Nature. 2011 Aug 10;476(7359):163-9. [PUBMED]
+24. Field M, Shanley S, Kirk J. Inherited cancer susceptibility syndromes in paediatric practice. J Paediatr Child Health. 2007 Apr;43(4):219-29. [PUBMED]
+25. NIH Genetics Home Resource: MEN1 Reviewed August 2013, Published August 3, 2015 [http://ghr.nlm.nih.gov/gene/MEN1]
+26. Gaztambide S, Vazquez F, Castaño L. Diagnosis and treatment of multiple endocrine neoplasia type 1 (MEN1). Minerva Endocrinol. 2013 Mar;38(1):17-28. [PUBMED]
+27. a. b. Carney JA. Familial multiple endocrine neoplasia: the first 100 years. Am J Surg Pathol. 2005 Feb;29(2):254-74. [PUBMED]
+28. a. b. Anik A, Abaci A. Endocrine cancer syndromes: an update. Minerva Pediatr. 2014 Dec;66(6):533-47. Epub 2014 Sep 22. [PUBMED]
+29. Sovrea AS, Dronca E, Galatâr M, Radian S, Vornicescu C, Georgescu C. Diagnostic correlation between RET proto-oncogene mutation, imaging techniques, biochemical markers and morphological examination in MEN2A syndrome: case report and literature review. Rom J Morphol Embryol. 2014;55(2):389-400. [PUBMED]
+30. a. b. NIH Genetics Home Reference - Multiple Endocrine Neoplasia. Reviewed August 2013, Published August 3, 2015 [http://ghr.nlm.nih.gov/condition/multiple-endocrine-neoplasia]
+31. Sovrea AS, Dronca E, Galatâr M, Radian S, Vornicescu C, Georgescu C. Diagnostic correlation between RET proto-oncogene mutation, imaging techniques, biochemical markers and morphological examination in MEN2A syndrome: case report and literature review. Rom J Morphol Embryol. 2014;55(2):389-400. [PUBMED]
+32. Jessica Marquard, MS, LGC and Charis Eng, MD, PhD, FACP. Multiple Endocrine Neoplasia Type 2, Synonyms: MEN 2, MEN2 Syndrome NCBI Gene Reviews - Initial Posting: September 27, 1999; Last Update: June 25, 2015. [http://www.ncbi.nlm.nih.gov/books/NBK1257/]
+33. Kaelin WG Jr. "Molecular basis of the VHL hereditary cancer syndrome." Nat Rev Cancer (2002). 2(9):673-82. [PUBMED]
+34. Cowey CL, Rathmell WK. VHL gene mutations in renal cell carcinoma: role as a biomarker of disease outcome and drug efficacy. Curr Oncol Rep. 2009 Mar;11(2):94-101. [PUBMED]
+35. Baldewijns MM, van Vlodrop IJ, Vermeulen PB, Soetekouw PM, van Engeland M, de Bruine AP. VHL and HIF signalling in renal cell carcinogenesis. J Pathol. 2010 Jun;221(2):125-38. doi: 10.1002/path.2689. [PUBMED]
+36. VHL. Genetics Home Reference. National Institutes of Health. U.S. Department of Health and Human Services. Reviewed August 2012, Published August 2015 [http://ghr.nlm.nih.gov/gene/VHL]
+37. Shahzad H, Kehar SI, Ali S, Tariq N. Expression of Von Hippel - Lindau (VHL) gene mutation in diagnosed cases of renal cell carcinoma. Pak J Med Sci. 2014 Jul;30(4):880-5. [PUBMED]
+Share This Page
+Copyright ©2018 Emory University. All rights reserved.
+Direct questions and comments to cancerquest@emory.edu.
+Footer menu
+Contact
+Disclaimer
+Legal Policies
+Top

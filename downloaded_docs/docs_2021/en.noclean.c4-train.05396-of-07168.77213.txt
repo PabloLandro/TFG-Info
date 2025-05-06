@@ -1,0 +1,286 @@
+Association between physical exercise and mental health: a cross-sectional study | Hacker News
+Hacker News new | past | comments | ask | show | jobs | submit login
+Association between physical exercise and mental health: a cross-sectional study (thelancet.com)
+98 points by happy-go-lucky 8 months ago | hide | past | web | favorite | 83 comments
+jessriedel 8 months ago
+This was a cross-sectional study. Here's an opposing result for anxiety and depression:
+> Testing Causality in the Association Between Regular Exercise and Symptoms of Anxiety and Depression
+> Context: In the population at large, regular exercise is associated with reduced anxious and depressive symptoms. Results of experimental studies in clinical populations suggest a causal effect of exercise on anxiety and depression, but it is unclear whether such a causal effect also drives the population association. We cannot exclude the major contribution of a third underlying factor influencing exercise behavior and symptoms of anxiety and depression...
+> Setting: Causal effects of exercise were tested by bivariate genetic modeling of the association between exercise and symptoms of anxiety and depression, correlation of intrapair differences in these traits among genetically identical twins, and longitudinal modeling of changes in exercise behavior and anxious and depressive symptoms.
+> Results: Cross-sectional and longitudinal associations were small and were best explained by common genetic factors with opposite effects on exercise behavior and symptoms of anxiety and depression. In genetically identical twin pairs, the twin who exercised more did not display fewer anxious and depressive symptoms than the co-twin who exercised less. Longitudinal analyses showed that increases in exercise participation did not predict decreases in anxious and depressive symptoms.
+> Conclusion: Regular exercise is associated with reduced anxious and depressive symptoms in the population at large, but the association is not because of causal effects of exercise.
+https://jamanetwork.com/journals/jamapsychiatry/fullarticle/...
+There's a huge bias in popular reporting toward studies concluding that interventions are helpful.
+vanderZwan 8 months ago
+The thing is, since a few we actually know now how exercise helps: it builds resilience against depression[0][1]. The press release from the Karolinska Instituted website[2] explains it fairly well, but in short: when you're stressed, you produce kynurenine. How kynurenine works precisely is unknown, but what is clear is that having chronically elevated levels of it can induce all kinds of mental illnesses. Skeletal muscle creates kynurenine aminotransferase (KAT), an enzyme which breaks it down.
+The subtlety here is that this building resilience is not the same as fixing the causes of depression[3].
+(I'm a bit surprised this research isn't mentioned in these papers)
+http://science.sciencemag.org/content/357/6349/eaaf9794
+[0] Skeletal Muscle PGC-1α1 Modulates Kynurenine Metabolism and Mediates Resilience to Stress-Induced Depression, https://www.cell.com/cell/abstract/S0092-8674(14)01049-6?cod...
+[1] Kynurenines: Tryptophan’s metabolites in exercise, inflammation, and mental health, http://science.sciencemag.org/content/357/6349/eaaf9794
+[2] https://ki.se/en/news/how-physical-exercise-protects-the-bra...
+[3] http://pbfcomics.com/comics/treatment/
+jessriedel 8 months ago
+That theory would seem to contradict the study I cited, no?
+Both papers you cite are by the same group, and I don't think the results represent a consensus of the experts.
+vanderZwan 8 months ago
+Not necessarily: in another study it was shown that kynurenine levels went back to original levels in patients who only exercised[0].
+> Conclusions: Physical exercise positively affects mood and cardiovascular fitness, but does not lead to long-lasting changes in plasma levels of kynurenine and KYNA in patients affected by mild-to-moderate depression.
+So that would suggest that the body just reaches a new equilibrium. Again, the point is that resilience does not fix causes - it could be that this is similar to trying to fix traffic jams with more roads; the only real fix is to get rid of the cars as much as you can (after which having an extra lane can make traffic go smoother).
+> Both papers you cite are by the same group, and I don't think the results represent a consensus of the experts.
+IIRC, that kynurenine does something is apparently well-established, and not just by this group. Also, that first paper has quite a few citations, you can check for follow-up research on Google Scholar[1]
+[0] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5384718/
+[1] https://scholar.google.de/scholar?hl=en&as_sdt=0%2C5&q=Skele...
+jessriedel 8 months ago
+> So that would suggest that the body just reaches a new equilibrium.
+This is another degree of freedom in the theory, right?
+I mean, this could all be true for all I know, but as an outsider I think this falls into the category of stuff I can't judge, and (like a thousand other theories investigated by experts and published in impressive places like Science) hasn't yet risen to the level of consensus.
+duxup 8 months ago
+That and I wonder if there is a spiraling sort of effect where if you have mental health issues you might feel tired as it is, so you don't exercise.... but I'm not sure that means that the exercise is the issue... just the result.
+Let alone populations like the working poor who have little time in their lives for things like exercise, but growing mental illness issues.
+ralusek 8 months ago
+[flagged]
+duxup 8 months ago
+The working poor certainly don't have a lot of time... that's not a myth.
+Pretending it must be like some other issue is not helpful, just as you describe the other issue.
+DanBC 8 months ago
+> Mood-changing exercise can take as little as 3 minutes. If I do 2 minutes of jumping jacks and 30 pushups in the morning, my day is dramatically different.
+You know this is what homeopaths claim, right?
+taneq 8 months ago
+They're not magically wrong about everything, if they were then that'd be as useful as being right.
+0x62c1b43e 8 months ago
+They have a section discussing why this paper might seem to contradict other studies showing a causal link:
+> This outcome seems at odds with findings from randomized controlled trials in clinical and population samples indicating that regular exercise can relieve symptoms in subclinical individuals and in patients diagnosed as having an anxiety or depressive disorder. To understand the different outcomes of both types of study, it is crucial to make a distinction between the effects of prescribed and externally monitored exercise in selected subgroups and the effects of voluntary leisure-time exercise at the population level. Only voluntary leisure-time exercise is influenced by genetic factors, whereas the other type of exercise is environment driven. The absence of causal effects of voluntary exercise on symptoms of anxiety and depression does not imply that manipulation of exercise cannot be used to change such symptoms. It means that a population association, cross-sectional or longitudinal, cannot be used to justify exercise as a treatment without an actual randomized controlled trial. The possible difference in the antidepressant effects of prescribed vs voluntary exercise is consistent with findings from a recent study suggesting that the therapeutic effects of exercise are nonspecific to exercise. The antidepressant effects of exercise may only occur if the exercise is monitored and part of a therapeutic program.
+So it sounds like among twins, if one twin naturally exercises more by their own volition, that twin doesn't in general show less depression/anxiety than the other twin, which is evidence against exercise causally reducing depression/anxiety. However it sounds like it may still be that prescribed exercise as an intervention, beyond what an individual would naturally choose to do, and maybe only in conjunction with therapy, could still benefit an individual (and perhaps then only individuals with clinical symptoms).
+This study also does help by showing how the associative inverse relationship between exercise and depression in the general population seems to be from genetics influencing exercise, and not the other way around, and the important of a randomized control trial on exercise as an intervention.
+markroseman 8 months ago
+Few academics stake their careers on papers saying that X does fuck all (unless everyone already things X is amazingly effective)
+DanBC 8 months ago
+Cochrane Collaborations.
+https://www.cochrane.org/CD004366/DEPRESSN_exercise-for-depr...
+> Exercise is moderately more effective than no therapy for reducing symptoms of depression.
+[...]
+> The reviewers also note that when only high-quality studies were included, the difference between exercise and no therapy is less conclusive.
+tryitnow 8 months ago
+Thanks for providing this study.
+This reminds me of the Iron Law of Evaluation:
+https://www.gwern.net/docs/sociology/1987-rossi
+The Iron Law refers social program interventions but I think it is applicable to a lot of health interventions too.
+https://www.gwern.net/docs/sociology/1987-rossi
+ec109685 8 months ago
+How does a study like this control for the fact that if you are depressed, you might not want to exercise that day? And thus it’s mental health that drives how much you exercise, not the other way around?
+jpmoyn 8 months ago
+The study itself addresses that they didn't prove causality between exercise and reduced symptoms of anxiety and depression
+posterboy 8 months ago
+They are not very careful to avoid implying the expected outcome, though, which should be understandable as it refers to common wisdom. e.g. "more is not always better" is part of the interpretation, nevertheless they don't imply any causative effects (on the landing page, at least; didn't read the paper).
+In that sense, if feeling too depressed for extreme sport, maybe a walk ever now and then should at least not be neglected.
+Retric 8 months ago
+Mental health goes beyond depression.
+So, one option is to ignore depression and look at other things.
+markroseman 8 months ago
+Good point. The value in this one is the large size of the data set, but mental illness is hardly a uniform phenomenon, so if you fit the "mental illness" category it doesn't say much about how many people in their data set really overlap with you. And it can make a difference. High intensity exercise still can help many people with depression, but is often counterproductive for anxiety, where low-moderate intensity can be helpful.
+jimrandomh 8 months ago
+It doesn't.
+Kyrztyn 8 months ago
+If these studies were not behind paywalls people might better understand what they mean.
+They did not establish causality in the study and they also said that inactivity might be a symptom of poor mental health. The people who had less mental health days might not be physically ill, but rather, socially ill. If you read the full study and some of the interesting demographics you will see what I mean.
+It really tells us nothing but puts more stigma on people who are ill making it seem like it is their fault they are sick.
+SketchySeaBeast 8 months ago
+This is sure to quickly fill with personal anecdotes, I can attest to experiencing this phenomena myself, but I wonder what we can do with this information? I think it's already in the "everybody knows" category, so how do we get those who need it the most to take advantage of it? The extreme presentation of these conditions typically impedes one from becoming physically active, thought I do look forward to the success that I'm sure will be the first soccer league for agoraphobics.
+raverbashing 8 months ago
+I think most people associate "physical exercise" with having to spend an hour at the gym or something similar.
+What they should be thinking is: going for a walk around the block, not getting the car for close by errands, not taking the elevator, going for a bike ride, etc
+a_wild_dandan 8 months ago
+This is such an important distinction to actually effect change. The vast majority of folks who go from 0 to Gym Rat will quickly peter out, reverting to sedentariness. Small lifestyle changes are far more effective.
+Likewise for diets. Those who spend their New Years resolution momentum eating baked chicken and broccoli for a week or completely cutting out carbs will shortly find themselves failing completely and binging ice cream or whatever. Rarely do you see sensible advice like "keep your same diet habits, but cut out soft drinks", or "if you engage in late night boredom-eating, try binging vegetables instead."
+Unfortunately, humble and incremental changes in habit seem antithetical to our society's affection for (unrealistic) sweeping, dramatic transformations.
+chris_wot 8 months ago
+I have to agree. I’ve been able to keep my gym attendance regular by starting pretty slow and gradually building up to more intense workouts.
+I honestly have done this for the endorphine boost, but overall I’ve lost just under 11kg in about 10 months and I’ve really started to notice my belly go down, and I can actually see muscle building now... which I’ll be honest and say surprised me (why I have no idea). This is great, but I did exercise to deal with some pretty appalling trauma I experienced - everything else is nice but for me, not essential.
+SketchySeaBeast 8 months ago
+> I’ve been able to keep my gym attendance regular by starting pretty slow and gradually building up to more intense workouts.
+People start way too intense, spending hours in the gym, and burn out all their enthusiasm in the first weeks or two before they realize that their efforts are unsustainable. Really, start with a plan on what do to, go in and do it. If it's a half hour that's perfectly fine. My sessions, depending on the day, last anywhere from half an hour to 3 based upon my mood and the workload for that particular session - but you gotta keep the mandatory work to a reasonable amount - everything else should be treated as icing on the fitness cake.
+I'm sure to go with the 11 kg there has been significant body composition changes to make it count for more as well.
+nbsd4life 8 months ago
+I've enjoyed cleaning chores a lot more after mentally declaring them to be exercise.
+Broken_Hippo 8 months ago
+See, this is some of my own problem. I personally despise going for a walk for the sake of going for a walk. The same for a bike ride. The only times I've enjoyed such things is when part of my unhappiness was at home and it was one of the few escapes available. I don't find these fun at all. Doing actual exercise sounds dreadful and embarrassing. Not to mention that finding basic gear is expensive and hard to find (I'm just talking about a sports bra here - unfortunately, if you are thin with breasts, these get incredibly hard to find and expensive and often must be mail-ordered, which makes them risky).
+Yet I'll walk to anywhere within a half an hour's walk. I'll do that daily. Grocery store? walk. I'll go longer at times. I'll take the stairs. I'll go out hiking and walking to see something or do something.
+Unfortunately, if I have nothing to see or do - no work or lack the means to do something - I rarely do these things. These have generally been the times when my mental health is worst as well (though that trend has changed the last few years). It makes me despise these sorts of reports.
+smileypete 8 months ago
+I like walking to town though the park and listening to a good podcast (through the phone's speaker, I don't bother with headphones.)
+Also sometimes when I've spent time indoors on the PC/internet I realize that sitting outside with a book would have been better.
+I s'pose that access to nearby walking routes and some sort of garden can be a big help here and I'm lucky in that respect.
+phakding 8 months ago
+I totally agree with you. I go to gym and weight train 3 days a week and I spend one day running as far as I possibly can (8-10 mile range). If someone asked me to go for a walk, I would just slouch down in my sofa and ignore them. I hate walking without purpose and as an exercise it does pretty much nothing.
+devilshaircut 8 months ago
+Personally, I hate exercising but I do about 90 minutes of high intensity cardio every day (with no end goal like grocery shopping; just for the sake of exercise). It's masochistic and I wish I were the type of person who actually enjoyed it.
+For me, it just took having the self-control to commit to an exercise regime. Eventually it became easier because I track my exercise and having a break in it (even if I am traveling or on vacation) feels really bad.
+I doubt it would work for everyone, but I think it was necessary for me because I live in a city and even if I walked everywhere (which I do), I would never get enough exercise to offset 8-hour days of sitting at a computer desk writing software.
+Pamar 8 months ago
+Yes, even just the "10K steps a day" idea is vastly better than nothing...
+diss 8 months ago
+Well, it could mean that mental health professionals push exercise significantly more as a treatment. A lot of people see psychologists and doctors about mental health.
+pjc50 8 months ago
+They already do .. badly. There was an excellent thread on twitter the other day along the lines of "I went to my doctor saying I was suicidal and got sent away with this worksheet" - a whole collection of completely inadequate responses to acute mental health issues.
+markroseman 8 months ago
+That would be the "fuck if I can help you" non-response. Around here it happens a lot because it takes so long to get into a psychiatrist that unless you admit to suicidal ideation, intent and a plan, you're not going to get help fast. A lot of family docs have their hands tied.
+markroseman 8 months ago
+In practice, it probably just adds a bit more motivation or reinforcement to the existing body of knowledge. There is a lot of conflicting info out there about how much is needed, what kind, etc., so the fact that this is saying a broad range of activities and so on were shown helpful is a plus. Helps take the "should I run or bike or weight lift or... screw it, I'm sitting on the couch" out of it.
+DanBC 8 months ago
+> I think it's already in the "everybody knows" category,
+No, it isn't. It's in the folk remedy, but there's not much evidence to support exercise as a treatment for depression.
+sgillen 8 months ago
+> I think it's already in the "everybody knows" category
+I’m sure most people have a pretty good idea exercise can help with mental health. I think the next thing that needs to happen is a broader awareness of just how effective exercise can be, and that it should be one of the very first thing tried to improve mental health. I think this should happen along with a general increase in mental health awareness (you can’t use exercise to help with your depression if you don’t recognize you’re depressed).
+DanBC 8 months ago
+> I’m sure most people have a pretty good idea exercise can help with mental health. I think the next thing that needs to happen is a broader awareness of just how effective exercise can be,
+First step would be "get some evidence it does anything at all". We're not even at that point yet.
+Almost everyone in this thread talking about exercise as a treatment for depression is failing to correct for cuasality, or for sponteneous remission.
+> (you can’t use exercise to help with your depression if you don’t recognize you’re depressed)
+More like you can't use exercise to treat depression because it doesn't work. There's no clear difference between treating depression with nothing or treating it with exercise.
+And so we end up with a group of people being given bad advice, trying to follow it, and then when it doesn't work (because it won't work for most of them) being blamed for doing the wrong type of exercise or not doing enough.
+markroseman 8 months ago
+Agreed for most people with mild-moderate mental illness. It's an intervention that can reduce intensity for quite a number of people, though not everyone. (I wish more people would also get checked early on for easily fixed metabolic stuff like low iron, wonky thyroid etc.)
+My completely anecdotal example... it kept me from starting crazy meds for at least an extra year or two (by the time I was up to 1-2 hours, 7d/week, it was time to bite the bullet.. though at lower doses than I likely would have otherwise needed.
+Nasrudith 8 months ago
+I think the next step is to try and examine causation vs correlation via known already bad patients. If say psychiatric inpatients within hospitals start adding in more exercise programs would they have improved patient results? The setting is also important for ethics - if it may worsen patient outcomes one should be ready to prevent further harm.
+Or it could theoretically be like trying to treat muscular dystrophy via 100 lb bench presses - the system is too far gone for it to help.
+SketchySeaBeast 8 months ago
+> 100 lb bench presses
+C'mon, no shaming the 100 lbs bench press - I absolutely encourage someone whose benching 100 lbs to bench, because if they work hard pretty quickly it won't be 100 lbs any more.
+And you raise an excellent point - is exercising the thing boosting the mood, or is the exercising the result of a mood boost.
+pjc50 8 months ago
+Ironically I think the parent poster intended 100lb as "completely unachievable for someone with muscular dystrophy", while you've read it as "so light as to be completely ineffective"!
+SketchySeaBeast 8 months ago
+Yes, I realize this now. Whoops.
+themodelplumber 8 months ago
+I personally find that exercise only contributes to good mental health outcomes when it is part of a system that monitors and directly, daily, addresses issues of physical exhaustion. Experiencing exhaustion and a desire to push through it was my personal #1 link to depression and anxiety. I found that just laying in bed and relaxing has a much higher likelihood of vanquishing my depression and anxiety than exercise ever did, and exercise, even a simple walk, can actually make the symptoms worse by contributing to the exhaustion.
+This is _my own analysis and experience_, of course, so YMMV. There are additional important approaches to anxiety, like identifying stressors that need to be addressed (situations, goals, relationships, etc.) and attending to various facets that contribute to a feeling of purpose and promise. But after learning to look at my symptoms through the lens of "exhaustion" (whether it be productivity exhaustion or fitness-induced) I no longer suffer from chronic severe anxiety and depression, and my psychiatrist long ago pronounced me cured. Some people here may benefit so I share this in case it helps.
+SketchySeaBeast 8 months ago
+For the exercise itself I find that it's not the exhaustion, but the mental effort it takes to really push hard sort of resets my mental processes - I train powerlifting, so those 30 seconds where I'm going "this bar is going to kill me if I don't keep going" really changes my mental affect once I get out from under the bar.
+themodelplumber 8 months ago
+Yes, what I'm describing would be like powerlifting on a couple hours of sleep, daily. That kind of emotional / depressive outcome, where one has not attended to their exhaustion level and jumps in to perform, as opposed to powerlifting under more typical or optimal circumstances which I'm sure has some really positive mental outcomes.
+bergerjac 8 months ago
+Instead of the bar killing you, what if you flipped the script and went I'm going to dominate this bar
+antisthenes 8 months ago
+Use whatever you find effective at helping you get through those 5-6 reps, tbh.
+SketchySeaBeast 8 months ago
+And sometimes that's feeling like an invincible lifting machine, other times it's the fear or getting pinned under a quarter ton of iron in front of a whole gym.
+natalyarostova 8 months ago
+Interesting. Lying in bed is pretty much my #1 link for depression and anxiety (unless I'm sleep deprived and need to sleep).
+themodelplumber 8 months ago
+Well, a lot of people automatically lay down or stay in bed when they already feel depressed or anxious. It's a good position, as "laying down doing nothing" is pretty much as close to minimizing one's own metabolic rate, nervous system usage, etc. as possible.
+However I'd say that "laying down because it's all I can do" and "laying down as a conscious way of attending to my personal exhaustion" are two different states of being, with an important difference. The first could easily raise one's anxiety if it seems counter to "what needs to be done" while the second approach is part of a more analytical process (at least in my case) which is hopefully accompanied by fail-overs and follow-ons, like addressing stressors, mentioned above.
+shanxS 8 months ago
+Couldn't agree more. Exhausting myself physically during work week some how makes me feel better about myself. Maybe because in process I achieve my fitness goals or maybe I am surrounded by people who do the same and appreciate it, so it gives me a feeling of belonging. What ever the reason, working out makes me happy.
+121789 8 months ago
+Same here. And exercise immediately cures it. I wonder why OP is physically exhausted so much
+themodelplumber 8 months ago
+Don't limit it to "physically", just imagine a person who pushes themselves really hard in all aspects of life. That pretty much describes who I was. Beyond a productive person, more like a natural stress-bringer.
+collyw 8 months ago
+Personally I find physical exhaustion, from a long hike for example, a lot more pleasant than mental exhaustion. The first feels positive (helps me sleep well), the second feels negative.
+taneq 8 months ago
+I'm interested to see how VR affects overall mental health among gamers. There seems to be some crossover between heavy duty gamers and mental health struggles (just from my own observation) and VR is starting to be a natural progression for gaming. And VR gaming is often a real work-out, focusing on a lot of movement as well as physical dexterity.
+prophesi 8 months ago
+I'm interested in this as well. I had a friend play Beat Saber for 3 hours straight, burning literally thousands of calories. He said he felt amazing for the rest of the day.
+On the flip-side, I personally experienced some serious post-binge depression after playing Talos Principle VR for a few hours. It's not very physically engaging, with a somber atmosphere throughout. I felt so weird taking off the headset and jumping back into reality.
+Though I think both scenarios just go to show how powerful VR could potentially be in the medical field.
+always_good 8 months ago
+Let's be honest, though. He didn't burn thousands of calories. You are underestimating how efficient the human body is.
+taneq 8 months ago
+Actually I think this is really important. I don't have any science to back this up but I feel like the human body actually changes its tradeoff between efficiency and instantaneous performance based on some so-far-undescribed factor.
+taneq 8 months ago
+I've played 1-2 hrs of Beat Saber a day since Tuesday and now I just feel generally achy. Everything hurts. I've lost most of a kilo though. >.>
+That weird not-quite-real feeling you get after a lot of VR seems to be a thing though. If you're playing something engaging and emotionally heavy I imagine it'd be even stronger.
+ArtWomb 8 months ago
+Somewhat related: VR exposure or immersion therapy is being investigated as a viable treatment in post-traumatic stress disorder.
+hi41 8 months ago
+For many months now I have been bad at paying bills, filing tax etc due to anxiety and depression. It is like paralysis. But reality does not wait for you. There are consequences like fines and court orders. How have you overcome this? I feel I will be happier if I can manage my duties better.
+kranner 8 months ago
+I’ve noticed this pattern in myself that I like to call Automatic Pointless Resistance which is especially active when I’m anxious. I overcome it by completely ignoring my feelings and getting started on tasks regardless of how little I want to do them, or how much I think I’m going to screw them up. Sometimes the disconnect is profound, my brain just doesn’t want to do something but my body knows what to do. Even if it’s something mentally involving like filing taxes, I just ignore any thoughts that say I must be doing it wrong, I should stop and plan it better, etc. And before I know it, the task is well underway and I’m often even enjoying it.
+Boles001 8 months ago
+I've found that in times where I can't seem to shake "the blues" that it's best to get out of my head and get into my body by doing something physical. Whether it's a jog, lifting at the gym, or playing a sport...focusing on these activities allows my concentration to shift and seemingly my mind to reset
+Tactic 8 months ago
+I have found setting a routine and scheduled time to do it helps. Put it in your calendar and treat it as you would work.
+However, if you are finding this to be a consistent and long term issue please see a councilor. They can help and diagnose far better than you will find here. If you find that gets put off as well, ask a friend or family member to help you make and keep the initial appointments. You may be surprised by the number of people that are willing to help free of judgement if you will let them.
+bmpafa 8 months ago
+Auto bill pay is a boon.
+Hire a tax preparer. It costs more than doing it yourself, but I find we often discount the cognitive cost of just doing a thing when considering whether to outsource stuff.
+In other words, build / use systems to minimize the impact of your own limitations on your responsibilities.
+drunkenmonkey 8 months ago
+Go see a psychiatrist, and get a caseworker.
+itschekkers 8 months ago
+Original Article author here - happy to help with any questions people have.
+Also sorry about the paywall - you can get the article either through sci-hub here http://sci-hub.tw/10.1016/S2215-0366(18)30227-X or you can email me and i'll send you a copy direct!
+Kyrztyn 8 months ago
+Awesome.
+Question:
+Why are you wasting your time?
+Do you wish to apply a blanket cure for the unknown multitude causes of mental health issues?
+Why do you think reductions in the self reported “mental health” of the general population is useful for people who have been hospitalized with mood disorders?
+Don’t you think that people who lie about how much exercise they do also might be lieing to themselves about their mental health?
+dang 8 months ago
+We've banned this account for being uncivil and otherwise violating the site guidelines.
+https://news.ycombinator.com/newsguidelines.html
+itschekkers 8 months ago
+1- surely we're allowed to waste our own time if we like!
+2- nope, and actually my entire research agenda has been around helping people find a treatment that is most likely to work for them specifically! (we also founded a company to bring the research to market- springhealth.com)
+3- that is beyond the scope of the paper, and we didnt use the word hospitalized once
+4- yep, and thats a good example of one of the pitfalls of self-reported surveys. in general, i am a bit less cynical and in our experience, most people aren't filling out surveys to intentionally lie or sabotage.
+hope this helps!
+rrggrr 8 months ago
+You didn't deserve that response. Good job on the paper and keep up the good work. Your findings are supported by other research as you already know.
+itschekkers 8 months ago
+thanks! <3
+we've had a wonderful positive response to this article, and people are overwhelmingly excited and motivated to try and exercise more because of it (even at relatively lower intensities or volumes -- every little helps). even if we are extremely cynical and say theres zero benefit of exercise for mental health, then people will still be getting known improvements regarding diabetes, stroke, cardiovascular disease. Nobody is advocating for exercise at the expense of alternative treatments like meds or therapy, this really is just a (potentially large) extra benefit.
+Kyrztyn 8 months ago [flagged]
+Aw, hearts!
+:/
+You established ZERO causality in your study! How can you even say you are a scientist and say this has a (potentially) large benefit?!
+And you did not even distinguish between mental health and mental illness.
+The fact that you are excited that you got a “positive response” from this article just tells me you are a neoliberal shill.
+Kyrztyn 8 months ago
+#2, of course. Capitalism.
+You want to bring the research to market, not help the mentally ill. You goal is profit.
+For the 20 I have been “cared for” by people like you it took my own ingenuity and relentless pressure on a psychiatric system that thinks there is never a nutritional cause to mood disorders to have them test me for a biotinidase deficiency which turned up positive. My mood issues were cured by 15 grams of biotin a day.
+Researched and doctors like you were so certain what caused my depression and anxiety you filled me with pills that rarely worked and diabled me with side effects. It took 15 years to even test me for a B12 or iron deficiency.
+So sorry, but your study does not help the mentally ill. Maybe it helps people who are stressed from the everclenching fist of capitalism, but that’s about it.
+markroseman 8 months ago
+You got shitty psychiatric care. The real tragedy is that is so common.
+Kyrztyn 8 months ago
+This study was flawed from the start. They asked people if they were ever “diagnosed” with depression when there is no clear cause of depression. Depression can be lifelong, short term situational, caused by drugs, etc.
+It also relied on self reported physical activity! Ha!
+It is worthless to extract anything regarding mental heath and exercise from this study.
+markroseman 8 months ago
+I'd consider the value to be motivational ammunition for an intervention that generally has few downsides and multiple possible benefits for the person affected. Your point about stigma does counterbalance that somewhat.
+In other words, would I put the overview on the coffee table in my wife's office (she's a psychiatrist) for her patients to see? Yes.
+Kyrztyn 8 months ago
+They did not establish causality in the study, yet you would put it out for sick people already stigmatized and thinking they are “lazy”, “just need to get out of bed”, etc as another burden for them to carry?
+Are you a sadist?
+Let me give you a personal anecdote. I suffered depression and anxiety and fatigue for years. I tried to be active but it made me feel worse. Turns out I had late onset partial biotinidase deficiency. I take biotin, my depression and anxiety are gone and now I can work out like a normal person.
+What good does this study do for people like me and the probably hundreds of thousands of people like me? I would in fact it harms people like me because it lays a simple cure over a complex and diverse issue.
+markroseman 8 months ago
+In this or anything else, exercise isn't suggested as a cure.
+Almost without exception, the people she sees are looking for ways to help move themselves forward. By the time they get here, they realize (and it's part of the education that goes with the practice) that mental illness is extremely complex, not every treatment helps everyone, and there's no single magic bullet. And yes, serious metabolic workups are a big part of the practice.
+So while I appreciate your perspective, I take issue with the claim that (in this context) it is suggesting laziness as a cause for their illness, or sadism on my part.
+Kyrztyn 8 months ago
+I’d be interested if your wife tests for Biotinidase Deficiency...? There are no “serious metabolic work ups” for mental health. Sure, they test thyroid, maybe iron and B12 if you press them. But beyond that?
+I am telling you, as a person who suffered from suicidal depression, that seeing a pamphlet like that in the past would make me feel worse, not better. But why listen to me? I am only the patient.
+textor 8 months ago
+[flagged]
+dang 8 months ago
+Please don't break the site guidelines yourself, regardless of how badly another commenter is behaving. That only makes the thread even worse.
+https://news.ycombinator.com/newsguidelines.html
+Kyrztyn 8 months ago
+That is the problem with quick searches, they are usually incomplete.
+1) While Biotinidase Deficiency is rare, Partial Biotinidase Deficiency is not as rare. Combining the two the incidence it is 1 in 61,000
+2) There are no good statistics for late onset partial biotinidase deficiency. And they do not know why it happens. This is what I am diagnosed with.
+3) Combine even a minimal decrease in biotinidase deficiency with a slight holocarboxylase synthetase deficiency and you can look like you have Biotinidase Deficiency when your enzyme assay is not that low. This can be cured with biotin as well. So how many is it now? 3000 or 300,000?
+4) yes, there is more than BTD Deficiency that is wrong with me. I was stigmatized by doctors and psychiatrists for 25 years because all they saw was my mental illness. If it was not for Dr. Barry Wolf I would be dead.
+5) so how many other causes of depression are there that do not get fixed with working out?
+6) One of the people who authored this study is linked to Spring Health. Whose motto is “We use #data to help you choose the right #antidepressant”.
+My point is that mood disorders are complex, and studies like this, that simplify mood disorders, are damaging to the people who have them. The company attached to this research is promising AI to find ways to help people’s mental health when there are currently no clear causes or treatments. I wonder if their app will tell people to get their B12 checked or send them to a doctor for Prozac when the jogging dies not work...
+It’s vapor ware and they put out these studies to help them seem like they are not.
+Guidelines | FAQ | Support | API | Security | Lists | Bookmarklet | Legal | Apply to YC | Contact
+Search:

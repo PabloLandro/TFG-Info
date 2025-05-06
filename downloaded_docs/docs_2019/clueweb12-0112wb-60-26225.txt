@@ -1,0 +1,185 @@
+
+HTTP/1.1 200 OK
+Date: Wed, 15 Feb 2012 06:41:17 GMT
+Server: Apache/1.3.41 (Unix) PHP/5.2.10 mod_psoft_traffic/0.2 mod_ssl/2.8.31 OpenSSL/0.9.7a mod_macro/1.1.2
+X-Powered-By: PHP/5.2.10
+Connection: close
+Content-Type: text/html
+
+The Common Cold - Causes, Symptoms & Treatment Search our Archive for the Latest News on The Common Cold Browse By Category | Browse Alphabetically | Search Health Conditions The Common Cold Fact Book Table of Contents The Common Cold The Problem The Causes The Cold Season Cold Symptoms How Cold Viruses Cause Disease How Colds are Spread Prevention Treatment The Outlook Keeping on Top of Your Condition The Common Cold Sneezing, scratchy throat, runny nose –
+      everyone knows the first signs of a cold, probably the most common illness
+      known. Although the common cold is usually mild, with symptoms lasting one
+      to two weeks, it is a leading cause of doctor visits and of school and job
+      absenteeism. The Problem In the course of a year, individuals in the United
+      States suffer 1 billion colds, according to some estimates. Colds
+      are most prevalent among children, and seem to be related to youngsters'
+      relative lack of resistance to infection and to contacts with other
+      children in day-care centers and schools. Children have about six to ten
+      colds a year. In families with children in school, the number of colds per
+      child can be as high as 12 a year. Adults average about two to four colds
+      a year, although the range varies widely. Women, especially those aged 20
+      to 30 years, have more colds than men, possibly because of their closer
+      contact with children. On average, individuals older than 60 have fewer
+      than one cold a year. The economic impact of the common cold is
+      enormous. The National Center for Health Statistics (NCHS) estimates that,
+      in 1996, 62 million cases of the common cold in the United States required
+      medical attention or resulted in restricted activity. In 1996, colds
+      caused 45 million days of restricted activity and 22 million days lost
+      from school, according to NCHS. The Causes The Viruses. More than 200 different viruses
+      are known to cause the symptoms of the common cold. Some, such as the
+      rhinoviruses, seldom produce serious illnesses. Others, such as
+      parainfluenza and respiratory syncytial virus, produce mild infections in
+      adults but can precipitate severe lower respiratory infections in young
+      children. Rhinoviruses (from the Greek rhin , meaning
+      "nose") cause an estimated 30 to 35 percent of all adult colds, and are
+      most active in early fall, spring and summer. More than 110 distinct
+      rhinovirus types have been identified. These agents grow best at
+      temperatures of 33 degrees Celsius [about 91 degrees Fahrenheit (F)], the
+      temperature of the human nasal mucosa. Coronaviruses are believed
+      to cause a large percentage of all adult colds. They induce colds
+      primarily in the winter and early spring. Of the more than 30 isolated
+      strains, three or four infect humans. The importance of coronaviruses as
+      causative agents is hard to assess because, unlike rhinoviruses, they are
+      difficult to grow in the laboratory. Approximately 10 to 15 percent
+      of adult colds are caused by viruses also responsible for other, more
+      severe illnesses: adenoviruses, coxsackieviruses, echoviruses,
+      orthomyxoviruses (including influenza A and B viruses), paramyxoviruses
+      (including several parainfluenza viruses), respiratory syncytial virus and
+      enteroviruses. The causes of 30 to 50 percent of adult colds,
+      presumed to be viral, remain unidentified. The same viruses that produce
+      colds in adults appear to cause colds in children. The relative importance
+      of various viruses in pediatric colds, however, is unclear because of the
+      difficulty in isolating the precise cause of symptoms in studies of
+      children with colds. Does cold weather cause a cold? Although many people are convinced that a cold results from exposure to
+      cold weather, or from getting chilled or overheated, NIAID grantees have
+      found that these conditions have little or no effect on the development or
+      severity of a cold. Nor is susceptibility apparently related to factors
+      such as exercise, diet, or enlarged tonsils or adenoids. On the other
+      hand, research suggests that psychological stress, allergic disorders
+      affecting the nasal passages or pharynx (throat), and menstrual cycles may
+      have an impact on a person's susceptibility to colds. The Cold Season In the United States, most colds occur during the
+      fall and winter. Beginning in late August or early September, the
+      incidence of colds increases slowly for a few weeks and remains high until
+      March or April, when it declines. The seasonal variation may relate to the
+      opening of schools and to cold weather, which prompt people to spend more
+      time indoors and increase the chances that viruses will spread from person
+      to person. Seasonal changes in relative humidity also may affect
+      the prevalence of colds. The most common cold-causing viruses survive
+      better when humidity is low—the colder months of the year. Cold weather
+      also may make the nasal passages' lining drier and more vulnerable to
+      viral infection. Cold Symptoms Symptoms of the common cold usually begin two to
+      three days after infection and often include nasal discharge, obstruction
+      of nasal breathing, swelling of the sinus membranes, sneezing, sore
+      throat, cough, and headache. Fever is usually slight but can climb to
+      102 o F in infants and young children. Cold symptoms can last
+      from two to 14 days, but two-thirds of people recover in a week. If
+      symptoms occur often or last much longer than two weeks, they may be the
+      result of an allergy rather than a cold. Colds occasionally can
+      lead to secondary bacterial infections of the middle ear or sinuses,
+      requiring treatment with antibiotics. High fever, significantly swollen
+      glands, severe facial pain in the sinuses, and a cough that produces
+      mucus, may indicate a complication or more serious illness requiring a
+      doctor's attention. How Cold Viruses Cause Disease Viruses cause infection by
+      overcoming the body's complex defense system. The body's first line of
+      defense is mucus, produced by the membranes in the nose and throat. Mucus
+      traps the material we inhale: pollen, dust, bacteria and viruses. When a
+      virus penetrates the mucus and enters a cell, it commandeers the
+      protein-making machinery to manufacture new viruses which, in turn, attack
+      surrounding cells. Cold symptoms: the body fights back. Cold symptoms are probably the result of the body's immune response to the
+      viral invasion. Virus-infected cells in the nose send out signals that
+      recruit specialized white blood cells to the site of the infection. In
+      turn, these cells emit a range of immune system chemicals such as kinins.
+      These chemicals probably lead to the symptoms of the common cold by
+      causing swelling and inflammation of the nasal membranes, leakage of
+      proteins and fluid from capillaries and lymph vessels, and the increased
+      production of mucus. Kinins and other chemicals released by immune
+      system cells in the nasal membranes are the subject of intensive research.
+      Researchers are examining whether drugs to block them, or the receptors on
+      cells to which they bind, might benefit people with colds. How Colds are Spread Depending on the virus type, any or all of
+      the following routes of transmission may be common: Touching infectious respiratory secretions on skin and on
+        environmental surfaces and then touching the eyes or nose. Inhaling relatively large particles of respiratory secretions
+        transported briefly in the air. Inhaling droplet nuclei: smaller infectious particles suspended in
+        the air for long periods of time. Research on rhinovirus
+      transmission. Much of the research on the transmission of the common
+      cold has been done with rhinoviruses, which are shed in the highest
+      concentration in nasal secretions. Studies suggest a person is most likely
+      to transmit rhinoviruses in the second to fourth day of infection, when
+      the amount of virus in nasal secretions is highest. Researchers also have
+      shown that using aspirin to treat colds increases the amount of virus shed
+      in nasal secretions, possibly making the cold sufferer more of a hazard to
+      others. Prevention Handwashing is the simplest and most effective way to
+      keep from getting rhinovirus colds. Not touching the nose or eyes is
+      another. Individuals with colds should always sneeze or cough into a
+      facial tissue, and promptly throw it away. If possible, one should avoid
+      close, prolonged exposure to persons who have colds. Because
+      rhinoviruses can survive up to three hours outside the nasal passages on
+      inanimate objects and skin, cleaning environmental surfaces with a
+      virus-killing disinfectant might help prevent spread of
+      infection. A cold vaccine? The development of a vaccine
+      that could prevent the common cold has reached an impasse because of the
+      discovery of many different cold viruses. Each virus carries its own
+      specific antigens, substances that induce the formation of specific
+      protective proteins (antibodies) produced by the body. Until ways are
+      found to combine many viral antigens in one vaccine, or take advantage of
+      the antigenic cross-relationships that exist, prospects for a vaccine are
+      dim. Evidence that changes occur in common-cold virus antigens further
+      complicate development of a vaccine. Such changes occur in some influenza
+      virus antigens and make it necessary to alter the influenza vaccine each
+      year. Treatment Only symptomatic treatment is available for
+      uncomplicated cases of the common cold: bed rest, plenty of fluids,
+      gargling with warm salt water, petroleum jelly for a raw nose, and aspirin
+      or acetaminophen to relieve headache or fever. A word of
+      caution: several studies have linked the use of aspirin to the
+      development of Reye's syndrome in children recovering
+      from influenza or chickenpox. Reye's syndrome is a rare but serious
+      illness that usually occurs in children between the ages of three and 12
+      years. It can affect all organs of the body, but most often injures the
+      brain and liver. While most children who survive an episode of Reye's
+      syndrome do not suffer any lasting consequences, the illness can lead to
+      permanent brain damage or death. The American Academy of Pediatrics
+      recommends children and teenagers not be given aspirin or any medications
+      containing aspirin when they have any viral illness, particularly
+      chickenpox or influenza. Many doctors recommend these medications be used
+      for colds in adults only when headache or fever is present. Researchers,
+      however, have found that aspirin and acetaminophen can suppress certain
+      immune responses and increase nasal stuffiness in
+      adults. Nonprescription cold remedies, including decongestants and
+      cough suppressants, may relieve some cold symptoms but will not prevent,
+      cure, or even shorten the duration of illness. Moreover, most have some
+      side effects, such as drowsiness, dizziness, insomnia, or upset stomach,
+      and should be taken with care. Nonprescription antihistamines may
+      have some effect in relieving inflammatory responses such as runny nose
+      and watery eyes that are commonly associated with
+      colds. Antibiotics do not kill viruses. These prescription drugs
+      should be used only for rare bacterial complications, such as sinusitis or
+      ear infections, that can develop as secondary infections. The use of
+      antibiotics "just in case" will not prevent secondary bacterial
+      infections. Does vitamin C have a role? Many people are
+      convinced that taking large quantities of vitamin C will prevent colds or
+      relieve symptoms. To test this theory, several large-scale, controlled
+      studies involving children and adults have been conducted. To date, no
+      conclusive data has shown that large doses of vitamin C prevent colds. The
+      vitamin may reduce the severity or duration of symptoms, but there is no
+      definitive evidence. Taking vitamin C over long periods of time in
+      large amounts may be harmful. Too much vitamin C can cause severe
+      diarrhea, a particular danger for elderly people and small children. In
+      addition, too much vitamin C distorts results of tests commonly used to
+      measure the amount of glucose in urine and blood. Combining oral
+      anticoagulant drugs and excessive amounts of vitamin C can produce
+      abnormal results in blood-clotting tests. Inhaling steam also has
+      been proposed as a treatment of colds on the assumption that increasing
+      the temperature inside the nose inhibits rhinovirus replication. Recent
+      studies found that this approach had no effect on the symptoms or amount
+      of viral shedding in individuals with rhinovirus colds. But steam may
+      temporarily relieve symptoms of congestion associated with
+      colds. Interferon-alpha has been studied extensively for the
+      treatment of the common cold. Investigators have shown interferon, given
+      in daily doses by nasal spray, can prevent infection and illness.
+      Interferon, however, causes unacceptable side effects such as nosebleeds
+      and does not appear useful in treating established colds. Most cold
+      researchers are concentrating on other approaches to combatting cold
+      viruses. The Outlook Thanks to basic research, scientists know more about
+      the rhinovirus than almost any other virus, and have powerful new tools
+      for developing antiviral drugs. Although the common cold may never be
+      uncommon, further investigations offer the hope of reducing the huge
+      burden of this universal problem. Keeping on Top of Your Condition Keeping in tune with your disease or condition not only makes treatment less intimidating but also increases its chance of success, and has been shown to lower a patients risk of complications.  As well, as an informed patient, you are better able to discuss your condition and treatment options with your physician. A new service available to patients provides a convenient means of staying informed, and ensures that the information is both reliable and accurate.  If you wish to find out more about HealthNewsflash's innovative service, take the tour . About Us Contact Us SiteMap Medical Question Directories All information on this web site is for general knowledge only and is not intended to function as, or substitute, professional medical advice, diagnosis or treatment. Never disregard, or delay in seeking, professional medical advice because of something you have read on or through this web site.  Use of the HealthNewsflash online service is subject to our Disclaimer . Cop

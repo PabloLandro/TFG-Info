@@ -1,0 +1,276 @@
+
+HTTP/1.1 200 OK
+Date: Thu, 26 Apr 2012 20:04:24 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Powered-By: Mono
+Connection: close
+Content-Type: text/html
+
+AVAC: Global Advocacy for HIV Prevention Donate | Contact Us | Events | Home By Prevention Option Vaccines Microbicides Voluntary Medical Male Circumcision PrEP HSV-2 Suppression Treatment as Prevention HPV By Topic Policy Research Process Ethics Community Engagement Current Research Global Map Timeline Trials Clinical Site Capacity Database Px Wire Anticipating Results Hormonal Contraceptives and HIV Risk Download Materials Research Literacy Database Meeting Reports and Materials Publications Educational Materials Presentation Center Order Publications Materiales en Espanol Advocates' Corner Take Action Advocates' Network P-Values Weekly NewsDigest Calendar of Events The Omololu Falobi Award Links For Media Press Releases AVAC in the News Media Inquiries About AVAC Our Story Programs Staff Donors Board AVAC Fund Support AVAC Financial Information Jobs Quick Links By Prevention Option Vaccines Microbicides Voluntary Medical Male Circumcision PrEP HSV-2 Suppression Treatment as Prevention HPV Share Print Thank you so much for taking the time to
+complete the survey. We hope that it will
+ensure our time together in Nairobi is very
+well spent! Please find below some answers and
+background information on some of the
+information covered in the survey. AVAC Partners’ Forum 2011 Pre-forum survey Answers Knowledge 1. Pre-exposure prophylaxis for HIV
+prevention - or PrEP - is: (a) A 4-week course of antiretroviral drugs
+(ARVs) that is started within 72 hours after
+potential HIV exposure (e.g., unprotected sex
+with someone of unknown HIV status) to lower or
+eliminate chances of HIV infection (b) An injection or series of injections
+that HIV-negative individuals receive once in
+their lifetime to reduce risk of HIV infection
+in case of future exposure (c) An approach where HIV-negative people
+would use ARVs regularly to reduce the risk of
+acquiring HIV infection (d) All of the above Answer: (c) An approach where HIV-negative
+people would use ARVs regularly to reduce the
+risk of acquiring HIV infection Option (a) refers to the strategy known as
+PEP, or post-exposure prophylaxis. PEP is a
+short-course regimen of a combination of ARVs,
+which are meant to reduce the risk of infection
+after a potential exposure. Regarding option
+(b), there is a small-scale study of injectable
+PrEP but it is not likely that it would confer
+lifetime protection. For more information on PrEP for HIV
+prevention, visit www.avac.org/prep . 2. Microbicides are being
+tested: (a) As gels, creams and films (b) For vaginal and rectal use (c) As vaginal rings (d) All of the above (a) and (c) only Answer: (d) All of the above For more on the range of microbicides
+being tested visit www.avac.org/microbicides ;
+for more on rectal microbicide research see the
+International Rectal Microbicides Advocates
+website at www.rectalmicrobicides.org ;
+and for more on vaginal ring studies visit www.ipmglobal.org . 3. The term “clinical trial” refers
+to: (a) A trial of an experimental product
+conducted in animals (b) An investigation into whether a study
+followed international ethics guidelines (c) A trial conducted in humans to
+determine unknown characteristics of either an
+experimental or a licensed product or
+intervention (a) and (c) Answer: (c) A trial conducted in humans to
+determine unknown characteristics of either an
+experimental or a licensed product or
+intervention Clinical trials, by definition, are
+conducted in humans. The term clinical can be
+associated with the function of the human body.
+Animal studies are referred to as pre-clinical
+studies, because they happen before a product
+goes into human testing. For more on the clinical trials process
+visit www.avac.org/ht/d/sp/i/298/pid/298 . 4. Male circumcision: (a) Was proven in three different
+randomized clinical trials to reduce the risk
+of HIV in heterosexual men by 39 percent (b) Has been proven to protect the
+circumcised male’s female partner from HIV
+infection (c) Has religious and cultural ties that
+will need to be considered as countries and
+communities roll it out (d) Is currently being studied in several
+randomized controlled trials around the world
+to verify initial efficacy data from African
+countries Answer: (c) Has religious and cultural ties
+that will need to be considered as countries
+and communities roll it out In some communities (many of which are in
+areas of sub-Saharan Africa where male
+circumcision is being rolled out), male
+circumcision has strong cultural ties. It can
+be a rite of passage for young men into
+adulthood, or part of a tradition in infant
+boys—both are rooted in local culture and/or
+religion. There are no data on the HIV
+prevention effect of traditional male
+circumcision, only medical male circumcision.
+For more on medical male circumcision for HIV
+prevention, visit www.malecircumcision.org Randomized clinical trials on male
+circumcision showed a reduction in risk of
+infection by approximately 60 percent, not 39
+percent as per answer (a). Circumcision has not
+proven to be protective for women; see more
+information on implications for women at: http://malecircumcision.org/advocacy/male_circumcision_advocacy_women.html .
+Longer-term outcomes of male circumcision are
+being followed in original trial cohorts; these
+are observational studies, however, and because
+the effectiveness of male circumcision has been
+proven, they are not conducted as randomized
+controlled trials. 5. True/False: Data Safety Monitoring
+Boards normally include members of the research
+team conducting the trial in review. Answer: False The role of the Data Safety Monitoring Board
+(DSMB) is to periodically review blinded data
+during the course of a trial. An important
+aspect of a DSMB or similar monitoring body is
+that each of the members are independent of the
+trial and are able to more objectively review
+the data and trial conduct to ensure that the
+trial is proceeding ethically. It is also
+important that investigators remain blinded to
+the data to avoid bias. For more on the role of DSMBs in research,
+visit www.avac.org/dsmb . 6. True/False: Male condoms were not
+tested for prevention of HIV transmission in
+randomized controlled clinical
+trials. Answer: True After HIV was identified as being
+transmitted through sexual intercourse, condoms
+were one of the first interventions recommended
+to reduce risk of infection. This
+recommendation, which has averted countless
+infections, was not based on a randomized
+trial. However, condom effectiveness for STD
+and HIV prevention has been demonstrated by
+both laboratory and epidemiologic studies.
+Evidence of condom effectiveness is also based
+on theoretical and empirical data regarding the
+transmission of different STDs, the physical
+properties of condoms, and the anatomic
+coverage or protection provided by
+condoms. For more about condom effectiveness, please
+visit, www.cdc.gov/condomeffectiveness/brief.html 7. True/False: If all participants in a
+trial are provided with standard HIV prevention
+tools, researchers won’t be able to tell if
+the experimental intervention (e.g.
+microbicide) works. Answer: False Participants in effectiveness trials are
+ethically required to receive the existing
+package of proven HIV prevention methods
+including things like treatment for sexually
+transmitted infections, condoms, and behavior
+change counseling. Some of the participants are
+randomly assigned to receive the experimental
+product, while the other participants receive a
+placebo, a “dummy” product that has no
+effect on the body. No participant knows
+whether he or she is receiving the experimental
+vaccine or placebo. Over the course of the
+trial, some participants get infected even
+though they are being counseled and receiving
+prevention services. This is consistent with
+what we know about the AIDS epidemic: even with
+information and services, not everyone can
+protect himself or herself all the time. At the end of the trial, researchers compare
+the rates of new infections in the participants
+who received the experimental product and in
+those who received the placebo. If there are
+significantly fewer new infections in the
+experimental group, that is, if the difference
+is greater than that which can be attributed by
+chance, this suggests that the product is
+beneficial. See a training session, "Clinical
+Trials – How Do We Know if a Product
+Works?” that fully explains this
+concept. 8. True/False: Some microbicides and
+vaccines contain HIV. Answer: False Myths may circulate in some places about
+microbicides and/or vaccines containing HIV,
+but this is not true. AIDS vaccines and
+microbicides DO NOT contain HIV. Some vaccines
+used against other diseases (e.g., yellow
+fever) do use weakened forms of the organism
+they fight; however, this approach is not used
+in HIV vaccine development. Only manufactured
+copies of small pieces of genetic material from
+HIV are used in vaccine candidates – these
+cannot cause HIV infection. 9. True/False: In some clinical trials,
+the research team conducting the study knows
+who is in the intervention arm and who is in
+the control arm. Answer: True While most HIV prevention trials are
+double-blinded (meaning that neither the
+researcher nor the participant knows who is in
+the intervention arm and who is in the placebo
+arm), this is not always the case. For
+instance, there is no way circumcision trials
+could be blinded since the intervention
+involves a surgical procedure. Outside of the
+field of HIV prevention research, many studies
+are either single-blinded or not blinded at
+all; for instance, this is the case in many
+studies comparing different types of treatment
+where it would be unethical for patients not to
+know what treatment regimen they were
+receiving. 10. Which of the following is true with
+regard to HIV vaccine research? (a) Vaccinations were discontinued in a
+late-stage trial in 2007 because interim data
+indicated that more people in the vaccine group
+were becoming HIV-infected than in the placebo
+group (b) The most recently completed large-scale
+efficacy trial, which ended in 2009 and was
+conducted in Thailand, showed that the
+candidate vaccine reduced the risk of HIV
+infection by approximately 31 percent (c) No vaccine in clinical testing can give
+you HIV infection (d) All of the above. (b) and (c) only Answer: (d) All of the above For more on AIDS vaccine basics and
+background, visit www.avac.org/vaccines; for
+more on the Step trial (referenced in option
+(a)) visit www.avac.org/vax_update.htm ;
+for more on the RV144 trial visit www.avac.org/rv144 ;
+and see above (question 8) for more on why no
+AIDS vaccine can cause HIV infection. 11. If someone asked you if PrEP
+prevents HIV infection, how would you answer?
+Give a brief explanation. Data from the iPreX study (released November
+2010) shows us that a once-daily regimen of the
+treatment drug TDF/FTC (also known as Truvada)
+is 44 percent effective at reducing the risk of
+HIV infection in gay men and transgender women.
+(For more information visit
+www.avac.org/iprex.) However, we do not yet
+know if PrEP works in other populations, with
+other drugs, or with TDF/FTC in regimens other
+than daily dosing. There are a number of other
+trials ongoing looking at the safety and
+effectiveness of PrEP in other populations and
+other regimens. So, we know that PrEP is partially effective
+in the MSM population, but we don’t know if
+it is in any other population. For details on ongoing PrEP trials and
+results visit www.avac.org/trials/prep . 12. In your own words, describe what you
+understand the term “treatment as
+prevention” to mean. This is an interesting term as it can mean
+different things to different people. Some
+people see it as an umbrella term for ARV-based
+HIV prevention – for example the use of
+ARV-based microbicides, PrEP in HIV-negative
+people to prevent HIV infection and also use of
+ensuring more HIV-positive people use ARVs to
+reduce passing HIV on. However, generally
+“Treatment as prevention” is used to
+describe the use of ARVs by HIV-positive people
+to reduce the risk of them passing HIV to
+others. The strategy would function as a
+secondary benefit of antiretroviral treatment
+after its primary purpose of improving an
+individual’s health. The recent HPTN 052
+trial provided evidence to this – that
+starting HIV-positive people much earlier on
+ARVs reduced passing on HIV to their partners
+within discordant couples. For more on these results and treatment as
+prevention generally visit www.avac.org/treatmentasprevention . 13. Describe how you would explain
+the concept of partial efficacy (as in, ‘The
+trial showed that the microbicide was partially
+effective’) to someone with limited or no
+understanding of research. Include helpful
+analogies or other creative explanations if
+possible. We are especially interested in how people
+explain this complicated term so we look
+forward to your responses. It may be useful to think of partial
+efficacy/effectiveness as partial protection.
+This means that the product will not provide
+100% effectiveness. It can reduce the risk of
+infection by a certain amount, let say 30% or
+60%. This is possible because a variety of
+factors affect our immune systems and, by
+extension, our ability to respond to a vaccine
+or a microbicide. If a product is partially effective, that
+means the user is not guaranteed to receive the
+effect it’s supposed to have. The result is
+that only a certain fraction of the population
+who gets the product or intervention will stay
+or become healthy (depending on what the
+product is supposed to do). One analogy is the following. Whenever you
+have a headache, you take a pain reliever
+(aspirin, panadol, etc.). However, the pill
+does not always make your headache go away. Or,
+imagine that you and a friend both have a
+headache. You both take the same pain reliever,
+and your friend’s headache goes away, but
+yours does not. There are many other factors,
+e.g. severity of one headache over another or
+other conditions of the body, that influence
+whether the pain reliever will actually relieve
+the headache. It’s important to remember that most
+drugs, vaccines, and other interventions we
+know are partially effective. We know that
+existing and new HIV prevention methods are or
+will be partially effective. Products that have
+less that 100% effectiveness can still have a
+significant impact on the HIV epidemic,
+particularly in cases where consistent condom
+use is not feasible. Site Map | Links | Jobs | Disclaimer | Webmaster | © 2012 AVAC: Global Advocacy for HIV Prevention Lima | New York | Rio | London | Johannesburg | Nairobi | Delhi | Bangkok | Sydney AVAC: Global Advocacy for HIV Prevention 101 West 23rd Street · New York, NY +1 212.796.6423 (main) · avac@avac.org Copyright 2012,  All rights reserved. Design by Lo

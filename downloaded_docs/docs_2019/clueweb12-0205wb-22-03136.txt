@@ -1,0 +1,162 @@
+
+HTTP/1.1 200 OK
+Date: Thu, 16 Feb 2012 18:40:42 GMT
+Server: Apache
+X-Powered-By: PHP/5.3.10
+Connection: close
+Content-Type: text/html
+
+Diabetes New Cures from Old Foods HOME BIOTECHNOLOGY SCIENCE of the ORGANISM SCIENCE in SOCIETY PUBLICATIONS Search the ISIS website ISIS members area log in Views and goods advertized are not necessarily endorsed by Science in Society or the Inst. of Science in Society. ISIS Report 24/10/11 Diabetes New Cures from Old Foods We still do not understand diabetes, but where diet
+and exercise fail, some surprisingly common foods may help Prof.
+Peter Saunders A fully
+referenced version of this
+report is posted on ISIS members website and is otherwise available for
+download here Please circulate widely and repost, but you must give the URL of the original and preserve all the links back to articles on our website Blood glucose and diabetes The condition we call diabetes has been recognised for
+a very long time, and in many societies; its two characteristic features being the
+passing of too much urine and excess sugar in the urine. People had no idea
+what caused these symptoms, but they managed to find remedies, some of which
+are still being used. Today we have a much better picture
+of what diabetes is, though we still know less than you may think, and we are
+still mostly treating symptoms rather than curing the disease. Briefly, there is always sugar (glucose) in your blood;
+there has to be because that’s how energy is distributed around your body. It
+should be at a concentration ~5 mmol/l. If it falls much below that, even for a
+short time, the brain will be starved of energy and this can cause fainting. After
+a meal it will be considerably higher, which doesn’t matter as long as it returns
+to normal within a few hours. If it stays chronically high, however, the
+familiar symptoms of diabetes will appear and there is a long term risk of
+damage to small blood vessels and consequently to the eyes, the kidneys and
+various other parts of the body. Blood glucose is largely controlled
+by two hormones. When there is too much, the beta cells in the pancreas secrete
+more insulin, which stimulates fat cells in the body to take up glucose. When
+there is too little, the alpha cells in the pancreas secrete more glucagon, and
+this stimulates the liver to release more glucose into the blood. (Actually it
+is considerably more complicated, but this is the basic picture you’ll find in
+popular accounts and in textbooks.) This control system can go wrong in
+several different ways, which is why diabetes is really a condition rather than
+a disease.  It may be that the pancreas cannot produce insulin, usually because
+the beta cells have been destroyed by an auto-immune reaction. This is type 1
+diabetes, also known as “early onset” diabetes as it generally appears in the
+relatively young. Type 1 diabetes must be managed by frequent injections of
+insulin. Many researchers are working on better
+ways of supplying just the right amount of insulin to keep the blood glucose
+close to the optimal 5 mmol/l. Others are trying to discover how to restore the
+beta cells so that that there is no need to supply insulin at all. In type 2 diabetes, in contrast,
+the body can still produce insulin, often in what appears to be appropriate
+amounts, and yet the ‘resting’ blood sugar (the level when you have neither
+eaten nor exercised recently) is too high and comes down too slowly from the
+peak after a meal. Why this happens is not well understood. Most accounts
+ascribe it to “insulin resistance”, by which they mean that the fat cells are
+less responsive to insulin than they should be and so do not respond adequately
+to the signal that they are to take up more glucose. However, it is becoming increasingly
+clear that is not the whole story. It does not account for some typical
+features of type 2 diabetes, for example the tendency to have high glucagon
+levels even when there is already too much glucose in the blood. In someone without
+diabetes the glucagon level falls sharply, as one would expect. That suggests
+the problem is in the pancreas rather than the fat cells (see [1] A reappraisal of the blood glucose homeostat ,
+ ISIS scientific publication). Treatments for type 2 diabetes If you have mild type 2 diabetes, it may be enough to
+watch your diet and take more exercise. If that doesn’t work, there are a
+number of drugs your doctor can prescribe. What is interesting is that they
+don’t all do the same thing. In the case of metformin, the most commonly
+prescribed (see Figure 1), there isn’t even a consensus about what it actually
+does. Figure
+1   Metformin, C 4 N 5 H 11 , from Benjah-bmm27 Different drugs are supposed to
+improve the uptake of glucose by the fat cells, reduce the release of glucose
+from the liver, stimulate the beta cells to produce more insulin, inhibit the
+secretion of glucagon from the alpha cells, or reduce the absorption of glucose
+in the intestine [2, 3]. All of these are obviously ways of lowering blood
+sugar, but none of them cures diabetes; you have to keep taking them. Even
+then, your condition may deteriorate. If we knew the cause of type 2 diabetes –
+more precisely if we knew the most important cause of the common forms of type
+2 diabetes – then we might be able to develop more effective treatments or,
+even better, discover how to prevent it occurring in the first place. But we aren’t there yet, and
+researchers are looking again at some of the traditional medicines that have
+been used for centuries. Traditional remedies There are many traditional remedies for diabetes. One
+of them, French lilac or goat’s rue, is the origin of the biguanide class of
+drugs that includes metformin. Others include Indian kino (the gum
+of the tree Pterocarpus marsupium ), leaves of Gymnema sylvestre ,
+fenugreek seeds, blueberry leaves, and ginseng [4]. At present, two in
+particular are attracting attention, bitter melon and cinnamon: Bitter melon Bitter melon ( Momordica charantia ) is a
+vegetable grown in Asia, Africa, the Caribbean and South America. There are a
+number of different varieties; the two most often seen in shops in the UK are the large, pale green Chinese variety and the smaller and darker coloured kerala from India. In traditional medicine, bitter
+melon is used as a treatment for a number of conditions, including diabetes. Recently
+there has been collaboration between a group at the Shanghai Institutes for
+Biological Sciences in China and the Garvan Institute for Medical Research at
+the University of New South Wales in Australia. They tested different fractions
+of bitter melon and found five molecules (four cucurbitane glycosides and a
+karaviloside) that boost the level of an enzyme, adenosine
+monophosphate-activated protein kinase (AMPK), a key regulator of glucose
+uptake [5]. There are already drugs that target
+AMPK but they have only moderate effects and are often associated with serious
+side effects. A particular advantage of the cucurbitane triterpenoids is that
+they work at very low doses; they are effective at concentrations as low as 10
+nanomolar, whereas most plant derived anti-diabetic drugs have effects only at
+micro- or milli-molar concentrations [6]. Cinammon Cinnamon has also been widely used as a remedy for
+diabetes. Researchers at the
+Department of Human Nutrition, NWFP Agricultural University, Peshawar,
+Pakistan, led by Alam Khan [7] found that levels as low
+as 1g of cinnamon per day reduced glucose, triglyceride, LDL cholesterol and
+total cholesterol levels in patients with type 2 diabetes. Another research team at Malmö University Hospital, Malmö, Sweden, led by Joanna Hlebowicz [8] found that 3g of cinnamon
+per day did not significantly affect blood glucose, but their work does not
+contradict that of Khan’s group because their experiments were different. They
+used healthy volunteers rather than diabetics, and they took blood samples
+after their subjects had eaten a meal whereas Khan and co-workers measured the
+fasting level. And while Hlebowicz’ group did not find an effect on glucose,
+they found that cinnamon did reduce the postprandial (i.e. after a meal)
+insulin level and increase that of glucagon-like peptide 1 (GLP-1). Both experiments confirm that
+cinnamon has a beneficial effect on the glucose control system, but how it does
+it is still not known. Hlebowicz and colleagues propose that cinnamon decreases
+the insulin demand by enhancing the uptake of glucose by fat cells. This seems
+unlikely because while it may be that less insulin is needed when the insulin
+receptors on the fat cells are more active, the beta cells, located in the
+pancreas and far away from the fat cells, have no way of knowing that. This
+suggests instead that the cinnamon may be acting instead in the pancreas (see
+below). The role of glucagon Almost all work on diabetes, whether clinical,
+experimental or theoretical, concentrates on insulin and glucose and the
+interactions between them. Less attention is paid to the other major player in
+the system, glucagon. My co-workers at Stellenbosch University in South Africa and I have pointed out that the glucagon-producing
+alpha cells are not very sensitive to the glucose concentration [1]. They need
+some other signal to tell them when to stop secreting glucagon, and this is
+almost certainly from the nearby beta cells. We know there is communication
+among beta cells and that this communication is impaired in diabetics. If the
+alpha cells depend on signals from the beta cells, then if communication is blocked,
+they will continue to secrete glucagon when the glucose level is too high. Even
+if the fat cells are responding normally to insulin and taking up glucose at
+the appropriate rate, the glucose level will fall more slowly than it should
+because the liver is being stimulated to release more into the blood stream. The likely cause of impaired
+communication in the pancreas is the build up of amyloid fibrils. These are
+observed in autopsies of people who had type 2 diabetes but they have always
+been thought of as a consequence of diabetes, not a cause [1]. The amyloid found in the pancreas
+of diabetics is similar to, though not identical with, the amyloid believed to
+be a major cause of Alzheimer’s disease, where the plaques interfere with the
+synapses , i.e., with communication in the brain. There is considerable
+research going on at the moment to develop amyloid dispersants as a treatment
+for Alzheimer’s. If this succeeds, it may lead to a treatment for Type 2
+diabetes as well. Recently, there has been an
+intriguing development. Michael Ovadia and co-workers at the University of Tel Aviv in Israel have found that an extract from cinnamon bark can inhibit the
+development of Alzheimer’s disease in mice [9, 10]. Experiments in the
+laboratory indicate that it is because the extract inhibits the formation of
+the amyloid plaques. It can also break up the plaques after they have formed. This
+could explain how cinnamon acts to counter diabetes. To conclude Type 1 diabetes is a typical disease in the sense that
+we know what it is, we know what causes it, and there is a treatment that is
+based on this knowledge and is quite effective. The problem is to improve the treatment
+and, hopefully, to find a way of restoring the ability of the pancreas to
+produce insulin. Things are far less clear with type
+2 diabetes. We know that certain drugs can alleviate the symptoms and we even
+know how many of them act, but this doesn’t tell us the cause of the condition.
+If you have a water tank with a leak in the bottom, you can keep the water
+level constant by allowing more to trickle in at the top. But that won’t fix the
+leak, and in time it’s going to get worse. The regulation of blood sugar is
+not simple and a lot happens where we cannot observe it directly. We can
+measure the glucose and hormone levels in blood taken from the arms of
+volunteers or patients but we cannot (for example) implant sensors to measure
+directly what is going on in the pancreas. We have to infer that from the
+measurements we can make and that requires mathematical models and experiments
+specifically designed to test and improve them (see  [11,12] Integral Rein Control in Physiology and Integral Rein Control in Physiology II , ISIS scientific publications). There are 7 comments on this article so far. Add your comment John Parfitt Comment left 24th October  2011  16:04:35 So what can can 80-year-old with a metal heart valve (therefore taking warfarin, slozem and digoxin) plus Zovirax for aggressive prostate cancer, do with powdered cinnamon for his Type 2 diabetes? Should I refer my very open-minded GP to your article and see if he objects to me putting a few grams on my breakfast cereal Jan Innes Comment left 24th October  2011  16:04:19 It would be good to know what proportions of the suggested alternative supplements to take daily.
+Many thanks.
+Jan Innes CS Symington Comment left 24th October  2011  16:04:15 Thank you for this excellent overview of diabetes and blood sugar... first time I've come close to understanding it. Peter Saunders Comment left 27th October  2011  07:07:22 John Parfitt: Why not? I wouldn't try it without checking with your doctor, but as you are fortunate enough to have one that's open minded...
+
+Jan Innes: A common recommendation is 1 gram of cinnamon per day, but I have no idea whether that would be suitable for you. nhlonipho gatyeni Comment left 27th October  2011  16:04:29 amazing, but can diabetes be reversed in children? Todd Millions Comment left 30th October  2011  11:11:18 I don't have diabetes(there is a family history on some branches,none on others).But I've a physiology and life stye(under demanding clime and conditions) that as I've learned too watch and ajust myself and diet,leaves me not testing borderline and fainting as blood sugar levels crash.So from this-
+1-sugar isn't just sugar nor grain- grain.Always use bran and germ brown grains(the pesticide/herbiside residues notwithstanding.)Along with the vit and minerals,whole grain is buffered.A longer more even burn.
+2-The same but more so for sugars(notwithstanding the toxic GM mods 'accidentally 'escaped).Always honey unpasturized(a very rich and complex mix indeed),seldom brown less refined and never refined and in particular corn syrups-the bt insert contamination is too high(officially or othe wise)and will inflame and wreck all internal organs along with the joints(see starlink-withdrawn for hog feed).Regard ALL corn product as contaminated at this point.Same for US rice(different 'accidental'escapes).
+3- cinniman BARK is useful.Small amounts(IN my experince less than one gram/day does as much good)-try mixing it with a fresher grade of ground ginger.This seems too enhance its digestive stimulating and buffering effects.It also works better than the  pharmawhore patented 'Miricles' for a suprising range of other conditions-and can be grown indoors too boot.
+While this approach has worked for me and continues too do so-the future is uncertian.The raft of GM escapes from blown down greenhouses in the US 4 years ago ,can only be consealed for so much longer.Thus the rush too bust up groups like the Canadain wheat board.Once any farmer beholden group that is big enough too sue monsanto or bayer is broken up,who cares if the contamination leaks out despite media(even public) and health athority complicity.So new staples becoming posion can only be reported after the fact.Bon Apitite dr. oliver springate-baginski Comment left 2nd February  2012  09:09:55 Thanks for the excellent article.  It hardly needs stating, but do be sure to use good quality, relatively fresh organic cinammon Comment on this article All comments are moderated. Name and email details are required. Name Email address Your comments Anti-spam question - just to prove you are human How many legs does a cat have? printer friendly version I-SIS is a not-for-profit organisation, depending on donations , membership fees, subscriptions , and merchandise sales to continue its work. Find out more about membership here Recent Publications Celebrating ISIS - Quantum Jazz Biology - 100 page book featuring essays and selected artwork from the 2011 ISIS event of the same name Order Now | Preview Green Energies - 100% Renewable by 2050 “A must-read for saving the climate” Order Now | More info The Rainbow and the Worm, The Physics of Organisms “Probably the Most Important Book for the Coming Scientific Revolution” Now in its Third Edition Buy Now | More info Food Futures Now: *Organic *Sustainable *Fossil Fuel Free How organic agriculture and localised food (and energy) systems can potentially compensate for all greenhouse gas emissions due to human activities and free us from fossil fuels Buy Now | More info The only radical science magazine on earth Science in Society 53 OUT NOW! Order your copy from our online store . GM Science Exposed. A comprehensive dossier containing more than 160 fully referenced articles from the Science in Society archives. NOW UPDATED Buy Now | More info GMO Free: Exposing the Hazards of Biotechnology to Ensure the Integrity of our Food Supply Buy Now | More info Join the I-SIS mailing list; enter your email address © 1999-2012 The Institute of Science in Society Contact the Institute of Science in Society MATERIAL ON THIS SITE MAY NOT BE REPRODUCED IN ANY FORM WITH

@@ -1,0 +1,49 @@
+Methyl Alcohol
+Methyl Alcohol
+CH4O 32.04
+Methanol.
+Methanol [67-56-1].
+» Methyl Alcohol contains not less than 99.5 percent of CH3OH.
+CautionMethyl Alcohol is poisonous.
+Packaging and storage Preserve in tight containers, remote from heat, sparks, and open flames.
+Add the following:
+USP Reference standards 11 
+USP Acetone RS.
+USP Methyl Alcohol RS . NF27
+Change to read:
+Identification
+A: Infrared Absorption 197F .
+B: The retention time of the major peak in the chromatogram of the Assay preparation corresponds to that in the chromatogram of the Standard preparation, as obtained in the Assay. NF27
+Acidity Mix 25 mL of water with 10 mL of alcohol and 0.5 mL of phenolphthalein TS, and add 0.02 N sodium hydroxide until a slight pink color persists after shaking for 30 seconds. Taking precautions to avoid absorption of carbon dioxide, add 19 mL (15 g) of Methyl Alcohol, mix, and titrate with 0.020 N sodium hydroxide: not more than 0.45 mL is required to produce a pink color.
+Alkalinity (as ammonia) Mix 28.6 mL (22.6 g) of it with 25 mL of water, add 1 drop of methyl red TS, and titrate with 0.020 N sulfuric acid: not more than 0.20 mL is required to produce a pink color (3 ppm).
+Water, Method I 921 : not more than 0.1%.
+Readily carbonizable substances 271  Cool 5 mL of sulfuric acid TS, contained in a small conical flask, to 10 , and add 5 mL of Methyl Alcohol dropwise with constant mixing, maintaining the temperature below 20 throughout the test: no discoloration develops.
+Nonvolatile residue Evaporate 250 mL of it in a 600-mL beaker on a steam bath, in a well-ventilated hood, until the volume is reduced to about 100 mL. Cool, transfer a portion of the liquid to a suitable, tared 50-mL platinum dish on a steam bath, evaporate, repeat the process until all of the liquid has been transferred, and evaporate to dryness. Dry at 105 for 30 minutes, cool, and weigh: the weight of the residue does not exceed 2 mg, corresponding to not more than 0.001% (w/w).
+Acetone and aldehydes (as acetone)
+Standard preparation Dilute 1.9 mL (1.5 g) of acetone with water to 1000 mL, then dilute 1.0 mL of this solution with water to 100 mL, and mix. Dilute 2 mL of the resulting solution with water to 5 mL, and mix. The Standard preparation contains 30 µg of acetone, and is freshly prepared.
+Test preparation Dilute 1.25 mL (1 g) of it with water to 5 mL, and mix.
+Procedure Adjust and maintain each solution at 20 . Add 5 mL of alkaline mercuricpotassium iodide TS to the Standard preparation and to the Test preparation, and mix: any turbidity produced in the Test preparation is not greater than that produced in the Standard preparation (0.003%).
+Readily oxidizable substances Cool 20 mL of it to 15 , add 0.1 mL of 0.1 N potassium permanganate, and allow to stand at 15 : the pink color does not completely disappear within 5 minutes.
+Change to read:
+Assay
+System suitability solution Dilute 1.0 mL of USP Methyl Alcohol RS and 1.0 mL of USP Acetone RS with tetrahydrofuran to 50 mL.
+Internal standard solution Prepare a 2% (v/v) acetonitrile solution in tetrahydrofuran.
+Standard preparation Dilute 1.0 mL of USP Methyl Alcohol RS, accurately measured, with Internal standard solution to 50.0 mL.
+Assay preparation Dilute 1.0 mL of Methyl Alcohol, accurately measured, with Internal standard solution to 50.0 mL.
+Chromatographic system (see Chromatography 621 ) The gas chromatograph is equipped with a flame-ionization detector, maintained at about 280 , and a 0.32-mm × 30-m fused-silica capillary column coated with a 1.8-µm layer of phase G43. The carrier gas is helium with a linear velocity of about 35 cm per second and a split ratio of 1:20. The column temperature is set at 40 , maintained at 40 for 5 minutes, and then increased to 240 over a period of 10 minutes. The injection port temperature is maintained at 200 . Chromatograph the System suitability solution and the Standard preparation, and record the peak responses as directed for Procedure: the relative retention times are 1.0 for methyl alcohol, about 1.6 for acetone, and about 1.8 for acetonitrile; the resolution, R, between the methyl alcohol and acetone peaks in the System suitability solution is not less than 15; the tailing factor for methyl alcohol from the System suitabilitiy solution is not more than 1.5; and the relative standard deviation for replicate injections for the ratio of the peak area response of methyl alcohol to acetonitrile in the Standard preparation is not more than 2.0%.
+Procedure Separately inject equal volumes (about 1 µL) of the Standard preparation and the Assay preparation into the chromatograph, record the chromatograms, and measure the peak responses. Calculate the quantity, in mg, of methyl alcohol in the portion of Methyl Alcohol taken by the formula:
+50C(RU / RS)
+in which C is the concentration, in mg per mL, of USP Methyl Alcohol RS in the Standard preparation; and RU and RS are the peak area response ratios obtained from the Assay preparation and the Standard preparation, respectively. NF27
+Auxiliary Information Please check for your question in the FAQs before contacting USP.
+Topic/Question Contact Expert Committee
+Monograph Robert H. Lafaver, B.A.
+Scientist
+1-301-816-8335 (EM105) Excipient Monographs 1
+Reference Standards Lili Wang, Technical Services Scientist
+1-301-816-8129
+RSTech@usp.org
+USP32NF27 Page 1280
+Pharmacopeial Forum: Volume No. 34(5) Page 1226
+Chromatographic Column
+METHYL ALCOHOL
+Chromatographic columns text is not derived from, and not part of, USP 32 or NF 27.

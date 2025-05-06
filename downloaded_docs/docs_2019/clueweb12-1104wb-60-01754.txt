@@ -1,0 +1,79 @@
+
+HTTP/1.1 200 OK
+Date: Wed, 21 Mar 2012 17:12:15 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: close
+Server: Apache
+Cache-Control: max-age=0
+Expires: Wed, 21 Mar 2012 17:12:15 GMT
+
+Anti-Aging-Guide -- Your plan to stay young -- HYPERLIPIDEMIA Anti-Aging-Guide.com Printable Version To print this page, please select File/Print 
+      from your browser's menu ANTI-AGING BIOMEDICINE. HIGH TECH BIO-MEDICAL TECHNOLOGIES FOR DISEASE TREATMENT AND LIFE EXTENSION. EXPERIMENTAL AND CLINICAL DATA . 6.1 
+              HYPERLIPIDEMIA A strategy for 
+                  the ubiquitous overexpression of human catalase and CuZn superoxide 
+                  dismutase genes in transgenic mice. Ubiquitous overexpression 
+                  of CuZn superoxide dismutase does not extend life span in mice. Gene therapy for the hemoglobin 
+                  disorders. Mech Ageing Dev 
+                    2003 Feb;124(2):219-27. A strategy for the ubiquitous overexpression 
+                    of human catalase and CuZn superoxide dismutase genes in transgenic 
+                    mice. Chen X, Mele J, Giese H, Van Remmen 
+                    H, Dolle ME, Steinhelper M, Richardson A, Vijg J. Department of Cellular and Structural 
+                    Biology, University of Texas Health Science Center at San 
+                    Antonio, 78229, San Antonio, TX, USA. In the present study, we generated transgenic 
+                    mice that overexpress catalase or CuZn superoxide dismutase 
+                    (CuZnSOD) in all tissues using large genomic DNA fragments. 
+                    An 80 kb human genomic DNA, containing the 33 kb human CAT 
+                    gene as well as the 41 kb of 5' and the 6 kb of 3' flanking 
+                    regions, was obtained by screening a human P1 library and 
+                    was used to produce transgenic mice Tg(CAT). Transgenic mice 
+                    Tg(SOD1) were produced by a similar strategy using a 64 kb 
+                    human genomic DNA containing the 10 kb human SOD1 gene and 
+                    the 27 kb of both 5' and 3' flanking regions. Catalase mRNA 
+                    levels were 2-6- fold higher and catalase activity levels 
+                    were 2-4- fold higher in the various tissues of the hemizygous 
+                    Tg(CAT) mice compared with wild type mice. The mRNA levels 
+                    for CuZnSOD were 2-12- fold higher and the CuZnSOD activity 
+                    levels were 2-5- fold higher in the hemizygous Tg(SOD1) mice 
+                    compared with wild type mice. In summary, our study demonstrates 
+                    that a strategy of using large genomic DNA containing either 
+                    the entire human CAT or SOD1 gene with large flanking regions 
+                    gives ubiquitous increased _expression of CuZnSOD and catalase. 
+                    In addition, the _expression of catalase closely reflects 
+                    the tissue specific pattern found in the endogenous gene. 
+                    These transgenic mice will be useful in studying the role 
+                    of oxidative stress/damage in aging and age-related pathologies. J Gerontol A Biol Sci Med Sci 2000 
+                      Jan;55(1):B5-9. Ubiquitous overexpression of CuZn 
+                      superoxide dismutase does not extend life span in mice. Huang TT, Carlson EJ, Gillespie AM, 
+                      Shi Y, Epstein CJ. Department of Pediatrics, University 
+                      of California, San Francisco 94143-0546, USA. Oxidative damage has been implicated 
+                      in the aging process and in a number of degenerative diseases. 
+                      To investigate the role of oxygen radicals in the aging 
+                      process in mammals, the life spans of transgenic mice on 
+                      a CD-1 background expressing increased levels of CuZn superoxide 
+                      dismutase (CuZnSOD), the enzyme that metabolizes superoxide 
+                      radicals, were determined. Homozygous transgenic mice with 
+                      a two- to five-fold elevation of CuZnSOD in various tissues 
+                      showed a slight reduction of life span, whereas hemizygous 
+                      mice with a 15- to 3-fold increase of CuZnSOD showed no 
+                      difference in life span from that of the nontransgenic littermate 
+                      controls. The results suggest that constitutive and ubiquitous 
+                      overexpression of CuZnSOD alone is not sufficient to extend 
+                      the life spans of transgenic mice. Curr Hematol Rep. 2003 Jul;2(4):348-55. Gene therapy for the hemoglobin disorders. Persons DA, Nienhuis AW. St. Jude Children's Research Hospital, 
+                      332 North Lauderdale Drive, Memphis, TN 38105, USA. The hematologic disorders of beta-thalassemia 
+                      and sickle cell disease are the most prevalent of human 
+                      genetic diseases. Although palliative therapies and curative 
+                      stem cell transplantation therapy have been developed for 
+                      these disorders, treatment still remains suboptimal and 
+                      many patients suffer significant morbidity and early mortality. 
+                      Therefore, development of a gene therapy approach has been 
+                      sought for many years. Major progress in the globin gene 
+                      therapy field has been achieved by several laboratories. 
+                      Using lentiviral vectors to obtain high-level _expression 
+                      of complex globin gene cassettes, therapeutic correction 
+                      of several murine models of beta-thalassemia, and sickle 
+                      cell disease was recently reported. This progress, coupled 
+                      with developments in the ability to select and expand genetically 
+                      modified stem cells in vivo, has advanced the possibility 
+                      of gene therapy for the hemoglobin disorders in the near 
+                      future. We review the developments in several areas that 
+                      are critical for successful gene 

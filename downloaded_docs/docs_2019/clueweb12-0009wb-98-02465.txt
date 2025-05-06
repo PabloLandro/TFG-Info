@@ -1,0 +1,13 @@
+
+HTTP/1.1 200 OK
+Date: Sat, 11 Feb 2012 17:09:32 GMT
+Server: Apache/2.2.21 (Unix) mod_ssl/2.2.21 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+X-Powered-By: PHP/5.3.6
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Sat, 11 Feb 2012 17:09:32 GMT
+Connection: close
+Content-Type: text/html
+
+Allergies Guide - DeLonghi Dehumidifiers Main Menu Allergies Home Page About Allergies Allergy Relief Allergy FAQs Latest Allergy News Most Recent Updates Internet Resources Search Allergies Home Page Allergy Relief Allergy-Reducing Products DeLonghi Dehumidifiers DeLonghi Dehumidifiers The DeLonghi dehumidifiers for home, basement, and office help prevent water damage, control odors, mildew, mold, allergies and asthma. DeLonghi DE400P Low Temperature Dehumidifier - 40 Pint with Pump DE400P low temperature dehumidifiers for home, basement, and office dehumidification help prevent water damage, control odors, mildew, mold, allergies and asthma. Free Shipping. Delonghi DDE 65E Dehumidifier - 65 Pint Home, office, and basement dehumidifiers by Delonghi with electronic control panel and LCD display for temperature operation down to 44deg.F. Dehumidifier covers up to a 1300 sq. ft. room & removes 65 p

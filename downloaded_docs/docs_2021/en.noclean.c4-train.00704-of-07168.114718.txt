@@ -1,0 +1,475 @@
+Salivary ferritin and iron as a marker and new discriminating indices between iron deficiency anemia and thalassemia: a meta-analysis | Russian Open Medical Journal
+Russian Open Medical Journal
+Home
+About Us
+Editorial
+Indexed / Abstracted
+History of RusOMJ
+Contacts
+Archive
+Current issue
+2019, volume 8
+Issue 1
+2018, volume 7
+Issue 1
+Issue 2
+Issue 3
+Issue 4
+2017, volume 6
+Issue 1
+Issue 2
+Issue 3
+Issue 4
+2016, volume 5
+Issue 1
+Issue 2
+Issue 3
+Issue 4
+2015, volume 4
+Issue 1
+Issue 2
+Issue 3
+Issue 4
+2014, volume 3
+Issue 1
+Issue 2
+Issue 3
+Issue 4
+2013, volume 2
+Issue 1
+Issue 2
+Issue 3
+Issue 4
+2012, Volume 1
+Issue 1
+Issue 2
+Issue 3
+For Authors
+Authors’ instructions
+Submit Manuscript
+Citation Format
+Publication Charges
+Why publish in RusOMJ?
+Peer Review Process
+Open Access Policy
+Informed Consent Policy
+Publication Ethics
+Terms of Use
+Для авторов [rus]
+Контакты
+Лингвистические сервисы
+О журнале
+Порядок рецензирования рукописей
+Публикационная политика журнала
+Редакционные услуги
+Состав редакции
+Требования к рукописям
+Links
+You are here
+Home » Salivary ferritin and iron as a marker and new discriminating indices between iron deficiency anemia and thalassemia: a meta-analysis
+Salivary ferritin and iron as a marker and new discriminating indices between iron deficiency anemia and thalassemia: a meta-analysis
+Year & Volume - Issue:
+2017. volume 6 - Issue 2
+Authors:
+Fakher Rahim
+Heading:
+Clinical Diagnostics
+Article type:
+Original article
+CID:
+e0204
+PDF File:
+romj-2017-0204.pdf
+Abstract:
+Purpose ― We performed a meta-analysis of all eligible case-control studies published to date, to assess the association of salivary ferritin and iron with hematological disorders. Methods ― We conducted Medline/PubMed and Scopus searches for papers published from January 1, 1980, through January 1, 2013. Data were merged the summary mean difference were estimated using either a random-effects model or a fixed-effects model. Results ― There were 3 studies including 196 cases and 70 controls. There was a statistically significant difference in the salivary ferritin and iron between hematological diseases and control groups, and the summary estimate of mean difference was 1.37 (95%CI: 0.01–2.74) and 2.23 (0.92–3.54) in salivary ferritin and iron, respectively. The stratification showed the same statistically significant differences in the salivary ferritin between Iron deficiency anemia (IDA) with thalassemia intermedia (TI), and IDA with thalassemia major (TM) groups. Besides, the stratification showed that there were statistically significant differences in the salivary iron between IDA with TM groups, while no statistically significant difference was observed between IDA with TI. Conclusion ― Saliva ferritin iron and ferritin increase significantly in patients with thalassemia compared to IDA. Salivary ferritin and iron can be used as a diagnostic marker and new discriminating indices routinely to differentiate IDA from thalassemia, especially thalassemia trait; furthermore, their easy applicability, safe, relatively simple, and noninvasive procedure may be an important advantage compared to blood sample collection. Consequently, it could be promising to develop a simplified testing and differentiating procedure, which could reach many clinical decision-makers as a diagnostic potential.
+Keywords:
+saliva, ferritin, iron, iron deficiency anemia, thalassemia intermedia, thalassemia major, discriminating indices
+Cite as:
+Rahim F. Salivary ferritin and iron as a marker and new discriminating indices between iron deficiency anemia and thalassemia: a meta-analysis. Russian Open Medical Journal 2017; 6: e0204.
+Introduction
+Anemia is defined as the presence of small or a decrease in a number of red blood cells (RBCs) or less than the normal quantity of hemoglobin in the blood. Thalassemia is a widespread hematologic abnormality that affects about 5% of the world population, and it is most prevalent in the Mediterranean countries [1]. Iron deficiency anemia (IDA) and thalassemia are groups of blood disorders with microcytic hypochromic manifestations [2, 3]. Laboratory diagnosis of thalassemia is a very serious concern due to increasing in need of prenatal diagnosis of hemoglobin chain disorders [4]. Iron is an essential element for all living organisms and it is the most important function is oxygen transport in hemoglobin. Iron deficiency anemia is usually caused by a broad spectrum of reasons such as malnutrition and is largely detected based on hematological laboratory findings [5]. Many discriminating indices in the distinction between IDA and thalassemia trait (TT) have been introduced using RBC indices so far [6, 7], which we have been reported the accuracy and clinical application of those indices, previously [8, 9]. Though these indices reported that were widely used in clinical decision-making and has several advantages, but the reliability of such indices is questionable and controversial [10].
+Analyses of various body fluids are pushing the field of biomedical research forward due to its reliable ability to identify biochemical targets [11]. Saliva is one of the most important diagnostic body fluid, which has significant biochemical and logistical advantages compared with blood [12]. The collection of saliva is noninvasive, safe, and relatively simple, and may be done frequently without discomfort to the patient [13]. The potential advantage of this diagnostic body fluid could extend to clinical decision-making and health care [14]. However, the salivary iron and ferritin may consider as the potential and new discriminating indices with the advantage of an easy and noninvasive approach [15, 16].
+It is important to perform a quantitative synthesis of the available evidence using more rigorous methods on the amounts of evidence have been accumulated so far. Therefore, we performed a meta-analysis of all eligible case-control studies published to date, to assess the association of salivary ferritin and iron with hematological disorders especially IDA and TT.
+Patients and Methods
+Literature source and searching methods
+We performed Medline/PubMed and Scopus searches using Mesh terms including (((("Saliva"[Mesh]) AND "Ferritins"[Mesh]) OR "Iron"[Mesh]) AND "Anemia, Iron-Deficiency"[Mesh]) OR "Thalassemia"[Mesh] for papers published (from January 1, 1980 through May 1, 2013). Further publications were also recognized by retrieving the bibliographies of the retrieved papers through reference check method.
+Study design and selection
+Case-control studies were included in the evaluation since this study design allows a comparison to be made between the affected individuals and healthy or disease-free ones, which is essential for the meta-analysis model. Studies that measured salivary ferritin and iron and included patients with any hematological condition such as IDA, TT, thalassemia major (TM), thalassemia trait (TT), thalassemia intermedia (TI) and aplastic anemia (AA), were included in the evaluation. The papers that published in English, offer the size of the sample, arithmetic means and standard deviations (SD) or the information that can help infer the results were included. Studies that were not representative or not case-control were excluded. The studies that contain not adequate data for analysis were excluded after contacting the corresponding author twice.
+Data extraction
+Two researchers reviewed the selected publication individually and reached an agreement on all of the eligibility items, including author, journal and year of publication, the location of study, selection and characteristics of cases and controls, control source, and demographics information.
+Meta-analysis
+We estimated the summary arithmetic means and standard deviations (SMD), if the study provided stratum information, the data coming from similar stratum were added up to make a full use. Both Der Simonian and Laird’s random-effects method and Mantel–Haenszel’s fixed-effects method were used [17]. In the meta-analysis, to evaluate the between-study heterogeneity both chi-square-based Q-statistic and I-squared (I2) tests were performed. Furthermore, according to Venice criteria, for the I2 test included: <25% represents no heterogeneity, =25–50% represents moderate heterogeneity, =50-75% represents large heterogeneity, and >75% represents extreme heterogeneity. So the heterogeneity was considered significant, if the P<0.10 and I2>25, a random-effect model was suitable, otherwise if the P≥0.10 and I2≤25, a fixed-effect model was then used to estimate summary odds ratios (Ors) and 95% confidence intervals (Cis). Publication bias was assessed by a funnel plot based on the Egger’s regression test, and t-test was implemented to determine the significance of the asymmetry [18-24].
+Statistical analysis
+All of the statistical analyses were performed with STATA 11.0 software package (Stata Corporation, College Station, Texas, USA). All the tests were two-side, a P value of less than 0.05 for any test or model was considered to be statistically significant.
+Results
+Meta-analysis
+There were 3 studies including 196 cases and 70 controls (Figure 1) [25-27]. The characterization of all selected publications was summarized in Tables 1 and 2. Two combined analysis include seven individual case-control studies, were included [25, 27].
+Figure 1. The flow diagram of study selection.
+Table 1. Description of included studies (salivary ferritin)
+Author, year
+Country
+Sample Size
+Salivary ferritin, ng/dl, M±SD
+Type of hematologic disorder
+Control group
+Case
+Control
+Case
+Control
+Canatan and Akdeniz, 2012 [25]
+Turkey
+30
+35
+18.6 ± 8.53
+42.5 ± 42.25
+IDA
+Healthy
+Canatan and Akdeniz, 2012 [25]
+Turkey
+71
+35
+2529.6 ± 1081.3
+42.5 ± 42.25
+TM
+Healthy
+Canatan and Akdeniz, 2012 [25]
+Turkey
+10
+35
+1166.0 ± 51.3
+42.5 ± 42.25
+TI
+Healthy
+Canatan and Akdeniz, 2012 [25]
+Turkey
+15
+35
+112.2 ± 145.9
+42.5 ± 42.25
+TT
+Healthy
+Jagannathan et al., 2012 [26]
+India
+30
+30
+15.32 ± 4.65
+9.38±3.01
+IDA
+NM
+M±SD is mean with standard deviation. IDA, iron deficiency anemia; TM, thalassemia major; TI, thalassemia intermedia; TT, thalassemia trait.
+Table 2. Description of included studies (salivary iron)
+Author, year
+Country
+Sample Size
+Salivary iron, mg/dl, M±SD
+Type of hematologic disorder
+Control group
+Case
+Control
+Case
+Control
+Canatan and Akdeniz, 2012 [25]
+Turkey
+30
+35
+24.6 ± 10.0
+74.2 ± 40.7
+IDA
+Healthy
+Canatan and Akdeniz, 2012 [25]
+Turkey
+71
+35
+253.6 ± 91.0
+74.2 ± 40.7
+TM
+Healthy
+Canatan and Akdeniz, 2012 [25]
+Turkey
+10
+35
+150.1 ± 61.1
+74.2 ± 40.7
+TI
+Healthy
+Canatan and Akdeniz, 2012 [25]
+Turkey
+15
+35
+101.1 ± 41.2
+74.2 ± 40.7
+TT
+Healthy
+Mishra et al., 1992 [27]
+India
+27
+10
+134.1 ± 39.3
+103.9 ± 9.6
+IDA
+Non-anemic
+Mishra et al., 1992 [27]
+India
+8
+10
+185.3 ± 47.6
+103.9 ± 9.6
+TM
+Non-anemic
+Mishra et al., 1992 [27]
+India
+5
+10
+228.8 ± 51.9
+103.9 ± 9.6
+AA
+Non-anemic
+M±SD is mean with standard deviation. IDA, iron deficiency anemia; TM, thalassemia major; TI, thalassemia intermedia; TT, thalassemia trait; AA, aplastic anemia.
+Test of heterogeneity
+The heterogeneity of studies on salivary ferritin and iron was analyzed for the 3 selected studies, separately. The results show that all meta-analysis on salivary ferritin and Iron had heterogeneity with a P-value less than 0.05 (Figure 2).
+Figure 2. Meta-analysis is conducted on ferritin and iron among total hematologic disorders population. Each estimate of mean difference on cadmium is designated by a solid square, and the 95% confidence interval (95% CI) of each subgroup is shown by trans vers e line. The solid rhombus at the bottom is the pooled estimate of mean difference by fixed and random effects model. IDA, iron deficiency anemia; TM, thalassemia major.
+Quantitative data synthesis
+Therefore, we estimated the summary mean difference for them using a random-effects model (Table 3). There was a statistically significant difference in the salivary ferritin and iron between hematological diseases and control groups, and the summary estimate of mean difference was 1.37 (95%CI: 0.01–2.74) and 2.23 (0.92–3.54) in salivary ferritin and iron, respectively (Figure 2). We stratified the studies by hematological disorder type (Figures 3 and 4). The stratification showed that there were statistically significant differences in the salivary ferritin between IDA with TI, and IDA with TM groups and the summary estimates of mean difference were 2.49 (1.85–3.13) and 2.76 (2.19–3.17), respectively (Table 3 and Figure 3). Besides, the stratification showed that there were statistically significant differences in the salivary iron between IDA with TM groups, while no statistically significant difference was observed between IDA with TI and the summary estimates of mean difference were 2.17 (-1.45–5.80) and 2.13 (0.41–3.85), respectively (Table 3 and Figure 4).
+Table 3. Summary results of meta-analysis on salivary ferritin and iron in iron deficiency anemia and thalassemia
+Population
+Case/Control
+(type of model)
+Heterogeneity test
+Hypothesis test
+I2
+Egger test
+Begg test
+Summary estimates of
+mean difference (95% CI)
+Q
+P
+Z
+P
+t
+P
+Z
+P
+Salivary ferritin
+156/170 (Random)
+101.23
+<0.0001
+1.97
+0.049
+96%
+0.94
+0.418
+0.49
+0.625
+1.37 (0.01–2.74)
+Salivary iron
+166/170 (Random)
+113.43
+<0.0001
+3.34
+0.001
+94.7%
+1.61
+0.168
+0.75
+0.453
+2.23 (0.92–3.54)
+Salivary ferritin (stratification by hematologic disorder type)
+IDA w ith TI
+60/20 (Fixed)
+0.0
+0.975
+7.59
+<0.0001
+0.0%
+-
+-
+0.00
+1.00
+2.49 (1.85–3.13)
+IDA w ith TM
+60/142 (Fixed)
+0.0
+0.993
+13.33
+<0.0001
+0.0%
+-
+-
+0.00
+1.00
+2.76 (2.36–3.17)
+Salivary iron (stratification by hematologic disorder type)
+IDA w ith TI
+57/20 (Random)
+28.60
+<0.001
+1.17
+0.241
+96.4%
+-
+-
+-1.00
+0.317
+2.17 (-1.45–5.80)
+IDA w ith TM
+57/81 (Random)
+12.27
+<0.001
+2.42
+0.015
+91.8%
+-
+-
+1.00
+0.317
+2.13 (0.41–3.85)
+IDA, iron deficiency anemia; TM, thalassemia major; TI, thalassemia intermedia.
+Figure 3. Meta-analysis is conducted on ferritin and iron among total hematologic disorders population. Each estimate of mean difference on cadmium is designated by a solid square, and the 95% confidence interval (95% CI) of each subgroup is shown by trans vers e line. The solid rhombus at the bottom is the pooled estimate of mean difference by fixed and random effects model. IDA, iron deficiency anemia; TI, thalassemia intermedia.
+Figure 4. Meta-analysis is conducted on ferritin and iron among total hematologic disorders population. Each estimate of mean difference on cadmium is designated by a solid square, and the 95% confidence interval (95% CI) of each subgroup is shown by trans vers e line. The solid rhombus at the bottom is the pooled estimate of mean difference by fixed and random effects model. IDA, iron deficiency anemia; TM, thalassemia major.
+Sensitivity analysis
+We conducted the sensitivity analysis and found that subgroup analysis based on hematological disorder types (IDA versus thalassemia) and salivary content (ferritin venous iron) did make a noticeable difference for the above analyses (Table 3).
+Assessing publication bias
+Publication bias was evaluated by Egger’s test and Begg’s test (Table 3). Both tests suggest that publication bias might not have a significant influence on the summary estimate of salivary ferritin and iron among hematological disorders, and between different salivary content. Maybe, there was publication bias in a meta-analysis for the total population, because there was some uncertainty with the P-value being less than 0.05 in either Egger’s or Begg’s tests.
+Discussion
+Meta-analyses and systematic reviews have the potential to provide the highest levels of evidence as a well-designed tool [28]. In the present meta-analysis, we observed the possibility of using the salivary ferritin and iron as a discriminating index between IDA and thalassemia with a certain focus on TT by performing a quantitative analysis of the published studies, in which the pooled results suggested a beneficial role.
+A bunch of discrimination indices has been introduced to differentiate IDA from TT, formerly [29-35]. Many types of researche have been used these discriminating indices and reported various controversial results [36-41]. Given the availability of hemoglobin electrophoresis, these indices are not very imperative currently. The most important question is that, how many of physicians remember such formulas and use them in their daily practice in crowded patient settings? Besides the reliability of these indices has been a matter of controversy [10, 42, 43]. Furthermore, how many of medical specialists would be fearless enough to not study hemoglobin electrophoresis in certain or critical medical cases such as a pregnant woman with mild hypochromic anemia unresponsive to iron therapy? Moreover, these indices need blood sample that is the invasive method and blood itself is a far more complex medium. Hence, the collection of saliva, a clear liquid, is a safe, relatively simple, and noninvasive method, and requires no highly trained medical staff to collect. Our meta-analysis showed that salivary ferritin and iron could play a crucial role as discriminating indices between IDA and TT. The calculation of these discriminating indices is based on the RBCs characteristics, so variation in such indices may affect the clinical decision-making based on these tools. The RBC indices such as mean corpuscular volume (MCV) are differing in an age-dependency manner [8, 9, 44]. While, in the case of using salivary ferritin and iron as discriminating indices no significant differences were observed between the subgroups depending on sex and on age, formerly [45].
+Conclusion
+Saliva ferritin iron and ferritin increase significantly in patients with thalassemia compared to IDA. Salivary ferritin and iron can be used as a diagnostic marker and new discriminating indices routinely to differentiate IDA from thalassemia, especially TT; furthermore, their easy applicability, safe, relatively simple, and noninvasive procedure may be an important advantage compared to blood sample collection. Consequently, it could be promising to develop a simplified testing and differentiating procedure, which could reach many clinical decision-makers as a diagnostic potential.
+Conflict of interest: none declared.
+References:
+Rahim F, Abromand M, Spectrum of ß–Thalassemia mutations in various Ethnic Regions of Iran. Pak J Med Sci 2008; 24(3): 410-415. https://www.pjms.com.pk/issues/aprjun208/article/article14.html.
+Rahim F. Microcytic hypochromic anemia patients with thalassemia: genotyping approach. Indian J Med Sci 2009; 63(3): 101-108. https://www.ncbi.nlm.nih.gov/pubmed/19359777.
+Massey AC. Microcytic anemia. Differential diagnosis and management of iron deficiency anemia. Med Clin North Am 1992; 76(3): 549-566. https://www.ncbi.nlm.nih.gov/pubmed/1578956.
+Fakher R, Bijan K, Taghi AM. Application of diagnostic methods and molecular diagnosis of hemoglobin disorders in Khuzestan province of Iran. Indian J Hum Genet 2007; 13(1): 5-15. https://doi.org/10.4103/0971-6866.32028.
+Hagve TA, Lilleholt K, Svendsen M. Iron deficiency anaemia-- interpretation of biochemical and haematological findings. Tidsskr Nor Laegeforen 2013; 133(2): 161-164. https://doi.org/10.4045/tidsskr.12.0192.
+Nalbantoğlu B, Güzel S, Büyükyalçın V, Donma MM, Güzel EÇ, Nalbantoğlu A, et al. Indices used in differentiation of thalassemia trait from iron deficiency anemia in pediatric population: are they reliable? Pediatr Hematol Oncol 2012; 29(5): 472-478. https://doi.org/10.3109/08880018.2012.705230.
+Nesa A, Munir SF, Sultana T, Rahman MQ, Ahmed AN. Role of discrimination indices in differentiation of beta thalassaemia trait and iron deficiency anaemia. Mymensingh Med J 2011; 20(1): 110-114. https://www.ncbi.nlm.nih.gov/pubmed/21240173.
+Rahim F, Keikhaei B. Better differential diagnosis of iron deficiency anemia from beta-thalassemia trait. Turk J Hematol 2009; 26(3): 138-145. http://www.journalagent.com/tjh/pdfs/TJH_26_3_138_145.pdf.
+Keikhaei B, Rahim F, Zandian K, Pedram M. Comparison of different indices for better differential diagnosis of iron deficiency anemia from beta thalassemia trait. Sci J Blood Transfus Organ 2007; 4(2): 95-104. http://bloodjournal.ir/article-1-159-en.html.
+Ferrara M, Capozzi L, Russo R, Bertocco F, Ferrara D. Reliability of red blood cell indices and formulas to discriminate between beta thalassemia trait and iron deficiency in children. Hematology 2010; 15(2): 112-115. https://doi.org/10.1179/102453310X12583347010098.
+Markopoulou S, Nikolaidis G, Liloglou T. DNA methylation biomarkers in biological fluids for early detection of respiratory tract cancer. Clin Chem Lab Med 2012; 50(10): 1723-1731. https://doi.org/10.1515/cclm-2012-0124.
+Edgar WM. Saliva: its secretion, composition and functions. Br Dent J 1992; 172(8): 305-312. https://www.ncbi.nlm.nih.gov/pubmed/1591115.
+Bigler LR, Streckfus CF, Dubinsky WP. Salivary biomarkers for the detection of malignant tumors that are remote from the oral cavity. Clin Lab Med 2009; 29(1): 71-85. https://doi.org/10.1016/j.cll.2009.01.004.
+Hofman LF. Human saliva as a diagnostic specimen. J Nutr 2001; 131(5): 1621S-1625S. https://www.ncbi.nlm.nih.gov/pubmed/11340128.
+Ferguson D.B. Current diagnostic uses of saliva. J Dent Res 1987; 66(2): 420-424. https://doi.org/10.1177/00220345870660020601.
+Kaufman E, Lamster I.B. The diagnostic applications of saliva--a review. Crit Rev Oral Biol Med 2002; 13(2): 197-212. https://www.ncbi.nlm.nih.gov/pubmed/12097361.
+DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials 1986; 7(3): 177-188. http://dx.doi.org/10.1016/0197-2456(86)90046-2.
+Song F, Gilbody S. Bias in meta-analysis detected by a simple, graphical test. Increase in studies of publication bias coincided with increasing use of meta-analysis. BMJ 1998; 316(7129): 471. https://www.ncbi.nlm.nih.gov/pubmed/9492690.
+Langhorne P. Bias in meta-analysis detected by a simple, graphical test. Prospectively identified trials could be used for comparison with meta-analyses. BMJ 1998; 316(7129): 471. https://www.ncbi.nlm.nih.gov/pubmed/9492689.
+Seagroatt V, Stratton I. Bias in meta-analysis detected by a simple, graphical test. Test had 10% false positive rate. BMJ 1998; 316(7129): 470; author reply 470-1. https://www.ncbi.nlm.nih.gov/pubmed/9492688.
+Irwig L, Macaskill P, Berry G, Glasziou P. Bias in meta-analysis detected by a simple, graphical test. Graphical test is itself biased. BMJ 1998. 316(7129): 470; author reply 470-1. https://www.ncbi.nlm.nih.gov/pubmed/9492687.
+Vandenbroucke JP. Bias in meta-analysis detected by a simple, graphical test. Experts' views are still needed. BMJ 1998; 316(7129): 469-70; author reply 470-1. https://www.ncbi.nlm.nih.gov/pubmed/9492686.
+Stuck AE, Rubenstein LZ, Wieland D. Bias in meta-analysis detected by a simple, graphical test. Asymmetry detected in funnel plot was probably due to true heterogeneity. BMJ 1998; 316(7129): 469; author reply 470-1. https://www.ncbi.nlm.nih.gov/pubmed/9492685.
+Egger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. BMJ 1997; 315(7109): 629-634. https://doi.org/10.1136/bmj.315.7109.629.
+Canatan D, Akdeniz SK. Iron and ferritin levels in saliva of patients with thalassemia and iron deficiency anemia. Mediterr J Hematol Infect Dis 2012; 4(1): e2012051. https://dx.doi.org/10.4084%2FMJHID.2012.051.
+Jagannathan N, Thiruvengadam C, Ramani P, Premkumar P, Natesan A, Sherlin HJ. Salivary ferritin as a predictive marker of iron deficiency anemia in children. J Clin Pediatr Dent 2012; 37(1): 25-30. https://www.ncbi.nlm.nih.gov/pubmed/23342563.
+Mishra OP, Agarwal KN, Agarwal RM. Salivary iron status in children with iron deficiency and iron overload. J Trop Pediatr 1992; 38(2): 64-67. https://doi.org/10.1093/tropej/38.2.64.
+McNamara ER, Scales CD Jr. Role of systematic reviews and meta-analysis in evidence-based clinical practice. Indian J Urol 2011; 27(4): 520-524. https://doi.org/10.4103/0970-1591.91445.
+Mentzer WC Jr. Differentiation of iron deficiency from thalassaemia trait. Lancet 1973; 1(7808): 882. https://www.ncbi.nlm.nih.gov/pubmed/4123424.
+Shine I, Lal S. A strategy to detect beta-thalassaemia minor. Lancet 1977; 1(8013): 692-694. http://dx.doi.org/10.1016/S0140-6736(77)92128-6.
+England JM, Fraser PM. Differentiation of iron deficiency from thalassaemia trait by routine blood-count. Lancet 1973; 1(7801): 449-452. https://www.ncbi.nlm.nih.gov/pubmed/4120365.
+Srivastava PC, Bevington JM. Iron deficiency and-or thalassaemia trait. Lancet 1973; 1(7807): 832. http://dx.doi.org/10.1016/S0140-6736(73)90637-5.
+Green R, King R. A new red cell discriminant incorporating volume dispersion for differentiating iron deficiency anemia from thalassemia minor. Blood Cells 1989; 15(3): 481-491; discussion 492-495. https://www.ncbi.nlm.nih.gov/pubmed/2620095.
+Janel A, Roszyk L, Rapatel C, Mareynat G, Berger MG, Serre-Sapin AF. Proposal of a score combining red blood cell indices for early differentiation of beta-thalassemia minor from iron deficiency anemia. Hematology 2011; 16(2): 123-127. https://doi.org/10.1179/102453311X12940641877849.
+Agorasti A, rivellas T, Papadopoulos V, Konstantinidou D. Innovative parameters RET-Y, sTfR, and sTfR-F index in patients with microcytic, hypochromic anemia--their special value for hemoglobinopathies. Lab Hematol 2007; 13(2): 63-68. https://doi.org/10.1532/LH96.06044.
+AlFadhli SM, Al-Awadhi AM, AlKhaldi D. Validity assessment of nine discriminant functions used for the differentiation between iron deficiency anemia and thalassemia minor. J Trop Pediatr 2007; 53(2): 93-97. https://doi.org/10.1093/tropej/fml070.
+Ntaios G, Chatzinikolaou A, Saouli Z, Girtovitis F, Tsapanidou M, Kaiafa G, et al, Discrimination indices as screening tests for beta-thalassemic trait. Ann Hematol 2007; 86(7): 487-491. https://doi.org/10.1007/s00277-007-0302-x.
+d'Onofrio G, Zini G, Ricerca BM, Mancini S, Mango G. Automated measurement of red blood cell microcytosis and hypochromia in iron deficiency and beta-thalassemia trait. Arch Pathol Lab Med 1992; 116(1): 84-89. https://www.ncbi.nlm.nih.gov/pubmed/1734838.
+Eldibany MM, Totonchi KF, Joseph NJ, Rhone D. Usefulness of certain red blood cell indices in diagnosing and differentiating thalassemia trait from iron-deficiency anemia. Am J Clin Pathol 1999; 111(5): 676-682. https://www.ncbi.nlm.nih.gov/pubmed/10230359.
+Jimenez CV. Iron-deficiency anemia and thalassemia trait differentiated by simple hematological tests and serum iron concentrations. Clin Chem 1993; 39(11 Pt 1): 2271-2275. https://www.ncbi.nlm.nih.gov/pubmed/8222219.
+Lima CS, Reis AR, Grotto HZ, Saad ST, Costa FF. Comparison of red cell distribution width and a red cell discriminant function incorporating volume dispersion for distinguishing iron deficiency from beta thalassemia trait in patients with microcytosis. Sao Paulo Med J 1996; 114(5): 1265-1269. https://www.ncbi.nlm.nih.gov/pubmed/9239926.
+Matos JF, Sant'Ana Dusse LM, Stubbert RVB, Ferreira MR, Coura-Vital W, Fernandes APSM, et al. Comparison of discriminative indices for iron deficiency anemia and beta thalassemia trait in a Brazilian population. Hematology 2013; 18(3): 169-174. http://dx.doi.org/10.1179/1607845412Y.0000000054.
+Marti HR, Fischer S, Killer D, Bürgi W. Can automated haematology analysers discriminate thalassaemia from iron deficiency? Acta Haematol 1987; 78(2-3): 180-183. https://www.ncbi.nlm.nih.gov/pubmed/3120468.
+Rahim F, Saki N. Age-specific cutoff in discriminating Iron deficiency anemia from beta-thalassemia traits. Iranian Journal of Blood and Cancer 2010; 2(4): 197. http://ijbc.ir/article-1-300-en.html.
+Cieslak M, Jedrzejewska T, Zgirski A. [Determinations of magnesium, iron and copper in the saliva of healthy subjects]. Czas Stomatol 1990; 43(4): 202-206. https://www.ncbi.nlm.nih.gov/pubmed/2104346.
+About the Authors:
+Fakher Rahim – PhD, Vice Chancellor of Research Affairs, Thalassemia & Hemoglobinopathy Research Center, Health Research Institute, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran. http://orcid.org/0000-0002-2857-4562.
+Received 24 January 2017, Accepted 13 February 2017
+© 2017, Rahim F.
+© 2017, Russian Open Medical Journal
+Correspondence to Fakher Rahim. E-mail: Bioinfo2003@gmail.com.
+DOI:
+10.15275/rusomj.2017.0204
+Author(s):
+Rahim, Fakher
+Popular content
+Today's:
+Welcome to Russian OMJ!
+Yellow palms and feet in a child
+For Authors
+Is Haemophilus influenzae better satellite for Enterococcus faecalis?
+Determinants of health-related quality of life in patients with small cell lung cancer: a systematic PubMed review and meta-analysis
+Yellow nail syndrome, pincer nails, colon cancer and polyps in a 76 year-old-woman
+Accessory liver fissures: a report of two cases and review of their clinical significance
+Editorial
+Submit Manuscript
+Authors’ instructions
+All time:
+Welcome to Russian OMJ!
+Yellow palms and feet in a child
+Immediate effects of isolated transmyocardial laser revascularization procedures combined with intramyocardial injection of autologous bone marrow stem cells in patients with terminal stage of coronary artery disease
+The Value of Exercise Treadmill Test in Evaluation of Coronary Artery Disease
+Archive
+Инструкции для русскоязычных авторов [rus]
+Indexed / Abstracted
+Authors’ instructions
+Editorial
+About Us
+Last viewed:
+The nitrogen oxide synthase effect in endothelium reaction and change in peripheral perfusion under THz radiation of nitrogen oxide occurrence exposure
+Maturity onset diabetes of the young: Diagnosis and treatment options
+Experimental ‏review ‏of ‏cobalt ‏induced cardiomyopathy
+For Authors
+Editorial
+Search site with Google
+Headings
+Biochemistry (3)
+Biomaterials (1)
+Biophysics (1)
+Biostatistics (1)
+Cardiology (20)
+Cardiovascular surgery (10)
+Clinical Diagnostics (2)
+Clinical Nutrition (2)
+Clinical Pharmacology (3)
+Clinical Psychology (4)
+Dentistry (10)
+Dermatology (2)
+Education (3)
+Endocrinology (7)
+Gastroenterology (2)
+Genetics (5)
+Health Informatics (1)
+History of Medicine (1)
+Hygiene and Environmental Health (8)
+Infectious Diseases (2)
+Macro- and Micromorphology (26)
+Mental Health (3)
+Microbiology (15)
+Nephrology (3)
+Neurology (4)
+Obstetrics and Gynecology (1)
+Oncology (7)
+Ophtalmology (1)
+Palliative Care (1)
+Parasitology (1)
+Pharmacology (3)
+Pediatrics (10)
+Physiology and Pathophysiology (26)
+Preventive medicine (4)
+Psychiatry (1)
+Public Health (3)
+Pulmonology (2)
+Rheumatology (3)
+Scientometrics (1)
+Sports medicine (4)
+Surgery (4)
+Traumatology and Orthopedics (8)
+Tuberculosis (2)
+Urology (5)
+Links (1)
+Keywords
+angina anthropometry antioxidants apoptosis atmospheric oxygen atrial fibrillation cardiovascular system children coronary artery disease nitrogen oxide terahertz waves treatment
+More
+Scopus
+Copyright © 2019 Russian Open Medical Journal

@@ -1,0 +1,775 @@
+COLLAGEN 750mg 240 Capsules | BIOVEA | BIOVEA
+Americas
+Bolivia | Español
+Brasil | Português
+Canada | English
+Canada | Français
+Chile | Español
+Colombia | Español
+Dominican Republic | Español
+Ecuador | Español
+Mexico | Español
+Paraguay | Español
+Peru | Español
+USA | English
+USA | Español
+Uruguay | Español
+Europe
+Belgique | Français
+België | Nederlands
+България | български
+Cyprus | English
+Czech Republic | English
+Danmark | Dansk
+Deutschland | Deutsch
+España | Español
+Finland | English
+France | Français
+Greece | English
+Hungary | English
+Ireland | English
+Italia | Italiano
+Netherlands | English
+Nederland | Nederlands
+Norway | English
+Österreich | Deutsch
+Polska | Polski
+Portugal | Português
+Rest of Europe | English
+Romania | English
+Russia | English
+Slovenia | English
+Sweden | English
+Schweiz | Deutsch
+Suisse | Français
+Svizzera | Italiano
+Turkey | English
+UK | English
+Africa, Middle East & Asia Pacific
+Australia | English
+Egypt | English
+Hong Kong | English
+India | English
+Indonesia | English
+Israel | English
+Kuwait | English
+Malaysia | English
+New Zealand | English
+Oman | English
+Philippines | English
+Qatar | English
+Republic of Korea | English
+대한민국 | 한국어
+Saudi Arabia | English
+Singapore | English
+South Africa | English
+Taiwan | English
+Thailand | English
+United Arab Emirates | English
+Vietnam | English
+Welcome Login | My Account
+Wishlist | Order Status | Customer Service
+Products (2330)
+Brands (348)
+Health Concerns (91)
+Please enter a keyword
+', ''); // //console.log(keyURL); // $(this).text('
+' + keyURL + '
+'); // $('#keywordResults ul.searchList').append($(this).text()); // //data for mp // var searchDataObj = new Object(); // searchDataObj.searchType = "Manual"; // searchDataObj.searchTerm = kw; // searchDataObj.searchResults = 9; // searchDataObj.isNewSearch = "Y"; // searchDataObj.sortByType = "None"; // document.cookie = "searchDataMP=" + searchDataObj; // //end of data for mp // }); // }, // error: function () { // console.log('failed to retrieve list'); // } // }); // setTimeout(function () { // //WRITE TITLE & KEYWORD TO SEARCH RESULTS: // $('#keywordResults h2').append('Suggested Search Results for ‘' + kw + '’') // $('#keywordResults ul li').each(function () { // if ($(this).text() == '') { // $(this).remove(); // } // }); //	if ($('#keywordResults ul.searchList').is(':empty')) { //	$('#keywordResults').remove(); //	} else if ($('#keyCheck').data('valid') == 'false') { //	$('#keywordResults').remove(); //	} else if ($('#keyCheck').data('valid') == 'true') { //	setTimeout(function () { //	$('#keywordResults').slideDown('slow'); //	}, 200); //	} else { //	setTimeout(function () { //	$('#keywordResults').slideDown('slow'); //	}, 200); //	} // }, 900); // } //}); //New searchfield code $(function () { var app = angular.module('app', []); app.filter('escape', function () { return window.encodeURIComponent; }); var IsRestrictedSite = 'True'; $('.txtNewKeywords').on('keyup', function (e) { e.preventDefault(); e.returnValue = false; e.cancel = true; // Don't allow search results clear if down or up are clicked // so we can navigate through results list if (e.keyCode != 40 && e.keyCode != 38) { $('#divSearchResults').html(''); currentItemCount = 0; } // Dont run if keyCode is equal to 40 (down) or 38 (up) if ($('.txtNewKeywords').val() != null && $('.txtNewKeywords').val() != '' && e.keyCode != 40 && e.keyCode != 38) { // Ajax call function var urlToSearchPage = 'SearchAutocomplete/search'; var testUrlToSearchPage = 'SearchAutocomplete/search?keyWords=' + encodeURIComponent($('.txtNewKeywords').val()) + '&resultsCount=11&isRestrictedSite=' + IsRestrictedSite; //function searchAjaxCall() { //in order for this AJAX call to work on both secure and non-secure pages add // inside $.ajax({ url: testUrlToSearchPage, type: "POST", dataType: 'json' }) .done(function (data, textStatus, jqXHR) { $('#divSearchResults').html(''); var testData = data; var searchResultList = jQuery.parseJSON(jqXHR.responseText); var dropdownHtml = ''; if (searchResultList != null && searchResultList.length > 0 && typeof searchResultList === 'object') { dropdownHtml = '
+' for (var searchObject in searchResultList) { if (searchResultList[searchObject] !== null && typeof searchResultList[searchObject] === 'object') { var searchItem = searchResultList[searchObject]; if (searchItem["Display"] !== null && searchItem["Display"] != '') { if (searchItem["Link"] !== null && searchItem["Link"] != '') { dropdownHtml += '
+' + searchItem["Display"] + '
+' } else { dropdownHtml += '
+' + searchItem["Display"] + '
+' } } } } dropdownHtml += '
+' } if (dropdownHtml !== '') { $('#divSearchResults').append(dropdownHtml) $('#divSearchResults').slideDown(); } // Make Search Term In Results Bold $('#divSearchResults a').each(function () { var $this = $(this); var keywordText = $('.NEWsbox').val(); $this.html($this.html().replace(keywordText, '' + keywordText + '')); }); }) .fail(function (jqXHR, textStatus, errorThrown) { $('#divSearchResults').html(''); //alert("There has been an error: " + jqXHR.responseText); //TODO Log AJAX error var searchResultList = jQuery.parseJSON(jqXHR.responseText); var dropdownHtml = ''; if (searchResultList != null && searchResultList.length > 0 && typeof searchResultList === 'object') { dropdownHtml = '
+' for (var searchObject in searchResultList) { if (searchResultList[searchObject] != null && typeof searchResultList[searchObject] === 'object') { var searchItem = searchResultList[searchObject]; if (searchItem["Display"] != null && searchItem["Display"] != '') { if (searchItem["Link"] != null && searchItem["Link"] != '') { dropdownHtml += '
+' + searchItem["Display"] + '
+' } else { dropdownHtml += '
+' + searchItem["Display"] + '
+' } } } } dropdownHtml += '
+' } if (dropdownHtml != '') { $('#divSearchResults').append(dropdownHtml) $('#divSearchResults').slideDown(); } }) } //} }); }); /* ** SEARCHBAR CONTROLS ****************************************************/ (function($) { // Vars var $searchBox = $('.NEWsbox'); var $searchBtn = $('#btnNewSearch'); var $txtNewKeywords = $('.txtNewKeywords'); var $divSearchResults = $('#divSearchResults'); var $resultsList = $divSearchResults.find('ul'); var $resultsListItem = $resultsList.find('li'); var searchPlaceholderText = 'search keyword or item #'; // Search Function function search() { if ($('.txtNewKeywords').val() != null && $('.txtNewKeywords').val() != '') { //window.location.href = 'results.aspx?KW=' + encodeURIComponent($('.txtNewKeywords').val()); var resolvedUrlPath = '/tw/productlist/results'; //window.location.href = 'productlist/results?KW=' + encodeURIComponent($('.txtNewKeywords').val()); window.location.href = resolvedUrlPath + '?KW=' + encodeURIComponent($('.txtNewKeywords').val()); } else { //TODO } return false; // prevent the button click from happening } // When enter is hit in search bar function enterClickSearch(e) { if (e.keyCode == 13) { e.preventDefault(); search(); } } // Toggle Search reults visiblity class function toggleSearchResultsVisibility() { if ($resultsList.is(':visible')) { $(this).addClass('search-results-visible'); } else { $(this).removeClass('search-results-visible'); } } // Navigate up and down results list with arrows function function navResultsList(e) { var $divSearchResults = $('#divSearchResults'); var $resultsList = $divSearchResults.find('ul'); var $resultsListItem = $resultsList.find('li'); var $activeListItem = $divSearchResults.find('li.active'); if ($resultsListItem.length > 0) { // If down arrow is clicked if (e.keyCode == 40) { if (currentItemCount < $resultsListItem.length) { if (currentItemCount == 0) { $resultsListItem.eq(0).addClass('active'); currentItemCount++; } else if ($activeListItem.next('li').children().is('hr')) { $activeListItem.removeClass('active').next().next().addClass('active'); currentItemCount += 2; } else { $activeListItem.removeClass('active').next().addClass('active'); currentItemCount++; } } } // If up arrow is clicked if (e.keyCode == 38) { if ($activeListItem.prev('li').children().is('hr')) { e.preventDefault(); currentItemCount -= 2; $activeListItem.removeClass('active').prev().prev().addClass('active'); } else if (currentItemCount > 1) { e.preventDefault(); currentItemCount--; $activeListItem.removeClass('active').prev().addClass('active'); } else if (currentItemCount == 1) { e.preventDefault(); currentItemCount = 0; $activeListItem.removeClass('active'); $searchBox.focus(); } } // If 'enter' is clicked if (e.keyCode == 13) { if (currentItemCount > 0) { e.preventDefault(); var $activeLinkHref = $activeListItem.find('a').attr('href'); window.location = $activeLinkHref; $resultsList.remove(); currentItemCount = 0; $activeListItem.removeClass('active'); } } } } $(function () { // Search $searchBtn.on('click', search); $txtNewKeywords.keypress(enterClickSearch); $searchBox.on('input', toggleSearchResultsVisibility); $searchBox.keydown(navResultsList); $searchBox.attr('placeholder', searchPlaceholderText); $searchBox.focus(function () { $resultsList.css('display', 'block'); $(this).removeClass('search-results-visible'); }); $(document).mouseup(function (e) { if ($resultsList.is(":visible") && $(e.target).parent('#divSearchResults').length == 0 && !$(e.target).is('.NEWsbox')) { $resultsList.hide(); } }); }); })(jQuery);
+ApplicationPath /tw
+Cart
+{{object.Name | cut:true:36:' ...'}}
+{{object.Name}}
+x
+{{object.ConsumerPrice}}
+Qty {{object.Quantity}}
+Subtotal: {{CachedObjectModel.Order.OrderTotal}}
+View Cart Checkout ›
+{{CachedObjectModel.Message}}
+Welcome Valued Customer!
+We have a local site for you
+Take me to BIOVEA US
+Or
+Stay on BIOVEA TW
+Save my choice
+Shop By Categories
+Aloe Vera Supplements
+Amino Acids
+Anti-Ageing
+Antioxidants
+Blood Sugar Health
+Bone Health
+Books
+Capsule Filling Supplies
+Coenzyme Q10
+Collagen & Hyaluronic Acid
+Detox & Cleansing
+DHEA
+Digestive Health
+Eye Health
+Great For Smoothies
+Heart Health
+Herbs
+Immune System Support
+Inhalable Supplements
+Joint Health
+Liquid Vitamins
+Mind & Mood Support
+Minerals
+Multi-Vitamins
+Muscle Function Support
+Nerve Function Support
+Omega Oils
+pH Balancing
+Respiratory Health
+Sexual Well-Being
+Sleep Support
+Superfoods & Berries
+Thyroid Health
+Urinary Tract Health
+Vitamins A-K
+Shop By Top Brands
+BIOVEA
+EuroVital
+Newton-Everett Nutraceuticals
+BioMedX Research
+Tcentials
+Enraged Nutrition
+Adrian London
+Pure Emü
+Source Naturals
+Nature's Way
+NOW
+BSN
+Life Enhancement
+Life-Flo
+Kirkland Signature
+Natrol
+Weider
+Optimum Nutrition
+Shop By Categories
+Accessories
+Bodybuilding
+Energy & Endurance Support
+Fat Burners
+Featured Products
+Great For Smoothies
+Healthy Weight
+Post-Workout & Recovery
+Pre-Workout
+Protein
+Toning Creams
+Yoga
+Shop By Top Brands
+Newton-Everett Nutraceuticals
+Enraged Nutrition
+BioMedX Research
+BIOVEA
+MuscleTech
+Hugger Mugger
+BeautyFit
+NOW
+BSN
+Source Naturals
+Dymatize
+Optimum Nutrition
+Nature's Way
+Gaspari Nutrition
+ISS Research
+Navitas Naturals
+Universal Nutrition
+Shop By Categories
+Bath & Body
+Fragrance
+Gifts & Sets
+Hair Care
+Makeup
+Men's Grooming & Facial Care
+Nails
+Organic & Natural
+Skin Care
+Teeth Whitening
+Shop By Top Brands
+BIOVEA Skincare
+FOLIGAIN
+Adrian London
+Oralgen
+Acnegen
+KeratinMD Laboratories
+Pure Emü
+Bare Escentuals
+Derma E
+Dermalogica
+Kirkland Signature
+NOW
+Olay
+RoC
+KamaSutra
+DS Laboratories
+Lancôme
+Life-Flo
+Natrol
+Source Naturals
+Shop By Categories
+Bath & Body
+Bladder Support & Incontinence
+Cold & Flu
+Deodorants
+Digestive Support
+Ear Health
+Embarrassing
+Eye Health
+Feminine Care
+First Aid
+Flower Essences
+Hair Care
+Homeopathic Remedies
+Itch & Rash
+Massage & Relaxation
+Men’s Grooming & Facial Care
+Motion Sickness
+Nausea
+Oral Care
+Pain & Fever
+Seasonal & Homeopathic Allergy & Sinus
+Skin Care
+Sleep Aids
+Smoking Cessation
+Sun Care
+Teeth Whitening
+Shop By Top Brands
+FOLIGAIN
+KeratinMD Laboratories
+Oralgen
+Acnegen
+Adrian London
+BIOVEA Homeopathy
+Newton-Everett Nutraceuticals
+Babylabs
+Pure Emü
+Kirkland Signature
+PFIZER
+Wyeth
+KamaSutra
+Schering-Plough
+BodyPure
+DS Laboratories
+Life-Flo
+Natrol
+Source Naturals
+Shop By Categories
+Condoms
+Intimate Massagers / Toys
+Kits & Gift Sets
+Lubricants
+Organic
+Reproductive Health
+Sensual Massage
+Stimulating Gels & Lotions
+Shop By Top Brands
+Newton-Everett Nutraceuticals
+BIOVEA
+EuroVital
+KamaSutra
+K-Y
+NutraKey
+Trojan
+Natural Contours
+Durex
+Good Clean Love
+Paradise
+Better Sex Essentials
+Sinclair Institute
+Shop By Categories
+Grooming & Facial Care
+Hair Care
+Herbs
+Mature Men & Prostate Support
+Sexual Well-Being
+Testosterone Support
+Vitamins & Minerals
+Shop By Top Brands
+Anagen Research
+KeratinMD Laboratories
+Enraged Nutrition
+Newton-Everett Nutraceuticals
+Adrian London
+BIOVEA Homeopathy
+Kirkland Signature
+Rogaine
+KamaSutra
+Revivogen
+Nature's Way
+Just For Men
+Source Naturals
+Enzymatic Therapy
+Hyland
+DS Laboratories
+Shop By Categories
+Breast Health
+Feminine Care
+Hair Care
+Herbal Supplements
+Mature Women & Menopause Support
+PMS Support
+Prenatal
+Sexual Well-Being
+Sport & Fitness
+Vitamins & Minerals
+Shop By Top Brands
+BIOVEA
+Newton-Everett Nutraceuticals
+Adrian London
+FOLIGAIN
+Anagen Research
+EuroVital
+KeratinMD Laboratories
+Tcentials
+KamaSutra
+Nature's Way
+Emerita
+Natural Contours
+Source Naturals
+Kirkland Signature
+Better Sex Essentials
+Sinclair Institute
+DS Laboratories
+Natrol
+Shop By Categories
+Baby Care
+Baby Food
+Bath & Body
+Calming & Sleep Support
+Cold & Flu
+Diaper Care
+Diapers
+Digestive Health
+Ear Care
+Immune Support
+Omega Oils
+Oral Care
+Seasonal & Homeopathic Allergy & Sinus
+Teething & Colic
+Vitamins & Minerals
+Shop By Top Brands
+Babylabs
+BIOVEA Skincare
+Hyland
+Kirkland Signature
+Symbiotics Super Immune
+Colic Calm
+L'il Critters
+Nutrition Now
+Epic Xylitol
+Source Naturals
+Squip
+Weleda
+Shop By Categories
+Cats
+Dogs
+Shop By Top Brands
+Zoeez Naturals
+Newton-Everett Animal Health
+21st Century
+Pet Naturals
+Lumino Wellness
+Nylabone
+WildSide Pet Products
+Simply Fido
+Vermont Soap
+PetLife Organic
+Jarrow Formulas
+Shop By Categories
+Aromatherapy
+Baby Food
+Baking & Mixes
+Candy
+Food & Snacks
+Great For Smoothies
+Herbal Tea & Coffee
+Juices
+Low-Glycemic
+Natural Cleaning
+Oils & Vinegars
+Organic
+Spices & Seasonings
+Sweeteners
+Shop By Top Brands
+BIOVEA
+Newton-Everett Nutraceuticals
+Traditional Medicinals
+Dynamic Health
+BSN
+Aura Cacia
+Dymatize
+Source Naturals
+Nature's Way
+Frontier
+Labrada Nutrition
+Navitas Naturals
+Shop By Categories
+Childrens Health
+Food & Snacks
+Hair Care
+Herbal Tea & Coffee
+Herbs
+Juices
+Personal Care
+Pets
+Sexual Well-Being
+Skin Care
+Superfoods & Berries
+Sweeteners
+Shop By Top Brands
+Babylabs
+BIOVEA
+Newton-Everett Nutraceuticals
+Traditional Medicinals
+Dynamic Health
+Aura Cacia
+Lafe's Natural
+Christopher's Original Formulas
+Frontier
+Life-Flo
+Navitas Naturals
+Source Naturals
+Weleda
+FREE Shipping over NT$1,500
+Home >
+COLLAGEN 750mg 240 Capsules (BONUS PACK)
+Roll over image to magnify
+Print
+E-mail
+COLLAGEN 750mg 240 Capsules (BONUS PACK)
+Brand:
+BIOVEA
+Item #: 4521
+120 Day Supply
+(28)
+read review(s) | write a review write a review
+Regular Price: NT$1,880
+Our Price: NT$1,720
+Pack Price: NT$1,380 (Save 27%)
+Enter Quantity:
+Please enter a numeric value
+Are you a reseller? Get even bigger volume discounts by opening an account. Click here
+In Stock
+Add To Cart »
++ Add to Compare List
++ Save to Wishlist
+Save an Extra 5% with Auto-Delivery » (Credit card required)
+Auto-Delivery
+With Auto-Delivery you'll never run out of your favourite products!
+SAVE AN EXTRA 5% on all of your Auto-Delivery orders!
+FREE: costs nothing to join and there are no extra fees!
+SAVE TIME: you won't have to keep re-ordering your favourite supplements!
+LOWEST PRICES: you are guaranteed the lowest current price!
+MANAGEMENT: update delivery frequency, pause, resume or cancel anytime!
+Setup Auto-Delivery for: COLLAGEN 750mg 240 Capsules (BONUS PACK)
+1. How often would you like to have this item shipped to you?
+Every 15 Days
+Every 30 Days
+Every 45 Days
+Every 60 Days
+Every 75 Days
+Every 90 Days
+Every 120 Days (Recommended)
+Every 180 Days
+Every 360 Days
+2. How many of this item should be in each shipment?
+Select Quantity Buy 1 for NT$1,311 Or enter a quantity
+3. The first shipment of this item will be sent once you place this order.
+Add To Cart » » Close
+Related Products
+COLLAGEN & HYALURONIC ACID YOUTHFUL SKIN VALUE PACK
+NT$2,770
+Save 27%
+Add to Cart +
+COLLAGEN VALUE PACK (Capsules & Cream)
+NT$1,870
+Save 26%
+Add to Cart +
+COLLAGEN 750mg 120 Capsules
+NT$860
+Save 9%
+Add to Cart +
+ACAI 1000mg 240 Capsules VALUE PACK
+NT$1,040
+Save 33%
+Add to Cart +
+HYALURONIC ACID VALUE PACK (Capsules & Cream)
+NT$1,290
+Save 27%
+Add to Cart +
+GINGER 250mg & GLUCOSAMINE 500mg Capsules VALUE PACK
+NT$1,040
+Save 26%
+Add to Cart +
+FISH COLLAGEN WITH HYALURONIC ACID 120 Capsules
+NT$860
+Save 9%
+Add to Cart +
+5-HTP 50mg 180 Capsules VALUE PACK
+NT$1,380
+Save 0%
+Add to Cart +
+PREGNENOLONE (Capsules & Cream) VALUE PACK
+NT$1,500
+Save 26%
+Add to Cart +
+RASPBERRY KETONE 750mg 60 Vegetarian Capsules
+NT$620
+Save 9%
+Add to Cart +
+Description
+Ingredients
+Directions
+Reviews
+Quality Assurance
+Text Size: A A A
+Collagen: Supports skin, joint and connective tissue health
+• Reduces the signs of ageing by maintaining the skin’s elasticity
+• Improves hair and nail follicles
+• Improves mobility in conditions such as arthritis and joint pain
+• Preserves, builds and replenishes lean muscle mass
+What is Collagen?
+Collagen is the fibrous structural protein that makes up the white fibers (collagenous fibers) of skin, tendon, bone, cartilage, and all other connective tissues. It is also found dispersed in gels of the body to provide stiffening, such as in the vitreous humour of the eye. In other words, collagen is the natural protein that composes most of the body’s structural support and is the primary substance of connective tissue. It is the fibrous connective tissue that holds our body together. Collagen is present in all multi-cellular organisms.
+Collagen gives the different organs and tissues their strength and elastic properties. Twenty-five percent of the dry protein weight of the human body is collagen. Seventy-five percent of our skin is made of it, and in total – some thirty percent of our entire body is collagen. Collagen is part of the natural make-up of tendons, ligaments, joints, muscles, hair, skin, and vital organs.
+Why take Collagen?
+• Arthritis: In order for osteo-arthritis to be treated effectively, the cartilage and synovial fluid in the joint must be protected against further destruction. Collagen protects and restores joint cartilage by supporting or enhancing the synthesis of synovial fluid, which is required to lubricate the joint. It also inhibits free radical enzymes and auto immune processes that degrade joint cartilage and removing blockages in blood vessels leading to the joint. Collagen proteins helps the body to rejuvenate naturally in order to regenerate cartilage and healthy joint function. ageing and trauma disrupt the body's ability to use its own chondroprotective agents, which has led to an epidemic of arthritis throughout the world.
+• Anti-Ageing: The body’s production of collagen slows dramatically with ageing. This slowing process is stealth-like and rather insidious. It starts slowing in our mid-twenties, picks up speed in our thirties and forties, and the losses are even more pronounced through our fifties and sixties. Lack of collagen, or the body’s improper use of collagen, is what causes the ageing process. Besides its many structural properties, collagen serves as the major catalyst for growth and repair of nearly all the body’s tissues. Many different ageing diseases are related to the body’s supply of this vital protein and to disorders in the collagen itself.
+What scientific studies give evidence to support Collagen's action?
+Clinical trials have shown that Type II Collagen reduces inflammation. In one double-blind placebo controlled study, 60 patients with severe rheumatoid arthritis took this collagen for three months and experienced a 30% reduction in joint swelling and tenderness.
+The results of a survey by the Medical Clinic of the University of Wurzburg, Germany in 1995 shows that the long term consumption of Collagen increases the stability and resilience of protein structures. This in turn leads to an improvement in the quality of brittle fingernails and improvement in the quality of hair.
+Tests carried out by Harvard Medical School have shown that 100 per cent pure collagen feeds and supports connective tissue. The results of research by physiologists Dr Oesser and Professor Seifert of Kiel University, published just two months ago, showed for the first time that collagen plays an important part in the nutrition of cartilage tissue.
+The work of Professor R Moskowitz, director of the Arthritis Institute of the University of Cleveland and president of the International Osteoarthritis Research Society offers further evidence of the effectiveness of collagen in the treatment of osteoarthritis. Moskowitz’ research has shown that collagen resulted in a significant reduction of pain and an improvement in joint mobility for people suffering from osteoarthritis.
+Ingredients Directions Reviews Quality Assurance
+top of page
+Text Size: A A A
+Serving Size: 1 Capsule
+Servings Per Container: 240
+Amount Per Serving:
+• Hydrolyzed Collagen Types 1 & 3 750 mg
+Other Ingredients: Hydroxypropyl methyl-cellulose, vegetable magnesium stearate.
+Description Directions Reviews Quality Assurance
+top of page
+Text Size: A A A
+Take one capsule at bedtime on an empty stomach with a large glass of water.
+Warning: Do not exceed recommended dose. If you are pregnant or lactating, consult a health care professional before using this product. KEEP OUT OF REACH OF CHILDREN. Store in a cool, dry place. Do not use this product if the safety seal on the bottle is broken.
+Description Ingredients Reviews Quality Assurance
+top of page
+(28)
+4.7 out of 5 stars
+5 stars
+4 stars
+3 stars
+2 stars
+1 star
+write a review write a review
+Most Helpful Customer Review(s)
+Great Product
+55
+by Janice on 2015 November 29
+Since I have been taking Collagen, my joints aren't as stiff and I have less pain now. I wouldn't be without it!
+Was this review helpful to you?
+4
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+new lease on life?
+45
+by Amanda on 2016 June 04
+This is the first time I've tried using Collagen. I have osteo-arthritis with its accompanying joint stiffness and the well known signs of ageing - that include happy laugh lines as well as crows' feet.It's hard to tell how much can be attributed to the inclusion of a new dietary supplement and maybe it's the warmer weather and the new skin serum but I have to admit to being pleasantly surprised by a lessening of joint pain and sagging skin- so maybe this is a new lease on life? It's definitely worth a try.
+Was this review helpful to you?
+2
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+Biovea Collagen capsules
+45
+by Peter on 2015 October 16
+The Biovea Collagen capsules are fine. I have tried other brands and these are as good as any. I credit then with helping to reduce and even cure some arthritis, along with some other medication. I plan on continuing to take them. I am a fit and healthy 76 year old male in country Australia.
+Was this review helpful to you?
+2
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+Collagen customer
+55
+by Milica on 2018 March 30
+I've been taking collagen for about 4 years for arthritis in my fingers mostly. The symptoms haven't completely gone but have definitely eased. I have much less pain and the burning sensation has greatly decreased. So far, it's the only thing that has helped my symptoms.
+Was this review helpful to you?
+1
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+Impressive results
+55
+by Ray on 2016 December 03
+We have been usimg your collagen caps for 6 months now with seriously good improvement to both of our spinal problems, some of which were serious issues. The collagen appears to be responsible for building up the disc cartilage and relieving back pain.We had been so impressed we have been recommending this to several of our friends and family and so many are trying the collagen caps that we jokingly comment that you had better keep your stocks up, we note that our latest order was shipped directly from the USA !
+Was this review helpful to you?
+1
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+collagen
+55
+by Jane on 2016 November 28
+I have been taking collagen for 7 years now and after about 6 months found that I could kneel on my shins again and I could sleep all night with out waking up with pain in my shoulders, knees and hips.These benefits are on going consequently I am enjoying life more. I will keep taking it!
+Was this review helpful to you?
+1
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+Proven quality
+55
+by teddy on 2016 October 28
+I have been taking this collagen for many months and so far could help dealing with my joint problems
+Was this review helpful to you?
+1
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+Keeping Young
+45
+by Annette on 2016 August 01
+My husband and I both have taken Biovea Collagen 750mg capsules daily for several years. We find it assists with joint problems - hips, knees and arthritis in mature years and has the bonus of boosting healthy hair & nails. Love the product and find it easy to take & digest.
+Was this review helpful to you?
+1
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+Seems to work….
+45
+by Judith on 2015 November 27
+I have been using this product for 2 weeks now. I do get the impression that the sagging around my eyes is less. I seem to look less tired. I ordered this because I saw a friend for the first time in 10 years & she looked younger than when I saw her last. I asked what her secret was. Seems she was just eating healthily & using this product. Gets 4 stars rather than 5 because you are supposed to take it at night & it lies heavy in the stomach.
+Was this review helpful to you?
+1
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+A REVIEW ON COLLAGEN
+55
+by MARIA LUISA on 2019 January 27
+This product is beneficial for your overall health, particularly for joints and connective tissue. The Collagen value pack is very good; however, the value pack of Collagen and Hyalluronic Acid is better.
+Was this review helpful to you?
+0
+Thank you for your feedback.
+Thanks, you've already rated this review.
+There was an error with your request.
+...123...
+Description Ingredients Directions Quality Assurance
+top of page
+Text Size: A A A
+Premium Quality Guaranteed Since 2001
+BIOVEA is committed to product quality through every step of the manufacturing process: formula development, raw ingredient selection, product testing, controlled storage and transport. Because we feel so strongly about the quality, potency and purity of our products, we 100% guarantee your satisfaction with every purchase at BIOVEA.
+BIOVEA branded products go through the stringent processes below to ensure the quality of our products. Our Product Quality Team works closely with other manufacturers to ensure that all of the brands and products available on biovea.com share the same high-level dedication to quality.
+Research - BIOVEA dedicates countless resources to the research and development of new products to stay at the forefront of the vitamin and supplement industry. Read More »The benefits of a product are researched extensively before raw ingredients are selected and formulation begins. As new ingredients emerge and new health benefits are discovered, BIOVEA works closely with researchers, manufacturers and suppliers to make sure we always have the latest products available to our customers. Read Less «
+Purity - BIOVEA uses ingredients with superior purity, efficacy and bioavailability, ensuring the quality and benefits of the final product. Read More »We work closely with our manufacturers and suppliers to source the highest purity raw ingredients from all over the world. BIOVEA works with a variety of suppliers to guarantee the ability to identify and select the most potent and pure active ingredients for each nutritional product. Read Less «
+Manufacturing - Our products are manufactured according to Good Manufacturing processes (GMP). Read More »All BIOVEA nutritional products are manufactured exceeding GMP in facilities that are carefully monitored and regularly inspected to ensure these high standards are constantly upheld. Read Less «
+Testing - Over 25 different standards must be met for each product - ensuring purity and potency and that they are free of any bacterial agents. Read More »Any ingredient that does not meet testing standards is discarded and not used in production. In addition, products are tested for microbial agents, pesticides and other volatile materials as well as screened for harmful agents that can decrease the efficacy of the product and reduce shelf life during the production process. All finished products are tested before packaging to verify that purity, quality and potency have been maintained to specified levels before the products are cleared for distribution. Read Less «
+Guarantee - Our 100% Satisfaction Guarantee ensures that you can shop with confidence every time you order with us. Read More »BIOVEA guarantees the quality and labeled potency of our products. Certificates of Analysis for all BIOVEA branded products are available upon request. If for any reason you are dissatisfied with your product, you may return it within 30 days for a store credit, exchange or a full refund. Read Less «
+Sourcing
+Supplier Qualification • Raw Material Specification • Packaging Material Specification
+Inspection
+Incoming Lot Control • Incoming Inspection • Hygienic Sampling • Laboratory Analysis
+Screening
+Microbial Screening • Mineral and Heavy Metals • Yeast, Mold and Pesticides
+Mixing/Encapsulation
+Consistency • Moisture Analysis • Potency Verification • Friability and Hardness
+Packaging
+Internal Audit System • Metal Detection / X Ray • Shelf Life Verification • QA Inspection
+Description Ingredients Directions
+top of page
+Frequently Bought Together
++
+Buy this item with HYALURONIC ACID 40mg 30 Capsules
+Regular Price Together: NT$2,590
+Our Price Together: NT$2,030
+Buy Items Together › Buy Items Together ›
+Customers Also Bought
+Recently Viewed
+VITAMIN D3 5,000 IU 120 Softgels
+NT$430
+Add To Cart + More Info »
+MACA (Organic) 500mg 120 Capsules VALUE PACK
+NT$880
+Pack Price: NT$710 (Save 0%)
+Add To Cart + More Info »
+COENZYME Q10 (CoQ10) 100mg 120 Vegetarian Capsules VALUE PACK
+NT$1,660
+Pack Price: NT$1,330 (Save 0%)
+Add To Cart + More Info »
+COLLAGEN 750mg 240 Capsules (BONUS PACK)
+NT$1,880 NT$1,720
+Pack Price: NT$1,380 (Save 27%)
+Add To Cart More Info » Available at eurovital.com
+Click Here ››
+x
+Label
+How do you rate this product?
+Please enter a title for your review:
+Review
+Preview Your Review » Cancel
+Preview Your Review »
+If you are happy with the review click Publish review. To make changes, click Edit.
+Publish Review »
+This is how your review will appear:
+by on 2019 April 19
+Publish Review »
+stay connected on Mobile, Facebook, Twitter, Instagram, Google +, YouTube.
+Company:
+About Us
+Giving
+Quality Assurance
+BIOVEA Update
+Mobile
+Services:
+My Account
+My Wish List
+Referral Programme
+Auto-Delivery
+Wholesale
+Support:
+Order Status
+How To Order
+Product Request
+Dispatch Info
+Return & Reshipment Policy
+Help Centre
+The information provided on this site is intended for your general knowledge only and is not a substitute for professional medical advice or treatment for specific medical conditions. Always seek the advice of your physician or other qualified health care provider with any questions you may have regarding a medical condition. The information on this website is not intended to diagnose, treat, cure or prevent any disease. Never disregard medical advice or delay in seeking it because of something you have read on the BIOVEA site. Product sold on this site are for personal use and not for resale. All orders placed through this website are subject to BIOVEA's acceptance, in its sole discretion. This means that BIOVEA may refuse to accept, or may cancel, any order, whether or not it has been confirmed, without liability to you or any third party. BIOVEA reserves the right to discontinue any program or offer.
+Terms of use | Privacy policy | Security policy
+www.acnegen.com |
+www.adrianlondon.com |
+www.foligain.com |
+www.babylabs.com |
+www.bareorganics.com |
+www.biomedx-research.com |
+www.keratinmd.com |
+www.mycogenix.com |
+www.enraged.com |
+www.newton-everett.com |
+www.oralgen.com |
+www.probiogen.com |
+www.pureemu.com |
+www.tcentials.com |
+www.zoeez.com
+© Copyright 2001- 2019 BIOVEA. All Rights Reserved.
+This Item Qualifies for
+50% Off any 2nd Product!
+Choose any regularly priced product and get any
+other item of equal or lesser value at ½ price.
+*Excludes sale or promotional items and cannot
+be combined with any other offers.

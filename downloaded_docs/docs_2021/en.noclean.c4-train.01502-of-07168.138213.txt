@@ -1,0 +1,446 @@
+Physical Activity in Depressed Elderly. A Systematic Review
+left
+right
+Home
+About the Journal
+Editorial Board
+Submit Manuscript
+Instructions for Authors
+Contact Us
+left
+right
+Editorial Policies
+Reviewer Guidelines
+Publishing Ethics
+Self Archiving Policies
+Special Fee Waivers and Discounts
+Corporate Memberships
+RESEARCH ARTICLE
+Physical Activity in Depressed Elderly. A Systematic Review
+Gioia Mura 1, Mauro Giovanni Carta1, 2, *
+1 Department of Public Health and Clinical and Molecular Medicine, University of Cagliari, Italy
+2 Centre for Liason Psychiatry and Psychosomatics, University of Cagliari Via Ospdale, 09123 Cagliari, Italy
+Article Information
+Identifiers and Pagination:
+Year: 2013
+Volume: 9
+First Page: 125
+Last Page: 135
+Publisher Id: CPEMH-9-125
+DOI: 10.2174/1745017901309010125
+Article History:
+Received Date: 24/3/2013
+Revision Received Date: 6/6/2013
+Acceptance Date: 7/6/2013
+Electronic publication date: 12/7/2013
+Collection year: 2013
+Article Metrics
+CrossRef Citations:
+0
+Total Statistics:
+Full-Text HTML Views: 2571
+Abstract HTML Views: 1076
+PDF Downloads: 326
+Total Views/Downloads: 3973
+Unique Statistics:
+Full-Text HTML Views: 635
+Abstract HTML Views: 605
+PDF Downloads: 205
+Total Views/Downloads: 1445
+© Mura and Carta; Licensee Bentham Open.
+open-access license: This is an open access article licensed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted, non-commercial use, distribution and reproduction in any medium, provided the work is properly cited.
+* Address correspondence to this author at the Centre for Liason Psychiatry and Psychosomatics, University of Cagliari Via Ospdale. 09123 Cagliari Italy; Tel +39 335499994; Fax: +39 070 6093498; E-mail: mgcarta@tiscali.it
+Abstract
+Background:
+exercise may reduce depressive symptoms both in healthy aged populations and in old patients diagnosed with MDD, but few specific analysis were conducted on the efficacy of exercise as an adjunctive treatment with antidepressants, which may be probably more useful in clinical practice, considered the high prevalence of treatment resistant depression in late life, the low cost and safety of physical activity interventions.
+Objective:
+to establish the new findings on the effectiveness of exercise on depression in elderlies, with particular focus on the efficacy of the exercise as an adjunctive treatment with antidepressants drug therapy.
+Method:
+the search of significant articles was carried out in PubMed/Medline with the following key words: “exercise”, “physical activity”, “physical fitness”, “depressive disorder”, “depression”, “depressive symptoms”, “late life”, “old people”, and “elderly”.
+Results:
+44 papers were retrieved by the search. Among the 10 included randomized controlled trials, treatment allocation was adequately conceived in 4 studies, intention-to-treat analysis was performed in 6 studies, but no study had a double-blinded assessment. We examined and discussed the results of all these trials.
+Conclusion:
+in the last 20 years, few progresses were done in showing the efficacy of exercise on depression, due in part to the persistent lack of high quality research, in part to clinical issues of management of depression in late life, in part to the difficult to establish the real effectiveness of exercise on depressive symptoms in elderlies. However, there are some promising findings on physical activity combined with antidepressants in treatment resistant late life depression.
+Keywords: : Exercise, Physical activity, Depression, elderly, Late life, Mood disorder, Systematic review.
+View Abstract Download PDF
+BACKGROUND
+Major depressive disorder (MDD) represents a common public health issue, it has a lifetime prevalence of 15% to 20% [1, 2] and it has been increased from 15th to 11th rank (37% increase) from 1990 to 2010 among the leading cause of disability in the world [3].
+While the prevalence of depressive disorders apparently decreased with age [4], with a prevalence of major depressive disorder in community samples of adults aged 65 and older ranging from 1 to 10% in most large-scale epidemiological studies [5, 6], rates of depression are higher in particular subsets of elderlies, such as medical outpatients (5-10%), medical inpatients (10-12%), and residents of long term care facilities (14 to 42%) [7].
+However, it was also observed that the elderly are more involved in the stigma related to depression [8, 9]. It is therefore likely that the elders declare less frequently than non-elderly people depressive symptoms in epidemiological investigations, even when they are suffering. Another aspect concerns the specificity of depressive symptoms in old age. Depression in the elderly, both quantitatively and in terms of the specificity of symptoms, seems to be different from the non-elderly depressive disorders [10]. Indeed, if we investigate the depressive symptoms using diagnostic unstructured tools by means of clinicians, depression rates in the elderly are much higher than by using structured tools [10, 11]. Finally, it has to consider that people who suffer from mood disorders have a lower life expectancy than those who do not suffer from this disorder [12]. So, who has been affected from depression as a young man, is less likely to be older than those who have not suffered. Thus, the notion that the incidence of depression is not frequent in older people is probably an artifact of the epidemiological surveys investigating prevalence, because these investigations have carried out in the general population with rigidly structured interviews and lay interviewers, a method which had been otherwise criticized [13], and are frequently designed to exclude those living in institutions and not at home. This proportion of individuals is high represented in the very old age, which is above all at high risk of depression [14].
+It is true, however, that be suffering from depression is a factor that strongly impairs the quality of life and independence of people who are aged [15,16].
+The onset and maintenance of depressive disorder in late life seem to follow a vulnerability-stress model, with an interaction between individual vulnerabilities, including genetic factors, age-associated neurobiological and cognitive changes, and a variety of stressful life events that occur more frequently in late life than earlier, such as bereavement, reduction in financial incomes, providing care for an ill relative and occurrence of illness reducing autonomy in daily life [17,18].
+Due to the high prevalence of depressive disorder, the efficacy of antidepressants and their low profile of side effects, these drugs have become one of the most common medicaments in the community in western countries, with 6% of utilizers in France [19] and 4.7% in Italy [20]. Randomized clinical trials performed on depressed older adults samples have demonstrated moderate to large effect sizes for selective serotonin re-uptake inhibitors, tricyclic antidepressants and monoamine oxidase inhibitors [21]. Nevertheless, only a small proportion of older adults with depression (around 20%) receive adequate treatment [22, 23]. Lack of treatment among older adults may reflect, in part, the difficulty of detecting depression in older adults, due to age-specific presentation of disease: compared with young adults, older patients tend to present less emotional symptoms of depression, such as sadness, worthlessness/guilt, worry, and fear, and are less accurate at identifying depressive symptoms overall [24]. Moreover, sub-clinical cognitive deficits, as slowness in processing speed and executive dysfunctions, are likely to be showed in elderly patients by objective testing [25], and such deficits may make problematic the psychiatric assessment, reducing rates of diagnosed mental disorder among old people [26]. Anyway, the response rates of antidepressant monotherapy are only from 30% to 45% with single-action or dual-action antidepressant monotherapy [27]. Augmentation therapies or combination with two antidepressants increase the percentage of responders up to 75%, but these strategies increase the risk of side effects and drop-outs [28, 29]. Finally, the presence of serious organic comorbidities may contribute to the depression and complicate the choice of treatment; old patients are likely to use a wide variety of drugs, some of which may worse depression and/or interact with antidepressants, and, metabolizing medications slowly, they are more sensitive to side effects than youngers [30].
+Significantly, mortality hazard increases with the severity of depressive symptoms, and antidepressants have not been shown to reduce the mortality rate of elderly patients with persistent symptoms of depression [31, 32].
+Because depression in late life, even at sub-threshold levels, is associated with low physical function [33-36], treatment of depression should also provide an opportunity to improve functional limitations [17].
+In the last 30 years, a number of studies has suggested that exercise might be effective in preventing or reducing depressive symptoms both in aged healthy populations [37, 38] and as a complementary or alternative treatment for depression [39-41], but this literature has been criticized for methodological weaknesses, such as lack of adequately randomization concealment method and blinding procedure, small samples, and poor quality of data analysis [39].
+Nevertheless, considered the interest of researchers on the efficacy and safety of complementary therapies in depressed elderly patients, we thought it might be of interest to review the literature on the topic, in order to establish the role of physical activity in outcomes of depression in late life.
+OBJECTIVE
+We carried out a systematic review to establish the new findings on the effectiveness of exercise on depression in elderly population, with particular focus on the efficacy of the exercise as an adjunctive treatment with antidepressant drugs therapy.
+METHOD
+Identification of the Studies
+The search of the significant articles was carried out in PubMed/Medline with the following key words: “exercise”, “physical activity”, “physical fitness”, “depressive disorder”, “depression”, “depressive symptoms”, “late life”, “old people”, “elderlies”. Interval was set from January 1990 to December 2012, and the search was further refined on January 2013.
+Inclusion Criteria
+Studies were included in this review if they were randomized controlled trials, in which exercise was compared to standard treatments (including antidepressant drugs), no treatment or placebo-control, in people aged >60 years old, with depression (diagnosed by any method) as defined by trial authors. We excluded studies different from randomized controlled trials, those that compared different type of exercise without a no-exercising control group, those without an outcome measure of depression, those that measured outcomes immediately before and after a single bout of exercise, samples with mixed diagnosis (i.e. psychiatric and organic comorbidity).
+Quality of Studies
+We assessed the quality of studies by noting the concealment of allocation, the intention to treat analysis, and the blinding. Trials were distinguished in adequately concealed (if they performed central randomization at a site remote from the study; computerized allocation in which records are in a locked, unreadable file that can be accessed only after entering patient details; the drawing of sealed and opaque sequentially numbered envelopes), or inadequately concealed (open list or tables of random numbers; open computer systems; drawing of non-opaque envelopes). Trials were defined as using intention to treat analysis if all the patients were analyzed in the groups to which they were randomly allocated. For blinding we distinguished between trials in which the main outcome was measured by a blinded assessor and those in which the main outcome was measured either by the participants themselves or by a non-blinded assessor. Moreover, we considered the duration of trials, if the sample had an adequate numerosity, and if it was performed a follow-up assessment. We also considered the quality of assessment (i.e. structured interview, self-report or observer-administered questionnaire), both at the baseline and at the end of trials.
+Outcome Measures
+We considered as outcome measure the main outcome declared by authors. Because the focus of this paper, we didn’t consider secondary outcomes.
+RESULTS
+Forty-four papers were retrieved by the search. Thirty-four papers were excluded because these didn’t fulfill our criteria. The abstract of the extracted papers were read and the more pertinent ones (n = 10) were obtained in full version and analyzed in deep. We also examined bibliographies.
+Of the 34 papers excluded, 10 were systematic reviews [17, 39-47], most relevant of which we included in session “discussion”. One paper was a commentary [48], 4 did not have an outcome measure of depression [49-52], 2 were on the effect of a single bout of exercise [53, 54], 8 compared different types of exercise but had no non-exercising group [55-62], 2 were conducted on a healthy population [63, 64], 3 had mixed diagnosis samples [65-67], 4 were experimental non-randomized controlled trials [68-71]. Fig. (1) shows the process of inclusion of studies for review.
+Fig. (1).
+Process of inclusion of studies for review.
+Main characteristics of included studies are shown in Table 1.
+Table 1.
+Characteristics of Included Studies
+Trial
+N
+Treatment
+Control
+Duration
+Blinding
+Assessment
+Itt
+Results
+Blumenthal et al. 1999 156 Aerobic exercise or Aerobic exercise+ Sertraline Sertraline 16 weeks observer HAM-D 17 BDI yes HAM p=0.39
+BDI p=0.40
+Kerse et al. 2010 193 53.1%* Home-based exercise [+ antidepressants 28.8%] Social visits [+ antidepressants 24%] 12 months observer GDS no p=0.916
+Mather et al. 2002 86 Aerobic supervised exercise + antidepressants Health talks + antidepressants 10 weeks + follow-up 34 w observer HAM-D17 yes p=0.05 [M-W p=0.28]
+Matthews et al. 2011 424 23.8%* Physical activity intervention Health talks + stretching 12 months observer CES-D no p=0.852
+McNeil et al. 1991 30 Supervised exercise Social contact or Waiting list 6 weeks no BDI no p<0.05 [exercise vs waiting list]
+Sims et al. 2006 32 Strengthening exercise Brief advice 10 weeks+ follow up 6 months observer GDS yes p=0.59
+p=0.08 [follow-up]
+Singh et al. 1997 32 Supervised progressive resistance training Attention group 10 weeks observer HAM-D
+BDI yes p=0.008
+p=0.002
+Singh et al. 2001 32 Supervised weight lift Health educ. lectures 20 weeks + follow-up 26 m observer BDI yes p<0.05
+Singh et al. 2005 60 Supervised progressive resistance training high vs low intensity Usual GP care 8 w observer HAM-D no p=0.03 high intensity vs low intensity and usual care
+Teri et al. 2011 273 30%* Physical activity program [SPA] or SPA+ educational health promotion program Educational health promotion program or Routine medical care 3 months + follow up 18 m observer GDS yes p>0.05
+* Percentage of depressed patients in the sample.
+We found 10 studies that fulfilled our inclusion criteria [72-81].
+Of the studies, 6 were carried out in USA [72, 75, 78-81], and one each was in New Zealand [73], UK [74], Canada [76], and Australia [77]. All the included trial but one [74] had intervention groups with supervised exercise programs, compared with health talks, health lectures or brief health advice control groups [74, 77, 79]; Matthews et al. [75] combined health talks with stretching, Teri et al. [81] had a two arms control group, with a program of educational health promotion or routine medical care, McNeil and colleagues’ trial had 2 control groups, with social contact or waiting list [76]; Singh et al. (2001) [79] had an attention control group, while Singh et al. (2005) [80] had a two arms treatment (supervised anaerobic training at high or low intensity) compared to a “usual GP care” control group. Blumenthal et al. [72] performed a trial with a control group on antidepressant therapy with sertraline, Mather et al. [74] had both treatment and control group with antidepressants, Kerse et al. [73] had a fair percentage of participants who undergoing antidepressant therapy both in treatment and in control group.
+Quality Assessment
+Treatment allocation was adequately conceived in 4 studies [73, 74, 78, 79].
+Intention to treat analysis was performed in 5 studies [72, 74, 77-79].
+A double-blinded assessment of the main outcome was not performed in any study.
+Main outcome was a significant reduction compared to the baseline of GDS score in three studies [73, 77, 81], of BDI score in 2 studies [76, 79], of the HAM-D score in 2 studies [74, 80], of the CES-D score in one study [75]. Two studies [72, 78] assessed participants both with an observer-administered questionnaire (HAM-D) and with BDI.
+Exercise Compared to Antidepressants
+Blumenthal and colleagues [72] carried out a randomized controlled trial to establish the effectiveness on depression of an aerobic exercise program (3 supervised exercise sessions per week, in a group-setting) compared to sertraline (50-200 mg) or combined treatment (exercise plus sertraline) on a sample of 156 depressed volunteers aged ≥50 years (mean age 57 years). After 16 weeks of treatment, all groups exhibited statistically and clinically significant reductions on HAM-D and BDI scores, without a statistical difference across groups (p= 0.67); adjustment for baseline levels of depression yielded an identical result. Patients receiving medication alone and mildly depressed patients receiving combined treatment exhibited the fastest initial response; however, at the end of treatment, exercise was equally effective in reducing depression.
+Exercise Compared to Health Education
+Mather and colleagues [74] published the findings of a trial focused on the effect of exercise as an adjunct to antidepressants in reducing depression in a sample of 86 patients aged > 60 years old, poorly responders to antidepressant therapy alone. Participants were randomly assigned to an exercise class group (endurance, muscle strengthening and stretching twice per week, for 10 weeks), or to a control group, with twice-weekly health education talks. Patients were assessed on baseline, 10 weeks and 34 weeks with HAM-D17; because the study focused on a particular population (i.e. a group who had failed to respond to initial treatment), the general convention in trials of antidepressant therapy to use a ≥ 50% reduction in HAM-D17 score as the definition of a response was modified by authors, which assumed that a ≥ 30% reduction in HAM-D17 score associated with participation in exercise could reach clinical interest. At 10 weeks, the exercise group achieved a higher response compared to the control group (p=0.05). Further analysis using the Mann-Whitney test revealed no discernible difference between the two groups in overall effect on the HAM-D17 score (p=0.28).
+Matthews et al. [75] carried out a post-hoc analysis of data from the Lifestyle Interventions and Independence for Elders Pilot (LIFE-P) study, which was a 12 months single-blind randomized controlled trial comparing a moderate intensity physical activity intervention (PA), consisting of a combination of aerobic, strength, flexibility and balance exercises along three phases (individualized, center-based and finally home-based exercise program, with group-based counseling sessions), with the Successful Aging control (SA), a series of sessions on health topics relevant to older adults followed by 5-10 minutes of stretching. Participants were 424 aged volunteers (mean age 76.77 years). Of the sample, 23.8% had depressive symptoms, with 15.8% had high depressive symptom scores (CES-D ≥ 14). The number of participants taking antidepressant medication was significantly higher in those with high depressive (42.1% in PA intervention group, and 55.2% in SA control group) versus low depressive symptoms (18.9% in PA intervention group, and 19.8% in SA control group), but comparable between the two intervention arms. There was no significant improvement in CES-D score over time as a result of participation in either intervention group (p=0.852). No significant changes in CES-D scores were found associated with either intervention when examined in participants with high depressive symptoms (p=0.385) and low depressive symptoms (p=0.670) over the duration of the trial.
+Sims et al. [77] performed a trial on 32 depressed volunteers aged ≥ 65 years, randomly assigned at an intervention group (three sessions a week for 10 weeks of moderate intensity strengthening exercises) or at a brief advice control group. Currently receiving antidepressants was an exclusion criterion. Ten weeks follow-up data analyses revealed no significant differences between GDS scores of the intervention and control groups; at six-months follow up there was a trend for the PRT intervention group to have lower GDS scores than the comparison group, but this finding did not reach significance (p = 0.08).
+Singh and colleagues (2001) [79] studied 32 community-dwelling patients with major or minor depression or dysthymia (mean age 71.3 years old) in a 20-week, randomized, controlled trial, with follow-up at 26 months. Participants were assigned at the intervention (10 weeks of supervised weight-lifting exercise followed by 10 weeks of unsupervised exercise) or control group attending educational lectures for 10 weeks. The BDI was significantly reduced at both 20 weeks and 26 months of follow-up in exercisers compared with controls (p <0.05 and p=0.001 respectively).
+Recently, Teri et al. [81] performed a single-blinded, randomized controlled trial with 2 × 2 factorial design to evaluate the efficacy of a physical activity program (Seattle Protocol for Activity: SPA, consisting in 9 weekly 60 minute sessions followed by 2 bi-weekly 60 minute sessions over 3 months, followed by three monthly and two quarterly booster sessions, for a total of 14 sessions over one year of aerobic/endurance exercises) for low-exercising older adults, compared to educational health promotion program (HP, focused on encouraging participants to maintain a healthy lifestyle, and to engage in regular activities), combination treatment (SPA+HP), and routine medical care control conditions (RMC, including advice and support from their primary physicians and community support services). Participants were 273 older volunteers (mean age 79.2 years); 30% of the sample had mild to moderate symptoms of depression. At the 3-month and 18-month assessments there were no significant differences on the GDS for any treatment condition. No covariate changed the significance of outcome variables in the ITT analyses, nor were there differences in affective outcomes for participants with higher levels of baseline depression (GDS > 8).
+Exercise Compared to Health Education
+Kerse and colleagues [73] published the findings of a trial focused to establish the effectiveness of a home-based physical activity program (the Depression in Late Life Intervention Trial of Exercise: DeLLITE), in improving function, quality of life, and mood in older people with depressive symptoms. Participants (193 depressed people, aged 75 years and older, mean age 81 years) randomly received either an individualized physical activity program (home-based moderate-intensity balance retraining, progressive resistance lower limb-strengthening exercises, and walking) or social visits (without psychotherapeutic components) over 6 months, with a 12-month follow up. Of the sample, 53.1% had moderate to high levels of depression according to ICD-10, DSM-IV (from CIDI), or GDS-15 criteria, and 26.4% were taking antidepressants, as assessed at baseline. GDS-15 scores improved for all participants over the year of the trial (p<0.001), but there was no significant difference between the 2 groups (p=0.916). There was no differential effect when comparing GDS change in higher depression score participants between the groups over time (p=0.269).
+McNeil and colleagues [76] in 1991 carried out a trial on a small sample of 30 elderly volunteers affected by moderate depression, randomly assigned to a 6 weeks intervention of supervised 3-weelkly walking (intervention group), a social contact (home visits by a psychology student twice a week) or a waiting-list control groups. Exercise and social contact both resulted in significant reductions in both the total and the psychological subscale of the Beck Depression Inventory (BDI), without significant difference between these groups; exerciser participants showed a significant difference compared to wait list (p<0.05), and, unlike both the control conditions, showed a decrease also in somatic symptoms subscale of the BDI.
+Exercise Compared to Attention Group
+Singh et al. (1997) [78] performed a 10 weeks randomized trial on a sample of 32 elderly volunteers (mean age 71.3 years) with major or minor depression or dysthymia, allocated to either a supervised 3 weekly weight-lift intervention group or to an attention control group (seminars on health of elderly people twice a week), assessed by BDI and HAM-D. Anaerobic exercise performed by treatment group significantly reduced all depression measures compared to control (BDI p= 0.002; HAM-D p= 0.008). Interestingly, in a multiple stepwise regression model, intensity of training was a significant independent predictor of decrease in depression scores (r2 = 0.617, p=0.0002).
+Exercise Compared to General Practitioner Usual Care
+Singh et al. (2005) [80] published the findings of a 8 weeks randomized controlled trial on 60 volunteers aged >60 years old, either allocated in two intervention groups (high versus low-intensity 3 weekly supervised weight training) or standard care by their general practitioner. Authors concluded that high-intensity training group achieved a better response, as assessed by HAM-D score, than low intensity or control group (p=0.03).
+DISCUSSION
+Due to the variety in samples, characteristics of intervention and control groups, duration of trials, main assessment and follow up, a direct comparison between studies is difficult. Moreover, a lack of adequately concealed randomization, intention to treat analysis and double-blinded design affected the studies. Despite evidence from well-designed studies is limited, a large majority of the selected studies showed significant positive findings in terms of reductions in depressive symptoms obtained by exercisers when compared with controls [72, 74, 76-80]. The few remaining studies showed non-significant trends towards positive outcomes, or a reduction of depression for both intervention and control groups. Thus, we can conclude that physical activity interventions appears to exert beneficial clinical effects on depressive symptoms in elderlies, justifying the interest of researchers in this field, and clinicians’ general conviction.
+The latest guidelines from the National Institute for Health and Clinical Excellence [82] included physical activity as a management strategy for depression, recommending structured, supervised exercise programs, three times a week (45 min to 1 h) over 10–14 weeks, at low-intensity, as a Step 2 intervention for mild to moderate depression. Moreover, the guideline for promoting mental health prescribes an accumulation each week of a minimum of 150 minutes of exercise at moderate intensity or a minimum of 75 minutes at vigorous intensity, in bouts of at least 25 minutes over 3 to 5 days per week [83].
+Exercise has been supposed acting on depression with a variety of neurobiological effects, such as increase of endorphin and monoamine levels or reduction in the levels of cortisol in the brain [84, 85]. Since it has been hypothesized that depressive disorders might be linked to decreased hippocampal neurogenesis [86, 87], laboratory researches have shown that exercise promotes adult hippocampal neurogenesis [88-90] and triggered dendritic remodeling [91], and such effect exercise-related has been found to be much stronger than that determined by antidepressant drugs [92].
+Exercise has been shown to improve subjective quality of life in physical domains in depressed patients [93-95], with higher doses of physical activity associated with larger improvements both in mental and physical domains of QOL. Moreover, exercise may promote other cognitive mechanisms related to subjective wellbeing, as diversion from negative thinking, and a sense of purpose [96, 97].
+A series of reviews of literature and meta-analysis, carried out in the recent past, highlighted the interest of researchers in establishing the efficacy of exercise on depressive disorders in the elderlies [17, 40, 42-48, 98], but no specific analysis were conducted on the efficacy of exercise as an adjunctive treatment in old patients who undergoing antidepressant therapy, which may be probably more useful in clinical practice.
+A large majority of reviewers found significant methodological limitations in trials, and, in order to recommended exercise as an alternative to empirically validated pharmacological and psychological therapies, claimed for further studies of higher quality [43, 45-47, 99, 100]. Forsman, Nordmyr & Wahlbeck, reviewing the literature on psychosocial interventions for the mental health among older adults, concluded that physical activity had no statistically significant pooled effects on any outcomes with available data when compared with no intervention [101].
+The major issue is the relative rarity of randomized clinical trials, which could provide an experimental evidence of the effect of exercise, excluding confounding factors.
+Another frequently missed evidence is a dose-response effect, and the minimum effect dose [102]. An expert consensus conference claimed for experimental evidence for a dose–response between physical activity and human health [103, 104]; Dunn, Trivedi, & O’Neal [105] confirmed the lack of studies, but stated that a dose-response relation remains plausible. Ströhle, in a more recent review [106], claimed for further details on the optimal type, intensity, frequency and duration of exercise treatment, highlighting the need of knowledge on how to best deal with depression and anxiety related symptoms, which are likely to hinder patients to be involved in exercise training.
+Moreover, many studies on the topic are lacking of a “placebo-control” condition. Klein [107] assumed that researchers who compare non-pharmacologic interventions to antidepressant drugs must include a pill-placebo control group in order to exclude confounding factors; Walsh and Sysko [108] reminded that the proportion of patients responding to placebo in studies on older individuals was slightly higher compared to studies on younger adults, leading to a significantly reduction in effect size. Interestingly, a higher placebo response rate was predicted by low baseline disorder severity [109] and, in clinical practice, patients with mild to moderate depression are likely to have a better placebo response than in clinical trials [110].
+On the other side, only few studies focused on the effect of exercise compared to an antidepressant therapy. Thus, in order to show the effect of confounding factors common to exercise and “control” condition, choose an activity such as relaxation, flexibility or stretching exercise as “control” seems to be an acceptable compromise, rather than a “no treatment” group [93, 111]. In fact, the same exercise might to act on depression through elements other than exercise itself, which are likely to be confounding or, at least, mediating factors, such as socialization, learning new skills, shaping the body, weight-loosing, and creativity, all related to psychosocial skills, generally reduced in depressed patients [112-117]. Furthermore, aged people are likely to have low levels of social interactions, which are also related to depression [118, 119], determining time spent in groups or activity programs a treatment per se. Consequently, also social contact seems to be acceptably used as control for the social component of physical activity programs [73].
+In a meta-analysis published in 2009, including only randomized controlled trials, Blake and colleagues [42] found important methodological weakness in each of the 11 studies analyzed: allocation was adequately concealed in 5 studies, intention to treat analysis in 5, assessment of outcome was blinded in 7 and the main outcome was measured by self-assessment in 4. Out of 10 included randomized controlled trials, we found important methodological weakness in all. The first problem is the lack of a non-volunteers sample. As observed by Lawlor & Hopker [43], the use of non-clinical volunteers, and the lack of intention to treat analysis suggest that results may overestimate what would be likely in real life.
+Among included trials, only one [80] focused on the effect of different intensity exercises, showing high intensity exercise superior compared to control treatment, with no effect for low intensity training. In a study on exercise as adjunct to antidepressants in the treatment of non-remitting depressed patients, Trivedi and colleagues [120] showed that while both high and low exercise doses combined with SSRI treatment produced a decrease of depressive symptoms, there was a trend for higher remission rates in the higher-dose (p<0.06) compared to the lower-dose group. Nevertheless, participants assigned to the low-dose exercise group showed better adherence than those assigned to the high-dose exercise group, showing that low-dose exercise may be both more tolerable and acceptable for depressed patients, and suggesting that in patients in treatment with antidepressants, even low dose of physical activity might be effective in reducing depressive symptoms. A recent study by Callaghan and colleagues [121] seemed to reinforce these findings, affirming the superiority of preferred intensity rather than prescribed intensity exercise in reducing depression.
+The effect of exercise on mood as an adjunction to antidepressant therapy was detected in four of the included papers, with different findings: the two stronger trials, carried out by Kerse and colleagues [73] and Matthews et al. [75], which showed no effect, were performed with samples only in part depressed (53.1% and 23.8% respectively) and taking antidepressants, but a separate analysis for depressed subsamples was conducted, which confirmed that there was no significant difference between treatment and control groups (p=0.916 and p=0.385 respectively).
+The Blumenthal and colleagues’ trial [72], that showed an identical effect of antidepressants, aerobic exercise and combined treatment, involved a middle aged sample rather than a “older adults” one, as defined by Authors; furthermore, it had a short term duration (16 weeks), without follow-up, and lacked of a “no-treatment” control condition. The trial carried out by Mather et al. [74] appears more interesting, because the mean age of participants (63.7 years in the treatment group, 66.2 years in the control group), and the clinical characteristic of the sample (patients who failed to respond to antidepressants). Two trials carried out on middle-aged populations with treatment-resistant depression showed analogue findings. Pilu et al. [111] performed a randomized trial with naturalistic control on a small sample of 30 depressed women [aged between 40 and 60 years old], undergoing and not responders to antidepressant therapy, randomized either to the treatment (one hour 2 weekly supervised aerobic exercise session plus usual antidepressant) or control group (antidepressant alone) during 8 months, assessed with HAM-D. Only the treatment group showed significant reduction in HAM-D scores (p<0.0001), while controls didn’t improve significantly (p=0.28). Mota-Pereira and colleagues [122] carried out a trial on 33 patients (aged between 26 and 60 years, mean age 45.33 years control group, 48.68 years treatment group) affected by treatment-resistant major depressive disorder. Participants were randomized to the treatment (5 weekly home-based aerobic exercise, consisting in 30-45 min/day walks, as an adjunction at the usual antidepressant treatment) or control group (usual antidepressant treatment alone) for 12 weeks. The treatment group showed lower HAM-D17 rates compared to the control group (p < 0.014). While in the control group none of participants showed response or remission, in the treatment group there were 21% of response and 26% of remission, although these data were not significant.
+Thus, while the findings of the latters cannot consent to generalize results, they draw attention on a really important issue, since depressed elderlies in a naturalistic contest often undergoing an antidepressant therapy, and treating resistant depression in older patients represent a challenge. In fact, around two thirds of overall considered antidepressant-treated elderly, and 46% of newer antidepressant-treated patients were considered responders, but older people are particularly vulnerable to side effects: classical TCAs are associated with a higher withdrawal rate due to side effect experience [123], and are more likely to determine acute cognitive impairment related to anticholinergic effects [124]. Moreover, TCAs and MAOIs are associated with severe pharmacodynamic interactions with many medications frequently prescribed to elderly patients [125]. Newer antidepressants, such as escitalopram and duloxetine, are generally well tolerated, but 5-20% and 10-27% of patients, respectively, drop out because of medication-related adverse effects [126]. Rates of treatment resistance in randomized controlled trials in late life depression are as high as 77% using SSRIs and range from 55% to 81% using SNRIs [127-130]. Lithium augmentation in late life antidepressant-resistant patients showed lower rate response and higher side effects than in younger patients [131]. Furthermore, there was limited support for adding an atypical antipsychotic to the antidepressant, and special attention should be addressed to patients with diabetes, dyslipidemia, obesity, Parkinson's disease, QTc prolongation or congestive heart failure, cognitive impairment, constipation, xerophthalmia, and xerostomia [132].
+Interestingly, a growing body of evidences links neuropathological correlates of depression, such as hippocampal atrophy, and effect of physical activity on brain plasticity. Smaller hippocampal volumes are associated with major depressive disorder in both young and older populations [133], and also predict poorer long-term outcomes of antidepressant therapies [134]. There is strong evidence that BDNF protein expression plays an important role in the pathophysiology of depression [135], supporting the notion that clinical improvement in depression are associated with neuroplasticity. Both antidepressants [136, 137] and exercise [138, 139] have been shown to block or even to reverse hippocampal atrophy depression-related by increasing BDNF. Vascular disease in the elderly are closely associated with depression [140]. The presence of sub-threshold manic symptoms that is very difficult to identify in the elderly also with the methods of screening [141], increases the risk of vascular dysfunction [142], and thus it is possible that among people with more severe depression they are cases more vulnerable to switch from mania during the antidepressant drug therapy.
+Previous laboratory researches suggested that a combined treatment with exercise-plus-antidepressant produced significant increases of BDNF level whereas antidepressant alone failed, and the combination between exercise and reboxetine led to both rapid (detectable at 2 days) and sustainable to 20 days increases in hippocampal BDNF mRNA expression [143]. It is noteworthy that this effect was demonstrated both in young and in aged rats [144]. Very few studies were carried out on this promising field; nevertheless, physical activity has been recommended in combination with other treatments [145], and, in a pilot study, it was proposed as a lower-cost augmentation strategy to improve residual symptoms of depression and prevent relapses [146]. Thus, while further researches are needed to confirm this hypothesis, physical activity may be regarded with interest as an augmentation strategy to ménage treatment resistant depression in late life.
+CONCLUSION
+Despite the efforts of researchers, in the last 22 years few progresses were done in showing the efficacy of exercise on depression in late life. It was due in part to the persistent lack of high quality research, in part to the difficult to establish the real effectiveness of physical activity, both from a qualitative and a quantitative view, as a management strategy for depressive symptoms, in part to the specific characteristics of depressive disorder in elderlies. While further studies of high methodological quality are required to produce a scientific evidence of exercise as an effective treatment for depression, some promising findings on physical activity combined with antidepressants in depressed patients resistant to antidepressant drugs therapy should be regarded with attention, considering the low cost, the benefits on global health, and the acceptable risk on old patients.
+CONFLICT OF INTEREST
+The authors confirm that this article content has no conflicts of interest.
+ACKNOWLEDGEMENTS
+Declared none.
+REFERENCES
+[1] Moussavi S, Chatterji S, Verdes E, Tandon A, Patel V, Uston B. Depression, chronic disease, and decrements in health: results from the World Health Survey Lancet 2007; 370: 851-.
+[2] Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters EE. Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the national comorbidity survey replication Arch Gen Psychiatry 2005; 62: 593-602.
+[3] Murray CJ, Vos T, Lozano R, et al. Disability-adjusted life years [DALYs] for 291 diseases and injuries in 21 regions, 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010 Lancet 2012; 380(9859): 2197-3.
+[4] Scott KM, Von Korff M, Alonso J, et al. Age patterns in the prevalence of DSM-IV depressive/anxiety disorders with and without physical co-morbidity Psychol Med 2008; 38(11): 1659-69.
+[5] Hasin DS, Goodwin RD, Stinson FS, Grant BF. Epidemiology of major depressive disorder: results from the National Epidemiologic Survey on Alcoholism and Related Conditions Arch Gen Psychiatry 2005; 62(10): 1097-6.
+[6] Park JH, Kim KW, Kim MH, et al. A nationwide survey on the prevalence and risk factors of late life depression in South Korea J Affect Disord 2012; 138(1-2): 34-40.
+[7] Blazer DG. Depression in late life: review and commentary J Gerontol A Biol Sci Med Sci 2003; 58(3): 249-65.
+[8] Carta MG, Angermeyer MC, Matschinger H, Holzinger A, Floris F, Moro MF. Perception of depressive symptoms by the Sardinian public: results of a population study BMC Psychiatry 2013; 13(1): 57.
+[9] Schomerus G, Schwahn C, Holzinger A, et al. Evolution of public attitudes about mental illness: a systematic review and meta-analysis Acta Psychiatr Scand 2012; 125(6): 440-52.
+[10] Stek ML, Gussekloo J, Beekman AT, van Tilburg W, Westendorp RG. Prevalence, correlates and recognition of depression in the oldest old: the Leiden 85-plus study J Affect Disord 2004; 78(3): 193-200.
+[11] Carpiniello B, Carta MG, Rudas N. Depression among elderly people Acta Psychatr Scand 1989; 80: 445-50.
+[12] Zivin K, Ilgen MA, Pfeiffer PN, et al. Early mortality and years of potential life lost among Veterans Affairs patients with depression Psychiatr Serv 2012; 63(8): 823-6.
+[13] Carta MG, Angst J. Epidemiological and clinical aspects of bipolar disorders: controversies or a common need to redefine the aims and methodological aspects of surveys Clin Pract Epidemol Ment Health 2005; 1(1): 4.
+[14] Anstey KJ, von Sanden C, Sargent-Cox K, Luszcz MA. Prevalence and risk factors for depression in a longitudinal, population-based study including individuals in the community and residential care Am J Geriatr Psychiatry 2007; 15(6): 497-505.
+[15] Winter Y, Epifanova-Bertschi N, Sankowski R, et al. Health-related quality of life and its determinants in the urban Russian population with major depressive disorder: a cross-sectional study Int J Psychiatry Med 2012; 43(1): 35-49.
+[16] Carta MG, Aguglia E, Caraci F, et al. Quality of life and urban / rural living: preliminary results of a community survey in Italy Clin Pract Epidemiol Ment Health 2012; 8: 169-74.
+[17] Fiske A, Loebach Wetherell J, Gatz M. Depression in Older Adults Annu Rev Clin Psychol 2009; 5: 363-89.
+[18] Carta MG, Balestrieri M, Murru A, Hardoy MC. Adjustment Disorder: epidemiology, diagnosis and treatment Clin Pract Epidemiol Ment Health 2009; 5: 15.
+[19] Gasquet I, Nègre-Pagès L, Fourrier A, et al. Psychotropic drug use and mental psychiatric disorders in France; results of the general population ESEMeD/MHEDEA 2000 epidemiological study Encephale 2005; 31(2): 195-206.
+[20] Carta MG, Aguglia E, Bocchetta A, et al. The Use of Antidepressant Drugs and the Lifetime Prevalence of Major Depressive Disorders in Italy Clin Pract Epidemiol Ment Health 2010; 6: 94-100.
+[21] Beyer JL. Managing depression in geriatric populations Ann Clin Psychiatry 2007; 19(4): 221-38.
+[22] Barry LC, Abou JJ, Simen AA, Gill TM. Under-treatment of depression in older persons J Affect Disord 2012; 136(3): 789-96.
+[23] Zhang Y, Chow V, Vitry AI, et al. Antidepressant use and depressive symptomatology among older people from the Australian Longitudinal Study of Ageing Int Psychogeriatr 2010; 22(3): 437-4.
+[24] Wetherell JL, Petkus AJ, McChesney K, et al. Older adults are less accurate than younger adults at identifying symptoms of anxiety and depression J Nerv Ment Dis 2009; 197(8): 623-.
+[25] Butters MA, Whyte EM, Nebes RD, et al. The nature and determinants of neuropsychological functioning in late-life depression Arch Gen Psychiatry 2004; 61(6): 587-95.
+[26] O'Connor DW, Parslow RA. Different responses to K-10 and CIDI suggest that complex structured psychiatric interviews underestimate rates of mental disorder in old people Psychol Med 2009; 39(9): 1527-31.
+[27] Smith D, Dempster C, Glanville J, Freemantle N, Anderson I. Efficacy and tolerability of venlafaxine compared with selective serotonin reuptake inhibitors and other antidepressants: a meta-analysis Br J Psychiatry 2002; 180: 396-404.
+[28] Rush AJ, Trivedi MH, Wisniewski SR, et al. Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps: a STAR*D report Am J Psychiatry 2006; 163(11): 1905-7.
+[29] Thase M, Howland R, Friedman E. Treating antidepressant nonresponders with augmentation strategies: an overview J Clin Psychiatry 1998; 59(Suppl 5): 5-12.
+[30] Alexopoulos GS, Katz IR, Reynolds CF 3rd, Carpenter D, Docherty JP. The Expert Consensus Panel for Pharmacotherapy of Depressive Disorders in Older Patients. The expert consensus guideline series. Pharmacotherapy of depressive disorders in older patients Postgrad Med 2001; 1-86. Spec No Pharmacotherapy
+[31] Almeida OP, Alfonso H, Hankey GJ, Flicker L. Depression, Antidepressant Use and Mortality in Later Life: The Health in Men Study PLoS ONE 2010; 5(6): e11266.
+[32] Ryan J, Carriere I, Ritchie K, et al. Late-life depression and mortality: influence of gender and antidepressant use Br J Psychiatry 2008; 192(1): 12-8.
+[33] Kempen GI, Sullivan M, van Sonderen E, Ormel J. Performance-based and self-reported physical functioning in low-functioning older persons: congruence of change and the impact of depressive symptoms J Gerontol B Psychol Sci Soc Sci 1999; 54(6): P380-6.
+[34] Penninx BW, Deeg DJ, van Eijk JT, Beekman AT, Guralnik JM. Changes in depression and physical decline in older adults: a longitudinal perspective J Affect Disord 2000; 61(1-2): 1-12.
+[35] Hybels CF, Pieper CF, Blazer DG. The complex relationship between depressive symptoms and functional limitations in community-dwelling older adults: the impact of subthreshold depression Psychol Med 2009; 39(10): 1677-88.
+[36] Hybels CF, Pieper CF, Blazer DG, Fillenbaum GG, Steffens DC. Trajectories of mobility and IADL function in older patients diagnosed with major depression Int J Geriatr Psychiatry 2010; 25(1): 74-81.
+[37] Mortazavi SS, Mohammad K, Ardebili HE, Beni RD, Mahmoodi M, Keshteli AH. Mental disorder prevention and physical activity in Iranian elderly Int J Prev Med 2012; 3(Suppl1): S64-72.
+[38] Tsutsumi T, Don BM, Zaichkowsky LD, Takenaka K, Oka K, Ohno T. Comparison of high and moderate intensity of strength training on mood and anxiety in older adults Percept Mot Skills 1998; 87(3 Pt 1): 1003-1.
+[39] Sjösten N, Kivelä SL. The effects of physical exercise on depressive symptoms among the aged: a systematic review Int J Geriatr Psychiatry 2006; 21(5): 410-815-21.
+[40] Barbour KA, Blumenthal JA. Exercise training and depression in older adults Neurobiol Aging 2005; 26(Suppl 1): 119-23.
+[41] Anderson DN. Treating depression in old age: the reasons to be positive Age Ageing 2001; 30(1): 13-7.
+[42] Blake H, Mo P, Malik S, Thomas S. How effective are physical activity interventions for alleviating depressive symptoms in older people? A systematic review Clin Rehabil 2009; 23: 873-.
+[43] Frazer CJ, Christensen H, Griffiths KM. Effectiveness of treatments for depression in older people Med J Aust 2005; 182(12): 627-32.
+[44] Lawlor D, Hopker SW. The effectiveness of exercise as an intervention in the management of depression: systematic review and meta-regression analysis of randomised controlled trials BMJ 2001; 322(7289): 763-.
+[45] Mead GE, Morley W, Campbell P, Greig CA, McMurdo M, Lawlor DA. Exercise for depression Cochrane Database Syst Rev 2009; 3: CD004366.
+[46] Rimer J, Dwan K, Lawlor DA, et al. Exercise for depression Cochrane Database Syst Rev 2012; 7: CD004366.
+[47] Windle G, Hughes D, Linck P, Russell I, Woods B. Is exercise effective in promoting mental well-being in older age? A systematic review Aging Ment Health 2010; 14(6): 652-9.
+[48] Mc Murdo MET. A healthy old age: realistic or futile goal? BMJ 2000; 321(7269): 1149-51.
+[49] Bragin V, Chemodanova M, Dzhafarova N, Bragin I, Czerniawski JL, Aliev G. Integrated treatment approach improves cognitive function in demented and clinically depressed patients Am J Alzheimers Dis Other Demen 2005; 20(1): 21-6.
+[50] Cassilhas RC, Antunes HK, Tufik S, de Mello MT. Mood, anxiety, and serum IGF-1 in elderly men given 24 weeks of high resistance exercise Percept Mot Skills 2010; 110(1): 265-76.
+[51] Jette AM, Lachman M, Giorgetti MM, et al. Exercise-It’s never too late: The Strong-for-Life Program Am J Public Health 1999; 89(1): 66-72.
+[52] Nguyen HQ, Koepsell T, Unutzer J, Larson E, LoGerfo JP. Depression and Use of a Health Plan-Sponsored Physical Activity Program by Older Adults Am J Prev Med 2008; 35(2): 111-7.
+[53] Laske C, Banschbach S, Stransky E, et al. Exercise-induced normalization of decreased BDNF serum concentration in elderly women with remitted major depression Int J Neuropsychopharmacol 2010; 13(5): 595-602.
+[54] Vasques PE, Moraes H, Silveira H, Deaslandes AC, Laks J. Acute exercise improves cognition in the depressed elderly: the effect of dual-tasks Clinics [Sao Paulo] 2011; 66(9): 1553-7.
+[55] Hernandez R, Prohaska TR, Wang PC, Sarkisian CA. The longitudinal relationship between depression and walking behavior in older Latinos: the “Caminemos!” Study J Aging Health 2013; 25(2): 319-41.
+[56] Martins R, Coelho E, Silva M, et al. Effects of strength and aerobic- based training on functional fitness, mood and the relationship between fatness and mood in older adults J Sports Med Phys Fitness 2011; 51(3): 489-96.
+[57] Motl RW, Konopack JF, McAuley E, Elavsky S, Jerome GJ, Marquez DX. Depressive symptoms among older adults: long-term reduction after a physical activity intervention J Behav Med 2005; 28(4): 385-94.
+[58] Ouyang P, Yatsuya H, Toyoshima H, et al. Changes in activities of daily living, physical fitness, and depressive symptoms after six-month periodic well-rounded exercise programs for older adults living in nursing homes or special nursing facilities Nagoya J Med Sci 2009; 71(3-40): 115-26.
+[59] Porter KN, Fischer JG, Johnson MA. Improved physical function and physical activity in older adults following a community-based intervention: Relationships with a history of depression Maturitas 2011; 70(3): 290-4.
+[60] Rosenberg D, Pepp CA, Vahia IV, et al. Exergames for Subsyndromal Depression in Older Adults: A Pilot Study of a Novel Intervention Am J Geriatr Psychiatry 2010; 18(3): 221-6.
+[61] Sung K. The effects of 16-week group exercise program on physical function and mental health of elderly Korean women in long-term assisted living facility J Cardiovasc Nurs 2009; 249(5): 344-51.
+[62] Wilbur JE, Zenk S, Wang E, et al. Neighborhood Characteristics, Adherence to Walking, and Depressive Symptoms in Midlife African American Women J Womens Health [Larchmt] 2009; 18(8): 1201-0.
+[63] Blumenthal JA, Emery CF, Madden DJ, et al. Long-term effects of exercise on psychological functioning in older men and women J Gerontol 1991; 46(60): 352-61.
+[64] Tsutsumi T, Don BM, Zaichkowsky LD, Takenaka K, Oka K, Ohno T. Comparison of high and moderate intensity of strength training on mood and anxiety in older adults Percept Mot Skills 1998; 87(3 Pt 1): 1003-1.
+[65] Brittle N, Patel S, Wright C, Baral S, Versfeld P, Sackley C. An exploratory cluster randomized controlled trial of group exercise on mobility and depression in care home residents Clin Rehabil 2009; 23(2): 146-54.
+[66] Conradsson M, Littbrand H, Lindelof N, Gustafson Y, Rosendahl E. Effects of a high-intensity functional exercise programme on depressive symptoms and psychological well-being among older people living in residential care facilities: A cluster-randomized controlled trial Aging Ment Health 2010; 14(5): 565-76.
+[67] McMurdo ME, Rennie L. A controlled trial of exercise by residents of old people's homes Age Ageing 1993; 22(1): 11-5.
+[68] Shin KR, Kang Y, Park HJ, Heitkemper M. Effects of exercise program on physical fitness, depression, and self-efficacy of low-income elderly women in South Korea Public Health Nurs 2009; 26(6): 523-31.
+[69] Deslandes AC, Moraes H, Alves H, et al. Effect of aerobic training on EEG alpha asymmetry and depressive symptoms in the elderly: a 1-year follow-up study Braz J Med Biol Res 2010; 43(6): 585-92.
+[70] Justine M, Hamid TA. A multicomponent exercise program for institutionalized older adults J Gerontol Nurs 2010; 36(10): 32-41.
+[71] Means KM, O’Sullivan PS, Rodell DE. Psychosocial effects of an exercise program in older persons who fall J Rehabil Res Dev 2003; 40(1): 49-58.
+[72] Blumenthal JA, Babyak MA, Moore KA, et al. Effects of exercise training on older patients with Major Depression Arch Intern Med 1999; 159(19): 2349-56.
+[73] Kerse N, Hayman KJ, Moyes SA, et al. Home-based activity program for older people with depressive symptoms: DeLLITE- A randomized controlled trial Ann Fam Med 2010; 8(3): 214-3.
+[74] Mather AS, Rodriguez C, Guthrie MF, McHarg AM, Reid IC, McMurdo MET. Effects of exercise on depressive symptoms in older adults with poorly responsive depressive disorder. Randomised controlled trial Br J Psychiatry 2002; 180: 411-5.
+[75] Matthews MM, Hsu FC, Walkup MP, Barry LC, Patel KV, Blair SN. Depressive symptoms and physical performance in the Lifestyle Interventions and Independence for Elders Pilot [LIFE-P] Study J Am Geriatr Soc 2011; 59(3): 495-500.
+[76] McNeil JK, LeBlanc EM, Joyner M. The effect of exercise on depressive symptoms in the moderately depressed elderly Psychol Aging 1991; 6(3): 487-8.
+[77] Sims J, Hill K, Davidson S, Gunn J, Huang N. Exploring the feasibility of a community-based strength training program for older people with depressive symptoms and its impact on depressive symptoms BMC Geriatr 2006; 6: 18.
+[78] Singh NA, Clements KM, Fiatarone MA. A randomized controlled trial of progressive resistance training in depressed elders J Gerontol A Biol Sci Med Sci 1997; 52(1): M27-35.
+[79] Singh NA, Clements KM, Singh MA. The efficacy of exercise as a long-term antidepressant in elderly subjects: a randomized, controlled trial J Gerontol A Biol Sci Med Sci 2001; 56(8): M497-504.
+[80] Singh NA, Stavrinos TM, Scarbek Y, Galambos G, Liber C, Fiatarone Singh MA. A randomized controlled trial of high versus low intensity weight training versus general practitioner care for clinical depression in older adults Gerontol A Biol Sci Med Sci 2005; 60(6): 768-.
+[81] Teri L, McCurry SM, Logsdon RG, Gibbons LE, Buchner DM, Larson EB. A randomized controlled clinical trial of SPA -- the Seattle Protocol for Activity in older adults J Am Geriatr Soc 2011; 59(7): 1188-96.
+[82] National Institute for Health and Clinical Excellence. Depression: the treatment and management of depression in adults [updated edition]. Leicester, UK: British Psychological Socaity 2010.
+[83] Otto MW, Smits JA. Exercise for mood and anxiety disorders. New York, NY: Oxford University Press 2009.
+[84] Helmich I, Latini A, Sigwalt A, et al. Neurobiological Alterations Induced by Exercise and Their Impact on Depressive Disorders Clin Pract Epidemiol Ment Health 2010; 6: 115-25.
+[85] Duclos M, Gouarne C, Bonnemaison D. Acute and chronic effects of exercise on tissue sensitivity to glucocorticoids J Appl Physiol 2003; 94(3): 869-75.
+[86] Duman RS, Heninger GR, Nestler EJ. A molecular and cellular theory of depression Arch Gen Psychiatry 1997; 54: 597-606.
+[87] Bjornebekk A, Mathe AA, Brene S. The antidepressant effect of running is associated with increased hippocampal cell proliferation Int J Neuropsychopharmacol 2005; 8: 357-68.
+[88] Elder GA, De Gasperi R, Gama Sosa MA. Research update: neurogenesis in adult brain and neuropsychiatric disorders Mt Sinai J Med 2006; 73(7): 931-40.
+[89] Lucassen PJ, Meerlo P, Naylor AS, et al. Regulation of adult neurogenesis by stress, sleep disruption, exercise and inflammation: Implications for depression and antidepressant action Eur Neuropsychopharmacol 2010; 20(1): 1-17.
+[90] Lieberwirth C, Wang Z. The social environment and neurogenesis in the adult Mammalian brain Front Hum Neurosci 2012; 6: 118.
+[91] Yau SY, Lau BW, Tong JB, et al. Hippocampal neurogenesis and dendritic plasticity support running-improved spatial learning and depression-like behaviour in stressed rats PLoS ONE 2011; 6(9): e24263.
+[92] Marlatt MW, Lucassen PJ, van Praag H. Comparison of neurogenic effects of fluoxetine, duloxetine and running in mice Brain Res 2010; 23(1341): 93-.
+[93] Carta MG, Hardoy MC, Pilu A, et al. Improving physical quality of life with group physical activity in the adjunctive treatment of major depressive disorder Clin Pract Epidemiol Ment Health 2008; 4: 1.
+[94] Blake H. Physical activity and exercise in the treatment of depression Front Psychiatry 2012; 3: 106.
+[95] Martin CK, Church TS, Thompson AM, Earnest CP, Blair SN. Exercise dose and quality of life: a randomized controlled trial Arch Intern Med 2009; 169(3): 269-78.
+[96] Searle A, Calnan M, Lewis G, Campbell J, Taylor A, Turner K. Patients' views of physical activity as treatment for depression: a qualitative study Br J Gen Pract 2011; 61(585): 149-56.
+[97] Hardoy MC, Seruis ML, Floris F, et al. Benefits of exercise with mini tennis in intellectual disabilities: effects on body image and psychopathology Clin Pract Epidemiol Ment Health 2011; 7: 157-60.
+[98] Bridle C, Spanjers K, Patel S, Atherton NM, Lamb SE. Effect of exercise on depression severity in older people: systematic review and meta-analysis of randomised controlled trials Br J Psychiatry 2012; 201(30): 180-5.
+[99] Brosse AL, Sheets ES, Lett HS, Blumenthal JA. Exercise and the treatment of clinical depression in adults: recent findings and future directions Sports Med 2002; 32(12): 741-60.
+[100] Moore KA, Blumenthal JA. Exercise training as an alternative treatment for depression among older adults Altern Ther Health Med 1998; 4(1): 48-56.
+[101] Forsman AK, Nordmyr J, Wahlbeck C. Psychosocial interventions for the promotion of mental health and the prevention of depression among older adults Health Promot Int 2011; 26(Suppl 1): i85-i107.
+[102] Ruberg SJ. Dose response studies. II. Analysis and interpretation J Biopharm Stat 1995; 5(1): 15-42.
+[103] Kesaniemi YK, Danforth E Jr, Jensen MD, Kopelman PG, Lefèbvre P, Reeder BA. Dose-response issues concerning physical activity and health: an evidence-based symposium Med Sci Sports Exerc 2001; 33(6 Suppl): S351-8.
+[104] Oja P. Dose response between total volume of physical activity and health and fitness Med Sci Sports Exerc 2001; 33(6 Suppl): S428-37. S452-3
+[105] Dunn AL, Trivedi MH, O'Neal HA. Physical activity dose-response effects on outcomes of depression and anxiety Med Sci Sports Exerc 2001; 33(6 Suppl): S587-97. 609-10
+[106] Ströhle A. Physical activity, exercise, depression and anxiety disorders J Neural Transm 2009; 116(6): 777-84.
+[107] Klein DF. Preventing hung juries about therapy studies J Consult Clin Psychol 1996; 4: 81-7.
+[108] Walsh BT, Sysko R. Placebo control groups in trials of major depressive disorder among older patients J Clin Psychopharmol 2005; 25(Suppl 1): S29-33.
+[109] Stein DJ, Baldwin DS, Dolberg OT, Despiegel N, Bandelow B. Which factors predict placebo response in anxiety disorders and major depression? An analysis of placebo-controlled studies of escitalopram J Clin Psychiatry 2006; 67(11): 1741-6.
+[110] Sneed JR, Rutherford BR, Rindskopf D, Lane DT, Sackeim HA, Roose SP. Design makes a difference: a meta-analysis of antidepressant response rates in placebo-controlled versus comparator trials in late-life depression Am J Geriatr Psychiatry 2008; 16(1): 65-73.
+[111] Pilu A, Sorba M, Hardoy MC, et al. Efficacy of physical activity in the adjunctive treatment of major depressive disorders: preliminary results Clin Pract Epidemiol Ment Health 2007; 3: 8.
+[112] Wood C, Angus C, Pretty J, Sandercock G, Barton J. A randomised control trial of physical activity in a perceived environment on self-esteem and mood in UK adolescents J Environ Health Res 2012. [Epub ahead of print]
+[113] Goldfield GS, Adamo KB, Rutherford J, Murray M. The effects of aerobic exercise on psychosocial functioning of adolescents who are overweight or obese J Pediatr Psychol 2012; 37(10): 1136-47.
+[114] Annesi JJ. Contrast of biochemical and psychosocial explanations of the relationship of exercise and improved mood Percept Mot Skills 2012; 114(2): 693-7.
+[115] Barton J, Griffin M, Pretty J. Exercise-, nature- and socially interactive- based initiatives improve mood and self-esteem in the clinical population Perspect Public Health 2012; 132(2): 89-96.
+[116] Sexton H, Søgaard AJ, Olstad R. How are mood and exercise related? Results from the Finnmark study Soc Psychiatry Psychiatr Epidemiol 2001; 36(7): 348-53.
+[117] Steinberg H, Sykes EA, Moss T, Lowery S, LeBoutillier N, Dewey A. Exercise enhances creativity independently of mood Br J Sports Med 1997; 31(3): 240-5.
+[118] Bowling A, Farquhar M. Associations with social networks, social support, health status and psychiatric morbidity in three samples of elderly people Soc Psychiatry Psychiatr Epidemiol 1991; 26(3): 115-26.
+[119] Prince MJ, Harwood RH, Thomas A, Mann AH. A prospective population-based cohort study of the effects of disablement and social milieu on the onset and maintenance of late-life depression. The Gospel Oak Project VII Psychol Med 1998; 28(2): 337-50.
+[120] Trivedi MH, Greer TL, Church TS, et al. Exercise as an Augmentation Treatment for Nonremitted Major Depressive Disorder: A Randomized, Parallel Dose Comparison J Clin Psychiatry 2011; 72(5): 677-84.
+[121] Callaghan P, Khalil E, Morres I, Carter I. Pragmatic randomised controlled trial of preferred intensity exercise in women living with depression BMC Public Health 2011; 11: 465.
+[122] Mota-Pereira J, Silverio J, Carvalho S, Ribeiro JC, Fonte D, Ramos J. Moderate exercise improves depression parameters in treatment-resistant patients with major depressive disorder J Psychiatr Res 2011; 45(8): 1005-1.
+[123] Mottram P, Wilson K, Strobl J. Antidepressants for depressed elderly Cochrane Database Syst Rev 2006; (1): CD003491.
+[124] Oxman TE. Antidepressants and cognitive impairment in the elderly J Clin Psychiatry 1996; 57(Suppl 5): 38-44.
+[125] Spina E, Scordo MG. Clinically significant drug interactions with antidepressants in the elderly Drugs Aging 2002; 19(4): 299-320.
+[126] Dolder C, Nelson M, Stump A. Pharmacological and clinical profile of newer antidepressants: implications for the treatment of elderly patients Drugs Aging 2010; 27(8): 625-40.
+[127] Allard P, Gram L, Timdahl K, Behnke K, Hanson M, Sogaard J. Efficacy and tolerability of venlafaxine in geriatric outpatients with major depression: a double-blind, randomised 6-month comparative trial with citalopram Int J Geriatr Psychiatry 2004; 19: 1123-30.
+[128] Schatzberg A, Roose S. A double-blind, placebo-controlled study of venlafaxine and fluoxetine in geriatric outpatients with major depression Am J Geriatr Psychiatry 2006; 14: 361-70.
+[129] Raskin J, Wiltse CG, Siegal A, et al. Efficacy of duloxetine on cognition, depression, and pain in elderly patients with major depressive disorder: an 8-week, double-blind, placebo-controlled trial Am J Psychiatry 2007; 164(6): 900-.
+[130] Kok RM, Nolen WA, Heeren TJ. Venlafaxine versus nortriptyline in the treatment of elderly depressed inpatients: a randomised, double- blind, controlled trial Int J Geriatr Psychiatry 2007; 22: 1247-54.
+[131] Flint AJ, Rifat SL. A prospective study of lithium augmentation in antidepressant-resistant geriatric depression J Clin Psychopharmacol 1994; 14(50): 353-6.
+[132] Alexopoulos GS, Streim J, Carpenter D, Docherty JP. Expert Consensus Panel for Using Antipsychotic Drugs in Older Patients. Using antipsychotic agents in older patients J Clin Psychiatry 2004; 65(Suppl 2): 5-99. discussion 100-102; quiz 103-4
+[133] Steffens DC, Byrum CE, McQuoid DR, Greenberg DL, Payne ME, Blitchington TF. Hippocampal volume in geriatric depression Biol Psychiatry 2000; 48: 301-9.
+[134] Hsieh MH, McQuoid DR, Levy RM, Payne ME, MacFall JR, Steffens DC. Hippocampal volume and antidepressant response in geriatric depression Int J Geriatr Psychiatry 2002; 17: 519-25.
+[135] Hashimoto K. Brain-derived neurotrophic factor as a biomarker for mood disorders: an historical overview and future directions Psychiatry Clin Neurosci 2010; 64(40): 341-57.
+[136] Brunoni AR, Lopes M, Fregni F. A systematic review and meta-analysis of clinical studies on major depression and BDNF levels: implications for the role of neuroplasticity in depression Int J Neuropsychopharmacol 2008; 11(8): 1169-80.
+[137] Schmidt HD, Duman RS. The role of neurotrophic factors in adult hippocampal neurogenesis, antidepressant treatments and animal models of depressive-like behavior Behav Pharmacol 2007; 18: 391-418.
+[138] Laske C, Banschbach S, Stransky E, et al. Exercise-induced normalization of decreased BDNF serum concentration in elderly women with remitted major depression Int J Neuropsychopharmacol 2010; 13(5): 595-602.
+[139] Erickson KI, Miller DL, Roecklein KA. The aging hippocampus: interactions between exercise, depression, and BDNF Neuroscientist 2012; 18(1): 82-97.
+[140] Alexopoulos GS, Bruce ML, Silbersweig D, Kalayam B, Stern E. Vascular depression: a new view of late-onset depression Dialogues Clin Neurosci 1999; 1(2): 68-80.
+[141] Angst J, Meyer TD, Adolfsson R, et al. Hypomania: a transcultural perspective World Psychiatry 2010; 9(1): 41-9.
+[142] Fiedorowicz JG, Coryell WH, Rice JP, Warren LL, Haynes WG. Vasculopathy related to manic/hypomanic symptom burden and first-generation antipsychotics in a sub-sample from the collaborative depression study Psychother Psychosom 2012; 81(4): 235-43.
+[143] Russo-Neustadt AA, Alejandre H, Garcia C, Ivy AS, Chen MJ. Hippocampal brain-derived neurotrophic factor expression following treatment with reboxetine, citalopram, and physical exercise Neuropsychopharmacology 2004; 29(12): 2189-99.
+[144] Garza AA, Ha TG, Garcia C, Chen MJ, Russo-Neustadt AA. Exercise, antidepressant treatment, and BDNF mRNA expression in the aging brain Pharmacol Biochem Behav 2004; 77(2): 209-.
+[145] Daley A. Exercise and depression: a review of reviews J Clin Psychol Med Settings 2008; 15(2): 140-7.
+[146] Trivedi MH, Greer TL, Grannemann BD, Chambliss HO, Jordan AN. Exercise as an augmentation strategy for treatment of major depression J Psychiatr Pract 2006; 129(4): 205-13.
+Track Your Manuscript
+Enter Correct Manuscript Reference Number:
+Submit Reference Number
+About the Journal
+Clinical Practice & Epidemiology in Mental Health
+ISSN: 1745-0179
+Volume: 15, 2019
+Download Flyer
+Processing Time: Average publication time of 18 days between final acceptance of revised manuscript and its publication
+READ MORE
+About the Editor
+Mauro Giovanni Carta
+University of Cagliari
+Cagliari
+Italy
+View Biography
+×
+Biography of Mauro Giovanni Carta
+Professor Mauro Giovanni Carta did his fellowship in Psychiatry and post-graduation from the University of Cagliari, Italy (1986 to 1990). Prof. Carta currently holds the following key positions:(a) Full Professor of Translational Medicine at the University of Cagliari; (b) Head of the Liaison Psychiatric Unit at University Hospital of Cagliari, Italy; (c) Co-chairmanat WHO-Geneva and University of Cagliari agreement for implementing the QualityRights Project in the Mediterranean Area ; (d) Head of a Collaborating Unit, Chafea – European Union, Joint Action on Mental Health, University of Cagliari; (e) President of the Mediterranean Society on Mental Health. He, as an author, has been involved in the publication of more than 200 articles in various international journals.
+University of Cagliari, Cagliari, Italy
+View Editorial Board
+Journal Metrics
+Readership Statistics:
+Total Views/Downloads: 654,916
+Full-Text HTML Views: 338,597
+Abstract HTML Views: 200,616
+PDF Downloads: 84,503
+EPUB Downloads: 31,200
+Unique Views/Downloads: 68,953
+Full-Text HTML Views: 27,712
+Abstract HTML Views: 24,044
+PDF Downloads: 14,383
+EPUB Downloads: 2,814
+Articles
+Abstracts
+Issues
+Prevention Actions of Burnout Syndrome in Nurses: An Integrating Literature Review
+March 29, 2019
+Sex-Related Differences in Plasma Oxytocin Levels in Humans
+March 26, 2019
+Could an Innovative Training Program Including Contact Sports and Counseling Help Young People With Traits of Psychopathy and A History of School Dropout?
+March 26, 2019
+Child and Adolescent Behavior Inventory (CABI): A New Instrument for Epidemiological Studies and Pre-Clinical Evaluation
+February 28, 2019
+Impairment of Quality of Life Associated With Lifetime Diagnosis of Post-traumatic Stress Disorder in Women - A National Survey in Italy
+February 28, 2019
+Published Contents
+Volume 15, 2019
+Volume 14, 2018
+Volume 13, 2017
+Volume 12, 2016
+Volume 11, 2015
+Volume 10, 2014
+Volume 9, 2013
+Volume 8, 2012
+Volume 7, 2011
+Volume 6, 2010
+Volume 5, 2009
+Quick Links
+Ensuring Content IntegrityGeneral FAQsBoard Recruitment WorkflowGuidelines for Guest EditorsPublication Cycle Process FlowQuick Track OptionOpen Access FundingPublication FeeReviewers GuidelinesPeer Review WorkflowCopyediting ServicesEditorial PoliciesSelf Archiving PoliciesPublishing Ethics and Rectitude
+Indexing Agencies
+READ MORE
+Top ↑
+Press Release
+Join Our Editorial Board
+News release date: March 29, 2018
+Description:
+Clinical Practice & Epidemiology in Mental Health is an Open Access online journal, which publishes research articles, reviews, letters, case reports and guest-edited single topic issues in all areas of clinical practice and epidemiology in mental health. Bentham Open ensures speedy peer review process and accepted papers are published within 2 weeks of final acceptance.
+Clinical Practice & Epidemiology in Mental Health is committed to ensuring high quality of research published. We believe that a dedicated and committed team of editors and reviewers make it possible to ensure the quality of the research papers. The overall standing of a journal is in a way, reflective of the quality of its Editor(s) and Editorial Board and its members.
+Clinical Practice & Epidemiology in Mental Health is seeking energetic and qualified researchers to join its editorial board team as Editorial Board Members or reviewers.
+The essential criteria to become Editorial Board Members of Clinical Practice & Epidemiology in Mental Health are as follows:
+Experience in clinical practice and epidemiology in mental health with an academic degree.
+At least 20 publication records of articles and /or books related to the field of clinical practice and epidemiology in mental health or in a specific research field.
+Proficiency in English language.
+The Roles of Editorial Board Member are to:
+Offer advice on journals’ policy and scope.
+Submit or solicit at least one article for the journal annually.
+Contribute and/or solicit Guest Edited thematic issues to the journal in a hot area (at least one thematic issue every two years).
+Peer-review of articles for the journal, which are in the area of expertise (2 to 3 times per year).
+If you are interested in becoming our Editorial Board member, please submit the following information to info@benthamopen.net. We will respond to your inquiry shortly.
+Email subject: Editorial Board Member Application
+Your name
+Email address
+Telephone
+City, State, Country
+Name of your institution
+Department or Division
+Website of institution
+Your title or position
+Your highest degree
+Complete list of publications and h-index
+Interested field(s)
+Testimonials
+"Open access will revolutionize 21st century knowledge work and accelerate the diffusion of ideas and evidence that support just in time learning and the evolution of thinking in a number of disciplines."
+. —Daniel Pesut. (Indiana University School of Nursing, USA).
+"It is important that students and researchers from all over the world can have easy access to relevant, high-standard and timely scientific information. This is exactly what Open Access Journals provide and this is the reason why I support this endeavor."
+. —Jacques Descotes. (Centre Antipoison-Centre de Pharmacovigilance, France).
+"Publishing research articles is the key for future scientific progress. Open Access publishing is therefore of utmost importance for wider dissemination of information, and will help serving the best interest of the scientific community."
+. —Patrice Talaga. (UCB S.A., Belgium).
+"Open access journals are a novel concept in the medical literature. They offer accessible information to a wide variety of individuals, including physicians, medical students, clinical investigators, and the general public. They are an outstanding source of medical and scientific information."
+. —Jeffrey M. Weinberg. (St. Luke's-Roosevelt Hospital Center, USA).
+"Open access journals are extremely useful for graduate students, investigators and all other interested persons to read important scientific articles and subscribe scientific journals. Indeed, the research articles span a wide range of area and of high quality. This is specially a must for researchers belonging to institutions with limited library facility and funding to subscribe scientific journals."
+. —Debomoy K. Lahiri. (Indiana University School of Medicine, USA).
+"Open access journals represent a major break-through in publishing. They provide easy access to the latest research on a wide variety of issues. Relevant and timely articles are made available in a fraction of the time taken by more conventional publishers. Articles are of uniformly high quality and written by the world's leading authorities."
+. —Robert Looney. (Naval Postgraduate School, USA).
+"Open access journals have transformed the way scientific data is published and disseminated: particularly, whilst ensuring a high quality standard and transparency in the editorial process, they have increased the access to the scientific literature by those researchers that have limited library support or that are working on small budgets."
+. —Richard Reithinger. (Westat, USA).
+"Not only do open access journals greatly improve the access to high quality information for scientists in the developing world, it also provides extra exposure for our papers."
+. —J. Ferwerda. (University of Oxford, UK).
+"Open Access 'Chemistry' Journals allow the dissemination of knowledge at your finger tips without paying for the scientific content."
+. —Sean L. Kitson. (Almac Sciences, Northern Ireland).
+"In principle, all scientific journals should have open access, as should be science itself. Open access journals are very helpful for students, researchers and the general public including people from institutions which do not have library or cannot afford to subscribe scientific journals. The articles are high standard and cover a wide area."
+. —Hubert Wolterbeek. (Delft University of Technology, The Netherlands).
+"The widest possible diffusion of information is critical for the advancement of science. In this perspective, open access journals are instrumental in fostering researches and achievements."
+. —Alessandro Laviano. (Sapienza - University of Rome, Italy).
+"Open access journals are very useful for all scientists as they can have quick information in the different fields of science."
+. —Philippe Hernigou. (Paris University, France).
+"There are many scientists who can not afford the rather expensive subscriptions to scientific journals. Open access journals offer a good alternative for free access to good quality scientific information."
+. —Fidel Toldrá. (Instituto de Agroquimica y Tecnologia de Alimentos, Spain).
+"Open access journals have become a fundamental tool for students, researchers, patients and the general public. Many people from institutions which do not have library or cannot afford to subscribe scientific journals benefit of them on a daily basis. The articles are among the best and cover most scientific areas."
+. —M. Bendandi. (University Clinic of Navarre, Spain).
+"These journals provide researchers with a platform for rapid, open access scientific communication. The articles are of high quality and broad scope."
+. —Peter Chiba. (University of Vienna, Austria).
+"Open access journals are probably one of the most important contributions to promote and diffuse science worldwide."
+. —Jaime Sampaio. (University of Trás-os-Montes e Alto Douro, Portugal).
+"Open access journals make up a new and rather revolutionary way to scientific publication. This option opens several quite interesting possibilities to disseminate openly and freely new knowledge and even to facilitate interpersonal communication among scientists."
+. —Eduardo A. Castro. (INIFTA, Argentina).
+"Open access journals are freely available online throughout the world, for you to read, download, copy, distribute, and use. The articles published in the open access journals are high quality and cover a wide range of fields."
+. —Kenji Hashimoto. (Chiba University, Japan).
+"Open Access journals offer an innovative and efficient way of publication for academics and professionals in a wide range of disciplines. The papers published are of high quality after rigorous peer review and they are Indexed in: major international databases. I read Open Access journals to keep abreast of the recent development in my field of study."
+. —Daniel Shek. (Chinese University of Hong Kong, Hong Kong).
+"It is a modern trend for publishers to establish open access journals. Researchers, faculty members, and students will be greatly benefited by the new journals of Bentham Science Publishers Ltd. in this category."
+. —Jih Ru Hwu. (National Central University, Taiwan).
+Related Upcoming Events

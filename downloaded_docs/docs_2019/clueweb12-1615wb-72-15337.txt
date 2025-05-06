@@ -1,0 +1,61 @@
+<http://wp.me/s2623H-cinnamon>; rel=shortlink
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+Blog | Cinnamon | Health-Diets.Net Home Your Health E-books Books Contact Training Site Map Blog Database Amino acids Elements Herbal medicines Superfoods Toxins Vitamins Faqs Waterfall Diet Links Research Health issues Cinnamon November 29, 2011 by Linda Lazarides Filed under Blog Leave a comment If you eat a healthy diet, you may find that vegetables  and beans give you a bit of tummy gas. One of the best ways to combat  this is to drink spice tea containing cinnamon and cloves. Cinnamon is a ‘carminative’, which means that it helps to control the intestinal  bacteria which produce gas. It also helps to suppressing the growth of  E. coli, Staphylococcus aureus, Candida yeast, and some parasitic worms. In Chinese medicine, cinnamon is believed to aid weight loss by  driving off excess water retention. In Western medicine, it is now  suggested that consuming only half a teaspoon of cinnamon a day can help  to prevent diabetes and the pre-diabetic condition known as ‘metabolic  syndrome’ [1]. [1] Khan A, Safdar M et al. Cinnamon improves glucose and lipids of  people with type 2 diabetes. Diabetes Care 2003 26(12) 3215-8. Cinnamon can be sprinkled on cooked fruit, cereals or oats  (porridge), and can also be added to curries. The ‘Yogi’ brand of spice  teabags containing cinnamon is now available in many supermarkets and from Amazon.com or Amazon.co.uk . Linda Lazarides Linda Lazarides is Course Director of the School of Modern Naturopathy and author of eight books on health, nutrition and naturopathy. Get Shareaholic Related posts: cinnamon naturopathy Training nutritional-therapy Amazake Tags: Comments Tell us what you're thinking... and oh, if you want a pic to show with your comment, go get a gravatar ! Name (required) Email Address (required) Website Speak your mind Your name Email Newsletters are sent twice a month. We do not share email addresses Like this site? Recent Posts Mercury Leaky gut syndrome Hormones Glycaemic index Ginseng Flavonoids Fats Dietary fibre Detoxification Choline #Amino acids Zinc Sulphur (Sulfur) Sodium Silicon Linda's Books Copyright © 2010 · All Rights Reserved | (function($) {
+$(document).ready(function(){
+	var option = $.cookie('option');
+	if (option != null)
+		jQuery('#wpbse_options').val(option);
+	var queries = [];
+	queries['wordpress-blogs'] = '"powered by wordpress" "leave a comment"';
+	queries['expressionengine'] = '"powered by expressionengine"';
+	queries['blogengine'] = '"Powered by BlogEngine.NET"';
+	queries['keywordluv'] = '"this site uses keywordluv"';
+	queries['commentluv'] = '"this site uses commentluv"';
+	queries['leavecomment'] = '"leave comment"';
+	queries['replytopost'] = '"reply to post"';
+	queries['phpbb'] = '"powered by phpbb" inurl:/forum OR inurl:/community';
+	queries['vbulletin'] = '"powered by vbulletin" inurl:/forum OR inurl:/community';
+	queries['smf'] = '"powered by smf" inurl:/forum';
+	queries['squidoo-addtolist'] = '"add+to+this+list" site:squidoo.com';
+	queries['hubpages'] = 'site:hubpages.com "hot hubs"';
+	queries['angelas-backlinks'] = '"angelae8654"';
+	
+	var dot = ('dot');
+	$('#dot').val(dot);
+		var dotqueries = [];
+		dotqueries['com'] = 'site:.com';
+		dotqueries['edu'] = 'site:.edu';
+		dotqueries['gov'] = 'site:.gov';
+		dotqueries['org'] = 'site:.org';
+		dotqueries['net'] = 'site:.net';
+		dotqueries['com.au'] = 'site:.com.au';
+		dotqueries['edu.au'] = 'site:.edu.au';
+		dotqueries['gov.au'] = 'site:.gov.au';
+		dotqueries['org.au'] = 'site:.org.au';
+		dotqueries['net.au'] = 'site:.net.au';
+		dotqueries['gov.uk'] = 'site:.gov.uk';
+		dotqueries['ac.uk'] = 'site:.ac.uk';
+		
+	$('#wpbse_keyword').focus(); 
+	$('#wpbse_keyword').keypress(function(e) {
+		if (e.which == 13) {
+			doSearch();
+		}
+	});
+		
+	$('#wpbse_search').click(function() {
+		doSearch();
+	});
+	
+	function doSearch() {
+		var kw = $('#wpbse_keyword').val();
+		var option = $('#wpbse_options').val();
+		var query = escape(queries[option]);
+		var dot = $('#dot').val();
+		var dotquery = escape(dotqueries[dot]);
+		var url = ('http://www.google.com/search?q='+kw+'+'+query+'+'+dotquery);
+		var newwindow = window.open(url);
+		if (window.focus) {
+            newwindow.focus();

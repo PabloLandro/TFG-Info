@@ -1,0 +1,88 @@
+Is there a link between vaccines and autism? – Southern Nevada Health District
+Skip to content
+FacebookTwitterInstagramYouTube
+Search
+(702) 759-1000
+Locations & Maps
+Clinics
+Programs
+Permits & Regulations
+A-Z
+News & Information
+About Us
+Locations
+Southern Nevada Health District Main Facility
+City of Las Vegas Development Services Center
+East Las Vegas Public Health Center
+Health District Services in Henderson
+Southern Nevada Health District Henderson Clinic
+Laughlin Public Health Center
+Mesquite Public Health Center
+Observed Holidays
+Search for:
+Clinics
+Programs
+Permits & Regulations
+A-Z
+News & Information
+About Us
+Locations
+Southern Nevada Health District Main Facility
+City of Las Vegas Development Services Center
+East Las Vegas Public Health Center
+Health District Services in Henderson
+Southern Nevada Health District Henderson Clinic
+Laughlin Public Health Center
+Mesquite Public Health Center
+Observed Holidays
+Search for:
+Clinics
+Programs
+Permits & Regulations
+A-Z
+News & Information
+About Us
+Locations
+Southern Nevada Health District Main Facility
+City of Las Vegas Development Services Center
+East Las Vegas Public Health Center
+Health District Services in Henderson
+Southern Nevada Health District Henderson Clinic
+Laughlin Public Health Center
+Mesquite Public Health Center
+Observed Holidays
+Home/Is there a link between vaccines and autism?
+MENUMENU
+Is there a link between vaccines and autism?
+Is there a link between vaccines and autism?
+No. Scientific studies and reviews continue to show no relationship between vaccines and autism.
+Some people have suggested that thimerosal (a compound that contains mercury) in vaccines given to infants and young children might be a cause of autism, and others have suggested that the MMR (measles-mumps-rubella) vaccine may be linked to autism.
+However, numerous scientists and researchers have studied and continue to study the MMR vaccine and thimerosal, and reach the same conclusion: that there is no link between them and autism.
+snhd_admin2018-07-17T23:16:40-07:00
+Follow Us on Social Media
+Visit Our Other Sites
+Get Healthy Clark County
+Healthy Southern Nevada
+Viva Saludable
+Top Searches
+Food Handler Safety Training Card
+Immunizations
+Birth Certificates
+Death Certificates
+Mosquito Surveillance
+More Information
+Policies & Regulations
+Privacy Policy
+Disclaimer
+Contact Us
+Feedback
+Payment Methods
+Observed Holidays
+Sign Up for our Newsletter
+Email address:
+Leave this field empty if you're human:
+Copyright 2018 Southern Nevada Health District
+<# if ( data.meta.album ) { #>{{ data.meta.album }}<# } #> <# if ( data.meta.artist ) { #>{{ data.meta.artist }}<# } #>
+<# if ( data.artists && data.meta.artist ) { #> — {{ data.meta.artist }} <# } #> <# } #> <# if ( data.meta.length_formatted ) { #>
+{{ data.meta.length_formatted }}
+<# } #>

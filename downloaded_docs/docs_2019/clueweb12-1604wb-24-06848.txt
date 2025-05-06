@@ -1,0 +1,9 @@
+
+HTTP/1.1 200 OK
+Date: Fri, 20 Apr 2012 22:58:17 GMT
+Server: Apache
+X-Pingback: http://www.acupuncturewell.com/xmlrpc.php
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+Acupuncture & Everything Wellness Acupuncture & Everything Wellness Home About Acupuncture About Our Clinic About Our Practitioner Commonly Treated Conditions FAQ New Patients News & Blog Personalized Healthcare in your Home and Abroad Acupuncture & Everything Wellness is an acupuncture & Chinese herbal medicine clinic serving Nashua, NH and its surrounding regions.  We specialize in providing customized treatment to people dealing with chronic pain, limited range of motion, GI distress, insomnia, and mild to moderate anxiety & depression.  Our practitioners work out of our central office in Amherst NH and make housecalls to all surrounding communities.  Whether you are looking for the luxury of not traveling, or need care in spite of limited mobility, we are here to serve you. Schedule today! About Acupuncture What is acupuncture?  What services do you offer? About Our Clinic What kind of clinic do you run? About Our Practitioner Who are you? © 2012 Acupunct

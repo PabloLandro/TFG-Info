@@ -1,0 +1,509 @@
+
+HTTP/1.1 200 OK
+Date: Sat, 05 May 2012 20:43:58 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Powered-By: Mono
+Connection: close
+Content-Type: text/html
+
+AVAC: Global Advocacy for HIV Prevention Donate | Contact Us | Events | Home By Prevention Option Vaccines Microbicides Voluntary Medical Male Circumcision PrEP HSV-2 Suppression Treatment as Prevention HPV By Topic Policy Research Process Ethics Community Engagement Current Research Global Map Timeline Trials Clinical Site Capacity Database Px Wire Anticipating Results Hormonal Contraceptives and HIV Risk Download Materials Research Literacy Database Meeting Reports and Materials Publications Educational Materials Presentation Center Order Publications Materiales en Espanol Advocates' Corner Take Action Advocates' Network P-Values Weekly NewsDigest Calendar of Events The Omololu Falobi Award Links For Media Press Releases AVAC in the News Media Inquiries About AVAC Our Story Programs Staff Donors Board AVAC Fund Support AVAC Financial Information Jobs Quick Links Current Research Global Map Timeline Trials Clinical Trials Process Vaccine Clinical Trials Microbicide Clinical Trials PrEP Clinical Trials Medical Male Circumcision Clinical Trials HSV-2 Clinical Trials Treatment as Prevention Clinical Trials Fact Sheet: Data Safety Monitoring Boards Clinical Site Capacity Database Px Wire Anticipating Results Hormonal Contraceptives and HIV Risk Share Print AVAC Fact Sheet: Data Safety Monitoring Boards Clinical trials are closely monitored and
+regulated by a variety of entities, including
+independent bodies that review the trial
+protocol and data on an ongoing basis to ensure
+that the trial is ethical and should continue.
+This fact sheet is designed for advocates who
+would like to learn more about how these
+entities work, what they do, and what impact
+their recommendations can have on clinical
+trials. As more and more AIDS
+prevention trials take place, the role of the
+Data Safety Monitoring Board (DSMB) 1 is receiving increased
+public attention. This fact sheet reviews some
+recent situations in which a DSMB has made a
+recommendation that affected the conduct of a
+trial. It is important to recognize that such
+recommendations are a sign that the system of
+checks and balances that protects participants
+and researchers involved in trials is working.
+Regular review and prompt recommendations on
+the part of DSMBs are an essential part of this
+system. NOTE: The main focus of this piece is on
+oversight of prevention research trials, but
+these review boards function for all clinical
+trials research. A PDF version of this document is available
+here . Introduction The global effort to develop and test new
+medicines and other approaches to prevent and
+treat HIV/AIDS has raised public awareness of
+the importance of conducting well-designed and
+ethical clinical studies of promising
+interventions. These clinical trials evaluate safety – whether it is safe for use
+in humans – and efficacy – how well the
+experimental therapy or approach works.
+Clinical trials may also compare an
+experimental approach to an existing approach,
+or compare two new products to each other. A
+multi-site clinical trial is a study that is
+carried out at more than one location. This
+type of trial helps to gather information about
+different populations and what factors may
+impact trial results. HIV Prevention Trials: There are many different types of HIV
+prevention trials taking place in the world
+today. There are studies which look at how
+different types of support, education, services
+and skills affect rates of risk-related
+behavior, like unprotected sex or sharing
+needles. There are also studies looking at new
+biomedical strategies such as AIDS vaccines or
+microbicides. Microbicides are experimental
+products that could be applied vaginally or
+rectally to reduce the risk of being infected
+with HIV during sex. HIV prevention trials offer participants
+access to a package of proven prevention
+strategies, which include male and female
+condoms, risk reduction counseling, HIV testing
+and counseling, treatment for sexually
+transmitted infections and clean needles.
+Anyone who participates in a trial will get the
+standard package of prevention options,
+regardless of whether they are in the
+experimental arm of the study, or in the
+control arm, where they may receive a placebo
+(an inactive substance administered to some
+study participants while others receive the
+agent under evaluation, to provide a basis for
+comparison.) Some trials study whether a specific
+strategy blocks HIV infection. Other trials
+study whether the strategy, such as a vaccine,
+might be able to make HIV-related disease less
+severe in people who become infected. In this
+case the prevention strategy is preventing disease progression rather than preventing infection. Highlighting Patient Safety In all clinical trials, researchers must pay
+careful attention to the number one concern:
+participant safety. Clinical trials have two
+independent review bodies that make participant
+safety a number one concern as they plan,
+implement and monitor trial activities: an Institutional Review Board
+(IRB) and a Data Safety
+Monitoring Board (DSMB) . Together,
+these review bodies are responsible for setting
+and following ethical and scientific standards
+for clinical trials that safeguard the
+identity, safety and health of volunteer
+participants. Anyone who is carrying out a
+clinical study that poses more than a minimal
+risk to participants must have a DSMB. Ongoing Review: Clinical
+trials are carried out in a carefully
+controlled setting. The DSMB provides ongoing
+monitoring of the progress of the trials and
+reviews data collected at regular intervals
+throughout the trial (sometimes called interim
+data) that will indicate whether the study
+should continue according to plan, be changed,
+or be stopped based on preliminary
+results. IRBs and DSMBs – Complementary
+roles: The IRB and DSMB have different
+roles to play in safeguarding patient safety in
+clinical studies. The IRB reviews the study
+plan for the trial before the trial begins.
+These plans are also referred to as a protocol.
+IRBs are made up of individuals who have no
+commercial or institutional ties to the group
+planning the study, but bring needed expertise.
+They often include ethicists and specialists in
+clinical trial design and implementation. The
+IRB’s job is to make sure the study plan
+follows an ethical process to assure that
+participation in the study is entirely
+voluntary, and that individuals being recruited
+have provided their informed consent to participate – meaning that they have
+understood what strategy the trial is going to
+test and why, and what it means to participate
+in the study, as well as the potential risks
+and benefits of their participation. The IRB
+reviews the informed consent materials before
+the study starts enrolling volunteers to make
+sure the documents are easy to understand and
+that it is translated in different languages as
+needed. It pays attention to issues such as
+diversity and representation of the study
+group, to make sure that women and minorities
+are represented. This is important since
+products may have different effects in
+different populations. The IRB also monitors
+safety of study volunteers at a local level. A Data Safety Monitoring
+Board is made up of outside experts
+who monitor participant safety and the efficacy
+of the study product while a clinical study is
+taking place. A DSMB is composed of at least
+three people (typically 3-10) who are not
+directly involved in the conduct of the study
+and have no financial links to the study. A
+DSMB will typically include an ethicist,
+statistician and medical personnel who
+specialize in the disease being studied and any
+possible adverse events (side effects) related
+to the experimental drug. Many studies today
+also include a community or patient advocate
+– a representative from the primary target
+population for the study drug. Role of the DSMB: The DSMB
+provides an ongoing independent review of data
+from the trial to address safety concerns. The
+DSMB will follow a Data and Safety
+Monitoring Plan to review whether one
+drug is significantly safer of more effective
+than another. It has the authority to stop a
+trial based on different criteria (see below).
+The DSMB will review whether the study data is
+being properly collected, analyzed, and
+reported, by whom and to whom, and how often.
+It can also compare the study to other related
+studies. Who does the DSMB report
+to? The DSMB make its recommendations
+regarding continuing or stopping the study to
+the IRB and the study investigators. There are
+also strict requirements and deadlines for
+reporting unanticipated adverse events to
+different groups, for example, regulatory
+agencies and research sponsors. There also may
+be different criteria or grading scales for
+evaluating the severity or toxicity of an
+adverse event. Why do we need a DSMB? The
+duration of clinical trials varies, and some
+can go on for years. Many studies are
+“double-blind” randomized clinical trials
+– studies in which no one involved in the
+study (neither the volunteer participants,
+doctors, investigators, nor sponsors) knows to
+which group trial participants have been
+assigned. For that reason, it’s important for
+an independent group to be monitoring the
+benefits and risks for trial participants, to
+protect their safety and health. In most trials, participants are assigned by
+chance to either a control or experimental
+group – a selection process called randomization . The control group may
+be given a placebo (see
+definition above). In a trial of surgical
+intervention, such as male circumcision, the
+participants do not receive a placebo; they
+always receive the same package of proven
+prevention strategies as people in the
+intervention arm. The experimental strategy is
+given to the other group. A “blinded” trial
+is designed so that neither the study staff nor
+the volunteer participants know if they have
+received the experimental agent or placebo.
+This ensures that counseling provided to
+participants at each study visit is the
+same—since staff do not know who is in the
+active arm, and who is in the control arm. As part of a period review of trial
+activity, the DSMB reviews the results of the
+study at regular intervals – typically 3 and
+6 months – and compares the results in the
+two groups. There may also be unscheduled
+analysis or additional analysis requested by
+the investigators or by the DSMB. The DSMB thus
+plays a critical ongoing watchdog role for
+trial participants, using patient safety as a
+litmus test for their ongoing
+participation. At each interim analysis, the DSMB makes a
+recommendation about the trial. Often the
+recommendation is simply that the trial should
+continue. This happens when there is no
+evidence of risk to participant safety and—in
+the case of efficacy trials—when there is
+also no evidence that the product has such a
+great and obvious benefit that it would be
+unethical not to offer it to the people
+receiving the placebo. A recommendation to
+continue also indicates that the trial should
+be able to answer the research question it is
+asking with current rates of volunteer
+enrolment and retention. There are several occasions when a DSMB may
+make a recommendation which dramatically
+changes what is happening in the trial. There
+are three common reasons why this might
+happen: Overwhelming positive effect 2 : The interim
+data suggests that the experimental strategy
+offers a statistically measurable significant
+benefit – it is working so well that everyone
+should be offered the intervention. The DSMB
+can recommend ending randomization. Ending
+randomization means that the people in the
+placebo or control arm are also offered the
+intervention, and that the people in the
+experimental arm continue to have access to the
+intervention (if it is an ongoing treatment,
+rather than a one-time strategy such as male
+circumcision. Since the trial site is offering
+the intervention to all participants,
+activities at the site continue. The facilities
+and staff continue to follow up with
+participants and provide the intervention to
+people in the control arm as well. At the same
+time, the trial sponsor may start to take steps
+to seek early approval from regulatory
+authorities (see section below), or make plans
+for additional follow-up trials to confirm the
+results in different populations. A caveat:
+Long-term safety data is considered very
+valuable to make sure any early benefits seen
+in a study won’t be temporary, so favorable
+early or interim results must really be
+considered ‘overwhelming’ evidence. Harm: The DSMB may
+recommend that a study be stopped if analysis
+of the data suggests that the experimental
+intervention appears harmful to the trial
+participants. This recommendation could be made
+on the basis of serious adverse events or side
+effects that are cropping up in those getting
+the experimental intervention; it could also be
+made on the basis of evidence that people
+receiving the experimental strategy have higher
+rates of HIV infection than people who are
+receiving the standard prevention package.
+Here, too, the trial site will remain
+functioning for some time to ensure that the
+medical needs of the participants are met. In some cases, the DSMB will weigh these
+emerging risks or side effects against possible
+longer-term benefits that could also develop
+with the experimental drug. For example, an
+experimental cancer drug (chemotherapy) might
+cause initial hair loss, and severe nausea, or
+anemia, but lead to greater survival in the
+longer run. Such risk-benefit analyses are an
+ongoing aspect of the DSMB’s work during the
+duration of a study. Futility: In the context
+of prevention research, a DSMB can recommend a
+trial stop for “futility” when interim data
+analysis shows that the trial is unlikely to be
+able to answer the question(s) posed by the
+trial. This can happen because enrollment rates
+are slow, because rates of new HIV infections
+are lower than anticipated, or because of other
+changes in the site or the study community make
+it impossible to conduct the study as it was
+originally designed. A futility finding can
+also happen in certain situations when the DSMB
+reviews the data and finds that there are
+equivalent numbers of HIV infections in the
+active and control arm. In such instances, a
+DSMB might advise that the trial is highly
+unlikely to ever be able to demonstrate the
+effectiveness of the intervention and recommend
+trial closure. When it comes to drugs and other
+therapeutics, another reason for a futility
+finding, is early evidence that an experimental
+drug isn’t likely to work as well or better
+than existing approved drugs. In such cases,
+there’s little benefit to participants and
+the trial sponsor can save money by ending the
+study early. Another scenario where a DSMB may
+make a recommendation to stop based on futility
+is if it appears that the study is not
+recruiting or retaining enough participants to
+generate enough data to adequately evaluate the
+experimental product – something called
+“statistical power”. In some cases, the
+DSMB may recommend a change or revision of an
+original study protocol, to allow for
+additional recruitment or enrollment, rather
+than recommending that the trial be stopped
+completely. Ongoing Challenges: The
+above examples represent the most common
+reasons why DSMBs vote to end studies early, or
+continue them, or ask for modifications in the
+study protocol. In all these cases, participant
+safety remains the guiding principle for DSMB
+decision-making. They can be difficult
+decisions, since the DSMB or equivalent body
+must evaluate incomplete data sets, and it is
+hard to draw definitive conclusions from
+limited data. If a trial continues to run, more
+data can be collected, and there is a better
+chance of getting a clear sense of whether the
+strategy works or not. But if there is evidence
+of any safety issue to the participants, the
+trial should be stopped. The scientific, financial and personal
+stakes in clinical trials are often very high
+for different parties, and generally involve
+considerable investment by various groups.
+These include the product manufacturer and
+trial sponsors, the physicians, and most
+importantly, the volunteer participants who are
+putting their bodies on the line to test the
+merits of an experimental product. Patient
+advocacy groups are naturally very invested in
+the outcome of clinical trials and may play an
+important community watchdog role related to
+participant safety. They can be very vocal
+about the performance or actions of an IRB or
+DSMB. It’s not uncommon to see a backlash of
+controversy, community debate and harsh media
+coverage directed at DSMBs and IRBs and their
+members when difficulties or negative events
+arise, adding to the pressure faced by the DSMB
+to act, even when clear evidence is lacking
+about what course of action is best. The DSMB
+will put participant safety ahead of other
+considerations as its central mandate. Final Approval: The DSMB
+does not make final determinations about
+whether a product should be made available once
+it proves effective in a trial. After a trial
+has ended, either on schedule or due to a DSMB
+recommendation of significant benefit, there
+are other authorities who grant final approval
+for new strategies. This separation is another
+way that the rights and interests of
+participants and study communities are
+protected. This approval is legally-required
+before marketing in the country or region where
+the agency sits. In the United States, the Food and Drug Administration
+(FDA) is the final authority that
+reviews clinical trial data and provides
+approval required for any new therapy or
+vaccine or other biomedical strategy to be
+licensed in the US. In Europe, the
+corresponding body is called the
+European Agency for Evaluation of Medical
+Products (EMEA) . South Africa has a
+similar body called the Medicines
+Control Council (MCC) ; India’s
+approval authority is called the Drug
+Controller of India (DCI) . Many
+developing countries lack the regulatory
+capacity and reso urces to conduct full-scale
+reviews of products independently, and so may
+look to EMEA and FDA decisions to help guide
+their own approaches. The EMEA and the World
+Health Organization are also working with other
+partners to help build regulatory capacity in
+many developing countries. HIV Prevention Trials: Recent Examples and
+Challenges In recent years, several HIV prevention
+trials have been stopped early, including the
+three cited below which demonstrate the three
+main reasons for stopping trials early. These
+studies and the ongoing public and community
+debates related to participant safety reveal
+the complex challenges involved in conducting
+HIV prevention trials in high-risk populations
+and countries being ravaged by the epidemic.
+They have also highlighted the important role
+HIV prevention advocates play in educating and
+mobilizing grassroots communities and leaders
+about these trials, particularly in regions
+where the trials were abruptly halted or new
+trials are planned. Case Study 1: Male Circumcision –
+An example of significant benefit In December, 2006, the National Institute of
+Allergy and Infectious Diseases (NIAID), a
+branch of the NIH, announced the early end to
+two large-scale, carefully controlled and
+randomized clinical trials of adult male
+circumcision, one in Kisumu, Kenya, the other
+in Rakai, Uganda. The decision was based on an
+interim review of the data which showed that
+medically performed circumcision significantly
+reduced a man’s risk of HIV infection during
+vaginal intercourse. The study was carried out
+in HIV-negative men and compared men who were
+randomly assigned to undergo circumcision in a
+medical setting immediately versus men who were
+circumcised at a later date. Men in both the
+immediate and the delayed circumcision arms of
+the trial were provided with counseling,
+condoms and STD treatment. The studies were totally enrolled by
+September 2005, and were originally slated to
+continue follow-up until mid-2007. But on
+December 12th, during a review of interim data
+by the National Institute of Allergy and
+Infectious Diseases (NIAID) DSMB for this
+trial, it recommended to stop the trials early,
+given the strong evidence of the benefit of
+circumcision. What does “overwhelmingly significant”
+benefit mean to the DSMB and in turn, the
+NIAID? The Kenya data, which involved 2,784
+HIV-negative men, showed a 53% decrease in
+their risk of acquiring HIV; in Uganda, 4,996
+men participated in the study, which showed a
+48% decrease in risk for the circumcised men.
+Given such powerful evidence in favor of
+circumcision as a prevention tool, the NIAID
+DSMB moved to offer circumcision to all men
+participating in the trial. It’s important to note that the Kenya and
+Uganda circumcision trial results were also
+preceded by favorable findings in an earlier
+study. In 2005, a team of French and South
+African researchers reported on the results of
+the first large, randomized HIV and male
+circumcision trial involving 3,000 HIV-
+negative men. That study showed circumcision
+decreased the risk of exposure to HIV by
+60%. Case Study 2: A Case of
+Unanticipated Harm In February, 2007, two clinical trials being
+carried out in Africa of a candidate vaginal
+microbicide (a Cellulose Sulphate (CS) compound
+named Ushercell) were unexpectedly halted after
+an interim review of the data from one of the
+trials suggested a possible increased risk of
+HIV infection among women participants
+receiving the experimental product. Many
+microbicides are being developed today, but
+none to date have proven to be effective. The Ushercell Phase III efficacy studies
+were sponsored by CONRAD, a reproductive health
+consortium, and followed 11 earlier safety
+trials suggesting it was safe to use in women.
+But an interim review by CONRAD’s DSMB of
+trial data at three sites – Benin, South
+Africa, and Uganda – suggested that Ushercell
+might increase a woman’s risk of acquiring
+HIV. The DSMB recommended stopping the trial
+early. Their decision prompted a DSMB review of
+a similar Cellulose Sulphate trial in Nigeria,
+sponsored by Family Health International (FHI).
+Although the DSMB found no evidence of an
+increased risk there, the FHI DSMB decided to
+err on the side of caution and closed that
+trial early too. Case Study 3: A Case of
+Futility A recent example of a DSMB futility finding
+came from a microbicide trial of a candidate
+called SAVVY in Ghana. At a scheduled DSMB
+review, an analysis of the rates of new HIV
+infections (incidence) in the study population
+found that it was much lower than the trial
+planners had expected. This could indicate that
+participants are benefiting from prevention
+messages and services provided by the site and
+in other contexts. In some instances, incidence
+is lower than expected because of limitations
+in the surveillance data that were used as the
+basis when designing the trial. If incidence is
+drastically lower than what statisticians had
+expected when they designed the trial, then it
+will not be able to answer the question. This
+was the case with the Ghana SAVVY trial, and
+the DSMB recommended that the trial be
+stopped. 1 Each clinical
+trial has its own data safety monitoring
+committee that is charged with protecting
+participant safety and advising study sponsors
+and Investigators. These committees are often
+called DSMBs, and may be known as Data
+Monitoring Committees or DMCs. We use the term
+“DSMB” throughout this document as the
+generic name for such data safety
+committees. 2 An
+“overwhelming positive effect” could be
+clear evidence of reduced rates of HIV
+infection in the group of participants who
+received the experimental intervention. In the
+case of an HIV vaccine trial, positive effect
+could also be a clear difference in the viral
+load setpoint of people who received the
+experimental vaccine and went on to become
+infected with HIV, versus those in the placebo
+arm. Scientists are hoping that this difference
+in viral setpoint will translate into a
+long-term benefit in terms of slower disease
+progression; however, this will need to be
+confirmed in further studies. Site Map | Links | Jobs | Disclaimer | Webmaster | © 2012 AVAC: Global Advocacy for HIV Prevention Lima | New York | Rio | London | Johannesburg | Nairobi | Delhi | Bangkok | Sydney AVAC: Global Advocacy for HIV Prevention 101 West 23rd Street · New York, NY +1 212.796.6423 (main) · avac@avac.org Copyright 2012,  All rights reserved. Design by Lo

@@ -1,0 +1,828 @@
+Acute Migraine Headache: Treatment Strategies - American Family Physician
+Advertisement
+<< Previous article
+Next article >>
+Feb 15, 2018 Issue
+Acute Migraine Headache: Treatment Strategies
+LAURA MAYANS, MD, MPH, and ANNE WALLING, MB, ChB, University of Kansas School of Medicine, Wichita, Kansas
+Am Fam Physician. 2018 Feb 15;97(4):243-251.
+Patient information: A handout on this topic is available at https://familydoctor.org/condition/migraines.
+Related letter: Consider Cardiovascular Risk Factors Before Prescribing Triptans for Migraine
+This clinical content conforms to AAFP criteria for continuing medical education (CME). See the CME Quiz Questions.
+Author disclosure: No relevant financial affiliations.
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+Article Sections
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+Migraine is a primary headache disorder characterized by recurrent attacks. Acetaminophen, nonsteroidal anti-inflammatory drugs, triptans, antiemetics, ergot alkaloids, and combination analgesics have evidence supporting their effectiveness in the treatment of migraine. Acetaminophen and nonsteroidal anti-inflammatory drugs are first-line treatments for mild to moderate migraines, whereas triptans are first-line treatments for moderate to severe migraines. Although triptans are effective, they may be expensive. Other medications such as dihydroergotamine and antiemetics are recommended for use as second- or third-line therapy for select patients or for those with refractory migraine. The pharmacologic properties, potential adverse effects, cost, and routes of administration vary widely, allowing therapy to be individualized based on the pattern and severity of attacks. Several treatment principles, including taking medication early in an attack and using a stratified treatment approach, can help ensure that migraine treatment is cost-effective.
+Migraine is a primary headache disorder characterized by recurrent attacks. Approximately 44.5 million U.S. adults (18% to 26% of women and 6% to 9% of men) have experienced a migraine, according to 2009 data.1 Estimated annual U.S. direct costs for migraine are more than $17 billion; the costs of lost productivity and reduced quality of life are significantly higher.2 More than one-half of migraines are treated in primary care, and they are the fourth most common cause of emergency department visits.3
+Enlarge Print
+SORT: KEY RECOMMENDATIONS FOR PRACTICE
+Clinical recommendation
+Evidence rating
+References
+Nonsteroidal anti-inflammatory drugs are a first-line treatment for mild to moderate migraine. The choice of medication should be based on availability and adverse effect profile.
+A
+8, 11, 12, 15–19
+Triptans are a first-line treatment for moderate to severe migraine. Several triptans are available with different pharmacokinetics and routes of administration.
+A
+8, 22, 23
+The choice of triptan should be individualized based on the patient's migraine characteristics and on the route of administration, pharmacokinetics, and cost.
+C
+8, 22, 23
+Dopamine antagonist antiemetics are second-line treatments for migraine.
+B
+8, 29
+Parenteral dihydroergotamine (DHE 45), magnesium sulfate, valproate (Depacon), and opioids should be reserved for refractory migraine because of adverse effects, weaker evidence of effectiveness, and/or abuse potential.
+B
+8, 31, 34–36
+A = consistent, good-quality patient-oriented evidence; B = inconsistent or limited-quality patient-oriented evidence; C = consensus, disease-oriented evidence, usual practice, expert opinion, or case series. For information about the SORT evidence rating system, go to http://www.aafp.org/afpsort.
+SORT: KEY RECOMMENDATIONS FOR PRACTICE
+Clinical recommendation
+Evidence rating
+References
+Nonsteroidal anti-inflammatory drugs are a first-line treatment for mild to moderate migraine. The choice of medication should be based on availability and adverse effect profile.
+A
+8, 11, 12, 15–19
+Triptans are a first-line treatment for moderate to severe migraine. Several triptans are available with different pharmacokinetics and routes of administration.
+A
+8, 22, 23
+The choice of triptan should be individualized based on the patient's migraine characteristics and on the route of administration, pharmacokinetics, and cost.
+C
+8, 22, 23
+Dopamine antagonist antiemetics are second-line treatments for migraine.
+B
+8, 29
+Parenteral dihydroergotamine (DHE 45), magnesium sulfate, valproate (Depacon), and opioids should be reserved for refractory migraine because of adverse effects, weaker evidence of effectiveness, and/or abuse potential.
+B
+8, 31, 34–36
+A = consistent, good-quality patient-oriented evidence; B = inconsistent or limited-quality patient-oriented evidence; C = consensus, disease-oriented evidence, usual practice, expert opinion, or case series. For information about the SORT evidence rating system, go to http://www.aafp.org/afpsort.
+Enlarge Print
+BEST PRACTICES IN NEUROLOGY
+Recommendations from the Choosing Wisely Campaign
+Recommendation
+Sponsoring organization
+Do not use opioids or butalbital for migraine except as a last resort.
+American Academy of Neurology
+Do not prescribe opioid or butalbital-containing medications as first-line treatment for recurrent headache disorders.
+American Headache Society
+Do not recommend prolonged or frequent use of over-the-counter pain medications for headache.
+American Headache Society
+Source: For more information on the Choosing Wisely Campaign, see http://www.choosingwisely.org. For supporting citations and to search Choosing Wisely recommendations relevant to primary care, see http://www.aafp.org/afp/recommendations/search.htm.
+BEST PRACTICES IN NEUROLOGY
+Recommendations from the Choosing Wisely Campaign
+Recommendation
+Sponsoring organization
+Do not use opioids or butalbital for migraine except as a last resort.
+American Academy of Neurology
+Do not prescribe opioid or butalbital-containing medications as first-line treatment for recurrent headache disorders.
+American Headache Society
+Do not recommend prolonged or frequent use of over-the-counter pain medications for headache.
+American Headache Society
+Source: For more information on the Choosing Wisely Campaign, see http://www.choosingwisely.org. For supporting citations and to search Choosing Wisely recommendations relevant to primary care, see http://www.aafp.org/afp/recommendations/search.htm.
+Diagnosis and Patient Assessment
+Jump to section +
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+Migraine has well-established diagnostic criteria4 (Table 1 5). Good evidence supports the use of the POUND mnemonic for migraine diagnosis6 (Table 2 7). Assessment aims to confirm diagnostic criteria, evaluate for alternative explanations, identify comorbidities that could complicate management (e.g., depression, chronic pain),8 and document the baseline pattern and severity of episodes. A variety of conditions can present as headache, most of which can be identified by the history and physical examination (Table 3).6 The only indications for ancillary testing are to identify causes of secondary headaches or comorbid conditions.9,10 Table 4 lists red flag symptoms that indicate the need for neuroimaging and/or urgent referral.9,10
+Enlarge Print
+TABLE 1.
+International Headache Society Diagnostic Criteria for Migraine Headache With and Without Aura
+Migraine without aura
+Headache lasts 4 to 72 hours (untreated or unsuccessfully treated)
+Headache has at least 2 of the following:
+Aggravation by or causing avoidance of routine physical activity (e.g., walking, climbing stairs)
+Moderate or severe pain
+Pulsating quality
+Unilateral location
+During headache, at least 1 of the following:
+Nausea and/or vomiting
+Photophobia and phonophobia
+Not attributed to another disorder
+History of at least 5 attacks fulfilling above criteria
+Migraine with aura*
+Aura consisting of at least 1 of the following, but no motor weakness:
+Fully reversible dysphasic speech disturbance
+Sensory symptoms that are fully reversible, including positive features (e.g., pins and needles) and/or negative features (e.g., numbness)
+Visual symptoms that are fully reversible, including positive features (e.g., flickering lights, spots, lines) and/or negative features (e.g., loss of vision)
+At least 2 of the following:
+Homonymous visual symptoms and/or unilateral sensory symptoms
+At least 1 aura symptom develops gradually over 5 minutes, or different aura symptoms occur in succession over 5 minutes
+Each symptom lasts at least 5 minutes, but no longer than 60 minutes
+Headache fulfilling criteria for migraine without aura begins during the aura or follows aura within 60 minutes
+Not attributed to another disorder
+History of at least 2 attacks fulfilling above criteria
+*—Recurrent disorder manifesting in headaches with reversible focal neurologic symptoms that usually develop gradually over 5 to 20 minutes before onset of the headache and last for less than 60 minutes. Headache with the features of migraine without aura usually follows the aura symptoms. Less commonly, headache lacks migrainous features or is completely absent (isolated aura).
+Adapted with permission from Gilmore B, Michael M. Treatment of acute migraine headache [published correction appears in Am Fam Physician. 2011;84(7):738]. Am Fam Physician. 2011;83(3):272.
+TABLE 1.
+International Headache Society Diagnostic Criteria for Migraine Headache With and Without Aura
+Migraine without aura
+Headache lasts 4 to 72 hours (untreated or unsuccessfully treated)
+Headache has at least 2 of the following:
+Aggravation by or causing avoidance of routine physical activity (e.g., walking, climbing stairs)
+Moderate or severe pain
+Pulsating quality
+Unilateral location
+During headache, at least 1 of the following:
+Nausea and/or vomiting
+Photophobia and phonophobia
+Not attributed to another disorder
+History of at least 5 attacks fulfilling above criteria
+Migraine with aura*
+Aura consisting of at least 1 of the following, but no motor weakness:
+Fully reversible dysphasic speech disturbance
+Sensory symptoms that are fully reversible, including positive features (e.g., pins and needles) and/or negative features (e.g., numbness)
+Visual symptoms that are fully reversible, including positive features (e.g., flickering lights, spots, lines) and/or negative features (e.g., loss of vision)
+At least 2 of the following:
+Homonymous visual symptoms and/or unilateral sensory symptoms
+At least 1 aura symptom develops gradually over 5 minutes, or different aura symptoms occur in succession over 5 minutes
+Each symptom lasts at least 5 minutes, but no longer than 60 minutes
+Headache fulfilling criteria for migraine without aura begins during the aura or follows aura within 60 minutes
+Not attributed to another disorder
+History of at least 2 attacks fulfilling above criteria
+*—Recurrent disorder manifesting in headaches with reversible focal neurologic symptoms that usually develop gradually over 5 to 20 minutes before onset of the headache and last for less than 60 minutes. Headache with the features of migraine without aura usually follows the aura symptoms. Less commonly, headache lacks migrainous features or is completely absent (isolated aura).
+Adapted with permission from Gilmore B, Michael M. Treatment of acute migraine headache [published correction appears in Am Fam Physician. 2011;84(7):738]. Am Fam Physician. 2011;83(3):272.
+Enlarge Print
+TABLE 2.
+POUND Mnemonic for Diagnosis of Migraine
+Clinical features:
+Pulsatile quality of headache
+One-day duration of headache (4 to 72 hours if untreated or unsuccessfully treated)
+Unilateral headache
+Nausea or vomiting
+Disabling intensity of headache
+Probability of migraine (approximate pretest probability)
+Number of clinical features
+Likelihood ratio
+Male, general population (6%)
+Female, general population (15%)
+Primary care, any headache (33%)
+4 or 5
+24
+60%
+81%
+92%
+3
+3.5
+18%
+38%
+64%
+0 to 2
+0.41
+2.5%
+6.7%
+17%
+Adapted with permission from Ebell MH. Diagnosis of migraine headache. Am Fam Physician. 2006;74(12):2088.
+TABLE 2.
+POUND Mnemonic for Diagnosis of Migraine
+Clinical features:
+Pulsatile quality of headache
+One-day duration of headache (4 to 72 hours if untreated or unsuccessfully treated)
+Unilateral headache
+Nausea or vomiting
+Disabling intensity of headache
+Probability of migraine (approximate pretest probability)
+Number of clinical features
+Likelihood ratio
+Male, general population (6%)
+Female, general population (15%)
+Primary care, any headache (33%)
+4 or 5
+24
+60%
+81%
+92%
+3
+3.5
+18%
+38%
+64%
+0 to 2
+0.41
+2.5%
+6.7%
+17%
+Adapted with permission from Ebell MH. Diagnosis of migraine headache. Am Fam Physician. 2006;74(12):2088.
+Enlarge Print
+TABLE 3.
+Differential Diagnosis of Migraine Headache
+Condition
+Characteristics
+Acute glaucoma
+Associated with blurred vision, nausea, vomiting, and seeing halos around lights; ophthalmologic emergency
+Acute or chronic subdural hematoma
+Antecedent trauma; may have subacute onset; altered level of consciousness or neurologic deficit may be present
+Acute severe hypertension
+Marked blood pressure elevation (systolic > 210 mm Hg or diastolic > 120 mm Hg); may have confusion or irritability
+Benign intracranial hypertension (pseudotumor cerebri)
+Often abrupt onset; associated with nausea, vomiting, dizziness, blurred vision, and papilledema; may have cranial nerve V1 palsy; aggravated by coughing, straining, or changing position
+Carbon monoxide poisoning
+May be insidious or associated with dyspnea; occurs more commonly in colder months
+Carotid artery dissection
+Cause of stroke; can be spontaneous or follow minor trauma or sudden neck movement; unilateral headache or face pain; ipsilateral Horner syndrome
+Cervical spondylosis
+Worse with neck movement; posterior distribution; pain is neuralgic in character and sometimes referred to vertex or forehead; more common in older patients
+Cluster headache
+Uncommon; sudden onset; duration of minutes to hours; repeats over a course of weeks, then may disappear for months or years; unilateral lacrimation and nasal congestion; severe unilateral and periorbital pain; more common in men; patient is restless during episode
+Encephalitis
+Neurologic abnormalities, confusion, altered mental status or level of consciousness
+Frontal sinusitis
+Usually worse when lying down; nasal congestion; tenderness over affected sinus
+Greater occipital neuralgia
+Occipital location; tenderness at base of skull; pain is neuralgic in character and referred to vertex or forehead
+Intracranial neoplasm
+Worse on awakening; generally progressive; aggravated by coughing, straining, or changing position
+Medication-induced headache
+Chronic headache with few features of migraine; tends to occur daily; hormone therapy and hormonal contraceptives are frequent culprits; includes analgesic rebound
+Meningitis
+Fever; meningeal signs
+Postconcussion syndrome
+Antecedent head trauma; vertigo, lightheadedness; poor concentration and memory; lack of energy; irritability and anxiety
+Subarachnoid hemorrhage
+Explosive onset of severe headache; 10% preceded by sentinel headaches
+Temporal arteritis
+Almost exclusively in patients older than 50 years; associated with tenderness of scalp or temporal artery and jaw claudication; visual changes
+Temporomandibular joint disorder
+Pain generally involves the temporomandibular joint and temporal areas; associated with symptoms when chewing
+Tension-type headache
+Common; duration of 30 minutes to seven hours; typically bilateral; nonpulsating; mild to moderate intensity without limiting activity; no nausea or vomiting
+Trigeminal neuralgia
+Brief episodes of sharp, stabbing pain and trigeminal nerve face distribution
+Adapted with permission from Wilson JF. In the clinic. Migraine [published correction appears in Ann Intern Med. 2008;148(5):408]. Ann Intern Med. 2007;147(9):ITC11-1–ITC11-14.
+TABLE 3.
+Differential Diagnosis of Migraine Headache
+Condition
+Characteristics
+Acute glaucoma
+Associated with blurred vision, nausea, vomiting, and seeing halos around lights; ophthalmologic emergency
+Acute or chronic subdural hematoma
+Antecedent trauma; may have subacute onset; altered level of consciousness or neurologic deficit may be present
+Acute severe hypertension
+Marked blood pressure elevation (systolic > 210 mm Hg or diastolic > 120 mm Hg); may have confusion or irritability
+Benign intracranial hypertension (pseudotumor cerebri)
+Often abrupt onset; associated with nausea, vomiting, dizziness, blurred vision, and papilledema; may have cranial nerve V1 palsy; aggravated by coughing, straining, or changing position
+Carbon monoxide poisoning
+May be insidious or associated with dyspnea; occurs more commonly in colder months
+Carotid artery dissection
+Cause of stroke; can be spontaneous or follow minor trauma or sudden neck movement; unilateral headache or face pain; ipsilateral Horner syndrome
+Cervical spondylosis
+Worse with neck movement; posterior distribution; pain is neuralgic in character and sometimes referred to vertex or forehead; more common in older patients
+Cluster headache
+Uncommon; sudden onset; duration of minutes to hours; repeats over a course of weeks, then may disappear for months or years; unilateral lacrimation and nasal congestion; severe unilateral and periorbital pain; more common in men; patient is restless during episode
+Encephalitis
+Neurologic abnormalities, confusion, altered mental status or level of consciousness
+Frontal sinusitis
+Usually worse when lying down; nasal congestion; tenderness over affected sinus
+Greater occipital neuralgia
+Occipital location; tenderness at base of skull; pain is neuralgic in character and referred to vertex or forehead
+Intracranial neoplasm
+Worse on awakening; generally progressive; aggravated by coughing, straining, or changing position
+Medication-induced headache
+Chronic headache with few features of migraine; tends to occur daily; hormone therapy and hormonal contraceptives are frequent culprits; includes analgesic rebound
+Meningitis
+Fever; meningeal signs
+Postconcussion syndrome
+Antecedent head trauma; vertigo, lightheadedness; poor concentration and memory; lack of energy; irritability and anxiety
+Subarachnoid hemorrhage
+Explosive onset of severe headache; 10% preceded by sentinel headaches
+Temporal arteritis
+Almost exclusively in patients older than 50 years; associated with tenderness of scalp or temporal artery and jaw claudication; visual changes
+Temporomandibular joint disorder
+Pain generally involves the temporomandibular joint and temporal areas; associated with symptoms when chewing
+Tension-type headache
+Common; duration of 30 minutes to seven hours; typically bilateral; nonpulsating; mild to moderate intensity without limiting activity; no nausea or vomiting
+Trigeminal neuralgia
+Brief episodes of sharp, stabbing pain and trigeminal nerve face distribution
+Adapted with permission from Wilson JF. In the clinic. Migraine [published correction appears in Ann Intern Med. 2008;148(5):408]. Ann Intern Med. 2007;147(9):ITC11-1–ITC11-14.
+Enlarge Print
+TABLE 4.
+Red Flag Headache Symptoms Indicating the Need for Neuroimaging and/or Urgent Subspecialist Referral
+Change in established headache pattern or “the worst headache ever”
+Neurologic signs or seizures
+New onset after 50 years of age
+Persistent headache after Valsalva maneuver or exertion
+Progressively increasing severity
+Symptoms of systemic disorders (e.g., fever, hypertension, myalgia, weight loss)
+“Thunderclap” headache (maximum severity at onset)
+Information from references 9 and 10.
+TABLE 4.
+Red Flag Headache Symptoms Indicating the Need for Neuroimaging and/or Urgent Subspecialist Referral
+Change in established headache pattern or “the worst headache ever”
+Neurologic signs or seizures
+New onset after 50 years of age
+Persistent headache after Valsalva maneuver or exertion
+Progressively increasing severity
+Symptoms of systemic disorders (e.g., fever, hypertension, myalgia, weight loss)
+“Thunderclap” headache (maximum severity at onset)
+Information from references 9 and 10.
+General Treatment Principles
+Jump to section +
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+Evidence-based guidelines from the United States, Canada, and Europe provide consistent recommendations, including lifestyle modifications, avoidance of triggers, and healthy coping mechanisms.8,10,11 This article focuses on pharmacologic treatment of acute migraine. Medications recommended for acute migraine are listed in Table 5.8 The variety of options allows for individualized management based on the patient's symptoms and preferences, as well as medication effectiveness, adverse effects, and cost.
+Enlarge Print
+TABLE 5.
+Medications for Acute Migraine
+Medication
+Comments
+First-line options
+Acetaminophen
+—
+NSAIDs
+Aspirin
+Highest-risk NSAID for adverse effects
+Diclofenac
+Powdered form available
+Ibuprofen
+—
+Naproxen
+Slower onset, but longer half-life
+Triptans
+Almotriptan (Axert)
+—
+Eletriptan (Relpax)
+Least cardiovascular risk
+Frovatriptan (Frova)
+Recommended for menstrual migraine
+Naratriptan (Amerge)
+—
+Rizatriptan (Maxalt)
+—
+Sumatriptan (Imitrex)
+Oral and intranasal formulations, and subcutaneous injection
+Zolmitriptan (Zomig)
+Oral and intranasal formulations
+Combined regimens
+Acetaminophen/aspirin/caffeine
+Preferred in patients with contraindications to vasoconstrictors
+Sumatriptan/naproxen (Treximet)
+—
+Second-line options
+Antiemetics
+Chlorpromazine
+—
+Droperidol
+—
+Metoclopramide (Reglan)
+Oral formulation
+Prochlorperazine
+—
+Promethazine
+—
+Dihydroergotamine, intranasal (Migranal)
+Severe nausea is common
+Parenteral NSAID (ketorolac)
+—
+Options for refractory migraine
+Dexamethasone, intravenous
+Used to prevent recurrence
+Dihydroergotamine, parenteral (DHE 45)
+Severe nausea is common; do not use within 24 hours of triptan administration
+Magnesium sulfate, intravenous
+Used only for migraine with aura
+Opioids
+High abuse potential; use sparingly and infrequently
+Valproate, intravenous (Depacon)
+Studies show contradictory results
+NSAID = nonsteroidal anti-inflammatory drug.
+Information from reference 8.
+TABLE 5.
+Medications for Acute Migraine
+Medication
+Comments
+First-line options
+Acetaminophen
+—
+NSAIDs
+Aspirin
+Highest-risk NSAID for adverse effects
+Diclofenac
+Powdered form available
+Ibuprofen
+—
+Naproxen
+Slower onset, but longer half-life
+Triptans
+Almotriptan (Axert)
+—
+Eletriptan (Relpax)
+Least cardiovascular risk
+Frovatriptan (Frova)
+Recommended for menstrual migraine
+Naratriptan (Amerge)
+—
+Rizatriptan (Maxalt)
+—
+Sumatriptan (Imitrex)
+Oral and intranasal formulations, and subcutaneous injection
+Zolmitriptan (Zomig)
+Oral and intranasal formulations
+Combined regimens
+Acetaminophen/aspirin/caffeine
+Preferred in patients with contraindications to vasoconstrictors
+Sumatriptan/naproxen (Treximet)
+—
+Second-line options
+Antiemetics
+Chlorpromazine
+—
+Droperidol
+—
+Metoclopramide (Reglan)
+Oral formulation
+Prochlorperazine
+—
+Promethazine
+—
+Dihydroergotamine, intranasal (Migranal)
+Severe nausea is common
+Parenteral NSAID (ketorolac)
+—
+Options for refractory migraine
+Dexamethasone, intravenous
+Used to prevent recurrence
+Dihydroergotamine, parenteral (DHE 45)
+Severe nausea is common; do not use within 24 hours of triptan administration
+Magnesium sulfate, intravenous
+Used only for migraine with aura
+Opioids
+High abuse potential; use sparingly and infrequently
+Valproate, intravenous (Depacon)
+Studies show contradictory results
+NSAID = nonsteroidal anti-inflammatory drug.
+Information from reference 8.
+Three treatment strategies are recommended.12 The stratified approach is based on headache severity: mild headaches are initially treated with nonsteroidal anti-inflammatory drugs (NSAIDs), whereas more severe headaches are initially treated with a triptan. In the “step care across attacks” approach, the initial medication is chosen based on cost and adverse effect profile. If treatment is unsuccessful, a more potent medication is used for subsequent attacks. Finally, the “step care within attacks” approach uses a simple analgesic initially, but switches to more potent medications later in the same attack, if necessary. In a comparative trial, the stratified approach was more successful at relieving pain at two hours, but it resulted in more adverse effects.13 The “step care within attacks” approach works best for prolonged episodes or in patients with inconsistent symptom patterns.
+Guidelines stress basic treatment principles for acute migraine.8,10,11 First, the patient must understand the condition and treatment strategy, and medication should be taken early in the attack. Appropriate follow-up and treatment adjustment are crucial. Some patients require more than one medication or formulation. Several medications are available as tablets, orally disintegrating tablets, nasal sprays, or injections to facilitate administration, especially if vomiting occurs. Patients must be counseled about the danger of medication overuse and the risk of conversion to chronic daily headache (transformed migraine). Acute medications, including triptans, should not be used more than two or three times per week. If acute treatment is needed more often, prophylactic therapy should be considered.14
+First-Line Therapies
+Jump to section +
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+ACETAMINOPHEN AND NSAIDS
+Strong evidence supports the use of acetaminophen and oral NSAIDs such as aspirin, diclofenac, ibuprofen, and naproxen as first-line treatments for mild to moderate migraine attacks.8,11,12 In placebo-controlled trials, acetaminophen was less effective than NSAIDs but did not cause gastric irritation or antiplatelet effects.12,15 The recommended dose is 1,000 mg. Aspirin is effective at doses of 1,000 mg but has the greatest risk of gastric irritation.12,16 Ibuprofen is often chosen for its availability and tolerability. A Cochrane review (nine studies, N = 4,373) comparing ibuprofen with placebo concluded that the number needed to treat (NNT) to improve pain from moderate/severe to mild at two hours is 3, and the NNT for complete pain relief at two hours is 7.17 Most studies used 400 mg of ibuprofen. Ibuprofen has a short half-life, and repeat dosing may be necessary. Diclofenac is available as a powder or tablet and is as effective as ibuprofen.18 Naproxen has a slower onset of action but longer half-life. Its NNT for partial pain relief at two hours is 7 and for complete pain relief at two hours is 10, but repeat dosing may not be required.19 The typical dose is 500 mg, but 825 mg may be slightly more effective. The combination of acetaminophen/aspirin/caffeine has strong evidence of effectiveness and can be used as a first-line treatment for migraine.8,20,21 Although trials consistently show NSAIDs to be more effective than placebo, head-to-head trials comparing NSAIDs are lacking, and the choice of NSAID should be based on availability and adverse effect profile.
+TRIPTANS
+Triptans are an effective first-line treatment for moderate to severe migraine.8 As 5-hydroxytryptamine receptor agonists, they are pharmacologically specific for migraine and can be used in adequate doses with relatively few major adverse effects.12 Triptans share a common mechanism of action but differ in routes of administration, cost, and pharmacokinetics, allowing the choice of specific medication to be individualized to the patient's migraine pattern. Patients may respond to certain triptans but not others because of genetic factors underlying migraine.12 The best results occur when triptans are taken early in an attack. For migraine with aura, evidence suggests that the best results are achieved by taking the triptan at the onset of pain rather than the onset of aura, although taking a triptan during a typical aura seems to be safe.12
+A meta-analysis of the effectiveness of the seven available triptans (almotriptan [Axert], eletriptan [Relpax], frovatriptan [Frova], naratriptan [Amerge], rizatriptan [Maxalt], sumatriptan [Imitrex], and zolmitriptan [Zomig]) found that standard doses provided headache relief at two hours in 42% to 76% of patients and complete pain relief at two hours in 18% to 50%.22 For headache relief at two hours, standard-dose triptans alone performed better than ergot alkaloids, equal to or better than NSAIDs and acetaminophen, and equal to or slightly worse than combination therapies (triptan plus NSAID or acetaminophen).22
+Sumatriptan is the most extensively studied triptan. Its effectiveness varies by dose and route of administration (Table 6).23 All triptans have strong evidence of effectiveness,8 but few head-to-head comparisons have been performed. The strongest evidence and most favorable outcomes are reported for subcutaneous sumatriptan, rizatriptan orally disintegrating tablets (Maxalt Mlt), zolmitriptan orally disintegrating tablets (Zomig Zmt), and eletriptan tablets.22 Sumatriptan administered as a subcutaneous 6-mg injection has the most favorable NNT for complete pain relief at two hours (NNT = 2).23 The pharmacologic differences and costs of triptans are outlined in Table 7.
+Enlarge Print
+TABLE 6.
+Effectiveness of Sumatriptan (Imitrex) for Migraine Headache
+Number needed to treat*
+Route of administration
+Dose (mg)
+Pain relief at 2 hours
+Pain free at 2 hours
+Intranasal
+10
+6
+7
+20
+4
+5
+Oral
+25
+4
+6
+50
+4
+6
+100
+4
+5
+Subcutaneous
+4
+2
+3
+6
+2
+2
+*—In patients with moderate to severe pain at baseline.
+Information from reference 23.
+TABLE 6.
+Effectiveness of Sumatriptan (Imitrex) for Migraine Headache
+Number needed to treat*
+Route of administration
+Dose (mg)
+Pain relief at 2 hours
+Pain free at 2 hours
+Intranasal
+10
+6
+7
+20
+4
+5
+Oral
+25
+4
+6
+50
+4
+6
+100
+4
+5
+Subcutaneous
+4
+2
+3
+6
+2
+2
+*—In patients with moderate to severe pain at baseline.
+Information from reference 23.
+Enlarge Print
+TABLE 7.
+Summary of Triptan Medications for Migraine Headache
+Medication
+Formulation
+Half-life (hours)
+Cost*
+Almotriptan (Axert)
+6.25- and 12.5-mg tablets
+3 to 4
+$71 ($264) for 6 tablets
+Eletriptan (Relpax)
+20- and 40-mg tablets
+4
+$72 ($346) for 6 tablets
+Frovatriptan (Frova)
+2.5-mg tablets
+26
+$171 ($664) for 9 tablets
+Naratriptan (Amerge)
+1- and 2.5-mg tablets
+6
+$36 ($514) for 9 tablets
+Rizatriptan
+5- and 10-mg tablets (Maxalt)
+2 to 3
+$12 ($228) for 6 tablets
+5- and 10-mg orally disintegrating tablets (Maxalt-Mlt)
+2 to 3
+$17 ($228) for 6 tablets
+Sumatriptan (Imitrex)
+25-, 50-, and 100-mg tablets
+2.5
+$16 ($546) for 9 tablets
+6-mg injection
+2.5
+$29 ($185) for 1 vial (1 dose)
+5- or 20-mg nasal spray
+2
+$130 ($458) for 1 nasal spray (6 doses)
+Zolmitriptan
+2.5- or 5-mg tablets (Zomig)
+3
+$52 ($587) for 6 tablets
+2.5- or 5-mg orally disintegrating tablets (Zomig Zmt)
+3
+$46 ($589) for 6 tablets
+5-mg nasal spray
+3
+Generic not available ($420 for 6 doses)
+*—Estimated retail cost based on information obtained at http://www.goodrx.com (accessed September 19, 2017). Generic price listed first; brand in parentheses.
+TABLE 7.
+Summary of Triptan Medications for Migraine Headache
+Medication
+Formulation
+Half-life (hours)
+Cost*
+Almotriptan (Axert)
+6.25- and 12.5-mg tablets
+3 to 4
+$71 ($264) for 6 tablets
+Eletriptan (Relpax)
+20- and 40-mg tablets
+4
+$72 ($346) for 6 tablets
+Frovatriptan (Frova)
+2.5-mg tablets
+26
+$171 ($664) for 9 tablets
+Naratriptan (Amerge)
+1- and 2.5-mg tablets
+6
+$36 ($514) for 9 tablets
+Rizatriptan
+5- and 10-mg tablets (Maxalt)
+2 to 3
+$12 ($228) for 6 tablets
+5- and 10-mg orally disintegrating tablets (Maxalt-Mlt)
+2 to 3
+$17 ($228) for 6 tablets
+Sumatriptan (Imitrex)
+25-, 50-, and 100-mg tablets
+2.5
+$16 ($546) for 9 tablets
+6-mg injection
+2.5
+$29 ($185) for 1 vial (1 dose)
+5- or 20-mg nasal spray
+2
+$130 ($458) for 1 nasal spray (6 doses)
+Zolmitriptan
+2.5- or 5-mg tablets (Zomig)
+3
+$52 ($587) for 6 tablets
+2.5- or 5-mg orally disintegrating tablets (Zomig Zmt)
+3
+$46 ($589) for 6 tablets
+5-mg nasal spray
+3
+Generic not available ($420 for 6 doses)
+*—Estimated retail cost based on information obtained at http://www.goodrx.com (accessed September 19, 2017). Generic price listed first; brand in parentheses.
+Triptans may not be effective in all patients or all migraine episodes. Repeating the same dose of the same medication may not relieve persistent symptoms.12 However, if a migraine resolves but recurs within 24 hours, the initial triptan is likely to be successful. Combining the triptan with 500 mg of naproxen or choosing a triptan with a longer half-life may reduce recurrence rates.24 In a randomized, placebo-controlled trial comparing sumatriptan plus naproxen (Treximet) with each medication alone, the combination was superior for partial pain relief at two hours, complete pain relief at two hours, and sustained pain relief at 24 hours.24–26 The fixed-dose combination pill contains 85 mg of sumatriptan, a dose not available in sumatriptan alone. The fixed-dose combination pill is often reserved as second-line treatment because of its cost, but using sumatriptan (50 mg) plus naproxen (500 mg) has been found noninferior.26 Naproxen has been studied in combination only with sumatriptan, but it is reasonable to combine it with other triptans.24
+Triptans are generally well tolerated. A 2016 meta-analysis found no significantly increased risk of serious adverse effects.27 With the exception of almotriptan and frovatriptan, most triptans were associated with fatigue, dizziness, chest discomfort, somnolence, and nausea. Risk of minor adverse effects varies by medication and route of administration.23,27
+Although triptans are effective, they may be expensive. Appropriate individualized use is critical. Strategies to improve cost-effective migraine care include advising patients to use the medication early in the attack and using the stratified treatment approach.2 Basing initial treatment on the severity of the patient's attacks reduces the risk of treatment failure.13 Although the initial therapy may not be the least expensive option, the higher probability of success avoids payment for medications that do not work, as well as the cost of lost productivity, disruption of activities, and repeated medical visits for unresolved migraines.
+Second-Line Therapies
+Jump to section +
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+Several other medications have good evidence of effectiveness for migraine. However, they are reserved as second-line agents because of adverse effects, route of administration, cost, or abuse potential (Table 5).8
+DIHYDROERGOTAMINE
+Intranasal dihydroergotamine has strong evidence of effectiveness12,28 but more adverse effects than triptans because of its decreased receptor specificity. Nausea is a common and significant adverse effect, and metoclopramide (Reglan) is often administered first. Because of its vasoconstrictive properties, dihydroergotamine can cause leg cramps or tingling in the extremities. If this occurs, the dose should be reduced or the medication stopped. It should not be used in pregnant women.
+OPIOIDS
+Opioids such as butorphanol, codeine, tramadol, and meperidine (Demerol) have moderate evidence of effectiveness for migraine.22 However, they have a high abuse potential and induce receptor changes that can decrease response to therapy, and routine use is not recommended.
+ANTIEMETICS
+Antiemetics are often used for migraine. The dopamine antagonists chlorpromazine, droperidol, metoclopramide, and prochlorperazine have moderate evidence supporting their use.8,11 They are often administered parenterally. Metoclopramide and prochlorperazine are the most extensively studied; both have been proven superior to placebo.29 In limited head-to-head studies, prochlorperazine proved as effective as or superior to other antiemetics. All dopamine antagonists carry a risk of extrapyramidal adverse effects. Although these are uncommon with intermittent use, patients should be cautioned about overuse of these medications.12
+OTHER MEDICATIONS
+Several parenteral medications are available for office-based care. Ketorolac (30 to 60 mg) is commonly used.22 Promethazine, a dopamine antagonist with antihistamine properties, outperforms placebo, even when used alone.30 Both of these medications are administered intramuscularly. Promethazine is sedating, and patients should not be allowed to drive themselves home after receiving it.
+Refractory Migraine
+Jump to section +
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+Parenteral dihydroergotamine (DHE 45) is commonly used to treat refractory migraine. However, vasoconstrictive agents should be avoided for 24 hours after administration of a triptan.12,28 In these cases, parenteral NSAIDs and/or antiemetics are preferred.12,31 Intravenous magnesium sulfate (1 to 2 g) may be an effective alternative treatment for migraine with aura.8,32,33 Intravenous valproate (Depacon) is commonly used, but the evidence supporting its effectiveness is contradictory.34–36 Diphenhydramine (Benadryl) is not recommended.37 Parenteral corticosteroids (e.g., intravenous dexamethasone) with or without tapered oral corticosteroids can be considered to help decrease headache recurrence.12,29,31 Opioids can be considered for refractory migraine but should be used sparingly and infrequently.12,31
+Special Considerations
+Jump to section +
+Abstract
+Diagnosis and Patient Assessment
+General Treatment Principles
+First-Line Therapies
+Second-Line Therapies
+Refractory Migraine
+Special Considerations
+References
+CHILDREN AND ADOLESCENTS
+Evidence for effective treatment of migraine is weaker in children than in adults; studies have high placebo response rates and lack precision and consistency.38,39 In studies of acetaminophen and NSAIDs, ibuprofen produced the best results. All triptans except frovatriptan have been studied in children and adolescents.38,39 Three are approved by the U.S Food and Drug Administration for use in this population: almotriptan (for children and adolescents 12 to 17 years of age), rizatriptan (six to 17 years), and sumatriptan in combination with naproxen (12 years and older).40 Although sumatriptan nasal spray is not approved for use in children, it has shown the greatest benefit in studies of children with migraine, and the American Academy of Neurology recommends it for use in adolescents 12 years and older.41,42
+PREGNANCY AND LACTATION
+Acetaminophen and metoclopramide are the only treatments for migraine that are considered safe in pregnancy. Observational studies have shown no association between triptan use in the first trimester and fetal malformation or adverse pregnancy outcomes.12,43 Triptan use in the second and third trimesters is associated with increased risk of uterine atony and increased blood loss during labor and delivery.43 Although controversial, triptans can be considered for use in pregnant women with debilitating migraines when the potential benefits outweigh the risks. Medications considered safe during lactation include acetaminophen, ibuprofen, metoclopramide, droperidol, prochlorperazine, diphenhydramine, and sumatriptan.12 Aspirin should be avoided during pregnancy and lactation.12
+CONTRAINDICATIONS TO VASOCONSTRICTORS
+Triptans and other vasoconstrictors are contraindicated in patients with coronary artery disease and in specific migraine syndromes, such as hemiplegic and basilar migraines. Nonopioid combination analgesics, especially acetaminophen/aspirin/caffeine, are most helpful in patients with these conditions.12 NSAIDs and dopamine antagonists can also be considered.12
+This article updates previous articles on this topic by Gilmore and Michael,5 and by Aukerman, et al.44
+Data Sources: A PubMed search was completed in Clinical Queries using the key terms migraine, acute, and treatment. The search included meta-analyses, randomized controlled trials, clinical trials, and reviews. Also searched were the Agency for Healthcare Research and Quality evidence reports, Essential Evidence Plus, the Cochrane database, the National Guideline Clearinghouse, and the websites of the American Academy of Neurology and American Headache Society. Search date: September 21, 2016.
+Read the full article.
+Get immediate access, anytime, anywhere.
+Choose a single article, issue, or full-access subscription.
+Earn up to 6 CME credits per issue.
+Already a member/subscriber?
+Log in >>
+Purchase Access:
+See My Optionsclose
+Already a member or subscriber? Log in
+Best Value!
+Get Full Access
+From $140
+Subscribe
+Includes:
+Immediate, unlimited access to all AFP content
+More than 130 CME credits per year
+Access to the AFP app
+Print delivery option
+Access This Issue
+$39.95
+Includes:
+Immediate access to this issue
+CME credits in this issue
+Access This Article
+$20.95
+Includes:
+Immediate access to this article
+To see the full article, log in or purchase access.
+The Authors
+show all author info
+LAURA MAYANS, MD, MPH, is an assistant professor in the Department of Family and Community Medicine at University of Kansas School of Medicine, Wichita....
+ANNE WALLING, MB, ChB, is a professor in the Department of Family and Community Medicine at University of Kansas School of Medicine.
+Address correspondence to Laura Mayans, MD, MPH, University of Kansas School of Medicine, 1010 N. Kansas St., Wichita, KS 67214 (e-mail: lmayans@kumc.edu). Reprints are not available from the authors.
+Author disclosure: No relevant financial affiliations.
+References
+show all references
+1. Stokes M, Becker WJ, Lipton RB, et al. Cost of health care among patients with chronic and episodic migraine in Canada and the USA: results from the International Burden of Migraine Study (IBMS). Headache. 2011;51(7):1058–1077....
+2. Goldberg LD. The cost of migraine and its treatment. Am J Manag Care. 2005;11(2 suppl):S62–S67.
+3. Burch RC, Loder S, Loder E, Smitherman TA. The prevalence and burden of migraine and severe headache in the United States: updated statistics from government health surveillance studies [published correction appears in Headache. 2015;55(2):356]. Headache. 2015;55(1):21–34.
+4. Headache Classification Committee of the International Headache Society (IHS). The international classification of headache disorders, 3rd edition (beta version). Cephalalgia. 2013;33(9):629–808.
+5. Gilmore B, Michael M. Treatment of acute migraine headache [published correction appears in Am Fam Physician. 2011;84(7):738]. Am Fam Physician. 2011;83(3):271–280.
+6. Wilson JF. In the clinic. Migraine [published correction appears in Ann Intern Med 2008;148(5):408]. Ann Intern Med. 2007;147(9): ITC11-1–ITC11-16.
+7. Ebell MH. Diagnosis of migraine headache. Am Fam Physician. 2006;74(12):2087–2088.
+8. Marmura MJ, Silberstein SD, Schwedt TJ. The acute treatment of migraine in adults: the American Headache Society evidence assessment of migraine pharmacotherapies. Headache. 2015;55(1):3–20.
+9. Detsky ME, McDonald DR, Baerlocher MO, Tomlinson GA, McCrory DC, Booth CM. Does this patient with headache have a migraine or need neuroimaging? JAMA. 2006;296(10):1274–1283.
+10. Agency for Healthcare Research and Quality. Diagnosis and treatment of headache. Updated January 2013. https://www.guideline.gov/summaries/summary/43791. Accessed November 8, 2016.
+11. Becker WJ, Findlay T, Moga C, Scott NA, Harstall C, Taenzer P. Guideline for primary care management of headache in adults. Can Fam Physician. 2015;61(8):670–679.
+12. Becker WJ. Acute migraine treatment. Continuum (Minneap Minn). 2015;21(4 Headache):953–972.
+13. Lipton RB, Stewart WF, Stone AM, Láinez MJ, Sawyer JP; Disability in Strategies of Care Study group. Stratified care vs step care strategies for migraine: the Disability in Strategies of Care (DISC) Study: a randomized trial. JAMA. 2000;284(20):2599–2605.
+14. Silberstein SD, Holland S, Freitag F, Dodick DW, Argoff C, Ashman E. Evidence-based guideline update: pharmacologic treatment for episodic migraine prevention in adults: report of the Quality Standards Subcommittee of the American Academy of Neurology and the American Headache Society [published correction appears in Neurology. 2013;80(9):871]. Neurology. 2012;78(17):1337–1345.
+15. Derry S, Moore RA. Paracetamol (acetaminophen) with or without an antiemetic for acute migraine headaches in adults. Cochrane Database Syst Rev. 2013;(4):CD008040.
+16. Kirthi V, Derry S, Moore RA. Aspirin with or without an antiemetic for acute migraine headaches in adults. Cochrane Database Syst Rev. 2013;(4):CD008041.
+17. Rabbie R, Derry S, Moore RA. Ibuprofen with or without an antiemetic for acute migraine headaches in adults. Cochrane Database Syst Rev. 2013;(4):CD008039.
+18. Lipton RB, Grosberg B, Singer RP, et al. Efficacy and tolerability of a new powdered formulation of diclofenac potassium for oral solution for the acute treatment of migraine: results from the International Migraine Pain Assessment Clinical Trial (IMPACT). Cephalalgia. 2010;30(11):1336–1345.
+19. Suthisisang CC, Poolsup N, Suksomboon N, Lertpipopmetha V, Tepwitukgid B. Meta-analysis of the efficacy and safety of naproxen sodium in the acute treatment of migraine. Headache. 2010;50(5):808–818.
+20. Goldstein J, Silberstein SD, Saper JR, Ryan RE Jr, Lipton RB. Acetaminophen, aspirin, and caffeine in combination versus ibuprofen for acute migraine: results from a multicenter, double-blind, randomized, parallel-group, single-dose, placebo-controlled study. Headache. 2006;46(3):444–453.
+21. Goldstein J, Silberstein SD, Saper JR, et al. Acetaminophen, aspirin, and caffeine versus sumatriptan succinate in the early treatment of migraine: results from the ASSET trial. Headache. 2005;45(8):973–982.
+22. Cameron C, Kelly S, Hsieh SC, et al. Triptans in the acute treatment of migraine: a systematic review and network meta-analysis. Headache. 2015;55(suppl 4):221–235.
+23. Derry CJ, Derry S, Moore RA. Sumatriptan (all routes of administration) for acute migraine attacks in adults - overview of Cochrane reviews. Cochrane Database Syst Rev. 2014;(5):CD009108.
+24. Brandes JL, Kudrow D, Stark SR, et al. Sumatriptan-naproxen for acute treatment of migraine: a randomized trial. JAMA. 2007;297(13):1443–1454.
+25. Syed YY. Sumatriptan/naproxen sodium: a review in migraine. Drugs. 2016;76(1):111–121.
+26. Law S, Derry S, Moore RA. Sumatriptan plus naproxen for the treatment of acute migraine attacks in adults. Cochrane Database Syst Rev. 2016;(4):CD008541.
+27. Thorlund K, Toor K, Wu P, et al. Comparative tolerability of treatments for acute migraine: a network meta-analysis. Cephalalgia. 2017;37(10):965–978.
+28. Saper JR, Silberstein S. Pharmacology of dihydroergotamine and evidence for efficacy and safety in migraine. Headache. 2006;46(suppl 4):S171–S181.
+29. Kelley NE, Tepper DE. Rescue therapy for acute migraine, part 2: neuroleptics, antihistamines, and others [published correction appears in Headache. 2012;52(3):527]. Headache. 2012;52(2):292–306.
+30. Callan JE, Kostic MA, Bachrach EA, Rieg TS. Prochlorperazine vs. promethazine for headache treatment in the emergency department: a randomized controlled trial. J Emerg Med. 2008;35(3):247–253.
+31. Kelley NE, Tepper DE. Rescue therapy for acute migraine, part 3: opioids, NSAIDs, steroids, and post-discharge medications. Headache. 2012;52(3):467–482.
+32. Bigal ME, Bordini CA, Tepper SJ, Speciali JG. Intravenous magnesium sulphate in the acute treatment of migraine without aura and migraine with aura. A randomized, double-blind, placebo-controlled study. Cephalalgia. 2002;22(5):345–353.
+33. Cete Y, Dora B, Ertan C, Ozdemir C, Oktay C. A randomized prospective placebo-controlled study of intravenous magnesium sulphate vs. metoclopramide in the management of acute migraine attacks in the emergency department. Cephalalgia. 2005;25(3):199–204.
+34. Friedman BW, Garber L, Yoon A, et al. Randomized trial of IV valproate vs metoclopramide vs ketorolac for acute migraine. Neurology. 2014;82(11):976–983.
+35. Bakhshayesh B, Seyed Saadat SM, Rezania K, Hatamian H, Hossieninezhad M. A randomized open-label study of sodium valproate vs sumatriptan and metoclopramide for prolonged migraine headache. Am J Emerg Med. 2013;31(3):540–544.
+36. Tanen DA, Miller S, French T, Riffenburgh RH. Intravenous sodium valproate versus prochlorperazine for the emergency department treatment of acute migraine headaches: a prospective, randomized, double-blind trial. Ann Emerg Med. 2003;41(6):847–853.
+37. Friedman BW, Cabral L, Adewunmi V, et al. Diphenhydramine as adjuvant therapy for acute migraine: an emergency department-based randomized clinical trial. Ann Emerg Med. 2016;67(1):32–39.e3.
+38. Sun H, Bastings E, Temeck J, et al. Migraine therapeutics in adolescents: a systematic analysis and historic perspectives of triptan trials in adolescents. JAMA Pediatr. 2013;167(3):243–249.
+39. Richer L, Billinghurst L, Linsdell MA, et al. Drugs for the acute treatment of migraine in children and adolescents. Cochrane Database Syst Rev. 2016;(4):CD005220.
+40. Patniyot IR, Gelfand AA. Acute treatment therapies for pediatric migraine: a qualitative systematic review. Headache. 2016;56(1):49–70.
+41. Gelfand AA, Goadsby PJ. Treatment of pediatric migraine in the emergency room. Pediatr Neurol. 2012;47(4):233–241.
+42. Lewis D, Ashwal S, Hershey A, Hirtz D, Yonker M, Silberstein S. Practice parameter: pharmacological treatment of migraine headache in children and adolescents: report of the American Academy of Neurology Quality Standards Subcommittee and the Practice Committee of the Child Neurology Society. Neurology. 2004;63(12):2215–2224.
+43. Nezvalová-Henriksen K, Spigset O, Nordeng H. Triptan exposure during pregnancy and the risk of major congenital malformations and adverse pregnancy outcomes: results from the Norwegian Mother and Child Cohort Study [published correction appears in Headache. 2012;52(8):1319–1320]. Headache. 2010;50(4):563–575.
+44. Aukerman G, Knutson D, Miser WF. Management of the acute migraine headache. Am Fam Physician. 2002;66(11):2123–2130.
+Add/view comments
+Hide comments
+Copyright © 2018 by the American Academy of Family Physicians.
+This content is owned by the AAFP. A person viewing it online may make one printout of the material and may use that printout only for his or her personal, non-commercial reference. This material may not otherwise be downloaded, copied, printed, stored, transmitted or reproduced in any medium, whether now known or later invented, except as authorized in writing by the AAFP. Contact afpserv@aafp.org for copyright questions and/or permission requests.
+PDF
+PRINT
+COMMENTS
+ADD TO FAVORITES REMOVE FAVORITE
+This page will be removed from your Favorites Links. Are you sure?
+SHARE
+Want to use this article elsewhere? Get Permissions
+Advertisement
+More in AFP
+Editor's Collections
+Headache
+Related Content
+Headache
+More in Pubmed
+Citation
+Related Articles
+MOST RECENT ISSUE
+Apr 15, 2019
+Access the latest issue of American Family Physician
+Read the Issue
+Email Alerts
+Don't miss a single issue. Sign up for the free AFP email table of contents.
+Sign Up Now
+Navigate this Article
+Continue reading from February 15, 2018
+Previous: AAFP News: AFP Edition
+Next: Vitamin D Screening and Supplementation in Community-Dwelling Adults: Common Questions and Answers
+View the full table of contents >>
+Home / Journals / afp / Vol. 97/No. 4(February 15, 2018) / Acute Migraine Headache: Treatment Strategies

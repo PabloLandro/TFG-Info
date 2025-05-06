@@ -1,0 +1,105 @@
+Inherited Cancers: Susceptibility And Features - Online Cancer Blog
+CANCER INFO
+CANCER NEWS
+CANCER TREATMENT
+CANCERS
+Breast Cancer
+Prostate Cancer
+Lung Cancer
+Colon Cancer
+Cervical Cancer
+Skin Cancer
+Colon Cancer
+Brain Cancer
+Kidney Cancer
+Search
+Bladder Cancer
+Bone Cancer
+Brain Cancer
+Breast Cancer
+Heart Cancer
+Kidney Cancer
+Blood Cancer
+Lip Cancer
+Liver Cancer
+Lung Cancer
+Vulvar Cancer
+Tongue Cancer
+Online Cancer Blog
+CANCER INFO
+CANCER NEWS
+CANCER TREATMENT
+CANCERS
+Breast Cancer
+Prostate Cancer
+Lung Cancer
+Colon Cancer
+Cervical Cancer
+Skin Cancer
+Colon Cancer
+Brain Cancer
+Kidney Cancer
+Home Cancer Info Inherited Cancers: Susceptibility And Features
+Inherited Cancers: Susceptibility And Features
+Share on Facebook
+Tweet on Twitter
+All cancers are caused by alteration or mutation of genes and in so far as that is concerned all cancers are genetic.
+However all cancers are not genetic in that it is inherited; cancer is caused by inherited predisposition only in 5 to 10% according to some experts.
+Further there are some kinds of cancer that owe themselves more or less to inheritance according to their types.
+For instance lung cancer owes itself more to environmental risk factors such as smoking, dietary habits or exposure to certain pollutants while cancers of the breast tend to owe themselves to genetic or inherited susceptibility as well.
+The range of cancers, the age at onset, and the number of generations affected all suggest familial risk being a factor in the incidence of developing cancer.
+Further different types of cancer occurring within one family can also indicate some inherited predisposition as in the case of breast and ovarian cancer, breast and sarcoma, colorectal, uterine ovarian and stomach cancers.
+Having a close relative who has cancer does increase a person’s risk of cancer and there are ways to identify if the member of certain families have a predisposition to or risk from cancer, which are sometimes known as ‘red flags’:
+The autosomal dominant pattern of inheritance which has several members of a family suffering from cancer and that pattern is repeated or observed over several generations.
+When cancer strikes early. Early onset is usually defined as cancer that is contracted by a person below 50 years of age.
+When a person displays cancer clusters as multiple cancers such as cancers of the breast and the ovary, of the colon and the uterus etc.
+Multiple cancers other than cancer clusters or a cancer that starts from one organ or site and then extends to other organs or part of the body. Here there is more than one cancer but they take place as separate occurrences that do not have a common origin. These are known as multiple primary cancers.
+The incidence of rare cancers such as male breast cancer etc
+Experts suggest that families that have such genetic predisposition towards developing cancer could benefit from counseling from a geneticist or counselor so that this predisposition in terms of the family’s history can be better understood.
+SHARE
+Facebook
+Twitter
+tweet
+Previous articleBill Henderson And His Story
+Next articleThe Estrogen And Breast Cancer Controversy
+pnreddy1
+RELATED ARTICLESMORE FROM AUTHOR
+Cancer Info
+Chocolates Help Fight Cancer- Myth or Truth?
+Cancer Info
+4 Cancer Myths: About What Increases or Decreases Your Risk of Cancer
+Cancer Info
+How Broccoli Fights Against Cancer
+Cancer Info
+Why do Lymph Nodes Swell?
+Cancer Info
+Is jackfruit a Powerful Cancer Killer?
+Cancer Info
+How vitamin B 17 cures cancer?
+Cancer Info
+Does Sulforaphane promote Detoxification and Stops Cancer?
+Cancer Info
+How Dandelion Tea helps to Kill Cancer?
+Cancer Info
+4 Effective Natural Ways to Prevent Radiation Burn
+Latest
+Lung Cancer
+The Survival Rate of Each Lung Cancer Stage
+Cancer Info
+Chocolates Help Fight Cancer- Myth or Truth?
+Breast Cancer
+Top 6 Symptoms That Indicate Breast Cancer
+Brain Cancer
+Signs and Signals Indicating Brain Cancer
+Kidney Cancer
+5 Symptoms Not to Ignore for Kidney Cancer
+Bone Cancer
+5 Common Reasons for Bone Cancer
+Contact
+Sitemap
+Privacy Policy
+Terms of Use
+© Online Cancer Guide 2018 • All rights reserved.
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+Edit with Live CSS
+.wpb_wrapper ul li{ font-family: "Roboto Condensed"; font-size: 17px; line-height: 22px; font-weight: normal; }

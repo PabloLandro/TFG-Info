@@ -1,0 +1,71 @@
+Infections with Human Papillomavirus: Are Intralesional Therapies a Promising Approach?
+Toggle navigation
+Home
+Aims and scope
+Editorial Board
+Articles
+Author Guidelines
+Instructions for Authors
+Submit manuscript
+Contact
+Table of Contents
+Abstract
+Introduction
+Patients and Methods
+Results
+Discussion
+Conclusion
+References
+Editorial
+Infections with Human Papillomavirus: Are Intralesional Therapies a Promising Approach?
+Ryan S. Sefcik1* and Craig G. Burkhar2
+1University of Toledo College of Medicine, USA
+2Department of Medicine, University of Toledo College of Medicine, USA
+*Corresponding author: Ryan Sefcik, University of Toledo College of Medicine, Ohio, USA
+Published: 02 Apr, 2018
+Cite this article as:Sefcik RS, Craig G. Infections with Human Papillomavirus: Are Intralesional Therapies a Promising Approach?. J Dermatol Plast Surg. 2018; 3(1): 1020. ISSN: 2475-5753
+Editorialt
+Human Papillomavirus (HPV) is a specific DNA virus that infects mammalian epithelial cells causing benign warts or verrucae on the skin. Over 100 HPV genomes have been detected through advances in molecular biology. One of the important advancement includes Polymerase Chain Reactions (PCR), which provide specific and sensitive means of detecting the viral genomes [1-3]. Furthermore, studies have shown that many infants are born with a particular HPV genotype in their epithelial cells which is likely a result of infections caused by vertical transmission in utero, vertical transmission during delivery, fomite transmission, or skin to skin contact [4-7].
+There are three main ways in which HPV virus infection presents; endogenous, exogenous, and latent infections. Endogenous warts are present at birth or shortly after and are a result of a failure to control one’s own HPV genome [8]. Exogenous warts are those that are acquired by horizontal transmission between members of the population [8]. Latent infections occur when HPV infects host normal epithelia with no clinical sign of disease [9,10]. Some HPV genotypes have more detrimental effects, such as increased malignant potential, and are linked to dysplasia and cancer, especially when located on mucosal surfaces [11]. Therefore, HPV infection, transmission, and treatments are interesting and important areas of study due to the significant impact that can be made from understanding and treating such infections in the clinical setting.
+Currently, several treatment options exist for treating HPV induced cutaneous warts and verrucae; however, there is no single treatment that can ensure a complete response with lack of lesion recurrence. As a result, these lesions can be both challenging and frustrating for the physician and patient. Current treatment options for treating warts and verrucae caused by HPV include: topical treatments (commonly salicylic acid), cryotherapy, LASER therapy, photodynamic therapy, surgical excision, immunotherapies, and home remedies such as duct tape or tea tree oil [12-14]. Our primary focus for HPV research is the use of immunotherapies to treat the virus and resulting warts or verrucae. Recently, we published a manuscript titled, “Wart Immunotherapies: A Short Review” in The Open Dermatology Journal. The manuscript reviewed the efficacy and costs of various wart contact immunotherapies, contact allergens, intralesional immunotherapies, and intralesional cytotoxic agents.
+With so many HPV genotypes, immunotherapies present a promising and exciting approach to treating HPV-induced cutaneous lesions in patients because they utilize a more systemic response in the body. Unlike various other options for treating warts or verrucae, immunotherapies have the ability to target specific lesions as well as upregulate the immune system to recognize and destroy the lesions at distant locations [15]. Although the mechanism is not fully understood, immunotherapies are believed to work by inducing a systemic T-cell mediated response within the host. This more systemic approach has shown to be an inexpensive, effective method for treating individuals with multiple recalcitrant warts [15]. It is also suggested that the injection itself may play a role in inducing an immune response at lesions near the injection site [16].
+From our previous review, it was determined that several antigens present as efficacious, costeffective treatments for HPV-induced warts and lesions. These treatments range in price from around $10 US to over $1000 US to achieve a complete response. Some of the cheaper options included: MMR antigen, Candida antigen, PPD, BCG, and killed Myobacterium w. These range in price from as low as $7 US to around $190 US [17]. Interesting to note, these were all cheaper than cryotherapy, one of the most used treatments for warts in the clinic, which costs approximately $562 US for a complete response [17]. Additionally, the listed antigens have the potential to induce a systemic response unlike cryotherapy which can only affect warts at the site of treatment. The inability to induce a systemic response is a major disadvantage for cryotherapy as those with several warts, large colonies of warts, or warts on many locations on the body will likely have to receive multiple costly and painful treatments for a complete response.
+Although the previously mentioned manuscript focused on HPV induced warts and verrucae, it is important to note that these same concepts can be applied to the treatment of HPV genotypes which have more detrimental effects, such as dysplasia and cancer, as mentioned above. Some vaccinations, such as Gardasil® , Gardasil®9, and Cervarix® , are currently in use in the clinical setting which aims to combat these HPV genotypes [18]. These vaccines work much in the same way that wart immunotherapies work in that they utilize the host immune system to mount a response and develop future immunity to infection. Despite the successes of these vaccines, there are many more genotypes which will go untreated leading to warts or verrucae in the patient.
+Since so many individuals are affected by HPV at some point in their life, exploring new mechanisms of treatments and fine-tuning current methods are important areas of study. Several randomizedcontrolled studies have shown immunotherapies to be efficacious and cost effective. However, more randomized comparison studies will need to be completed in order to determine best antigen and correct standardized doses. It is also important to note individual responses to antigens may vary among patients and no treatment is totally curable nor painless. For now, one should discuss the various options with each patient and the best option should be chosen on an individual basis. Likewise, there are currently too many variables at this point to have a definitive treatment plan outlined. Some such variables include: dose, host response, related pain, and wart severity. Therefore, further studies, specifically those which link specific HPV genotypes and response to treatment options, may play an important role in the use of immunotherapies in a clinical setting moving forward.
+References
+Castle PE, Sadorra M, Lau T, Aldrich C, Garcia FA, Kornegay J. Evaluation of a prototype real-time PCR assay for carcinogenic human papillomavirus (HPV) detection and simultaneous HPV genotype 16 (HPV16) and HPV18 genotyping. Journal of clinical microbiology. 2009;47(10):3344-7.
+Speich N, Schmitt C, Bollmann R, Bollmann M. Human papillomavirus (HPV) study of 2916 cytological samples by PCR and DNA sequencing: genotype spectrum of patients from the west German area. Journal of medical microbiology. 2004;53(2):125-8.
+Sotlar K, Diemer D, Dethleffs A, Hack Y, Stubner A, Vollmer N, et al. Detection and typing of human papillomavirus by e6 nested multiplex PCR. Journal of clinical microbiology. 2004;42(7):3176-84.
+Rice PS, Cason J, Best JM, Banatvala JE. High risk genital papillomavirus infections are spread vertically. Reviews in medical virology. 1999;9(1):15- 21.
+Armstrong DK, Handley JM. Anogenital warts in prepubertal children: pathogenesis, HPV typing and management. International journal of STD & AIDS. 1997;8(2):78-81.
+Smith EM, Parker MA, Rubenstein LM, Haugen TH, Hamsikova E, Turek LP. Evidence for vertical transmission of HPV from mothers to infants. Infectious diseases in obstetrics and gynecology. 2010;2010.
+Burkhart CG. The endogenous, exogenous, and latent infections with human papillomavirus. International journal of dermatology. 2004;43(7):548-9.
+Astori G, Lavergne D, Benton C, Höckmayr B, Egawa K, Garbe C, et al. Human papillomaviruses are commonly found in normal skin of immunocompetent hosts. Journal of investigative dermatology. 1998;110(5):752-5.
+Terai M, Hashimoto K, Yoda K, Sata T. High prevalence of human papillomaviruses in the normal oral cavity of adults. Molecular Oral Microbiology. 1999;14(4):201-5.
+Munoz N, Castellsagué X, de González AB, Gissmann L. HPV in the etiology of human cancer. Vaccine. 2006;24:S3/1-10.
+Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, HandfieldJones SE. British Association of Dermatologists' guidelines for the management of cutaneous warts 2014. British Journal of Dermatology. 2014;171(4):696-712.
+Wenner R, Askari SK, Cham PM, Kedrowski DA, Liu A, Warshaw EM. Duct tape for the treatment of common warts in adults: a double-blind randomized controlled trial. Archives of dermatology. 2007;143(3):309-13.
+Pazyar N, Yaghoobi R, Bagherani N, Kazerouni A. A review of applications of tea tree oil in dermatology. International journal of dermatology. 2013;52(7):784-90.
+. Aldahan AS, Mlacker S, Shah VV, Kamath P, Alsaidan M, Samarkandy S, et al. Efficacy of intralesional immunotherapy for the treatment of warts: A review of the literature. Dermatologic therapy. 2016;29(3):197-207.
+Nofal A, Salah E, Nofal E, Yosef A. Intralesional antigen immunotherapy for the treatment of warts: Current concepts and future prospects. American journal of clinical dermatology. 2013;14(4):253-60.
+Clemons RJ, Clemons-Miller A, Johnson SM, Williamson SK, Horn TD. Comparing therapy costs for physician treatment of warts. J Drugs Dermatol. 2003;2(6):649-54
+Petrosky E, Bocchini Jr JA, Hariri S, Chesson H, Curtis CR, Saraiya M, et al. Use of 9-valent human papillomavirus (HPV) vaccine: updated HPV vaccination recommendations of the advisory committee on immunization practices. MMWR Morb Mortal Wkly Rep. 2015;64(11):300-4.
+Download PDF
+Export citations
+SHARE THIS ARTICLE
+SECTION
+Journal of Dermatology and Plastic Surgery
+GET IN TOUCH, LET'S WORK TOGETHER
+Contact Us
+Editorial Office
+Remedy Publications
+820 EL, Camino Real, CA.94002
+Phone : +1 415-690-1011
+E-mail: contact@remedypublications.com
+Offshore
+Remedy Publications
+SN Techno Space, 1-98/4/154, First Floor, Hi-tech City
+Hyderabad, Telangana, India.
+Phone : 040 - 6522 3636
+E-mail: contact@remedypublications.com
+Copyright 2016 © Remedy Publications All Rights Reserved

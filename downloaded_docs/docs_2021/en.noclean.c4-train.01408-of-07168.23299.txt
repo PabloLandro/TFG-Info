@@ -1,0 +1,93 @@
+What’s the Difference Between Blue, Red And White Light Therapy?
+Is Light Therapy for You?
+Acne and Light Therapy
+Depression and Light Therapy
+Blue and Red Light
+More
+How Does LED Light Therapy Work?
+How Effective Is Light Therapy in Treating Anxiety?
+Blue, Red and White Light Therapy
+Blue Light As An Acne Treatment
+Depression and Light Therapy
+Does Vitamin D Give You Energy?
+10 Ways Red Light Therapy Can Help Your Skin
+Is Red Light Therapy Save?
+Light Therapy and Anti-Aging
+Light Therapy For Babies: What Every Parent Should Know
+How Red Light Therapy Can Relieve Joint Pain
+Red Light Laser Therapy For Hair Loss
+How Light Therapy Helps Me Get 7 Hours of Healthy Sleep
+The Effects of Light on the Brain
+How Does Red Light Therapy Work?
+Red Light Therapy for Rosacea: Things You Need To Know Now
+Search
+Sign in
+Welcome! Log into your account
+your username
+your password
+Forgot your password? Get help
+Password recovery
+Recover your password
+your email
+A password will be e-mailed to you.
+brightenyourmood.com
+Is Light Therapy for You?
+Acne and Light Therapy
+Depression and Light Therapy
+Blue and Red Light
+More
+How Does LED Light Therapy Work?
+How Effective Is Light Therapy in Treating Anxiety?
+Blue, Red and White Light Therapy
+Blue Light As An Acne Treatment
+Depression and Light Therapy
+Does Vitamin D Give You Energy?
+10 Ways Red Light Therapy Can Help Your Skin
+Is Red Light Therapy Save?
+Light Therapy and Anti-Aging
+Light Therapy For Babies: What Every Parent Should Know
+How Red Light Therapy Can Relieve Joint Pain
+Red Light Laser Therapy For Hair Loss
+How Light Therapy Helps Me Get 7 Hours of Healthy Sleep
+The Effects of Light on the Brain
+How Does Red Light Therapy Work?
+Red Light Therapy for Rosacea: Things You Need To Know Now
+Home Blue Light Therapy Blue, Red and White Light Therapy
+Blue, Red and White Light Therapy
+Share on Facebook
+Tweet on Twitter
+Acne, insomnia, depression and other skin conditions such as Rosacea are arguably some of the most common and widespread conditions afflicting millions of people worldwide.
+Many of the traditional or mainstream treatments used to cure these conditions can have significant side effects such as increased depression, mania, chronic fatigue, and complex skin conditions. Light therapy is quite a new treatment that is now being used to alleviate sleep﻿﻿ disorder﻿﻿s, treat mild to moderate skin conditions, ease joint pain or fight depression.
+Blue vs White Light Therapy Lamps
+Blue and white therapy lamps are the most common and these are preferably what you should be looking at when buying a therapy box or light therapy lamp for home use.
+Historically, light therapy boxes have utilized white light, which is said to closely resemble the full spectrum of light emitted by the sun. I’ll be honest: it is very doubtful that commercially produced light can come close to the full light spectrum of the sun.
+In fact, the therapy lamps that use white light come with up to 10,000 lux (lux is a measure of light intensity) maximum.
+On a bright, sunny day, the natural light registers at least 50,000 lux! Over the years, I have used lamps that emit white light and they have been effective in helping me cope with bouts of the winter blues.
+However, I have had to spend a little more time (about 60 minutes) seated in front of the lamp to fully experience the benefits. Nevertheless, the amount of time you spend in front of the lamp will vary from manufacturer to manufacturer.
+How About Blue Light?
+Recently, more and more manufacturers are producing light therapy boxes that utilize blue light. Medical experts who recommend blue light claim that this type of light comprises a particular wavelength that is effective at stimulating the melanopsin photoreceptors. In turn, the brain responds to the benefits of light therapy.
+It is also claimed that the short blue light wavelengths utilize a much lower level of intensity (as little as 500 lux) to achieve the same effects as 10,000 lux of white light. In effect, blue light devices are much smaller because the unnecessary light wavelengths have been eliminated.
+I have used blue light devices for a couple of years now and they are as effective as white light lamps. The only difference I have noticed is that I only need to be exposed to the light lamp for about 30 minutes in the morning and I am good to go for the day.
+However, blue light has been criticized for causing degeneration of the eye muscles. What, I would recommend is that you avoid exposing yourself to blue light if you have any eye conditions or you are at risk. Regardless of whether you use white, blue or green light therapy device, the most important thing is to avoid looking into the light directly, just as you would not look at the sun directly.
+Which Color of Light Therapy Is the Best?
+A better approach would be to not pay too much attention to the light color. Other factors are far more important when it comes down to making a decision about which light therapy device you should buy. This is what I always look for:
+Is it easy to use, portable and does not require too much fidgeting to get it working?
+Has the device clinically tested and approved by the FDA (or a well know body such as the National Sleep Foundation) to be safe?
+How long do I have to expose myself to the light to enjoy optimal benefits?
+Are they UV-light free?
+Remember that if you have any preexisting eye condition or related risk factors, you are better off going with a lamp that does not expose you to too much light intensity. It is also important to check with your doctor if you suffer from any medical conditions before using any light therapy devices.
+SHARE
+Facebook
+Twitter
+tweet
+thetherapist
+Related Articles
+How to Get Rid of Keloid
+How to Get Rid of Fever Blisters
+How to Get Gum out of Your Hair
+Natural Remedies for Skin Fungus
+What Is the Best Waterproof Makeup to Cover up Tattoos?
+The Best Hair Removal Cream for Sensitive Skin
+The Best Night Cream for Acne Prone Skin
+© 2018 brightenyourmood.com All rights reserved.
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();

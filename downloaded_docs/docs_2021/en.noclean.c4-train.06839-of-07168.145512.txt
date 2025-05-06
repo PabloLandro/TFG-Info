@@ -1,0 +1,119 @@
+Dr. Don Colbert - Divine Health
+Place an Order: (407) 732-6952
+Wellness Practice: (407) 331-7007
+Menu ≡ ╳
+Shop
+Health Articles
+Health Videos
+Healthy Recipes
+Anti-Aging Protocols
+Health Services
+Keto Zone
+Join a Challenge
+21 Days Detox
+Slender System
+Contact Us
+'); /*optional stylesheet*/ //mywindow.document.write(''); mywindow.document.write('
+'); mywindow.document.write($('.single_title').html()); mywindow.document.write(' '); mywindow.document.write(data); mywindow.document.write('
+'); mywindow.document.close(); // necessary for IE >= 10 mywindow.focus(); // necessary for IE >= 10 mywindow.print(); mywindow.close(); return true; }
+The 5 Best Probiotic Foods for Good Gut Health
+16 Mar, 2018
+7133
+Author: admin
+A simple way to improve your digestion is by eating more fermented foods. That’s because they contain probiotics that:
+Encourage the right balance of good bacteria in your digestive tract so it can filter out harmful toxins, chemicals, and waste
+Offset bad bacteria caused by poor diet, lack of sleep, stress, and environmental toxins to maintain a healthy gut barrier
+Research also shows probiotics can support a healthy immune system and may have protective effects against everything from IBS, constipation, and bloating to autoimmune disorders like Crohn’s disease and ulcerative colitis [1,2,3].
+Choose These Best Probiotic Foods for a Healthy Gut
+You can reap the benefits of probiotics every day by eating the following best probiotic foods. They’re rich in that good bacteria needed for a healthy gut!
+Fermented Vegetables
+The best way to get probiotics and fiber is from whole, fermented vegetables. Sauerkraut and kimchi are the best low-carb choices.
+Sauerkraut
+Sauerkraut is fermented cabbage high in organic acids and enzymes. It contains probiotics, fiber, vitamins B, C, and K, iron, manganese, folate, copper, and potassium, all important for gut health and overall wellness.
+Kimchi
+Kimchi is a reddish cabbage fermented with salt, garlic, vinegar, chile peppers, and other spices. A very popular condiment in Korea, kimchi is rich in probiotics and has lots of benefits.
+Besides supporting your gut with healthy bacteria, a number of studies have shown eating fermented kimchi may significantly decrease blood pressure, BMI, weight, total cholesterol, fasting, and more [4,5,6].
+Note: Eat sauerkraut and kimchi in small, condiment-sized portions, as large amounts may cause bacterial imbalance.
+Milk or Water Kefir
+Kefir is fermented and cultured drink made from a combination of yeast, bacteria, and either milk or water. Kefir is great for healing gut and digestion function.
+Although kefir initially contains sugar, its bacteria actually eat up that sugar, making it a keto-friendly food. It also contains calcium and protein (if made with milk), B vitamins, and potassium.
+Unsweetened Yogurt
+Yogurt can be a great probiotic keto snack. But make sure it has no added carbs from sugar or fruits, as these will take you out of the Keto Zone!
+Look for full-fat, organic and/or grass-fed yogurt from cows, sheep, or goats as much as possible. These options are more nutritious and less likely to contain pesticides, antibiotics, or hormones along with that beneficial bacteria.
+Low-Sugar Kombucha
+Kombucha is a fermented black or green tea full of probiotics, enzymes, and beneficial vitamins and minerals for gut health.
+Kombucha has a range of health benefits for your digestion, immunity, joint health, and detoxification. Make sure the kombucha is:
+A low-sugar brand, as many kombucha varieties have a lot of sugar that will kick you out of the Keto Zone (check the sugar and net carb grams to be sure)
+Packaged in a dark glass bottle, as too much UV light can kill the good bacteria inside
+Organic, raw, and unpasteurized (pasteurization kills the friendly probiotics!)
+If you can’t find low-sugar kombucha, probiotic vinegar is a good alternative that’s still highly beneficial.
+Divine Health Probiotic Foods and Supplements
+Dr. Colbert offers several products offering the benefits of probiotics plus more:
+Probiotics Plus Prebiotics: a new product with a comprehensive blend of maximum-benefit probiotics plus prebiotics
+Living Chia: ground chia seeds plus added probiotics
+Fermented Green and Red Supremefoods for daily probiotics from 10 fermented veggies and four fermented grasses!
+Boost your gut health daily by consuming these best probiotic foods along with a healthy diet and lifestyle.
+Sources
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3448089/
+2. https://www.ncbi.nlm.nih.gov/pubmed/25099542
+3. https://link.springer.com/article/10.1007/s11894-015-0439-z
+4. https://www.ncbi.nlm.nih.gov/pubmed/21745625
+5. https://www.ncbi.nlm.nih.gov/pubmed/23444963
+6. https://www.ncbi.nlm.nih.gov/pubmed/24456367
+Check Out More Keto Articles Join Our Keto Group
+Health Articles 429
+Health Tips 233
+Uncategorized 31
+- Previous article
+« Zesty Keto Meatballs with Asian Style Dipping Sauce
+Next article -
+Amazing New Keto Bread Recipe »
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Comment
+Name *
+Email *
+Website
+Facebook
+×
+Sign Up Now
+CONTACT US
+Call: 407-331-7007
+Speaking Engagements
+info@drcolbert.com
+Schedule Appointment with Dr. Colbert
+appointments@drcolbert.com
+Fill a Prescription
+medicalasst@drcolbert.com
+CONTACT US
+Supplement Questions
+info@drcolbert.com
+Apply to Divine Health
+ashlea@drcolbert.com
+Resell Divine Health Supplements
+ashlea@drcolbert.com
+Technical Questions
+ashlea@drcolbert.com
+LINKS
+Australia Distributor
+China Distributor
+Home page
+Health Articles
+Health Services
+Shop
+Join 21 Days Detox
+Join 21 Day Keto Zone Challenge
+FREE SHIPPING
+FREE Shipping on orders over $175*
+Click Here for Details
+WE SHIP VIA
+© All rights reserved 2019 - Dr. Don Colbert.
+Privacy Policy.
+Login
+Username
+Password
+Remember Me
+Forgotten Password?
+Username or Email
+Lost your password?
+| Back to Login

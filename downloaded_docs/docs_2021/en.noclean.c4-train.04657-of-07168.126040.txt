@@ -1,0 +1,82 @@
+Breathing Exercises - Do They Help Relieve Asthma Symptoms? - Allergy Asthma Blog
+ALLERGY
+ALLERGY TREATMENT
+ASTHMA
+ASTHMA TREATMENT
+LIVING WITH ASTHMA
+ALLERGY ASTHMA
+More
+AIRBORNE ALLERGIES
+CHILDHOOD ASTHMA
+FOOD ALLERGIES
+PET ALLERGIES
+Search
+Home
+Contact
+Allergy Asthma Blog
+ALLERGY
+ALLERGY TREATMENT
+ASTHMA
+ASTHMA TREATMENT
+LIVING WITH ASTHMA
+ALLERGY ASTHMA
+More
+AIRBORNE ALLERGIES
+CHILDHOOD ASTHMA
+FOOD ALLERGIES
+PET ALLERGIES
+Home ASTHMA TREATMENT Breathing Exercises – Do They Help Relieve Asthma Symptoms?
+Breathing Exercises – Do They Help Relieve Asthma Symptoms?
+Share on Facebook
+Tweet on Twitter
+Asthma is a debilitating condition that affects the young and adult alike; it needs lifelong management to help maintain quality of life. And since the problem involves a breathing disorder, will breathing exercises help relieve the symptoms?
+There are three known types of breathing exercises used in alternative medicine and they are:
+Buteyko:
+This breathing exercise theorized by the late Dr. Konstantin Buteyko was based on the principle that asthmatic patients tend to over breathe while having an attack.
+So this exercise will help patients how to do controlled breathing during attacks therefore minimizing the amount of carbon dioxide in the body and improving the function of airway smooth muscles.
+Papworth:
+Developed in Papworth Hospital in England during the 1960’s this breathing exercise focuses on nasal breathing, abdominal breathing and the patient’s individual breathing pattern.
+The objective of this principle is for the patient to have a control on what type of breathing pattern to do to cope up with various activities making them able to deal with the environment and temperature changes, exposure to pollutants & allergens and various emotional responses.
+Pranayama:
+Originated in India, this is a type of yoga that is more focused on breathing techniques that incorporates exercises that improve lung functionality and promote relaxation.
+Pranayama utilizes breathing methods to expand the lung capacity improving circulation and giving asthmatics more control of their breathing pattern.
+Although these breathing exercises have proven benefits in gaining control of one’s reaction to asthma triggers and being able to cope up with considerable amount of stress, medications could not be done away with.
+In fact a study made by researchers from the Department of General Practice and Primary Care at the University of Aberdeen in Aberdeen, UK stated that the quality of life of patients who performed breath training exercises was significantly improved.
+Feelings of anxiety and depression during asthma attacks were decreased with breath training exercises which were associated with better control of asthma attacks.
+Another finding stated that the peak expiratory flow rate of these same patients did not show significant changes after doing breath training exercises.
+As a conclusion therefore, breathing exercises may help improve the quality of life of patients who are already debilitated by the condition, but, does not necessarily mean that symptoms are relieved and that the need for medication is minimized.
+SHARE
+Facebook
+Twitter
+tweet
+admin2
+RELATED ARTICLESMORE FROM AUTHOR
+Treating Asthma With Honey
+Steps to Manage an Asthma Episode- First Aid for Asthma
+Do’s and Dont’s for Asthma Patient’s Diet
+How to Treat Asthma with Fish Oil?
+Facts you Need to Know about Bronchial Thermoplasty
+Salt Therapy – The Latest Effective Treatment Method for Asthma
+Tips to Make your Home Asthma-Free Zone
+How to Prevent Asthma through Yoga
+Side Effects Of Using Asthma Inhalers
+LEAVE A REPLY Cancel reply
+Please enter your comment!
+Please enter your name here
+You have entered an incorrect email address!
+Please enter your email address here
+Please enter an answer in digits:
+twenty − seventeen =
+Latest
+All that You Need to Know About Childhood Asthma
+Treating Asthma With Honey
+Is It A Normal Cough Or An Allergy?
+All About ANAPHYLAXIS
+How to Decor your Home for Allergy Free
+Top 6 Tips to Relieve Dust Allergies
+Contact
+Sitemap
+Privacy Policy
+© Allergy Asthma Zone 2018 • All rights reserved.
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+Edit with Live CSS

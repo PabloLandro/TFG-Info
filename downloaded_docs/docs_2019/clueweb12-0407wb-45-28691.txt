@@ -1,0 +1,97 @@
+Connection: close
+Content-Type: text/html; charset=ISO-8859-1
+
+Male circumcision in Britain: findings from a national
+    probability sample survey T HE C IRCUMCISION R EFERENCE L IBRARY SEXUALLY TRANSMITTED INFECTIONS, Volume 79: Pages
+    499-500, December 2003. Male circumcision in Britain: findings from a national probability sample survey Studies from developing countries 1 and sexually transmitted diseases
+      clinics in developed countries 2 show that male circumcision appears to protect against some
+      ulcerative sexually transmitted infections (STIs) and
+      decreases the risk of HIV infection. 3 We used data from the 2000 British
+      National Survey of Sexual Attitudes and Lifestyles (Natsal
+      2000)—a large scale, stratified, probability sample
+      survey—to estimate the prevalence of male circumcision
+      in Britain and investigate its association with key
+      demographic characteristics, sexual behaviours, and reported
+      STI diagnosis. Natsal 2000 methodology details are published
+      elsewhere. 4 For the purposes of
+      this investigation, data from targeted oversampling of black
+      Caribbean, black African, Indian, and Pakistani groups (the
+      Natsal ethnic minority boost) were combined with the main
+      survey data in order to increase the numbers of these
+      respondents included in the analysis. All data were weighted
+      to be representative of the British population and analyses
+      were performed using Stata version 6.0 to take into
+      consideration Natsal 2000’s complex survey
+      design. 4 We found 15.8% (95% confidence interval (CI)
+      14.7 to 17.1) of British men aged 16–44 years reported
+      being circumcised in Natsal 2000. Age specific prevalence was
+      greatest among men aged 40–44 years (19.6%, 95% CI 16.8
+      to 22.7) compared to those aged 16–19 years (11.7%, 95%
+      CI 9.0 to 15.2). With the exception of black Caribbeans, men
+      from all ethnic minority backgrounds were signifi-cantly more
+      likely to report being circumcised compared to men who
+      described their ethnicity as white ((adjusting for
+      demographic variables: age, global region of birth,
+      ethnicity, residence in London, religion, and qualifications)
+      adjusted odds ratio (OR) for self reporting ethnicity as
+      other than white 3.02, 95% CI 2.39 to 3.81, p...0.001). In
+      addition, men born abroad instead of in Britain were
+      significantly more likely to be circumcised ((adjusting for
+      demographic variables: age, global region of birth,
+      ethnicity, residence in London, religion, and qualifications)
+      adjusted OR 1.74, 95% CI 1.25 to 2.42, p...0.001).
+      Significant (p...0.001) variations in the prevalence of
+      circumcision were also observed across the major religious
+      groups, with prevalence being greatest among Jewish men
+      (98.7%, 95% CI 90.1 to 99.8) and lowest among Hindus, Sikhs,
+      and Buddhists (9.8%, 95% CI 4.7 to 9.3). Relative to uncircumcised men, circumcised men
+      were more likely to report having had homosexual partner(s)
+      (7.5% v 5.3%, p =0.012) and partners from abroad (19.7% v
+      13.1%, p...0.001). We did not find any
+      significant differences in the proportion of circumcised and
+      uncircumcised British men reporting ever being diagnosed with
+      any STI (11.1% compared with 10.8%, p =0.815), bacterial STIs
+      (6.4% cf 5.9%, p =0.628), or viral STIs (4.7% cf 4.5%, p
+      =0.786) (table 1). We also found no significant associations
+      between circumcision and being diagnosed with any one of the
+      seven specific STIs. Our findings confirm that the prevalence of
+      male circumcision among British men appears to be declining.
+      This is despite an increase in the proportion of the British
+      population describing their ethnicity as non-white. 5 The lack of association between
+      circumcision status and STI history in this population is
+      consistent with findings from other developed
+      countries 6 and may be because of
+      relatively low prevalence of STIs in this setting, as well as
+      the relatively small proportion of the population who are
+      circumcised. Acknowledgements We thank the study participants, the team of interviewers
+      and operations and computing staff from the National Centre
+      for Social Research who carried out the interviews. Contributors SD drafted the paper and particpated in the statistical
+      analysis, with contributions from CM; KF, AJ, KW and RE were
+      co-investigators and participated in the design and
+      management of the main study. S S Dave The Mortimer Market Centre, Camden
+      Primary Care Trust , off Capper Street, London WC1E 6AU, UK A M Johnson, K A Fenton,
+      C H Mercer Centre for Infectious Disease Epidemiology, Department of Primary Care and Population
+      Sciences and Department of Sexually Transmitted Diseases, Royal Free and University College Medical
+      School , Mortimer Market Centre, off Capper Street, London WC1E 6AE, UK B Erens National
+      Centre for Social Research , 35 Northampton Square, London EC1V 0AX, UK K Wellings London
+      School of Hygiene and Tropical Medicine , Keppel Street, London WC1E 7HT, UK Correspondence to: Dr Sangeeta S Dave,
+      Camden Primary Care Trust, Mortimer Market Centre, off Capper Street, London WC1E 6AU, UK; Sangeeta.Dave@camdenpct.nhs.uk Conflict of interest: None Declared. Accepted for publication 11 July 2003 References Lavreys L , Rakwar JP,
+        Thompson ML, et al . Effect of circumcision on human
+        immunodeficiency virus type 1 and other sexually
+        transmitted diseases: a prospective cohort study of
+        trucking company employees in Kenya. J Infect Dis 1999; 180 :330–6. Cook LS , Koutsky LA,
+        Holmes KH. Circumcision and
+        sexually transmitted diseases . Am J Public
+        Health 1994; 84 :197–201. Weiss HA , Quigley MA,
+        Hayes RJ. Male circumcision and risk of HIV infection in
+        sub-Saharan Africa: a systematic review and meta-analysis. AIDS 2000; 14 :2361–70. Johnson AM , Mercer CH,
+        Erens B, et al . Sexual behaviour in Britain:
+        partnerships, practices, and HIV risk behaviours. Lancet 2001; 358 :1835–42. [ Pubmed ] National Statistics. 2001
+        Census: First results on population for England &
+        Wales . London: Office for National Statistics,
+        2002. Laumann EO , Masi CM,
+        Zuckerman EW. Circumcision in the United
+        States. Prevalence, prophylactic effects, and sexual
+        practice . JAMA 1997; 277 :1052–7. Citation: Dave SS, Johnson AM, Fenton KA, et al. Male
+      circumcision in Britain: findings from a national probability
+      sample survey. Sex Trans Infect 2003;79:499-500. (File revised 4 April 2006) Return to C

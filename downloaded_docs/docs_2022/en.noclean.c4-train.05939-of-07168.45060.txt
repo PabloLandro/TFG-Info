@@ -1,0 +1,125 @@
+Chewing Mint Gum Doesn't Lead to Weight Loss
+Search
+Beauty
+Beauty
+Hair
+Anti-Aging
+Makeup & Skin Care
+Fashion
+Fashion
+Affordable Style
+Trends
+Body
+Body
+Health & Fitness
+Healthy Eating
+Pregnancy & Fertility
+Happiness
+Weight Loss
+Home
+Home
+DIY & Design
+Food & Cocktails
+Food & Cocktails
+Entertaining
+Cocktails
+Quick, Easy Recipes
+Life
+Life
+Mom & Kids
+Money & Career
+Friends & Family
+Pets
+Love
+Love
+Relationships
+Sex
+Men's Perspective
+Date Ideas
+All News
+All Interviews
+All Videos
+Newsletter
+Follow
+Facebook
+Twitter
+Pinterest
+Instagram
+Youtube
+Promotions
+Win
+Privacy Notice
+Terms of Use
+Beauty
+Parenting
+Relationships
+Healthy Eating
+Fitness
+Newsletter
+Type keyword(s) to search
+Chewing Gum Might Make You Reach for the Chips
+A new study finds that chewing minty gum can actually lead to making poorer food choices.
+By Lauren Le Vine
+Mar 20, 2013
+Disappointing news for dieters who chew gum to aid weight loss and the entire REDBOOK staff: A new study in the journal Eating Behaviors researched the effects of chewing gum on food intake and found that it had no effect on the amount of calories consumed (and actually increased meal size in some cases), it also may lead to making poorer food choices. Chewing mint gum before meals made participants reach for foods like chips and candy instead of fruits or vegetables. Researchers attributed this to the effect menthol (the ingredient that makes gum minty fresh) has on taste buds — think about how an orange would taste right after brushing your teeth.
+There is a silver lining, though: This study only measured the effect of chewing gum before meals. Scientists wanted to debunk the pervasive and conflicting diet myths that chewing gum before a meal can either suppress your appetite or actually makes you hungrier because it gets digestive juices flowing. Chewing gum after a meal is still a satisfying way to cleanse your palate, and now we know why you won't want to eat again after your post-meal chew.
+[Via LiveScience
+Advertisement - Continue Reading Below
+<% if (product.show_price && product.priceNoSymbol > 0) { %>
+(% off)
+<% var showPrice = item.data.content_product_review.product_review.show_price && (item.data.content_product_review.product_review.retailer.price > 0 || item.data.content_product_review.product_review.product.is_custom) %>
+(% off)
+rel="" >
+<%= item.data.dek.replace(/<p>/g, '<p class="item-info-dek">') %>
+More From Healthy Eating
+30 Amazing Anti-Aging Foods for Women
+Fall Superfoods That Ward Off Weight Gain
+Advertisement - Continue Reading Below
+Folic Acid Foods You Should Eat All the Time
+15 Ways to Finally Beat Bloat
+Fat-Burning Foods to Jump-Start Your Metabolism
+What Is the Dukan Diet?
+14 Sneaky Foods That Screw With Your Digestion
+What Is the DASH Diet?
+10 Calcium-Rich Foods
+12 Vitamin A-Rich Foods to Add to Your Diet
+Healthy Eating
+Body
+The 7 Best New Breakfasts for Weight Loss
+6 Bikini Selfies That Will Change How You See Before/After Weight Loss Pictures Forever
+25 Foods That Banish Bloat
+21 Ways to Burn Fat Faster and Lose Weight
+The Woman Behind the Life-Changing Before/After Weight Loss Photo Speaks Out
+The 25 Best Snacks for Weight Loss
+homebody
+weight loss
+Newsletter
+About Us
+Media Kit
+Press Room
+Contact Us
+Community Guidelines
+Advertise Online
+Customer Service
+Other Hearst Subscriptions
+Events & Promotions
+Giveaways
+A Part of Hearst Digital Media Redbook participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+©2019 Hearst Magazine Media, Inc. All Rights Reserved.
+Privacy Notice
+Your California Privacy Rights
+Interest-Based Ads
+Terms of Use
+Site Map
+data-srcset="" />
+Created for Created by for Presented by Created by
++
+Created for Created by for Presented by Created by
++
+data-srcset="" />
+<% if (data.length > lowSlideCount) { %>
+of
+<%= item.data.dek.replace(/<img(.*?)>/g, '').replace(/
+/g, '
+') %>
+<% if (data.length > lowSlideCount) { %>

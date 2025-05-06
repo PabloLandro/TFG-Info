@@ -1,0 +1,522 @@
+Do Statins Really Prevent Alzheimer’s? An Exercise in Data Mining | Ricochet
+Skip to toolbar
+Log in
+Search
+Conservative Conversation and Community
+Main Feed
+Contributor Feed
+Member Feed
+Recommended Feed
+Podcasts
+Live
+Ricochet Podcast
+Acton Line
+AEI Banter Podcast
+AEI Events Podcast
+AEI Podcast Channel
+The American Mind
+American Wonk
+Ankler on the Air
+Andrew Klavan Show
+Area 45
+Bill Bennett Show
+The Byron York Show
+A Christmas Ham with Mary Katharine Ham
+City Journal’s 10 Blocks
+The Classicist with Victor Davis Hanson
+The Commentary Podcast
+The Conservatarians
+Conservative Book Club
+Crossing Lines with Lanhee Chen
+Daily Daily Caller Podcast
+The Daily Signal
+Encounter Books
+The Erick Erickson Show
+Filler Words
+First Things
+Free Beacon Podcast
+GLoP Culture
+Hacks on Hacks
+Harvard Lunch Club
+HWX
+LadyBrains
+Law Talk
+The Libertarian
+Mad Dogs and Englishmen
+Need to Know
+The Pacific Century
+Political Economy
+POTUS POD
+Power Line
+Problematic Women
+Q & A
+Radio Free GOP
+Reasonable Disagreements
+The Remnant with Jonah Goldberg
+Ricochet Podcast
+The Roth Effect
+SCOTUS101
+That Sethany Show
+Smart Girl Politics
+The Sub-Beacon Podcast
+Three Martini Lunch
+ThronesCast
+Walk-Ins Welcome w/ Bridget Phetasy
+Whiskey Politics
+Young Americans
+Search for:
+Join Login
+Start a Conversation
+Site-Wide Activity
+Groups
+My Bookmarks
+My Feed
+Give a Membership
+Search
+Join Login
+Recommended by R> Members
+Do Statins Really Prevent Alzheimer’s? An Exercise in Data Mining
+By DrRich
+Member
+DrRich
+18
+Former professor of medicine, and practitioner of cardiac electrophysiology. Currently eking out a living as writer and consultant. President, founder and sole member of Glorious Old Farts of America (GOFA). Proprietor of facebook.com/secretcardiology
+| December 15, 2016
+49 COMMENTS
+If you have been paying attention to any of the non-Trump-related news this week, you may have noticed headlines about how statin drugs prevent Alzheimer’s disease. Some of the headlines are pretty breathless. The Daily Mail touts “The Pill That Could Stop Millions Getting Dementia;” and Science Daily leads with an even more definitive conclusion: “Cholesterol-Fighting Drugs Lower Risk of Alzheimer’s Disease.” CNN (perhaps chastened by recent events?) is somewhat more circumspect: “Are Statins a Key to Preventing Alzheimer’s disease?”
+As a recovering cardiologist, and as an Old Fart who (reluctantly) has been taking a statin drug for several years, I am always on the lookout for new evidence that might convince me that it would be reasonable to stop the drug, or alternately, that it’s really a good thing that I’m taking it. But anyone who wants to learn the objective truth about statins must soon confront the fact that statins are sort of the cardiology world’s equivalent of climate change. That is, a consensus of experts agree that statins substantially reduce the risk of nasty cardiovascular events in people at elevated risk, and that a large majority of people older than 60 should be taking them; but a vocal minority holds statins to be mainly toxins foisted upon an unsuspecting public by people with a special agenda. The debate has become very nasty and vociferous, and we have come to a place where each group tends to simply anathemize the other.
+That’s science for you. This is not a new phenomenon; it’s been like this ever since science became a thing. I expect it will remain this way until science is no longer conducted by people.
+Anyway, as someone personally affected by the statin debate, I have made a consistent effort for many years to seek objective truth about these drugs. So far, as evidenced by the fact that I continue to swallow one each day, I think that (for people like me at least), the potential benefits probably outweigh the potential risks.
+Still, in this long-term effort I have learned never to accept what people say about statins at face value. So when all the news media began barking at me this week that my statin was going to keep me in fine cognitive fettle, I immediately began looking for reasons to disbelieve it. (This is what scientists are supposed to do — to be skeptical of everything.)
+In this case it wasn’t hard to find the bulls—t. I simply read the study.
+The study was published this week in JAMA Neurology by researchers from the University of Southern California’s Sol Price School of Public Policy.
+Note: School of Public Policy. We need to be aware of a couple of things when we consider health-related research produced by public policy experts. First, these are people who don’t take care of patients; they take care of data. Second, they mine the data to come up with stuff they can do to the herd that they believe will improve the average outcome for the herd. Third, they must necessarily assert that mining data is the ultimate pathway to Truth.
+Here is what these researchers did: From the vast databases kept by Medicare they took a 20% sample of Medicare beneficiaries, and linked data about enrollment, demographics, vital statistics, and Medicare Parts A, B, and D claims. They identified a group of beneficiaries who had no diagnosis of Alzheimer’s disease, and who had filled at least two statin prescriptions between 2006 and 2012. This produced a sample of 399,979 statin users. They then divided this group into two cohorts according to how many times they filled prescriptions for statins between 2006-2008. The top 50% were said to have high exposure to statins, and the bottom 50% were said to have low exposure to statins. They then assessed which patients were formally diagnosed with Alzheimer’s disease between 2009 and 2013.
+They concluded that the “high exposure” statin patients were 10% less likely to develop Alzheimer’s disease than “low exposure” statin patients. Like most public health experts, they chose to report their results as a relative risk reduction (10%) rather than as an absolute risk reduction (which was from about 1.62% to about 1.44%, or a difference of only about 0.18%). This is because when you’re treating the herd, you don’t care that an individual’s odds of a benefit are minuscule, as long as the people managing the herd can measure an appreciable benefit to themselves.
+The study went on to further demonstrate the great benefit of data mining as a method of truth-seeking by dividing the 400,000 patients into various subgroups, and attempting to show the differential abilities of particular statin drugs to prevent Alzheimer’s in various genders and races. The more subgroups you look for in these data mining expeditions, the more remarkable things you find. Accordingly they conclude, “The right statin type for the right person at the right time may provide a relatively inexpensive means to lessen the burden of (Alzheimer’s disease).”
+Wow.
+Does this study really indicate that statins might reduce the risk of Alzheimer’s? It is possible, I suppose, but if so it’s a fluke. Data mining expeditions in general can be useful in drawing interesting associations, but are useless in determining cause-and-effect. But even to accomplish this much the data mining exercise must be carefully designed so as not to build in predictable bias. This study did not do that.
+What do we already know about patients who go to their doctors, accept a prescription for statins (or anything else), and then regularly take the prescribed drug for a period of at least a couple of years? We know that they tend to go to their doctors regularly, and faithfully follow their prescribed medical regimen. If they agree to take statins chronically, we also suspect that they may have at least a modicum of interest in taking personal preventive measures against cardiovascular disease.
+What do we know about patients who accept prescriptions for statins and then fill them only very irregularly if at all? Some of them, of course, may have carefully reconsidered the risks and benefits of statins, and reasonably concluded that statins weren’t for them after all. And no doubt that among the 200,000 “low statin exposure” patients there were some like this. But much more likely, many tended to be those people who simply neglect to take their prescribed medication. And if so, it seems reasonable to suppose that they may also have been less likely to follow other important preventive measures, such as not smoking, taking care of their diabetes and hypertension, getting plenty of exercise, and eating a Mediterranean-type diet. All of these lifestyle measures, when not followed, are associated with a higher risk of Alzheimer’s disease. In addition, the “low exposure” group likely included an excess of individuals who, while not yet diagnosed with Alzheimer’s, already had some pre-clinical cognitive decline. Such people often forget to take their medication as prescribed, or to refill their prescriptions.
+In my view it seems as likely as not that this study simply divided Medicare patients up into two groups that, from the outset, had slightly different probabilities of developing overt Alzheimer’s disease. The statin prescriptions were merely the mechanism by which these two inherently different groups happened to be identified. It is easy to think of other ways of differentiating these groups that might have been used instead.
+Even if this study is accepted at face value as a reasonable hypothesis-generating exercise, it ought to be noted that the hypothesis has already been tested in at least two, published, randomized clinical trials, in which statins were assessed as an Alzheimer’s disease preventive measure. In both trials, statins failed to offer any benefit.
+The authors of the JAMA Neurology study were aware of this fact, and argued in their paper that these RTCs were flawed (which is always the case), and that their new analysis offers information that is potentially more compelling than the RTCs. The bottom line is that I find their concluding statement astounding, and so I repeat it: “The right statin type for the right person at the right time may provide a relatively inexpensive means to lessen the burden of (Alzheimer’s disease).”
+I will continue to take my statin for now, but this study offers me no comfort. In fact, it gives me some pause that public health experts now seem to be growing in favor of statins for the herd. This is the one thing about this study that seems new to me, and perhaps it is significant.
+I’ve posed this riddle before on Ricochet, but I will repeat it here because it makes an important point:
+Q: What is the main difference between public health experts and serial killers?
+A: Serial killers usually kill only one person at a time.
+The Latest Shows from the Ricochet Audio Network
+On Voting Rights for …
+Apr 23, 2019
+| 0 comments
+Security Clearances -…
+Apr 23, 2019
+| 0 comments
+Democratic Party’s …
+Apr 23, 2019
+| 1 Comment
+The Strange Terrorist…
+Apr 23, 2019
+| 0 comments
+Easter Worshippers a/…
+Apr 22, 2019
+| 0 comments
+Debat—er—“Discu…
+Apr 22, 2019
+| 3 Comments
+Beyond Prison
+Apr 22, 2019
+| 0 comments
+Mueller Blues and Var…
+Apr 22, 2019
+| 0 comments
+How did we get here? …
+Apr 22, 2019
+| 0 comments
+Reckoning With Race: …
+Apr 21, 2019
+| 0 comments
+The Problem With Pete
+Apr 20, 2019
+| 7 Comments
+Paul Cantor on the Da…
+Apr 20, 2019
+| 0 comments
+What Is Truth?
+Apr 19, 2019
+| 54 Comments
+Guests: Byron York & John Yoo
+Cardinal Newman’s C…
+Apr 19, 2019
+| 1 Comment
+[Redacted]
+Apr 19, 2019
+| 6 Comments
+All Ricochet Podcasts
+There are 49 comments.
+Become a member to comment. Already a member? Sign in.
+1
+2
+›
+Coolidge
+ctlaw
+DrRich: In addition, the “low exposure” group likely included an excess of individuals who, while not yet diagnosed with Alzheimer’s, already had some pre-clinical cognitive decline. Such people often forget to take their medication as prescribed, or to refill their prescriptions
+I worry about that dynamic with almost all studies about Alzheimer’s Disease. I recall the studies about ibuprofen preventing it. However, Alzheimer’s Disease probably reduces the likelihood of exercising, which reduces the likelihood of taking ibuprofen.
+#1
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629442
+December 15, 2016 at 6:32 am
+⋅
+Like
+Member
+Songwriter
+Thanks for the post. The statin controversy hits our home and it was helpful to read a cogent explanation written for the layperson to understand.
+#2
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629461
+December 15, 2016 at 7:02 am
+⋅
+Like
+Inactive
+Jamie Lockett
+Main feed! @exjon Make Ricochet Great Again!
+#3
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629475
+December 15, 2016 at 7:12 am
+⋅
+Like
+Member
+Doug Kimball
+New title: People Who Forget To Take Their Statins, Or Refill Their Prescriptions, Are More Likely To Have Or Develop Alzheimer’s.
+#4
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629500
+December 15, 2016 at 7:38 am
+⋅
+Like
+Member
+DrRich Post author
+ctlaw:
+I worry about that dynamic with almost all studies about Alzheimer’s Disease. I recall the studies about ibuprofen preventing it. However, Alzheimer’s Disease probably reduces the likelihood of exercising, which reduces the likelihood of taking ibuprofen.
+Good point, ct. This potential flaw is indeed probably particularly likely when looking at Alzheimer’s via data mining, but hidden biases with such expeditions are extremely common — and often quite difficult to spot. I think data mining is great when you are running a marketing outfit or looking for terrorists. But when you are looking to distribute a serious medication to millions of people because of its group effect, not so much.
+#5
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629504
+December 15, 2016 at 7:42 am
+⋅
+Like
+Member
+DrRich Post author
+Songwriter:Thanks for the post. The statin controversy hits our home and it was helpful to read a cogent explanation written for the layperson to understand.
+Thanks for the compliment. Writing about medical stuff for non-medical people is mainly what I do for a living these days. With my real job, however, I usually have to ditch the sarcasm. Here, I can let it out more.
+#6
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629509
+December 15, 2016 at 7:45 am
+⋅
+Like
+Coolidge
+Skarv
+It seems to me that the propensity to take doctor’s advice may be a very likely confounding variable.
+Question: Given that these drugs are already FDA approved for other conditions, would it be easy for a drug company to get “risk of Alzheimer” added as a legitimate reason to prescribe or would full trials be required anyhow? If full trails are required, it will be interesting to watch the reaction from the market. If the companies marketing the leading stains find it worth while to invest money in serious studies, it may be an indication that the public health study served a good purpose.
+#7
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629511
+December 15, 2016 at 7:49 am
+⋅
+Like
+Member
+Bob Thompson
+My personal situation with statins seems to mirror your own, and I have had similar reservations and concerns as I watch the pros and cons contend in the marketplace. I continue to take mine as I detect no discernible ill effects. Thanks very much for this work.
+#8
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629513
+December 15, 2016 at 7:49 am
+⋅
+Like
+Member
+DrRich Post author
+Doug Kimball:New title: People Who Forget To Take Their Statins, Or Refill Their Prescriptions, Are More Likely To Have Or Develop Alzheimer’s.
+I agree that your title is much more accurate. However, it won’t sell any soap, so forget it — especially since it invites the reader to substitute almost anything else for “statins.” For instance, “People who forget to change their underwear are more likely to have or develop Alzheimer’s.”
+#9
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629515
+December 15, 2016 at 7:50 am
+⋅
+Like
+Member
+DrRich Post author
+Skarv:Question: Given that these drugs are already FDA approved for other conditions, would it be easy for a drug company to get “risk of Alzheimer” added as a legitimate reason to prescribe or would full trials be required anyhow? If full trails are required, it will be interesting to watch the reaction from the market. If the companies marketing the leading stains find it worth while to invest money in serious studies, it may be an indication that the public health study served a good purpose.
+It would be difficult and expensive to get FDA labeling for a new indication, such as Alzheimer’s prevention. However, since the formal indications for statins are already so broad, drug companies would not find it necessary to do so. Once the idea that statins prevent Alzheimer’s sinks into the public consciousness, doctors will simply be more likely to prescribe it for their millions of patients who can already take the drug under current indications.
+#10
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629523
+December 15, 2016 at 7:55 am
+⋅
+Like
+Member
+Sabrdance
+While I find the conclusion of this piece plausible, I lodge 2 objections:
+1.) This is not data-mining. This is an observational study. Data-mining is taking the Medicare database and starting to correlated things until you find correlations that hit the magic P-Value. The problem with data-mining is that, with a big enough database, you are bound to get a correlation by random chance that hits .05. This is an observational study. They took existing large bodies of data that had measured what they were interested in, and tested to see if their hypothesis was supported by the data. The risk is, as noted, that the large body of data is collected in a way that systematically skewed the data. This is possible. We do not, however, know that it is the case. This study looks like it was designed specifically to deal with the Intent to Treat Problem by measuring (via actual prescriptions filled) actual statin use, rather than statin prescription. And given the panel and the confirmation that in 2006, none of the patients had Alzheimers -and given that Alzheimers appears to strike randomly (there’s nothing going to your doctor does that makes it less likely), this actually is a pretty good first-cut causal story.
+2.) Public Policy and economics report relative improvements because that’s what the statistical models report, not because they don’t care about individual results. It is the hazard of using M-class mean estimation.
+#11
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629531
+December 15, 2016 at 8:03 am
+⋅
+Like
+Member
+Doug Kimball
+DrRich:
+Doug Kimball:New title: People Who Forget To Take Their Statins, Or Refill Their Prescriptions, Are More Likely To Have Or Develop Alzheimer’s.
+I agree that your title is much more accurate. However, it won’t sell any soap, so forget it — especially since it invites the reader to substitute almost anything else for “statins.” For instance, “People who forget to change their underwear are more likely to have or develop Alzheimer’s.”
+I wasn’t really suggesting you change your title, just providing an alternative that is perhaps more accurate.
+#12
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629573
+December 15, 2016 at 8:43 am
+⋅
+Like
+Member
+DrRich Post author
+Sabrdance:While I find the conclusion of this piece plausible, I lodge 2 objections:
+1.) This is not data-mining. This is an observational study.
+2.) Public Policy and economics report relative improvements because that’s what the statistical models report, not because they don’t care about individual results.
+Thanks for your comments. If the formal definition of data mining means beginning without a hypothesis, then I stand corrected. I maintain that this study fits common usage of the term, however, at least by doctors, which is to say, digging around in sundry databases to find often-spurious associations (predefined or not) that have little or no pathophysiological basis. The fact that doctors use the term this way, I freely admit, should not be dispositive. And I’ll try to remember that docs who lightly toss around such mathematical terms of art are dunderheads.
+You are right to point out that public policy experts often do care about individual results. But, as you also point out, group statistics is what they do. My beef is that as a profession, they have been quick to demand that we in the herd obey their ill-conceived directives — such as low-fat diets, trans fats (before they suddenly turned against them), and more recently, extremely low-salt diets — that either have, or likely will, turn out to be not only mistaken, but quite dangerous to individual and public health.
+#13
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629576
+December 15, 2016 at 8:44 am
+⋅
+Like
+Member
+DrRich Post author
+Doug Kimball:
+DrRich:
+Doug Kimball:New title: People Who Forget To Take Their Statins, Or Refill Their Prescriptions, Are More Likely To Have Or Develop Alzheimer’s.
+I agree that your title is much more accurate. However, it won’t sell any soap, so forget it — especially since it invites the reader to substitute almost anything else for “statins.” For instance, “People who forget to change their underwear are more likely to have or develop Alzheimer’s.”
+I wasn’t really suggesting you change your title, just providing an alternative that is perhaps more accurate.
+I know you weren’t. I was just trying to be funny, apparently with my usual degree of success.
+#14
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629579
+December 15, 2016 at 8:48 am
+⋅
+Like
+Inactive
+Z in MT
+I heard somewhere that there was a study that showed statins increase the likelihood of Alzheimer’s. Do you have a post on the pros and cons of statins. Would you recommend statins to someone with only slightly elevated cholesterol levels?
+#15
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629595
+December 15, 2016 at 8:58 am
+⋅
+Like
+Member
+DrRich Post author
+Z in MT:I heard somewhere that there was a study that showed statins increase the likelihood of Alzheimer’s. Do you have a post on the pros and cons of statins. Would you recommend statins to someone with only slightly elevated cholesterol levels?
+There is no indication that statins can cause Alzheimer’s disease. However, there are several case reports suggesting that statins can occasionally cause non-Alzheimer’s cognitive impairment. These are only case reports, and nobody can say what to make of it. Nonetheless, the FDA has issued an advisory on this: http://bit.ly/1OpgQF2
+Statins are most commonly recommended today to treat cardiovascular risk, and only secondarily to reduce cholesterol levels. (Statins seem to reduce risk by several mechanisms, one of which is — or to be more accurate, may be — by reducing LDL cholesterol.) Here’s an article discussing when the use of statins is reasonable: http://bit.ly/2hycm3h
+(If I am violating Ricochet policy by including these links, somebody please turn me in before I strike again. I want to be helpful, but not at the cost of becoming a poor Ricochet citizen.)
+#16
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629612
+December 15, 2016 at 9:15 am
+⋅
+Like
+Member
+rebark
+Z in MT: I heard somewhere that there was a study that showed statins increase the likelihood of Alzheimer’s.
+I can’t find such a study anywhere – do you have a link to it? A very small percentage of patients reported memory loss and confusion while taking statins, which was entirely reversed by reducing the drug dosage. If there are any cognitive effects of statins at all, the negative ones are not permanent.
+If your MD says to take statins for cholesterol, I would take the statins.
+#17
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629619
+December 15, 2016 at 9:22 am
+⋅
+Like
+Member
+Sabrdance
+DrRich:
+Sabrdance:
+You are right to point out that public policy experts often do care about individual results. But, as you also point out, group statistics is what they do. My beef is that as a profession, they have been quick to demand that we in the herd obey their ill-conceived directives — such as low-fat diets, trans fats (before they suddenly turned against them), and more recently, extremely low-salt diets — that either have, or likely will, turn out to be not only mistaken, but quite dangerous to individual and public health.
+That was the Public Health guys. Don’t lump us in with those innumerates. (Our cock-ups involve being innumerate as regards early-childhood education interventions.)
+#18
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629633
+December 15, 2016 at 9:33 am
+⋅
+Like
+Member
+DrRich Post author
+Sabrdance:
+DrRich:
+Sabrdance:
+You are right to point out that public policy experts often do care about individual results. But, as you also point out, group statistics is what they do. My beef is that as a profession, they have been quick to demand that we in the herd obey their ill-conceived directives — such as low-fat diets, trans fats (before they suddenly turned against them), and more recently, extremely low-salt diets — that either have, or likely will, turn out to be not only mistaken, but quite dangerous to individual and public health.
+That was the Public Health guys. Don’t lump us in with those innumerates. (Our cock-ups involve being innumerate as regards early-childhood education interventions.)
+My heartfelt apologies. I get confused because the public health guys have become so adept at coopting public policy.
+#19
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629639
+December 15, 2016 at 9:40 am
+⋅
+Like
+Member
+Guruforhire
+Blood pressure medicine literally drove my grandpa insane.
+#20
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629652
+December 15, 2016 at 9:52 am
+⋅
+Like
+Member
+Hammer, The
+Request: Please write an article on “why high blood pressure is good for you.” ;)
+Really, though… medicine is somewhat obnoxious that way. X is killing you, Y is killing you, don’t do this, always do that, and the one thing you’ll hear everyone agree on is that this stuff changes all the time. Yet, you’ll always read about people dying too young. I’d almost prefer those days of “well, there’s nothing you can do about it.” But we obsess about health (myself included), which can’t be healthy.
+#21
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629655
+December 15, 2016 at 9:54 am
+⋅
+Like
+Member
+PHCheese
+I have been taking statins off and on for thirty years. It’s been off and on because of the severe side effects that I have from them. It seemed the lower my Cholesteryl became the more muscle and joint pain I would develop. I would begin with one and be fine fora couple of years before developing problems. I am on my fifth type.My mother, an aunt and uncle died Alzheimer’s so this is of significance to me. Thanks for the post Rich.
+#22
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629668
+December 15, 2016 at 10:05 am
+⋅
+Like
+Member
+Doctor Robert
+Car. Care. Careful. Be Careful. Be Very Careful.
+Drawing conclusions on secondary end points in large studies and especially, in meta-analyses virtually guarantees unrecognized biases. Unrecognized biases lead to wrong conclusions and unexpected consequences. Dr Rich tells us this, but the point cannot be over-emphasized.
+I write as an endocrinologist whose practice is kept alive by type 2 diabetics whose disease was caused by adherence to FDA dietary recommendations, recommendations drawn from very biased studies.
+Car. Care. Careful. Be Careful. Be Very Careful.
+#23
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629695
+December 15, 2016 at 10:26 am
+⋅
+Like
+Member
+Mendel
+I take objection to the wholesale demonization of what you call “data mining”* (i.e., using large amounts of Medicare data).
+In numerous cases, using bulk data is far and away the most powerful tool we have to analyze certain questions. For many research questions in modern medicine, there are so many confounding variables that the only hope of obtaining an answer with any degree of certainty is to use huge numbers of individual patients – and those types of numbers will realistically only be found in nationwide epidemiological data. Furthermore, Medicare data is both standardized and free of many biases found in many other types of medical research (even though it has obvious faults and flaws of its own).
+No, the problem is not the use of bulk patient data. The problem is researchers not respecting the obvious limitations of observational data or recognizing obvious correlation-causation fallacies.
+Population-wide epidemiological data is a valid and useful tool, but like every tool, it must be used appropriately and its weaknesses accounted for. And in this case, neither of those caveats were adhered to – the authors used an arbitrary cut-off to artificially design two groups, and then oversold a miniscule difference as being causal.
+A more appropriate use of Medicare data would be to address the even more obvious question: do statins actually reduce the incidence of heart attacks? (Which I’m sure has been addressed numerous times already)
+#24
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629716
+December 15, 2016 at 10:52 am
+⋅
+Like
+Member
+Mendel
+* I agree with Sabrdance:
+Sabrdance: This is not data-mining. This is an observational study. Data-mining is taking the Medicare database and starting to correlated things until you find correlations that hit the magic P-Value. The problem with data-mining is that, with a big enough database, you are bound to get a correlation by random chance that hits .05.
+However, it should be pointed out that this type of “data mining” is also constantly taking place.
+One popular method is to take a medication with only dismal overall effects and fish through the data to identify (i.e. create) a subgroup for whom it was much more potent. Given a large enough sample size and enough details about patient demographics, the existence of such a group is nearly inevitable.
+Then, the drug gets marketed as a “targeted cure”, inevitably to some previously-unheard of subgroup like “Asian female lesbians over 62 but younger than 68 with three or more children and who have had fewer than 1.75 heart attacks in the past”.
+Post hoc subgroup analyses run counter to best practices in clinical trials, but that doesn’t mean that pharmaceutical companies and academics eager for publications won’t milk the data for all it’s worth.
+#25
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629721
+December 15, 2016 at 10:56 am
+⋅
+Like
+Member
+DrRich Post author
+Ryan M(cPherson):Really, though… medicine is somewhat obnoxious that way. X is killing you, Y is killing you, don’t do this, always do that, and the one thing you’ll hear everyone agree on is that this stuff changes all the time.
+Science moves in fits and starts, and along the way you stumble into many blind alleys. The science of medicine is no different. Medical “facts” need to be processed for years before they can be relied upon. Indeed, most medical studies — the great majority — turn out to give the wrong answer if you wait long enough for things to sort themselves out.
+News reports on medical research do not, and cannot, take this sad fact into consideration. So it feels like the facts are always changing. Not so, unless you are fooled into treating all the stuff that’s published in medical journals as fact (and it’s hard not to do that given the propensities of headline writers), instead of the evanescent crap it usually turns out to be.
+#26
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629740
+December 15, 2016 at 11:13 am
+⋅
+Like
+Member
+Bob Thompson
+Guruforhire:Blood pressure medicine literally drove my grandpa insane.
+I’ve got a situation near that might involve something along these lines, although in addition to BP, many other meds are involved. You have any useful information?
+#27
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629745
+December 15, 2016 at 11:17 am
+⋅
+Like
+Member
+DrRich Post author
+Mendel:I take objection to the wholesale demonization of what you call “data mining”* (i.e., using large amounts of Medicare data)….
+No, the problem is not the use of bulk patient data. The problem is researchers not respecting the obvious limitations of observational data or recognizing obvious correlation-causation fallacies.
+Actually, I agree with you completely. Analyzing information from big databases is a great way to generate hypotheses for more targeted, prospective clinical research. If these researchers had actually done so I would have had no grounds for complaint.
+#28
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629747
+December 15, 2016 at 11:18 am
+⋅
+Like
+Inactive
+DocJay
+I prescribe statins reluctantly. I believe their side effects eclipse published rates and include not only the hepatic and myalgia related problems at higher percentages but also other problems. I have seen urinary dysfunction, gi problems, faitigue and memory loss all transient/reversible from statins. If not mentioned, one of the apoE variants in alzheimers should not be on statins at all.
+Drugs are poisons, statins are poisons, but do the benefits outweigh the risk? Horse doo doo on whatever this study is. Exercise, eat well, manage stress, don’t smoke, control blood sugar, manage inflammation, have your vascular system screened as you age. Risk stratify and choose a statin if it’s worth it.
+Handing out poisons to the elderly to mitigate memory issues is a freaking joke.
+Now don’t get me started on the idiots that want my frail ninety year olds with fall risks on tight blood pressure control. Nothing like fluctuating pressures on the lower end to drop perfusion to the squash and have them bust a hip from judgement or syncope.
+I may be 50 @DrRich, but I’m already crusty. ;-)
+#29
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629758
+December 15, 2016 at 11:25 am
+⋅
+Like
+Inactive
+DocJay
+BTW, I handed your primary care article out to at least 40 patients so far.
+#30
+https://ricochet.com/396846/archives/do-statins-really-prevent-alzheimers-an-exercise-in-data-mining/#comment-3629766
+December 15, 2016 at 11:32 am
+⋅
+Like
+1
+2
+›
+Have Something to Say?
+Join the Conversation
+Most Popular
+on Ricochet
+Main Feed | Member Feed
+Men and Women: Com…
+54 Likes
+He Is Not Here
+33 Likes
+Who Attacked Whom …
+33 Likes
+Quote of the Day: …
+29 Likes
+About That Apology…
+28 Likes
+Are You Kidding Me?
+35 Likes
+On the Road Again
+25 Likes
+Group Writing: Men…
+24 Likes
+Quote of the Day: …
+18 Likes
+Divine Help-April-…
+18 Likes
+Groups
+Newest | Active | Popular | Alphabetical
+Updates
+active 17 minutes ago
+Ricochet Catholics
+active 3 hours, 17 minutes ago
+The Cats of Ricochet
+active 6 hours, 58 minutes ago
+Happy Warriors
+active 9 hours, 33 minutes ago
+RICOCHET FILM SOCIETY
+active 12 hours, 37 minutes ago
+Ricochet
+About
+Archives
+Code of Conduct
+Contact Us
+Privacy
+Report a Bug
+Store
+Terms & Conditions
+Ricochet Audio Network
+All Podcasts
+Subscribe in iTunes
+Subscribe in Stitcher
+Subscribe in Google Play
+Direct RSS Feed
+Help
+How to Turn Off Browser Notifications
+How Do I Start a Conversation?
+More Help Articles
+© 2019 - Silent Cal Productions | Subscribe now in iTunes, Stitcher, Google Play, or directly to the RSS feed in your favorite podcast app.
+R>3.1.45
+Logged In Users	Only Me	My Friends
+Cancel
+0%
+0%
+@

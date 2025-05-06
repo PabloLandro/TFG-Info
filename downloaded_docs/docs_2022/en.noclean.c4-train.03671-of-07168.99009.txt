@@ -1,0 +1,182 @@
+CLOSE
+What Trans Movement?
+Trans Lives Matter
+Trans News
+HIV/AIDS
+Health News
+Faith/Spirituality
+Spiritual You
+Empowering Conversations
+Love
+Family & Relationships
+Announcements
+Arts/Entertainment
+Fashion
+Artist Feature
+Visual Arts
+What’s the Tea?
+News/Events
+Community News
+Community Events
+GET SOCIAL WITH US
+Team TUV
+Careers
+Media Kit
+Current Issue
+Subscribe
+GET SOCIAL WITH US
+Contact Us
+What Trans Movement?
+Trans Lives Matter
+Trans News
+HIV/AIDS
+Health News
+Faith/Spirituality
+Spiritual You
+Empowering Conversations
+Love
+Family & Relationships
+Announcements
+Arts/Entertainment
+Fashion
+Artist Feature
+Visual Arts
+What’s the Tea?
+News/Events
+Community News
+Community Events
+GET SOCIAL WITH US
+Home Health News HIV Decriminalization: HIV isn’t a Crime
+Health News
+HIV/AIDS
+HIV Decriminalization: HIV isn’t a Crime
+Trans Activist Renae Taylor Speaks About The Unfair Practices of HIV Crimes Laws
+By Gwen Clemons -
+December 16, 2016
+959
+0
+SHARE
+Facebook
+Twitter
+tweet
+During the early years of the HIV epidemic, a number of states implemented HIV-specific criminal exposure laws. Such laws imposed criminal penalties against people living with HIV who knew their HIV status and potentially exposed others to the virus, which at the time was considered as virtually lethal. Today, however, it is possible for a patient to become virally suppressed — that is, antiretroviral therapy (ART) reduces the person’s viral load to an undetectable level, significantly diminishing the likelihood of transmission. While viral suppression does not mean a person is cured — since HIV remains in the body and the viral load could return to a detectable level if ART is discontinued — treatment does improve a person’s life span to nearly the normal life expectancy.
+Yet now that HIV is a manageable disease and not a death sentence as it was once thought, such laws intended to criminalize HIV have not been updated to catch up with the current science. For instance, some of you may have seen stories in the media about people biting police and being charged with HIV exposure, despite that HIV is not even spread through saliva and likelihood of HIV transmission is therefore highly unlikely by mouth. Methods of transmission continue to be widely misunderstood in this way, when in reality HIV is most commonly transmitted through sexual behaviors and needle or syringe use. Only certain body fluids—blood, semen (cum), pre-seminal fluid (pre-cum), rectal fluids, vaginal fluids, and breast milk—from a person who has HIV can transmit HIV. HIV can’t be transmitted by saliva, sweat, tears, urine, or feces. HIV cannot be spread by sharing drinking glasses or by casual kissing. The risk of spreading the virus through “deep” kissing in which large amounts of saliva are exchanged is extremely low. Only one unproven case has ever been reported.
+So even in this age of information, people still don’t understand the actual methods of HIV transmission — especially not enough to wield the power to pursue criminal charges over feeling threatened by what typically turns out to have been unlikely exposure to what is now a manageable virus. I blame this unfortunate reality on Abstinence Only Sexual Education Policy. Ignorance is bliss, but knowledge is power. With proper sexual education, we can achieve an AIDs free generation.
+Meanwhile, who do those extreme and outdated laws affect adversely? There are definite racial disparities, as blacks are more likely to be prosecuted under these laws than their white counterparts. If prosecuted and charged, one has to register as a sex offender — just one more stigma to add to HIV as a disease. Furthermore, the burden of proof falls on the person accused of HIV exposure even though most of the cases tried do not involve any actual HIV transmission. People living with HIV are thus often denied the autonomy to freely make decisions about their bodies, relationships, and children — fundamental rights sought by the Reproductive Justice Movement.
+We need to update these laws that criminalize HIV and help to further stigmatize and marginalize people living with HIV. HIV isn’t a crime! Please help advocate for HIV Law Modernization. No one deserves to live in fear of disclosing simply because they may be punished unjustly for their diagnosis.
+SOURCERenae Taylor
+TAGS
+Black Transgender Community
+HIV Crimes
+Renae Taylor
+Trans News
+TUV Magazine
+SHARE
+Facebook
+Twitter
+tweet
+Previous articleWHAT’S NEXT FOR QUEER PEOPLE OF COLOR #GIVING TUESDAY
+Next articleLee Soulja / Visual Performance Artist / LGBT Advocate / Event Promoter
+Gwen Clemons
+RELATED ARTICLESMORE FROM AUTHOR
+Sampson McCormick Stars in New LGBT Film About Mental Health
+Kiki Do You Love Us? TUV Magazine PRIDE Issue “Got Us In Our Feelings!”
+“RECLAIMING MY TIME” READ HOW CEDRIC GUM SIMPLIFIES THE EXECUTION!
+NO COMMENTS
+We Proudly Support
+Recent Posts
+HELLO WORLD! MEET SAMPSON! COMEDIAN, ACTOR, & SUPERHERO!
+Sampson McCormick Stars in New LGBT Film About Mental Health
+New Digital Series Focused on HIV + Woman
+Dr. Davin Clemons Exclusive Interview with USA Today
+The Dapper Ball of Memphis is HERE! Take Back The Night Baby!
+Archives
+March 2019
+February 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+March 2018
+February 2018
+January 2018
+November 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+Categories
+Announcements
+Artist Feature
+Community Events
+Community News
+Empowering Conversations
+Family & Relationships
+Fashion
+Featured
+Health News
+HIV/AIDS
+Lifestyle
+Spiritual You
+TopFrontPage
+Trans Lives Matter
+Trans News
+Uncategorized
+Upcoming Events
+Videos
+Visual Arts
+What's the Tea?
+It's more than a magazine--It's A Synergized Movement
+Contact us: info@tuvmag.com
+EVEN MORE NEWS
+HELLO WORLD! MEET SAMPSON! COMEDIAN, ACTOR, & SUPERHERO!
+March 5, 2019
+Sampson McCormick Stars in New LGBT Film About Mental Health
+February 16, 2019
+New Digital Series Focused on HIV + Woman
+February 12, 2019
+POPULAR CATEGORY
+Community News45
+Artist Feature21
+Community Events20
+Family & Relationships15
+TopFrontPage13
+Empowering Conversations10
+Fashion8
+© © 2016 Copyright The Unleashed Voice
+Team TUV
+Careers
+Media Kit
+Current Issue
+Subscribe
+GET SOCIAL WITH US
+Contact Us
+Team TUV
+Careers
+Media Kit
+Current Issue
+Subscribe
+GET SOCIAL WITH US
+Contact Us
+MORE STORIES
+HELLO WORLD! MEET SAMPSON! COMEDIAN, ACTOR, & SUPERHERO!
+Gwen Clemons -
+March 5, 2019
+0
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();

@@ -1,0 +1,460 @@
+Questioning Answers: May 2014
+Questioning Answers
+News and views on autism research and other musings. Sometimes uncomfortable but rooted in peer-reviewed scientific research.
+Saturday, 31 May 2014
+Cytomegalovirus and autism
+Today I'm talking on the topic of cytomegalovirus infection and autism following the paper by Sakamoto and colleagues [1] and their conclusion on: "the involvement of congenital CMV [cytomegalovirus] infection in a portion of children with ASD [autism spectrum disorder]".
+Do you mind? @ Wikipedia
+Cytomegalovirus (CMV) belongs to a family of viruses called herpesviruses which includes chicken pox and shingles. It is a pretty common virus insofar as an estimated 50-80% of the over 40s in the United States are infected with CMV according to the CDC. The various descriptions of CMV have tended to suggest that for many people, CMV infection seems to have little effect on day-to-day health and wellbeing assuming no presence of any underlying disease or state affecting the immune system for example. As with other herpesviruses however, CMV has the ability to lie dormant (latent) in the body, avoiding detection by the immune system. Reactivation of the virus can occur, as seen with other herpesviruses, notably shingles.
+CMV is not however always so benign. Where a woman for example, contracts a CMV infection for the first time during pregnancy or in the months before conception, the infection can spread to the developing foetus, something called congenital CMV infection. This can often have serious consequences for offspring health and development. Seroprevalence rates for CMV in pregnant women have been estimated to be quite high particularly when ethnicity is taken into account [2].
+The Sakamoto paper adds to quite a long history of research looking at a possible connection between congenital CMV infection and the presentation of autism (see here). Examining blood and/or tissue samples (yes, including those gold mines of information, the neonatal bloodspots) for 27 children diagnosed with ASD, researchers went looking for the DNA of CMV, that is the genetic blueprint of the virus. DNA was preferable to the presence of just antibodies to the virus, which could be there purely because maternal antibodies to CMV will to some extent be reflected in newborn infants. "CMV DNA was detected in two (7.4%) of the 27 children" researchers reported, and interestingly, aside from the presentation of autism, none of the more classical indicators of congenital CMV infection were observed in these children such as hearing loss or epilepsy (see here).
+Whilst one has to be a little bit careful in saying that congenital CMV infection 'causes' autism, I do find the association to be a potentially important one. I note from some of the earlier work in this area, specifically that of Gene Stubbs [3] there was a recommendation that: "Physicians who find autistic symptoms in very young children might include cytomegalovirus in their differential to document the presence or absence of a correlation". Likewise the paper by Markowitz [4] similarly hinted "that congenital viral infection may be an important cause of infantile autism". In that case there was also some discussion that "over time improvement was noted" in behavioural presentation in line with what would be expected from an infection-based model of symptoms.
+From a cold, objective science perspective, cases of congenital CMV infection with autism presentation also offer a potentially valuable insight into mechanism and intervention. Yamashita and colleagues [5] talked about "subependymal cysts and the later development of AD [autistic disorder]" as one research avenue. Whether such features directly link to the presence of autism or autistic behaviours or other presentation talked about in the case reports discussed by the authors is not yet known. Similarly, Engman and colleagues [6] talked about cerebral cortical malformations being more frequently detected in cases of congenital CMV infection. Various directions for autism research are provided.
+The question of 'treating' congenital CMV infection also arises, and what effect this might have on the presentation of autism or autistic traits. I note another paper from Stubbs and colleagues [7] talked about the use of "Transfer factor immunotherapy" in one child to "improve his specific immunocompetence to cytomegalovirus thereby either containing the effects of the virus or eradicating the virus". I'm not making any recommendations or anything about this course of action particularly when one considers some of the history of transfer factor and autism, but following a pattern of treatment of the condition where autism is not mentioned [8] the use of something like an anti-viral might be an area in need of further research investigations, particularly where circulating anti-CMV antibodies persist [9]. As Binstock [10] noted: "immune impairments and atypical infections may be treatable" when it comes to autism, as they might be when it comes to other conditions and other viral infections (again with no medical or clinical advice given or intended).
+Music to close. The North-East of England is really pulling in the acts this year. The Kings of Leon play Newcastle this evening, and so I leave you with perhaps their most famous song to date about something being on fire... socks perhaps?
+----------
+[1] Sakamoto A. et al. Retrospective diagnosis of congenital cytomegalovirus infection in children with autism spectrum disorder but no other major neurologic deficit. Brain Dev. 2014 Apr 22. pii: S0387-7604(14)00094-1.
+[2] Pembrey L. et al. Seroprevalence of cytomegalovirus, Epstein Barr virus and varicella zoster virus among pregnant women in Bradford: a cohort study. PLoS One. 2013 Nov 27;8(11):e81881.
+[3] Stubbs EG. Autistic symptoms in a child with congenital cytomegalovirus infection. J Autism Child Schizophr. 1978 Mar;8(1):37-43.
+[4] Markowitz PI. Autism in a child with congenital cytomegalovirus infection. J Autism Dev Disord. 1983 Sep;13(3):249-53.
+[5] Yamashita Y. et al. Possible association between congenital cytomegalovirus infection and autistic disorder. J Autism Dev Disord. 2003 Aug;33(4):455-9.
+[6] Engman ML. et al. Congenital cytomegalovirus infection: the impact of cerebral cortical malformations. Acta Paediatr. 2010 Sep;99(9):1344-9.
+[7] Stubbs EG. et al. Transfer factor immunotherapy of an autistic child with congenital cytomegalovirus. J Autism Dev Disord. 1980 Dec;10(4):451-8.
+[8] Lombardi G. et al. Congenital cytomegalovirus infection: treatment, sequelae and follow-up. J Matern Fetal Neonatal Med. 2010 Oct;23 Suppl 3:45-8.
+[9] Kawashti MI. et al. Possible immunological disorders in autism: concomitant autoimmunity and immune tolerance. Egypt J Immunol. 2006;13(1):99-104.
+[10] Binstock T. Intra-monocyte pathogens delineate autism subgroups. Med Hypotheses. 2001 Apr;56(4):523-31.
+----------
+Sakamoto A, Moriuchi H, Matsuzaki J, Motoyama K, & Moriuchi M (2014). Retrospective diagnosis of congenital cytomegalovirus infection in children with autism spectrum disorder but no other major neurologic deficit. Brain & development PMID: 24768169
+Posted by Paul Whiteley at 08:40
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: antibodies, antiviral, autism, behaviour, cytomegalovirus (CMV), development, DNA, infection, risk
+Thursday, 29 May 2014
+Toxic metal accumulation and autism?
+To quote from the recent paper by Altaf Alabdali and colleagues [1] (open-access) "This study confirms earlier studies that implicate toxic metal accumulation as a consequence of impaired detoxification in autism and provides insight into the etiological mechanism of autism".
+Heavy metal noise pollution @ Wikipedia
+Big words I'm sure you'll agree and certainly something that I was keen to talk about on this blog. The paper itself is open-access but a few pointers might be in order:
+A couple of familiar names are part and parcel of the authorship of this paper (Laila Al-Ayadhi & Afaf El-Ansary) who's previous research has been covered more than once on this blog (see here and see here).
+The name of the game was two fold with autism in mind: (a) measure levels of "two environmental toxicants" - lead (Pb) and mercury (Hg), and (b) measure levels of two "enzymatic and non-enzymatic antioxidants with high activity in terminating lipid peroxidation and environmental toxicity" - an old friend glutathione, or rather glutathione-S-transferase activity (GST) and vitamin E. Authors "hypothesized that confirming the relationship between impaired detoxification mechanism and severity of ASD could enhance efforts at early prevention, diagnosis, and intervention".
+The participants groups comprised 52 boys diagnosed with an autism spectrum disorder (ASD) (mean age 7 years) and 30 age- and sex-matched "apparently healthy children" (mean age 7.2 years). The Childhood Autism Rating Scale (CARS) and Social Responsiveness Scale (SRS) were used as measures of autism severity.
+Results: based on analysis of blood samples (red blood cells and plasma) "Mercury and Pb were significantly elevated in the autistic patients compared with the controls, with increases of 36.58% and 43.34%, respectively. GST and vitamin E levels decreased by 50.71% and 43.18% percent, respectively". So heavy metal body burden was up and detoxification compounds appeared reduced in this sample of children with autism.
+Further: "remarkably high levels of Hg and Pb were recorded in patients with severe social and cognition impairments (SRS & CARS) compared with those with mild-moderate abnormalities". Ergo, severity of symptom presentation may show more than a passing connection to heavy metal load.
+The customary ROC analysis (which seems to appear in many papers from this group) is also presented, where all "measured parameters demonstrated almost 100% sensitivity and very high specificity, which also confirmed the hypothesis that autistic patients are poor detoxifiers, unable to readily excrete toxic substances (e.g., Hg and Pb), and suggests that reduced GST activity and depleted vitamin E are two critical factors related to poor detoxification".
+So there you have it. Of course there is lots more discussion in the paper probing the hows and whys of the results which readers are invited to peruse at their leisure. There are issues as with any paper: the sample size was relatively small in this particular study and confined to a particular geographical region, so one needs to be a little bit careful of extrapolating results to the wider autism spectrum population at the current time. That also the "measured form of vitamin E, α –tocopherol" for example, was analysed by HPLC solely with UV detection perhaps also opens the study up to some analytical issues given the other, more comprehensive analysis methods out there [2] realising how complex a matrix such biological fluids can be. Still, I'm not going to quibble with the Alabdali results as they stand and the requirement for further research in this area.
+I've recently been hearing a lot more about lead (Pb) and things like the suggested correlation between removing lead from petrol being correlated - "correlated" - with the drop in violent crimes we seem to be witnessing these days (see here). Lead also continues to show up quite a bit on the autism research radar, and the growing consistency in findings talking about elevated levels of lead being found in cases of autism (see here) bearing in mind what we already know about lead exposure and childhood brains and development (see here). I might add that I am not in any way linking lead levels in autism and lead levels with crime in mind; the sad truth is that people with autism are far more likely to be the victim of crime rather than perpetrator (see here RIP).
+Mercury and autism tends to be more of a contentious topic given the discussions about sources of mercury [3] (and see here for the other side of the coin [4]) despite there being some evidence that the biological burden may be elevated in some people on the autism spectrum [5]. I don't really want to get into the nitty-gritty of where mercury might be sourced from in this story, rather that knowing how toxic the stuff is, steps need to be taken to remove any excess burden. The implication from the Alabdali results are that further investigations might also be required on how the body deals with these pollutants too which may very well form part of a bigger picture... (yes, mitochondria).
+Music to close. Controversy aside, a band called One Direction played the SoL yesterday evening. My brood have been exposing me to ever increasing doses of their music throughout the week and as a result, I think I might be developing some kind of One Direction Stockholm Syndrome.
+So, here is You and I... and slowly but surely it's growing on me.
+----------
+[1] Alabdali A. et al. A key role for an impaired detoxification mechanism in the etiology and severity of autism spectrum disorders. Behavioral and Brain Functions 2014, 10:14
+[2] Nagy K. et al. Comprehensive analysis of vitamin E constituents in human plasma by liquid chromatography-mass spectrometry. Anal Chem. 2007 Sep 15;79(18):7087-96.
+[3] Geier DA. et al. A two-phase study evaluating the relationship between Thimerosal-containing vaccine administration and the risk for an autism spectrum disorder diagnosis in the United States. Transl Neurodegener. 2013 Dec 19;2(1):25.
+[4] Price CS. et al. Prenatal and infant exposure to thimerosal from vaccines and immunoglobulins and risk of autism. Pediatrics. 2010 Oct;126(4):656-64.
+[5] Geier DA. et al. Blood mercury levels in autism spectrum disorder: Is there a threshold level? Acta Neurobiol Exp (Wars). 2010;70(2):177-86.
+----------
+Alabdali, A., Al-Ayadhi, L., & El-Ansary, A. (2014). A key role for an impaired detoxification mechanism in the etiology and severity of autism spectrum disorders Behavioral and Brain Functions, 10 (1) DOI: 10.1186/1744-9081-10-14
+Posted by Paul Whiteley at 09:09
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: autism, behaviour, correlation, detoxifcation, glutathione, heavy metals, lead, mercury, symptoms, vitamin E
+Tuesday, 27 May 2014
+The Sensory Perception Quotient (SPQ) and autism
+Today I'd like to bring to your attention the paper by Teresa Tavassoli and colleagues [1] (open-access) who talked about the development of the Sensory Perception Quotient (SPQ), a new tool designed to assess "basic sensory hyper- and hyposensitivity" across our basic senses, specifically with the autism spectrum conditions (ASCs) in mind. For those who follow the IMFAR meetings, you might have already heard something about the SPQ in previous years (see here).
+The purpose of the Tavassoli paper was three-fold: (i) assess how valid and reliable the SPQ was against a rival tool looking at the sensory domain: the SensOR Inventory [2], [ii] "to investigate if adults with and without ASC show differences on the SPQ" and (iii) to look at whether/how sensory issues linked to the signs and symptoms of autism, via use of another quotient, the Autism-Spectrum Quotient (AQ).
+The results: well, bearing in mind everything was done on-line: "The SPQ shows good internal consistency and concurrent validity and differentiates between adults with and without ASC". Also: "greater sensory sensitivity is associated with more autistic traits".
+Obviously there is quite a bit more to do on the SPQ before anyone gets too carried away, including the possibility of examining a broader sensory phenotype if the findings by Mirko Uljarević and colleagues [3] survive replication. The fact that participants were all adults and all able to self-report is an important point to make about the Tavassoli study, as were their scores on the [adapted] Raven's Progressive Matrices looking at cognitive functioning putting those on the autism spectrum in the typical range on a par with control participants. As an aside, I'm happy that Raven's was used in this trial given some conversations I remember having with the late Ann-Mari Knivsberg who was a big fan of this schedule.
+As the authors note, the inclusion of sensory issues into the revised DSM-5 diagnostic schedule means that there is going to be a lot more focus on these issues as and when the DSM-5 starts picking up diagnostic momentum around the world. More than that though, the authors importantly talk about how the SPQ might be a useful aid to those archetypal all-rounders, the OTs, in "assessing the sensory needs of people with autism". Surely anything that helps them do their job more efficiently and person-centred has got to be a good thing.
+To close, a new Flash Gordon movie potentially due? How can they possibly improve on the last one... Flash, ah, ah... (by Queen).
+----------
+[1] Tavassoli T. et al. The Sensory Perception Quotient (SPQ): development and validation of a new sensory questionnaire for adults with and without autism. Molecular Autism 2014, 5:29
+[2] Schoen SA. et al. Pilot study of the Sensory Over-Responsivity Scales: assessment and inventory. Am J Occup Ther. 2008 Jul-Aug;62(4):393-406.
+[3] Uljarević M. et al. First evidence of sensory atypicality in mothers of children with Autism Spectrum Disorder (ASD). Molecular Autism 2014, 5:26.
+----------
+Tavassoli, T., Hoekstra, R., & Baron-Cohen, S. (2014). The Sensory Perception Quotient (SPQ): development and validation of a new sensory questionnaire for adults with and without autism Molecular Autism, 5 (1) DOI: 10.1186/2040-2392-5-29
+Posted by Paul Whiteley at 08:59
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: autism, cognition, DSM V, occupational therapy, sensory, Sensory Perception Quotient (SPQ)
+Sunday, 25 May 2014
+Leaky gut as a later life event in autism?
+Leaky gut and autism. Yes, it happens and I've talked about it quite a bit on this blog. If you're bored of me mentioning this potentially important process and how it may tie into at least some parts of the very heterogeneous autisms, feel free to click away now.
+Salisbury Cathedral @ Wikipedia
+If not, today's post centres on a short paper by Alexander Penn and colleagues [1] which looked at measured levels of intestinal permeability in infants deemed at high-risk of autism by virtue of having a sibling diagnosed with an autism spectrum condition compared to those in a low-risk category with no family history of autism. They concluded: "intestinal permeability continues to decrease even after 3 months as part of typical development and that hyperpermeability is a later event in ASD [autism spectrum disorder] and may not appear in the first year of life". I should mention that the testing tool of choice for gut permeability in this study was the lactulose/mannitol sugar absorption ratio which involves drinking a solution of the two sugars and measuring the urinary output some hours later to ascertain intestinal permeability.
+The first part of the findings from Penn et al stressing that gut permeability might be a dynamic process is something really quite interesting. It's pretty well known that gut permeability in our earliest days of life is something rather different from what we [generally] experience as we mature bearing in mind that lots of different factors can seemingly affect intestinal permeability [2]. I don't really want to go into the hows and whys of this process but other authors have talked about it [3].
+The related issue to note about the Penn findings is the role that different infant feeding strategies might have on intestinal permeability. Again, other authors have talked about this issue [4] so no need for some long discussions from me about this issue.
+Then to that interesting sentence about "hyperpermeability is a later event in ASD". At least one of the high-risk kids examined in the study "demonstrated [intestinal] hyperpermeability" which begs the question: what happened to this infant compared to those who did not show similar findings? Did this finding correlate with subsequent development (or not) of autism and would this perhaps then have some role to play in those grand discussions about early red flags for autism? The other implication from leaky gut potentially not appearing "in the first year of life" is that this may be an example of something potentially acquired at least for some on the autism spectrum. My mind wanders back to all the discussions about regression and autism (see here) and whether this might be a physiological correlate to watch for in some cases. As to any precipitating factors 'causing' such regression, well, the obvious ones would be along the lines of food and what we already think we know about something like gluten and intestinal permeability. Whether there may be other factors or insults which might also be important to any relationship (e.g. gut bacteria) is something that really needs a lot more investigation.
+To close, I'm not ashamed to admit that I actually quite enjoyed seeing New Kids on the Block on Friday evening with my better half. As one of a handful of very supportive husbands / boyfriends / significant others all stood with arms folded throughout the gig whilst the girls really had some fun, all I will say is my toes were tapping when it came to a few songs... The Right Stuff. And keeping the music thing going... this week One Direction are also visiting the North East and then there was the Radio 1 Big Weekend 2014 from Glasgow (Coldplay were excellent).
+----------
+[1] Penn A. et al. Intestinal permeability as measured by lactulose mannitol ratio continues to decrease during infancy after 3 months of age for both control infants and infants at high risk for autism spectrum disorders (LB751). The FASEB Journal. 2014. 28: LB751.
+[2] Lambert GP. et al. Effect of aspirin dose on gastrointestinal permeability. Int J Sports Med. 2012 Jun;33(6):421-5.
+[3] Weaver LT. et al. Intestinal permeability in the newborn. Archive Dis Child. 1984; 59: 236-241.
+[4] Catassi C. et al. Intestinal permeability changes during the first month: effect of natural versus artificial feeding. J Pediatr Gastroenterol Nutr. 1995 Nov;21(4):383-6
+----------
+Alexander Penn, Tiffany Lai, Leslie Carver, Sharon Taylor, Geert Schmid-Schnbein, & Karen Dobkins (2014). Intestinal permeability as measured by lactulose mannitol ratio continues to decrease during infancy after 3 months of age for both control infants and infants at high risk for autism spectrum disorders The FASEB Journal, 28
+Posted by Paul Whiteley at 09:25
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: autism, development, leaky gut, risk, siblings
+Friday, 23 May 2014
+GcMAF and autism continued
+"GcMAF treatment was able to normalize the observed differences in the dysregulated gene expression of the endocannabinoid system of the autism group". That is the potentially very important finding from Dario Siniscalco and colleagues* (open-access here) continuing the increasing scientific interest in all-things GcMAF (Gc Macrophage Activating Factor) with autism in mind.
+Watson and the shark @ Wikipedia
+A quick recap first: I've talked GcMAF and autism on this blog before (see here and see here) and how activating the 'big eaters' (macrophages) of the immune system might be important for some autism and a variety of other conditions too. The collected literature on GcMAF and autism is small... very small... at the moment comprising one paper by Bradstreet and colleagues [2]. So it is indeed a welcome sight to see some more science being done on this area (with the promise of more to come).
+The recent paper by Siniscalco et al is open-access but a few pointers might be useful:
+Blood samples were provided by a small group of participants diagnosed with autism (n=22) and age- and sex-matched asymptomatic controls (n=20). Blood monocyte-derived macrophages (BMDMs) were derived from said samples and dosed with GcMAF.
+At the same time, building on previous work by the authors [3] suggesting involvement of the cannabinoid system (EC) in some cases of autism, authors sought to examine whether the therapeutic effects of GcMAF previously highlighted in autism, might have something to do with the regulation of genes involved with the cannabinoid system. To look at this question, they extracted RNA from the BMDMs to look at the effect of GcMAF on the "transciptional regulation of EC genes". Those genes included CB2R, FAAH, NAPE-PLD and GAPDH.
+The results: quite a few of them but they included: "GcMAF treatment was able to significantly increase gene expressions both NAPE-PLD... and FAAH" in BMDMs from participants with autism. This contrasted with no observed changes in gene expression of any of the EC genes in the control samples.
+Perhaps a little unusually given the meaning of the name GcMAF as a 'macrophage activating factor', "GcMAF was able to trigger overall macrophage deactivation in autistic samples". Based on looking at something called Ki67 involved in cell proliferation, authors reported "a decrease of 23% in GcMAF treated monocyte derived macrophages from autistic children as compared to untreated macrophage cells". This reduction was also noted in the control samples too.
+I don't mind telling you that I kinda reached the limits of my very rudimentary knowledge of GcMAF and autism with this paper. I do find that the possibility of involvement of the cannabinoid system to cases of autism to be something really rather interesting as per other results in this area [3] and related research including that potentially impacting on comorbidity such as epilepsy. Linking GcMAF to that system potentially opens up some interesting research avenues.
+The fact also that GcMAF seemed to have a deactivating effect on macrophages is also a point of interest. I hope I'm not mis-interpreting the findings or anything but I do wonder if this would reinforce the fact that other biological effects may need further analysis when it comes to GcMAF and autism. It's also interesting that nagalase activity was not discussed in the Siniscalco paper so perhaps further inspection of those EC genes and their expression with nagalase in mind should be indicated in future work too.
+And if you want the authors take on this work, look no further...
+Here's a little song for everyone out there.... so said Kiss. And the rest is rock history.
+----------
+[1] Siniscalco D. et al. The in vitro GcMAF effects on endocannabinoid system transcriptionomics, receptor formation, and cell activity of autism-derived macrophages. J Neuroinflammation. 2014 Apr 17;11(1):78.
+[2] Bradstreet JJ. et al. Initial observations of elevated alpha-N-acetylgalactosaminidase activity associated with autism and observed reductions from GC protein—macrophage activating factor injections. Autism Insights. 2012. 4: 31-38.
+[3] Kerr DM. et al. Alterations in the endocannabinoid system in the rat valproic acid model of autism. Behav Brain Res. 2013 Jul 15;249:124-32.
+----------
+Siniscalco D, Bradstreet JJ, Cirillo A, & Antonucci N (2014). The in vitro GcMAF effects on endocannabinoid system transcriptionomics, receptor formation, and cell activity of autism-derived macrophages. Journal of neuroinflammation, 11 (1) PMID: 24739187
+Posted by Paul Whiteley at 09:23
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: autism, blood, endocannabinoids, Gc Macrophage Activating Factor (Gc-MAF), genetics, macrophage, nagalase
+Wednesday, 21 May 2014
+Vaccines not associated with autism: a meta-analysis
+I'm gonna warn you that this is probably the longest of my ramblings so far covering one of the most controversial topics linked to autism in recent years... so it might be best if I provide you with some music to start with (Pink Floyd and Breathe) and suggest that you get yourself comfortable.
+The singer @ Wikipedia
+So then...
+"Findings of this meta-analysis suggest that vaccinations are not associated with the development of autism or autism spectrum disorder".
+That was the conclusion reached in a study published by Luke Taylor and colleagues [1] based on an analysis of the collected research literature involving well over a million children looking at the possibility of a relationship between vaccination and the subsequent development of autism. In that description of vaccinations, the authors included the use of the measles-mumps-rubella (MMR) vaccine and mercury / thimerosal (thiomersal) exposure from other vaccines. The authors reported no evidence of an increased risk for autism following such routine vaccinations.
+In case you are really interested here is a list of the studies included in the meta-analysis:
+Cohort studies: Andrews et al, 2004; Hviid et al, 2003; Madsen et al, 2002; Uchiyama et al, 2007; Verstraeten et al, 2003.
+Case-control studies: DeStefano et al, 2004; Mrozek-Budzyn et al, 2010; Price et al, 2010; Smeeth et al, 2004; Uno et al, 2012.
+I might also refer you to other discussion about the Taylor study too (see here and see here and see here).
+To describe this area of the autism landscape as a hot potato does little justice to the column inches and sound-bites generated down the years and indeed, how it has so passionately divided elements of the autism community. Dr Tom Insel, current head of the US National Institute of Mental Health (NIMH) perhaps described it best in his 'Four Kingdoms of Autism' post equating the reports of post-vaccination effects linked to the onset of autism as falling into the 'Injury' kingdom and how they contrasted with the views of the other kingdoms of thought. More on that post coming shortly...
+Acknowledging the public health message about the very important value of vaccination even possibly linked to the "prevention" of a number of cases of autism according to some research [2] (open-access here) alongside the often very personal views held on this particular topic, I'm going to remind readers that this is a blog about autism research. The currency is peer-reviewed studies and science is meant to be cold, objective and impartial albeit based on probability not absolutes. It is with this in mind, that I want to go through some of the collected literature in this area. I might add that I don't profess that this blog entry is the most comprehensive overview of the available research literature, merely a snapshot covering what I think are some of the important points. As always, no medical advice is given or intended...
+So:
+Type in the words 'autism and vaccine' into PubMed and quite an array of peer-reviewed science comes up. Actually, 'science' is perhaps too universal a word to use as many papers listed are letters or responses to letters arguing about 'fraud', 'myths', 'court cases' and the like. Even the words 'story-telling' pops up in the search.
+What is clear from the majority of science listed in that search is that there is very probably not going to be any universal connection between vaccination and the onset of autism or autism spectrum disorder (ASD). Take for example the study from Uno and colleagues [3] which was included in the Taylor meta-analysis and their conclusion: "there were not any convincing evidences that MMR vaccination and increasing the number of vaccine injections were associated with an increased risk of ASD in a genetically homogeneous population". Indeed, the too-much-too-soon argument was also reported on in another paper by DeStefano and colleagues [4] covered in a previous post (see here) who concluded: "increasing exposure to antibody-stimulating proteins and polysaccharides in vaccines during the first 2 years of life was not related to the risk of developing an ASD". That's not however to say that other studies [5] (open-access here) have not reported correlations between things like "increasing organic-Hg exposure from Thimerosal-containing childhood vaccines and the subsequent risk of an ASD diagnosis". But bear in mind correlation is not the same as causation...
+Going back to the Kingdoms blog post from Dr Insel, I was taken by one sentence included in that entry: "While epidemiological studies do not support a link between vaccination and autism, those convinced that autism is an injury argue that population studies may obscure a link in rare individual cases". In light of this sentiment and the growing interest in the plural 'autisms' over autism, I'm gonna link to some research chatter about individual cases where vaccinations have been mentioned. The report by Eggers [5] talking about a case of autism coincidental to the administration of a smallpox vaccination seems to be one of the earliest suggestions of a possible link between the two issues. Causality was however "considered extremely unlikely" in that particular description. The case of Hannah Poling [6] including a response from her father, Dr Jon Poling [7] in light of another paper of his [8] represents a modern-day example. For those that might not know, this was the case of a young girl "diagnosed with encephalopathy caused by a mitochondrial enzyme deficit" who successfully won compensation "under the [US] Vaccine Injury Compensation Program (VICP)" correlating her vaccination history with her encephalopathy. You might notice a lack of the word 'autism' in that particular case description but rather the term "regressive encephalopathy with autistic features". Accepting the point that this was a legal decision, the mitochondrial bit to Miss Poling's presentation might draw one to the whole area of mitochondrial dysfunction and autism (see here) and, as some writers have talked about, whether there may be more research to do in this area [9]. I will also refer readers to some subsequent discussion on this issue based on the PIND study (see here and author response here).
+I've previously discussed the very important paper by Mady Hornig and colleagues [10] (open-access here) in the context of regressive autism and gastrointestinal (GI) issues (see here). Outside of their suggestion that: "Autism with GI disturbances is associated with elevated rates of regression in language or other skills and may represent an endophenotype distinct from other ASD" were their findings of "strong evidence against association of autism with persistent MV [measles virus] RNA in the GI tract or MMR exposure". Alongside other work in this area [11] and here [12] the original suggestion on "the presence of measles virus and gut pathology in children with developmental disorder" by Uhlmann and colleagues [13] (open-access here) has not stood up well to independent scientific replication.
+The topic of developmental regression in autism is also something which has cropped up in quite a few of the reports where vaccination and autism are mentioned in the same sentence. The paper by Goin-Kochel & Myers [14] highlighted how parents tended to report “external mechanisms” (e.g., vaccinations, environmental toxins) where such regressive onset was present in their child compared with more genetic based views around a more "congenital type" of onset. The results from Richler and colleagues [15] reflect the consensus of quite a lot of the literature in this area, whereby they failed to find "evidence that onset of autistic symptoms or of regression was related to measles-mumps-rubella vaccination" in their cohort.
+On a previous blog entry with a title with perhaps as spurious a connection to a piece of research that I have yet seen in autism research (see here) I mentioned the study by Gentile and colleagues [16] reporting: "Children with ASD have a similar level and seropositivity rate of antibodies against the MMR vaccine to same-age controls". I did talk about how the Gentile results were slightly at odds with other research in this area such as that from Singh and colleagues [17] who reported: "a significant increase in the level of MMR antibodies in autistic children" and how: "an inappropriate antibody response to MMR, specifically the measles component thereof, might be related to pathogenesis of autism". Singh further suggested [18] that such an elevated antibody response to MMR vaccine may be part and parcel of "autoimmune autistic disorder (AAD) as a major subset of autism". At the time of writing, I've seen no further research to prove or disprove this subset in the peer-reviewed literature, despite the fact that autoimmunity and autism does feature quite regularly in the research literature.
+One final area worth mentioning is the question of whether other events around the time of vaccination might have an effect on any subsequent developmental outcome. I'm thinking specifically about the paper by Schultz and colleagues [19] talking about: "acetaminophen (paracetamol) use after the measles-mumps-rubella vaccination" and the raised odds ratios they report based on parental survey. Paracetamol has come in for some scientific stick in recent times (see here) and the question still remains unanswered about any link or not for such post-vaccination antipyretic use and autism risk. As an aside, the Taylor paper does include an epilogue following the main study report where the corresponding author Guy Eslick talks about his own family experiences of vaccination and one of his children having a "serious event" following vaccination. He talks about taking "proactive measures to reduce the risk of similar adverse effects" with his other children involving "a dose of paracetamol 30 min before the vacccination .. to reduce any fever that might develop after the injection". Indeed, staying on the topic of fever is the study by Shoffner and colleagues [20] (talked about here) suggesting again "a subgroup of patients with mitochondrial disease may be at risk of autistic regression with fever" and further "fever management appears important for decreasing regression risk". It's confusing.
+Despite being over 15 years down the line from the original [retracted] 1998 paper which thrust vaccination and autism into the media spotlight and with quite a few investigations in the intervening period talking about no population-wide correlation between the two factors, this issue still courts research and publicity. As indicated in a previous post on immunisation uptake and siblings of children with autism (see here) there is still a degree of disconnect between the overall message from the research base and the views and opinions of some suggesting a link with specific cases. I'm not in any position to question anyone about their own individual child and observations. As the recent paper from Muskat and colleagues [21] suggested when autism comes to the hospital: "Supportive health-care providers were those who acknowledged parents as experts..." (even Dr Eslick confirms in the epilogue to the Taylor paper: "As a parent I know my children better than anyone..."). That being said, I have to reiterate the Taylor findings and their quite emphatic proclamation regarding a lack of evidence for any connection.
+Without trying to dilute the important health message on the value of vaccination, I want to discuss a few potentially important final points which might also be pertinent. I am nearly finished I promise you.
+From the paper by Roberta Kwok [22] "vaccines are biological products with biological effects". The lessons from the Pandemrix flu vaccine - narcolepsy story for example, highlight how, in some very rare cases, there may be adverse effects following vaccination. Research linking the urabe-containing MMR vaccine and aseptic meningitis [23] is another example, although I hasten to add I've not found any peer-reviewed evidence to suggest that aseptic meningitis is related to autism onset. Vigilance is the watchword, and as the paper by Woo and colleagues [24] describes, there are mechanisms in place to monitor reported adverse events even where autism is mentioned. It should be noted that Taylor and colleagues did not include certain papers in their meta-analysis "that recruited their cohort of participants solely from the Vaccine Event Reporting System (VAERS) in the United States" because of "its many limitations and high risk of bias including unverified reports, underreporting, inconsistent data quality, absence of an unvaccinated control group and many reports being filed in connection with litigation".
+The paper by Nyhan and colleagues [25] (open-access here) talking about the outcomes of various vaccine promotion messages offers some important advice when trying to increase public confidence in the vaccination program. One of the most important points raised from the study is to test the message: "the importance of measuring beliefs and behavioral intent when assessing health interventions". I might also drop in the study by Dixon & Clarke [26] at this point too.
+In a previous post discussing the paper by Akins and colleagues [27] I hinted at the links formed by some people interested in the complementary and alternative medicine (CAM) arena and certain views on the topic of vaccination. It's not by any means a universal relationship but certainly some purveyors of CAM do hold some alternative views on the value of vaccination. As per the paper by Ernst [28] "a campaign to clarify the risk-benefit profile of immunisations for both users and providers of CAM" may be a good idea but bearing in mind what Nyhan et al recently reported.
+To once again reiterate, the conclusions of the Taylor paper based on meta-analysis of a significant number of study participants add to the message that vaccines are probably not associated with autism onset. This should have important implications for health promotion and onwards the goals of eradicating diseases which only a few decades ago were killing hundreds/thousands of people (see here). I'd like to link to a passage from the very famous author Roald Dahl and for example, how measles changed his world alongside a very informative infographic from the US CDC estimating that some 13.8 million deaths have been averted worldwide between 2000-2012 thanks to vaccination against measles and rubella.
+In light of the Poling decision and the various gaps in the research base on issues such as post-vaccination paracetamol use or fever or underlying mitochondrial or autoimmune issues being potentially associated with autism, science still though has an important role to play in this area. I've also talked about outliers before on this blog (see here) and might also point you in the direction of how even something like those horde of bacteria which call our GI tract home might also be something to look at [29] (discussed on a sister blog entry). If anything else research should continue to ensure the already established safety profile of vaccination(s) continues [30] alongside other important issues such as how vaccines are administered [31] and the importance of timely vaccination [32] in order to aid any additional PR that might be needed. It may even perhaps illuminate new directions on the underlying genetics and biology of at least some of the autism spectrum disorders as per the implications from those Berger findings [2] and that older work on congenital rubella and autism risk...
+And rest.
+----------
+[1] Taylor LE. et al. Vaccines are not associated with autism: An evidence-based meta-analysis of case-control and cohort studies. Vaccine. 2014. 9 May.
+[2] Berger BE. et al. Congenital rubella syndrome and autism spectrum disorder prevented by rubella vaccination--United States, 2001-2010. BMC Public Health. 2011 May 19;11:340.
+[3] Uno Y. et al. The combined measles, mumps, and rubella vaccines and the total number of vaccines are not associated with development of autism spectrum disorder: the first case-control study in Asia. Vaccine. 2012 Jun 13;30(28):4292-8.
+[4] DeStefano F. et al. Increasing exposure to antibody-stimulating proteins and polysaccharides in vaccines is not associated with risk of autism. J Pediatr. 2013 Aug;163(2):561-7.
+[5] Eggers C. Autistic syndrome (Kanner) and vaccination against smallpox. Klin Padiatr. 1976 Mar;188(2):172-80.
+[6] Offit PA. Vaccines and Autism Revisited — The Hannah Poling Case. NEJM. 2008; 358:2089-2091
+[7] Poling JS. Vaccines and Autism Revisited. NEJM. 2008; 359:655-656
+[8] Poling JS. et al. Developmental regression and mitochondrial dysfunction in a child with autism. J Child Neurol. 2006 Feb;21(2):170-2.
+[9] Weissman JR. et al. Mitochondrial disease in autism spectrum disorder patients: a cohort analysis. PLoS One. 2008;3(11):e3815.
+[10] Hornig M. et al. Lack of association between measles virus vaccine and autism with enteropathy: a case-control study. PLoS One. 2008 Sep 4;3(9):e3140.
+[11] Baird G. et al. Measles vaccination and antibody response in autism spectrum disorders. Arch Dis Child. 2008 Oct;93(10):832-7.
+[12] D'Souza Y. et al. No evidence of persisting measles virus in peripheral blood mononuclear cells from children with autism spectrum disorder. Pediatrics. 2006 Oct;118(4):1664-75.
+[13] Uhlmann V. et al. Potential viral pathogenic mechanism for new variant inflammatory bowel disease. Mol Pathol. 2002 Apr;55(2):84-90.
+[14] Goin-Kochel RP. & Myers BJ. Congenital Versus Regressive Onset of Autism Spectrum Disorders.
+Parents' Beliefs About Causes. Focus Autism Dev Disord. 2005; 20: 169-179.
+[15] Richler J. et al. Is there a 'regressive phenotype' of Autism Spectrum Disorder associated with the measles-mumps-rubella vaccine? A CPEA Study. J Autism Dev Disord. 2006 Apr;36(3):299-316.
+[16] Gentile I. et al. Response to measles-mumps-rubella vaccine in children with autism spectrum disorders. In Vivo. 2013 May-Jun;27(3):377-82.
+[17] Singh VK. et al. Abnormal measles-mumps-rubella antibodies and CNS autoimmunity in children with autism. J Biomed Sci. 2002 Jul-Aug;9(4):359-64.
+[18] Singh VK. et al. Phenotypic expression of autoimmune autistic disorder (AAD): a major subset of autism. Ann Clin Psychiatry. 2009 Jul-Sep;21(3):148-61.
+[19] Schultz ST. et al. Acetaminophen (paracetamol) use, measles-mumps-rubella vaccination, and autistic disorder: the results of a parent survey. Autism. 2008 May;12(3):293-307.
+[20] Shoffner J. et al. Fever plus mitochondrial disease could be risk factors for autistic regression. J Child Neurol. 2010 Apr;25(4):429-34.
+[21] Muskat B. et al. Autism comes to the hospital: The experiences of patients with autism spectrum disorder, their parents and health-care providers at two Canadian paediatric hospitals. Autism. 2014. May 8.
+[22] Kwok R. The real issues in vaccine safety. Nature. 2011; 473: 436-438.
+[23] Dourado I. et al. Outbreak of aseptic meningitis associated with mass vaccination with a urabe-containing measles-mumps-rubella vaccine: implications for immunization programs. Am J Epidemiol. 2000 Mar 1;151(5):524-30.
+[24] Woo EJ. et al. Developmental regression and autism reported to the Vaccine Adverse Event Reporting System. Autism. 2007 Jul;11(4):301-10.
+[25] Nyhan B. et al. Effective messages in vaccine promotion: a randomized trial. Pediatrics. 2014 Apr;133(4):e835-42.
+[26] Dixon G. & Clarke C. The effect of falsely balanced reporting of the autism-vaccine controversy on vaccine safety perceptions and behavioral intentions. Health Educ Res. 2013 Apr;28(2):352-9.
+[27] Akins RO. et al. Utilization Patterns of Conventional and Complementary/Alternative Treatments in Children with Autism Spectrum Disorders and Developmental Disabilities in a Population-Based Study. J Dev Behav Pediatr. 2014; 35: 1-10.
+[28] Ernst E. Rise in popularity of complementary and alternative medicine: reasons and consequences for vaccination. Vaccine. 2001 Oct 15;20 Suppl 1:S90-3.
+[29] Lamousé-Smith ES. et al. The intestinal flora is required to support antibody responses to systemic immunization in infant and germ free mice. PLoS One. 2011;6(11):e27662.
+[30] Lievano F. et al. Measles, mumps, and rubella virus vaccine (M-M-R™II): a review of 32 years of clinical and postmarketing experience. Vaccine. 2012 Nov 6;30(48):6918-26.
+[31] Saroja Ch. et al. Recent trends in vaccine delivery systems: A review. Int J Pharm Investig. 2011 Apr;1(2):64-74.
+[32] Hambridge SJ. et al. Timely Versus Delayed Early Childhood Vaccination and Seizures. Pediatrics. 2014. May 19.
+----------
+Taylor LE, Swerdfeger AL, & Eslick GD (2014). Vaccines are not associated with autism: An evidence-based meta-analysis of case-control and cohort studies. Vaccine PMID: 24814559
+Posted by Paul Whiteley at 09:25
+Reactions:
+1 comment:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: antibodies, autism, autoimmunity, correlation, gastrointestinal, mercury, mitochondrial disorder, paracetamol, risk, vaccine
+Monday, 19 May 2014
+ADOS via YouTube for autism 'triage'?
+The paper by Vincent Fusaro and colleagues [1] and some accompanying press attention about this study caught my eye recently. Based on an analysis of 100 home videos posted on YouTube, some tagged with words leading to the assumption of the presence of autism, undergraduate researchers used scoring measures from the gold-standard autism assessment schedule ADOS (Autism Diagnostic Observation Schedule) to quite accurately grade whether children appearing in the videos could be classified as autistic or not.
+Testing, testing, 1, 2.. @ Wikipedia
+Having quite recently attended a conference where autism screening and assessment was a big talking point, including some chatter specifically about the ADOS and it's relationship to DSM-5 (see here for some background), it is timely that this paper was published when it was. That also one of the authors is Dennis Wall - he of the machine-learning work on ADOS (see here) and ADI (see here) - was also of some interest. This is a man who seems to be looking very closely at the ADOS (and ADI).
+The Fusaro paper is open-access so there is little point in me just repeating the results. A few aspects however caught my eye:
+The focus on "non-clinical raters" is interesting. Anyone who knows a little bit about the ADOS will know about the training required to administer it and indeed, CPD to maintain those all-important inter-rater reliability figures. The Fusaro results suggested that: "Raters were purposely given minimal instructions to code only when the video clearly depicted a behavior and/or contained opportunities for the child to exhibit the behavior in question, and otherwise to code the behavioral item as not applicable (N/A)". The mean rater agreement in the Fusaro paper is quoted at 73.3% "despite the diversity of environmental contexts represented in the videos". That's not bad at all given that a typical ADOS relies on specific cues and scenarios to score behaviours.
+That being said: "Because two of the raters helped to locate videos appropriate for this study, they were not always naïve to the diagnoses". So, not everyone scoring the videos was completely in the dark about whether autism was mentioned or not when it came to some of the videos examined. Remember also that these videos were tagged with words pertinent to the presentation of autism meaning that parents or caregivers already potentially recognised some of the symptoms being displayed. Fair-dos to the authors though as they relied on a professionally-trained ADOS practitioner completely blinded to the suggestion of autism or not in videos to score a selection of videos and showing agreement "between each non-clinical and clinical rater [in] 71.3%".
+Raters only scored behaviours according to module 1 of the ADOS. Module 1 ADOS is normally reserved for those children who have little or no phrase speech. Given that children in the videos ranged in ages between 1 and 15 years and were only included for analysis if the video was under 10 minutes long, I'd be minded to say that we have to be a little bit careful when talking about accuracy of the results obtained.
+That all being said, I don't want to take anything away from the Fusaro results and their conclusion: "it is possible for non-clinical raters to correctly detect the presence of autism with high inter-rater reliability and >94% accuracy". In these days of increasing pressures to recognise and diagnose autism as early as possible, anything that might potentially highlight children where further observations and assessments might be required should be welcomed. That also there is a rather large bank of undergraduate students around the world studying psychology or related degrees who might be able to provide a lay first-sweep assessment of children perhaps requiring more formal inquiry is an untapped resource that, at the very least, is worthy of more detailed research inspection.
+And just in case you'd like some more discussion about this study, have a look here... complete with a response from the Dr Fusaro too.
+Music y'say. Well, alrighty... Heart of Glass by Blondie.
+----------
+[1] Fusaro VA. et al. The Potential of Accelerating Early Detection of Autism through Content Analysis of YouTube Videos. PLoS ONE. 2014; 9: e93533.
+----------
+Fusaro, V., Daniels, J., Duda, M., DeLuca, T., D’Angelo, O., Tamburello, J., Maniscalco, J., & Wall, D. (2014). The Potential of Accelerating Early Detection of Autism through Content Analysis of YouTube Videos PLoS ONE, 9 (4) DOI: 10.1371/journal.pone.0093533
+Posted by Paul Whiteley at 09:32
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: ADOS, assessment, autism, diagnosis, screening, symptoms, videos, YouTube
+Saturday, 17 May 2014
+Nearly 13% of children with a DSM-IV diagnosis?
+I had tweeted about the paper by Sandra Petresco and colleagues [1] (open-access here) a while back as being the source of the sentence: "Nearly 13 % of the children presented a psychiatric diagnosis according to DSM-IV" based on their analysis of the Pelotas Birth Cohort [2] in Brazil.
+Aleijadinho: Angel of the Passion @ Wikipedia
+The crux of the Petresco paper was that by looking at all the children, or at least the majority of children, born during 2004 in the city of Pelotas in Brazil and following them up when aged 6 years using the Developmental and Wellbeing Assessment (DAWBA) schedule [3], the rates of various developmental and/or psychiatric conditions according to ICD-10 and DSM-IV criteria were estimated.
+The results (bearing in mind the paper is open-access)...
+Out of 4231 live births, 3,585 children were available for investigation at the age of 6. Trained interviewers delivered the DAWBA to parents, mostly in the clinical setting but about a fifth delivered in the family home. Data was analysed taking into account demographic information such as gender and socioeconomic status and various diagnoses assessed.
+Results: "It was found that 13.2% (N=475) and 12.8% (N=458) of the children fulfilled criteria for at least one diagnosis of psychiatric disorder according to DSM-IV and ICD-10, respectively". Boys were more likely to present with "any diagnosis". Top of the diagnostic pops was "any anxiety disorder" reported in nearly 9% of both boys and girls across both DSM and ICD definitions and then other diagnoses like ADHD (attention deficit hyperactivity disorder) and conduct disorder figured less frequently (both hovering around the 2-3% mark) which is interesting. Children from lower income families also seemed to have more risk of diagnosis.
+Another interesting figure here: autism was only picked up in 0.3% (n=10, 8 boys and 2 girls) of cases for both DSM-IV and ICD-10 criteria. Certainly spot on the mark for the 4:1 sex ratio but frequency-wise, quite a lot less than has been quoted in other parts of the world accepting some differences in the numbers included for study. That being said the authors do note that they only administered the screening questions from the "developmental section" of the DAWBA so might not have caught every case of autism. Other studies looking at DAWBA as a screening instrument for autism have also tended to suggest under-diagnosis as potentially being an issue [4].
+When it came to presenting with symptoms reflective of more than one condition, about 16-17% of children fitted this bill across the diagnostic schedules. An ADHD / conduct disorder came out as the most common combination (29%). More than two comorbid conditions was a rare event (n=3) but when present, all were boys.
+I'm sure you'll agree that there is some rather interesting data to be had there. I can't help but wonder if similar cohorts using the same DAWBA tool and screening method sited at other areas of the globe would provide a rather interesting comparison to the Brazil data. Not least covering any relationship between different ethnicities in different environments and the frequency of reported DSM-IV and ICD-10 diagnoses?
+That headline figure of 13% of children fitting some kind of diagnostic bill when it comes to DSM-IV and ICD-10 also merits a lot more examination. Again, with my head full of wonder, I'd be asking about whether further genetic / biochemical / other inspection might be revealing for this cohort, particularly when one takes into account the discussions about ESSENCE (see here) and the introduction of RDoC (see here) to research proceedings. How this figure might ebb and flow would also be a good idea for future study, bearing in mind the changing diagnostic times that we live in (see here).
+Music to close. Grenade by Bruno Mars.
+----------
+[1] Petresco S. et al. Prevalence and comorbidity of psychiatric disorders among 6-year-old children: 2004 Pelotas Birth Cohort. Soc Psychiatry Psychiatr Epidemiol. 2014 Feb 1.
+[2] Santos IS. et al. Cohort profile: the 2004 Pelotas (Brazil) birth cohort study. Int J Epidemiol. 2011 Dec;40(6):1461-8.
+[3] Goodman R. et al. The Development and Well-Being Assessment: description and initial validation of an integrated assessment of child and adolescent psychopathology. J Child Psychol Psychiatry. 2000 Jul;41(5):645-55.
+[4] Posserud M. et al. The prevalence of autism spectrum disorders: impact of diagnostic instrument and non-response bias. Soc Psychiatry Psychiatr Epidemiol. 2010 Mar;45(3):319-27.
+----------
+Petresco S, Anselmi L, Santos IS, Barros AJ, Fleitlich-Bilyk B, Barros FC, & Matijasevich A (2014). Prevalence and comorbidity of psychiatric disorders among 6-year-old children: 2004 Pelotas Birth Cohort. Social psychiatry and psychiatric epidemiology PMID: 24488152
+Posted by Paul Whiteley at 08:29
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: ADHD, autism, DSM IV, ESSENCE, ICD-10, prevalence, Research Domain Criteria (RDoC)
+Thursday, 15 May 2014
+Evidence for an autoimmune aetiology of epilepsy?
+With a title like that, I was bound to post about the paper by Mei-Sing Ong and colleagues [1] and their suggestion that: "Epilepsy and autoimmune disease frequently co-occur; patients with either condition should undergo surveillance for the other".
+Capo di Noli @ Wikipedia
+United under the umbrella that is autism spectrum comorbidity (even possible phenotypes), I've talked quite a bit on this blog about epilepsy / seizure disorders (see here) and autoimmune conditions (see here), and how coexistence alongside the presentation of autism may be a potential route towards some overlapping or shared genetic or biochemical pathways being involved. It is indeed a coincidence that one of the authors on the Ong paper - Isaac Kohane - is one and the same with some autism [comorbidity] research in mind.
+The Ong paper details the results of a a survey of health insurance claims in the US where authors "examined the relationship between epilepsy and 12 autoimmune diseases: type 1 diabetes mellitus, psoriasis, rheumatoid arthritis, Graves disease, Hashimoto thyroiditis, Crohn disease, ulcerative colitis, systemic lupus erythematosus, antiphospholipid syndrome, Sjögren syndrome, myasthenia gravis, and celiac disease". They reported that the risk of epilepsy was higher amongst those people with an autoimmune condition - all 12 of the autoimmune conditions looked at - and particularly when it came to risk for children. More chatter about this study can be found here.
+Looking through many of those autoimmune conditions examined by Ong, the first thing that struck me was that many of those conditions have been talked about in research circles in the context of autism. Bowel conditions such as ulcerative colitis and Crohn's disease have certainly seen their fair share of discussion (see here) alongside the possibility of other bowel disease presentation in cases (see here). Coeliac (celiac) disease and autism... well, don't get me started. Antiphospholipid syndrome, or at least anti-phospholipid antibodies, have also been talked about in the context of autism too (see here). I could go on and on and on; reiterating that a diagnosis of autism is seemingly protective of nothing when it comes to other health issues, and quite a few of those health issues tend to fall into the autoimmune domain.
+The next thing that struck me about that list of autoimmune conditions and indeed, how they might link into something like epilepsy, was the issue of food, and in particular gluten. Now, I'm not trying to make any sweeping generalisations here or anything like that, but outside of the classical relationship between coeliac disease and gluten, there is quite a bit of emerging evidence that gluten may be implicated in so much more including some overlap with autism. Don't believe me? Well, take type 1 diabetes as one example and papers like the one by Marietta and colleagues [2] on gluten modulating the incidence of type 1 diabetes (at least in mice). The paper by Sildorf and colleagues [3] even went as far as reporting on how a gluten-free diet was associated with clinical remission without insulin therapy for one boy with type 1 diabetes, bearing in mind no clinical or medical advice is given or intended from me on this issue. At this point I might also drop in a note about the various research being done on epilepsy, some epilepsy, and the use of a ketogenic diet (high fat, low carbohydrates which I assume impacts on gluten intake) as potentially being relevant here too.
+Alessio Fasano, who has been mentioned on this blog before, summarised the possibility of a connection between gluten (gliadin) and type 1 diabetes quite nicely in one of his papers [4]. Indeed, following on from that paper and the notion that "loss of intestinal barrier function is necessary to develop autoimmunity", the question emerges: does the association between autoimmune diseases and epilepsy also suggest that gut permeability (a.k.a leaky gut) might be a feature of some cases of epilepsy? I don't want to get too bogged down with answering that question aside from reiterating that following on from the observations of Ong et al if it was eventually confirmed that there may be an autoimmune component to at least some cases of epilepsy, autism and particularly those cases of autism accompanied by a diagnosis of epilepsy, may very well represent one of the next stages in the evolution of this research topic.
+Music to close. It's been a while since I've linked to an Elvis song, so here's Viva Las Vegas.
+----------
+[1] Ong MS. et al. Population-Level Evidence for an Autoimmune Etiology of Epilepsy. JAMA Neurol. 2014 Mar 31.
+[2] Marietta EV. et al. Low incidence of spontaneous type 1 diabetes in non-obese diabetic mice raised on gluten-free diets is associated with changes in the intestinal microbiome. PLoS One. 2013 Nov 13;8(11):e78687.
+[3] Sildorf SM. et al. Remission without insulin therapy on gluten-free diet in a 6-year old boy with type 1 diabetes mellitus. BMJ Case Rep. 2012 Jun 21;2012.
+[4] Visser J. et al. Tight junctions, intestinal permeability, and autoimmunity: celiac disease and type 1 diabetes paradigms. Ann N Y Acad Sci. 2009 May;1165:195-205.
+----------
+Ong MS, Kohane IS, Cai T, Gorman MP, & Mandl KD (2014). Population-Level Evidence for an Autoimmune Etiology of Epilepsy. JAMA neurology PMID: 24687183
+Posted by Paul Whiteley at 09:34
+Reactions:
+No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: autism, autoimmunity, coeliac disease, comorbidity, diabetes, epilepsy, gluten, inflammatory bowel diseases, leaky gut, phenotypes, risk
+Newer Posts Older Posts Home
+Subscribe to: Posts (Atom)
+Go on... search this blog
+Like what you see here? Help us make a difference to the lives of people with autism @ ESPA Research
+Twitter Feed
+Tweets by @PaulWhiteleyPhD
+Questioning Answers
+Loading...
+About Me
+Paul Whiteley
+View my complete profile
+Followers
+Follow by Email
+Blog Archive
+► 2019 (91)
+► April (15)
+► March (27)
+► February (24)
+► January (25)
+► 2018 (297)
+► December (22)
+► November (26)
+► October (26)
+► September (24)
+► August (21)
+► July (19)
+► June (25)
+► May (28)
+► April (27)
+► March (28)
+► February (25)
+► January (26)
+► 2017 (306)
+► December (28)
+► November (26)
+► October (26)
+► September (26)
+► August (19)
+► July (25)
+► June (26)
+► May (28)
+► April (24)
+► March (27)
+► February (24)
+► January (27)
+► 2016 (316)
+► December (21)
+► November (27)
+► October (27)
+► September (27)
+► August (27)
+► July (27)
+► June (27)
+► May (28)
+► April (27)
+► March (28)
+► February (25)
+► January (25)
+► 2015 (315)
+► December (25)
+► November (25)
+► October (27)
+► September (26)
+► August (26)
+► July (27)
+► June (27)
+► May (26)
+► April (25)
+► March (30)
+► February (25)
+► January (26)
+▼ 2014 (260)
+► December (27)
+► November (25)
+► October (30)
+► September (27)
+► August (25)
+► July (23)
+► June (25)
+▼ May (19)
+Cytomegalovirus and autism
+Toxic metal accumulation and autism?
+The Sensory Perception Quotient (SPQ) and autism
+Leaky gut as a later life event in autism?
+GcMAF and autism continued
+Vaccines not associated with autism: a meta-analys...
+ADOS via YouTube for autism 'triage'?
+Nearly 13% of children with a DSM-IV diagnosis?
+Evidence for an autoimmune aetiology of epilepsy?
+Autism research at IMFAR 2014
+Gluten sensitivity and psychiatry reviewed
+Neonatal jaundice and risk of autism?
+Regression and autism continued (yet again)
+Oxidative stress inducing mitochondrial dysfunctio...
+Formulating low dose naltrexone into a cream
+Weighing up genetics and environment in autism
+Autistic behaviours and Down's syndrome
+Autism secondary to enterovirus encephalitis
+Casomorphins and autism reignited?
+► April (15)
+► March (15)
+► February (15)
+► January (14)
+► 2013 (147)
+► December (10)
+► November (11)
+► October (12)
+► September (11)
+► August (12)
+► July (10)
+► June (12)
+► May (13)
+► April (14)
+► March (14)
+► February (13)
+► January (15)
+► 2012 (181)
+► December (11)
+► November (19)
+► October (19)
+► September (18)
+► August (15)
+► July (12)
+► June (13)
+► May (17)
+► April (17)
+► March (13)
+► February (15)
+► January (12)
+► 2011 (262)
+► December (10)
+► November (15)
+► October (24)
+► September (29)
+► August (33)
+► July (23)
+► June (29)
+► May (26)
+► April (35)
+► March (27)
+► February (11)
+Popular Posts
+Folic acid and autism: a micropost
+There is currently a lot of chatter about the study by Pål Surén and colleagues * (open-access) reporting that " Use of prenatal folic ...
+Coeliac Disease - a training post
+You're probably wondering why, with all the reams of autism research being produced every day, that I'm dedicating a post to describ...
+Differentiating between autism and ADHD the machine learning way (again)
+So: " These results support the potential of creating a quick, accurate and widely accessible method for differentiating risks betwee...
+On migration status and offspring autism severity
+" Black women from East Africa had more than 3.5 times the odds of autism spectrum disorder with intellectual disability in their chi...
+Healthcare use before, during and after a diagnosis of CFS/ME
+" Adults and children with CFS/ME [ chronic fatigue syndrome / myalgic encephalomyelitis ] have greater health care needs than the res...
+Physical activity levels and autism (again)
+" Adolescents with ASD [autism spectrum disorder] spent less time in MVPA [ moderate and vigorous physical activity ] compared to T...
+Assisted reproductive technology and risk of offspring autism meta-analysed
+" Our study indicated that the use of ART [ assisted reproductive technology ] may [be] associated with higher risk of ASD [autism ...
+Low dose suramin and autism: a small RCT with potentially big results
+'Low dose' has been a feature of my autism research reading this week; first starting with the results from Dan Quintana and colleag...
+GcMAF, nagalase and autism
+I think it might be worth starting this blog post with (a) reference to my very well-trodden caveat of not making any medical recommendatio...
+"Autoimmune epilepsy is an underrecognized condition..."
+" Among adult patients with epilepsy of unknown etiology, a significant minority had detectable serum Abs [ autoantibodies ] suggest...
+Total Pageviews
+My Blog List
+Cortical Chauvinism
+Laws of Conservation as Related to Brain Growth, Aging, and Evolution
+18 hours ago
+Epiphany
+Wnt, TCF4 and Pre-myelinating Oligodendrocytes
+1 day ago
+BishopBlog
+Review of 'Innate' by Kevin Mitchell
+4 days ago
+Science Over a Cuppa
+Once Again, Walking in the Footsteps of Mary Anning
+4 days ago
+BPS Research Digest
+Being Prompted To Think About Coffee Elevates Your Physiological Arousal And Focuses Your Mind, No Ingestion Required
+1 week ago
+Food for Thought - adventures in the not Nigella and not Jamie kitchen
+A new first: provision to work on core autism difficulties deemed 'educational' in recent First Tier SEN Tribunal
+1 week ago
+Evolutionary Psychiatry
+Psychosis and Symbiosis: Microbiome and Schizophrenia
+2 weeks ago
+My Life With Aspergers
+What's Next for Autistic Adults?
+1 month ago
+Brain Blogger
+What’s Personality Got To Do With Us? A Lot
+2 months ago
+Questioning Answers Blog by Paul Whiteley is licensed under a Creative Commons Attribution 4.0 International License.
+Based on a work at http://questioning-answers.blogspot.com/.
+ABOUT AUTISM SPECTRUM CONDITIONS
+Autism or autism spectrum conditions describe several presentations characterised by core issues with social affect and stereotyped or repetitive actions. Diagnosis is made by observation and analysis of developmental history. These are heterogeneous conditions which can carry various co-morbidities and whilst described as life-long are affected by age and maturation. Autism means different things to different people. To some it means a need for life-long support. To others it is part of the varied tapestry of humanity. To all it means a need to foster a welcoming society with appropriate support and opportunities.
+Questioning Answers. Simple theme. Theme images by PLAINVIEW. Powered by Blogger.

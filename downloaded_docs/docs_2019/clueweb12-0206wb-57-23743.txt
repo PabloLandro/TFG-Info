@@ -1,0 +1,560 @@
+
+HTTP/1.1 200 OK
+Date: Fri, 17 Feb 2012 03:58:16 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+Factsheet #5: What's New in Spinal Cord Injury Treatment and Cure Research? Translate this page with InterTran (tm) Deutsche Français Español Portuguese Japanese (Shift JIS) Finnish Italiano Svensk Russian/Ðóññêèé (CP 1251) Nederlands Brasileiro Danske Íslenska Norsk Croatian/hrvatski (CP 1250) Hungarian/Magyar (CP 1250) Polish/polski (CP 1250) Czech/ceski (CP 1250) Bulgarian (CP 1251) Romanian Serbian/srpski (Latin) Slovenian/slovenski (CP 1250) Greek/Åëëçíéêüò Welsh/'n Cymraeg National Spinal Cord Injury Association Resource Center Factsheet #5: What's New in
+        Spinal Cord Injury Treatment and Cure Research? When someone sustains a spinal cord injury (SCI), one of
+        the most difficult issues to deal with is that there is
+        no "cure" at the present time. One would think
+        that, with the "explosion in scientific
+        knowledge" we hear about almost every day, SOMEONE
+        would be doing SOMETHING to find a cure for people with
+        SCI. If we can achieve the impossible in other areas,
+        like transplanting entire organs and organ systems from
+        one person to another and isolating human genes, why
+        can't we figure out why the spinal cord does not repair
+        itself and then do something to correct this biological
+        problem? Compared to a lot of the scientific puzzles that
+        HAVE been solved, it shouldn't be all that difficult... There are really two separate issues involved in this
+        assumption: Is the scientific question, "Why won't the
+                spinal cord regenerate?" easy to answer? What's being done to find a cure? Let's look at these issues and put them into the
+        context of what scientists have been doing about SCI over
+        the past half century. Before World War II, an injury to the spinal cord was
+        considered to be a fatal condition. If you did not die as
+        a direct result of the injury, you probably would die
+        within a few weeks or months from complications, such as
+        a kidney infection, respiratory problems, or badly
+        infected skin sores. Fortunately, an improved understanding of SCI led to
+        better patient management, enabling many people to
+        survive their injuries and the initial period afterwards.
+        In addition, the discovery of penicillin and sulfa drugs
+        made common, but life-threatening complica-tions like
+        kidney and skin infections manageable conditions rather
+        than potential killers. Because the spinal cord carries vital information to
+        the brain, the muscles and many organs, the fact that SCI
+        is now a survivable injury is a miracle itself. However,
+        this miracle leads to another pressing need - to find a
+        way to reverse, or at least diminish, the devastating
+        physical effects of the injury. The Search For the Cure The 1980's and 1990's have been an exciting time for
+        people interested in spinal cord injury repair and
+        regeneration. Both in terms of treat-ment techniques and
+        general knowledge about nervous system function, the
+        progress that has occurred in recent years is
+        encouraging. The search for a cure involves one of the most complex
+        parts of the human body. The spinal cord is an integral
+        part of the body's most specialized system, the central
+        nervous system (CNS). The CNS consists primarily of the
+        brain and spinal cord. A major role of the spinal cord is to carry mes-sages
+        to and from all parts of the body and the brain. Some of
+        these messages control sensation, such as knowing your
+        finger is touching a hot stove, while others regulate
+        movement. The spinal cord also carries mes-sages that
+        regulate autonomic functions such as heart rate and
+        breathing - over which we generally do not exert
+        voluntary control. The spinal cord carries these messages through a
+        network of nerves which link the cells of the spinal cord
+        to target cells in all other systems of the body. An
+        individual nerve cell is called a neuron, each with
+        receptive branching fibers called dendrites. The axon,
+        carrying an output signal, extends from the cell body,
+        and is covered by a protective fatty substance called a
+        myelin sheath which helps the impulse travel efficiently. A nerve impulse from one neuron is picked up by the
+        dendrite of the next nerve cell in the pathway at a
+        specialized connection called a synapse. An
+        electrochemical reaction causes the impulse to
+        "jump" across the synapse and the signal
+        stimulates the second nerve cell and the impulse then
+        travels down its axon. The message is picked up and
+        transmitted by a series of neurons until the connection
+        is complete. There are millions of nerve cells within the spinal
+        cord itself. Some of these lower motor neurons receive
+        motor commands from the brain and send their signals
+        directly to the muscles. Other spinal cord neurons form
+        relay pathways for information travelling up or down the
+        length of the spinal cord. Still other spinal cord
+        neurons remain intact and form intricate circuits below
+        the level of injury. Because cells below the injury are
+        no longer under voluntary control, they cannot be
+        utilized as effectively and may cause unintentional
+        movements such as spasms. Regeneration Most of the cells in the human body have the ability
+        to repair themselves after an injury. If you cut your
+        finger, often you have a visible laceration for a few
+        days or weeks, followed by the formation of a scar. In
+        time, you may not be able to tell that the cut had
+        occurred. This indicates that skin cells regenerate, just
+        like cells in the blood vessels, organs and many other
+        tissues. Peripheral nerves (nerve fibers outside the
+        brain and spinal cord), such as those located in your
+        fingertips, also regenerate, although this process is
+        different from that in the skin and other organs. For years, scientists have focused on the big mystery:
+        "Why doesn't the central nervous system
+        regenerate?" This question is even more perplexing
+        because we know that central nerves in lower animal
+        species CAN regenerate. There are no definite answers to
+        this mystery yet, but scientists are exploring the
+        questions in many ways. Basic Cell Research An important avenue of research is to look at normal
+        cell function in the CNS of mammals. Scientists
+        investigating this area of research are attempting to
+        identify and describe cellular interactions in properly
+        working systems. In addition, they are working with SCI
+        models in an attempt to identify and explain what occurs
+        after an injury. Through cell research, scientists are trying to
+        identify the following: 1. What substances are present in the CNS which
+        "switch off" CNS nerve growth in mammals? It has been shown that regeneration occurs in
+                lower animals, as well as in mammalian fetuses in
+                the very early stages of development. At some
+                point in development, the cells appear to lose
+                the ability to regenerate. This loss may be
+                related to the maturation of the nerve cells or
+                to changes in other nervous system cells past
+                which axons must regenerate. 2. What growth inhibiting factors, present in the CNS
+        of mammals, prevent nerve cells from regenerating and
+        reestablishing connections (synapses)? Scientists have identified some proteins in the
+                myelin sheath surrounding spinal cord axons which
+                inhibit nerve cell growth. Additionally, other
+                regeneration-inhibiting proteins have been
+                identified on the surfaces of cells that form the
+                nervous system equivalent of a "scar".
+                Some scientists believe that nerve cells can be
+                encouraged to regrow and re-establish functional
+                synapses by removing or altering this cellular
+                "scar". Antibodies generated against
+                some of these proteins can neutralize the
+                inhibitors and allow growth to occur. The ability
+                of central nerves to regenerate in lower animals
+                is thought to be due to the lack of inhibitors in
+                their CNS. 3. Can growth stimulating substances can be introduced
+        into the mammalian CNS to encourage nerve growth and
+        synapse development? Investigators are attempting to alter the
+                environment around the injury site to encourage
+                nerve cell growth and repair. As described above,
+                our peripheral nerves can regenerate. This is due
+                to the presence of cell proteins that stimulate
+                rather than inhibit nerve growth. When these
+                cells or the factors they produce such as
+                "growth factors that nourish nerve cells are
+                introduced into the CNS, central nerve regrowth
+                can occur. Finding ways to effectively introduce
+                these cells or substances to achieve functional
+                recovery is a major goal of "cure"
+                research today. Development of New Therapeutic
+        Approaches Ongoing research using animal models to test possible
+        new therapies is progressing more rapidly than ever
+        before. This type of research takes several forms that
+        can best be explained as they apply to solving certain
+        types of damage that result from SCI. There are three
+        major classes of damage to neural tissues that have been
+        identified, each requiring a different therapeutic
+        approach: Death of nerve cells within the spinal cord.
+                Because nerve cells lose the ability to undergo
+                cell division as they mature into the highly
+                specialized forms that make up our nervous
+                systems, the death of nerve cells due to injury
+                presents a difficult problem. No functional
+                connections can be established if the nerves no
+                longer exist. Therefore, replacement of nerve
+                cells may be required. Disruption of nerve pathways. When the long axons
+                carrying signals up and down the spinal cord are
+                cut or damaged to the point where they break down
+                after an injury, the parents nerve cells and
+                axons often survive up to the point where the
+                injury occurred. In this case, regeneration of
+                damaged axons is a real possibility to
+                re-establish connections of nerve circuits. Demyelination, or the loss of the insulation
+                around axons. Animal studies and recent studies
+                of human specimens have established that in some
+                types of SCI, the nerve cells and axons may not
+                be lost or interrupted, but that the loss of
+                function may be due to a loss of myelin sheaths.
+                As described above, myelin sheaths provide
+                insulation so that electrochemical signals are
+                carried efficiently down the long, thin axons.
+                This type of damage may be the most amenable to
+                treatment because rewiring of complex circuits
+                may not be needed and remyelination of axons is
+                known to be possible. Although specific human injuries may involve any or
+        all types of damage just described, therapies developed
+        to combat any one of them might restore important
+        functions. The "cure" for spinal cord injury
+        may take the form of multiple strategies, each in turn
+        restoring functions that make important improvements in
+        the quality of life for a spinal cord injured individual. The approach to "cure" research then, is to
+        concentrate on techniques that hold the promise of
+        repairing specific types of spinal cord damage. With the
+        explosion of efforts and progress in the fields of
+        Neuroscience and Molecular Biology (sometimes called
+        genetic engineering), the scope of possible new therapies
+        is wider than ever before. Replacement of Nerve Cells Mature nerve cells cannot divide to heal a wound as
+        skin cells can. Replacement of nerve cells requires
+        transplantation of new nerve cells into the site of the
+        injury with the hope that they will mature and integrate
+        themselves into the host nervous system. One approach is
+        to transplant healthy CNS cells from the same animal
+        species. Researchers have been unanimous in their
+        agreement that transplantation of adult nerve tissues
+        does not work, while embryonic or fetal transplantation
+        can be quite successful. The embryonic tissues do grow
+        and develop, and scientists hope that they will form
+        circuits that will return important functions to areas
+        below the injury. Research to date has not supported the
+        hope that host axons would use these grafts as
+        "bridges" across the injury site. An important
+        consideration is that if fetal tissue transplants prove
+        successful in animal models, transferring this approach
+        to human beings will involve important ethical
+        considerations regarding donor tissues and other
+        important questions about immune rejection of cells
+        transplanted from one individual to another. Another approach that may avoid some of those problems
+        is the use of genetic engineering to manufacture
+        "cell lines" that would work as nerve cells
+        after grafting. This approach involves inserting segments
+        of DNA (genes) into fetal nerve cells that allow the
+        cells to divide indefinitely, creating an ongoing supply
+        of donor tissue. The use of purely neuronal cell lines
+        diminishes the chances of immunological rejection of the
+        grafts. Recently, rodent cell lines have been developed
+        that stop dividing after transplantation (so there is no
+        risk of tumor formation), and that mature into very
+        specialized nerve cells. Research has not yet shown that
+        these cells can restore function after spinal cord
+        injury. Very recently, scientists have learned that some cells
+        of the adult CNS can be stimulated to divide and develop
+        into new nerve cells. This exciting finding has opened up
+        new possibilities for cell line development without a
+        need for fetal tissue donors. Regeneration of Damaged Axons Nerve cells in both the central and peripheral nervous
+        systems are associated with helper cells called
+        neuroglial cells. After injury, the CNS helper cells
+        largely inhibit regeneration, while those of the
+        peripheral nerves, the Schwann cells, stimulate
+        regeneration, even in humans. Scientists are attempting
+        to isolate these cells from peripheral nerves and
+        transplant them into the spinal cord to induce
+        regeneration by providing an altered, supportive
+        environment. In this strategy, a SCI individual could act
+        as their own donor, since Schwann cells can be obtained
+        from biopsies of peripheral nerves in adults. Schwann cells, nerve cells and some other cells make
+        proteins known to nourish nerve cells called "growth
+        factors". By introducing these factors into injury
+        sites alone or in combination with grafts, researchers
+        hope to stimulate additional nerve regeneration and
+        promote the health of nerve cells. This approach has been
+        shown to stimulate CNS regeneration, including growth of
+        axons from nerve cells within the spinal cord and those
+        from the brain that send their long axons down the spinal
+        cord. Significant restoration of function has not yet
+        been achieved. Another technique is to genetically alter cells so
+        that they produce large amounts of growth factors and to
+        introduce these into the injury site. While nerve fibers
+        have been stimulated to grow by such grafts, this type of
+        research is in its very early stages. Cells making many
+        types of factors will have to be tested and functional
+        recovery carefully demonstrated. Remyelination of Axons Schwann cells are also the cells in peripheral nerves
+        that form myelin sheaths. They are not usually found in
+        the brain or spinal cord where another neuroglial cell,
+        the ogliodendrocyte, is responsible for making myelin.
+        Researchers have shown that Schwann cells grafted into
+        the brain can myelinate central axons. When the loss of
+        myelin is an important part of injury, implanting Schwann
+        cells could stimulate remyelination and thereby restore
+        function. Another approach involves a drug called
+        4-aminopyridine (4-AP), which may help demyelinated
+        nerves conduct signals. Animal studies show that a very
+        small percent of healthy, myelinated axons can be enough
+        to carry on important functions in the spinal cord, even
+        in the face of damage to surrounding nerve cells. Helping
+        nerve fibers that have lost myelin to conduct impulses
+        should improve function after injuries that extensively
+        damage myelin sheaths but do not disrupt nerve
+        connections. This research is also in its very early
+        phases. Summary of Basic Science
+        Research As you can see by the facts detailed above, the
+        problem of CNS response to injury is incredibly complex.
+        No one theory or approach will overcome all of the
+        effects of SCI, and many scientists now believe that the
+        "cure" will not be found in a single approach,
+        but rather in a combination of techniques. Consequently,
+        it is important for all possible research areas to be
+        addressed so our overall knowledge about how the system
+        works may eventually lead to a cure for SCI. What about the "imminent breakthroughs" you
+        hear about regularly in the press? It must be remembered
+        that there is a vast difference between a
+        "scientific breakthrough" and a "clinical
+        breakthrough". While scientific discoveries occur
+        quite frequently, clinical (treatment) ones do not.
+        Public announcements of scientific progress help to keep
+        the attention and funding focused on finding solutions to
+        the problems caused by SCI but new scientific
+        breakthroughs generally do not lead to immediate
+        treatment applications. RESEARCH IN SCI TREATMENT Drug Treatments For New
+        Injuries NOTE: It is important to realize these drugs are not a
+        cure for chronic (long-term) spinal cord injuries. It is
+        heart-ening to note, however, that treatments finally are
+        available to lessen the severity of some acute injuries. Research has shown that all damage in SCI does not
+        occur instantaneously. Mechanical disruption of nerves
+        and nerve fibers occurs at the time of injury. Within 30
+        minutes, hemorrhaging is observed in the damaged area of
+        the spinal cord and this may expand over the next few
+        hours. By several hours, inflammatory cells enter the
+        area of spinal cord injury and their secretions cause
+        chemical changes that can further damage nervous tissue.
+        Cellular content of nerve cells killed by the injury
+        contribute to this harmful chemical environment. This
+        process may go on for days or even weeks. Hope lies, therefore, in treatments that could prevent
+        these stages of progressive damage. Drugs that protect
+        nerve cells following injury are now available to lessen
+        the severity of some injuries. Other drugs and
+        combinations of drugs are currently being tested in both
+        animal and clinical trials. Methylprednisolone Few treatment approaches have raised as much hope as
+        the announcement by the National Institute of Health that
+        the steroid, methylprednisolone, reduces the degree of
+        paralysis if administered shortly after spinal cord
+        injury. In clinical trials, an extremely high dosage of
+        methylprednisolone was used in a double-blind study
+        (neither patients nor doctors knew who was getting the
+        exper-i-mental drug). The improvement in some patients
+        was so remark-able that the National Institutes of Health
+        felt it was important to "break the code"
+        (i.e., determine who was getting the drug and who was
+        not) so more patients could potentially be helped. Overall, the trial showed that while the
+        methylprednisolone treated group retained significantly
+        more function than the placebo group, subjects in both
+        groups experienced chronic loss of function due to their
+        injuries. Methylprednisolone is effective only if used in high
+        doses within eight hours of acute injury. It is
+        hypothesized that this drug reduces damage caused by the
+        inflammation of the injured spinal cord and the bursting
+        open of the damaged cells. The contents of the damaged
+        cells are believed to adversely affect adjacent cells.
+        High doses of methylprednisolone can lead to side
+        effects, such as suppression of the immune system, but no
+        serious problems have been reported when it is used over
+        a short term as in this study. Because the success of the methylprednisolone trial
+        had changed the "standard of care" in the
+        United States, subsequent drug trials are now testing the
+        effectiveness of other drugs in combination with
+        methylprednisolone administration. Thus, to demonstrate
+        significant effectiveness, new treatments will have to
+        surpass the functional sparing effects seen with
+        methylprednisolone alone. Simultaneously, researchers are cooperating to conduct
+        a large multi-center animal study to test the effect of
+        other drugs with or without methylprednisolone. Tirilizade Similar positive results to those of
+        methylprednisolone have been achieved in animal studies
+        using another steroid, tirilizade mesylate (Freedox®).
+        This drug, which acts like methylprednisolone, also
+        appears to be effective only if administered within a few
+        hours after injury. From initial animal studies, it
+        appears that this drug may cause less side effects than
+        methylprednisolone. Clinical trials are ongoing. A large clinical trial with humans is currently
+        underway comparing 48 hour treatment of
+        methylprednisolone with or without added tirilizade.
+        Study results are anticipated to be available in late
+        1995. GM-1 Ganglioside Once again, the announcement of a new treatment
+        approach has raised interest and hope in the SCI
+        community. In a small study, the experimental drug
+        Sygen®, or GM-1 Ganglioside, was given within 72 hours
+        of injury and then continued for up to 32 days.
+        Neurological assessments were conducted up to one year
+        after the treatment. Individuals who received
+        Sygen®showed significantly more functional recovery than
+        those who received a placebo. Currently, a large scale multi-center clinical trial
+        of GM-1 is ongoing with a targeted completion date of
+        1996-1997. In the current study, all patients receive the
+        "standard" does of methylprednisolone. In
+        earlier studies, a standard dose of methylprednisolone
+        was not given. There are two theories about how GM-1 Ganglioside may
+        act on spinal cord tissue. The first is that it performs
+        some type of damage control by reducing the toxicity of
+        amino acids released after spinal cord tissue is injured.
+        The "excitatory" amino acids cause cells to die
+        and increase the damage caused by the initial injury. The
+        second theory suggests there may be a neurotrophic
+        effect, somehow encouraging the growth of injured
+        neurons. Neither of these theories have been
+        scientifically proven yet. Sygen®has not yet been approved for clinical use in
+        this country by the Food and Drug Administration (FDA).
+        It has only been used in a limited number of experiments.
+        Sygen®was provided recently to injured football player
+        Dennis Byrd and approximately 65 other patients through
+        an open-label protocol. Although this protocol is no
+        longer in effect, the large double-blind, multi-center
+        trial in acute SCI mentioned above is well underway. Surgery Clinical studies are being conducted by surgeons to
+        determine the optimum time for surgery to relieve
+        pressure on the spinal cord after spinal cord injury.
+        Additionally, the use of delayed decompressive surgery is
+        being investigated in cases of chronic SCI. Preventing new injuries during
+        spinal surgery Intraoperative monitoring techniques have been
+        developed to protect healthy nerve roots during spinal
+        stabilization procedures. Scientists tested, first on
+        animals then on humans, a technique that assists surgeons
+        in the placement of metallic hardware for stabilization
+        of the spine. The technique which utilizes nerve
+        stimulation and muscle responses has been shown to
+        effectively predict and allow the prevention of nerve
+        damage during surgery in the lumbosacral spinal column. TREATMENTS FOR CHRONIC SPINAL
+        CORD INJURY AND ITS COMPLICATIONS Functional Electrical
+        Stimulation FES uses implanted or external electrodes to stimulate
+        paralyzed nerves so that arms and legs can be used for
+        improved function. Over the past decade, three primary
+        applications for FES have been developed: FES for
+        exercise; FES for upper extremity (hand/arm) function;
+        and FES for lower extremity (leg function.) FES is
+        discussed in detail in Fact Sheet No. 9 ,
+        Functional Electrical Stimulation: Clinical Applications. Omentum Transposition One controversial treatment for SCI is Omentum
+        Transposition. The omentum is a band of tissue in the
+        abdomen of mammals which provides circulation to the
+        intestines. A surgical procedure is used to partially detach the
+        omentum, tunnel it under the skin and suture it in place
+        at the injury site. The omentum tissue, which is rich in
+        blood vessels, may supply the damaged nerve cells with
+        vital oxygen. It is believed that the omentum tissue may
+        also secrete chemicals that stimulate nerve growth, as
+        well as have the ability to soak up fluids to reduce
+        pressure which can damage nerve cells. Initial animal trials seem to show some functional
+        improvement if the operation is completed within 3 hours
+        of injury. Little or no improvement is shown when the
+        procedure is done 6-8 hours post injury. This research,
+        however, has never been scientifically documented. The on-going clinical trial for people who have had a
+        SCI for months or years has recently been cancelled. Many
+        scientists believe it is premature for human trials,
+        since the results of the earlier research have not been
+        sufficiently documented. Biomedical engineering Scientists in the field of biomedical engineering
+        developed mechanical devices that use today's computer
+        technology to assist individuals in activities of daily
+        life. Examples of the types of devices under research and
+        development are environmental control devices, electronic
+        had grip device, and walking devices. Spasticity/Pain The complications of spasticity and pain are common in
+        spinal cord injury. Spasticity that is severe enough to
+        cause problems with mobility and self care, that
+        contributes to skin breakdown, and that causes pain is
+        reported in a number of cases of SCI. Studies in the treatment of spasticity are
+        investigating pharmacological agents, intrathecal
+        baclofen, and spinal cord stimulation. In addition to
+        drugs that have been available for some time (baclofen,
+        valium, dantrium) the use of tizanidine has recently been
+        explored. FDA approval of tizanidine is expected in late
+        1995. The problem of pain occurs in approximately 50% of all
+        cases of SCI. Five to thirty percent characterize the
+        pain as disabling. Pharmacologic agents as well as
+        surgical interventions such as the DREZ (dorsal root
+        entry zone) procedure, cordotomy and cordectomy are under
+        investigation for the treatment of severe causes of pain
+        from SCI. Male Fertility In most SCI men, the ability to have an ejaculation
+        and to father a child naturally is diminished. In fact,
+        ten years ago, doctors were telling newly injured SCI men
+        that they would not be able to father their own children.
+        With advances made in procedures to assist men in
+        obtaining an ejaculation as well as advances in assistive
+        reproduction technology, SCI men now have the potential
+        to become biological fathers. Vibratory stimulation and
+        electroejaculation are procedures that have been
+        investigated and are currently available to assist men in
+        obtaining ejaculations. Obtaining the ejaculation is only part of the
+        fertility problem in SCI men, however, the semen from SCI
+        men most often contains a lower than normal percent of
+        motile sperm. Questions that researchers hope to be able
+        to answer with investigations on the quality of sperm of
+        SCI men are: what happens to semen quality following SCI?
+        and how successful is artificial insemination and other
+        reproductive technology using semen from SCI men? Technology and research are making it possible for
+        spinal cord injured men to consider options regarding
+        their fertility and is providing a more encouraging
+        answer to the question, "Will I be able to have
+        children?" Additional Information is available in Factsheet #10:
+        Male Reproductive Function after Spinal Cord Injury. Alternative Therapies Various controversial treatments for SCI have come and
+        gone over the years, but none have proved to be effective
+        in reversing the damage to the spinal cord that occurs in
+        spinal cord injury. Often alternative therapies are very
+        difficult to evaluate because of the unscientific nature
+        in which the treatments are introduced to the human
+        population. Many alternative therapies have no documented
+        scientific evidence to substantiate their effectiveness.
+        Currently, examples of treatments that fall into this
+        category are the use of Sygen (GM-1) in chronic injuries
+        and omentum transposition. Summary of Treatment Research Over the last several years there has been progress in
+        the treatment of acute SCI to limit damage and preserve
+        function. Treatment of chronic SCI presents a greater
+        challenge, as damage that has already occurred must be
+        corrected and then reversed. It is entirely possible that, given appropriate
+        financial support, many of the complex problems of SCI
+        one day will be solved. Until that day arrives, it is
+        import-ant to urge the federal government to provide
+        broad-based support for basic science research so the
+        fundamental questions about how and why the CNS acts the
+        way it does can be answered. A cure or new treatments are
+        possible only if scientists receive the support necessary
+        to con-tinue their work in this important area. For further information on Freedox®clinical
+                trials, contact: Upjohn Company, 929 Lawrence
+                Court, N. Bellmore, NY 11710, 516-486-5276. For further information on Sygen®clinical
+                trials, contact: Fidia Pharmaceutical Corp., 1401
+                I Street, NW, #900, Washington, DC 20005,
+                202-371-9898. For further information about FES applications,
+                contact: the F.E.S. Information Center, 25100
+                Euclid Avenue, Suite 105, Cleveland, OH 44117,
+                800-666-2353. For further information about The Miami Project,
+                contact: The Miami Project, 1600 Northwest 10th
+                Avenue, R-48, Miami, FL 33136, 1-800-STAND-UP. SUGGESTED READINGS: Books Maddox, Sam, (1992): T he Quest for Cure:
+        Restoration of Function After Spinal Cord Injury ,
+        Paralyzed Veterans of America, 801 18th Street, N.W.,
+        Washington, DC 20006. U.S. Department of Health and Human Services, National
+        Institutes of Health, The NINDS Research Program, (1989):
+        Spinal Cord Injury, NIH-NINDS, Building 31A, Room 8A16,
+        9000 Rockville Pike, Bethesda, MD 20892. Newsletters/Magazines International Spinal Research Trust Newsletter, International
+        Spinal Research Trust, Nicholas House - River Front,
+        Effield, Middlesex, England. Paraplegia: International Journal of the Spinal
+        Cord, Churchill-Livingston of Edinbourough London,
+        Subscription Manager, Journal Department, Longman Group,
+        4th Avenue, Harlow Essex CN19 SA, UK. Paraplegia News, monthly research column, Paralyzed
+        Veterans of America, 801 18th Street, NW, Washington, DC
+        20006. Progress in Research and Walking Tomorrow , the
+        American Paralysis Association, P.O. Box 187, Short
+        Hills, NJ 07078. SCI Life , National Spinal Cord Injury
+        Association quarterly publication. The Project: News from the Miami Project to Cure
+        Paralysis, Miami Project, 1600 NW 10th Avenue, R-48,
+        Miami, FL 33136. Manuscripts/Articles Neural Grafting, Repairing the Brain and Spinal Cord,
+        New Developments in Neuroscience, Congress of the United
+        States, Office of Technology Assessment. Superintendent
+        of Documents, U.S. Government Printing Office,
+        Washington, DC 20402-9325. Bracken, M., (May, 1990): A Randomized Controlled
+        Trial of Methylprednisolone or Naloxone in the Treatment
+        of Acute SCI, The New England Journal of Medicine, 322(20)
+        pp. 1405. Bunge, R.P., et. al (1991) Regeneration of Axons from
+        Human Retina In Vitro. Experimental Neurology, 112:243-251. Bunge, R.P., et. al (1991) Isolation and Functional
+        Characterization of Schwann Cells Derived from Adult
+        Peripheral Nerve. Journal of Neuroscience. 11:2433-2442. Bunge, R.P., et. al (1992) Sygeneic Schwann Cells
+        Derived from Adult Nerves Seeded in Semipermeable
+        Guidance Channels Enhance Peripheral Nerve Regeneration, The
+        Journal of Neuroscience, 12(9): 3310-3320. \Bunge, R.P. (1994) Clinical implications of recent
+        advances in neurotrauma research. In: The Neurobiology of
+        Central Nervous System Trauma, (Salzman, S.K., Faden,
+        A.I., Eds.). Oxford University Press, pp 329-339. Calancie, Blair, et. al (1992). Intraoperative Evoked
+        EMG Monitoring in an Animal Model, A New Technique for
+        Evaluating Pedicle Screw Placement. Spine Vol 17,
+        Nol. 10; 1229-1235. Calancie, Blair, et. al, (1994). Involuntary stepping
+        after spinal cord injury. Brain 117; 1143-1159. Geisler, F.H. et. al., (June, 1991): Recovery of Motor
+        Function After Spinal Cord Injury - A Randomized,
+        Placebo-Controlled Trial with GM-1 Ganglioside, The
+        New England Journal of Medicine, 324(26) 1829-1838. Guenard, V., Xu, X.M., Bunge, M.B. (1993). The use of
+        Schwann cells transplantation to foster central nervous
+        system repair. Seminars in the Neurosciences 5;410-411. Onifer, S.M., Whittemore, S.R., and Holets, V.R.
+        (1993). Variable morphological differentiation of a
+        raphe-derives neuronal cell line following
+        transplantation in adult rat CNS. Experimental
+        Neurology 122;130-142. Travis, John, (October 1992): Spinal Cord Injuries:
+        New Optimism Blooms for Developing Treatments, Science ,
+        Volume 258, pp 218-220. NSCIA, 8/95 This fact sheet was prepared with the
+        assistance of Dr. Cheryl Chanaud of the National
+        Institutes of Health and Dr. Naomi Kleitman and Marie
+        Amador, RN, CRRN of the Miami Project to Cure Paralysis.
+        This factsheet is offered as an information service and
+        is not intended to cover all treatments nor research in
+        the field, nor is it an endorsement of the methods
+        mentioned herein. Any information you may have to offer
+        to further update this factsheet would be greatly
+        appreciated. The National Spinal Cord Injury Resource
+        Center (NSCIRC) provides information and referral on any
+        subject related to spinal cord injury. Contact the
+        resource center at 1-800-962-9629. Browse the 

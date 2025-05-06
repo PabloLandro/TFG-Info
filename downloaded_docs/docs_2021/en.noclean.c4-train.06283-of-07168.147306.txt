@@ -1,0 +1,285 @@
+Selenium: its role as antioxidant in human health | SpringerLink
+Skip to main content Skip to sections
+This service is more advanced with JavaScript available, learn more at http://activatejavascript.org
+Advertisement
+Hide
+SpringerLink
+Search SpringerLink
+Search
+Home
+Log in
+Environmental Health and Preventive Medicine
+Download PDF
+Environmental Health and Preventive Medicine
+March 2008 , Volume 13, Issue 2, pp 102–108 | Cite as
+Selenium: its role as antioxidant in human health
+Authors
+Authors and affiliations
+Ujang Tinggi
+Review
+First Online: 28 February 2008
+7 Shares
+1.7k Downloads
+125 Citations
+Abstract
+Selenium (Se) is an essential trace element, and its low status in humans has been linked to increased risk of various diseases, such as cancer and heart disease. In recent years, Se research has attracted tremendous interest because of its important role in antioxidant selenoproteins for protection against oxidative stress initiated by excess reactive oxygen species (ROS) and reactive nitrogen species (NOS). The synthesis of selenoproteins requires a unique incorporation of amino acid selenocysteine (Sec) into proteins directed by the UGA codon, which is also a termination codon. Interest in Se research has led to the discovery of at least 30 selenoproteins; however, the biochemical functional roles of some of these selenoproteins are still unknown. Besides in the form of selenoproteins, Se can exist in many different chemical forms in biological materials either as organic Se compounds, such as selenomethionine and dimethylselenide, and inorganic selenites and selenates. In foods, Se is predominantly present as selenomethionine, which is an important source of dietary Se in humans, and also as a chemical form that is commonly used for Se supplements in clinical trials. Concern for potential deficiency diseases associated with low Se status has led to the establishment of the recommended daily requirements for Se in many countries. However, excess Se intakes through supplementation and its potential misuse as health therapy could also pose a risk of adverse health effects if its use is not properly regulated.
+Keywords
+Antioxidants Oxidative stress Selenium Selenoenzymes Selenoproteins
+Introduction
+As an essential trace element, the importance of selenium (Se) in humans is well established, and its deficiency has caused serious health effects in humans, such as Keshan disease. Foods are major natural source of Se, and its levels generally depend on soil Se levels. Since its discovery as an important component of antioxidant enzymes, such as glutathione peroxidase (GPx), thioredoxin reductase (TrxR) and iodothyronine deiodinases (IDD), there has been an increased interest in the study of other Se-containing proteins (selenoproteins) or enzymes (selenoenzymes) [1]. There are at least 30 selenoproteins that have been identified in mammals, and it has been estimated that humans have about 25 selenoproteins [2]. The functional roles of some of these selenoproteins are still not fully understood, even though they have been conserved throughout evolution because of their unique physio-chemical properties [3]. Because of their antioxidant activity, there has been a tremendous interest in the study of Se and its compounds in cancer chemoprevention, heart disease and immunity. This paper will review the metabolism of Se and its antioxidative roles in human health and diseases.
+Selenium biochemistry and metabolism
+Selenocysteine is recognised as the 21st amino acid, and it forms a predominant residue of selenoproteins and selenoenzymes in biological tissues. During protein synthesis, the selenocysteine residue is cotranslationally inserted and encoded by the UGA codon, which is normally associated with a termination codon [4, 5]. The molecular structure of selenocystiene is an analogue of cysteine where a sulphur atom is replaced by Se. Even though Se and sulphur share some similar chemical properties, there are also some differences. For instance, in the form of a selenoate anion, as a conjugated base of selenocysteine, Se is more stable than cysteine thiolate. Furthermore, Se as selenol (R-SeH; pKa 5.2) is more acidic than thiol (R-SH; pKa 8.5) and readily dissociated at physiological pH, which may contribute to its biological reactivity. In the body, both organic (selenocysteine, selenomethionine) and inorganic (selenite, selenate) Se compounds are readily metabolised to various forms of Se metabolites [6]. Of particular importance during this metabolic process is the formation of hydrogen selenide (H2Se) from selenite after the action of glutathione-coupled reactions via selenodiglutathione (GS-Se-SG) and glutathione selenopersulfide (GS-SeH). H2Se is further metabolised and involved in the formation of methylselenol and dimethylselenide, which are exhaled or secreted via the skin. Selenium is also excreted in urine as trimethylselenonium ion and selenosugar compounds [7]. Hydrogen selenide can also be used as a substrate for selenocysteine biosynthesis, directed by specific codon in proteins; however, this is not the case with selenomethionine where its incorporation into proteins is non-specific and random in place of methionine. The selenoenzymes that are found to have strong antioxidant activity include six groups of the GPx – GPx1, GPx3, GPx4, GPx5 and GPx6. These GPx play a significant role in protecting cells against oxidative damage from reactive oxygen species (ROS) and reactive nitrogen species (RNS), which include superoxide, hydrogen peroxide, hydroxyl radicals, nitric oxide and peroxynitrite [8, 9]. The other essential antioxidant selenoenzymes are the TrxR where they use thioredoxin (Trx) as a substrate to maintain a Trx/TrxR system in a reduced state for removal of harmful hydrogen peroxide [10, 11]. There are three types of TrxR that have been identified, and these include cytosolic TrxR1, mitochondrial TrxR2 and spermatozoa-specific TrxR, (SpTrxR) [12, 13]. Increasing evidence suggests that selenoprotein P may also play a significant role in antioxidant defense system in preventing attack from harmful ROS and RNS [14, 15].
+Selenium and heart disease
+The increased production of ROS can exert oxidative stress in the physiological system, and if excess ROS are not properly regulated they can cause damage to cellular lipids, proteins and DNA. The damage caused by ROS has been linked to various human diseases, including heart diseases. The presence of ROS can also cause the oxidation of low-density lipoprotein (LDL),and it has been reported to be associated with initiation of atherogenesis in heart diseases [16]. One hypothesis is that the presence of high Se as antioxidant selenoenzymes and selenoproteins may help to reduce the production of oxidised LDL and, therefore, would reduce the incidence of heart diseases [17]. In animal studies, Se deficiency has been shown to down-regulate the LDL-receptor, which is important in regulating the cholesterol level in plasma [18]. The presence of selenoprotein P, which is found mainly in plasma, may play a significant role in regulating the plasma cholesterol level by protecting LDL oxidation from ROS [19]. This study provides further evidence that selenoprotein P plays an important antioxidative role in protecting LDL from oxidation and the prevention of atherosclerosis. It has also been reported that TrxR plays a significant role in preventing the development of atherosclerosis by reducing oxidative stress and increasing NO bioavailability [16, 20].
+In epidemiological studies, however, the associations of low Se status in humans with increased risk of heart diseases and mortality are still uncertain and controversial [21, 22]. Early supportive evidence from epidemiological studies in the USA suggested that a higher mortality of heart diseases was linked to Se-deficient areas [23, 24]. However, subsequent epidemiological studies from other countries – in particular, Finland, a country of low Se status – gave inconclusive results [25]. A recent epidemiological study in the USA also did not show the inverse relationship between heart diseases and Se status [26].
+Even though there has been no conclusive evidence from epidemiological studies to support the role of Se in heart diseases in a population with low Se status, there has been an increased interest in the study of the antioxidative effects of GPx and TrxR in myocardial ischemia–reperfusion (I/R) injury. It has been recognised that I/R injury leads to the production of ROS, which are harmful to tissue [27]. Elevated levels of Trx have been reported in male patients with chronic heart failure in response to increased oxidative stress, such as lipid peroxides, which may indicate the potential of Trx levels as a biomarker for monitoring disease development [28]. A high-Se diet can considerably reduce the effects of reperfusion, and when Se becomes deficient, it can significantly impair intrinsic myocardial tolerance to ischemic insult [29, 30, 31]. In a recent study, the addition of sodium selenite to reperfusion solutions at certain concentrations was found to assist in cardiac recovery following ischemia reperfusion in rats [32].
+The potential use of Se compounds for the prevention and treatment of heart conditions has led to the synthesis of these compounds and to the testing of their biological activities that mimic the antioxidant activity of selenoproteins. One of the organoSe compounds that has been extensively investigated for its biological activity is ebselen [2-phenyl-1,2-benzisoselenzol-3(2H)-one] [33]. Ebselen has been shown to exhibit a weak glutathione peroxidase-like activity in vivo and could be a promising cardioprotective agent for myocardial ischemia-reperfusion (I/R) injury. In animal studies, ebselen can have cardioprotective effects when administered orally before ischemic reperfusion, and this may involve the induction of stress protein HSP27 and the preservation of glutathione (GSH) [34]. Ebselen has also been shown to have a neuroprotective effect on stroke in a rabbit embolic stroke model, and when it was administered concomitantly with a thrombolytic tissue plasminogen activator, there were significant behavioural improvements in rabbits [35]. The efficacy of ebselen as a neuroprotective agent has also been demonstrated in humans, where there was a significant improvement in patients who were given ebselen within 24 h of stroke onset [36]. The effectiveness of ebselen as an antioxidant is not only for its ability to mimic the GPx, but it is also an excellent substrate for mammalian TrxR for the catalysis of hydrogen peroxide reduction via the Trx/TrxR system [37].
+Selenium and cancer
+There have been numerous animal studies indicating the important role of Se in reducing and preventing the incidence of cancer initiated by a variety of carcinogens, including chemicals and radiation. These findings from animal studies have led to significant interest in the investigation of the role of Se as a chemoprevention in humans. Evidence from human epidemiological studies has increasingly indicated a inverse relationship between Se status and cancer risk in human populations. The hallmark study of Clark and colleagues [38] reported that people who supplemented their diet with selenized yeast, predominantly in the form of selenomethionine (200 μg/day), had a reduction of nearly 50% in overall cancer morbidity. This study, designed as a randomised, double-blind and placebo controlled trial, also showed low incidence of prostate, lung and colon cancers. Subsequent epidemiological studies by other researchers have obtained inconclusive findings on the relationship between Se status and the incidence of some forms of cancer, particularly prostate cancer. In a prospective study of case-control design, high toenail Se levels were associated with a reduced risk of advanced prostate cancer [39]. In another study, no association was observed between toenail Se levels and breast cancer in women or prostate cancer in men [40]. These investigators suggested that the effects of smoking and dietary habits of the subjects could have contributed to these inconclusive findings. In a British study, the levels of Se in fingernails and the risk of prostate cancer in men also did not show any correlation [41]. Similarly, a recent study also showed that the overall serum Se level was not associated with prostate cancer risk in a large cohort study of nested case-control design [42]. However, when the data were analysed to include high intake of vitamin E, multivitamin and smoking by these men, there were associations between serum Se concentrations and reduced prostate cancer risks. A recent meta-analysis also indicated a possible inverse association between Se levels and risk of prostate cancer [43]. A larger prospective study, the selenium and vitamin E chemoprevention trial (SELECT) involving 32,400 healthy North American men, was started in 2001 and is to be completed in 2013. This study is designed as a randomised, double-blind, and placebo-controlled trial to determine the effect of Se and vitamin E, individually and in combination, on the incidence of prostate cancer [44, 45]. There is no doubt that the results of this SELECT phase III trial are eagerly anticipated as this may provide further information that Se supplementation at its supranutritional level is critical in prevention and development of prostate cancer. A similar prospective study could also be designed for other cancers to determine the chemopreventive effect of Se. For instance, Se has also been reported to have a beneficial effect on the incidence of gastrointestinal and bladder cancers [46, 47].
+Even though Se is reported to play a significant role in cancer development, its exact anticancer mechanism of action at molecular levels is not fully understood. However, it has been hypothesised that the most possible mechanistic action of Se as chemoprevention is its role in the antioxidant defense systems to reduce oxidative stress and limit DNA damage [48, 49, 50, 51, 52]. Experiments carried out within the framework of a canine model using male beagle dogs to mimic prostate cancer in humans showed that the damage to DNA was significantly reduced when the animals were exposed to increased Se dietary supplements [53]. Karunasinghe et al. [54] found a significant inverse relationship between the reduction of DNA damage in blood leucocytes and high blood serum Se levels in men who had high prostate-specific antigen and a high prostate cancer risk. The effectiveness of Se in the prevention of DNA damage, however, depends on its chemical forms. In an in vitro study, Battin et al. [55] found that selenocysteine inhibited DNA damage more strongly than the selenomethionine. Other possible anticancer mechanisms of Se include the induction of apoptosis, cell-cycle arrest and DNA-repair genes, inhibition of protein kinase C activity and cell growth and effect on estrogen- and androgen-receptor expression [49, 52, 56]. It is important that all of these potential mechanisms be explored further and that their specific actions on cancer development be identified at both the molecular and genetic levels. Until these mechanistic modes of action are identified, the efficacy of Se in chemoprevention and its therapeutic importance will only depend on its high dietary intake and supranutritional supplementation (200–300 μg Se/day).
+Selenium in immunity and thyroid hormone
+The generation of ROS in a limited dose is one of the processes induced by the immune system to destroy microbial pathogens and viruses. However, the over-production of ROS can also cause damage to the host cells that need to be protected by Se at various stages in the immune system. Keshan disease, an endemic cardiomyopathy in China that develops as a result of Se deficiency, may also be complicated with viral infection, and this has led to the investigation of the effects of viruses, such as coxsackievirus, on Se-deficient animals [57, 58]. Results from animal studies have demonstrated that Se deficiency can lead to an impairment of immune functions that result in the inability of phagocytic neutrophils and macrophages to destroy antigens. A low Se status in humans has been reported to cause a decreased immune response to poliovirus vaccination [59]. This study also demonstrated that the subjects supplemented with Se showed less mutations in poliovirus than those who received a placebo. The involvement of Se in the immune system may be associated with a number of mechanisms, including the increased activity of natural killer (NK) cells, the proliferation of T-lymphocytes, increased production of interferon γ, increased high-affinity interleukin-2 receptors, stimulation of vaccine-induced immunity and increased antibody-producing B-cell numbers [60, 61].
+The importance of Se in improving the immune system has also a beneficial effect on the reduction of antibody load in autoimmune thyroiditis, a condition associated with euthyroidism or hypothyroidism that can be caused by a number of factors, such as the presence of the cytotoxic T lymphocyte A4 promoter, iodide intake, immunotherapeutic agents and viral infections [62]. Selenium supplementation has resulted in the improvement of inflammatory activity in patients with autoimmune thyroiditis [62]. The human thyroid gland is known to contain the highest amount of Se per gram of tissue than any other body organ. The deiodinases (Type I, II, III) are Se-containing enzymes that play important roles in thyroid hormone metabolism. It has been hypothesised that the possible mechanism of Se in reducing the effect of thyroid autoimmunity may involve the role of GPx and TrxR as antioxidant defense systems for the removal of the ROS and excess hydrogen peroxide (H2O2) produced by thyrocytes during thyroid hormone synthesis [63, 64]. Severe nutritional Se deficiency could result in an increased rate of thyroid cell necrosis and the invasion of macrophages; however, whether this also may induce an increased incidence of autoimmune thyroiditis is yet to be established. Combined deficiencies of both Se and iodine are associated with severe endemic myxedematous cretinism in a region of Zaire [65]. Observations that Se is protecting the thyroid from oxidative damage are supported by animal studies, which suggest that myzoedematous cretinism may also the result of Se deficiency that induces an inflammatory response [66]. Efficiency in selenoprotein biosynthesis also plays a crucial role in thyroid hormone metabolism. A defect in selenocysteine during selenoprotein biosynthesis as a result of the mutation of the selenocysteine insertion sequence (SECIS)-binding protein 2 (BP2) can cause abnormalities in the deiodinases and defective thyroid metabolism [67].
+Selenium nutritional requirements
+Foods are the major source of Se and, in general, seafood, cereals and meat products contain relatively high levels of Se, while low levels are found in milk, vegetables and fruit [68, 69]. The levels of Se in foods can vary widely between geographical regions depending on soil Se levels, and these wide variations in soil Se level are reflected in the wide variations found in the Se status of human populations around the world [70]. Concern for low Se status in human populations has led to a number of measures to improve Se status, such as the importation of Australian high-Se wheat to New Zealand, the addition of Se to fertilizers in Finland and the consumption of Se-fortified foods in some countries [71, 72, 73]. Based on the experience of the Finnish population with improved Se status after applying Se fertilizers to crops, the biofortification of selected agricultural crops, such as wheat with Se, may be an effective strategy to increase Se status in a population that may be at risk of Se deficiency-related diseases [74, 75].
+Selenium in foods and biological materials can exist in both organic and inorganic chemical forms [76, 77]. In turn, the chemical form of the Se can affect its bioavailability from diet. In general, the organic forms, such as selenomethionine, are more bioavailable than the inorganic selenites or selenates. In order to ensure an adequate intake of Se for the benefit of human health, many countries have established dietary guidelines [78, 79]. In Australia and New Zealand, for example, the recommended dietary intakes (RDI) for Se are 70 μg/day for adult men and 60 μg/day for women [80]. A secondary aim for establishing these RDI guidelines is to make it clear that only a small amount of Se is sufficient to meet body Se homeostasis. However, there is still a concern that if the use of Se supplements is not properly regulated, high Se intake can cause toxicity and adverse health effects [81, 82]. Such a case is exemplified by death of a 75-year-old Australian man following his over-zealous use of Se supplements: he ingested 10 g of sodium selenite after he found information on the internet that suggested Se could cure prostate cancer [83].
+Conclusion
+Research on Se during the last few years has produced a great deal of evidence demonstrating the important role that Se and its metabolites play in human diseases. In particular, our knowledge of the functional roles of the GPx and TrxR groups as essential antioxidant selenoenzymes in protecting cells from oxidative stress has greatly increased, as has the link between these enzymes and various diseases. However, there are still areas of research that require in-depth study, including the mechanistic modes of action of Se in cancer etiology, how Se delivers its anticancer activity at the molecular and genetic levels, and what biomarkers can be used to accurately measure the efficacy of Se for use in chemoprevention. Similarly, there is still a gap in our knowledge on the specific mechanism by which Se protects cells and tissue at the cellular level from damage due to oxidative stress; this is particularly relevant in heart diseases, which are still a major cause of death worldwide. Given the number of Se cancer preventive trials that are currently being undertaken in many countries, the significant outcomes of these trials will not only provide us with more information on optimal Se intake for the treatment and prevention of cancer, but they will also provide us with strategies in the management of other potential human diseases associated with low Se status. Until the specific biomarkers are identified that will directly link Se with disease prevention and treatment, its use as supplements in health therapy should be taken with caution.
+Notes
+Acknowledgements
+The support of the Department of Queensland Health is greatly appreciated. The views presented in this article are the author’s own and not the opinion of the Department of Queensland Health.
+References
+1.
+Tapiero H, Townsend DM, Tew KD. The antioxidant role of selenium and seleno-compounds. Biomed Pharm. 2003;57:134–44.CrossRefGoogle Scholar
+2.
+Kryukov GV, Castellano S, Novoselov SV, Lobanov AV, Zehtab O, Guigo R, et al. Characterization of mammalian selenoproteomes. Science. 2003;300:1439–43.PubMedCrossRefGoogle Scholar
+3.
+Mix H, Lobanov AV, Gladyshev VN. SECIS elements in the coding regions of selenoproteins transcripts are functional in higher eukaryotes. Nucleic Acids Res. 2007;35:414–23.PubMedCrossRefGoogle Scholar
+4.
+Birringer M, Pilawa S, Flohe L. Trends in selenium biochemistry. Nat Prod Rep. 2002;19:693–718.PubMedCrossRefGoogle Scholar
+5.
+Allmang C, Krol A. Selenoprotein synthesis: UGA does not end the story. Biochimie. 2006;88:1561–71.PubMedCrossRefGoogle Scholar
+6.
+Brenneisen P, Steinbrenner H, Sies H. Selenium, oxidative stress, health aspects. Mol Aspects Med. 2005;26:256–67.PubMedCrossRefGoogle Scholar
+7.
+Suzuki KT, Kurasaki K, Okazaki N, Ogra Y. Selenosugar, trimethylselenonium among urinary Se metabolites: dose- and age-related changes. Toxicol Appl Pharmacol. 2005;206:1–8.PubMedCrossRefGoogle Scholar
+8.
+Klotz LO, Kroncke KD, Buchczyk DP, Sies H. Role of copper, zinc, selenium, tellurium in the cellular defense against oxidative and nitrosative stress. J Nutr. 2003;133:1448S–51S.PubMedGoogle Scholar
+9.
+Valko M, Rhodes CJ, Moncol J, Izakovic M, Mazur M. Free radicals, metals, antioxidants in oxidative stress-induced cancer. Chem Biol Interact. 2006;160:1–40.PubMedCrossRefGoogle Scholar
+10.
+Arner ES, Holmgren A. Physiological functions of thioredoxin and thioredoxin reductase. Eur J Biochem. 2000;267:6102–9.PubMedCrossRefGoogle Scholar
+11.
+Das KC, Das CK. Thioredoxin, a singlet oxygen quencher and hydroxyl radical scavenger: redox independent functions. Biochem Biophys Res Commun. 2000;277:443–7.PubMedCrossRefGoogle Scholar
+12.
+Nordberg J, Arner ES. Reactive oxygen species, antioxidants, and the mammalian thioredoxin system. Free Radic Biol Med. 2001;31:1287–312.PubMedCrossRefGoogle Scholar
+13.
+Gromer S, Urig S, Becker K. The thioredoxin system-from science to clinic. Med Res Rev. 2004;24:40–89.PubMedCrossRefGoogle Scholar
+14.
+Steinbrenner H, Alili L, Bilgic E, Sies H, Brenneisen P. Involvement of selenoprotein P in protection of human astrocytes from oxidative damage. Free Radic Biol Med. 2006;40:1513–23.PubMedCrossRefGoogle Scholar
+15.
+Steinbrenner H, Bilgic E, Alili L, Sies H, Brenneisen P. Selenoprotein P protects endothelial cells from oxidative damage by stimulation of glutathione peroxidase expression and activity. Free Radic Res. 2006;40:936–43.PubMedCrossRefGoogle Scholar
+16.
+Zhang H, Luo Y, Zhang W, He Y, Dai S, Zhang R, et al. Endothelial-specific expression of mitochondrial thioredoxin improves endothelial cell function and reduces atherosclerotic lesions. Am J Pathol. 2007;170:1108–20.PubMedCrossRefGoogle Scholar
+17.
+Furman C, Rundlof AK, Larigauderie G, Jaye M, Bricca G, Copin C, et al. Thioredoxin reductase 1 is upregulated in atherosclerotic plaques: specific induction of the promoter in human macrophages by oxidized low-density lipoproteins. Free Radic Biol Med. 2004;37:71–85.PubMedCrossRefGoogle Scholar
+18.
+Dhingra S, Bansal MP. Attenuation of LDL receptor gene expression by selenium deficiency during hypercholesterolemia. Mol Cell Biochem. 2006;282:75–82.PubMedCrossRefGoogle Scholar
+19.
+Traulsen H, Steinbrenner H, Buchczyk DP, Klotz LO, Sies H. Selenoprotein P protects low-density lipoprotein against oxidation. Free Radic Res. 2004;38:123–8.PubMedCrossRefGoogle Scholar
+20.
+World CJ, Yamawaki H, Berk BC. Thioredoxin in the cardiovascular system. J Mol Med. 2006;84:997–1003.PubMedCrossRefGoogle Scholar
+21.
+Alissa EM, Bahijri SM, Ferns GA. The controversy surrounding selenium and cardiovascular disease: a review of the evidence. Med Sci Monit. 2003;9:RA9–18.PubMedGoogle Scholar
+22.
+Flores-Mateo G, Navas-Acien A, Pastor-Barriuso R, Guallar E. Selenium and coronary heart disease: a meta-analysis. Am J Clin Nutr. 2006;84:762–73.PubMedGoogle Scholar
+23.
+Shamberger RJ, Gunsch MS, Willis CE, McCoormack LJ. Selenium and heart disease. II-Selenium and other trace metal intakes and heart disease in 25 Countries. In: Hemphill DD editor. Trace substances in environmental health–XII. Missouri: University of Missouri. 1978. p. 48–52.Google Scholar
+24.
+Shamberger RJ, Willis CE, McCoormack LJ. Selenium and heart disease. III-Blood selenium and heart disease mortality in 19 States. In: Hemphill DD editor. Trace substances in environmental health–XIII. Missouri: University of Missouri. 1979. p. 59–63.Google Scholar
+25.
+Huttunen JK. Selenium and cardiovascular diseases – an update. Biomed Environ Sci. 1997;10:220–6.PubMedGoogle Scholar
+26.
+Stranges S, Marshall JR, Trevisan M, Natarajan R, Donahue RP, Combs GF, et al. Effects of selenium supplementation on cardiovascular disease incidence and mortality: secondary analyses in a randomized clinical trial. Am J Epidemiol. 2006;163:694–9.PubMedCrossRefGoogle Scholar
+27.
+Venardos KM, Kaye DM. Myocardial ischemia-reperfusion injury, antioxidant enzyme systems, and selenium: a review. Curr Med Chem. 2007;14:1539–49.PubMedCrossRefGoogle Scholar
+28.
+Jekell A, Hossain A, Alehagen U, Dahlstrom U, Rosen A. Elevated circulating levels of thioredoxin and stress in chronic heart failure. Eur J Heart Fail. 2004;6:883–90.PubMedGoogle Scholar
+29.
+Tanguy S, Toufektsian MC, Besse S, Ducros V, De Leiris J, Boucher F. Dietary selenium intake affects cardiac susceptibility to ischaemia/reperfusion in male senescent rats. Age Ageing. 2003;32:273–8.PubMedCrossRefGoogle Scholar
+30.
+Venardos K, Harrison G, Headrick J, Perkins A. Effects of dietary selenium on glutathione peroxidase and thioredoxin reductase activity and recovery from cardiac ischemia-reperfusion. J Trace Elem Med Biol. 2004;18:81–8.PubMedCrossRefGoogle Scholar
+31.
+Venardos K, Ashton K, Headrick J, Perkins A. Effects of dietary selenium on post-ischemic expression of antioxidant mRNA. Mol Cell Biochem. 2005;270:131–8.PubMedCrossRefGoogle Scholar
+32.
+Lymbury R, Venardos K, Perkins AV. Effect of sodium selenite-enriched reperfusion solutions on rat cardiac ischemia reperfusion injury. Biol Trace Elem Res. 2006;114:197–206.PubMedCrossRefGoogle Scholar
+33.
+Sakurai T, Kanayama M, Shibata T, Itoh K, Kobayashi A, Yamamoto M, et al. Ebselen, a seleno-organic antioxidant, as an electrophile. Chem Res Toxicol. 2006;19:1196–204.PubMedCrossRefGoogle Scholar
+34.
+Baljinnyam E, Hasebe N, Morihira M, Sumitomo K, Matsusaka T, Fujino T, et al. Oral pretreatment with ebselen enhances heat shock protein 72 expression and reduces myocardial infarct size. Hypertens Res. 2006;29:905–13.PubMedCrossRefGoogle Scholar
+35.
+Lapchak PA, Zivin JA. Ebselen, a seleno-organic antioxidant, is neuroprotective after embolic strokes in rabbits: synergism with low-dose tissue plasminogen activator. Stroke. 2003;34:2013–8.PubMedCrossRefGoogle Scholar
+36.
+Yamaguchi T, Sano K, Takakura K, Saito I, Shinohara Y, Asano T, et al. Ebselen in acute ischemic stroke: a placebo-controlled, double-blind clinical trial. Ebselen Study Group. Stroke. 1998;29:12–7.PubMedGoogle Scholar
+37.
+Zhao R, Holmgren A. A novel antioxidant mechanism of ebselen involving ebselen diselenide, a substrate of mammalian thioredoxin and thioredoxin reductase. J Biol Chem. 2002;277:39456–62.PubMedCrossRefGoogle Scholar
+38.
+Clark LC, Combs GF Jr, Turnbull BW, Slate EH, Chalker DK, Chow J, et al. Effects of selenium supplementation for cancer prevention in patients with carcinoma of the skin. A randomized controlled trial. Nutritional prevention of cancer study group. JAMA. 1996;276:1957–63.PubMedCrossRefGoogle Scholar
+39.
+Yoshizawa K, Willett WC, Morris SJ, Stampfer MJ, Spiegelman D, Rimm EB, et al. Study of prediagnostic selenium level in toenails and the risk of advanced prostate cancer. J Natl Cancer Inst. 1998;90:1219–24.PubMedCrossRefGoogle Scholar
+40.
+Ghadirian P, Maisonneuve P, Perret C, Kennedy G, Boyle P, Krewski D, et al. A case-control study of toenail selenium and cancer of the breast, colon, and prostate. Cancer Detect Prev. 2000;24:305–13.PubMedGoogle Scholar
+41.
+Allen NE, Morris JS, Ngwenyama RA, Key TJ. A case-control study of selenium in nails and prostate cancer risk in British men. Br J Cancer. 2004;90:1392–6.PubMedCrossRefGoogle Scholar
+42.
+Peters U, Foster CB, Chatterjee N, Schatzkin A, Reding D, Andriole GL, et al. Serum selenium and risk of prostate cancer-a nested case-control study. Am J Clin Nutr. 2007;85:209–17.PubMedGoogle Scholar
+43.
+Brinkman M, Reulen RC, Kellen E, Buntinx F, Zeegers MP. Are men with low selenium levels at increased risk of prostate cancer? Eur J Cancer. 2006;42:2463–71.PubMedCrossRefGoogle Scholar
+44.
+Lippman SM, Goodman PJ, Klein EA, Parnes HL, Thompson IM Jr, Kristal AR, et al. Designing the selenium and vitamin E cancer prevention trial (SELECT). J Natl Cancer Inst. 2005;97:94–102.PubMedCrossRefGoogle Scholar
+45.
+Klein EA, Thompson IM, Lippman SM, Goodman PJ, Albanes D, Taylor PR, et al. SELECT: the selenium and vitamin E cancer prevention trial: rationale and design. Prostate Cancer Prostatic Dis. 2000;3:145–51.PubMedCrossRefGoogle Scholar
+46.
+Bjelakovic G, Nikolova D, Simonetti RG, Gluud C. Antioxidant supplements for prevention of gastrointestinal cancers: a systematic review and meta-analysis. Lancet. 2004;364:1219–28.PubMedCrossRefGoogle Scholar
+47.
+Brinkman M, Buntinx F, Muls E, Zeegers MP. Use of selenium in chemoprevention of bladder cancer. Lancet Oncol. 2006;7:766–74.PubMedCrossRefGoogle Scholar
+48.
+Rayman MP. Selenium in cancer prevention: a review of the evidence and mechanism of action. Proc Nutr Soc. 2005;64:527–42.PubMedCrossRefGoogle Scholar
+49.
+McKenzie RC, Arthur JR, Beckett GJ. Selenium and the regulation of cell signaling, growth, and survival: molecular and mechanistic aspects. Antioxid Redox Signal. 2002;4:339–51.PubMedCrossRefGoogle Scholar
+50.
+Whanger PD. Selenium and its relationship to cancer: an update dagger. Br J Nutr. 2004;91:11–28.PubMedCrossRefGoogle Scholar
+51.
+El-Bayoumy K. The protective role of selenium on genetic damage and on cancer. Mutat Res. 2001;475:123–39.PubMedGoogle Scholar
+52.
+Lu J, Jiang C. Selenium and cancer chemoprevention: hypotheses integrating the actions of selenoproteins and selenium metabolites in epithelial and non-epithelial target cells. Antioxid Redox Signal. 2005;7(11–12):1715–27.PubMedCrossRefGoogle Scholar
+53.
+Waters DJ, Shen S, Glickman LT, Cooley DM, Bostwick DG, Qian J, et al. Prostate cancer risk and DNA damage: translational significance of selenium supplementation in a canine model. Carcinogenesis. 2005;26:1256–62.PubMedCrossRefGoogle Scholar
+54.
+Karunasinghe N, Ryan J, Tuckey J, Masters J, Jamieson M, Clarke LC, et al. DNA stability and serum selenium levels in a high-risk group for prostate cancer. Cancer Epidemiol Biomarkers Prev. 2004;13:391–7.PubMedGoogle Scholar
+55.
+Battin EE, Perron NR, Brumaghim JL. The central role of metal coordination in selenium antioxidant acitivity. Inorg Chem. 2006;45:499–501.PubMedCrossRefGoogle Scholar
+56.
+Papp LV, Lu J, Holmgren A, Khanna KK. From selenium to selenoproteins: synthesis, identity, and their role in human health. Antioxid Redox Signal. 2007;9:775–806.PubMedCrossRefGoogle Scholar
+57.
+Beck MA. Antioxidants and viral infections: host immune response and viral pathogenicity. J Am Coll Nutr. 2001;20:384S–8S.PubMedGoogle Scholar
+58.
+Beck M. Selenium, viral infections. In: Hatfield DL, Berry MJ, Gladyshev VN, editors. Selenium – its molecular biology and role in human health, New York: Springer; 2006. p. 287–98.Google Scholar
+59.
+Broome CS, McArdle F, Kyle JA, Andrews F, Lowe NM, Hart CA, et al. An increase in selenium intake improves immune function and poliovirus handling in adults with marginal selenium status. Am J Clin Nutr. 2004;80:154–62.PubMedGoogle Scholar
+60.
+Baum MK, Campa A. Role of selenium in HIV/AIDS. In: Hatfield DL, Berry MJ, Gladyshev VN, editors. Selenium – its molecular biology and role in human health, New York: Springer; 2006. p. 299–310.Google Scholar
+61.
+McKenzie RC, Beckett GJ, Arthur JR. Effects of selenium on immunity and aging. In: Hatfield DL, Berry MJ, Gladyshev VN editors. Selenium – its molecular biology and role in human health, New York: Springer; 2006. p. 287–98.Google Scholar
+62.
+Gartner R, Gasnier BC, Dietrich JW, Krebs B, Angstwurm MW. Selenium supplementation in patients with autoimmune thyroiditis decreases thyroid peroxidase antibodies concentrations. J Clin Endocrinol Metab. 2002;87:1687–91.PubMedCrossRefGoogle Scholar
+63.
+Duntas LH. The role of selenium in thyroid autoimmunity and cancer. Thyroid. 2006;16:455–60.PubMedCrossRefGoogle Scholar
+64.
+Kohrle J. Selenium and the control of thyroid hormone metabolism. Thyroid. 2005;15:841–53.PubMedCrossRefGoogle Scholar
+65.
+Vanderpas JB, Contempre B, Duale NL, Deckx H, Bebe N, Longombe AO, et al. Selenium deficiency mitigates hypothyroxinemia in iodine-deficient subjects. Am J Clin Nutr. 1993;57:271S–5S.PubMedGoogle Scholar
+66.
+Contempre B, Le Moine O, Dumont JE, Denet J-F, Many MC. Selenium deficiency and thyroid fibrosis. A key role of macrophases and transforming growth factor β (TGF- β). Mol Cell Endocrin. 1996;124:7–15.CrossRefGoogle Scholar
+67.
+Dumitrescu AM, Liao XH, Abdullah MS, Lado-Abeal J, Majed FA, Moeller LC, et al. Mutations in SECIS BP2 result in abnormal thyroid hormone metabolism. Nat Genet. 2005;37:1247–52.PubMedCrossRefGoogle Scholar
+68.
+Tinggi U, Reilly C, Patterson CM. Determination of selenium in foodstuffs using spectrofluorometry and hydride generation atomic absorption spectrometry. J Food Comp Anal. 1992;5:269–80.CrossRefGoogle Scholar
+69.
+Tinggi U. Determination of selenium in meat products by hydride generation atomic absorption spectrophotometry. J AOAC Int. 1999;82:364–7.PubMedGoogle Scholar
+70.
+Reilly C. Selenium in food and health. New York: Springer; 2006.Google Scholar
+71.
+Thomson CD. Selenium and iodine intakes and status in New Zealand and Australia. Br J Nutr. 2004;91(5):661–72.PubMedCrossRefGoogle Scholar
+72.
+Eurola MH, Ekholm PI, Ylinen ME, Koivistoinen PE, Varo PT. Selenium in Finnish foods after beginning the use of selenate-supplemented fertilisers. J Sci Food Agric. 1991;56:57–70.CrossRefGoogle Scholar
+73.
+Rayman MP. The use of high-selenium yeast to raise selenium status: how does it measure up? Br J Nutr. 2004;92:557–73.PubMedCrossRefGoogle Scholar
+74.
+Lyons GH, Judson GJ, Ortiz-Monasterio I, Genc Y, Stangoulis JC, Graham RD. Selenium in Australia: selenium status and biofortification of wheat for better health. J Trace Elem Med Biol. 2005;19:75–82.PubMedCrossRefGoogle Scholar
+75.
+Broadley MR, White PJ, Bryson RJ, Meacham MC, Bowen HC, Johnson SE, et al. Biofortification of UK food crops with selenium. Proc Nutr Soc. 2006;65:169–81.PubMedCrossRefGoogle Scholar
+76.
+Lobinski R, Edmonds J, Suzuki K, Uden P. Species-selective determination of selenium compounds in biological materials. Pure Appl Chem. 2000;72:447–61.CrossRefGoogle Scholar
+77.
+Dumont E, Vanhaecke F, Cornels R. Selenium speciation from food source to metabolites: a critical review. Anal Bioanal Chem. 2006;385:1304–23.PubMedCrossRefGoogle Scholar
+78.
+British Nutrition Foundation. Selenium and Health. London: The British Nutrition Foundation; 2001Google Scholar
+79.
+Levander OA, Burk RF. Update of human dietary standards for selenium. In: Hatfield DL, Berry MJ, Gladyshev VN, editors. Selenium – its molecular biology and role in human health, Springer: New York; 2006. p. 399–410.Google Scholar
+80.
+Department of Health and Ageing. Nutrient Reference Values for Australia and New Zealand. Canberra: Commonwealth of Australia; 2006.Google Scholar
+81.
+Tinggi U. Essentiality and toxicity of selenium and its status in Australia: a review. Toxicol Lett. 2003;137:103–10.PubMedCrossRefGoogle Scholar
+82.
+Tinggi U. Selenium toxicity, its adverse health effects. In: Preed V, Watson R editors. Reviews in food and nutrition toxicity. Boca Raton: CRC Press; 2005. p. 29–55.Google Scholar
+83.
+See KA, Lavercombe PS, Dillon J, Ginsberg R. Accidental death from acute selenium poisoning. Med J Aust. 2006;185:388–9.Google Scholar
+Copyright information
+© The Japanese Society for Hygiene 2008
+Authors and Affiliations
+Ujang Tinggi
+1
+Email author
+1.Centre for Public Health SciencesQueensland Health Scientific ServicesCoopers PlainsAustralia
+About this article
+Cite this article as:
+Tinggi, U. Environ Health Prev Med (2008) 13: 102. https://doi.org/10.1007/s12199-007-0019-4
+Received 20 July 2007
+Accepted 22 October 2007
+First Online 28 February 2008
+DOI https://doi.org/10.1007/s12199-007-0019-4
+Publisher Name Springer Japan
+Print ISSN 1342-078X
+Online ISSN 1347-4715
+About this journal
+Reprints and Permissions
+Published in cooperation with
+The Japanese Society for Hygiene
+Personalised recommendations
+Cite article
+How to cite?
+.RIS Papers Reference Manager RefWorks Zotero
+.ENW EndNote
+.BIB BibTeX JabRef Mendeley
+Share article
+Download PDF
+Actions
+Download PDF
+Cite article
+How to cite?
+.RIS Papers Reference Manager RefWorks Zotero
+.ENW EndNote
+.BIB BibTeX JabRef Mendeley
+Share article
+Table of contents
+Article
+Abstract
+Introduction
+Selenium biochemistry and metabolism
+Selenium and heart disease
+Selenium and cancer
+Selenium in immunity and thyroid hormone
+Selenium nutritional requirements
+Conclusion
+Notes
+References
+Copyright information
+Authors and Affiliations
+About this article
+Advertisement
+Hide
+Over 10 million scientific documents at your fingertips
+Switch Edition
+Academic Edition
+Corporate Edition
+Home
+Impressum
+Legal information
+Privacy statement
+How we use cookies
+Accessibility
+Contact us
+Springer Nature
+© 2018 Springer Nature Switzerland AG. Part of Springer Nature.
+Not logged in Not affiliated 3.95.63.218

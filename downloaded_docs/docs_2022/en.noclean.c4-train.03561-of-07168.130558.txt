@@ -1,0 +1,204 @@
+Methanol test | Physics Forums
+Menu
+Insights Blog
+Table of Contents Physics Articles Physics Tutorials Physics Guides Physics FAQ Math Articles Math Tutorials Math Guides Math FAQ Education Articles Education Guides Bio/Chem Articles Technology Guides Computer Science Tutorials
+Forums
+New posts Find threads Hot Threads Featured threads
+What's new
+Media
+Physics Mathematics Other Sciences Interviews Pop Science Experiments Entertainment
+Info
+Terms and Rules About Us Members Donate Help
+Log in Register
+What's new Search
+Search
+Everywhere Threads This forum This thread
+Search titles only
+By:
+Search
+Advanced search…
+Menu
+Log in
+Register
+Other Sciences
+Chemistry
+JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
+Methanol test
+Thread starter Toddy340
+Start date Saturday at 7:48 PM
+Tags
+methanol
+Saturday at 7:48 PM
+#1
+T
+Toddy340
+2
+0
+Hi
+I was wondering if anyone could tell if there is a chemical that reacts the methanol but is also safe to consume in small amounts
+Related Chemistry News on Phys.org
+Scientists advance creation of 'artificial lymph node' to fight cancer, other diseases
+Researcher uses network science to understand how materials work
+Video: Is it really 'dry clean only'?
+Saturday at 8:00 PM
+#2
+fresh_42
+Mentor
+Insights Author
+2018 Award
+9,454
+6,495
+Toddy340 said:
+Hi
+I was wondering if anyone could tell if there is a chemical that reacts the methanol but is also safe to consume in small amounts
+Click to expand...
+No. And methanol is extremely poisonous! A few ounces are sufficient to become blind and a few more to die! Do you know how they treat a methanol poisoning at the hospital? They make you drunk! They reduce the methanol concentration by a maximal amount of ethanol. So there is no antidote, and dilution is the only chance.
+Saturday at 9:47 PM
+#3
+T
+Toddy340
+2
+0
+fresh_42 said:
+No. And methanol is extremely poisonous! A few ounces are sufficient to become blind and a few more to die! Do you know how they treat a methanol poisoning at the hospital? They make you drunk! They reduce the methanol concentration by a maximal amount of ethanol. So there is no antidote, and dilution is the only chance.
+Click to expand...
+I’m not planning on consuming methanol I’m talking like more testing alchol to see if there is methanol present
+Saturday at 9:56 PM
+#4
+fresh_42
+Mentor
+Insights Author
+2018 Award
+9,454
+6,495
+Toddy340 said:
+I’m not planning on consuming methanol I’m talking like more testing alchol to see if there is methanol present
+Click to expand...
+It looks as if there are some indicators on the market, but I would not rely on them. The two alcohols are far too similar to risk anything. If there is a chance there is methanol in something stay away. Moonshiners almost certainly contain methanol, the question is how much.
+Sunday at 8:08 AM
+#5
+mfb
+Mentor
+Insights Author
+32,365
+8,344
+Why would it need to be safe for consumption? To test for the presence of some chemical you take a small sample, do some test with it, and discard the sample.
+It is always nicer to work with chemicals that are less toxic, but your question makes me wonder what you plan to do (it doesn't sound safe). Sodium dichromate seems to be a chemical frequently used to test for methanol but it is toxic, too.
+Sunday at 10:55 AM
+#6
+S
+snorkack
+1,326
+129
+The typical chemical tests for methanol in presence of ethanol are based on oxidizing the alcohols to respective aldehydes and then testing for formaldehyde in presence of acetaldehyde.
+Now as for choice of such oxidant - dichromate is one, but is no better than permanganate. And oxidants that have been used include copper oxide/hot copper wire in air.
+Sunday at 11:27 AM
+#7
+TeethWhitener
+Science Advisor
+Gold Member
+1,189
+639
+Distillation can work, but it’s a pain.
+NB—alcohol distillation in the US requires certain permits. Safety and legality should be priorities.
+mfb said:
+Why would it need to be safe for consumption?
+Click to expand...
+I’m guessing OP has some home-distilled liquor and wants to know 1) if the liquor contains methanol, and 2) if there’s a way to remove or neutralize the methanol to make the liquor drinkable.
+Reactions: Dale
+Sunday at 7:08 PM
+#8
+berkeman
+Mentor
+54,489
+4,829
+Good responses so far, the the thread needs to be closed temporarily because it is under discussion in the Mentor forums...
+Monday at 6:43 AM
+#9
+fresh_42
+Mentor
+Insights Author
+2018 Award
+9,454
+6,495
+I think we can close this thread now.
+Methanol is very poisonous already in tiny dosis.
+Proof is difficult and involves toxic chemicals.
+Indicator stripes found on the internet are not reliable.
+Self made brands very often contain methanol; how much is the critical question.
+If in doubt, stay away from consumption.
+Want to reply to this thread?
+"Methanol test" You must log in or register to reply here.
+Share:
+Facebook Twitter Reddit Pinterest WhatsApp Email Link
+Related Threads for: Methanol test
+R
+How to test for methanol?
+real
+2
+A
+Methanol chlorination
+asamaid1
+P
+Methanol R ?
+pixel01
+L
+Vinegar to methanol?
+limitapproaches0
+M
+Methanol plus nitromethane
+moe7404
+Other Sciences
+Chemistry
+Physics Forums Values
+We Value Quality
+• Topics based on mainstream science
+• Proper English grammar and spelling
+We Value Civility
+• Positive and compassionate attitudes
+• Patience while debating
+We Value Productivity
+• Disciplined to remain on-topic
+• Recognition of own weaknesses
+• Solo and co-op problem solving
+Share this page
+Facebook Twitter Reddit Pinterest WhatsApp Email Link
+Latest threads
+Y
+A Magnetic force
+Started by Yahya Sharif
+6 minutes ago
+Replies: 0
+Classical Physics
+I Bases for Tangent Spaces and Subspaces - McInerney Theorem 3.3.14
+Started by Math Amateur
+Yesterday at 10:57 PM
+Replies: 0
+Differential Geometry
+Admissions Top School, Low GPA, Good CV. Grad School for Theoretical Physics?
+Started by Ellegal
+Yesterday at 9:59 PM
+Replies: 0
+Academic Guidance
+P
+I If I had a cubic metre of solid osmium, a perfect cube
+Started by Peter Hodgson
+Yesterday at 9:55 PM
+Replies: 2
+General Physics
+A
+A How, and in what atoms does the lamb shift occur?
+Started by Ali Lavasani
+Yesterday at 9:19 PM
+Replies: 0
+Quantum Physics
+Change width
+Contact us
+Terms of Service
+Privacy policy
+Help
+RSS
+© 2001-2019 Physics Forums
+Join Physics Forums Today!
+The friendliest, high quality science and math community on the planet! Everyone who loves science is here!
+Top

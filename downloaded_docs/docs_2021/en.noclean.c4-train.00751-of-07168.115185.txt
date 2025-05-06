@@ -1,0 +1,143 @@
+Emergency Pain Relief at MensHealth.com
+Search
+Subscribe
+Subscribe
+Print Edition
+Give a Gift
+Health
+Fitness
+Workouts
+Weight Loss
+Entertainment
+Sex, Dating and Women
+News
+Technology & Gear
+Style
+Nutrition
+Keto
+Whole 30
+Paleo
+Dash Diet
+Mediterranean Diet
+Grooming
+Video
+Newsletter
+Follow
+facebook
+twitter
+pinterest
+instagram
+youtube
+Shop
+Win
+Privacy Notice
+Terms of Use
+US
+UK
+España
+Nederland
+>
+Weight Loss
+Fitness
+Sex
+Style
+Heart Health
+Subscribe
+Give a Gift
+Newsletter
+US US
+Type keyword(s) to search
+Today's Top Stories
+1
+A Guide to Non-Monogamous Relationships
+2
+The 9 Best Cast Iron Skillets to Buy Now
+3
+Game of Thrones Actors Without Their Beards
+4
+Kanye Sold $225 Jesus-Themed Coachella Sweatshirts
+5
+Will Flaxseeds Help You Lose Weight?
+Don't Try This at Home
+Four classic emergency fixes that definitely won't do in a pinch, and two that just might
+By Kate Dailey
+Jul 17, 2006
+Sucking venom from a snakebite
+Before you give your best buddy a hickey in the name of heroism, you should know that even high-tech venom-suction devices may not remove enough toxin to make a difference. In fact, you may even make the problem worse. "You could cause a wound infection from your [germ-filled] mouth," says Sean Bush, M.D., an associate professor of emergency medicine at Loma Linda School of Medicine. Dr. Bush's best cure for snakebite: a cellphone and a helicopter. Your buddy might ask for something else for pain relief.
+Peeing on a jellyfish sting
+Pity the man who tries this home remedy on his just-stung date. "The stinging cells adhere to your skin, and if you splash them with fresh water, you cause these stinging cells to shoot their poison into your body," says Dr. Bush. Urine, unless you're extremely dehydrated, is mostly fresh water. For treatment and pain relief: Rinse the sting with vinegar or salt water for better results; they'll wash away most of the stingers, and the vinegar is acidic enough to stop any remaining stingers from firing.
+Slathering butter on a burn
+Putting butter, Crisco, or any other kind of grease on a burn can trap heat, cause scarring, and lead to infection. "When you've burned yourself, you've damaged the integrity of the skin, and butter is not the cleanest thing in the world," says Ben Wedro, M.D., an emergency-room doctor at the Gundersen Clinic in La Crosse, Wisconsin. Your impulse to douse the burn in ice water for pain relief is off base as well; the drastic temperature change can cause more pain. Instead, use cool water to soothe and clean the area.
+Drinking booze to ease a toothache
+"A shot of whiskey is not going to kill the pain of a toothache," says Charles Wakefield, D.D.S., director of advanced education in general dentistry at Baylor University medical school. Instead of a whiskey on the rocks for pain relief, just order the rocks: A Canadian study found that rubbing an ice cube on people's hands killed tooth pain in 50 percent of them. Wrap the cube and rub it on the V-shaped soft spot of your hand, where the bones of your thumb and index finger meet. The cold, rubbing sensation travels on the same pathway to the brain as tooth pain, and by icing your hand, you override the signals from your mouth. When you're finished, call a dentist. And pour yourself that whiskey.
+Putting baking soda on a bee sting
+This home remedy for pain relief actually works. Mix baking soda with water to form a thick paste and slap it on ASAP. "The sting is produced by an acid, and if you put baking soda on as soon as you can, it neutralizes that acid," says Stephen Purcell, D.O., chairman of the division of dermatology at the Philadelphia College of Osteopathic Medicine. If you don't have baking soda, wet the affected area and rub it with an uncoated aspirin; the aspirin will help control swelling, pain, and inflammation.
+Slapping a raw steak on a black eye
+"The only medical merit this has is if it's a cold steak," says Flip Homansky, M.D., who's seen his share of shiners in his work for the Nevada State Athletic Commission, which regulates Las Vegas's boxing bouts. "The cold will decrease swelling, but there is no enzyme or anything else in a raw steak that will help otherwise." The fact that the steak, compared with blocks of ice or ice cubes, can be formed to fit over the eye is another benefit, but a cheaper and less bacteria-prone solution is a bag of frozen peas, or crushed ice in a plastic bag wrapped in a towel.
+Advertisement - Continue Reading Below
+<% if (product.show_price && product.priceNoSymbol > 0) { %>
+(% off)
+<% var showPrice = item.data.content_product_review.product_review.show_price && (item.data.content_product_review.product_review.retailer.price > 0 || item.data.content_product_review.product_review.product.is_custom) %>
+(% off)
+rel="" >
+<%= item.data.dek.replace(/<p>/g, '<p class="item-info-dek">') %>
+More From Trending News
+Dr. Pimple Popper Tackles Giant Comedones
+There Are Snakes Living in Your Pool Noodles
+Advertisement - Continue Reading Below
+This Cyst Extraction Looks Like Mashed Potatoes
+Grab a Baked Potato—These Cysts Are Buttery AF
+What Does It Actually Mean To 'Split The Bill'?
+America's Fastest Growing City
+People Are Painting Easter Eggs Onto Their Butts
+Driver Crashes Through Gym, Hits Man on Treadmill
+'Shittens" Are About to Be a Parent's Best Friend
+These Pilar Cysts Look Like Orange Seeds
+Trending News
+Pain-Free for Life
+The Real Reason You're Hurting
+What Are Friends For?
+Does EMS Need to Call 911?
+Cruise Through Any Crisis
+Instant Spine Savers
+Mens Health
+pain
+>
+Newsletter
+Customer Care
+E-prints, Reprints
+Advertise
+Subscribe
+Give a Gift
+Manage Email Preferences
+Other Hearst Subscriptions
+Media Kit
+A Part of Hearst Digital Media Men's Health participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+©2019 Hearst Magazine Media, Inc. All Rights Reserved.
+Privacy Notice
+Your California Privacy Rights
+Interest-Based Ads
+Terms of Use
+Site Map
+Advertisement - Continue Reading Below
+Advertisement - Continue Reading Below
+Advertisement - Continue Reading Below
+Advertisement - Continue Reading Below
+Advertisement - Continue Reading Below
+Advertisement - Continue Reading Below
+Advertisement - Continue Reading Below
+data-srcset="" />
+Created for Created by for Presented by Created by
++
+Created for Created by for Presented by Created by
++
+data-srcset="" />
+<% if (data.length > lowSlideCount) { %>
+of
+<%= item.data.dek.replace(/<img(.*?)>/g, '').replace(/
+/g, '
+') %>
+<% if (data.length > lowSlideCount) { %>
+data-srcset="" />
+Created for Created by for Presented by Created by
++

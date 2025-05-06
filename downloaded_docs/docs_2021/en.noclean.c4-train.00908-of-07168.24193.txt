@@ -1,0 +1,72 @@
+Music therapy can reduce anxiety in cancer patients, says new research
+Home
+About MedWorm
+Health News
+Specialties
+Conditions
+Cancers
+Infec. Diseases
+Procedures
+Therapies
+Nutrition
+Drugs
+Vaccines
+Management
+Training
+Countries
+any words all words exact phrase advanced  Advanced search can include the following:
+• OR operator: |
+• NOT operators: - OR !
+• phrase search: "breast cancer"
+• AND is implied so listing two words without another operator will search for records where both words are present.
+• use () to group words together:
+eg.(cancer|cancers)(cervical|cervix)!("Squamous cell carcinoma"|SCC)
+will return records where either the words 'cancer' or 'cancers' are present, plus the words 'cervical' or 'cervix', but not the phrase 'squamous cell carcinoma' or 'SCC'.
+• order operator: word1 << word2 << word3
+eg. chronic << (leukemia|leukaemia)
+here the word 'chronic' must come somewhere before either the work 'leukemia' or 'leukaemia'.
+• search on a specific field using any of the following: @item_headline @item_description @source @author @tags
+eg1. @item_headline "kidney cancer" @item_description (trial|trials)
+this searches for the phrase 'kidney cancer' in the title as well as either the word 'trial' or 'trials' in description.
+eg2. @(item_headline,item_description,tags) heart
+this searches for items where the word 'heart' exists in all of the headline, description and tags fields.
+eg3. @source "Journal of the American College of Cardiology"
+this searches for items where "Journal of the American College of Cardiology" is listed as the source.
+news research blogs podcasts video events funding alerts forums clinical trials
+Music therapy can reduce anxiety in cancer patients, says new research
+LISTENING to music can reduce pain and anxiety in cancer patients, according to new research.
+http://feedproxy.google.com/~r/daily-express-life-and-style-health-news/~3/nZXFD...
+Source: Daily Express - Health - August 18, 2016 Category: Consumer Health News Source Type: news
+Related Links:
+Integrative Therapies During and After Breast Cancer Treatment: ASCO Endorsement of the SIO Clinical Practice Guideline.
+Abstract Purpose The Society for Integrative Oncology (SIO) produced an evidence-based guideline on use of integrative therapies during and after breast cancer treatment that was determined to be relevant to the American Society of Clinical Oncology (ASCO) membership. ASCO considered the guideline for endorsement. Methods The SIO guideline addressed the use of integrative therapies for the management of symptoms and adverse effects, such as anxiety and stress, mood disorders, fatigue, quality of life, chemotherapy-induced nausea and vomiting, lymphedema, chemotherapy-induced peripheral neuropathy, pain, and sleep ...
+Source: Clinical Genitourinary Cancer - June 11, 2018 Category: Cancer & Oncology Authors: Lyman GH, Greenlee H, Bohlke K, Bao T, DeMichele AM, Deng GE, Fouladbakhsh JM, Gil B, Hershman DL, Mansfield S, Mussallem DM, Mustian KM, Price E, Rafte S, Cohen L Tags: J Clin Oncol Source Type: research
+Music Offers Many Cognitive, Emotional and Physical Benefits to Young and Old
+“Music is therapy. Music moves people. It connects people in ways that no other medium can. It pulls heart strings. It acts as medicine.” — Macklemore Much research over the years has centered on the potential, perceived and realized benefits of music. In fact, the area of study has blossomed, growing from the preliminary findings of earlier studies to recent ones that built upon them. What’s exciting is the widespread and diverse benefits that music offers to everyone, young, old and in-between. Musical training gives babies’ brains a boost. Even before babies can walk or talk, they can benef...
+Source: World of Psychology - May 14, 2018 Category: Psychiatry & Psychology Authors: Suzanne Kane Tags: Brain and Behavior Creativity Happiness Health-related Motivation and Inspiration Research Self-Esteem Stress Coping Emotional Support Music Therapy musical therapy Source Type: blogs
+Perceptions of family members of palliative medicine and hospice patients who experienced music therapy
+ConclusionsFamily members of patients in palliative medicine and hospice settings reported an immediate positive impact of music therapy on the patient and on themselves. More research needs to be conducted to better understand the benefits of music therapy for family members.
+Source: Supportive Care in Cancer - April 25, 2017 Category: Cancer & Oncology Source Type: research
+Music therapy improves the mood of patients undergoing hematopoietic stem cells transplantation (controlled randomized study)
+AbstractPurposeThe allogeneic hematopoietic stem cell transplantation (allo-HSCT) is a therapeutic medical treatment for various neoplastic hematologic, congenital, genetic, or acquired disorders. In this procedure which combines high-dose chemotherapy and/or radiotherapy and has a high degree of cytotoxicity, the patient experiences solitary confinement, which causes psychological distress, pain, anxiety, mood disorders and can lead him/her to depression. Music therapy was applied with the purpose of decreasing this social confinement. This is a randomized controlled trial.MethodPatients (n = 100) were selected ...
+Source: Supportive Care in Cancer - January 25, 2017 Category: Cancer & Oncology Source Type: research
+Outcomes of Music Therapy Interventions on Symptom Management in Palliative Medicine Patients.
+CONCLUSIONS: This study demonstrated the importance of music therapy for addressing symptoms and behaviors of palliative medicine patients. Statistically and clinically significant effects were noted. The most effective interventions were identified. More research needs to be conducted to better understand the benefits of music therapy for palliative medicine patients. PMID: 28274132 [PubMed - as supplied by publisher]
+Source: The American Journal of Hospice and Palliative Care - January 1, 2017 Category: Palliative Care Authors: Gallagher LM, Lagman R, Rybicki L Tags: Am J Hosp Palliat Care Source Type: research
+P013 The Effects of Music Therapy in Liquid and Solid Tumor Oncology Patients
+The purposes of this IRB-approved study were to compare the intensity of pain, anxiety, depression, nausea, and mood before and after a music therapy; to compare behavioral factors such as facial expression, body movement, and verbalization before and after a music therapy; and to determine the effects of gender, age, and type of cancer in patients with pain and anxiety who experienced music therapy for all oncology patients who received music therapy.
+Source: Journal of Pain and Symptom Management - December 1, 2016 Category: Palliative Care Authors: Debbie Bates, Lisa Rybicki Source Type: research
+Music therapy strikes a chord
+Reposted with permission from Cochrane AustraliaA trio of music therapy reviews featured in last year ’s Australian top 100 Cochrane Library downloads, withMusic Therapy for depression coming in at number 7,Music Therapy for people with spectrum disorder at number 40 andMusic Therapy for people with dementia at 76. Recently a new update ofMusic interventions for cancer patientstook centre stage and madeheadlines around the world, finding that music may have beneficial effects on anxiety, pain, fatigue, depression and quality of life for people with cancer.‘It’s great to see these reviews are the subject o...
+Source: Cochrane News and Events - September 21, 2016 Category: Information Technology Authors: mumoquit at cochrane.org Source Type: news
+Music helps alleviate cancer patients' symptoms
+Music helps alleviate symptoms of anxiety, pain and fatigue Related items fromOnMedica Singing is beneficial for memory and mood in early dementia Music therapy reduces depression in children and adolescents Music during surgery may risk patient safety Music is the food of recovery
+Source: OnMedica Latest News - August 18, 2016 Category: UK Health Source Type: news
+Featured Review: Music interventions for improving psychological and physical outcomes in cancer patients
+Are there benefits of offering music interventions as a complementary treatment to people with cancer?Cancer may result in extensive emotional, physical and social suffering. Current cancer care increasingly incorporates psychosocial interventions to improve quality of life. Music therapy and music medicine interventions have been used to alleviate symptoms and treatment side effects and address psychosocial needs in people with cancer. In music medicine interventions, the patient simply listens to pre-recorded music that is offered by a medical professional. Music therapy requires the implementation of a music interventio...
+Source: Cochrane News and Events - August 15, 2016 Category: Information Technology Authors: mumoquit at cochrane.org Source Type: news
+Music interventions for improving psychological and physical outcomes in cancer patients.
+Abstract BACKGROUND: Having cancer may result in extensive emotional, physical and social suffering. Music interventions have been used to alleviate symptoms and treatment side effects in cancer patients. OBJECTIVES: To assess and compare the effects of music therapy and music medicine interventions for psychological and physical outcomes in people with cancer. SEARCH METHODS: We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2016, Issue 1), MEDLINE, Embase, CINAHL, PsycINFO, LILACS, Science Citation Index, CancerLit, CAIRSS, Proquest Digital Dissertations, ClinicalTrials.gov, Cur...
+Source: Cochrane Database of Systematic Reviews - August 15, 2016 Category: Journals (General) Authors: Bradt J, Dileo C, Magill L, Teague A Tags: Cochrane Database Syst Rev Source Type: research
+More News: Anxiety | Cancer | Cancer & Oncology | Health | Music Therapy | Pain
+MedWorm Privacy Policy Disclaimer Copyright © MedWorm 2006-2019

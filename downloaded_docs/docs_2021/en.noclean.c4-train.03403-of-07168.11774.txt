@@ -1,0 +1,190 @@
+Music Therapy News
+Home
+About MedWorm
+Health News
+Specialties
+Conditions
+Cancers
+Infec. Diseases
+Procedures
+Therapies
+Nutrition
+Drugs
+Vaccines
+Management
+Training
+Countries
+any words all words exact phrase advanced  Advanced search can include the following:
+• OR operator: |
+• NOT operators: - OR !
+• phrase search: "breast cancer"
+• AND is implied so listing two words without another operator will search for records where both words are present.
+• use () to group words together:
+eg.(cancer|cancers)(cervical|cervix)!("Squamous cell carcinoma"|SCC)
+will return records where either the words 'cancer' or 'cancers' are present, plus the words 'cervical' or 'cervix', but not the phrase 'squamous cell carcinoma' or 'SCC'.
+• order operator: word1 << word2 << word3
+eg. chronic << (leukemia|leukaemia)
+here the word 'chronic' must come somewhere before either the work 'leukemia' or 'leukaemia'.
+• search on a specific field using any of the following: @item_headline @item_description @source @author @tags
+eg1. @item_headline "kidney cancer" @item_description (trial|trials)
+this searches for the phrase 'kidney cancer' in the title as well as either the word 'trial' or 'trials' in description.
+eg2. @(item_headline,item_description,tags) heart
+this searches for items where the word 'heart' exists in all of the headline, description and tags fields.
+eg3. @source "Journal of the American College of Cardiology"
+this searches for items where "Journal of the American College of Cardiology" is listed as the source.
+news research blogs podcasts video events funding alerts forums clinical trials
+Music Therapy News This is an RSS file. You can use it to subscribe to this data in your favourite RSS reader or to display this data on your own website or blog.
+News
+Research
+Blogs
+Podcasts
+Funding
+Clinical Trials
+Forums
+Pages: 1 2 3 4
+Bridging the clinic to community: music performance as social transformation for military service members - Vaudreuil R, Bronson H, Bradt J.
+The use of music performance in music therapy with military service members is discussed as a vehicle for social transformation and reintegration. The use of performance in music therapy is not without controversy primarily because therapy is considered a ... (Source: SafetyLit)
+Source: SafetyLit - February 28, 2019 Category: International Medicine & Public Health Tags: Economics of Injury and Safety, PTSD, Injury Outcomes Source Type: news
+Impact of a Music Therapy Intervention on ICU Patients Impact of a Music Therapy Intervention on ICU Patients
+What benefits might a music-based intervention offer to critical care patients?American Journal of Critical Care (Source: Medscape Today Headlines)
+Source: Medscape Today Headlines - February 26, 2019 Category: Consumer Health News Tags: Critical Care Journal Article Source Type: news
+Music therapy program at UCLA aims to help premature infants develop feeding skills
+It ’s a Friday morning in January when Jana Gallus, 32, and Gregor Martynus, 35, peek their heads over their triplets’ set of bassinets in their Westwood apartment. Six-month-olds Ada, Kian and Nico are just waking up, kicking with excitement and beaming from ear to ear.It ’s a daily moment that Gallus and Martynus say doesn’t get old. The triplets have come a long way since July, when they were born early, at 31 weeks, with weights ranging from 2.5 to 4 pounds. For 52 days, the trio were cared for in the neonatal intensive care unit, or NICU, atUCLA Mattel Children ’s Hospital.As the UCLA tea...
+Source: UCLA Newsroom: Health Sciences - February 11, 2019 Category: Universities & Medical Training Source Type: news
+Listening to lively music does wonders for your brain
+(Natural News) There is a scientific reason as to why standing up and clapping along in singalongs makes you feel good. A new Japanese study reported that actively participating in music therapy sessions could improve its considerable effects on the activity levels of the brain. Music is good for the body as well as the mind and... (Source: NaturalNews.com)
+Source: NaturalNews.com - January 7, 2019 Category: Consumer Health News Source Type: news
+Active music therapy increases brain activation
+(Natural News) A Japanese study evaluated the effect of active and passive participation in music therapy on the frontal lobe of the brain. In addition to demonstrating the relaxing effect of calm music, it determined that active music therapy appeared to trigger activity in the brain more often than merely listening to the music. Tokai University provided support for this... (Source: NaturalNews.com)
+Source: NaturalNews.com - December 21, 2018 Category: Consumer Health News Source Type: news
+Music Therapy Helps Kids With Autism Connect to Others
+FRIDAY, Nov. 23, 2018 -- When a child with autism can play the piano or sing a song, their brains may benefit, new research suggests. Music therapy increased connectivity in key brain networks, according to the researchers. Not only that, the... (Source: Drugs.com - Daily MedNews)
+Source: Drugs.com - Daily MedNews - November 23, 2018 Category: General Medicine Source Type: news
+Musicians, magic and more make Halloween a treat for kids at UCLA Mattel Children's Hospital
+Halloween didn ’t skip a beat atUCLA Mattel Children ’s Hospital, where patients, family and staff celebrated the holiday during the hospital ’s annual parade.Kids in costume giggled their way through the hospital halls, trick-or-treated at candy stations, watched a magician performing magic tricks, and snapped pictures with the Laker Girls. A variety of departments across UCLA Health pitched in to assemble the candy stations.Spirit Halloween donated costumes to pediatric patients, like 9-year-old Austin, whose costume came together just in the nick of time.Weeks ago, Austin decided to dress up as a...
+Source: UCLA Newsroom: Health Sciences - November 1, 2018 Category: Universities & Medical Training Source Type: news
+"Being a bully isn't very cool …": Rap & Sing Music Therapy for enhanced emotional self-regulation in an adolescent school setting - a randomized controlled trial - Uhlig S, Jansen E, Scherder E.
+This study investigated Rap& Sing Music Therapy in a school-based pr... (Source: SafetyLit)
+Source: SafetyLit - November 1, 2018 Category: International Medicine & Public Health Tags: Age: Adolescents Source Type: news
+The healing potential of music therapy in pain relief in cancer patients
+(Natural News) Cancer patients suffer from physical pain, emotional pain, and even social suffering. In order to improve the lives of cancer patients, some undergo music therapy. Research has shown that music therapy has the potential to relieve pain in cancer patients. A study review published in the Cochrane Database of Systematic Reviews confirmed that... (Source: NaturalNews.com)
+Source: NaturalNews.com - October 4, 2018 Category: Consumer Health News Source Type: news
+Music Therapy Improves Mood, Quality of Life in Dementia Music Therapy Improves Mood, Quality of Life in Dementia
+This study suggests benefits in mood and quality of life but not cognition, agitation, or aggression.Medscape Medical News (Source: Medscape Medical News Headlines)
+Source: Medscape Medical News Headlines - August 20, 2018 Category: Consumer Health News Tags: Psychiatry News Source Type: news
+Dementia patients may benefit from music therapy
+(Reuters Health) - Music therapy may improve depression and anxiety in dementia patients, a new analysis suggests. (Source: Reuters: Health)
+Source: Reuters: Health - August 17, 2018 Category: Consumer Health News Tags: healthNews Source Type: news
+Burn patients feel less pain when they undergo music therapy
+(Natural News) Burn injuries are among the most severe traumas that can be experienced, which makes it difficult to treat burn patients. Music therapy has been known to help in pain management. In a study review published in the journal BMC Complementary and Alternative Medicine, researchers evaluated the effect of music intervention in the recovery of... (Source: NaturalNews.com)
+Source: NaturalNews.com - August 14, 2018 Category: Consumer Health News Source Type: news
+NHS GP: Doctors should prescribe music therapy and acupuncture
+EXCLUSIVE: Laura Marshall-Andrews, who runs a pioneering surgery in Brighton, believes the decision would boost the mental health of thousands. (Source: the Mail online | Health)
+Source: the Mail online | Health - July 11, 2018 Category: Consumer Health News Source Type: news
+Study finds music therapy brings effective pain relief for sickle cell patients
+(University Hospitals Cleveland Medical Center) In a randomized controlled trial, patients with sickle cell disease were assigned to one of three 20-minute conditions: a session with a music therapist, an iPod to listen to pre-selected music themselves, or no music at all. While passively listening to music improved mood, music therapy had a significantly stronger impact on aiding in pain management for patients actively engaged with a music therapist. (Source: EurekAlert! - Cancer)
+Source: EurekAlert! - Cancer - June 13, 2018 Category: Cancer & Oncology Source Type: news
+How music helps rehab patients learn how to move again
+Research has revealed that music therapy can improve motor skills in patients with neurological disorder. (Source: CBC | Health)
+Source: CBC | Health - May 25, 2018 Category: Consumer Health News Tags: Radio/White Coat, Black Art Source Type: news
+Music May Calm the Agitation of Alzheimer's
+MONDAY, April 30, 2018 -- Music therapy might help ease the anxiety and agitation that plagues many Alzheimer's patients, researchers suggest. " People with dementia are confronted by a world that is unfamiliar to them, which causes disorientation... (Source: Drugs.com - Daily MedNews)
+Source: Drugs.com - Daily MedNews - April 30, 2018 Category: General Medicine Source Type: news
+You Asked: Is Listening to Music Good For Your Health?
+If you’re looking for an easy way to transform your mood, cue the music. Studies have shown that music can buoy your mood and fend off depression. It can also improve blood flow in ways similar to statins, lower your levels of stress-related hormones like cortisol and ease pain. Listening to music before an operation can even improve post-surgery outcomes. How can music do so much good? Music seems to “selectively activate” neurochemical systems and brain structures associated with positive mood, emotion regulation, attention and memory in ways that promote beneficial changes, says Kim Innes, a professor ...
+Source: TIME: Health - April 26, 2018 Category: Consumer Health News Authors: Markham Heid Tags: Uncategorized healthytime Mental Health/Psychology Source Type: news
+Music therapy for depression.
+Depression is a highly prevalent mood disorder that is characterised by persistent low mood, diminished interest, and loss of pleasure. Music therapy may be helpful in modulating moods and emotions. An update of the 2008 Cochrane review was needed to improve knowledge on effects of music therapy for depression. 1. To assess effects of music therapy for depression in people of any age compared with treatment as usual (TAU) and psychological, pharmacological, and/or other therapies. 2. To compare effects of different forms of music therapy for people of any age with a diagnosis of depression. (Source: Current Awareness Ser...
+Source: Current Awareness Service for Health (CASH) - April 6, 2018 Category: Consumer Health News Source Type: news
+International multicentre randomised controlled trial of improvisational music therapy for children with autism spectrum disorder: TIME-A study.
+Preliminary studies have indicated that music therapy may benefit children with autism spectrum disorders (ASD). To examine the effects of improvisational music therapy (IMT) on social affect and responsiveness of children with ASD. International, multicentre, three-arm, single-masked randomised controlled trial, including a National Institute for Health Research (NIHR)-funded centre that recruited in Londo n and the east of England. Randomisation was via a remote service using permuted blocks, stratified by study site. (Source: Current Awareness Service for Health (CASH))
+Source: Current Awareness Service for Health (CASH) - April 5, 2018 Category: Consumer Health News Source Type: news
+Music and the Brain: Report on an NIH/Kennedy Center Workshop
+Collaborative workshop– the Sound Health initiative– convened by the National Institutes of Health and the John F. Kennedy Center for the Performing Arts– focused on the use of music therapy in health settings. (Source: NCCAM Featured Content)
+Source: NCCAM Featured Content - March 23, 2018 Category: Complementary Medicine Authors: NCCIH Source Type: news
+Music therapy aids healing of military personnel
+(Oxford University Press USA) A new paper published in Music Therapy Perspectives examines the importance of music therapy in military healthcare. There has been an increase in music therapy to treat combat-related injuries in recent years. With this growth in the use of the therapy, the researchers involved believe it's important for practitioners to publish more program evaluations and patient outcomes data. (Source: EurekAlert! - Medicine and Health)
+Source: EurekAlert! - Medicine and Health - March 20, 2018 Category: International Medicine & Public Health Source Type: news
+Therapy dogs promote healing in the ICU through emotional well-being – proving effectiveness of non-pharmaceutical treatments
+(Natural News) Experts from the the Johns Hopkins rehabilitation and ICU centers are calling for more nonpharmacological interventions in treating critically ill patients. They stress that previous thinking that “the right medication will improve a patient’s psychological status” is no longer valid and that interventions such as music therapy and relaxation training are far better... (Source: NaturalNews.com)
+Source: NaturalNews.com - March 2, 2018 Category: Consumer Health News Source Type: news
+Community outreach finalist: Personal Counseling Service Inc.
+Personal Counseling Service Inc. offers a combination of services in the Kentuckiana area, including pastoral counseling, family counseling and music therapy. (Source: bizjournals.com Health Care:Biotechnology headlines)
+Source: bizjournals.com Health Care:Biotechnology headlines - February 23, 2018 Category: Biotechnology Source Type: news
+How music therapy helped a woman heal
+Some say music has the power to heal. That's the idea behind "music therapy". See how it helped a teen deal with the death of her father seven years ago. (Source: CNN.com - Health)
+Source: CNN.com - Health - January 23, 2018 Category: Consumer Health News Source Type: news
+Dementia study adds to calls for more funding of music therapy
+Music can help reduce symptoms but only 5% of care homes are using it effectively, finds reportThe symptoms of hundreds of thousands of vulnerable people with dementia could significantly improve by listening to and playing music, according to a report.The study, which compiled existing evidence as well as talking to experts, found music can help people with dementia recall information and reduce symptoms such as anxiety, agitation and aggression.Continue reading... (Source: Guardian Unlimited Science)
+Source: Guardian Unlimited Science - January 18, 2018 Category: Science Authors: Sarah Marsh Tags: Dementia Mental health Social care Health policy Society Politics Public services policy UK news Source Type: news
+Music Therapy Offers an End-of-Life Grace Note
+Music therapy is becoming more common in nursing homes and hospices, where it has been shown to improve a patient ’ s quality of life. (Source: NYT Health)
+Source: NYT Health - January 15, 2018 Category: Consumer Health News Authors: SHARON OTTERMAN Tags: Music Hospice Care Alzheimer's Disease Death and Dying Elder Care Nursing Homes Hebrew Home at Riverdale Seasons Hospice & Palliative Care American Music Therapy Association Elizabeth Seton Pediatric Center Source Type: news
+Music Therapy May Help Ease Depression Music Therapy May Help Ease Depression
+Traditional depression treatments like psychotherapy or medication might work better for some patients when doctors add a dose of music therapy, a research review suggests.Reuters Health Information (Source: Medscape Medical News Headlines)
+Source: Medscape Medical News Headlines - December 14, 2017 Category: Consumer Health News Tags: Medscape Today News Source Type: news
+Music therapy may help ease depression
+(Reuters Health) - Traditional depression treatments like psychotherapy or medication might work better for some patients when doctors add a dose of music therapy, a research review suggests. (Source: Reuters: Health)
+Source: Reuters: Health - December 13, 2017 Category: Consumer Health News Tags: healthNews Source Type: news
+Mozart's music in children with drug-refractory epileptic encephalopathies: comparison of two protocols - Coppola G, Operto FF, Caprio F, Ferraioli G, Pisano S, Viggiano A, Verrotti A.
+In this prospective, randomized, open label study, we compared the effect on seizure recurrence and quality-of-life parameters, of two different protocols of music therapy in children and adolescents with refractory epileptic encephalopathies. Nine out of ... (Source: SafetyLit)
+Source: SafetyLit - November 30, 2017 Category: International Medicine & Public Health Tags: Ergonomics, Human Factors, Anthropometrics, Physiology Source Type: news
+Music Therapy and Autism Spectrum Disorder Music Therapy and Autism Spectrum Disorder
+Does improvisational music therapy offer long-term benefit in terms of social affect in children with ASD?Medscape Pediatrics (Source: Medscape Today Headlines)
+Source: Medscape Today Headlines - October 20, 2017 Category: Consumer Health News Tags: Pediatrics Viewpoint Source Type: news
+Ukulele Kids Club Brings Healing Powers of Music to a Red Cross Shelter
+Story and photos by Chris Genin, American Red Cross volunteer Shelter residents and volunteers gathered to the sound of a live band, featuring the ukulele, playing at the Greenspoint Mall ... The... {This is a content summary only. Click the blog post title to continue reading this post, share your comments, browse the blog and more!} (Source: Red Cross Chat)
+Source: Red Cross Chat - October 13, 2017 Category: International Medicine & Public Health Authors: American Red Cross Tags: Disaster children in shelters Hurricane Harvey music therapy teaching music to children ukulele Ukulele Kids Club Source Type: news
+Hospital uses music therapy to help cancer patients
+Doctors say music helps cancer patients stay positive and relaxed before and during treatment (Source: Health News: CBSNews.com)
+Source: Health News: CBSNews.com - October 13, 2017 Category: Consumer Health News Source Type: news
+Baycrest launches study combining music and brain stimulation to improve memory
+(Baycrest Centre for Geriatric Care) Baycrest will embark on the first study combining music therapy with brain stimulation to improve memory among patients with mild cognitive impairment. (Source: EurekAlert! - Medicine and Health)
+Source: EurekAlert! - Medicine and Health - September 18, 2017 Category: International Medicine & Public Health Source Type: news
+Epilepsy and Music: Practical Notes Epilepsy and Music: Practical Notes
+Review the complex relationship between music and epilepsy, from the promise of music therapy, to musicogenic epilepsy and potential effects of antiepileptics and epilepsy surgery on music perception.Practical Neurology (Source: Medscape Today Headlines)
+Source: Medscape Today Headlines - September 7, 2017 Category: Consumer Health News Tags: Neurology & Neurosurgery Journal Article Source Type: news
+No Reduction in Autism Symptoms With Music Therapy No Reduction in Autism Symptoms With Music Therapy
+Although a new randomized trial showed that improvisational music therapy did not reduce social affect in children with autism spectrum disorder, the intervention may work in some, researchers say.Medscape Medical News (Source: Medscape Medical News Headlines)
+Source: Medscape Medical News Headlines - August 10, 2017 Category: Consumer Health News Tags: Psychiatry News Source Type: news
+Music therapy may not lead to big benefits for kids with autism
+Children with autism spectrum disorder don't benefit from the addition of music therapy on top of their usual treatments, an international clinical trial suggests. (Source: CBC | Health)
+Source: CBC | Health - August 10, 2017 Category: Consumer Health News Tags: News/Health Source Type: news
+Music therapy for autism doesn't improve symptoms
+A study conducted at the Grieg Academy Music Therapy Research Centre in Norway, found music therapy plus standard care didn't improve symptoms any more than standard care alone. (Source: the Mail online | Health)
+Source: the Mail online | Health - August 9, 2017 Category: Consumer Health News Source Type: news
+Why Didn't Music Therapy Help Autistic Kids?
+(MedPage Today) -- Maybe the researchers failed, not the therapy (Source: MedPage Today Neurology)
+Source: MedPage Today Neurology - August 9, 2017 Category: Neurology Source Type: news
+Music Therapy Does Not Appear to Improve Autism Symptoms in Young Children (FREE)
+By Amy Orciari Herman Edited by David G. Fairchild, MD, MPH, and Lorenzo Di Francesco, MD, FACP, FHM Music therapy seems no better than standard care alone in improving autism symptoms, according to an international trial in JAMA.Over … (Source: Physician's First Watch current issue)
+Source: Physician's First Watch current issue - August 9, 2017 Category: Primary Care Source Type: news
+Music therapy may not lead to big benefits for kids with autism
+(Reuters Health) - Children with autism spectrum disorder (ASD) don't benefit from the addition of music therapy on top of their usual treatments, according to results from a large international clinical trial. (Source: Reuters: Health)
+Source: Reuters: Health - August 8, 2017 Category: Consumer Health News Tags: healthNews Source Type: news
+Study casts doubt on music therapy for kids with autism
+Ethan Jones thinks he was playing the piano. (Source: CNN.com - Health)
+Source: CNN.com - Health - August 8, 2017 Category: Consumer Health News Source Type: news
+Effects of community-based group music therapy for children exposed to ongoing child maltreatment and poverty in South Korea: a block randomized controlled trial - Kim J.
+The purpose of this study was to investigate the effects of Community-Based Group Music Therapy on internalizing behavioral problems in children who were exposed to ongoing child maltreatment and poverty in South Korea. It was a block randomized controlled... (Source: SafetyLit)
+Source: SafetyLit - July 27, 2017 Category: International Medicine & Public Health Tags: Age: Adolescents Source Type: news
+Music therapy for people with schizophrenia and schizophrenia-like disorders.
+Music therapy is a therapeutic approach that uses musical interaction as a means of communication and expression. Within the area of serious mental disorders, the aim of the therapy is to help people improve their emotional and relational competencies, and address issues they may not be able to using words alone. To review the effects of music therapy, or music therapy added to standard care, compared with placebo therapy, standard care or no treatment for people with serious mental disorders such as schizophrenia. (Source: Current Awareness Service for Health (CASH))
+Source: Current Awareness Service for Health (CASH) - June 21, 2017 Category: Consumer Health News Source Type: news
+Horse Riding, Music Therapy Benefit Late-Stage Stroke Horse Riding, Music Therapy Benefit Late-Stage Stroke
+Rehabilitation programs that involve a multisensory intervention improved gait, balance, strength, and cognition in late-stage stroke survivors.Medscape Medical News (Source: Medscape Medical News Headlines)
+Source: Medscape Medical News Headlines - June 16, 2017 Category: Consumer Health News Tags: Neurology & Neurosurgery News Source Type: news
+Music Therapy May Strike the Right Note for Schizophrenia Music Therapy May Strike the Right Note for Schizophrenia
+A new Cochrane Review shows that music therapy benefits global state, mental state, social function, and quality of life in the short to medium term.Medscape Medical News (Source: Medscape Medical News Headlines)
+Source: Medscape Medical News Headlines - June 16, 2017 Category: Consumer Health News Tags: Psychiatry News Source Type: news
+Long-term stroke survivors believe they do better with horse, music therapy
+(Reuters Health) - A small Swedish study of stroke patients finds that activities such as horseback riding and rhythm-and-music therapy can help them feel like they're recovering faster, even if their stroke occurred years earlier. (Source: Reuters: Health)
+Source: Reuters: Health - June 15, 2017 Category: Consumer Health News Tags: healthNews Source Type: news
+Music therapy for people with substance use disorders
+The objectives are as follows: To assess the effects of music therapy, as a primary or a supportive intervention, compared to standard care, wait-list control or no treatment, for people with substance use disorders, to reduce substance use,the severity of substance dependence/abuse, psychological symptoms, and substance cravin g; to enhance motivation for change/treatment; and for retention in treatment. To assess the impact of the number of music therapy sessions on study outcomes. (Source: Current Awareness Service for Health (CASH))
+Source: Current Awareness Service for Health (CASH) - May 24, 2017 Category: Consumer Health News Source Type: news
+Biodex Releases NEW Gait Trainer 3: First Ever Gait Training Treadmill...
+Merge of music therapy and biomedical technology takes a groundbreaking step for neurological rehab(PRWeb May 19, 2017)Read the full story at http://www.prweb.com/releases/2017/05/prweb14347180.htm (Source: PRWeb: Medical Pharmaceuticals)
+Source: PRWeb: Medical Pharmaceuticals - May 19, 2017 Category: Pharmaceuticals Source Type: news
+Pages: 1 2 3 4
+MedWorm Privacy Policy Disclaimer Copyright © MedWorm 2006-2019

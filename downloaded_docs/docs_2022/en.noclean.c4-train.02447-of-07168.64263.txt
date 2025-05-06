@@ -1,0 +1,34 @@
+About | BayesMendel Lab
+Skip to main content
+Main Menu
+Utility Menu
+Search
+HARVARD.EDU
+BayesMendel Lab
+450 Brookline Ave
+Boston, MA 02215
+Contact
+About
+People
+Models
+Software
+Publications
+HOME /
+About
+Inherited susceptibility to cancer
+Cancer is caused by changes (mutations) in our genes. While many of these changes occur during one's lifetime, some are inherited (germline mutations). Genetic research has identified a large number of genes, inherited mutations of which confer a significantly increased risk of one of more types of cancer. Important examples are the BRCA1 and BRCA2 genes, responsible for the familial breast/ovarian cancer syndrome, and certain mismatch repair genes responsible for familial colorectal cancer.
+Most mutations of cancer genes do not determine the fate of an individual. Genetic effects are therefore characterized probabilistically by penetrance functions, that is probability distributions of developing cancer by age, given a specific genetic variant, and prevalence functions, that is frequencies of mutation by population strata. Identifying individuals at high risk of cancer because of inherited genetic susceptibility, and providing them with reliable assessments of cancer risk, are complex and increasingly important. Probabilistic prediction algorithms that exploit domain knowledge of Mendelian inheritance and other biological characteristics of susceptibility genes have successfully contributed to improved screening, prevention, and genetic testing.
+BayesMendel lab
+BayesMendel is a lab dedicated to methodologies, models, and software related to cancer susceptibility genes. We use statistical and machine learning ideas that go back to Bayes (pictured on the left) and integrate them into genetic inheritance models that go back to Mendel (pictured on the right).
+BayesMendel is based at DFCI, and led by Danielle Braun and Giovanni Parmigiani. It includes many participants and alumni from other academic institutions.
+BayesMendel software
+BayesMendel is also the name of the R spftware package that collects the lab's Carrier Prediction Models, including BRCAPRO, MMRpro, PancPRO and MelaPRO.
+The ASK2ME Project
+The BayesMendel lab, in collaboration with Dr. Kevin Hughes at MGH developed ASK2ME a clinician-facing decision support tool for individuals who have undergone multi-gene panel testing.
+Hereditary cancer testing with panels of genes is now the norm. Understanding the cancer risk of pathogenic variants (mutations) in moderate penetrance genes or uncommon genes, and the management of those pathogenic variants, can be difficult. ASK2ME provides a calculator to determine risk and the existing management guidelines for most of these genes (with more to follow). We have chosen, after comprehensive reviews, high quality papers on ATM, BARD1, BRCA1, BRCA2, BRIP1, BMPR1A, CDH1, CDK4, CDKN2A, CHEK2, EPCAM, GREM1, MLH1, MSH2, MSH6, MUTYH, NBN, PALB2, PMS2, POLD1, POLE, PTEN, RAD50, RAD51C, RAD51D, SMAD4, STK11, TP53, converted their general risk estimates to patient specific estimates, and collated the major management guidelines to simplify determining a management strategy.
+About
+Current Methodological Research
+Contact
+Admin Login
+OpenScholar
+Copyright © 2019 The President and Fellows of Harvard College | Accessibility | Report Copyright Infringement

@@ -1,0 +1,82 @@
+14.S: Organic Compounds of Oxygen (Summary) - Chemistry LibreTexts
+Skip to main content
+LibreTexts and Edfinity now partners for companion online homework & testing solutions
+Biology
+Business
+Chemistry
+Engineering
+Español
+Geosciences
+Humanities
+Mathematics
+Medicine
+Physics
+Social Sciences
+Statistics
+Workforce
+Periodic Table of the Elements
+Reference Tables
+Physical Constants
+Units and Conversions
+Organic Chemistry Glossary
+Sun, 27 Dec 2015 05:57:10 GMT
+14.S: Organic Compounds of Oxygen (Summary)
+16052
+{ }
+Anonymous
+2
+false
+false
+[ "article:topic", "showtoc:no", "license:ccbyncsa" ]
+Search site
+Search
+Search
+Go back to previous article
+Username
+Password
+Sign in
+Sign in
+Sign in
+Registration
+Forgot password
+Expand/collapse global hierarchy
+Home
+Bookshelves
+Introductory & GOB Chemistry
+Book: The Basics of GOB Chemistry (Ball et al.)
+14: Organic Compounds of Oxygen
+Expand/collapse global location
+14.S: Organic Compounds of Oxygen (Summary)
+Last updated
+Save as PDF
+Page ID
+16052
+No headers
+To ensure that you understand the material in this chapter, you should review the meanings of the following bold terms in the summary and ask yourself how they relate to the topics in the chapter.
+A functional group is any atom or atom group that confers characteristic properties to a family of compounds.
+The hydroxyl group (OH) is the functional group of the alcohols. The alcohols are represented by the general formula ROH. Alcohols are derived from alkanes by replacing one or more hydrogen atoms by an OH group. A primary (1°) alcohol (RCH2OH) has the OH group on a carbon atom attached to one other carbon atom; a secondary (2°) alcohol (R2CHOH) has the OH group on a carbon atom attached to two other carbon atoms; and a tertiary (3°) alcohol (R3COH) has the OH group on a carbon atom attached to three other carbon atoms.
+The ability to engage in hydrogen bonding greatly increases the boiling points of alcohols compared to hydrocarbons of comparable molar mass. Alcohols can also engage in hydrogen bonding with water molecules, and those with up to about four carbon atoms are soluble in water.
+Many alcohols can be synthesized by the hydration of alkenes. Common alcohols include methanol, ethanol, and isopropyl alcohol. Methanol is quite poisonous. It can cause blindness or even death. Ethanol can be prepared from ethylene or made by fermentation. It is the “alcohol” in alcoholic beverages. On occasion, people drink methanol by mistake, thinking it is the beverage alcohol. On occasion, unscrupulous bootleggers, sell methanol to unsuspecting customers. In either case, the results are often tragic.
+Rubbing alcohol is usually a 70% aqueous solution of isopropyl alcohol. Ethanol is also used in some rubbing alcohol formulations.
+When water is removed from an alcohol in a dehydration step, the result is either an alkene or an ether, depending on the reaction conditions. Primary alcohols are oxidized to aldehydes or carboxylic acids, and secondary alcohols are oxidized to ketones. Tertiary alcohols are not easily oxidized.
+Alcohols containing two OH groups on adjacent carbon atoms are called glycols.
+Phenols (ArOH) are compounds having the OH group attached to an aromatic ring.
+Ethers (ROR′, ROAr, ArOAr) are compounds in which an oxygen atom is joined to two organic groups.
+The carbonyl group, a carbon-to-oxygen double bond, is the defining feature of aldehydes and ketones. In aldehydes at least one bond on the carbonyl group is a carbon-to-hydrogen bond; in ketones, both available bonds on the carbonyl carbon atom are carbon-to-carbon bonds. Aldehydes are synthesized by the oxidation of primary alcohols. The aldehyde can be further oxidized to a carboxylic acid. Ketones are prepared by the oxidation of secondary alcohols. Mild oxidizing agents oxidize aldehydes to carboxylic acids. Ketones are not oxidized by these reagents.
+A thiol is a compound with an SH functional group.
+Back to top
+14.E: Organic Compounds of Oxygen (Exercises)
+15: Organic Acids and Bases and Some of Their Derivatives
+Recommended articles
+There are no recommended articles.
+Article type
+Topic
+License
+CC BY-NC-SA
+Show TOC
+no
+Tags
+This page has no tags.
+© Copyright 2019 Chemistry LibreTexts
+Powered by MindTouch ®
+The LibreTexts libraries are Powered by MindTouch® and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Unless otherwise noted, LibreTexts content is licensed by CC BY-NC-SA 3.0. Have questions or comments? For more information contact us at info@libretexts.org or check out our status page at https://status.libretexts.org.

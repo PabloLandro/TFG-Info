@@ -1,0 +1,73 @@
+Tracing the origins of the HIV pandemic: from chimps into Kinshasa –
+Menu
+Skip to content
+About
+Bayesian statistics
+Bayesian short course
+Bayesian lectures syllabus
+Bayesian lecture slides
+A Student’s Guide to Bayesian Statistics
+How I make stats videos?
+Epidemiology
+Biology
+Inference in evolution
+HIV evolution
+Econometrics
+Econometrics course problem sets and data
+Econometrics and statistics books
+How I make stats videos?
+Skip to content
+About
+Bayesian statistics
+Bayesian short course
+Bayesian lectures syllabus
+Bayesian lecture slides
+A Student’s Guide to Bayesian Statistics
+How I make stats videos?
+Epidemiology
+Biology
+Inference in evolution
+HIV evolution
+Econometrics
+Econometrics course problem sets and data
+Econometrics and statistics books
+How I make stats videos?
+March 27, 2017 June 1, 2017 Leave a comment
+Tracing the origins of the HIV pandemic: from chimps into Kinshasa
+I recently read `The Origins of AIDS‘ by Jacques Pepin that completely changed the way I view the pandemic of HIV/AIDS. This painstakingly researched book uses a rich palette to paint a detailed picture of the path of HIV. It takes us from its origins in chimpanzees, its transmission into a human hunter in the DRC in the early twentieth century, its subsequent spread through the region riding on the back of a wave of societal transition away from colonial rule, coupled with a paternalistic western-doctor-initiated mass public vaccination program against sleeping sickness. In discussing this journey we meet a diversity of actors who take turns to play roles in the amplification and dissemination of HIV from a local African epidemic to its current worldwide endemicity. They range from prostitutes in Kinshasa, pitifully-cruel colonial administrators, (their replacement) African demagogues, idealistic post-colonialist medics, Haitian blood traders, and homosexuals in California.
+Partly because I have recently started to do some really exciting work on HIV with Nico Kist and Astrid Iversen at WIMM in Oxford, I decided that I would make a series of posts about the content of the book. I am under no illusion, this website is mostly just a way for me to keep a record of things I’ve read, and (hopefully) once, understood. However if you find yourself here by serendipity or happenstance or most-likely misfortune, then feel free to read on!
+This series of posts are mainly about the most common and virulent form of HIV, known as HIV-1, which accounts for the majority of worldwide infections. This contrasts with another strain of the disease known as HIV-2 which is mostly confined to West Africa, and is the much less virulent of the two strains. This reduced virulence manifests with reduced transmission rates, a slower course of infection, and a delayed passage to AIDS.
+In this post I am going to discuss where and how it is believed the disease first successfully crossed into humans. Chimpanzees are our closest relatives, sharing some 99% of our DNA. There are two main species of chimps: Pan troglodytes, the common chimpanzee, and Pan paniscus, the bonobo. However it is now recognised on the basis of mitochondrial DNA that four subspecies exist including, P.t. versus, P.t. ellioti, P.t. troglodytes, and P.t. schweinfurthii that inhabit fairly geographically distinct areas.
+Map showing the ranges of the chimpanzee subspecies (by colour) with the territories of two gorilla species indicated. Figure reproduced from, `The evolution of HIV-1 and the origin of AIDS’, Sharp and Hahn, Royal Society B, 2010.
+The geographic distribution of chimps corresponds well with the believed epicentre of the HIV-1 epidemic, around the central African countries (the two Congos, the CAR, Gabon, Cameroon and Equatorial Guinea). We have reason to believe that this region is the origin of the epidemic by considering the geographic variation in genetic diversity of the HIV-1 virus. According to Pepin, `HIV-1 evolves at a rate about 1 million times faster than that of … DNA’, meaning that after its introduction into the human population, the virus should rapidly spawn offspring of increasing divergence from the original strain. This trend from one form of HIV-1 to a diversity of HIV-1 variants means that we can use strain diversity as a genetic clock to roughly gauge the age of a particular strain.
+Reproduced from, `Genetic diversity of HIV in Africa: impact on diagnosis, treatment, vaccine development and trials’, Peeters et al., AIDS, 2003.
+The above map displays as pie charts the diversity of HIV-1 forms from samples collected from across the African continent. From this map it is evident that the greatest geographic diversity in HIV-1 exists in the central African region. Furthermore using data at the city level, researchers have found that the diversity of HIV-1 strains in Kinshasa `twenty-five years ago was far more complex than among strains currently found in any other parts of the world!’. More recently using samples from Congo-Brazzaville in the Republic of Congo, researchers have found similar levels of genetic diversity there (see `HIV-1 subtypes and recombinants in the Republic of Congo’, Niama et al., Infection, genetics and evolution, 2006). These results strongly point to the two Congos as being the starting point for the HIV-1 epidemic.
+Comparing the two maps above we see a correspondence between the habitat of P.t. troglodytes and the region of high genetic diversity of HIV-1 strains. Is this a red herring, a mere plot twist to confuse the Poirots of epidemiology? Not one bit of it. This becomes clear when we introduce another actor known as simian immunodeficiency virus (SIV), a type of virus similar to HIV-1 whose symptoms include persistent infections in a number of non-human primates, not uncharacteristic of AIDS in humans. Could it be that HIV-1 is actually derived from SIV?
+The phylogenetic relationships between strains of SIVcpz (black from P.t. troglodytes, grey from P.t. scweinfurthii), SIVgor (blue) and subtypes of HIV-1 (red). The red crosses indicate four branches on which cross-species jumps to humans may have occurred; the two blue crosses indicate alternative possible branches on which chimpanzee-to-gorilla transmission may have occurred. Reproduced from, `The evolution of HIV-1 and the origin of AIDS’, Sharp and Hahn, Royal Society B, 2010.
+The above graph shows a phylogeny that estimates the evolutionary relationship between HIV-1 subtypes and various subtypes of SIV. In particular this shows that many of the HIV-1 subtypes are more related to their SIV counterparts than they are to their compatriot HIV-1 viruses! In particular considering HIV-1/M ,which is by far the most common subtype of HIV, we find that this virus is more similar to strains of SIVcpz (cpz = chimpanzee) than it is to HIV-1/N, and HIV-1/O. This hints that there are shared evolutionary history between HIV-1 subtypes and subtypes of SIV, and also suggests that there may be a number of cross-species transmissions that initiated the current HIV-1 pandemic.
+But questions remain. How did these transmissions occur? And more pertinently since we are proposing a number of these cross-species events, why didn’t these transmissions occur previously and unleash an earlier wildfire of HIV-1?
+Share this:
+Twitter
+Facebook
+Like this:
+Like Loading...
+Post navigation
+Previous
+Next
+Leave a Reply Cancel reply
+Enter your comment here...
+Fill in your details below or click an icon to log in:
+Email (required) (Address never made public)
+Name (required)
+Website
+You are commenting using your WordPress.com account.	( Log Out / Change )
+You are commenting using your Google account.	( Log Out / Change )
+You are commenting using your Twitter account.	( Log Out / Change )
+You are commenting using your Facebook account.	( Log Out / Change )
+Cancel
+Connecting to %s
+Notify me of new comments via email.
+Blog at WordPress.com.
+Post to
+Cancel
+%d bloggers like this:

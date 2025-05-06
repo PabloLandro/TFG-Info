@@ -1,0 +1,763 @@
+A comprehensive evidence-based review on the role of topicals and dressings in the management of skin scarring | SpringerLink
+Skip to main content Skip to sections
+This service is more advanced with JavaScript available, learn more at http://activatejavascript.org
+Advertisement
+Hide
+SpringerLink
+Search SpringerLink
+Search
+Home
+Log in
+Archives of Dermatological Research
+Download PDF
+Archives of Dermatological Research
+August 2015 , Volume 307, Issue 6, pp 461–477 | Cite as
+A comprehensive evidence-based review on the role of topicals and dressings in the management of skin scarring
+Authors
+Authors and affiliations
+G. P. Sidgwick
+D. McGeorge
+A. Bayat
+Open Access
+Review
+First Online: 05 June 2015
+9 Shares
+5.6k Downloads
+25 Citations
+Abstract
+Wound healing after dermal injury is an imperfect process, inevitably leading to scar formation as the skin re-establishes its integrity. The resulting scars have different characteristics to normal skin, ranging from fine-line asymptomatic scars to problematic scarring including hypertrophic and keloid scars. Scars appear as a different colour to the surrounding skin and can be flat, stretched, depressed or raised, manifesting a range of symptoms including inflammation, erythema, dryness and pruritus, which can result in significant psychosocial impact on patients and their quality of life. In this paper, a comprehensive literature review coupled with an analysis of levels of evidence (LOE) for each published treatment type was conducted. Topical treatments identified include imiquimod, mitomycin C and plant extracts such as onion extract, green tea, Aloe vera, vitamin E and D, applied to healing wounds, mature scar tissue or fibrotic scars following revision surgery, or in combination with other more established treatments such as steroid injections and silicone. In total, 39 articles were included, involving 1703 patients. There was limited clinical evidence to support their efficacy; the majority of articles (n = 23) were ranked as category 4 LOE, being of limited quality with individual flaws, including low patient numbers, poor randomisation, blinding, and short follow-up periods. As trials were performed in different settings, they were difficult to compare. In conclusion, there is an unmet clinical need for effective solutions to skin scarring, more robust long-term randomised trials and a consensus on a standardised treatment regime to address all aspects of scarring.
+Keywords
+Skin scarring Wound repair Keloid disease Hypertrophic scarring Topical therapy
+Abbreviations
+ECM
+Extracellular matrix
+PDT
+Photodynamic therapy
+ES
+Electrical stimulation
+POSAS
+Patient and Observer Scar Assessment Scale
+TAC
+Triamcinolone
+5-FU
+5-Fluorouracil
+EGCG
+(−)-Epigallocatechin-3-gallate
+MEBO
+Moist exposure burn ointment
+LOE
+Levels of evidence
+SIAscopy
+Spectrophotometric intracutaneous analysis
+Introduction
+The process of wound healing after injury to the skin is complex, with many overlapping mechanisms involved including inflammation, proliferation and tissue remodelling [54]. The inflammation phase takes place in the first 48 h following injury triggering a signalling cascade [50, 77], with neutrophils and macrophages accumulating at the wound site to prevent infection [50, 112]. Fibroblasts begin to synthesise a wide range of extracellular matrix molecules (ECM) during the proliferative phase, repairing the wound and restoring the structure and function of the skin, with new blood vessels formed to restore circulation [35, 104]. The process of remodelling leads to a more formal and cross-linked arrangement of the ECM as the scar matures [100] which can last up to a year [21].
+Scarring is an imperfect mechanism; an evolutionary compromise made to restore tissue integrity, preventing infection at the expense of appearance. Scars take many forms, depending on size and severity, the type of injury and the anatomical location [7]. Many heal to become fine-line asymptomatic scars, but some lead to abnormal scarring (Fig. 1). There is a spectrum of pathological skin scars ranging from stretched, depressed and/or contracted, to raised dermal scars such as hypertrophic and keloid scars, categorised by over-expression of ECM during the proliferative and remodelling phases of wound healing, which may have a genetic element in certain individuals [16, 19, 99, 100, 101]. While sharing characteristics of being raised, keloid scars progress beyond the boundaries of the original wound and do not regress over time unlike hypertrophic scars [21, 70]. Thus, clinical misdiagnosis between the two can complicate findings of clinical trials in management of raised dermal scarring.
+Open image in new window
+Fig. 1
+A representation of different types of skin scarring and scar types, as often observed, for example following a mid-sternal incision, post-cardiac surgery. a Fine-line scar, b hypertrophic scar, c intermediate raised dermal scar, d keloid scar
+Scar scales are used to assess severity from a clinical and patient perspective [45, 95]. These include the Vancouver Scar Scale [108], the Manchester Scar Scale [8], and specialised scales for burns [118] and keloids [83]. All assess symptoms including inflammation, redness (erythema) or colour compared with the surrounding skin, size, scar contour, dryness and itchiness (pruritus). However, no scar scale is perfect; each scale evaluates a different set of criteria using a variable number of criteria, and often relying on the subjective interpretation of individual clinician, making it difficult to compare assessments between studies. The patient-reported impact of scars measure (PRISM) [18] is useful as patients perceive scarring differently to clinicians [41, 46]. This psychological dimension is relevant as skin scarring, which is visible or cannot be hidden by clothing or makeup, can impact on self-esteem and quality of life [15, 17, 111, 114].
+Different treatment options are available to aid the scarring process, in particular focusing on severe types of scarring. Some, such as electrical stimulation [20, 49, 84, 90], photodynamic therapy [68, 85] and steroids are only available in a clinical setting. The most cited treatment option for keloids is surgical excision, followed by combination therapy including intralesional steroid injections, most commonly triamcinolone (TAC), with silicone gel or sheeting and/or pressure bandages [13, 102]. However, recurrence rates following keloid revision surgery are high and are difficult to define, varying considerably (40–100 %) depending on the application and adherence to the recommended and prescribed treatment options, the location of the original scar (with keloids excised from the earlobes recurring less frequently than those from the sternum or back) and the follow-up period of the study [2, 16]. Hydration and occlusion, facilitated by silicone gels and sheeting, are thought to potentially influence burn, hypertrophic and keloid scar maturation [1, 26, 92, 97, 117], suppressing the inflammatory response triggered by keratinocytes and the epidermis in response to a compromised stratum corneum [81]. The administration of TAC as a control in combination with other treatments is a common approach to assess efficacy of new treatments; for example, with 5-fluorouracil (5-FU) [3, 38, 52, 115] and verapamil, a calcium channel blocker which stimulates procollagenase synthesis [37, 74].
+A number of prescription and over-the-counter topical remedies are available, which claim to alleviate symptoms and improve the appearance of scars and accelerate the rate of wound healing. Topical therapies have their advantages; specifically, increased adherence, the localised delivery of product and the reduced effect of first pass metabolism [107]. Patients often self-medicate independently of clinician care following injury or surgery to treat specific signs and symptoms of concern. Patients only report these concerns and seek diagnosis and treatment, should signs and symptoms worsen, most commonly, in the case of hypertrophic and keloid scarring, leading to a more radical approach being required. There is no comprehensive review of the efficacy of many of these readily available treatments and the quality of research published utilising over-the counter or topical treatments, nor is there a standardised diagnosis and treatment protocol for problematic skin scarring aimed at treating specific signs and symptoms. The aim of this review is to summarise these treatment options and interpret their effectiveness from the published clinical data, in comparison to other approaches, while proposing a more formal approach for treating symptoms of healing wounds, scars and fibrotic scarring such as keloid scarring.
+Methods
+A literature search was conducted in Pubmed and Scopus to identify relevant English language literature published in the field of topical treatments for wound healing and keloid and hypertrophic scarring, as alternatives to the commonly utilised silicone and intralesional steroid therapies. Terms included combinations of “wound”, “healing”, “skin”, “scar”, “burn”, “keloid” and “topical”, and were further refined to include the names of individual therapies identified during the search. Key review papers in the field were also consulted. Identified articles were archived in Endnote XI (Thompson Reuters, USA), and duplicates removed. The titles and abstracts of all identified literature were assessed to determine their relevance to the objectives of the review. The reference lists of identified articles were then searched in order to identify further publications of interest. The search focused on clinical trials published since 2000 relating to the effect of skin topicals on healing wounds following surgery, new or mature scars and fibrotic scarring, with an outcome measure of improving the resulting scar quality or reducing the rate of keloid recurrence following revision surgery. Studies in animal or cell culture models were not considered beyond adding context in relation to methods of action. Once identified as being appropriate for inclusion, individual trials were then assessed using the Oxford Level of Evidence (LOE) protocol, to establish the validity and robustness of the data presented (Table 1) [60, 61, 62].
+Table 1
+Ranking of studies and clinical trials by their respective levels of evidence (LOE), as defined by the Oxford Centre for Evidence Based Medicine [60, 61, 62]
+Level of evidence
+Study type
+1
+Systematic review of RCT
+High-quality RCT
+2
+Systematic review of cohort studies
+Low-quality RCT
+Cohort studies/non-randomised controlled trial
+3
+Systematic review of case–control studies
+Case–control studies
+4
+Case series
+Low-quality case–control studies
+Low-quality cohort studies/non-randomised controlled trial
+5
+Case reports
+Expert opinions
+Results
+A considerable range of trials were evaluated for inclusion in this review, from systematic reviews and randomised controlled trials to case/control studies and pilot studies, focussing on different topical treatment options for wound healing, normal scarring and burns as well as for keloid and hypertrophic scars. In some instances individual therapies were trialled on their own, or in combination with more established therapeutic approaches, such as steroid injections, or following revision surgery. These studies were assessed on a case-by-case basis, and were included if the outcome measure demonstrated the benefit or otherwise of the topical therapy intervention compared with standardised treatment—with respect to the quality and properties of the resulting scar as determined by the appropriate scar scales, and in the case of keloid scarring with respect to recurrence following surgery. All trials identified for inclusion are summarised in detail in Table 2. For each treatment option, listed below, an overview is given followed by its effect on the symptoms of normal scarring, burns and fibrotic scarring.
+Table 2
+Systematic ranking of topical treatments reviewed in this article, ranked according to their Oxford Levels of Evidence (LOE), as defined by the Oxford Centre for Evidence Based Medicine [60, 61, 62]
+References
+Sample size/Country of Origin
+Study type
+Treatment, assessment and follow-up
+Outcome—positive or negative findings?
+Level of evidence
+Berman et al. [10]
+n = 20, USA
+Double-blind, randomised, placebo controlled clinical trial
+5 % imiquimod following excision of melanocytic nevi, visual analogue scale used to assess appearance of post-surgical wounds by clinicians and patients. 8 weeks follow-up
+Negative/neutral—worse cosmesis evaluation at 8 weeks compared with base cream
+2
+Martin-Garcia and Busquets [76]
+n = 6, Puerto Rico
+Open-label trial
+5 % imiquimod following earlobe keloid excision. Recurrence defined as regrowth of scar tissue surpassing initial excision wound. 8 weeks treatment, 16 weeks follow-up
+Positive—prevented recurrence following excision, however, one keloid reoccurred and one responded better to steroids
+4
+Stashower [105]
+n = 4, USA
+Case study
+5 % imiquimod following earlobe keloid shave excision. Recurrence and symptoms assessed visually by lead clinician and patient questionnaire (scar scale utilised not defined). 6 weeks treatment, 12 months follow-up
+Positive—no recurrence after 12 months in all 8 keloid lesions
+4
+Berman and Kaufman [12]
+n = 12, USA
+Case study
+5 % imiquimod following earlobe keloid excision, symptoms assessed by clinician (scar scale utilised not defined) 2 months treatment, 24 weeks follow-up
+Positive—no recurrence after 24 weeks in patients who completed full follow-up (2 patients lost)
+4
+Chuangsuwanich and Gunjittisomram [33]
+n = 45, Thailand
+Case study
+5 % imiquimod following keloid excision from various sites, recurrence assessed by clinician. 8 weeks treatment, 24 weeks follow-up
+Positive—greatest rate of recurrence on chest wall, but earlobe recurrence was least
+4
+Cacao et al. [23]
+n = 9, Brazil
+Case study
+5 % imiquimod following trunk keloid excision. Symptoms assessed by clinician (scar scale utilised not defined) 8 weeks treatment, 20 weeks follow-up
+Negative/neutral—all but one keloid excised from the chest/trunk recurred
+4
+Berman et al. [11]
+n = 20, USA
+Randomised case–control study
+5 % imiquimod following keloid shave excision. Symptoms assessed by clinician (scar scale utilised not defined) 6 weeks treatment, 6 months follow-up
+Positive—reduction in keloid recurrence vs base cream control, however, not enough patients to determine statistical significance
+4
+Prado et al. [93]
+n = 15, Chile
+Case–control study
+5 % imiquimod following breast surgery, assessed via the Manchester Scar Scale. Treatment duration varied, 24 weeks follow-up
+Positive—improvement in treated scar compared with untreated
+4
+Malhorta et al. [73]
+n = 2, India
+Case study
+5 % imiquimod following keloid excision. Symptoms assessed by clinician (scar scale utilised not defined). 8 weeks treatment and 12 weeks follow-up
+Negative/neutral—keloids recurred within 12 weeks of stopping imiquimod treatment
+5
+Patel and Skinner [89]
+n = 60, USA
+Case study
+5 % imiquimod following earlobe keloid excision. Symptoms assessed by clinician (scar scale utilised not defined). 8 weeks treatment 24 weeks follow-up
+Positive—only one recurrence after 24 weeks
+4
+Stewart and Kim [106]
+n = 10, USA
+Retrospective case study
+Topical mitomycin C following head and neck keloid revision surgery. Recurrence and symptoms assessed by clinician (scar scale utilised not defined). Treatment varied, follow-up 7–14 months
+Positive—only one keloid reoccurred
+4
+Bailey et al. [6]
+n = 10, UK
+Case study
+Topical mitomycin C following head and neck keloid shave excision. Patient and clinicians rated symptoms on 10-point analogue scale (scar scale utilised not defined). 6 months follow-up
+Positive—only one patient dissatisfied with the response
+4
+Chi et al. [30]
+n = 12, Korea
+Case study
+Topical mitomycin C following earlobe keloid shave excision. Recurrence and symptoms assessed by clinician (scar scale utilised not defined). 12 months follow-up
+Positive—only one keloid reoccurred
+4
+Gupta and Narang [53]
+n = 20, India
+Case study and literature review
+Topical mitomycin C following earlobe keloid shave excision. Patient and clinicians rated symptoms on linear analogue scale (scar scale utilised not defined). 6–24 months follow-up
+Positive—no keloid recurrence during follow-up period
+4
+Seo and Sung [98]
+n = 9, Korea
+Case study
+Topical mitomycin C following keloid excision. Recurrence and symptoms assessed via Vancouver Scar Scale and patient satisfaction also rated. 6 months follow-up
+Positive—six out of nine were satisfied, none were disappointed. Intralesional treatment aggravated the scar
+4
+Sanders et al. [96]
+n = 15, USA
+Case study—patients had multiple keloids and acted as their own untreated control
+Topical mitomycin C following keloid excision, followed by intralesional TAC after 1 month. Recurrence and symptoms assessed by clinician (scar scale utilised not defined). 4–28 months follow-up
+Negative/neutral—no difference in response with or without mitomycin C
+4
+Talmi et al. [110]
+n = 8, Israel
+Case study
+Topical mitomycin C following keloid excision. Recurrence and symptoms assessed by clinician (scar scale utilised not defined) and patient satisfaction also rated. 2 months follow-up
+Negative/neutral—patients satisfied with outcome, however, total disappearance was only seen in 2 patients
+4
+Draelos et al. [43]
+n = 44, USA
+Randomised controlled single-blinded trial—patient acted as own untreated control
+Topical application of proprietary onion extract cream (Mederma®) (4 weeks, once daily) following surgery for seborrheic keratoses. Symptoms assessed by clinician using 4-point scale (scar scale utilised not defined). Follow-up 10 weeks
+Positive—significant improvement in appearance compared with treated controls
+1
+Jenwitheesuk et al. [63]
+n = 60, Thailand
+Randomised, double-blinded placebo controlled trial
+Topical application of silicone ± onion extract (Cybele scagel) following surgery, twice daily for 12 weeks. Symptoms assessed via Vancouver Scar Scale and patient satisfaction also rated. 12 weeks follow-up
+Positive—using Vancouver Scar Scale, pain itch and pigmentation were improved in onion extract-treated group compared with control
+1
+Ho et al. [56]
+n = 120, Hong Kong
+Randomised controlled trial
+Topical application of onion extract (Contratubex®) following laser tattoo removal (twice daily, vs no treatment). Symptoms and appearance assessed by clinician (scar scale utilised not defined). 3 months follow-up
+Positive—significantly reduced the risk of scarring from 23.5 to 11.5 %
+2
+Hosunter et al. [59]
+n = 60, Turkey
+Randomised trial, three groups—onion extract, silicone or both treatments.
+Onion extract (Contratubex®) on existing hypertrophic and keloid scars, four times per day. Symptoms and appearance assessed by clinician (scar scale utilised not defined). Follow-up 6 months
+Negative/neutral—ineffective at improving scar height and itch. Best response was in combination with silicone gel
+2
+Draelos [42]
+n = 60, USA
+Randomised trial
+Topical application of onion extract cream (Mederma®) following surgery for seborrheic keratoses. Symptoms and appearance assessed by clinician and patient (scar scale utilised not defined). Follow-up 10 weeks
+Positive—improvement in scar appearance compared with untreated controls
+3
+Chuangsuwanich et al. [32]
+n = 15, Thailand
+Randomised blinded split-scar study
+Topical application of onion extract (Cybele scagel) following skin graft. Symptoms assessed via Vancouver Scar Scale and patient satisfaction also rated. 12 weeks follow-up
+Positive—improvement in scar scale results compared with untreated control
+3
+Perez et al. [91]
+n = 30, USA
+Randomised, blinded comparative study
+0.5 % hydrocortisone, silicone and vitamin E lotion vs onion extract gel. Keloid and hypertrophic scars. Visual analogue scale used to assess appearance of post-surgical wounds by clinicians and patients. 4 months follow-up
+Positive—both treatments more effective than placebo
+3
+Chanprapaph et al. [27]
+n = 20, Thailand
+Randomised split scar study
+Onion extract gel (Erasé gel) on caesarean scars. Visual analogue scale used to assess appearance of post-surgical wounds by clinicians and patients. 12 weeks follow-up
+Positive—reduction in mean scar height and symptoms compared with untreated side
+4
+Koc et al. [69]
+n = 27, Turkey
+Open, randomised comparative study
+Onion extract (Contratubex®) (three times daily for 3 months) vs intralesional TAC on keloid and hypertrophic scars for 3 months. Symptoms and appearance assessed by clinician and patient (scar scale utilised not defined). 2 months follow-up
+Positive—both intralesional TAC and Contractubex were effective, combination therapy was best
+4
+Karagoz et al. [65]
+n = 45, Turkey
+Randomised case–control study
+Comparison of silicone gel (Scarfade®), silicone gel sheet (Epi-Derm™) and onion extract (Contratubex®) (twice daily) on post-burn scars. Symptoms assessed via Vancouver Scar Scale. Follow-up for 6 months
+Negative/neutral—silicone products responded better than Contratubex®
+4
+Chung et al. [34]
+n = 24, USA
+Randomised double-blind split scar study
+Comparison of topical petroleum ointment with onion extract cream (Mederma®) on fresh surgical wounds, three times daily for 8 weeks. Visual analogue scale used to assess appearance of post-surgical wounds by clinicians and patients. 12 weeks follow-up, telephone interview after 11 months
+Negative/neutral—no difference on onion extract treatment compared with petroleum ointment
+3
+Beuth et al. [14]
+n = 771, Germany
+Retrospective multi-centre cohort study
+Onion extract (Contratubex®) on post-burn scars and hypertrophic/keloid scars. Symptoms assessed via Vancouver Scar Scale. Follow-up varied
+Positive—improved response compared with corticosteroid treatment, with less ADRs
+2
+Willital and Simon [116]
+n = 1268, Germany
+Observational, non-intervention study
+Onion extract (Contratubex®) on a range of scars. Symptoms and appearance assessed by clinician and patient (scar scale utilised not defined). Follow-up 4–5 months
+Positive—well tolerated, and improvement in scar conditions over follow-up period
+2
+Muangman et al. [79]
+n = 63, Thailand
+Retrospective case study
+Topical application of onion extract (Cybele scagel), twice daily, on partial thickness burns. Symptoms assessed via Vancouver Scar Scale. 24 weeks follow-up
+Positive—improves pliability, pigmentation, itch and pain over the study period
+3
+Campanati et al. [24]
+n = 35, Italy
+Open-label, controlled, non-randomised clinical trial
+Topical application of allium cepa–allantoin–pentaglycan gel (Kaloidon gel) to established keloid and hypertrophic scars. Symptoms and appearance assessed by clinician and patient (scar scale utilised not defined). 24 weeks follow-up
+Positive—reduced erythema compared with untreated scars. Overall appearance improved
+4
+Ocampo-Candiani et al. [87]
+n = 61, Mexico
+Randomised controlled trial
+Onion extract (Contratubex®) following caesarean. Assessed using Patient and Observer Scar Assessment Scale (POSAS). follow-up 12 weeks
+Negative/neutral—similar improvement in POSAS results over time with treatment and non-treatment, although Contratubex® was preferred
+3
+Yoon et al. [119]
+n = 37, Korea
+Randomised split-faced clinical trial
+1 or 5 % green tea (Camellia sinensis) solution, for acne. Twice daily application vs 3 % ethanol control. Visual analogue scale used to assess appearance of acne by clinicians and patients. 8 weeks study
+Positive—severity of acne reduced over 8 weeks study
+4
+Domingo et al. [40]
+n = 4, USA
+Randomised split-faced clinical trial
+2.5 % green tea (Camellia sinensis) cream for facial erythema and telangiectasia, twice daily. Symptoms and appearance assessed by clinician and patient (scar scale utilised not defined). 6 weeks study
+Positive—no reduction in symptoms however, HIF-1a and VEGF expression was reduced
+4
+Maenthaisong et al. [72]
+Review
+Systematic review
+Aloe Vera for burns—4 studies included, 371 patients utilising a range of assessments and follow-up periods
+Negative/neutral—average healing time reduced, however, difficult to compare papers and methodology
+2
+Eshghi et al. [51]
+n = 49, Iran
+Randomised placebo controlled trial
+Topical Aloe vera ointment for post-hemorrhoidectomy pain. Visual analogue scale used to assess response by clinicians Treatment three times daily for 4 weeks follow-up
+Positive—reduced pain upon defecation and improved wound healing
+2
+Dat et al. [39]
+Review
+Systematic review—Cochrane review
+Aloe vera for treating acute and chronic wounds—7 studies included, 347 patients utilising a range of assessments and follow-up periods
+Negative/neutral—evidence that healing time is reduced, however, poor-quality trials make firm conclusions difficult
+2
+Khorasani et al. [67]
+n = 30, Iran
+Case–control study, each patient acting as their own control
+Aloe vera compared to silver sulfadiazine for partial thickness burns, twice daily application. Assessment based on percentage area of wound healed over 24 days follow-up
+Positive—reduction in average healing time and improved rate of re-epithelisation
+3
+Khoo et al. [66]
+n = 122, Malaysia
+Randomised double-blinded trial
+5 % topical vitamin E on fresh surgical scars, twice daily for 6 weeks (starting 2 weeks after surgery). Assessed using Patient and Observer Scar Assessment Scale (POSAS). 16 weeks follow-up
+Negative/neutral—no difference between treated and untreated control
+2
+Zampieri et al. [120]
+n = 428, Italy
+Randomised singe-blinded case–control study
+Topical vitamin E before (three times daily, for 15 days) and after (twice daily for 30 days) surgery in children, to prevent scarring. Symptoms assessed via Vancouver Scar Scale. Follow-up 6 months
+Positive—no abnormal scarring and improved cosmetic outcome in test group compared to untreated control
+2
+van der Veer et al. [113]
+n = 30, Holland
+Randomised, double-blinded placebo controlled trial
+Topical calcipotriol (vitamin D) following bilateral mammoplasty, twice daily for 3 months. Symptoms and appearance assessed by clinician (scar scale utilised not defined). 12 months follow-up
+Negative/neutral—no difference in scar outcome measures
+2
+Atiyeh et al. [5]
+n = 60, Lebanon
+Various study types—case/control studies
+MEBO® on facial wounds. Visual analogue scale used to assess response by clinicians. 6 months follow-up
+Positive—improved cosmetic compared with topical antibiotic (fudicin) and untreated controls
+4
+Atiyeh et al. [4]
+n = 66, Lebanon
+Various study types—case/control studies
+MEBO® following split thickness skin grafts, Visual Analogue Scale used to assess response by clinicians. 6–12 months follow-up depending on study
+Positive—improved quality of scar compared with controls
+4
+Articles identified for inclusion in this review are summarised according to year of publication, country and sample size, along with details of the study design, treatment used and condition, follow-up period and outcome measures. While many of the studies assessed in this review rated scar symptoms such as inflammation, erythema size, scar contour, dryness and pruritus, to determine response to treatment, in many cases these did not relate their findings to a published and recognised specific scar scale
+Imiquimod
+Imiquimod is an immune response modifier, typically formulated as a 5 % cream, used in a range of dermatological conditions such as warts and other viral-associated conditions [9]. Ten different articles were identified for inclusion, treating 193 patients [10, 11, 12, 23, 33, 73, 76, 89, 93, 105]. Of these studies, just one was a randomised double-blind controlled trial [10] ranked as LOE 2, the rest were case studies and case controlled studies ranked as LOE4. The majority of studies looked at applying imiquimod after keloid shave excision, one followed excision of melanocytic nevi [10] and one following breast surgery. The follow-up period ranged from 8 weeks [10] to 12 months, the remainder of studies (n = 8) had follow-up between 16 and 24 weeks or 6 months.
+Seven studies led to a positive response, whereas three studies were negative. One case–control study, utilising imiquimod following breast augmentation indicated an improved scar appearance compared with control treatments [93]. A number of different case studies ([9] n = 12, [76] n = 6, [105] n = 4) demonstrated a positive response when used following ear keloid excision, preventing recurrence [12, 76], and improving pruritus, pain and cosmetic appearance over time [105]. The randomised case–control study by Berman et al. [11] following keloid shave excision, demonstrated an improvement, but there were not enough patients (n = 20) to demonstrate a statistical significance. The case study by Patel and Skinner [89] demonstrated only one recurrence following ear keloid excision in 60 patients. The case study by Chuansuwanich and Gunjittisomram [33] (n = 45) concluded that imiquimod was more effective at preventing recurrence of keloids excised from the earlobe than from other areas, which may be linked to skin tension.
+However, the prospective randomised controlled trial by Berman et al. [10] of imiquimod following surgical excision of melanocytic nevi (n = 20) found no clinical or cosmetic short-term benefit. The case study by Malhorta et al. [73] (n = 2) indicated that discontinuation of imiquimod following presternal keloid excision led to recurrence within 4 weeks, although with the limited sample size, it is difficult to draw firm conclusions. The case study by Cacao et al. [23] (n = 9) concluded that imiquimod failed to prevent recurrence after 20 weeks following surgical excision of trunk keloids, although this could be related to anatomical location as many of the studies that indicated a positive response were following keloid excision from the earlobe.
+Mitomycin C
+Mitomycin C is an anti-tumour antibiotic, which inhibits DNA synthesis and cell proliferation, and is used to prevent recurrence following keloid scar excision. Mitomycin C inhibits keloid fibroblast proliferation in a cell culture model [103], and was shown to improve response and reduce scarring following aerodigestive surgery [94]. While this can be administered intralesionally, a number of preliminary topical trials have been performed, applying mitomycin C for 2–4 min directly following keloid excision. Seven different articles were identified for inclusion, treating 84 patients in total [6, 30, 53, 96, 98, 106, 110]. All of these were small case studies for treating keloids following surgical or shave excision, classified with an LOE of 4. The shortest follow-up period was 2 months, the remainder were all 6 months or more. Five studies led to a positive response, whereas two studies drew neutral or negative conclusions.
+A retrospective case study, utilising mitomycin C following excision of head and neck keloids (n = 10) indicated that recurrence was prevented in all but one patient [106]. Several case studies following earlobe keloid shave excision (Bailey n = 10, Chi n = 12 and Gupta n = 20) concluded that patients and clinicians were satisfied with the outcome, with scar improvement in almost all cases [6, 30, 53]. A further case series conducted by Seo and Sung [98] (n = 9) concluded that topical mitomycin C treatment led to a more favourable response, while wounds treated with intralesional mitomycin C responded worse. However, the case study by Sanders et al. [96] (n = 15) showed no difference in keloid recurrence treated with or without mitomycin C in combination with intralesional TAC. In the case study by Talmi et al. [110] (n = 8), despite patients appearing satisfied, mitomycin C failed to prevent recurrence.
+Plant extracts
+A number of plant extracts, with a basis in traditional medicine, marketed as “natural” alternatives, have been used in a range of wound healing and cosmeceutical formulations. Many are used in combination with other treatment regimes, either formulated in creams or added to dressings, to try and improve the conditions for wound healing.
+Onion extract
+Onion extract contains a range of phenolic anti-oxidant and anti-inflammatory compounds and were originally used for treating full and partial thickness burns; however, more recently these have been trialled for the treatment of hypertrophic and keloid scarring, and healing wounds. Onion extract and quercetin have been shown to reduced fibroblast proliferation in a cell culture mode, inducing matrix metalloproteinase-1 expression, suggesting a role in ECM remodelling [31]. For topical treatments for skin scarring containing onion extract, 16 different articles were considered for inclusion, treating 2,703 patients [14, 24, 27, 32, 34, 42, 43, 56, 59, 63, 65, 69, 79, 87, 91, 116]. Of these, however, two papers [14, 116], both ranked as LOE category 2 were large retrospective analysis, with 771 and 1269 patients, respectively, and a third was a retrospective case study [79], ranked as LOE 3 with 63 patients. Of the remaining 13 articles (n = 600), two were randomised controlled trials [43, 63] ranked as LOE category 1, two were randomised trials ranked as category 2 [42, 59] and the remainder were smaller, randomised case–control studies of varying sizes, ranked as LOE category 3 and 4. Follow-up period ranged 2–6 months, with most (n = 8) being 10–12 weeks.
+The most commonly utilised onion extract products are Mederma® [34, 42, 43] and Contractubex® [14, 56, 59, 65, 69, 87, 116], (both Merz Pharmaceuticals, LLC, Greensboro, North Carolina) Mederma® is the US formulation containing 10 % aqueous onion extract and 1 % allantoin, whereas in addition, Contractubex® (the European formulation) contains 50 U heparin per gramme. The remaining studies utilised Cybele® Scagel [32, 63, 79] (Bangkok Botanica, Bangkok, Thailand), Erasé gel [27], (ABCA Pharma Lab Co., Ltd., Nonthaburi, Thailand) and Kaloidon gel [24] (Laboratori Farmacologici Milanesi, Milan, Italy).
+Eleven of the studies identified reported positive experiences with onion extract. Both of the large retrospective studies concluded that Contractubex ® was well tolerated, leading to an improved scar condition as assessed using a range of scar scales and patient opinion over time [14, 116]. The randomised controlled trial by Ho et al. [56] (n = 120) using Contractubex ® following laser-assisted tattoo removal observed reducing scarring compared with untreated control. Two randomised studies by Draelos in 2008 (n = 60) and 2012 (n = 44), following shave excision of seborrheic keratoses, concluded that Mederma ® improved the appearance, signs and symptoms of the healed wounds compared with untreated controls [42, 43]; however, both these studies note that funding was provided by the manufacturer Merz Pharmaceuticals. The split-scar analysis by Chanprapaph utilising Erasé gel following caesarean (n = 20) indicated improvement in scar height and symptoms in the treated half, but no difference in redness, pliability or overall appearance [27]. The three studies ultilising Cybele® Scagel following excision of presternal hypertrophic scars ([63], n = 60), skin grafts ([32], n = 15) and partial thickness burns ([79], n = 63) all concluded that the treatment led to a better response, with respect to scar appearance and symptoms, than untreated wounds. The open-label non-randomised trial by Campanati et al. [24] (n = 35) which used Kaloidon gel on established keloid and hypertrophic scars concluded that erythema was reduced and overall appearance improved compared with the untreated controls. The randomised blinded comparative study by Perez (n = 30), comparing onion extract gel with a hydrocortisone, silicone and vitamin E lotion to treat keloids and hypertrophic scars, concluded both were more effective than placebo; improving appearance, lesion induration and pigmentation. However, hydrocortisone was more effective at improving erythema and pigmentation [91].
+Two studies concluded that combination therapy led to improved scar response than individual treatments. The open, randomised comparative study by Koc et al. [69] (n = 27) determined that the combination of Contractubex ® and intralesional TAC was more effective at relieving pain and itching in hypertrophic scars and keloids than TAC alone. The comparative study by Hosunter et al. [59] (n = 60) using Contractubex ® and silicone gel sheeting to treat keloid and hypertrophic scars concluded that co-administration led to the best response.
+Three studies gave neutral or negative conclusions. The randomised case–control study by Karagoz (n = 45) in hypertrophic burn scars concluded that silicone gel sheeting was more effective than Contractubex ® at improving appearance and condition [65]. The randomised double-blind split scar study by Chung et al. [34] (n = 24) following surgery, with Mederma ® compared with petrolatum emollient found no difference between the two treatments. The randomised controlled trial by Ocampo-Candaini (n = 61) following caesarean determined that while patients liked Contractubex®, there was no difference in the improvement in POSAS scale scores over time compared with no treatment; however, follow-up was only 12 weeks in this study which may not have been enough time to observe a significant response.
+Green tea
+Green tea (Camellia sinensis) contains phenolic compounds, known as catechins, with anti-oxidant and anti-inflammatory properties. Popular in traditional medicine and as a beverage, topical application is thought to provide a range of benefits, including a chemoprotective effect against UV radiation [48]. Studies have demonstrated the positive effect of the green tea polyphenol (−)-epigallocatechin-3-gallate (EGCG) in a keloid fibroblast culture model, explaining its potential benefit in vivo. One study showed significant inhibition of mast cell-stimulated type I collagen expression via blocking of the PI-3K/AkT signalling pathways [121], another demonstrated significant suppression of collagen production and proliferation via inhibition of the STAT3-signalling pathway [88]. In a punch biopsy, ex vivo culture model, EGCG was shown to significantly inhibit growth and induce keloid shrinkage [109].
+Studies performed in animal models [29, 71] demonstrated that EGCG has a positive effect on wound healing; nevertheless, clinical trials in human subjects in the domain of wound healing and scarring remain to be established. Two trials were identified for inclusion in this study [40, 119] with a total of 41 patients. Both were ranked as LOE category 4. The randomised split-faced trial in acne sufferers by Yoon [119] (n = 37) demonstrated that EGCG was well tolerated, and effective at reducing symptoms and inhibiting P. Acnes over the 8-week study period. Another split-face pilot study by Domingo in patients with erythema and telangiectasia (n = 4) demonstrated that although symptoms did not improve, HIF-1α and VEGF expression were reduced compared to vehicular control [40].
+Aloe vera
+A. vera has been used in traditional medicine for centuries; however, the literature available for its use in wound healing and skin scarring in particular is lacking. Following the literature search, four articles were identified for inclusion in this review, two of which were systematic reviews. One of these, a recent Cochrane systematic review [39] (A. vera for treating acute and chronic wounds, identifying 7 studies, involving 347 patients) concluded that clinical evidence for the utility of A. vera in treating acute and chronic wounds was mixed, and that firm conclusions of its effectiveness in improving the rate of wound healing or the quality of the scar produced was lacking due to the absence of high-quality trials and the range of different treatment settings and assessment criteria utilised. Another systematic review [72], focussed on the use of A. vera for treating burns, identified 4 studies with 371 patients. Although this study had found that average healing time and the re-epithelialisation rate appeared to be reduced, there was no assessment of improvement or otherwise in scar quality. As also concluded by other systematic reviews included in this review, it was difficult to compare the various methodologies and papers to draw firm conclusions as to the effectiveness of A. vera in this context.
+Of the two remaining studies involving 79 patients, one was ranked as LOE category 2 [51] and one as category 3 (Khorasani 2009 [67]), with both reaching positive conclusions in terms of the rate of initial wound healing observed. The first, a randomised placebo controlled trial utilising A. vera cream following hemorrhoidectomy (n = 49), concluded that pain was reduced and the rate of wound healing increased initially compared with placebo treatment after 2 weeks, but after 4 weeks, the maximum follow-up period of this study, there was no significant difference between the two groups. No assessment of final scar quality was made, with 4 weeks being too short a time period for any conclusions regarding mature scar tissue to be of relevance [51]. The second, a case–control study of A. vera compared with silver sulfadiazine cream for the treatment of second-degree burns (n = 30), indicated that the rate of re-epithelisation and healing was greater with A. vera. However, no assessment of healed burn scar quality with respect to silver sulfadiazine control was made, and follow-up was only 24 days [67].
+Vitamin E
+Vitamins have been used in topical cosmeceuticals and moisturisers for decades, as an aid to improving skin condition, and their anti-oxidant properties are thought to help prevent UV damage in photo-aged skin. The most commonly cited is vitamin E (tocotrienol). One review concluded that evidence for its efficacy in wound healing was lacking [55]. A survey and review of the use of vitamin E to aid skin scarring concluded that although it is often recommended by clinicians, evidence in the literature for its efficacy is lacking [36].
+Two studies utilising vitamin E following surgery were identified [66, 120], totalling 550 patients. Both were ranked as LOE category 2. The large prospective randomised single-blinded study by Zampieri (n = 428) assessed vitamin E both pre- and post-surgery in children. Utilising the Vancouver Scar Scale, they summarised that treated wounds were of better appearance with less problematic scarring than the placebo group after 6 months [120]; however, this paper was criticised in relation to their definition of keloid scarring, which should not be as prevalent in young children of Italian ethnicity [82]. The double-blind trial by Khoo following surgery (n = 122) observed no change in overall scar appearance compared with the placebo after 16 weeks [66].
+Others
+Several other studies were identified which looked at the effect of topical treatments on skin scarring as primary outcome. A randomised double-blind placebo controlled trial by van der Veer et al. [113] (ranked LOE level 2) of the use of topical vitamin D (calcipotriol) twice daily for 3 months following bilateral reduction mammoplasty (n = 30) concluded that it had no effect in reducing the occurrence of hypertrophic scarring compared with control over the 12-month follow-up period.
+Another commercially available product is moist exposure burn ointment (MEBO®, Julphar Gulf Pharmaceutical Industries, Ras Al-Khaimah, UAE). While this is most commonly used for burns, two prospective studies utilised MEBO® to improve scar quality [5] and wound healing [4] were identified (n = 126). Both were ranked as LOE level 4, each comprising a range of individual case studies and small randomised blinded trials with 6 months follow-up periods. The first (n = 60) concluded that cosmetic appearance of scars treated was improved when compared with topical antibiotic (fudicin) and untreated controls. The second (n = 66), in split thickness skin grafts or following facial surgery, also observed improved wound healing and scar formation. A new formulation, MEBO SCAReducer®, is now also available from the same manufacturer.
+Discussion
+The studies identified for inclusion in this review were assessed according to their design and data by the rankings defined by the Oxford Levels of Evidence (Table 2) [60, 61, 62]. In summary, 39 articles were identified (excluding systematic reviews and retrospective studies), with 1703 patients. The majority of articles were categorised as Level 4 (n = 23), with a relatively small number, less than 25 %, being classified as robust studies (LOE 1 or 2, n = 9). In all cases, there was conflicting evidence as to whether the topical intervention was of benefit.
+Several large systematic Cochrane Reviews have been published, in the use of silicone gel sheeting for the prevention of hypertrophic and keloid scars ([86]; 15 trials, involving 615 patients), A. vera for treating acute and chronic wounds ([39]; 7 trials, 347 patients), topical treatment for facial burns ([57]; 5 RCT, 119 patients) and honey as a topical treatment for wounds ([64], 25 trials with a total of 2987 participants). The main conclusion drawn from these reviews was that while several options are available for treatment of a range of different scar types, many of which are used extensively, there were no large-scale studies with prolonged follow-up periods to draw firm conclusions regarding long-term efficacy [44], a recommendation which is also made by this review. Common problems encountered during the preparation of this review included the limited quality and individual flaws with much of the available literature, in particular low patient numbers, poor randomisation and blinding, the range of different scar assessment methodologies used and outcome measures reported, and short follow-up periods. Results from clinical trials should be looked at cautiously, especially due to the number of positively associated clinical trials identified and the levels of evidence presented, as these may be subject to selection bias where negative results are not published and therefore are not available to review [47, 58].
+Despite the volume of research into treatments for skin scarring, there is little evidence to support many over-the-counter treatments and cosmeceuticals available [122]. A recent review concluded many of the advertising claims made by these products cannot be substantiated [78]. This is a common finding for many cosmeceuticals, as there is no requirement to undertake clinical research, making it difficult to critically evaluate the available evidence in comparison to other approaches listed in this review.
+It is difficult to randomise a trial based on wound healing, or to compare between studies performed in different patient subsets and hospitals. Many factors such as anatomical location, patient demographics and medical history, surgical operation performed or the age and type of scar, the injury that caused it and the lack of controls, are impossible to standardise between trials [22]. Anatomical location is of particular relevance with revision surgery for keloid scarring; as summarised in the literature above, the greatest rate of success across all treatments was with earlobe keloids, with recurrence of keloids excised from the sternum being most problematic. The follow-up period for such studies should ideally be 12 months or more, to ensure that the observed effect is due to treatment and not the natural process of wound maturation which improves over time; the majority of trials identified for inclusion in this paper had follow-up periods of 6 months or less. A further factor in interpreting the literature is the variability in scar scales utilised and the subjective nature of assessment; while many of the studies assessed in this review rated scar symptoms such as inflammation, erythema, size, scar contour, dryness and pruritus, in many cases these did not relate their findings to a published and recognised specific scar scale. In the literature cited in this review (see Table 2 for references), the Vancouver Scar Scale [108] was one of the commonly cited assessments of scar symptoms [14, 32, 63, 65, 79, 98, 120]. This variability made it particularly challenging to directly compare and contrast the various studies identified. The subjective nature of scar assessment could be limited by having different clinicians independently analyse the same scars in each study. An alternative issue is that many formulations contain multiple ingredients, and their efficacy in combination is difficult to elucidate in the limited trials performed. There are examples in the literature where a combination of different approaches have shown success [25], indicating how difficult the management of keloids and problematic scarring can be.
+There is an unmet clinical need for effective treatments for skin scarring, in particular to address inflammation, pruritus, dryness and redness, commonly cited by patients as the factors which affect them most. Furthermore, robust and consistent, large scale, clinical trials are required to determine the effectiveness of these treatments. A number of articles have summarised different treatment options available for wound healing and scarring; however, these focus on diagnosis and management, and do not review the role of topical therapies in detail [2, 28, 75, 80]. These currently recommend topical silicone gel or dressings along with intralesional steroids and pressure therapy for problematic scarring, and potential surgical revision if required. Based on the current levels of evidence presented in this review, it is difficult to recommend the topical treatments identified as alternatives to current practice based on the limited clinical trial data currently available, although some success has been shown when these are utilised as supplementary therapy to standard practice in addressing specific symptoms of concern.
+What is clear from this review is that a standardised and systematic approach and strategy for evaluating scars prior to deciding on the appropriate treatment regime is required (Fig. 2). Symptoms and signs, as well as physical and psychosocial complaints, need to be considered early, through use of objective scar assessment scales and possibly tools, to elucidate the most significant factors. The PRISM scale [18] potentially has additional benefit in this context, as it includes a patient’s perspective. Treatment, if appropriate, needs to address these specific issues individually (Table 3; Fig. 3). It is important to regularly monitor and re-evaluate response to therapy, particularly to assess signs and symptoms as they change in response to treatment and scar maturation. Thus, as symptoms and signs of the scars change over time, a clinician’s approach with targeted therapy would need to be altered. A greater utilisation of a range of subjective and objective non-invasive tools throughout this process, such as standardised photography, laser Doppler imaging, 3D cameras, and SIAscopy, would likely aid interpretation and evaluation of the skin scars, both in a research and clinical setting, and lead to a more targeted treatment based on managing problematic scar-related signs and symptoms.
+Open image in new window
+Fig. 2
+A proposed flowchart indicating the different stages of the scar management timeline, as recommended by the corresponding senior author. A structured clinical assessment is required, taking into consideration patient medical and family history, including current signs and symptoms and utilising a range of quantitative and qualitative measurements in order to enable a targeted treatment, which may evolve over time as signs and symptoms change
+Table 3
+The known target and effect of available topical treatments in the processes of wound healing, skin scarring and abnormal raised dermal scarring such as keloid and hypertrophic scarring
+Topical treatment
+Effect
+Silicone gel/sheeting [1, 26, 92, 97, 117]
+Hydration and moisturisation
+Improved skin/scar condition
+Imiquimod [10, 11, 12, 23, 33, 73, 76, 89, 93, 105]
+Immune response modifier
+Reduced proliferative effect
+Reduced ECM expression
+Mitomycin C [6, 30, 53, 94, 96, 98, 103, 106, 110]
+Anti-tumour antibiotic
+Inhibits DNA synthesis and proliferation
+Reduced fibroblast proliferation
+Reduced ECM expression
+Onion extract [14, 24, 27, 31, 32, 34, 42, 43, 56, 59, 63, 65, 69, 79, 87, 91, 116]
+Anti-oxidant/anti-proliferative effect
+Induction of MMP1
+ECM remodelling
+Reduced fibroblast proliferation
+Green tea [29, 40, 48, 71, 88, 109, 119, 121]
+Anti-oxidant/anti-inflammatory effect
+Reduced mast cell numbers
+Inhibition of PI-3K/ART and STAT-3 pathways
+Reduced collagen synthesis
+Aloe vera [39, 51, 67, 72]
+Soothing/anti-inflammatory effect
+Hydration and moisturisation
+Improved skin/scar condition
+Vitamin E [36, 55, 66, 120]
+Hydration and moisturisation
+Improved skin/scar condition
+Mechanisms of action abstracted from in vivo and in vitro data in currently available literature
+Open image in new window
+Fig. 3
+A flowchart depicting the effect of silicone gel and sheeting [1, 26, 92, 97, 117], vitamin E [36, 55, 66, 120], Aloe vera [39, 51, 67, 72], green tea [29, 40, 48, 71, 88, 109, 119, 121], onion extract [14, 24, 27, 31, 32, 34, 42, 43, 56, 59, 63, 65, 69, 79, 87, 91, 116], mitomycin C [6, 30, 53, 94, 96, 98, 103, 106, 110] and imiquimod [10, 11, 12, 23, 33, 73, 76, 89, 93, 105] at addressing symptoms commonly cited during wound healing, skin scarring and problematic abnormal raised dermal scarring such as keloid and hypertrophic scarring. The symptoms best targeted by the treatment are indicated, as well as the known mechanistic target and resulting effect in vivo
+Notes
+Conflict of interest
+None.
+References
+1.
+Ahn ST, Monafo WW, Mustoe TA (1989) Topical silicone gel: a new treatment for hypertrophic scars. Surgery 106(4):781–786 (Discussion 786–787) PubMedGoogle Scholar
+2.
+Al-Attar A, Mess S, Thomassen JM, Kauffman CL, Davison SP (2006) Keloid pathogenesis and treatment. Plast Reconstr Surg 117(1):286–300PubMedGoogle Scholar
+3.
+Asilian A, Darougheh A, Shariati F (2006) New combination of triamcinolone, 5-Fluorouracil, and pulsed-dye laser for treatment of keloid and hypertrophic scars. Dermatol Surg 32(7):907–915PubMedGoogle Scholar
+4.
+Atiyeh BS, Amm CA, El Musa KA (2003) Improved scar quality following primary and secondary healing of cutaneous wounds. Aesthet Plast Surg 27(5):411–417Google Scholar
+5.
+Atiyeh BS, Ioannovich J, Al-Amm CA, El-Musa KA, Dham R (2002) Improving scar quality: a prospective clinical study. Aesthet Plast Surg 26(6):470–476Google Scholar
+6.
+Bailey JN, Waite AE, Clayton WJ, Rustin MH (2007) Application of topical mitomycin C to the base of shave-removed keloid scars to prevent their recurrence. Br J Dermatol 156(4):682–686PubMedGoogle Scholar
+7.
+Bayat A, McGrouther DA, Ferguson MW (2003) Skin scarring. BMJ (Clinical Research Ed) 326(7380):88–92Google Scholar
+8.
+Beausang E, Floyd H, Dunn KW, Orton CI, Ferguson MW (1998) A new quantitative scale for clinical scar assessment. Plast Reconstr Surg 102(6):1954–1961PubMedGoogle Scholar
+9.
+Berman B (2002) Imiquimod: a new immune response modifier for the treatment of external genital warts and other diseases in dermatology. Int J Dermatol 41(Suppl 1):7–11PubMedGoogle Scholar
+10.
+Berman B, Frankel S, Villa AM, Ramirez CC, Poochareon V, Nouri K (2005) Double-blind, randomized, placebo-controlled, prospective study evaluating the tolerability and effectiveness of imiquimod applied to postsurgical excisions on scar cosmesis. Dermatol Surg 31(11 Pt 1):1399–1403PubMedGoogle Scholar
+11.
+Berman B, Harrison-Balestra C, Perez OA, Viera M, Villa A, Zell D, Ramirez C (2009) Treatment of keloid scars post-shave excision with imiquimod 5% cream: A prospective, double-blind, placebo-controlled pilot study. J Drugs Dermatol 8(5):455–458PubMedGoogle Scholar
+12.
+Berman B, Kaufman J (2002) Pilot study of the effect of postoperative imiquimod 5% cream on the recurrence rate of excised keloids. J Am Acad Dermatol 47(4 Suppl):S209–S211PubMedGoogle Scholar
+13.
+Berman B, Viera MH, Amini S, Huo R, Jones IS (2008) Prevention and management of hypertrophic scars and keloids after burns in children. J Craniofac Surg 19(4):989–1006PubMedGoogle Scholar
+14.
+Beuth J, Hunzelmann N, Van Leendert R, Basten R, Noehle M, Schneider B (2006) Safety and efficacy of local administration of contractubex to hypertrophic scars in comparison to corticosteroid treatment. Results of a multicenter, comparative epidemiological cohort study in Germany. In Vivo 20(2):277–283PubMedGoogle Scholar
+15.
+Bock O, Schmid-Ott G, Malewski P, Mrowietz U (2006) Quality of life of patients with keloid and hypertrophic scarring. Arch Dermatol Res 297(10):433–438PubMedGoogle Scholar
+16.
+Bran GM, Goessler UR, Hormann K, Riedel F, Sadick H (2009) Keloids: current concepts of pathogenesis (review). Int J Mol Med 24(3):283–293PubMedGoogle Scholar
+17.
+Brown BC, McKenna SP, Siddhi K, McGrouther DA, Bayat A (2008) The hidden cost of skin scars: quality of life after skin scarring. J Plast Reconstr Aesthet Surg 61(9):1049–1058PubMedGoogle Scholar
+18.
+Brown BC, McKenna SP, Solomon M, Wilburn J, McGrouther DA, Bayat A (2010) The patient-reported impact of scars measure: development and validation. Plast Reconstr Surg 125(5):1439–1449PubMedGoogle Scholar
+19.
+Brown JJ, Bayat A (2009) Genetic susceptibility to raised dermal scarring. Br J Dermatol 161(1):8–18PubMedGoogle Scholar
+20.
+Brown S (2012) Clinical antimicrobial photodynamic therapy: phase II studies in chronic wounds. J Natl Compr Canc Netw 10(Suppl 2):S80–S83PubMedGoogle Scholar
+21.
+Burd A, Huang L (2005) Hypertrophic response and keloid diathesis: two very different forms of scar. Plast Reconstr Surg 116(7):150e–157ePubMedGoogle Scholar
+22.
+Bush JA, McGrouther DA, Young VL, Herndon DN, Longaker MT, Mustoe TA, Ferguson MW (2011) Recommendations on clinical proof of efficacy for potential scar prevention and reduction therapies. Wound Repair Regen 19(Suppl 1):s32–s37PubMedGoogle Scholar
+23.
+Cacao FM, Tanaka V, Messina MC (2009) Failure of imiquimod 5% cream to prevent recurrence of surgically excised trunk keloids. Dermatol Surg 35(4):629–633PubMedGoogle Scholar
+24.
+Campanati A, Savelli A, Sandroni L, Marconi B, Giuliano A, Giuliodori K, Ganzetti G, Offidani A (2010) Effect of allium cepa-allantoin-pentaglycan gel on skin hypertrophic scars: clinical and video-capillaroscopic results of an open-label, controlled, nonrandomized clinical trial. Dermatol Surg 36(9):1439–1444PubMedGoogle Scholar
+25.
+Chandawarkar RY, Piorkowski J, Amjad I, Deckers PJ (2007) Combination therapy of a large, recurrent keloid. Dermatol Surg 33(2):229–235PubMedGoogle Scholar
+26.
+Chang CC, Kuo YF, Chiu HC, Lee JL, Wong TW, Jee SH (1995) Hydration, not silicone, modulates the effects of keratinocytes on fibroblasts. J Surg Res 59(6):705–711PubMedGoogle Scholar
+27.
+Chanprapaph K, Tanrattanakorn S, Wattanakrai P, Wongkitisophon P, Vachiramon V (2012) Effectiveness of onion extract gel on surgical scars in asians. Dermatol Res Pract 2012:212945PubMedCentralPubMedGoogle Scholar
+28.
+Chen MA, Davidson TM (2005) Scar management: prevention and treatment strategies. Curr Opin Otolaryngol Head Neck Surg 13(4):242–247PubMedGoogle Scholar
+29.
+Chen SA, Chen HM, Yao YD, Hung CF, Tu CS, Liang YJ (2012) Topical treatment with anti-oxidants and Au nanoparticles promote healing of diabetic wound through receptor for advance glycation end-products. Eur J Pharm Sci 47(5):875–883PubMedGoogle Scholar
+30.
+Chi SG, Kim JY, Lee WJ, Lee SJ, Kim do W, Sohn MY, Kim GW, Kim MB, Kim BS (2011) Ear keloids as a primary candidate for the application of mitomycin C after shave excision: in vivo and in vitro study. Dermatol Surg 37(2):168–175PubMedGoogle Scholar
+31.
+Cho JW, Cho SY, Lee SR, Lee KS (2010) Onion extract and quercetin induce matrix metalloproteinase-1 in vitro and in vivo. Int J Mol Med 25(3):347–352PubMedGoogle Scholar
+32.
+Chuangsuwanich A, Arunakul S, Kamnerdnakta S (2013) The efficacy of combined herbal extracts gel in reducing scar development at a split-thickness skin graft donor site. Aesthet Plast Surg 37(4):770–777Google Scholar
+33.
+Chuangsuwanich A, Gunjittisomram S (2007) The efficacy of 5% imiquimod cream in the prevention of recurrence of excised keloids. J Med Assoc Thai 90(7):1363–1367PubMedGoogle Scholar
+34.
+Chung VQ, Kelley L, Marra D, Jiang SB (2006) Onion extract gel versus petrolatum emollient on new surgical scars: prospective double-blinded study. Dermatol Surg 32(2):193–197PubMedGoogle Scholar
+35.
+Clark RA (2001) Fibrin and wound healing. Ann N Y Acad Sci 936:355–367PubMedGoogle Scholar
+36.
+Curran JN, Crealey M, Sadadcharam G, Fitzpatrick G, O’Donnell M (2006) Vitamin E: patterns of understanding, use, and prescription by health professionals and students at a university teaching hospital. Plast Reconstr Surg 118(1):248–252PubMedGoogle Scholar
+37.
+D’Andrea F, Brongo S, Ferraro G, Baroni A (2002) Prevention and treatment of keloids with intralesional verapamil. Dermatology 204(1):60–62PubMedGoogle Scholar
+38.
+Darougheh A, Asilian A, Shariati F (2009) Intralesional triamcinolone alone or in combination with 5-fluorouracil for the treatment of keloid and hypertrophic scars. Clin Exp Dermatol 34(2):219–223PubMedGoogle Scholar
+39.
+Dat AD, Poon F, Pham KB, Doust J (2012) Aloe vera for treating acute and chronic wounds. Cochrane Database Syst Rev 2:CD008762PubMedGoogle Scholar
+40.
+Domingo DS, Camouse MM, Hsia AH, Matsui M, Maes D, Ward NL, Cooper KD, Baron ED (2010) Anti-angiogenic effects of epigallocatechin-3-gallate in human skin. Int J Clin Exp Pathol 3(7):705–709PubMedCentralPubMedGoogle Scholar
+41.
+Draaijers LJ, Tempelman FR, Botman YA, Tuinebreijer WE, Middelkoop E, Kreis RW, van Zuijlen PP (2004) The patient and observer scar assessment scale: a reliable and feasible tool for scar evaluation. Plastic Reconstr Surg 113(7):1960–1965 (Discussion 1966–1967) Google Scholar
+42.
+Draelos ZD (2008) The ability of onion extract gel to improve the cosmetic appearance of postsurgical scars. J Cosmet Dermatol 7(2):101–104PubMedGoogle Scholar
+43.
+Draelos ZD, Baumann L, Fleischer AB Jr, Plaum S, Avakian EV, Hardas B (2012) A new proprietary onion extract gel improves the appearance of new scars: a randomized, controlled, blinded-investigator study. J Clin Aesthet Dermatol 5(6):18–24PubMedCentralPubMedGoogle Scholar
+44.
+Durani P, Bayat A (2008) Levels of evidence for the treatment of keloid disease. J Plast Reconstr Aesthet Surg 61(1):4–17PubMedGoogle Scholar
+45.
+Durani P, McGrouther DA, Ferguson MW (2009) Current scales for assessing human scarring: a review. J Plast Reconstr Aesthet Surg 62(6):713–720PubMedGoogle Scholar
+46.
+Durani P, McGrouther DA, Ferguson MW (2009) The Patient Scar Assessment Questionnaire: a reliable and valid patient-reported outcomes measure for linear scars. Plast Reconstr Surg 123(5):1481–1489PubMedGoogle Scholar
+47.
+Easterbrook PJ, Berlin JA, Gopalan R, Matthews DR (1991) Publication bias in clinical research. Lancet 337(8746):867–872PubMedGoogle Scholar
+48.
+Elmets CA, Singh D, Tubesing K, Matsui M, Katiyar S, Mukhtar H (2001) Cutaneous photoprotection from ultraviolet injury by green tea polyphenols. J Am Acad Dermatol 44(3):425–432PubMedGoogle Scholar
+49.
+Elsaie ML, Choudhary S (2010) Photodynamic therapy in the management of acne: an update. J Cosmet Dermatol 9(3):211–217PubMedGoogle Scholar
+50.
+Eming SA, Krieg T, Davidson JM (2007) Inflammation in wound repair: molecular and cellular mechanisms. J Invest Dermatol 127(3):514–525PubMedGoogle Scholar
+51.
+Eshghi F, Hosseinimehr SJ, Rahmani N, Khademloo M, Norozi MS, Hojati O (2010) Effects of Aloe vera cream on posthemorrhoidectomy pain and wound healing: results of a randomized, blind, placebo-control study. J Altern Complement Med 16(6):647–650PubMedGoogle Scholar
+52.
+Fitzpatrick RE (1999) Treatment of inflamed hypertrophic scars using intralesional 5-FU. Dermatol Surg 25(3):224–232PubMedGoogle Scholar
+53.
+Gupta M, Narang T (2011) Role of mitomycin C in reducing keloid recurrence: patient series and literature review. J Laryngol Otol 125(3):297–300PubMedGoogle Scholar
+54.
+Gurtner GC, Werner S, Barrandon Y, Longaker MT (2008) Wound repair and regeneration. Nature 453(7193):314–321PubMedGoogle Scholar
+55.
+Havlik RJ (1997) Vitamin E and wound healing. Plastic Surgery Educational Foundation DATA Committee. Plast Reconstr Surg 100(7):1901–1902PubMedGoogle Scholar
+56.
+Ho WS, Ying SY, Chan PC, Chan HH (2006) Use of onion extract, heparin, allantoin gel in prevention of scarring in chinese patients having laser removal of tattoos: a prospective randomized controlled trial. Dermatol Surg 32(7):891–896PubMedGoogle Scholar
+57.
+Hoogewerf CJ, Van Baar ME, Hop MJ, Nieuwenhuis MK, Oen IM, Middelkoop E (2013) Topical treatment for facial burns. Cochrane Database Syst Rev 1:CD008058PubMedGoogle Scholar
+58.
+Hopewell S, Loudon K, Clarke MJ, Oxman AD, Dickersin K (2009) Publication bias in clinical trials due to statistical significance or direction of trial results. Cochrane Database Syst Rev (1):MR000006Google Scholar
+59.
+Hosnuter M, Payasli C, Isikdemir A, Tekerekoglu B (2007) The effects of onion extract on hypertrophic and keloid scars. J Wound Care 16(6):251–254PubMedGoogle Scholar
+60.
+Howick J, Chalmers I, Glasziou P, Greenhalgh T, Heneghan C, Liberati A, Moschetti I, Phillips B, Thornton H (2011) The 2011 Oxford CEBM Levels of Evidence (Introductory Document). Oxford Centre for Evidence-Based Medicine. http://www.cebmnet/indexaspx?o=5653. Accessed 08 Apr 2015
+61.
+Howick J, Chalmers I, Glasziou P, Greenhalgh T, Heneghan C, Liberati A, Moschetti I, Phillips B, Thornton H (2011) Explanation of the 2011 Oxford Centre for Evidence-Based Medicine (OCEBM) Levels of Evidence (Background Document). Oxford Centre for Evidence-Based Medicine. http://www.cebmnet/indexaspx?o=5653. Accessed 08 Apr 2015
+62.
+Howick J, Chalmers I, Glasziou P, Greenhalgh T, Heneghan C, Liberati A, Moschetti I, Phillips B, Thornton H, Goddard O, Hodgkinson M (2011) The Oxford Levels of Evidence 2. Oxford Centre for Evidence-Based Medicine. http://www.cebmnet/indexaspx?o=5653. Accessed 08 Apr 2015
+63.
+Jenwitheesuk K, Surakunprapha P, Kuptarnond C, Prathanee S, Intanoo W (2012) Role of silicone derivative plus onion extract gel in presternal hypertrophic scar protection: a prospective randomized, double blinded, controlled trial. Int Wound J 9(4):397–402PubMedGoogle Scholar
+64.
+Jull AB, Walker N, Deshpande S (2013) Honey as a topical treatment for wounds. Cochrane Database Syst Rev 2:CD005083PubMedGoogle Scholar
+65.
+Karagoz H, Yuksel F, Ulkur E, Evinc R (2009) Comparison of efficacy of silicone gel, silicone gel sheeting, and topical onion extract including heparin and allantoin for the treatment of postburn hypertrophic scars. Burns 35(8):1097–1103PubMedGoogle Scholar
+66.
+Khoo TL, Halim AS, Zakaria Z, Mat Saad AZ, Wu LY, Lau HY (2011) A prospective, randomised, double-blinded trial to study the efficacy of topical tocotrienol in the prevention of hypertrophic scars. J Plast Reconstr Aesthet Surg 64(6):e137–e145PubMedGoogle Scholar
+67.
+Khorasani G, Hosseinimehr SJ, Azadbakht M, Zamani A, Mahdavi MR (2009) Aloe versus silver sulfadiazine creams for second-degree burns: a randomized controlled study. Surg Today 39(7):587–591PubMedGoogle Scholar
+68.
+Kloth LC (2005) Electrical stimulation for wound healing: a review of evidence from in vitro studies, animal experiments, and clinical trials. Int J Low Extrem Wounds 4(1):23–44PubMedGoogle Scholar
+69.
+Koc E, Arca E, Surucu B, Kurumlu Z (2008) An open, randomized, controlled, comparative study of the combined effect of intralesional triamcinolone acetonide and onion extract gel and intralesional triamcinolone acetonide alone in the treatment of hypertrophic scars and keloids. Dermatol Surg 34(11):1507–1514PubMedGoogle Scholar
+70.
+Kose O, Waseem A (2008) Keloids and hypertrophic scars: are they two different sides of the same coin? Dermatol Surg 34(3):336–346PubMedGoogle Scholar
+71.
+Leu JG, Chen SA, Chen HM, Wu WM, Hung CF, Yao YD, Tu CS, Liang YJ (2012) The effects of gold nanoparticles in wound healing with antioxidant epigallocatechin gallate and alpha-lipoic acid. Nanomedicine 8(5):767–775PubMedGoogle Scholar
+72.
+Maenthaisong R, Chaiyakunapruk N, Niruntraporn S, Kongkaew C (2007) The efficacy of Aloe vera used for burn wound healing: a systematic review. Burns 33(6):713–718PubMedGoogle Scholar
+73.
+Malhotra AK, Gupta S, Khaitan BK, Sharma VK (2007) Imiquimod 5% cream for the prevention of recurrence after excision of presternal keloids. Dermatology 215(1):63–65PubMedGoogle Scholar
+74.
+Margaret Shanthi FX, Ernest K, Dhanraj P (2008) Comparison of intralesional verapamil with intralesional triamcinolone in the treatment of hypertrophic scars and keloids. Indian J Dermatol Venereol Leprol 74(4):343–348PubMedGoogle Scholar
+75.
+Marneros AG, Krieg T (2004) Keloids–clinical diagnosis, pathogenesis, and treatment options. J Dtsch Dermatol Ges 2(11):905–913PubMedGoogle Scholar
+76.
+Martin-Garcia RF, Busquets AC (2005) Postsurgical use of imiquimod 5% cream in the prevention of earlobe keloid recurrences: results of an open-label, pilot study. Dermatol Surg 31(11 Pt 1):1394–1398PubMedGoogle Scholar
+77.
+Martin P, Leibovich SJ (2005) Inflammatory cells during wound repair: the good, the bad and the ugly. Trends Cell Biol 15(11):599–607PubMedGoogle Scholar
+78.
+Morganroth P, Wilmot AC, Miller C (2009) JAAD online. Over-the-counter scar products for postsurgical patients: disparities between online advertised benefits and evidence regarding efficacy. J Am Acad Dermatol 61(6):e31–e47PubMedGoogle Scholar
+79.
+Muangman P, Aramwit P, Palapinyo S, Opasanon S, Chuangsuwanich A (2011) Efficacy of the combination of herbal extracts and a silicone derivative in the treatment of hypertrophic scar formation after burn injury. Afr J Pharm Pharmacol 5(3):442–446Google Scholar
+80.
+Mustoe TA, Cooter RD, Gold MH, Hobbs FD, Ramelet AA, Shakespeare PG, Stella M, Teot L, Wood FM, Ziegler UE (2002) International clinical recommendations on scar management. Plast Reconstr Surg 110(2):560–571PubMedGoogle Scholar
+81.
+Mustoe TA, Gurjala A (2011) The role of the epidermis and the mechanism of action of occlusive dressings in scarring. Wound Repair Regen 19(Suppl 1):s16–s21PubMedCentralPubMedGoogle Scholar
+82.
+Muzaffar SJ, Pollock JC, Southern SJ (2011) Vitamin E—an aid to wound healing? J Plast Reconstr Aesthet Surg 64(7):969 (Author reply 969–970) PubMedGoogle Scholar
+83.
+Nicholas RS, Falvey H, Lemonas P, Damodaran G, Ghanem AM, Selim F, Navsaria H, Myers S (2012) Patient-related keloid scar assessment and outcome measures. Plast Reconstr Surg 129(3):648–656PubMedGoogle Scholar
+84.
+Nie Z (2011) Is photodynamic therapy a solution for keloid? G Ital Dermatol Venereol 146(6):463–472PubMedGoogle Scholar
+85.
+Nuccitelli R (2003) A role for endogenous electric fields in wound healing. Curr Top Dev Biol 58:1–26PubMedGoogle Scholar
+86.
+O’Brien L, Pandit A (2006) Silicon gel sheeting for preventing and treating hypertrophic and keloid scars. Cochrane Database Syst Rev (1):CD003826Google Scholar
+87.
+Ocampo-Candiani J, Vazquez-Martinez OT, Iglesias Benavides JL, Buske K, Lehn A, Acker C (2014) The prophylactic use of a topical scar gel containing extract of Allium cepae, allantoin, and heparin improves symptoms and appearance of cesarean-section scars compared with untreated scars. J Drugs Dermatol 13(2):176–182PubMedGoogle Scholar
+88.
+Park G, Yoon BS, Moon JH, Kim B, Jun EK, Oh S, Kim H, Song HJ, Noh JY, Oh C, You S (2008) Green tea polyphenol epigallocatechin-3-gallate suppresses collagen production and proliferation in keloid fibroblasts via inhibition of the STAT3-signaling pathway. J Invest Dermatol 128(10):2429–2441PubMedGoogle Scholar
+89.
+Patel PJ, Skinner RB Jr (2006) Experience with keloids after excision and application of 5% imiquimod cream. Dermatol Surg 32(3):462PubMedGoogle Scholar
+90.
+Peplow PV, Chung TY, Baxter GD (2012) Photodynamic modulation of wound healing: a review of human and animal studies. Photomed Laser Surg 30(3):118–148PubMedGoogle Scholar
+91.
+Perez OA, Viera MH, Patel JK, Konda S, Amini S, Huo R, Zell D, Tadicherla S, Berman B (2010) A comparative study evaluating the tolerability and efficacy of two topical therapies for the treatment of keloids and hypertrophic scars. J Drugs Dermatol 9(5):514–518PubMedGoogle Scholar
+92.
+Perkins K, Davey RB, Wallis KA (1983) Silicone gel: a new treatment for burn scars and contractures. Burns Incl Therm Inj 9(3):201–204PubMedGoogle Scholar
+93.
+Prado A, Andrades P, Benitez S, Umana M (2005) Scar management after breast surgery: preliminary results of a prospective, randomized, and double-blind clinical study with aldara cream 5% (imiquimod). Plast Reconstr Surg 115(3):966–972PubMedGoogle Scholar
+94.
+Rahbar R, Jones DT, Nuss RC, Roberson DW, Kenna MA, McGill TJ, Healy GB (2002) The role of mitomycin in the prevention and treatment of scar formation in the pediatric aerodigestive tract: friend or foe? Arch Otolaryngol Head Neck Surg 128(4):401–406PubMedGoogle Scholar
+95.
+Roques C, Teot L (2007) A critical analysis of measurements used to assess and manage scars. Int J Low Extrem Wounds 6(4):249–253PubMedGoogle Scholar
+96.
+Sanders KW, Gage-White L, Stucker FJ (2005) Topical mitomycin C in the prevention of keloid scar recurrence. Arch Facial Plast Surg 7(3):172–175PubMedGoogle Scholar
+97.
+Sawada Y, Sone K (1990) Treatment of scars and keloids with a cream containing silicone oil. Br J Plast Surg 43(6):683–688PubMedGoogle Scholar
+98.
+Seo SH, Sung HW (2012) Treatment of keloids and hypertrophic scars using topical and intralesional mitomycin C. J Eur Acad Dermatol Venereol 26(5):634–638PubMedGoogle Scholar
+99.
+Shih B, Bayat A (2010) Genetics of keloid scarring. Arch Dermatol Res 302(5):319–339PubMedGoogle Scholar
+100.
+Shih B, Garside E, McGrouther DA, Bayat A (2010) Molecular dissection of abnormal wound healing processes resulting in keloid disease. Wound Repair Regen 18(2):139–153PubMedGoogle Scholar
+101.
+Sidgwick GP, Bayat A (2012) Extracellular matrix molecules implicated in hypertrophic and keloid scarring. J Eur Acad Dermatol Venereol 26(2):141–152PubMedGoogle Scholar
+102.
+Sidle DM, Kim H (2011) Keloids: prevention and management. Facial Plast Surg Clin North Am 19(3):505–515PubMedGoogle Scholar
+103.
+Simman R, Alani H, Williams F (2003) Effect of mitomycin C on keloid fibroblasts: an in vitro study. Ann Plast Surg 50(1):71–76PubMedGoogle Scholar
+104.
+Slemp AE, Kirschner RE (2006) Keloids and scars: a review of keloids and scars, their pathogenesis, risk factors, and management. Curr Opin Pediatr 18(4):396–402PubMedGoogle Scholar
+105.
+Stashower ME (2006) Successful treatment of earlobe keloids with imiquimod after tangential shave excision. Dermatol Surg 32(3):380–386PubMedGoogle Scholar
+106.
+Stewart CE, Kim JY (2006) Application of mitomycin-C for head and neck keloids. Otolaryngol Head Neck Surg 135(6):946–950PubMedGoogle Scholar
+107.
+Subedi RK, Oh SY, Chun MK, Choi HK (2010) Recent advances in transdermal drug delivery. Arch Pharm Res 33(3):339–351PubMedGoogle Scholar
+108.
+Sullivan T, Smith J, Kermode J, McIver E, Courtemanche DJ (1990) Rating the burn scar. J Burn Care Rehabil 11(3):256–260PubMedGoogle Scholar
+109.
+Syed F, Bagabir RA, Paus R, Bayat A (2013) Ex vivo evaluation of antifibrotic compounds in skin scarring: EGCG and silencing of PAI-1 independently inhibit growth and induce keloid shrinkage. Lab Invest J Technical Methods Pathol 93(8):946–960Google Scholar
+110.
+Talmi YP, Orenstein A, Wolf M, Kronenberg J (2005) Use of mitomycin C for treatment of keloid: a preliminary report. Otolaryngol Head Neck Surg 132(4):598–601PubMedGoogle Scholar
+111.
+Tebble NJ, Adams R, Thomas DW, Price P (2006) Anxiety and self-consciousness in patients with facial lacerations one week and six months later. Br J Oral Maxillofac Surg 44(6):520–525PubMedGoogle Scholar
+112.
+Thomas DW, O’Neill ID, Harding KG, Shepherd JP (1995) Cutaneous wound healing: a current perspective. J Oral Maxillofac Surg 53(4):442–447PubMedGoogle Scholar
+113.
+van der Veer WM, Jacobs XE, Waardenburg IE, Ulrich MM, Niessen FB (2009) Topical calcipotriol for preventive treatment of hypertrophic scars: a randomized, double-blind, placebo-controlled trial. Arch Dermatol 145(11):1269–1275PubMedGoogle Scholar
+114.
+Van Loey NE, Van Son MJ (2003) Psychopathology and psychological problems in patients with burn scars: epidemiology and management. Am J Clin Dermatol 4(4):245–272PubMedGoogle Scholar
+115.
+Waibel JS, Wulkan AJ, Shumaker PR (2013) Treatment of hypertrophic scars using laser and laser assisted corticosteroid delivery. Lasers Surg Med 45(3):135–140PubMedGoogle Scholar
+116.
+Willital GH, Simon J (2013) Efficacy of early initiation of a gel containing extractum cepae, heparin, and allantoin for scar treatment: an observational, noninterventional study of daily practice. J Drugs Dermatol 12(1):38–42PubMedGoogle Scholar
+117.
+Wong TW, Chiu HC, Chang CH, Lin LJ, Liu CC, Chen JS (1996) Silicone cream occlusive dressing—a novel noninvasive regimen in the treatment of keloid. Dermatology 192(4):329–333PubMedGoogle Scholar
+118.
+Yeong EK, Mann R, Engrav LH, Goldberg M, Cain V, Costa B, Moore M, Nakamura D, Lee J (1997) Improved burn scar assessment with use of a new scar-rating scale. J Burn Care Rehabil 18(4):353–355 Discussion 352 PubMedGoogle Scholar
+119.
+Yoon JY, Kwon HH, Min SU, Thiboutot DM, Suh DH (2013) Epigallocatechin-3-gallate improves acne in humans by modulating intracellular molecular targets and inhibiting P. acnes. J Invest Dermatol 133(2):429–440PubMedGoogle Scholar
+120.
+Zampieri N, Zuin V, Burro R, Ottolenghi A, Camoglio FS (2010) A prospective study in children: pre- and post-surgery use of vitamin E in surgical incisions. J Plast Reconstr Aesthet Surg 63(9):1474–1478PubMedGoogle Scholar
+121.
+Zhang Q, Kelly AP, Wang L, French SW, Tang X, Duong HS, Messadi DV, Le AD (2006) Green tea extract and (−)-epigallocatechin-3-gallate inhibit mast cell-stimulated type I collagen expression in keloid fibroblasts via blocking PI-3K/AkT signaling pathways. J Invest Dermatol 126(12):2607–2613PubMedGoogle Scholar
+Related articles recently published in Archives of Dermatological Research (selected by the journal’s editorial staff):
+122.
+Zurada JM, Kriegel D, Davis IC (2006) Topical treatments for hypertrophic scars. J Am Acad Dermatol 55(6):1024–1031PubMedGoogle Scholar
+123.
+Babalola O, Mamalis A, Lev-Tov H, Jagdeo J (2014) NADPH oxidase enzymes in skin fibrosis: molecular targets and therapeutic agents. Arch Dermatol Res 306:313–330PubMedCentralPubMedGoogle Scholar
+124.
+Babalola O, Mamalis A, Lev-Tov H, Jagdeo J (2014) Optical coherence tomography (OCT) of collagen in normal skin and skin fibrosis. Arch Dermatol Res 306:1–9PubMedCentralPubMedGoogle Scholar
+125.
+Bahramsoltani R, Farzaei MH, Rahimi R (2014) Medicinal plants and their natural components as future drugs for the treatment of burn wounds: an integrative review. Arch Dermatol Res 306:601–617PubMedGoogle Scholar
+126.
+Kim SH, Jung SH, Chung H, Jo DI, Kim CK, Park SH, Won KJ, Jeon HS, Kim B (2014) Annexin A2 participates in human skin keloid formation by inhibiting fibroblast proliferation. Arch Dermatol Res 306:347–357PubMedGoogle Scholar
+127.
+Suarez E, Syed F, Alonso-Rasgado T, Bayat A (2015) Identification of biomarkers involved in differential profiling of hypertrophic and keloid scars versus normal skin. Arch Dermatol Res 307:115–133PubMedGoogle Scholar
+Copyright information
+© The Author(s) 2015
+Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.
+Authors and Affiliations
+G. P. Sidgwick
+1
+D. McGeorge
+2
+A. Bayat
+1
+Email author
+1.Plastic and Reconstructive Surgery Research, Institute of Inflammation and Repair, Faculty of Medical and Human Sciences, Manchester Institute of BiotechnologyUniversity of ManchesterManchesterUK
+2.Grosvenor Nuffield HospitalChesterEngland, UK
+About this article
+CrossMark
+Cite this article as:
+Sidgwick, G.P., McGeorge, D. & Bayat, A. Arch Dermatol Res (2015) 307: 461. https://doi.org/10.1007/s00403-015-1572-0
+Received 02 October 2014
+Revised 11 April 2015
+Accepted 29 April 2015
+First Online 05 June 2015
+DOI https://doi.org/10.1007/s00403-015-1572-0
+Publisher Name Springer Berlin Heidelberg
+Print ISSN 0340-3696
+Online ISSN 1432-069X
+About this journal
+Reprints and Permissions
+Personalised recommendations
+Cite article
+How to cite?
+.RIS Papers Reference Manager RefWorks Zotero
+.ENW EndNote
+.BIB BibTeX JabRef Mendeley
+Share article
+Download PDF
+Actions
+Download PDF
+Cite article
+How to cite?
+.RIS Papers Reference Manager RefWorks Zotero
+.ENW EndNote
+.BIB BibTeX JabRef Mendeley
+Share article
+Table of contents
+Article
+Abstract
+Introduction
+Methods
+Results
+Discussion
+Notes
+References
+Related articles recently published in Archives of Dermatological Research (selected by the journal’s editorial staff):
+Copyright information
+Authors and Affiliations
+About this article
+Advertisement
+Hide
+Over 10 million scientific documents at your fingertips
+Switch Edition
+Academic Edition
+Corporate Edition
+Home
+Impressum
+Legal information
+Privacy statement
+How we use cookies
+Accessibility
+Contact us
+Springer Nature
+© 2018 Springer Nature Switzerland AG. Part of Springer Nature.
+Not logged in Not affiliated 52.200.130.163

@@ -1,0 +1,104 @@
+Minoxidil - Drug, Uses, Dose, Tablets, Side Effects, Warnings, Interactions | SaveOnMedicals
+Login / Sign up
+0
+cart Rs.0.00
+No Item In Your Cart
+Home
+IVF
+Medicines
+Supplements
+Homeopathy
+Ayurvedic
+Others
+E-consult
+Surgery
+Blogs
+Salt
+Salt in english
+Salt in hindi
+Salt in bengali
+Salt in Punjabi
+Disease
+Disease in hindi
+Disease in bengali
+Disease in english
+×
+Download E-book Get Extra INR 50 With Coupon Code + UpTo 35% Discount
+22 Diseases & Their Home Remedies
+×
+Sorry, we are not accepting any orders currently.
+×
+Download E-book
+Get Extra INR 50 With Coupon Code
+In Addition to UpTo 35% Discount
+22 Diseases & Their Home Remedies
+Enter your email & get your free copy here.
+Mobile: +91-
+Download Now
+Close
+Home
+Salts
+Minoxidil
+Minoxidil
+Overview
+Uses
+Side Effects
+Contraindications
+ਪੰਜਾਬੀ Eng हिंदी বাংলা
+What Are The Uses Of Minoxidil?
+To stop hair fall, baldness, especially amongst males under 40.
+Minoxidil is a topical solution used for treating male pattern hair loss. Its active ingredient Minoxidil can immensely help the stimulation of growth of new hair and also slow down the loss of hair. Minoxidil acts by dilating blood vessels. By enhancing the diameters of these vessels, Minoxidil decreases the pressure of blood flow by releasing nitric oxide, a commonly known vasodilator.
+What Are The Side Effects Of Minoxidil?
+Abnormal hair growth on the face (of women), skin rashes, headache.
+What Are The Contraindications Of Minoxidil?
+Please inform your doctor if you have any of the following diseases:
+Eczema, infection, cuts of the scalp
+Heart problems like chest pain, heart attack,
+Kidney disease
+Pregnancy
+What Are The Uses Of Minoxidil?
+To stop hair fall, baldness, especially amongst males under 40.
+Minoxidil is a topical solution used for treating male pattern hair loss. Its active ingredient Minoxidil can immensely help the stimulation of growth of new hair and also slow down the loss of hair. Minoxidil acts by dilating blood vessels. By enhancing the diameters of these vessels, Minoxidil decreases the pressure of blood flow by releasing nitric oxide, a commonly known vasodilator.
+What Are The Side Effects Of Minoxidil?
+Abnormal hair growth on the face (of women), skin rashes, headache.
+What Are The Contraindications Of Minoxidil?
+Please inform your doctor if you have any of the following diseases:
+Eczema, infection, cuts of the scalp
+Heart problems like chest pain, heart attack,
+Kidney disease
+Pregnancy
+Answers For Some Relevant Questions Regarding Minoxidil
+What Are The Uses Of Minoxidil?
+What Are The Side Effects Of Minoxidil?
+What Are The Contraindications Of Minoxidil?
+RELATED MEDICINE
+TRICOSILK SOLUTION
+ANDROMIN SOLUTION
+PILOMIN 2 % SOLUTION
+MORR 5% SOLUTION
+Contact Us
+2nd Floor, Kaluram Market Part 5, Khasra No. 401,Ghitorni,New Delhi,110030
++91-8800159666
++91-9266607007
+[email protected]
+Help
+Payments
+Shipping
+Cancellation & Returns
+FAQ
+Seller FAQ
+Terms & Conditions
+Saveonmedicals
+Contact Us
+About Us
+Careers
+SOM Loyalty
+Q & A Corner
+News
+Services
+Track Your Order
+Re-order
+Online Cancellation
+Surgery
+Blogs
+'); }, focus: function() { // prevent value inserted on focus $('#loading').hide(); return false; }, select: function( event, ui ) { event.preventDefault(); $("#keyword").val(ui.item.label); $("#selected-keyword").val(ui.item.label); window.location.href = ui.item.value; } }); }); });

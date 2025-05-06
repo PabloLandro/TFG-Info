@@ -1,0 +1,142 @@
+welcome to miraclesforu.org
+HOME
+ABOUT US
+Agricultural Products
+Alternate Therapies
+Anti Radiation Mobile Chip
+Apparel Products
+Ayurvedic Products
+Bio Magnetic Products
+Detox Foot Spa
+Electrical Products
+Electronic Products
+Fashion Life Style
+Gas Safety Device
+Gas Saving Device
+Gem Stone Ring
+Health Fitness Products
+Healthcare Drops
+Healthcare Juices
+Healthy Oil
+Home Appliances
+Honey Moon Nighty
+Intex Air Products
+Kitchen Appliances
+Laptop And Mobile
+Leg & Foot Massager
+Magnetic Bracelets
+Mlm Products
+Nutritional Powder
+Organic Capsules
+Organic Creams
+Organic Facewash
+Organic Shampoo
+Organic Tablets
+Organic Tea
+Others
+Patient Care
+Pendant
+Personal Care Products
+Swimming Pool
+Teleshopping Products
+Vedic Yantra & Spiritual
+Watches & Spy
+PRODUCTS
+CONTACT
+RADIATION
+VIDEOS
+CERTIFICATES
+DOWNLOADS
+Search Product
+RADIATION
+Mobile Phone Radiation and Health
+A Greenfield-type tower used in base stations for mobile telephony
+The effect mobile phone radiation has on human health is the subject of recent interest and study, as a result of the enormous increase in mobile phone usage throughout the world (as of June 2009, there were more than 4.3 billion users worldwide). Mobile phones use electromagnetic radiation in the microwave range, which some believe may be harmful to human health. Other digital wireless systems, such as data communication networks, produce similar radiation.
+A large body of research exists, both epidemiological and experimental, in non-human animals and in humans, of which the majority shows no definite causative relationship between exposure to mobile phones and harmful biological effects in humans. This is often paraphrased simply as the balance of evidence showing no harm to humans from mobile phones, although a significant number of individual studies do suggest such a relationship, or are inconclusive.
+The World Health Organization, based upon the majority view of scientific and medical communities, has stated that cancer is unlikely to be caused by cellular phones or their base stations and that reviews have found no convincing evidence for other health effects. The WHO expects to make recommendations about mobile phones in 2010. Some national radiation advisory authorities have recommended measures to minimize exposure to their citizens as a precautionary approach.
+Effects
+Many scientific studies have investigated possible health effects of mobile phone radiations. These studies are occasionally reviewed by some scientific committees to assess overall risks. A recent assessment was published in 2007 by the European Commission Scientific Committee on Emerging and Newly Identified Health Risks (SCENIHR). It concludes that the three lines of evidence, viz. animal, in vitro, and epidemiological studies, indicate that "exposure to RF fields is unlikely to lead to an increase in cancer in humans."
+Radiation absorption
+Calculated specific absorbed radiation (SAR) distribution in an anatomical model of head next to a 125 mW dipole antenna. Peak SAR is 9.5 W/kg averaged over a 1 mg cube. (USAF/AFRL).
+Part of the radio waves emitted by a mobile telephone handset are absorbed by the human head. The radio waves emitted by a GSM handset can have a peak power of 2 watts, and a US analogue phone had a maximum transmit power of 3.6 watts. Other digital mobile technologies, such as CDMA2000 and D-AMPS, use lower output power, typically below 1 watt. The maximum power output from a mobile phone is regulated by the mobile phone standard and by the regulatory agencies in each country.[citation needed] In most systems the cellphone and the base station check reception quality and signal strength and the power level is increased or decreased automatically, within a certain span, to accommodate different situations, such as inside or outside of buildings and vehicles. The rate at which radiation is absorbed by the human body is measured by the Specific Absorption Rate (SAR), and its maximum levels for modern handsets have been set by governmental regulating agencies in many countries. In the USA, the Federal Communications Commission (FCC) has set a SAR limit of 1.6 W/kg, averaged over a volume of 1 gram of tissue, for the head. In Europe, the limit is 2 W/kg, averaged over a volume of 10 grams of tissue. SAR values are heavily dependent on the size of the averaging volume. Without information about the averaging volume used, comparisons between different measurements cannot be made. Thus, the European 10-gram ratings should be compared among themselves, and the American 1-gram ratings should only be compared among themselves. SAR data for specific mobile phones, along with other useful information, can be found directly on manufacturers' websites, as well as on third party web sites.
+Thermal effects
+One well-understood effect of microwave radiation is dielectric heating, in which any dielectric material (such as living tissue) is heated by rotations of polar molecules induced by the electromagnetic field. In the case of a person using a cell phone, most of the heating effect will occur at the surface of the head, causing its temperature to increase by a fraction of a degree. In this case, the level of temperature increase is an order of magnitude less than that obtained during the exposure of the head to direct sunlight. The brain's blood circulation is capable of disposing of excess heat by increasing local blood flow. However, the cornea of the eye does not have this temperature regulation mechanism and exposure of 2-3 hours duration has been reported to produce cataracts in rabbits' eyes at SAR values from 100-140W/kg, which produced lenticular temperatures of 41oC. There were no cataracts detected in the eyes of monkeys exposed under similar conditions. Premature cataracts have not been linked with cell phone use, possibly because of the lower power output of mobile phones.
+Non-thermal effects
+The communications protocols used by mobile phones often result in low-frequency pulsing of the carrier signal. Whether these modulations have biological significance has been subject to debate.
+Some researchers have argued that so-called "non-thermal effects" could be reinterpreted as a normal cellular response to an increase in temperature. The German biophysicist Roland Glaser, for example, has argued that there are several thermo receptor molecules in cells, and that they activate a cascade of second and third messenger systems, gene expression mechanisms and production of heat shock proteins in order to defend the cell against metabolic cell stress caused by heat. The increases in temperature that cause these changes are too small to be detected by studies such as REFLEX, which base their whole argument on the apparent stability of thermal equilibrium in their cell cultures.
+Other researchers believe the stress proteins are unrelated to thermal effects, since they occur for both extremely low frequencies (ELF) and radio frequencies (RF), which have very different energy levels.
+Blood-brain barrier effects
+Swedish researchers from Lund University (Salford, Brun, Perrson, Eberhardt, and Malmgren) have studied the effects of microwave radiation on the rat brain. They found a leakage of albumin into the brain via a permeated blood-brain barrier. This confirms earlier work on the blood-brain barrier by Allan Frey, Oscar and Hawkins, and Albert and Kerns. Other groups have not confirmed these findings in cell or animal studies.
+Cancer
+In 2006 a large Danish study about the connection between mobile phone use and cancer incidence was published. It followed over 420,000 Danish citizens for 20 years and showed no increased risk of cancer. The German Federal Office for Radiation Protection (BfS) considers this report inconclusive.
+The following studies of long time exposure have been published :
+The 13 nation INTERPHONE project - the largest study of its kind ever undertaken - has now been published and did not find a solid link between mobile phones and brain tumors.
+The International Journal of Epidemiology published a combined data analysis from a multi national population-based case-control study of glioma and meningioma, the most common types of brain tumor.
+The authors reported the following conclusion :
+Overall, no increase in risk of glioma or meningioma was observed with use of mobile phones. There were suggestions of an increased risk of glioma at the highest exposure levels, but biases and error prevent a causal interpretation. The possible effects of long-term heavy use of mobile phones require further investigation.
+In the press release accompanying the release of the paper, Dr Christopher Wild, Director of the International Agency for Research on Cancer (IARC) said :
+An increased risk of brain cancer is not established from the data from Interphone. However, observations at the highest level of cumulative call time and the changing patterns of mobile phone use since the period studied by Interphone, particularly in young people, mean that further investigation of mobile phone use and brain cancer risk is merited.
+A number of independent health and government authorities have commented on this important study including The Australian Centre for Radiofrequency Bioeffects Research (ACRBR) which said in a statement that :
+Until now there have been concerns that mobile phones were causing increases in brain tumors. Interphone is both large and rigorous enough to address this claim, and it has not provided any convincing scientific evidence of an association between mobile phone use and the development of glioma or meningioma. While the study demonstrates some weak evidence of an association with the highest tenth of cumulative call time (but only in those who started mobile phone use most recently), the authors conclude that biases and errors limit the strength of any conclusions in this group. It now seems clear that if there was an effect of mobile phone use on brain tumor risks in adults, this is likely to be too small to be detectable by even a large multinational study of the size of Interphone.
+The Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)which said in a statement that :
+On the basis of current understanding of the relationship between brain cancer and use of mobile phones, including the recently published data from the INTERPHONE study, ARPANSA :
+concludes that currently available data do not warrant any general recommendation to limit use of mobile phones in the adult population, continues to inform those concerned about potential health effects that they may limit their exposure by reducing call time, by making calls where reception is good, by using hands-free devices or speaker options, or by texting; and recommends that, due to the lack of any data relating to children and long term use of mobile phones, parents encourage their children to limit their exposure by reducing call time, by making calls where reception is good, by using hands-free devices or speaker options, or by texting.
+The Cancer Council Australia said in a statement that it cautiously welcomed the results of the largest international study to date into mobile phone use, which has found no evidence that normal use of mobile phones, for a period up to 12 years, can cause brain cancer.
+Chief Executive Officer, Professor Ian Olver, said findings from the Interphone study, conducted across 13 countries including Australia, were consistent with other research that had failed to find a link between mobile phones and cancer.
+This supports previous research showing mobile phones don't damage cell DNA, meaning they can't cause the type of genetic mutations that develop into cancer," Professor Olver said.
+However, it has been suggested that electromagnetic fields associated with mobile phones may play a role in speeding up the development of an existing cancer. The Interphone study found no evidence to support this theory.
+A Danish study (2004) that took place over 10 years found no evidence to support a link. However, this study has been criticized for collecting data from subscriptions and not necessarily from actual users. It is known that some subscribers do not use the phones themselves but provide them for family members to use. That this happens is supported by the observation that only 61% of a small sample of the subscribers reported use of mobile phones when responding to a questionnaire.
+A Swedish study (2005) that draws the conclusion that "the data do not support the hypothesis that mobile phone use is related to an increased risk of glioma or meningioma."
+A British study (2005) that draws the conclusion that "The study suggests that there is no substantial risk of acoustic neuroma in the first decade after starting mobile phone use. However, an increase in risk after longer term use or after a longer lag period could not be ruled out."
+A German study (2006) that states "In conclusion, no overall increased risk of glioma or meningioma was observed among these cellular phone users; however, for long-term cellular phone users, results need to be confirmed before firm conclusions can be drawn."
+A joint study conducted in northern Europe that draws the conclusion that "Although our results overall do not indicate an increased risk of glioma in relation to mobile phone use, the possible risk in the most heavily exposed part of the brain with long-term use needs to be explored further before firm conclusions can be drawn."
+Other studies on cancer and mobile phones are :
+A Swedish scientific team at the Karolinska Institute conducted an epidemiological study (2004) that suggested that regular use of a mobile phone over a decade or more was associated with an increased risk of acoustic neuroma, a type of benign brain tumor. The increase was not noted in those who had used phones for fewer than 10 years.
+The INTERPHONE study group from Japan published the results of a study of brain tumour risk and mobile phone use. They used a new approach: determining the SAR inside a tumour by calculating the radio frequency field absorption in the exact tumour location. Cases examined included glioma, meninigioma, and pituitary adenoma. They reported that the overall odds ratio (OR) was not increased and that there was no significant trend towards an increasing OR in relation to exposure, as measured by SAR.
+In 2007, Dr. Lennart Hardell, from Orebro University in Sweden, reviewed published epidemiological papers (2 cohort studies and 16 case-control studies) and found that :
+Cell phone users had an increased risk of malignant gliomas.
+Link between cell phone use and a higher rate of acoustic neuromas.
+Tumors are more likely to occur on the side of the head that the cell handset is used.
+One hour of cell phone use per day significantly increases tumor risk after ten years or more.
+In a February 2008 update on the status of the INTERPHONE study IARC stated that the long term findings '…could either be causal or artifactual, related to differential recall between cases and controls.'
+A self-published and non-peer reviewed meta-study by Dr. Vini Khurana, an Australian neurosurgeon, presented what it termed "increasing body of evidence ... for a link between mobile phone usage and certain brain tumors" and that it "is anticipated that this danger has far broader public health ramifications than asbestos and smoking". This was criticised as '... an unbalanced analysis of the literature, which is also selective in support of the author's claims.'
+A publication titled "Public health implications of wireless technologies" cites that Lennart Hardell found age is a significant factor. The report repeated the finding that the use of cell phones before age 20 increased the risk of brain tumors by 5.2, compared to 1.4 for all ages. A review by Hardell et al. concluded that current mobile phones are not safe for long-term exposure.
+In a time trends study in Europe, conducted by the Institute of Cancer Epidemiology in Copenhagen, no significant increase in brain tumors among cell phone users was found between the years of 1998 and 2003. "The lack of a trend change in incidence from 1998 to 2003 suggests that the induction period relating mobile phone use to brain tumors exceeds 5-10 years, the increased risk in this population is too small to be observed, the increased risk is restricted to subgroups of brain tumors or mobile phone users, or there is no increased risk."
+Cognitive effects
+A 2009 study examined the effects of exposure to radiofrequency radiation (RFR) emitted by standard GSM cell phones on the cognitive functions of humans. The study confirmed longer (slower) response times to a spatial working memory task when exposed to RFR from a standard GSM cellular phone placed next to the head of male subjects, and showed that longer duration of exposure to RFR may increase the effects on performance. Right-handed subjects exposed to RFR on the left side of their head on average had significantly longer response times when compared to exposure to the right side and sham-exposure.
+Electromagnetic hypersensitivity
+Some users of mobile handsets have reported feeling several unspecific symptoms during and after its use; ranging from burning and tingling sensations in the skin of the head and extremities, fatigue, sleep disturbances, dizziness, loss of mental attention, reaction times and memory retentiveness, headaches, malaise, tachycardia (heart palpitations), to disturbances of the digestive system. Reports have noted that all of these symptoms can also be attributed to stress and that current research cannot separate the symptoms from nocebo effects.
+Genotoxic effects
+A large early 2009 meta-study of 101 scientific publications on genotoxicity of RF electromagnetic fields shows that 49 report a genotoxic effect and 42 do not. Research published in 2004 by a team at the University of Athens had a reduction in reproductive capacity in fruit flies exposed to 6 minutes of 900 MHz pulsed radiation for five days. Subsequent research, again conducted on fruit flies, was published in 2007, with the same exposure pattern but conducted at both 900 MHz and 1800 MHz, and had similar changes in reproductive capacity with no significant difference between the two frequencies. Following additional tests published in a third article, the authors stated they thought their research suggested the changes were "...due to degeneration of large numbers of egg chambers after DNA fragmentation of their constituent cells ...". Australian research conducted in 2009 by subjecting in vitro samples of human spermatozoa to radio-frequency radiation at 1.8 GHz and specific absorption rates (SAR) of 0.4 to 27.5 W/kg showed a correlation between increasing SAR and decreased motility and vitality in sperm, increased oxidative stress and 8-Oxo-2'-deoxyguanosine markers, stimulating DNA base adduct formation and increased DNA fragmentation.
+In 1995, in the journal Bioelectromagnetics, Henry Lai and Narenda P. Singh reported damaged DNA after two hours of microwave radiation at levels deemed safe according to government standards. Later, in December 2004, a pan-European study named REFLEX (Risk Evaluation of Potential Environmental Hazards from Low Energy Electromagnetic Field (EMF) Exposure Using Sensitive in vitro Methods), involving 12 collaborating laboratories in several countries showed some compelling evidence of DNA damage of cells in in-vitro cultures, when exposed between 0.3 to 2 watts/kg, whole-sample average. There were indications, but not rigorous evidence of other cell changes, including damage to chromosomes, alterations in the activity of certain genes and a boosted rate of cell division. Reviews of in vitro genotoxicity studies have generally concluded that RF is not genotoxic and that studies reporting positive effects had experimental deficiencies.
+Sleep and EEG effects
+Sleep, EEG and waking rCBF have been studied in relation to RF exposure for a decade now, and the majority of papers published to date have found some form of effect. While a Finnish study failed to find any effect on sleep or other cognitive function from pulsed RF exposure, most other papers have found significant effects on sleep. Two of these papers found the effect was only present when the exposure was pulsed (amplitude modulated), and one early paper actually found that sleep quality (measured by the amount of participants' broken sleep) actually improved.
+While some papers were inconclusive or inconsistent, a number of studies have now demonstrated reversible EEG and rCBF alterations from exposure to pulsed RF exposure.German research from 2006 found that statistically significant EEG changes could be consistently found, but only in a relatively low proportion of study participants (12 - 30%).
+Health hazards of base stations
+Another area of concern is the radiation emitted by the fixed infrastructure used in mobile telephony, such as base stations and their antennas, which provide the link to and from mobile phones. This is because, in contrast to mobile handsets, it is emitted continuously and is more powerful at close quarters. On the other hand, field intensities drop rapidly with distance away from the base of the antenna because of the attenuation of power with the square of distance. Base station emissions must comply with safety guidelines (see Safety standards and licensing below). Some countries however (such as South Africa for example) have no health regulations governing the placement of base stations.
+Several surveys have found increases of symptoms depending upon proximity to electromagnetic sources such as mobile phone base stations.
+A 2002 survey study by Santini et al. in France found a variety of self-reported symptoms for people who reported that they were living within 300 metres (984 ft) of GSM cell towers in rural areas, or within 100 m (328 ft) of base stations in urban areas. Fatigue, headache, sleep disruption and loss of memory were among the symptoms reported.
+Similar results have been obtained with GSM cell towers in Spain, Egypt, Poland and Austria. No major studies have been reported in which health effects did not occur on actual populations living near mobile base stations. However, there are significant challenges in conducting studies of populations near base stations, especially in assessment of individual exposure. Self-report studies can also be vulnerable to the nocebo effect.
+A study conducted at the University of Essex and another in Switzerland concluded that mobile phone masts were unlikely to be causing these short term effects in a group of volunteers who complained of such symptoms. The Essex study has been criticised as being skewed due to drop-outs of test subjects, although these criticisms were answered by the authors.
+As technology progresses and data demands have increased on the mobile network, towns and cities have seen the number of towers increase sharply, including 3G towers which work with larger bandwidths.
+Experts consulted by France consider it is mandatory that main antenna axis not to be directly in front of a living place at a distance shorter than 100 meters. This recommendation was modified in 2003 to say that antennas located within a 100-metre radius of primary schools or childcare facilities should be better integrated into the cityscape and was not included in a 2005 expert report.
+Occupational health hazards
+Telecommunication workers who spend time at a short distance from the active equipment, for the purposes of testing, maintenance, installation, etcetera, may be at risk of much greater exposure than the general population. Many times base stations are not turned off during maintenance, but the power being sent through to the antennas is cut off, so that the workers do not have to work near live antennas.
+A variety of studies over the past 50 years have been done on workers exposed to high RF radiation levels; studies including radar laboratory workers, military radar workers, electrical workers, and amateur radio operators. Most of these studies found no increase in cancer rates over the general population or a control group. Many positive results could have been attributed to other work environment conditions, and many negative results of reduced cancer rates also occurred.
+Cell Phone Radiation and Cancer : A Myth or a Threat to Your Health ?
+There are several different types of radiation present in our surroundings on a day to day basis. Electromagnetic energy from cell phones and radio towers are categorized as non-ionizing radiation and are generally thought to be harmless, while iodizing rays from x-rays and nuclear energy have been proven to cause cancer. However, in recent years the sheer number of non-ionizing instruments in our environment has caused some scientists to wonder if the assumption that this type of radiation is truly safe.
+Is Wi-Fi (wireless internet connection) Technology Bad For Your Health ?
+There are several different types of radiation present in our surroundings on a day to day basis. Electromagnetic energy from cell phones and radio towers are categorized as non-ionizing radiation and are generally thought to be harmless, while iodizing rays from x-rays and nuclear energy have been proven to cause cancer. However, in recent years the sheer number of non-ionizing instruments in our environment has caused some scientists to wonder if the assumption that this type of radiation is truly safe.
+Cell Phone Use Linked to Decreased Sperm Count and Quality
+A new study released by the Reproductive Research Centre at the Cleveland Clinic in Ohio suggests an alarming increase in infertility amongst men who frequently use cell phones. In each of the four criteria singled out in the study sperm count, motility, viability and appearance those who used cell phones more than four hours per day fared the worst in each category. The study, led by Professor Ashok Agarwal, divided over 360 men into three categories: those who never used a cell phone, those who used a cell phone less than two hours per day and the final group of men, who used their cell phones at least four hours each day.
+Protect Yourself from Cell Phone Radiation
+"The voluntary exposure of the brain to microwaves from hand-held mobile phones... [is] the largest human biological experiment ever." - Professor Leif Salford, Head of Research at Lund University, Sweden Exposure to radiation from cell phones is a growing concern, not only in the United States, but around the world. As more and more studies point towards a link between cell phone radiation and headaches, certain types of cancer and even lowered sperm count, consumers are searching for ways to protect themselves from this potential threat.
+Welcome! If you're concerned about the effects of Cell phone Radiation on your health, you may want to check this out...
+Patented Cell Phone Radiation Shield Technology was Put to the Test To See If It Can Neutralize the Harmful Effects of Electromagnetic Radiation from Cell Phones--
+Here are the Results--
+The above test results show that the installation of the proprietary patented MRET-Shield technology on the cell phone protects living cells of plant seeds against harmful, suppressive effects of electromagnetic radiation (EMR).
+Here are a few more tests, this time on humans. Notice how the MRET-shield technology is able to provide cell phone EMF protection and reverse the radiation exposure effects in each case...
+EEG Brainwave Test :
+HOME ABOUT US PRODUCTS CONTACTS RADIATION VIDEOS CERTIFICATES DOWNLOADS
+Copyright © 2010-2019 by Maa Adishakti Multi Trade Enterprisers. All rights reserved.
+design and developed by : ROXunlimited

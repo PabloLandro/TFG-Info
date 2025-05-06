@@ -1,0 +1,338 @@
+Cell Phones
+PROS & CONS OF CURRENT ISSUES.
+RELIABLE. NONPARTISAN. EMPOWERING.
+Menu Toggle navigation
+HOME
+CELL PHONES - MENU
+CELL PHONES - HOME
+GET STARTED
+History of Cell Phone Radiation Top Pro & Con Arguments Top Pro & Con Quotes
+RECOMMENDED
+Did You Know? Readers' Comments Video Highest and Lowest Radiation Cell Phones INTERPHONE Study Concludes Cell Phones Might or Might Not Cause Cancer
+DIG DEEPER
+Source Biographies Footnotes & Sources
+ISSUES WE COVER
+MOST POPULAR
+Medical Marijuana
+Gun Control
+Animal Testing
+Death Penalty
+Recreational Marijuana
+School Uniforms
+OTC Birth Control
+Social Media
+Vaping E-Cigarettes
+Illegal Immigration
+HEALTH & MEDICINE
+Medical Marijuana
+Euthanasia & Assisted Suicide
+Vaping E-Cigarettes
+Vaccines for Kids
+Milk - Is It Healthy?
+OTC Birth Control
+Abortion
+Vegetarianism
+Obesity a Disease?
+Obamacare
+Right to Health Care
+Prescription Drug Ads
+EDUCATION
+School Uniforms
+Standardized Tests
+Tablets vs. Textbooks
+College Education Worth It?
+Teacher Tenure
+Student Loan Debt
+School Vouchers
+Corporal Punishment
+Banned Books
+Homework
+POLITICS
+Death Penalty
+Drinking Age - Lower It?
+Illegal Immigration
+Gun Control
+Recreational Marijuana
+ACLU - Good for America?
+Concealed Handguns
+Sanctuary Cities
+Under God in the Pledge
+SCIENCE & TECHNOLOGY
+Animal Testing
+Cell Phones Radiation
+Alternative Energy vs. Fossil Fuels
+Climate Change
+Net Nautrality
+Police Body Cameras
+Bottled Water Ban
+ELECTIONS & PRESIDENTS
+Felon Voting
+Ronald Reagan
+Bill Clinton
+Voting Machines
+2016 Presidential Election
+Electoral College
+Lowering the Voting Age to 16
+WORLD / INTERNATIONAL
+Israeli-Palestinian Conflict
+Cuba Embargo
+Drone Strikes Overseas
+SEX & GENDER
+Gay Marriage
+Prostitution - Legalize It?
+Born Gay? Origins of Sexual Orientation
+ENTERTAINMENT & SPORTS
+Social Media
+Video Games and Violence
+Drug Use in Sports
+Binge-Watching
+Golf - Is It a Sport?
+Olympics
+National Anthem Protest
+Fighting in Hockey
+ECONOMY & TAXES
+Minimum Wage
+Gold Standard
+Corporate Tax Rate & Jobs
+Churches and Taxes
+Uber & Lyft
+Social Security Privatization
+Daylight Savings Time
+Universal Basic Income
+Penny - Keep It?
+YOU MAY ALSO LIKE
+Watch Our Videos
+Teachers' Corner
+Readers' Comments
+Who Uses ProCon.org?
+Weekly Tidbits
+Archived Topics
+Testimonials
+Donors & Sponsors
+GET INVOLVED
+ProCon.org Events
+Suggest a Topic
+Cite This Page
+Share on Social Media
+Volunteers / Interns
+Join
+ABOUT US
+ABOUT US
+HOW WE WORK
+WATCH OUR VIDEOS
+FAQS
+METRICS
+EVENTS
+TRAFFIC
+TESTIMONIALS
+JOIN
+DONORS & SPONSORS
+CONTACT US
+TEACHERS' CORNER
+HOME
+|
+FAQS
+|
+METRICS
+|
+TRAFFIC
+|
+TESTIMONIALS
+|
+DONORS & SPONSORS
+|
+CONTACT US
+MORE
+ISSUES
+ABOUT
+US
+JOIN
+WATCH
+OUR VIDEOS
+TEACHERS'
+CORNER
+// jQuery-menu-aim: the following JS is used to show and hide the submenu // contents. Again, this can be done in any number of ways. jQuery-menu-aim // doesn't care how you do this, it just fires the activate and deactivate // events at the right times so you know when to show and hide your submenus. function activateSubmenu(row) { var $row = $(row), submenuId = $row.data("submenuId"), $submenu = $("#" + submenuId), height = $menu.outerHeight(), width = $menu.outerWidth(); // Show the submenu $submenu.css({ display: "block", top: 0, left: width - 3, // main should overlay submenu height: height - 4 // padding for main dropdown2's arrow }); // Keep the currently activated row's highlighted look $row.find("a").addClass("maintainHover"); } function deactivateSubmenu(row) { var $row = $(row), submenuId = $row.data("submenuId"), $submenu = $("#" + submenuId); // Hide the submenu and remove the row's highlighted look $submenu.css("display", "none"); $row.find("a").removeClass("maintainHover"); } // Bootstrap's dropdown2 menus immediately close on document click. // Don't let this event close the menu if a submenu is being clicked. // This event propagation control doesn't belong in the menu-aim plugin // itself because the plugin is agnostic to bootstrap. $(".dropdown2-menu li").click(function(e) { e.stopPropagation(); }); $(document).click(function() { // Simply hide the submenu on any click. Again, this is just a hacked // together menu/submenu structure to show the use of jQuery-menu-aim. $(".popover2").css("display", "none"); $("a.maintainHover").removeClass("maintainHover"); });
+CELL PHONES
+Is Cell Phone Radiation Safe?
+The radiation emitted by cell phones, known as radiofrequency (RF) radiation, is regulated by the Federal Communications Commission (FCC). Hundreds of millions of Americans use cell phones and many of them wonder if there are any health risks.
+People who say cell phones are safe reference statements by the FCC and Food and Drug Administration (FDA) and point to peer-reviewed studies which conclude that cell phone use is not associated with an increased risk of brain tumors or the onset of other health problems. They contend there has been no increase in brain tumor rates despite hundreds of millions of people now using cell phones.
+People who say cell phones are not safe cite peer-reviewed studies showing an association between cell phone use and tumor growth, DNA damage, and decreased fertility. They say cancers take 20-30 years to develop and cell phone studies have monitored periods of 10 years or less. They highlight the International Agency for Research on Cancer’s classification of cell phone radiation as a possible carcinogen. Read more background...
+Top Pro & Con Arguments
+Numerous peer-reviewed studies have found that cell phone use is not associated with an increased risk of brain tumors. An Oct. 20, 2011 study of 358,403 Danish citizens – the largest study of its kind to date – concluded that "there was no association between tumors of the central nervous system or brain and long term (10 years +) use of mobile phones." [39] A July 27, 2011 study found that there was no association between cell phone use and brain tumor risks among children and adolescents. [50] Numerous other studies published from 2001-2013 have similarly concluded that there is no association between cell phone use and the development of brain tumors. [1] [41] [42] [45] [46] [49]
+Radiofrequency radiation from cell phones is non-ionizing and is not powerful enough to cause cancer. Ionizing radiation, including x-rays and ultraviolet light, produces molecules called ions that have either too many or too few electrons. Ions are known to damage DNA and cause cancer. Cell phone radiation, like radio, TV, and visible light radiation, is non-ionizing and lacks sufficient energy to add or remove electrons from molecules, and therefore it cannot ionize and cause cancer. [2] According to the authors of a 2005 peer-reviewed study of 3.7 million Swedish residents, a "biologic mechanism that could explain any possible carcinogenic effect from radiofrequency radiation has not been identified." [42]
+Cell phone radiation levels are tested and certified to remain within levels deemed safe by the Federal Communications Commission (FCC). The FCC sets the maximum amount of thermal radiation (heat) that cell phones are permitted to emit. [3] This limit is measured as the amount of radiation absorbed by a user and is known as the specific absorption rate (SAR). In 1996 the SAR for cell phone radiation was set at a maximum of 1.6 watts of energy absorbed per kilogram of body weight. Manufactures of cell phones must test their products to ensure that they meet this standard. Random tests of phones on the market by FCC scientists further ensure that radiation levels meet FCC guidelines. [48]
+Studies have shown an association between cell phone use and a decreased risk of certain brain tumors. According to a peer-reviewed Dec. 2006 study of 420,095 cell phone users in Denmark, the results showed a "reduced brain tumor risk" among long-term subscribers. [1] Two other peer-reviewed studies also found that cell phone users had a slightly decreased risk of developing brain tumors. A July 20, 2005 Danish study [41] found a "decreased risk for high-grade glioma," a malignant brain tumor, and a 2005 Swedish study [42] also found a "decreased odds ratio" for developing glioma as well as meningioma, another type of brain tumor.
+US government agencies conclude there is no scientific evidence proving that cell phones cause cancer or other health problems. The Federal Communications Commission (FCC), [4] US Government Accountability Office (GAO), [5] and the US Food and Drug Administration (FDA), [47] have all concluded that there is no evidence in the scientific literature proving that cell phones cause brain tumors or other health problems. According to the FDA, "attempts to replicate and confirm the few studies that did show a connection [between cell phone radiation and head tumors] have failed." [69]
+There has been no rise in the rate of brain cancers despite a massive increase in the use of cell phones. If cell phones were causing cancer we could expect a significant rise in the rate of brain and other related cancers. According to the National Cancer Institute, there was no increase in the incidence of brain or other nervous system cancers between the years 1987 and 2005 despite the fact that cell phone use dramatically increased during those same years. [6] Between 2004 and 2010 there was still no significant change in the incidence rate of brain tumors. Between 2004 and 2010 there was a slight increase from 209 cases to 221.8 cases per 100,000 people, but this slight increase was attributed to better tracking and recording of cases. [43] During the same time period, cell phone use increased 62.7% from 182,140,362 subscribers in 2004 to 296,285,629 in 2010. [44]
+Like cell phones, other devices including radios, televisions, cordless phones, and pagers all safely transmit signals using RF radiation. Radio has used RF radiation since at least 1893 [77] and television has used it since at least 1939. [78] The safe, long-term use of those RF-using devices helps prove that cell phones are also safe.
+Numerous peer-reviewed studies have shown an association between cell phone use and the development of brain tumors. According to a Mar. 2008 meta-analysis of cell phone studies there is a "consistent pattern" connecting cell phone use and an increased risk of developing glioma, a type of brain tumor. [12] A Mar. 31, 2009 study found that long term cell phone use (10 years +) "approximately doubles the risk" of being diagnosed with glioma on the same side of the head where the cell phone is held. [51] In Apr. 2013 another study of Swedish cell phone users also found an association between cell phone use and the development of glioma and acoustic neuroma - a benign tumor formation on the nerve near the ear. [52] That study’s conclusions were confirmed by a different study in Apr. 2014. [84] Other studies published from 2005-2013 have similarly concluded that there is an association between cell phone use and increased risk of developing brain and head tumors. [13] [53] [54] [55]
+The International Agency for Research on Cancer (IARC) has classified cell phone radiation as a possible carcinogen. On May 31, 2011, the International Agency for Research on Cancer (IARC) of the World Health Organization (WHO) issued a press release announcing it had added cell phone radiation to its list of physical agents that are "possibly carcinogenic to humans" (group 2B agents). [38] The classification was made after a working group of 31 scientists completed a review of previously published studies and found "limited evidence of carcinogenicity" from the radiofrequency electromagnetic fields emitted by wireless phones, radio, television, and radar. [37]
+Due to the relatively recent adoption of cell phones, the long-term safety of the technology cannot be determined conclusively and caution is warranted. Research on glioma brain tumors shows the average latency period is 20-30 years. [56] Although cell phones were introduced in 1983, it was not until 2003 that over 50% of the US population had a wireless subscription, so the 20 year mark for mass cell phone use has not yet been reached. [44] [71] The May 17, 2010 INTERPHONE study, the largest study ever to examine possible links between cell phones and brain tumors, concluded that overall there was "no increase in risk" for glioma or meningioma brain tumors, [57] but the average user in the study had less than eight years of cell phone exposure. [56] In his review of the INTERPHONE study results, Dr. Rodolfo Saracci stated that "none of today’s established carcinogens, including tobacco, could have been firmly identified as increasing risk in the first 10 years or so since first exposure." [58]
+Cell phones emit radiofrequency (RF) radiation, and RF radiation has been shown to damage DNA and cause cancer in laboratory animals. A peer-reviewed Jan. 2012 study in the Journal of Neuro-Oncology concluded that RF radiation "may damage DNA and change gene expression in brain cells" in mice. [61] An Aug. 2009 meta-study found that RF radiation "can alter the genetic material of exposed cells." [62] A 2004 European Union-funded study also found that cell phone radiation can damage genes. [63] On May 26, 2016, the US National Toxicology Program (NTP) released the first results of its study on cell phone radiation, finding an increased incidence of malignant tumors of the brain (gliomas) and heart tumors (schwannomas) in rats exposed to RF radiation. [85] The NTP researchers also found DNA damage in the rats exposed to the highest levels of RF radiation. [86] On Nov. 1, 2018, the NTP released its final peer-reviewed report, concluding that there is "clear evidence of carcinogenic activity” in male rats exposed to RF radiation. [87]
+Children may have an increased risk of adverse health effects from cell phone radiation. According to American Academy of Pediatrics President Dr. Robert Block, when cell phones are used by children, "the average RF energy deposition is two times higher in the brain and 10 times higher in the bone marrow of the skull," than for adults. [68] A July 2008 peer-reviewed study shows that children under the age of eight absorb twice the amount of radiation into their brain tissue as adults due to their lower skull thickness. [17]
+Radiation from cell phones can damage sperm. Cell phone storage in front pockets has been linked to poor fertility and higher chances of miscarriage and childhood cancer. [18] According to the Cleveland Clinic Center for Reproductive Medicine, semen quality "tended to decline as daily cell phone use increased." [19] According to a May-June 2012 meta-study in the Journal of Andrology, "men using mobile phones have decreased sperm concentration" in addition to "decreased viability" of their sperm. [64]
+Prenatal exposure to radiation from cell phones may increase the risk of ADHD and other behavior problems in children. According to a peer-reviewed Nov. 2008 study in the journal Epidemiology, exposure to cell phone radiation while in the womb "was associated with behavior difficulties such as emotional and hyperactivity problems around the age of school entry." [65] A Dec. 2010 study replicated those findings. [67] A peer-reviewed Mar. 15, 2012 study found that mice exposed to cell phone radiation in the womb "were hyperactive and had impaired memory" as adults. [66]
+Cell phone radiation may disrupt the functioning of pacemakers. A 2005 study in the International Journal of Cardiology found that mobile phones may have "adverse effects" on pacemaker functions under certain conditions. [59] According to the US Food and Drug Administration (FDA), radiofrequency energy from cell phones can create electromagnetic interference (EMI) that may disrupt the functioning of pacemakers, especially if the cell phone is placed close to the heart. [21] The American Heart Association includes cell phones on its list of "devices that may interfere with pacemakers." [60]
+Top Pro & Con Arguments
+Pro
+1
+Numerous peer-reviewed studies have found that cell phone use is not associated with an increased risk of brain tumors. An Oct. 20, 2011 study of... Read More
+Pro
+1
+Numerous peer-reviewed studies have found that cell phone use is not associated with an increased risk of brain tumors.
+An Oct. 20, 2011 study of 358,403 Danish citizens – the largest study of its kind to date – concluded that "there was no association between tumors of the central nervous system or brain and long term (10 years +) use of mobile phones." [39] A July 27, 2011 study found that there was no association between cell phone use and brain tumor risks among children and adolescents. [50] Numerous other studies published from 2001-2013 have similarly concluded that there is no association between cell phone use and the development of brain tumors. [1] [41] [42] [45] [46] [49]
+Pro
+2
+Radiofrequency radiation from cell phones is non-ionizing and is not powerful enough to cause cancer. Ionizing radiation, including x-rays… Read More
+Pro
+2
+Radiofrequency radiation from cell phones is non-ionizing and is not powerful enough to cause cancer.
+Ionizing radiation, including x-rays and ultraviolet light, produces molecules called ions that have either too many or too few electrons. Ions are known to damage DNA and cause cancer. Cell phone radiation, like radio, TV, and visible light radiation, is non-ionizing and lacks sufficient energy to add or remove electrons from molecules, and therefore it cannot ionize and cause cancer. [2] According to the authors of a 2005 peer-reviewed study of 3.7 million Swedish residents, a "biologic mechanism that could explain any possible carcinogenic effect from radiofrequency radiation has not been identified." [42]
+Pro
+3
+Cell phone radiation levels are tested and certified to remain within levels deemed safe by the Federal Communications Commission (FCC)… Read More
+Pro
+3
+Cell phone radiation levels are tested and certified to remain within levels deemed safe by the Federal Communications Commission (FCC).
+The FCC sets the maximum amount of thermal radiation (heat) that cell phones are permitted to emit. [3] This limit is measured as the amount of radiation absorbed by a user and is known as the specific absorption rate (SAR). In 1996 the SAR for cell phone radiation was set at a maximum of 1.6 watts of energy absorbed per kilogram of body weight. Manufactures of cell phones must test their products to ensure that they meet this standard. Random tests of phones on the market by FCC scientists further ensure that radiation levels meet FCC guidelines. [48]
+Pro
+4
+Studies have shown an association between cell phone use and a decreased risk of certain brain tumors. According to a peer-reviewed Dec. 2006… Read More
+Pro
+4
+Studies have shown an association between cell phone use and a decreased risk of certain brain tumors.
+According to a peer-reviewed Dec. 2006 study of 420,095 cell phone users in Denmark, the results showed a "reduced brain tumor risk" among long-term subscribers. [1] Two other peer-reviewed studies also found that cell phone users had a slightly decreased risk of developing brain tumors. A July 20, 2005 Danish study [41] found a "decreased risk for high-grade glioma," a malignant brain tumor, and a 2005 Swedish study [42] also found a "decreased odds ratio" for developing glioma as well as meningioma, another type of brain tumor.
+Pro
+5
+US government agencies conclude there is no scientific evidence proving that cell phones cause cancer or other health problems. The Federal… Read More
+Pro
+5
+US government agencies conclude there is no scientific evidence proving that cell phones cause cancer or other health problems.
+The Federal Communications Commission (FCC), [4] US Government Accountability Office (GAO), [5] and the US Food and Drug Administration (FDA), [47] have all concluded that there is no evidence in the scientific literature proving that cell phones cause brain tumors or other health problems. According to the FDA, "attempts to replicate and confirm the few studies that did show a connection [between cell phone radiation and head tumors] have failed." [69]
+Pro
+6
+There has been no rise in the rate of brain cancers despite a massive increase in the use of cell phones. If cell phones were causing cancer we could… Read More
+Pro
+6
+There has been no rise in the rate of brain cancers despite a massive increase in the use of cell phones.
+If cell phones were causing cancer we could expect a significant rise in the rate of brain and other related cancers. According to the National Cancer Institute, there was no increase in the incidence of brain or other nervous system cancers between the years 1987 and 2005 despite the fact that cell phone use dramatically increased during those same years. [6] Between 2004 and 2010 there was still no significant change in the incidence rate of brain tumors. Between 2004 and 2010 there was a slight increase from 209 cases to 221.8 cases per 100,000 people, but this slight increase was attributed to better tracking and recording of cases. [43] During the same time period, cell phone use increased 62.7% from 182,140,362 subscribers in 2004 to 296,285,629 in 2010. [44]
+Pro
+7
+Like cell phones, other devices including radios, televisions, cordless phones, and pagers all safely transmit signals using RF radiation... Read More
+Pro
+7
+Like cell phones, other devices including radios, televisions, cordless phones, and pagers all safely transmit signals using RF radiation.
+Radio has used RF radiation since at least 1893 [77] and television has used it since at least 1939. [78] The safe, long-term use of those RF-using devices helps prove that cell phones are also safe.
+Con
+1
+Numerous peer-reviewed studies have shown an association between cell phone use and the development of brain tumors. According to a Mar. 2008… Read More
+Con
+1
+Numerous peer-reviewed studies have shown an association between cell phone use and the development of brain tumors.
+According to a Mar. 2008 meta-analysis of cell phone studies there is a "consistent pattern" connecting cell phone use and an increased risk of developing glioma, a type of brain tumor. [12] A Mar. 31, 2009 study found that long term cell phone use (10 years +) "approximately doubles the risk" of being diagnosed with glioma on the same side of the head where the cell phone is held. [51] In Apr. 2013 another study of Swedish cell phone users also found an association between cell phone use and the development of glioma and acoustic neuroma - a benign tumor formation on the nerve near the ear. [52] That study’s conclusions were confirmed by a different study in Apr. 2014. [84] Other studies published from 2005-2013 have similarly concluded that there is an association between cell phone use and increased risk of developing brain and head tumors. [13] [53] [54] [55]
+Con
+2
+The International Agency for Research on Cancer (IARC) has classified cell phone radiation as a possible carcinogen. On May 31, 2011, the… Read More
+Con
+2
+The International Agency for Research on Cancer (IARC) has classified cell phone radiation as a possible carcinogen.
+On May 31, 2011, the International Agency for Research on Cancer (IARC) of the World Health Organization (WHO) issued a press release announcing it had added cell phone radiation to its list of physical agents that are "possibly carcinogenic to humans" (group 2B agents). [38] The classification was made after a working group of 31 scientists completed a review of previously published studies and found "limited evidence of carcinogenicity" from the radiofrequency electromagnetic fields emitted by wireless phones, radio, television, and radar. [37]
+Con
+3
+Due to the relatively recent adoption of cell phones, the long-term safety of the technology cannot be determined conclusively and caution is… Read More
+Con
+3
+Due to the relatively recent adoption of cell phones, the long-term safety of the technology cannot be determined conclusively and caution is warranted.
+Research on glioma brain tumors shows the average latency period is 20-30 years. [56] Although cell phones were introduced in 1983, it was not until 2003 that over 50% of the US population had a wireless subscription, so the 20 year mark for mass cell phone use has not yet been reached. [44] [71] The May 17, 2010 INTERPHONE study, the largest study ever to examine possible links between cell phones and brain tumors, concluded that overall there was "no increase in risk" for glioma or meningioma brain tumors, [57] but the average user in the study had less than eight years of cell phone exposure. [56] In his review of the INTERPHONE study results, Dr. Rodolfo Saracci stated that "none of today’s established carcinogens, including tobacco, could have been firmly identified as increasing risk in the first 10 years or so since first exposure." [58]
+Con
+4
+Cell phones emit radiofrequency (RF) radiation, and RF radiation has been shown to damage DNA and cause cancer in laboratory animals. A peer... Read More
+Con
+4
+Cell phones emit radiofrequency (RF) radiation, and RF radiation has been shown to damage DNA and cause cancer in laboratory animals.
+A peer-reviewed Jan. 2012 study in the Journal of Neuro-Oncology concluded that RF radiation "may damage DNA and change gene expression in brain cells" in mice. [61] An Aug. 2009 meta-study found that RF radiation "can alter the genetic material of exposed cells." [62] A 2004 European Union-funded study also found that cell phone radiation can damage genes. [63] On May 26, 2016, the US National Toxicology Program (NTP) released the first results of its study on cell phone radiation, finding an increased incidence of malignant tumors of the brain (gliomas) and heart tumors (schwannomas) in rats exposed to RF radiation. [85] The NTP researchers also found DNA damage in the rats exposed to the highest levels of RF radiation. [86] On Nov. 1, 2018, the NTP released its final peer-reviewed report, concluding that there is "clear evidence of carcinogenic activity” in male rats exposed to RF radiation. [87]
+Con
+5
+Children may have an increased risk of adverse health effects from cell phone radiation. According to American Academy of Pediatrics President… Read More
+Con
+5
+Children may have an increased risk of adverse health effects from cell phone radiation.
+According to American Academy of Pediatrics President Dr. Robert Block, when cell phones are used by children, "the average RF energy deposition is two times higher in the brain and 10 times higher in the bone marrow of the skull," than for adults. [68] A July 2008 peer-reviewed study shows that children under the age of eight absorb twice the amount of radiation into their brain tissue as adults due to their lower skull thickness. [17]
+Con
+6
+Radiation from cell phones can damage sperm. Cell phone storage in front pockets has been linked to poor fertility and higher chances of… Read More
+Con
+6
+Radiation from cell phones can damage sperm.
+Cell phone storage in front pockets has been linked to poor fertility and higher chances of miscarriage and childhood cancer. [18] According to the Cleveland Clinic Center for Reproductive Medicine, semen quality "tended to decline as daily cell phone use increased." [19] According to a May-June 2012 meta-study in the Journal of Andrology, "men using mobile phones have decreased sperm concentration" in addition to "decreased viability" of their sperm. [64]
+Con
+7
+Prenatal exposure to radiation from cell phones may increase the risk of ADHD and other behavior problems in children. According to a peer… Read More
+Con
+7
+Prenatal exposure to radiation from cell phones may increase the risk of ADHD and other behavior problems in children.
+According to a peer-reviewed Nov. 2008 study in the journal Epidemiology, exposure to cell phone radiation while in the womb "was associated with behavior difficulties such as emotional and hyperactivity problems around the age of school entry." [65] A Dec. 2010 study replicated those findings. [67] A peer-reviewed Mar. 15, 2012 study found that mice exposed to cell phone radiation in the womb "were hyperactive and had impaired memory" as adults. [66]
+Con
+8
+Cell phone radiation may disrupt the functioning of pacemakers. A 2005 study in the International Journal of Cardiology found that mobile…Read More
+Con
+8
+Cell phone radiation may disrupt the functioning of pacemakers.
+A 2005 study in the International Journal of Cardiology found that mobile phones may have "adverse effects" on pacemaker functions under certain conditions. [59] According to the US Food and Drug Administration (FDA), radiofrequency energy from cell phones can create electromagnetic interference (EMI) that may disrupt the functioning of pacemakers, especially if the cell phone is placed close to the heart. [21] The American Heart Association includes cell phones on its list of "devices that may interfere with pacemakers." [60]
+Did You Know?
+Cordless home phones, television, radio, laptops, and tablet computers all produce radiofrequency (RF) radiation, the same type of radiation that is produced by cell phones.
+The radiation emitted by a cell phone can penetrate 4 - 6 cm (1.6 - 2.4 in) into an adult human brain. The amount of RF absorbed into the head can be reduced by using a wired ear-piece (not a Bluetooth) rather than placing the phone against the ear. [1]
+The Director of the University of Pittsburgh Cancer Institute issued a warning [25] to faculty and staff on July 24, 2008 to decrease cell phone exposure due to a possible connection between cell phone radiation and brain tumors. His warning prompted a congressional hearing on cell phone use and tumors. [26]
+The International Agency for Research on Cancer (IARC) of the World Health Organization (WHO) announced on May 31, 2011 that it had added cell phone radiation to its list of physical agents which are "possibly carcinogenic to humans" (group 2B agents). Other group 2B agents include coffee, DDT, pickled vegetables, and lead. [37]
+On Oct. 20, 2011 the British Medical Journal published a study of 358,403 Danish citizens – the largest study of its kind to date – which concluded that "there was no association between tumors of the central nervous system or brain and long term (10 years +) use of mobile phones." [39]
+People who view this page may also like:
+20 Highest and Lowest Radiation Cell Phones
+Are Social Networking Sites Good for Our Society?
+Can Alternative Energy Effectively Replace Fossil Fuels?
+Our Latest Updates (archived after 30 days)
+Archived Notices (archived after 30 days) Last updated on 11/16/2018 1:45:47 PM PST
+Cell Phones Homepage
+History of Cell Phone Radiation
+Top Pro & Con Arguments
+Top Pro & Con Quotes
+RECOMMENDED to you...
+1
+Did You Know?
+2
+Readers' Comments
+3
+Video
+4
+Highest and Lowest Radiation Cell Phones
+5
+INTERPHONE Study Concludes Cell Phones Might or Might Not Cause Cancer
++ DIG DEEPER...
+Source Biographies
+Footnotes & Sources
+CITE THIS PAGE
+Who is the author?
+SHARE
+HOME
+CITE THIS PAGE
+REPRINTING POLICY
+PRIVACY POLICY
+DISCLAIMER
+READER FAVORITES
+State Laws
+Debate Topics
+Critical Thinking Quotes
+Teaching Controversial Issues
+History Of...
+TRANSLATE
+into 100+ Languages and Dialects
+LET'S GET SOCIAL!
+Tweets by @procon_org
+BECOME A MEMBER
+ProCon.org is a 501(c)(3) nonprofit
+public charity supported by your donations.
+233 Wilshire Blvd., Suite 200
+Santa Monica, CA 90401
+310-451-9596
+[email protected]
+© 2019 ProCon.org
+All rights reserved

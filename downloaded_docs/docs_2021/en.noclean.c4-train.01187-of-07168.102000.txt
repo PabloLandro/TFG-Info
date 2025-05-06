@@ -1,0 +1,76 @@
+Fermented Ingredients - Pond Naturals
+Home
+Ingredients
+Fermented Ingredients
+Microalgae
+Organic Fruit & Veggie Powders
+Contact
+Select Page
+Fermented Ingredients
+Fermented Ingredients
+Browse Fermented Ingredients
+Black Cumin
+Ginger
+Red Beet
+Turmeric
+Fermented Ingredients
+Used throughout history by cultures all the over the world, fermentation is a natural and age-old method for preserving food and bringing out flavour. But the benefits of fermenting go beyond the practical. Fermentation can make foods more digestible and nutritious, unlocking powerful health results such as:
+Digestion and pre-digestion of complex foods
+Antioxidant bio-availability
+Mineral bio-accessibility
+Probiotics and good bacteria
+Alkalizing the body’s pH level
+Decreasing phytic acid and lectins
+Increased lysine in grains
+Catalyzing metabolites
+Chlorella, Black Garlic, Apple Cider Vinegar, Ginger, and Cumin – these are just some of the fermented ingredients that can add balance to your daily diet. From homemade kimchi to turmeric smoothies, this group will not only inject lively flavour to your meals but help build a strong foundation of gut-health, better digestion, and overall nutritional wellness.
+The market for fermented ingredients is predicted to continue to grow at a strong and steady rate, with commercial interest and public awareness increasing across many sectors. The Korean stock market even has a ‘’Kimchi Index‘ that tracks the pricing of raw ingredients for this fermented staple.
+Browse Pond Naturals’ growing list of fermented ingredients below.
+Black Cumin
+Black cumin (Nigella sativa), an herb native to the Middle East and South-Asia, has long been used in traditional nutrition and medicinal applications. A staple in herbal healing practices like Ayurveda, this super-supplement was even found buried in King Tut’s tomb!
+Black cumin has been thoroughly studied for its many nutritional and therapeutic benefits. Shown to have powerful antioxidant and anti-inflammatory properties, black cumin has been linked to positive results in anti-radical and anti-microbial treatments, as well as diabetes prevention and mediation.
+Full of saponins, alkaloids, and good fatty acids like linoleic acid and oleic acid. This potent bioactive seed will be a welcome addition to your daily diet.
+Healthy, Ingredients, Pond Naturals, cumin, fermented
+Let us help you explore how Black Cumin can benefit your product line or formulation
+Contact Us
+Ginger
+Ginger, or ginger root, has a long history of both delicious gastronomical ingredient and dynamic health supplement.
+Gingerol, the main bioactive compound in ginger and responsible for much of its medicinal properties, has many useful health benefits:
+A powerful anti-inflammatory that helps reduce pain from inflammation-related conditions like osteoarthritis.
+Helps mitigate various forms of nausea, with particularly good results against morning sickness.
+Reduce muscle and menstrual pain.
+Helps digestion.
+May aid in lowering cholesterol.
+Thanks to its wonderful aroma and distinct flavour, ginger is an easy addition to your daily diet, from gourmet recipes to daily smoothies.
+Anti-inflammatory, Cholesterol, Digestion, Menstrual pain, Morning sickness, Nausea, Osteoarthritis
+Let us help you explore how Ginger can benefit your product line or formulation
+Contact Us
+Red Beet
+Red Beets, the colourful vegetable that adds some sweetness to your salads also happens to be chock-full of nutrients and other health benefits. Red beets have been shown to:
+Lower blood pressure substantially in short periods of time, mostly due to their naturally-occurring nitrates and nitric oxide.
+Improve athletic performance and efficiency of mitochondria (energy production in cells).
+A great source of fibre; one cup of beetroot contains 3.4 grams of fiber.
+Increase blood flow to frontal lobe of the brain, improving oxygen supply and brain functions.
+Fermented beets also deliver all the health benefits of raw beets while also catalyzing bioavailability through fermentation, adding additional good bacteria and enzymes.
+From beetroot extract to red beet sauerkraut, this vegetable is an important and delicious part of a healthy diet.
+Brain health, Healthy, Ingredients, Pond Naturals, fiber, lower blood pressure
+Let us help you explore how Red Beet can benefit your product line or formulation
+Contact Us
+Turmeric
+Turmeric. The spice that gives curry its yellow color, has been used in India as a spice and medicinal herb for millenia.
+The active ingredients in tumeric are curcuminoids, with curcumin being the most potent. Studies show that these powerful compounds give tumeric an impressive array of health benefits:
+Potent anti-inflammatory properties, matching the effects of some anti-inflammatory drugs.
+Strong antioxidant properties that both directly block oxidants and stimulate your body’s own antioxidant defenses.
+Linked to positive results in cardiovascular health.
+Helps battle degenerative and age-related brain conditions.
+Reduces the effects of chronic stress.
+This tasty kitchen spice and powerful health ally is becoming well-known as a super-supplement – add it to your diet and recipes and reap the rewards.
+Anti-inflammatory, antioxidant, brain conditions, cardiovascular health, chronic stress, matching the effects, super-supplement
+Let us help you explore how Turmeric can benefit your product line or formulation
+Contact Us
+Copyright Pond Technologies © 2019 | Designed by The Ultimate Creative
+<# if ( data.meta.album ) { #>{{ data.meta.album }}<# } #> <# if ( data.meta.artist ) { #>{{ data.meta.artist }}<# } #>
+<# if ( data.artists && data.meta.artist ) { #> — {{ data.meta.artist }} <# } #> <# } #> <# if ( data.meta.length_formatted ) { #>
+{{ data.meta.length_formatted }}
+<# } #>
+/* ----------------------------------------- */ /* Content Template: Loop item in Ingredient Sidebar Listing - start */ /* ----------------------------------------- */ h5 a{ font-weight: 400; color: #ffffff; } /* ----------------------------------------- */ /* Content Template: Loop item in Ingredient Sidebar Listing - end */ /* ----------------------------------------- */ /* ----------------------------------------- */ /* Content Template: Loop item in Fermented Ingredient Listing - start */ /* ----------------------------------------- */ .et-db #et-boc .et_pb_promo_description { padding-bottom: 10px; } @media only screen and (max-width: 600px) { .et-db #et-boc .et_pb_row.et_pb_row_fullwidth { width: 100% !important; } } /* ----------------------------------------- */ /* Content Template: Loop item in Fermented Ingredient Listing - end */ /* ----------------------------------------- */

@@ -1,0 +1,208 @@
+A Quick Look at Some Drugs Banned by NAFDAC in Nigeria (Issue 3) – Nigerian Law Intellectual Property Watch Inc. \n
+\n keyCode: " + event.keyCode + "\n
+\n shiftKey: " + event.shiftKey + "\n
+\n altKey: " + event.altKey + "\n
+\n ctrlKey: " + event.ctrlKey + "\n
+\n metaKey: " + event.metaKey + "\n "; if(event.shiftKey){ event = event || window.event; if (event.stopPropagation) event.stopPropagation(); event.cancelBubble = true; return false; //show_wccp_pro_message('fdgs'); } }); // This because search property "includes" does not supported by IE if (!String.prototype.includes) { String.prototype.includes = function(search, start) { if (typeof start !== 'number') { start = 0; } if (start + search.length > this.length) { return false; } else { return this.indexOf(search, start) !== -1; } }; } ////////////// function disable_copy(e) { var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement var target = e.target || e.srcElement; if (apply_class_exclusion(e) == "Yes") return true; //For contenteditable tags var iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string var iscontenteditable2 = target.isContentEditable; // Return true or false as boolean if (iscontenteditable == "true" || iscontenteditable2 == true) { target.style.cursor = "text"; return true; } //disable context menu when shift + right click is pressed var shiftPressed = 0; var evt = e?e:window.event; if (parseInt(navigator.appVersion)>3) { if (document.layers && navigator.appName=="Netscape") shiftPressed=(e.modifiers-0>3); else shiftPressed=e.shiftKey; if (shiftPressed) { if (smessage !== "") show_wccp_pro_message(smessage); var isFirefox = typeof InstallTrigger !== 'undefined'; // Firefox 1.0+ if (isFirefox) {show_wccp_pro_message (smessage);} return false; } } if(e.which === 2 ){ var clickedTag_a = (e==null) ? event.srcElement.tagName : e.target.tagName; show_wccp_pro_message(smessage); return false; } var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor); var elemtype = e.target.nodeName; elemtype = elemtype.toUpperCase(); var checker_IMG = 'checked'; if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail == 2) {show_wccp_pro_message(alertMsg_IMG);return false;} if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED") { if (smessage !== "" && e.detail == 2) show_wccp_pro_message(smessage); if (isSafari) return true; else return false; }	} function disable_copy_ie() { var e = e || window.event; // also there is no e.target property in IE. // instead IE uses window.event.srcElement var target = e.target || e.srcElement; var iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string var iscontenteditable2 = target.isContentEditable; // Return true or false as boolean if (iscontenteditable == "true" || iscontenteditable2 == true) { target.style.cursor = "text"; return true; } if (apply_class_exclusion(e) == "Yes") return true; var elemtype = window.event.srcElement.nodeName; elemtype = elemtype.toUpperCase(); if (elemtype == "IMG") {show_wccp_pro_message(alertMsg_IMG);return false;} if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "EMBED" && elemtype != "OPTION")	{ //if (smessage !== "") show_wccp_pro_message(smessage); return false; } }	function reEnable() { return true; } document.onkeydown = disable_hot_keys; document.onselectstart = disable_copy_ie; if(navigator.userAgent.indexOf('MSIE')==-1) { document.onmousedown = disable_copy; document.onclick = reEnable; } /* function disableSelection(target) { //For IE This code will work if (typeof target.onselectstart!="undefined") target.onselectstart = disable_copy_ie; //For Firefox This code will work else if (typeof target.style.MozUserSelect!="undefined") {target.style.MozUserSelect="none";} //All other (ie: Opera) This code will work else target.onmousedown=function(){return false} target.style.cursor = "default"; } */ //Calling the JS function directly just after body load //window.onload = function(){disableSelection(document.body);}; //]]>
+Intellectual Property Headlines
+[ April 12, 2019 ] Nigeria News | NAPPMED Surrenders Expired Drugs Worth 1.2 Million to NAFDAC Anti-Counterfeiting
+[ April 12, 2019 ] 10 Recurring Myths about Copyright Protection in Nigeria Copyright
+[ April 11, 2019 ] China News | Sportswear Giant Anta Faces Copyright Infringement Charges China News
+[ April 11, 2019 ] U.S. News | Solid 21 Sues Breitling over Trademark Infringement Intellectual Property News
+[ April 11, 2019 ] Nigeria News | NAFDAC Raises Alert On Fake Meningitis Vaccines Anti-Counterfeiting
+Facebook
+TWITTER
+LINKEDIN
+NLIPW Staff Only
+Home
+About Us
+Trademark Registration Services
+Submit an Article
+Editorial Team
+Join the Team
+Board of Directors
+Contact Us
+Anti-Counterfeiting
+Anti-Counterfeiting and Piracy Incident Research Database
+Pharma
+News
+Newsroom
+International News
+NAFDAC News
+Tech and Startups
+All News Reports
+Legal Research
+All Legal Topics
+Understanding Trademarks
+Understanding Patents
+Understanding Copyright
+Laws in Africa
+Universities in Africa
+Donate
+Case Search
+Search Copyright Cases
+Search Trademark Cases
+Search Patent Cases
+CAUSELISTS
+All Cases
+Brand Database
+Trademark Classes
+Brand Database
+Copyright Registration
+Trademark Watch Service
+List of Trademark Journals in Nigeria
+REGISTER BRANDS
+International News
+Regulatory Agencies
+Universities
+Funding
+Submit Articles
+Trademark Watch
+Contact Us
+Copyright Registration
+New Trademark Get Started
+April 20, 2019
+Search for:
+HomeFACTS ABOUT NIGERIAA Quick Look at Some Drugs Banned by NAFDAC in Nigeria (Issue 3)
+A Quick Look at Some Drugs Banned by NAFDAC in Nigeria (Issue 3)
+September 21, 2013 Ufuoma Akpotaire
+© Madmaxer | Dreamstime.com
+In July, we looked at a few drugs banned by the National Agency for Food and Drug Administration and Control (NAFDAC) due to reported cases of adverse side effects and other health-related risks. You can view the articles here and here. Today, our focus is on some of the contents of cosmetic products — specifically drugs or compounds that are banned from being included in cosmetic products in the Nigerian market:
+1. Mercury-containing creams and soaps
+Drug Name: Mercury-containing creams and soaps
+Brand/Trade Names: Tura, Crusader, Peuclaire, Movate, A3, Mic, Looking Good, Sivoclaire
+On August 2, 2002, NAFDAC re-emphasized the ban on the manufacture, sale and importation of creams and soap containing mercury in the Nigerian market. These products are often marketed as skin anti-acne treatment, skin lighteners or anti-aging treatments. Mercury and mercury compounds are also banned by the Cosmetic Product (Prohibition of Bleaching Agents, etc) Regulations 2005 and NAFDAC’s Guidelines for Registration of Imported Cosmetics in Nigeria. According to NAFDAC, exposure to mercury can cause dermatitis and damage to kidneys.
+Distribution of mercury-containing creams and soap is also banned in the European Union, North America and in many African countries.
+2. Creams Containing Hydroquinone
+Drug Name: Creams Containing Hydroquinone
+Brand/Trade Names: Peuclaire, Movate, Mercury, Tura, A3, Mic, Looking Good, Ambi, Skin Success, Sivoclaire, Unblemish, Lustra-AF, Sunvanish, Sledgehammer, Pigment, Eldoquin, Epiquin Micro, Lustra, Melanex
+Synonyms for Hydroquinone: 1, 4-Benzenediol, Quinol, Benzene-1, 4-diol, Diphenol, p-Dihydroxylbenzene, Hydrochinone, phydroxylphenol, Hydrochinonium, Hydroquinol, and Tequinol
+Under the Cosmetic Product (Prohibition of Bleaching Agents, etc) Regulations, a cosmetic in Nigeria is classified as adulterated if it contains hydroquinone. Hydroquinone is used therapeutically as a topical agent for the treatment of certain skin conditions. NAFDAC initially set an upper limit of 2% hydroquinone content in cosmetic products and 5% for therapeutic use because it was originally believed that only higher concentrations of hydroquinone were unsafe for continued use. However, due to the adverse side effects associated with long-term hydroquinone use and also lack of compliance with content and labeling requirements, all forms of hydroquinone were prohibited in cosmetic toiletries. See: The Schedule [Paragraph 1 (2).] of the Cosmetic Product (Prohibition of Bleaching Agents, etc) Regulations.
+Other countries like the United Kingdom, South Africa and the United States also limit the concentration of hydroquinone in cosmetic products to a maximum of 2% and 4% in dermatological preparations.
+3. Cosmetic Creams Containing Corticosteroids
+NAFDAC’s Guidelines for Registration of Imported Cosmetics in Nigeria specifically bans the sale of cosmetic creams containing corticosteroids (Betamethasone Dipropionate and Clobetasol Propionate) from the Nigerian market in order to ensure public safety. Prolonged use of cosmetics containing corticosteroids on the skin affects the release of hormones that control and stabilize vital functions with very serious or life threatening consequences.
+This article is intended to provide general information about the subject matter. Professional legal advice should be sought about specific circumstances.
+Banned by NAFDAC
+Banned Drugs in Nigeria
+Cisapride
+NAFDAC
+National Agency for Food and Drug Administration and Control
+Nimesulide
+Phenylpropanolamine
+What Items Can't I Bring into Nigeria
+About Ufuoma Akpotaire 208 Articles
+Ufuoma is a Senior Editor and Director of Regulatory Policy at NLIPW. She assists clients in the protection of copyrights, trademarks and patents. She counsels clients regarding validity and infringement matters and has experience acting against the infringement of IP and addressing counterfeit issues. She holds a Masters degree (LL.M.) from Columbia Law School, New York and a law degree from the University of Nigeria (LL.B. Honors). She is admitted to practice law in Nigeria and in the State of New York. Ufuoma cut her teeth in the intellectual property practice groups of some of the largest law firms in Nigeria and has years of experience working with major non-profit organizations in New York. Email: uakpotaire@nlipw.com
+Website Twitter LinkedIn
+Previous
+New Online Trademarks Journal Published by the Registry
+Next
+Kwankwaso Warns Against illicit, Counterfeit Drugs
+Related Articles
+Anti-Counterfeiting
+NAFDAC Warns against Use of Tobradex Eye Ointment not Labelled in English
+August 2, 2017 Bob Aroture
+The National Agency for Food and Drug Administration and Control (NAFDAC) is alerting the public regarding information it recently received. According to the agency, the Ugandan National Drug Authority (NDA) on May, 25 2017 cautioned […]
+Intellectual Property Editorial
+Nigeria’s Advertising Laws, Regulations and Guidelines: The Simple “Don’ts”
+August 9, 2017 Ufuoma Akpotaire
+Advertising in Nigeria is regulated by the combination of federal, state laws, subsidiary legislation and guidelines. Different rules apply to different products with the three main agencies being the Advertising Practitioner’s Council of Nigeria (APCON), […]
+Anti-Counterfeiting
+NAFDAC, NMA Partner On Eliminating Harmful Oil By December 2019
+November 26, 2018 Nathaniel Adebayo
+In a bid to eliminate harmful oil in the country by December 2019, the National Agency for Food and Drug Administration and Control (NAFDAC) and Nigerian Medical Association (NMA) have entered into a partnership. Both parties […]
+We are Social!
+We are Social!
+TRADEMARKS IN NIGERIA
+JOIN NLIPW
+Username Password
+Remember Me
+Register
+Nigeria News | NAPPMED Surrenders Expired Drugs Worth 1.2 Million to NAFDAC
+10 Recurring Myths about Copyright Protection in Nigeria
+China News | Sportswear Giant Anta Faces Copyright Infringement Charges
+U.S. News | Solid 21 Sues Breitling over Trademark Infringement
+Nigeria News | NAFDAC Raises Alert On Fake Meningitis Vaccines
+NAFDAC News | Fanyogo “Gin and Ginger” is Not Registered in Nigeria
+U.S. News | French Montana Has Been Sued for Copyright Infringement
+Winners: NLIPW National Campus Essay Competition (NNCEC 2019)
+Nigeria: Intellectual Property Office Publishes Compendium of Rulings of Trademarks Tribunal
+Kenya News | Woman to be Paid Sh. 1.5m by KTDA over Copyright Infringement
+Anti-counterfeiting Branding in Nigeria Brands Brands in Nigeria Companies and Brands Companies in Nigeria Copyright Infringement Counterfeits Filing Trademarks in Nigeria Intellectual Property Nigeria List of Companies in Nigeria NAFDAC National Agency for Food and Drug Administration and Control Registering Trademarks in Nigeria Register Trademarks Registration of Trademark by Ministry of Trade and Investment in Nigeria Registration of Trademarks in Nigeria Trade Mark Trademark Information Trade marks Trademarks Trade marks and Branding Trademark Search in Nigeria Trademarks in Nigeria Trademarks Nigeria
+Seun: Great news! Thanks for the update.
+Olusegun Oyesanya: Great work Nathaniel. I read your posts. Nice content writing style and brevity. I admire it.
+Robert: This is CRAZY. Telstra don't own the word "Belong". Just like Rugby Australia don't own the word "Wallabies". Rugby Australia…
+STARTUPS AND SCHOLARSHIPS
+Apply Now: University of Westminster Duke of Grafton International Scholarship in UK
+February 20, 2019
+Apply Now: Tunisia Center for Middle Eastern Studies at Harvard University Postdoctoral Fellowship
+February 20, 2019
+Apply Now: 2019 UNV and UNFPA Young Innovators Fellowship Programme
+February 9, 2019
+BRANDS IN NIGERIA
+Nigeria – Application to Register the Trademark: HIPPOO Games & Device
+Nigeria – Application to Register the Trademark: XOS (Stylized)
+Nigeria – Application to Register the Trademark: AhaGames (Stylized)
+Nigeria – Application to Register the Trademark: HIPPOO Games & Device
+INTERNATIONAL NEWS
+China News | Sportswear Giant Anta Faces Copyright Infringement Charges
+April 11, 2019
+A Hong Kong-based company, Grown Up, has filed a lawsuit against Chinese sportswear giant, Anta Sports Products for copyright infringement. The plaintiff alleges that the defendant has been producing a similar-looking school bags made by [...]
+U.S. News | Solid 21 Sues Breitling over Trademark Infringement
+April 11, 2019
+Earlier this week, a U.S. watchmaker, Solid 21, filed a lawsuit in the U.S. District Court for the District of Connecticut against Breitling, a Swiss competitor over trademark infringement. Solid 21 alleges that Breitling’s use [...]
+U.S. News | French Montana Has Been Sued for Copyright Infringement
+April 8, 2019
+Eddie Lee Richardson, who goes by Hotwire the Producer, has filed a lawsuit against French Montana for his song “Ain’t Worried About Nothin.” According to the lawsuit, the plaintiff claims that the song was stolen [...]
+Kenya News | Woman to be Paid Sh. 1.5m by KTDA over Copyright Infringement
+April 4, 2019
+Recently a woman, Ann Njoku Kumena, was awarded Sh. 1.5m (approximately USD $15,000) by a high court sitting in Kerugoya against KTDA for using her image without authorization. It will be recalled that Ann Njoku [...]
+Legal Research
+Anti-counterfeiting/Piracy Incident Research Database
+Legal Topics
+Case Search
+Laws in Africa
+Universities in Africa
+Judges Names
+Attorney-Generals of Nigeria
+Senior Advocates of Nigeria (1975 – 2017)
+Past Chief Justices of Supreme Court of Nigeria
+Past Justices of Supreme Court of Nigeria
+Current Justices of the Supreme Court of Nigeria
+Brands and Tradermarks
+Brand Search Database
+Understanding Patents
+Understanding Trademarks
+Understanding Copyright
+All Trademark Classes
+Trademarks Watch Service
+List of Trademark Journals in Nigeria
+Banned by NAFDAC
+Donate
+Start Now! File a Trademark in Nigeria
+Copyright Registration Get Started!
+Online Opportunities
+Lawyer Directory
+Law Firm Directory
+Submit an Article
+Funding for Innovators
+Events Watch
+Newsroom
+Meet our Editorial Team
+Regulatory Agencies
+Legal Disclaimer
+Terms of Use and Privacy Policy
+Legal Forms and Templates
+Around the World News
+China News
+Europe
+Ghana
+India
+Kenya
+Rwanda
+South Africa
+Tanzania
+Uganda
+United States
+ARIPO
+Copyright © 2019 Nigerian Law Intellectual Property Watch Inc. | Email: trademarks@nlipw.com | + 1 (347) 688 5972 | 40 Wall St. 28th Floor New York, NY 10005. United States
+error: Alert: Content is protected !!

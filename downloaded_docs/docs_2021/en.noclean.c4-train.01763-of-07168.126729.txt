@@ -1,0 +1,433 @@
+Frontiers | Biochemical Markers of Physical Exercise on Mild Cognitive Impairment and Dementia: Systematic Review and Perspectives | Neurology
+Toggle navigation
+Home
+About
+Submit
+Journals
+Journals A-Z
+Research Topics
+Login
+Register
+Login using
+LinkedIn
+Twitter
+Facebook
+i
+You can login by using one of your existing accounts.
+We will be provided with an authorization token (please note: passwords are not shared with us) and will sync your accounts for you. This means that you will not need to remember your user name and password in the future and you will be able to login with the account you choose to sync, with the click of a button.
+OR
+Email *
+Please fill in this field
+Password *
+Please fill in this field
+Remember me
+Forgot Password?
+Login
+Frontiers
+Frontiers
+Office
+My frontiers
+My Frontiers
+Office
+Impact Factor 3.508
+2017 JCR, Clarivate Analytics 2018
+Frontiers journals are at the top of citation and impact metrics
+Frontiers in Neurology
+Neurodegeneration
+Toggle navigation Section
+(current)Section
+About
+Articles
+Research topics
+For authors
+Why submit?
+Fees
+Article types
+Author guidelines
+Review guidelines
+Submission checklist
+Contact editorial office
+Submit your manuscript
+Editorial board
+Article alerts
+This article is part of the Research Topic
+Biomarkers of Alzheimer's disease: the present and the future
+Articles
+TABLE OF CONTENTS
+Abstract
+Introduction
+Methods
+Results
+Discussion
+Conclusion
+Author Contributions
+Conflict of Interest Statement
+Acknowledgments
+Supplementary Material
+References
+Want to win $100,000 to host your own conference?
+Suggest a Research Topic
+Download Article
+Download PDF
+ReadCube
+EPUB
+XML (NLM)
+Supplementary
+Material
+Export citation
+EndNote
+Reference Manager
+Simple TEXT file
+BibTex
+total views
+View Article Impact
+Want to win $100,000 to host your own conference?
+Suggest a Research Topic
+SHARE ON
+Open Supplemental Data
+Review ARTICLE
+Front. Neurol., 26 August 2015 | https://doi.org/10.3389/fneur.2015.00187
+Biochemical markers of physical exercise on mild cognitive impairment and dementia: systematic review and perspectives
+Camilla Steen Jensen1*, Steen Gregers Hasselbalch1,2, Gunhild Waldemar1,2 and Anja Hviid Simonsen1
+1Department of Neurology, Danish Dementia Research Centre, Rigshospitalet – Copenhagen University Hospital, Copenhagen, Denmark
+2Department of Clinical Medicine, University of Copenhagen, Copenhagen, Denmark
+Background: The cognitive effects of physical exercise in patients with dementia disorders or mild cognitive impairment have been examined in various studies; however the biochemical effects of exercise from intervention studies are largely unknown. The objective of this systematic review is to investigate the published results on biomarkers in physical exercise intervention studies in patients with MCI or dementia.
+Methods: The PubMed database was searched for studies from 1976 to February 2015. We included intervention studies investigating the effect of physical exercise activity on biomarkers in patients with MCI or dementia.
+Results: A total of eight studies were identified (n = 447 patients) evaluating exercise regimes with variable duration (single session–three sessions/week for 26 weeks) and intensity (light-resistance training–high-intensity aerobic exercise). Various biomarkers were measured before and after intervention. Seven of the eight studies found a significant effect on their selected biomarkers with a positive effect of exercise on brain-derived neurotrophic factor, cholesterol, testosterone, estradiol, dehydroepiadrosterone, and insulin in the intervention groups compared with controls.
+Conclusion: Although few studies suggest a beneficial effect on selected biomarkers, we need more knowledge of the biochemical effect of physical exercise in dementia or MCI.
+Introduction
+The prevalence of dementia is increasing, currently affecting more than 44 million people, and estimated affect 75 million people worldwide by 2030. Alzheimer’s disease (AD) accounts for the majority of dementia cases (1–3). Currently there is no cure for these disorders, and there are currently no effective pharmacological interventions (4, 5). Attention has therefore turned toward non-pharmacological approaches, including exercise, to slow the cognitive decline associated with dementia (2, 6). Linking evidence from population-based cohorts or RCT studies with biochemical evidence will be crucial in order to understand how non-pharmacological interventions may potentially alter the course of the disease.
+In epidemiological studies, retrospective cohort studies, and case–control studies, there is consensus that an active lifestyle in midlife decreases the risk of dementia in late adulthood (7, 8). The cognitive effects of physical exercise and an active lifestyle in healthy elderly subjects, and in those with MCI and dementia, have also been examined in various cross-sectional studies, intervention studies, and prospective studies, with conflicting results (9–21). Almost all studies in patients with mild cognitive impairment (MCI) show some effect on cognition, but recent systematic reviews call for caution when interpreting results in dementia due to limited evidence (22, 23). Lack of consensus could be due to differences in the study methodologies used, type of physical activity, or in the cognitive measures used.
+Because some studies have identified a clinical effect of physical exercise, it is imperative to understand if and how exercise alters the pathophysiology of dementia. Such an understanding is necessary for the successful promotion and implementation of physical exercise as a part of the treatment for dementia. Our current knowledge comes largely from animal studies. Beta-Amyloid (Aβ) pathology can be altered in response to exercise in a mouse and rat model for AD (24, 25), and brain plasticity proteins, like brain-derived neurotrophic factor (BDNF), can be up-regulated in response to physical exercise (26). Also, long-term exercise treatment reduces oxidative stress (OX) in the hippocampus of aging rats (27). In a large study of healthy elderly subjects, lower plasma and brain Aβ was observed in those reporting higher levels of physical activity (21), and similar findings has been found in preclinical AD subjects (28), consistent with animal studies suggesting that physical activity may modulate specific AD pathology in humans as well. However, because observational and cross-sectional designs cannot establish causality, we need randomized controlled intervention trials to understand the biochemical effects of exercise.
+Exercise-based interventions studies in various diseases have clarified some of the biochemical effects of physical activity, such as improved metabolic homeostasis in diabetes mellitus (29), reduced OX in obese subjects (30), and reduced low-grade inflammation in coronary artery disease (31). Thus, physical exercise may exert its effect through modulation of specific AD pathology and/or through pathological processes common to other diseases.
+Therefore, the object of this study was to systematically review and evaluate the scientific literature regarding the biochemical effect of exercise in MCI and dementia disorders in intervention trials and furthermore to provide recommendations for future biochemical studies in this field. Based on the studies cited above, we hypothesized that physical exercise interventions would improve not only specific Aβ pathology, but also pathological processes downstream of Aβ accumulation.
+Methods
+This systematic review was performed according to the recommendation of the Cochrane collaboration (32) and the Preferred Reporting Items for Systematic Review and Meta-Analysis: the PRISMA statement (33).
+Eligibility Criteria
+Randomized controlled trials or clinical trials investigating the effect of physical exercise or activity on patients with MCI or dementia were selected to review. Studies must have obtained bio-fluid markers, regardless of whether the biomarkers were included as primary or secondary outcome.
+Search Strategy
+The following electronic database was searched: MEDLINE (accessed via PubMed). The database PubMed was selected because it contains more that 23 million citations from biomedical literature from MEDLINE, life science journals and online books.
+The search conducted in February 2015 searched databases for the following MeSH terms and their English synonyms. Studies published from 1976 to 2015 were included.
+Medline (Via Pubmed.org) was searched with the keywords and Boolean operators with the filter English and Human:
+(“Dementia”[Majr]) AND (“Exercise”[Majr])
+(“Mild Cognitive impairment”[Majr]) AND (“Exercise”[Majr])
+(“Dementia”[Majr]) AND (“physical fitness”[Majr])
+(“Mild Cognitive impairment”[Majr]) AND (“Physical fitness”[Majr])
+The search was done by two authors separately (first and second) author. The search results are described in Figure 1.
+FIGURE 1
+Figure 1. Flowchart of the publication search and selection process.
+Inclusion criteria included: original work (no review or meta-analysis), physical activity/exercise as intervention, only full-text publication, and English language.
+Study Selection and Data Extraction
+Studies were selected on the basis of the inclusion criteria listed above. The selected studies are listed in Table 1 and Table S1 in Supplementary Material. Data extraction was done by the first author according to the data extraction form seen in Table S2 in Supplementary Material, in regards to author, endpoints measured, subjects, intervention, and results found.
+TABLE 1
+Table 1. Studies chosen for review.
+Results
+The initial search gave 228 publications, from which 187 were collected for further reading and 111 of which were excluded due to irrelevance or because they did not meet the inclusion criteria on the basis of their title or abstract. From the remaining 76 publications, 54 met inclusion and exclusion criteria and were selected for analysis. After a detailed analysis, publications were excluded if they did not include analysis of biomarkers. The excluded publications are listed in Table S1 in Supplementary Material. In total, eight publications remained for inclusion in the review. Publications included are listed in Table 1. Figure 1 shows the flowchart of the data gathering process.
+Sample Subjects
+Although our MeSH term search covered all dementia diagnoses, the majority of identified publications studied patients with AD. Subjects were either from a nursing home-residing population (15, 35, 37) or a home-living population (34, 41, 42). Two studies did not describe living status (38, 41).
+In Table 1, mean age and mean MMSE have been listed, giving a general indication of the sample subjects studied. The age range was from 66.4 to 85.4 years. The MMSE range was from 13.9 to 28.7. Only Baker et al. have a population with a MMSE above 21, which indicated that the majority of the studies have been on patients with moderate-to-severe dementia.
+Sample Size
+The numbers of subjects used in the selected studies range from 13 to 110 subjects. In general, the small sample sizes have generated little power for calculation of effect.
+Exercise Protocol
+Four studies implemented an aerobic training program with low-to-high intensity (34, 35, 37, 39), three studies investigated the effect of a single bout of high-intensity aerobic or resistance training exercise (38, 41, 42) and one study investigated the effect of light resistance training and stretching (15). Thus, most studies investigated aerobic training to investigate the effect on biochemical biomarkers. The studies reviewed applied very different training regimes, with regards to intensity, duration and frequency. Eggermont et al. (37) applied the lowest intensity with a walking program at a self-selected speed, and they did not report any significant results on any of their selected biomarkers. Cheng et al. applied a light exercise program and found that the exercise groups had a slower decline in their cognitive measures compared to controls. The three remaining aerobic exercise studies have applied a moderate-to-high-intensity exercise program, and they found a significant increase in levels of their selected biomarkers, and in the cognitive measures.
+Exercise Supervision
+Five of the eight selected studies had non-supervised training or supervision by caregivers. Three studies had supervision by trainers. Two studies reported use of heart rate monitors to ensure that the intended exercise intensity of the exercise was reached. In Baker et al. (34), only some of the training sessions were supervised.
+Cognition
+Six out of these eight studies also investigated cognitive performance (15, 34, 35, 37, 39, 41). Of these six studies, four reported any significant effect on the cognitive measures. Baker et al. (34) reported an improvement in several tests of executive function, but only in women, Cheng et al. (35) reported a reduced decline in MMSE, Nascimento et al. (39) found an improved cognition measured by the Montreal Cognitive Assessment (MoCA), and Segal et al. (41) found a significant improved picture recall after exercise.
+Effect on Biomarkers
+In total, eight studies that focused on biochemical markers were identified. Seven out of eight studies investigated protein biomarkers (15, 34, 35, 38–42), and two studies investigated the difference in the effect of exercise depending on the patients ApoE genotype (35, 37). One study also investigated markers of cardiovascular health (34). Table 1 summarized the biochemical and cognitive findings.
+In seven out of eight studies, a positive relationship was found between their selected biomarkers and the exercise intervention. Only one study did not find any significant results on any of their selected biomarkers (37).
+Coelho et al. (36) and Segal et al. (41), found that exercise resulted in a significant up-regulation in the neuroplasticity protein BDNF. Baker et al. (34) also measured BDNF and found higher levels after exercise, however only in women. Nascimento et al. reported BDNF as one of their end points, however they did not report any findings. They did, however, report decreased Tumor necrosis factor alpha (TNF-α) and interleukin-6 (IL-6) levels after exercise.
+Besides blood levels of BDNF, other biochemical compounds in blood including cholesterol and insulin were analyzed. Baker et al. (34) and Cheng et al. (35), measured plasma levels of insulin and cholesterol. Cheng et al. (35) also measured HDL, tri-glycerides, and glucose. Only Baker et al. (34) reported an effect of the intervention on these biomarkers, namely a significant decrease in cholesterol and an increase in insulin sensitivity.
+On a different note besides neurological markers and metabolic markers, Akishita et al. (15) found that exercise had a significant up-regulating effect on selected sex hormones (testosterone, estradiol, and DEHA) in women. Segal et al. (41) found an increase in salivary alpha-amylase (sAA), an indirect measure of endogenous norepinephrine (NE), after a single session of high-intensity exercise (70% HRR). Mancuso et al. (38) found that lactate increased after exercise, and that platelet mitochondria COX activity was decreased.
+We did not find any intervention studies that investigated the effect of exercise on established diagnostic markers for dementia disease, such as Aβ, tau, p-tau, and α-synuclein.
+Discussion
+Physical exercise as a non-pharmacological treatment for medical disease has proven beneficial for reducing the risk for many diseases including stroke, high blood pressure, and mental disorders like chronic stress and depression (43). However, compared to our understanding or physical exercise’s impact on cardiovascular health and general fitness, our understanding of physical exercise’s impact on cognitive health is still very much in its infancy. An impact of physical exercise on quality of life and activity of daily living in patients with dementia has been established; however evidence of the molecular effects is not clear.
+The objective of this study was to conduct a systematic review to identify and evaluate the scientific literature published on the effect of an exercise intervention in dementia, in regards to relevant biomarkers.
+Biochemical Evidence of the Effects of Exercise
+Insulin and diabetes have been connected to an increased risk of developing AD and cognitive impairment (44, 45). Two of the reviewed studies measured insulin sensitivity or glucose control. Baker et al. (34) found increased insulin sensitivity and increased insulin in the exercise group, however only in women. Cheng et al. (35) measured blood glucose levels, but they did not find any significant result.
+Mancuso et al. (38) investigated the reactive oxygen species (ROS) generation and OX, measured via COX activity and lactate production in platelets. ROS and OX are thought to be involved in AD through the neurotoxicity of amyloid build up, metabolic impairments and free-radical production in mitochondria (46, 47). To investigate the metabolic contribution of mitochondrial impairment, COX activity and lactate production was measured before and after an exercise intervention. At baseline, the AD groups displayed higher levels of lactate and significantly lower activity of COX, compared to aged match cognitive normal individuals. This increased level of lactate in AD patients was unchanged throughout the exercise intervention, indicating mitochondrial impairment in AD. The exercise intervention did not alter COX activity, indicating that exercise might not be able to influence the mitochondrial electron transport chain (ETC). However, since Mancuso et al. (38) did not find any correlation with cognitive elements, such as MMSE, mitochondrial impairment might be an angle to study the pathology of AD, and not so much a way to improve cognitive decline.
+Nascimento et al. (39, 41) investigated the influence of exercise on inflammation markers in MCI and cognitively normal subjects and found decreased levels of the pro-inflammatory cytokines, TNF-α and IL-6. Inflammation is a known factor in neurodegenerative diseases (48–50). Both pro-inflammatory cytokines (e.g., IL-6) and anti-inflammatory cytokines (e.g., IL-10 and IL-18) have been found to be increased in AD (51), and wherein it is speculated that an increased inflammatory response negatively contributes to neurodegeneration in AD (50). Several studies have shown that inflammation is directly influenced by physical activity, which down-regulates pro-inflammatory reactions in the brain (52). For further insight into the pathology of neuroinflammation, it might be beneficial to measure a variety of factors, both pro-inflammatory and anti-inflammatory.
+Three of eight identified studies have focused on BDNF, all of which found an increase in BDNF after exercise. Lower levels of brain tissue BDNF have been seen in patients with AD compared to healthy controls (26, 53). The exercise-induced BDNF increase seen in the studies in this review has also been reported in animal studies, where brain levels of BDNF were increased after exercise (26), and in an intervention study in young healthy men, where plasma BDNF was increased with exercise. In order to achieve a more precise measurement of neuronal BDNF without the systemic component, BDNF levels in CSF could be assessed.
+Alongside BDNF, Akishita et al. (15) measured increased levels of female sex hormones after exercise. Lower levels of sex hormones have previously been shown to increase the risk of AD (54). Exercise has been found to increase sex hormones and sex hormone-binding globulin in post-menstrual women (55–57). One could therefore speculate that an increase in sex hormones is beneficial to the cognitive performance in patients already diagnosed with AD. In the study by Akishita et al. (15), there was no effect on ADL or cognition, and the up-regulating effect of exercise on sex hormones was lost after 3 months post-exercise.
+Pharmacological evidence established that NE is involved in memory modulation, and can be regulated by exercise (58–60). This makes NE modulation by exercise an ideal target for memory modulation in patients with cognitive impairments. Segal et al. (41) studied this relationship with a single bout of high-intensity exercise in patients with aMCI. The cognitive performance was investigated with picture recall before and after exercise, and NE was measured indirectly via sAA. They found that performance in picture recall was significantly improved in the exercise cognitive normal control group as well in the exercise aMCI groups, and not in the corresponding non-exercise groups. Furthermore, sAA levels were equally increased in both exercise groups (cognitive normal and aMCI). When it comes to dementia diseases, like AD with more advanced neurodegeneration, it is unknown if exercise is able to up-regulate NE, so further studies are needed. In addition, the potential harms of recurring acute increases in NE need to be investigated.
+None of the review studies in this review focused their attention on already previously established markers of neurodegenerative disease. Baker et al. (61) has studied the effect of a diet intervention with or without high-intensity physical activity, and its effect on CSF levels of the amyloidogenic peptide Aβ42. The main outcome was that patients with MCI subjected to a modulated diet, and who had a high-intensity physically active lifestyle, had higher levels of CSF Aβ42, than those without an active lifestyle. Furthermore, brain levels of Aβ42 have been shown in animal studies to be reduced in response to physical exercise (62). Aβ42 therefore appears to be a physiologically relevant biomarker that was not measured in any of the included studies likely due to difficulty of including CSF measures in study design, attributable to the discomfort of lumbar puncture.
+Normal Aging
+In previous studies on the effect of exercise in a population of healthy elderly individuals, a decrease in the metabolic biomarkers of cholesterol, HDL, and leptin (63) was described. Furthermore, the exercise group showed increased glucose sensitivity after intervention, compared to controls (63). Aging is connected with chronic low-grade inflammation, increased risk for disease, poor physical function and mortality (64). Exercise has been shown to decrease the levels of circulating inflammatory cytokines (65). The expected effects of exercise on biomarkers of metabolism and inflammation are similar between normal aging individuals and patients with dementia. In the study by Nascimento et al. (39, 41), where aged matched cognitive normal controls were studied, the effect of exercise on the inflammation biomarkers were not specific to either the dementia group or the control group. However, only the MCI group showed improved cognition. This could indicate a link between cognitive measures and alterations in the inflammation profile. One could speculate that the lack of effect on cognition seen in the control group could be due to the scale chosen for measuring cognition (MoCA). MoCA may not be sensitive enough to quantify cognition in a group that already performs well cognitively, as this group had high MoCA scores even before intervention, and thereby improvement in the controls group will not be detected.
+BDNF has previously been investigated not only for its brain plasticity modulating effect in dementia patients, but also in subjects with depression (66) and in animal studies, high-intensity exercise has a modulating effect on BDNF (26). Studies have found that BDNF levels decline with age, and it has been shown to be associated with memory deficits (67). An up-regulation of BDNF would therefore be beneficial, and maybe act as a protecting factor against dementia and other memory deficiencies.
+Genetic Risk Factors
+The effect of the known risk factor for AD, ApoE (68), was found not to have an effect for the outcome on biomarkers after an exercise intervention. Previous studies have indicated that that outcome of an exercise intervention could be ApoE genotype dependent (69). However, neither Eggermont et al. (37) nor Cheng et al. (35), found any significant difference in effect according to ApoE genotype.
+A possibility to further explore the ApoE effect on AD could be to investigate the gene product of ApoE, the protein apoE. A recent study has indicated that low levels of apoE increases risk of AD (70). Currently there are no plasma markers for AD, and perhaps apoE may have the potential to be a ground-breaking new risk factor for AD.
+Exercise Intervention
+In regards to the exercise protocol, most studies applied an aerobic training, like walking, to investigate the effect on biochemical markers. The studies reviewed have applied varying training regimes, durations, and frequencies. This makes a direct comparison difficult. However, most of the studies applying a moderate-to-high-intensity aerobic exercise protocol, have found a significant effect on biomarkers, while low-intensity protocols did not show significant effects. This could indicate that the level of intensity of the aerobic exercise is important for achieving an effect of an exercise intervention.
+The level of supervision for protocol adherence and intensity varied greatly among the reviewed studies. Overall supervision is necessary to ensure general adherence to the program and that exercise intensity is maintained, especially when it comes to moderate-to-high-intensity exercise, where the physical demands on the patients are far greater. For example, supervised training sessions with professional trainers and equipment, such as a pulse watch, can be used.
+Cognition
+Another caveat worth considering is whether the effect of physical exercise on cognition is caused by measurable changes in biomarkers that reflect the pathophysiology of the disorder or whether exercise improves cognition through general improvement of brain function through other mechanisms. These could include up-regulation of neurotransmitters relevant for cognition, such as NE or increase in vascular endothelial growth factor (71). This remains to be determined.
+Biomarkers are the main outcome assessed in this review article, but when studying dementias, cognitive measures have to be taken into account. It is unclear whether lack of cognitive assessment as a measured outcome is due to negative findings or that cognition went untested. Although a change in a biochemical markers with physical exercise does not imply a therapeutic effect on symptomatology, an objectively measurable effect on a relevant pathophysiological biochemical parameter will support the importance of an implementation of physical exercise as part of the treatment for dementia.
+Recommendations for Sampling and Analysis
+Of all the studies that have been conducted on exercise in patients with dementia disease or cognitive impairment, only eight studies have included biomarkers as a part of their assessment. However, the effect on functional activity and quality of life are relevant to the patient and caregiver, useful biochemical measures of these effects are still lacking.
+Our recommendation for investigating the effect of physical exercise effect on dementia at a biochemical level is to (1) investigate whether any metabolic pathways that can be altered by increased physical activity could also be involved in dementia, (2) measure molecules from these pathways that have a neuronal contribution, and distinguishing their neuronal-specific contribution from systemic contribution, (3) investigate proteins and pathways that are involved not only in the generation and maintenance of neurons, but also relevant for cognitive function in general, and (4) measure an broad cytokine effect on neuroinflammation, since exercise has a putative anti-inflammatory effect (72).
+Due to the fact that many established diagnostic markers for dementia disease are measured in CSF, including Aβ42 (73), tau (74), p-tau (74), α-synuclein (75), and huntingtin (76), we would further recommend to include CSF assessment in future studies, as this better reflects cerebral biomarker levels.
+In order to achieve valid biomarker measurements, the highest quality of samples for analysis are required, and we recommend that strict sampling processing and storage procedures are observed (77).
+Conclusion
+Eight out of fifty-four exercise studies in dementia or MCI have investigated biochemical markers of the effect of exercise on dementia and MCI. There is an overall trend of beneficial effect of exercise on the selected biomarkers. However, there were no studies that investigated specific Aβ pathology, or pathological processes downstream of Aβ accumulation.
+Future studies with greater samples size, more thorough exercise supervision, educated trainers and well-defined intensity measures, as well as various sampling protocols (blood, CSF, etc.) are required. Such studies are in progress (78) and will hopefully help to understand the beneficial effect of physical exercise on dementia.
+Author Contributions
+Study conception and design: CJ, AS, and SH. Acquisition of data: CJ and SH. Analysis and interpretation of data: CJ, SH, GW, and AS. Drafting of manuscript: CJ, SH, GW, and AS. Critical revision: SH, GW, and AS.
+Conflict of Interest Statement
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Acknowledgments
+The project was supported by the Innovation Fund Denmark. This study was performed under Neurodegenerative Disease Research (JPND) – Innovation fund Denmark (grant no. 0603-00470B).
+Supplementary Material
+The Supplementary Material for this article can be found online at https://www.frontiersin.org/article/10.3389/fneur.2015.00187
+References
+1. Alzheimer’s Disease International. Policy Brief for Heads of Government: The Global Impact of Dementia. London: Alzheimer’s Disease International (2013). p. 2013–50.
+Google Scholar
+2. Brookmeyer R, Johnson E, Ziegler-Graham K, Arrighi H. Forecasting the global burden of Alzheimer’s disease. Alzheimers Dement (2007) 3:186–9. doi:10.1016/j.jalz.2007.04.381
+PubMed Abstract | CrossRef Full Text | Google Scholar
+3. Thies W, Bleiler L. 2013 Alzheimer’s disease facts and figures. Alzheimers Dement (2013) 9:208–45. doi:10.1016/j.jalz.2013.02.003
+PubMed Abstract | CrossRef Full Text | Google Scholar
+4. Raina P, Santaguide P, Ismaila A, Patterson C, Cowan D, Levine M, et al. Effectiveness of cholinesterase inhibitor and memantine for treating dementia: evidence review for a clinical practive guideline. Ann Intern Med (2008) 148:379–97. doi:10.7326/0003-4819-148-5-200803040-00009
+PubMed Abstract | CrossRef Full Text | Google Scholar
+5. Sink KM, Holden KF, Yaffe K. Pharmacological treatment of neuropsychiatric symptoms of dementia: a review of the evidence. JAMA (2005) 293:596–608. doi:10.1001/jama.293.5.596
+PubMed Abstract | CrossRef Full Text | Google Scholar
+6. Mölsä P, Marttila R, Rinne U. Long-term survival and prediction of mortality in Alzheimer’s disease and multi-infarct dementia. Acta Neurol Scand (1995) 91:159–64. doi:10.1111/j.1600-0404.1995.tb00426.x
+CrossRef Full Text | Google Scholar
+7. Andel R, Crowe M, Pedersen NL, Fratiglioni L, Johansson B, Gatz M. Physical exercise at midlife and risk of dementia three decades later: a population-based study of Swedish twins. J Gerontol A Biol Sci Med Sci (2008) 63:62–6. doi:10.1093/gerona/63.1.62
+PubMed Abstract | CrossRef Full Text | Google Scholar
+8. Nyberg J, Åberg MAI, Schiöler L, Nilsson M, Wallin A, Torén K, et al. Cardiovascular and cognitive fitness at age 18 and risk of early-onset dementia. Brain (2014) 137:1514–23. doi:10.1093/brain/awu041
+PubMed Abstract | CrossRef Full Text | Google Scholar
+9. Lytle ME, Vander Bilt J, Pandav RS, Dodge HH, Ganguli M. Exercise level and cognitive decline: the MoVIES Project. Alzheimer Dis Assoc Disord (2004) 18:57–64. doi:10.1097/01.wad.0000126614.87955.79
+PubMed Abstract | CrossRef Full Text | Google Scholar
+10. Winchester J, DIck M, Gillen D, Reed B, Miller B, Tinklenberg J, et al. Walking stabilizes cognitive functioning in Alzheimer’s disease (AD) across on year. Arch Gerontol Geriatr (2013) 56:96–103. doi:10.1016/j.archger.2012.06.016
+PubMed Abstract | CrossRef Full Text | Google Scholar
+11. Bowen ME. A prospective examination of the relationship between physical activity and dementia risk in later life. Am J Health Promot (2012) 26:333–40. doi:10.4278/ajhp.110311-QUAN-115
+PubMed Abstract | CrossRef Full Text | Google Scholar
+12. Middleton LE, Mitnitski A, Fallah N, Kirkland SA, Rockwood K. Changes in cognition and mortality in relation to exercise in late life: a population based study. PLoS One (2008) 3:e3124. doi:10.1371/journal.pone.0003124
+PubMed Abstract | CrossRef Full Text | Google Scholar
+13. Barnes D, Santos-Modesitt W, Poelke G, Kramer A, Castro C, Middelton L, et al. The mental activity and exercise (MAX) trial: a randomized controlled trial to enhance cognitive function in older adults. JAMA Intern Med (2013) 173:797–804. doi:10.1001/jamainternmed.2013.189
+PubMed Abstract | CrossRef Full Text | Google Scholar
+14. Chang S-H, Chen C-Y, Shen S-H, Chiou J-H. The effectiveness of an exercise programme for elders with dementia in a Taiwanese day-care centre. Int J Nurs Pract (2011) 17:213–20. doi:10.1111/j.1440-172X.2011.01928.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+15. Akishita M, Yamada S, Nishiya H, Sonohara K, Nakai R, Toba K. Effects of physical exercise on plasma concentrations of sex hormones in elderly women with dementia. J Am Geriatr Soc (2005) 53:1076–7. doi:10.1111/j.1532-5415.2005.53338_4.x
+CrossRef Full Text | Google Scholar
+16. La Rue A, Felten K, Turkstra L. Intervention of multi-modal activities for older adults with dementia translation to rural communities. Am J Alzheimers Dis Other Demen (2015) 30:468–77. doi:10.1177/1533317514568888
+PubMed Abstract | CrossRef Full Text | Google Scholar
+17. Hagerman PA, Thomas VS. Gait performance in dementia: the effects of a 6-week resistance training program in an adult day-care setting. Int J Geriatr Psychiatry (2002) 17:329–34. doi:10.1002/gps.597
+PubMed Abstract | CrossRef Full Text | Google Scholar
+18. Uemura K, Shimada H, Makizako H, Doi T, Daisuke Y, Tsutsumimoto K, et al. Cognitive function affects trainability for physical performance in exercise intervention among older adults with mild cognitive impairment. Clin Interv Aging (2013) 8:97–102. doi:10.2147/CIA.S39434
+PubMed Abstract | CrossRef Full Text | Google Scholar
+19. Yu F, Leon AS, Bliss D, Dysken M, Savik K, Wyman JF. Aerobic training for older men with Alzheimer’s disease: individual examples of progression. Res Gerontol Nurs (2011) 4:243–50. doi:10.3928/19404921-20110303-01
+PubMed Abstract | CrossRef Full Text | Google Scholar
+20. Ellis KA, Rainey-Smith SR, Rembach A, Macaulay SL, Villemagne VL. Enabling a multidisciplinary approach to the study of ageing and Alzheimer’s disease: an update from the Australian Imaging Biomarkers and Lifestyle (AIBL) study. Int Rev Psychiatry (2013) 25:699–710. doi:10.3109/09540261.2013.870136
+PubMed Abstract | CrossRef Full Text | Google Scholar
+21. Brown BM, Peiffer JJ, Taddei K, Lui JK, Laws SM, Gupta VB, et al. Physical activity and amyloid-β plasma and brain levels: results from the Australian imaging, biomarkers and lifestyle study of ageing. Mol Psychiatry (2013) 18:875–81. doi:10.1038/mp.2012.107
+PubMed Abstract | CrossRef Full Text | Google Scholar
+22. Öhman H, Savikko N, Strandberg TE, Pitkälä KH. Effect of physical exercise on cognitive performance in older adults with mild cognitive impairment or dementia: a systematic review. Dement Geriatr Cogn Disord (2014) 38:347–65. doi:10.1159/000365388
+PubMed Abstract | CrossRef Full Text | Google Scholar
+23. Forbes D, Thiessen EJ, Blake CM, Forbes SC, Forbes S. Exercise programs for people with dementia. Cochrane Database Syst Rev (2013) 12:CD006489. doi:10.1002/14651858.CD006489.pub3
+PubMed Abstract | CrossRef Full Text | Google Scholar
+24. Kim B-K, Shin M-S, Kim C-J, Baek S-B, Ko Y-C, Kim Y-P. Treadmill exercise improves short-term memory by enhancing neurogenesis in amyloid beta-induced Alzheimer disease rats. J Exerc Rehabil (2014) 10:2–8. doi:10.12965/jer.140086
+PubMed Abstract | CrossRef Full Text | Google Scholar
+25. Adlard PA, Perreau VM, Pop V, Cotman CW. Voluntary exercise decreases amyloid load in a transgenic model of Alzheimer’s disease. J Neurosci (2005) 25:4217–21. doi:10.1523/JNEUROSCI.0496-05.2005
+PubMed Abstract | CrossRef Full Text | Google Scholar
+26. Um H, Kang E, Leem Y, Cho I, Yang C, Chae K, et al. Exercise training acts as a therapeutic strategy for reduction of the pathogenic phenotypes for Alzheimer’s disease in an NSE/APPsw-transgenic model. Int J Mol Med (2008) 4:529–39. doi:10.3892/ijmm
+PubMed Abstract | CrossRef Full Text | Google Scholar
+27. Marosi K, Bori Z, Hart N, Sárga L, Koltai E, Radák Z, et al. Long-term exercise treatment reduces oxidative stress in the hippocampus of aging rats. Neuroscience (2012) 226:21–8. doi:10.1016/j.neuroscience.2012.09.001
+PubMed Abstract | CrossRef Full Text | Google Scholar
+28. Okonkwo OC, Schultz SA, Oh JM, Larson J, Edwards D, Cook D, et al. Physical activity attenuates age-related biomarker alterations in preclinical AD. Neurology (2014) 83:1753–60. doi:10.1212/WNL.0000000000000964
+PubMed Abstract | CrossRef Full Text | Google Scholar
+29. Hamman RF, Wing RR, Edelstein SL, Lachin JM, Bray GA, Delahanty L, et al. Effect of weight loss with lifestyle intervention on risk of diabetes. Diabetes Care (2006) 26:2102–7. doi:10.2337/dc06-0560
+PubMed Abstract | CrossRef Full Text | Google Scholar
+30. Krause M, Rodrigues-Krause J, O’Hagan C, Medlow P, Davison G, Susta D, et al. The effects of aerobic exercise training at two different intensities in obesity and type 2 diabetes: implications for oxidative stress, low-grade inflammation and nitric oxide production. Eur J Appl Physiol (2014) 114:251–60. doi:10.1007/s00421-013-2769-6
+PubMed Abstract | CrossRef Full Text | Google Scholar
+31. Adamopoulos S, Schmid J-P, Dendale P, Poerschke D, Hansen D, Dritsas A, et al. Combined aerobic/inspiratory muscle training vs. aerobic training in patients with chronic heart failure: the Vent-HeFT trial: a European prospective multicentre randomized trial. Eur J Heart Fail (2014) 16:574–82. doi:10.1002/ejhf.70
+PubMed Abstract | CrossRef Full Text | Google Scholar
+32. Higgins JP, Green S. Cochrane Handbook for Systematic Review of Intervention. (2011).
+Google Scholar
+33. Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group. Perferred reporting items for systematic reviews and meta-analysis: the PRISMA statement. PLoS Med (2009) 6. doi:10.1371/journal.pmed.1000097
+CrossRef Full Text | Google Scholar
+34. Baker LD, Frank LL, Foster-Schubert K, Green PS, Wilkinson CW, McTiernan A, et al. Effects of aerobic exercise on mild cognitive impairment: a controlled trial. JAMA Neurol (2010) 67:71–9. doi:10.1001/archneurol.2009.307
+PubMed Abstract | CrossRef Full Text | Google Scholar
+35. Cheng S-T, Chow PK, Song Y-Q, Yu ECS, Chan ACM, Lee TMC, et al. Mental and physical activities delay cognitive decline in older persons with dementia. Am J Geriatr Psychiatry (2014) 22:63–74. doi:10.1016/j.jagp.2013.01.060
+PubMed Abstract | CrossRef Full Text | Google Scholar
+36. Coelho FG, de M, Andrade LP, Pedroso RV, Santos-Galduroz RF, Gobbi S, et al. Multimodal exercise intervention improves frontal cognitive functions and gait in Alzheimer’s disease: a controlled trial. Geriatr Gerontol Int (2013) 13:198–203. doi:10.1111/j.1447-0594.2012.00887.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+37. Eggermont LHP, Swaab DF, Hol EM, Scherder EJ. Walking the line: a randomised trial on the effects of a short term walking programme on cognition in dementia. J Neurol Neurosurg Psychiatry (2009) 80:802–4. doi:10.1136/jnnp.2008.158444
+PubMed Abstract | CrossRef Full Text | Google Scholar
+38. Mancuso M, Filosto M, Bosetti F, Ceravolo R, Rocchi A, Tognoni G, et al. Decreased platelet cytochrome c oxidase activity is accompanied by increased blood lactate concentration during exercise in patients with Alzheimer disease. Exp Neurol (2003) 182:421–6. doi:10.1016/S0014-4886(03)00092-X
+PubMed Abstract | CrossRef Full Text | Google Scholar
+39. Nascimento CMC, Pereira JR, de Andrade LP, Garuffi M, Talib LL, Forlenza OV, et al. Physical exercise in MCI elderly promotes reduction of pro-inflammatory cytokines and improvements on cognition and BDNF peripheral levels. Curr Alzheimer Res (2014) 11:799–805. doi:10.2174/156720501108140910122849
+PubMed Abstract | CrossRef Full Text | Google Scholar
+40. Nascimento C, Pereira J, Pires de Andrade L, Garuffi M, Ayan C, et al. Physical exercise improves peripheral BDNF levels and cognitive fenctions in elderly mild cognitive impairment individuals with different BDNF Val166Met genotypes. J Alzheimers Dis (2015) 43(1):81–91. doi:10.3233/JAD-140576
+PubMed Abstract | CrossRef Full Text | Google Scholar
+41. Segal SK, Cotman CW, Cahill LF. Exercise-induced noradrenergic activation enhances memory consolidation in both normal aging and patients with amnestic mild cognitive impairment. J Alzheimers Dis (2012) 32:1011–8. doi:10.3233/JAD-2012-121078
+PubMed Abstract | CrossRef Full Text | Google Scholar
+42. Coelho FGDM, Vital TM, Stein AM, Arantes FJ, Rueda AV, Camarini R, et al. Acute aerobic exercise increases brain-derived neurotrophic factor levels in elderly with Alzheimer’s disease. J Alzheimers Dis (2014) 39:401–8. doi:10.3233/JAD-131073
+PubMed Abstract | CrossRef Full Text | Google Scholar
+43. Lee C, Do Folsom AR, Blair SN. Physical activity and stroke risk: a meta-analysis. Stroke (2003) 34:2475–82. doi:10.1161/01.STR.0000091843.02517.9D
+PubMed Abstract | CrossRef Full Text | Google Scholar
+44. Ravona-Springer R, Lou X, Schmeidler J, Wysocki M, Lesser G, Rapp M, et al. Diabetes ia associated with increased rate of cognitive decline in questionably demented elderly. Dement Geriatr Cogn Disord (2010) 29:68–74. doi:10.1159/000265552
+PubMed Abstract | CrossRef Full Text | Google Scholar
+45. Ravona-Springer R, Moshier E, Schmeidler J, Godbold J, Akrivos J, Rapp M, et al. Changes in glycemic control are associated with chnages in cognition in non-diabetic alderly. J Alzheimers Dis (2012) 30:299–309. doi:10.3233/JAD-2012-120106.Changes
+PubMed Abstract | CrossRef Full Text | Google Scholar
+46. Casley CS, Canevari L, Land JM, Clark JB, Sharpe MA. Beta-amyloid inhibits integrated mitochondrial respiration and key enzyme activities. J Neurochem (2002) 80:91–100. doi:10.1046/j.0022-3042.2001.00681.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+47. Raha S, Robinson BH. Mitochondria, oxygen free radicals, and apoptosis. Am J Med Genet (2001) 106:62–70. doi:10.1002/ajmg.1398
+PubMed Abstract | CrossRef Full Text | Google Scholar
+48. Amor S, Puentes F, Baker D, van der Valk P. Inflammation in neurodegenerative diseases. Immunology (2010) 129:154–69. doi:10.1111/j.1365-2567.2009.03225.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+49. Faria MC, Gonçalves GS, Rocha NP, Moraes EN, Bicalho MA, Gualberto Cintra MT, et al. Increased plasma levels of BDNF and inflammatory markers in Alzheimer’s disease. J Psychiatr Res (2014) 53:166–72. doi:10.1016/j.jpsychires.2014.01.019
+PubMed Abstract | CrossRef Full Text | Google Scholar
+50. McGeer EG, McGeer PL. Neuroinflammation in Alzheimer’s disease and mild cognitive impairment: a field in its infancy. J Alzheimers Dis (2010) 19:355–61. doi:10.3233/JAD-2010-1219
+PubMed Abstract | CrossRef Full Text | Google Scholar
+51. Brosseron F, Krauthausen M, Kummer M, Heneka MT. Body fluid cytokine levels in mild cognitive impairment and Alzheimer’s disease: a comparative overview. Mol Neurobiol (2014) 50:534–44. doi:10.1007/s12035-014-8657-1
+PubMed Abstract | CrossRef Full Text | Google Scholar
+52. Souza LC, Filho CB, Goes ATR, Fabbro L, Del, de Gomes MG, Savegnago L, et al. Neuroprotective effect of physical exercise in a mouse model of Alzheimer’s disease induced by β-amyloid1–40 peptide. Neurotox Res (2013) 24:148–63. doi:10.1007/s12640-012-9373-0
+PubMed Abstract | CrossRef Full Text | Google Scholar
+53. Erickson K, Miller D, Roecklein K. The aging hippocampus:interactions between exercise, depression, and BDNF. Neuroscientist (2012) 18:82–97. doi:10.1177/1073858410397054.The
+CrossRef Full Text | Google Scholar
+54. Phung TK, Waltroft BL, Laursen TM, Settnes A, Kessing LV, Mortensen PB, et al. Hysterectomy, oophorectomy and risk of dementia: a nationwide historical cohort study. Dement Geriatr Cogn Disord (2010) 30:43–50. doi:10.1159/000314681
+PubMed Abstract | CrossRef Full Text | Google Scholar
+55. Jurkowki JE, Jones NL, Ealker C, Younglai EV, Sutton JR. Ovarian hormonal responses to exercise. J Appl Physiol Respir Env Exerc Physiol (1978) 44:109–14.
+PubMed Abstract | Google Scholar
+56. Bonen A, Ling W, MacIntyre K, Neil R, McGrail J, Belcastro A. Effects of exericse on the serum concentration of FSH, LH, progesterone, and esterdiol. Eur J Appl Physiol Occup Physiol (1979) 42:15–23. doi:10.1007/BF00421100
+PubMed Abstract | CrossRef Full Text | Google Scholar
+57. Zmuda JM, Thompson PD, Winthers SJ. Exercise increases serum testosterone and sex hormone-binding globulin levels in older men. Metabolism (1996) 45:935–9. doi:10.1016/S0026-0495(96)90258-9
+PubMed Abstract | CrossRef Full Text | Google Scholar
+58. Segal SK, Cahill L. Endogenous noradrenergic activation and memory for emotional material in men and women. Psychoneuroendocrinology (2009) 34:1263–71. doi:10.1016/j.psyneuen.2009.04.020
+PubMed Abstract | CrossRef Full Text | Google Scholar
+59. McIntyre CK, Hatfield T, McGaugh JL. Amygdala norepinephrine levels after training predict inhibitory avoidance retention performance in rats. Eur J Neurosci (2002) 16:1223–6. doi:10.1046/j.1460-9568.2002.02188.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+60. Galvez R, Mesches MH, McGaugh JL. Norepinephrine release in the amygdala in response to footshock stimulation. Neurobiol Learn Mem (1996) 66:253–7. doi:10.1006/nlme.1996.0067
+PubMed Abstract | CrossRef Full Text | Google Scholar
+61. Baker LD, Bayer-Carter JL, Skinner J, Montine TJ, Cholerton BA, Callaghan M, et al. High-intensity physical activity modulates diet effects on cerebrospinal amyloid-β levels in normal aging and mild cognitive impairment. J Alzheimers Dis (2012) 28:137–46. doi:10.3233/JAD-2011-111076
+PubMed Abstract | CrossRef Full Text | Google Scholar
+62. Maesako M, Uemura K, Kubota M, Sasaki H, Hayashida N, Asada-Utsugi M, et al. Exercise is more effective than diet control in preventing high fat diet-induced beta-amyloid deposition and memory deficit in amyloid precursor protein transgenic mice. J Biol (2012) 287:23024–33. doi:10.1074/jbc.M112.367011
+PubMed Abstract | CrossRef Full Text | Google Scholar
+63. Lin X, Zhang X, Guo J, Roberts C, McKenzie S, Wu W, et al. Effects of exercise training on cardiorespiratory fitness and biomarkers of cardimetabolic health: a systematic review and meta-analysis of randomized controlled trials. J Am Hear Assoc (2015) 4(7). doi:10.1161/JAHA.115.002014
+PubMed Abstract | CrossRef Full Text | Google Scholar
+64. Brüünsgaard H, Pedersen B. Age-related inflammatory cytokines and disease. Immunol Allergy Clin North Am (2003) 23:15–39. doi:10.1016/S0889-8561(02)00056-5
+CrossRef Full Text | Google Scholar
+65. Woods JA, Wilund KR, Martin SA, Kistler BM. Exercise, inflammation and aging. Aging Dis (2012) 3:130–40.
+PubMed Abstract | Google Scholar
+66. Yeh S, Lin L, Chuang Y, Liu C, Tsai F, Lee M, et al. Effects of music aerobic exercise on depression and brain-derived neurotrophic factor levels in community dwelling women. Biomed Res Int (2015) 2015:135893. doi:10.1155/2015/135893
+PubMed Abstract | CrossRef Full Text | Google Scholar
+67. Erickson KI, Prakash RS, Voss MW, Chaddock L, Heo S, McLaren M, et al. Brain-derived neurotrophic factor is associated with age-related decline in hippocampal volume. J Neurosci (2010) 30:5368–75. doi:10.1523/JNEUROSCI.6251-09.2010
+PubMed Abstract | CrossRef Full Text | Google Scholar
+68. Hauser PS, Ryan RO. Impact of Apolipoprotein E on Alzheimer’s disease. Curr Alzheimer Res (2013) 10:809–17. doi:10.2174/15672050113109990156
+PubMed Abstract | CrossRef Full Text | Google Scholar
+69. Nichol K, Deeny SP, Seif J, Camaclang K, Cotman CW. Exercise improves cognition and hippocampal plasticity in APOE e4 mice. Alzheimers Dement (2009) 5:287–94. doi:10.1016/j.jalz.2009.02.006
+PubMed Abstract | CrossRef Full Text | Google Scholar
+70. Rasmussen KL, Tybjaerg-Hansen A, Nordestgaard BG, Frikke-Schmidt R. Plasma levels of apolipoprotein E and risk of dementia in the general population. Ann Neurol (2015) 77:301–11. doi:10.1002/ana.24326
+PubMed Abstract | CrossRef Full Text | Google Scholar
+71. Hohman TJ, Bell SP, Jefferson AL. The role of vascular endothelial growth factor in neurodegeneration and cognitive decline: exploring interactions with biomarkers of Alzheimer disease. JAMA Neurol (2015) 72:520–9. doi:10.1001/jamaneurol.2014.4761
+PubMed Abstract | CrossRef Full Text | Google Scholar
+72. Petersen AMW, Pedersen BK. The anti-inflammatory effect of exercise. J Appl Physiol (2005) 98:1154–62. doi:10.1152/japplphysiol.00164.2004
+CrossRef Full Text | Google Scholar
+73. Holtzman D. CSF biomarkers for Alzheimer’s disease: current utility and potential future use. Neurobiol Aging (2011) 32(Suppl 1):9. doi:10.1016/j.neurobiolaging.2011.09.003
+PubMed Abstract | CrossRef Full Text | Google Scholar
+74. Andreasen N, Minthon L, Davidsson P, Vanmechelen E, Vanderstichele H, Winblad B, et al. Evaluation of CSF-tau and CSF-amyloid beta42 as diagnostic markers for Alzheimer disease in clinical practice. Arch Neurol (2001) 58:373–9. doi:10.1001/archneur.58.3.373
+PubMed Abstract | CrossRef Full Text | Google Scholar
+75. Gao L, Tang H, Nie K, Wnag L, Zhao J, Gan R, et al. Cerebrospinal fluid alpha-synuclein as a bioamrkers for Parkinson’s disease diagnosis: a systematic review and meta-analysis. Int J Neurosci (2014) 125(9):645–54. doi:10.3109/00207454.2014.961454
+PubMed Abstract | CrossRef Full Text | Google Scholar
+76. Wild E, Robertson N, Miller J, Traeger U, Haider S, Mcdonalds D, et al. Quantifying mutant huntingtin in Huntington’s disease CSF. J Neurol Neurosurg Psychiatry (2014) 85. doi:10.1136/jnnp-2014-309236.23
+PubMed Abstract | CrossRef Full Text | Google Scholar
+77. del Campo M, Mollenhauer B, Bertolotto A, Engelborghs S, Hampel H, Simonsen AH, et al. Recommendations to standardize preanalytical confounding factors in Alzheimer’s and Parkinson’s disease cerebrospinal fluid biomarkers: an update. Biomark Med (2012) 6:419–30. doi:10.2217/bmm.12.46
+PubMed Abstract | CrossRef Full Text | Google Scholar
+78. Hoffmann K, Frederiksen KS, Sobol NA, Beyer N, Vogel A, Simonsen AH, et al. Preserving cognition, quality of life, physical health and functional ability in Alzheimer’s disease: the effect of physical exercise (ADEX trial): rationale and design. Neuroepidemiology (2013) 41:198–207. doi:10.1159/000354632
+PubMed Abstract | CrossRef Full Text | Google Scholar
+Keywords: dementia, MCI, exercise intervention, biomarkers, physical activity
+Citation: Jensen CS, Hasselbalch SG, Waldemar G and Simonsen AH (2015) Biochemical markers of physical exercise on mild cognitive impairment and dementia: systematic review and perspectives. Front. Neurol. 6:187. doi: 10.3389/fneur.2015.00187
+Received: 30 April 2015; Accepted: 12 August 2015;
+Published: 26 August 2015
+Edited by:
+Charlotte Elisabeth Teunissen, VU University Medical Center, Netherlands
+Reviewed by:
+Jason Eriksen, University of Houston, USA
+Wiesje M. Van Der Flier, VU University Medical Center, Netherlands
+Copyright: © 2015 Jensen, Hasselbalch, Waldemar and Simonsen. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+*Correspondence: Camilla Steen Jensen, Department of Neurology, Danish Dementia Research Center, Copenhagen University Hospital Rigshospitalet, Blegdamsvej 9, Copenhagen DK-2100, Denmark, camilla.steen.jensen@regionh.dk
+COMMENTARY
+ORIGINAL ARTICLE
+People also looked at
+Want to win $100,000 to host your own conference?
+Suggest a Research Topic
+Impact
+Biochemical Markers of Physical Exercise on Mild Cognitive Impairment and Dementia: Systematic Review and Perspectives
+Views
+Citations
+Demographics
+Social Buzz
+Since beginning
+Last 12 months
+Last 30 days
+No records found
+views and downloads views downloads
+views and downloads views downloads
+views and downloads views downloads
+Select a time period
+Since beginning
+Last 12 months
+Last 30 days
+Article Citations
+by Scopus
+by CrossRef
+Top countries
+Top referring sites
+Domain
+Field
+Specialty
+Industry
+Education
+Position
+Age and Gender
+Altmetric
+Sources
+All
+News
+Blogs
+The displayed data aggregates results from Frontiers and PubMed Central®.
+Close
+posts.
+stories.
+stories.
+Supplementary Material
+There is no supplementary material currently available for this article
+Loading supplemental data...
+Close
+File Name
+Notify me on publication
+Please enter your email address:
+If you already have an account, please login.
+You don't have a Frontiers account ? You can register here.
+Notify me
+Select one of your emails
+You have multiple emails registered with Frontiers:
+Notify me
+Notify me on publication
+Cancel
+User
+Comment deleted on
+|
+Edit
+|
+Delete
+Write a comment...
+Add
+Add
+Home
+About Frontiers
+Journals A-Z
+Institutional Membership
+Contact
+News
+Submit
+FAQs
+Terms & Conditions
+Privacy Policy
+Newsletters
+RSS/Twitter
+Team
+Careers
+© 2007 - 2019 Frontiers Media S.A. All Rights Reserved

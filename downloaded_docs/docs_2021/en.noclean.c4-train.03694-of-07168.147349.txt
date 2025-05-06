@@ -1,0 +1,149 @@
+Correlations Between Hearing Loss and Iron Deficiency Anemia - Medical News Bulletin | Health News and Medical Research
+Medicine
+Aging
+Alzheimer’s & Dementia
+Arthritis
+Cancer
+Cardiology
+Chronic Pain
+Complementary & Alternative Medicine
+Cosmetology
+Dental
+Dermatology
+Diabetes
+Drugs
+Genetics
+HIV/AIDS
+Internal Medicine
+Mental Health
+Medical Technology
+Neurology
+Obesity
+Ophthalmology
+Pediatrics
+Public Health
+Surgery & Regenerative Medicine
+Viruses & Vaccines
+Women’s Health
+Health and Wellness
+Fitness
+Lifestyle
+Diet
+Clinical Trials
+Pre-Clinical Research
+In the Pipeline
+Clinical Trials and Research
+More
+Medical Encyclopedia
+Medical Jokes And Teasers
+Medical Myths and Rumours
+Medical History
+Fun Tests
+Mind Games
+Medical IQ Tests
+Medical Calculators
+Medical News Quizzes
+Other Languages
+Français
+普通話
+Español
+Português
+Italiano
+Deutsch
+한국어
+Русский
+Search
+Friday, April 19, 2019
+Subscribe
+Medical News Bulletin | Health News and Medical Research
+Medicine
+AllAgingAlzheimer’s & DementiaArthritisCancerCardiologyChronic PainComplementary & Alternative MedicineCosmetologyDentalDermatologyDiabetesDrugsGeneticsHIV/AIDSInternal MedicineMental HealthMedical TechnologyNeurologyObesityOphthalmologyPediatricsPublic HealthSurgery & Regenerative MedicineViruses & VaccinesWomen’s Health
+How do plant-based meals benefit type 2 diabetes patients?
+Are people with migraines destined to suffer from dry eye disease?
+Quitting smoking: Are e-cigarettes or nicotine replacements more effective?
+Are infertility treatments safe for the mother-to-be?
+Health and Wellness
+AllFitnessLifestyleDiet
+Is evening exercise good for your sleep and appetite?﻿
+What causes noise-induced hearing loss?
+Benefits of fasting include anti-aging effects, study finds
+Can we fix sleep debt by sleeping in on the weekends?
+Clinical Trials
+AllPre-Clinical ResearchIn the PipelineClinical Trials and Research
+Clinical trial tests new diabetes drug with fewer side effects
+New leukemia treatment shows promising results in phase-3 clinical trial
+Is there a new drug to treat cannabis use disorder?
+Breast cancer drug may help treat muscle paralysis
+More
+Medical Encyclopedia
+Medical Jokes And Teasers
+Medical Myths and Rumours
+Medical History
+Fun Tests
+Mind Games
+Medical IQ Tests
+Medical Calculators
+Medical News Quizzes
+Other Languages
+Français
+普通話
+Español
+Português
+Italiano
+Deutsch
+한국어
+Русский
+Home Medicine Internal Medicine Correlations Between Hearing Loss and Iron Deficiency Anemia
+Medicine
+Internal Medicine
+Correlations Between Hearing Loss and Iron Deficiency Anemia
+By
+Medical News Bulletin
+-
+January 30, 2017
+Hearing loss has been associated with poor health and potentially with treatable conditions such as iron deficiency anemia. A recently published study assesses the correlation between sensorineural and conductive hearing loss, and iron deficiency anemia in the US population.
+Hearing loss has been reported among 15% of the US adult population, increasing in percentage by age. Potential risk factors for hearing loss include diabetes, tobacco use, and hypertension. A new study, published by the Journal of the American Medical Association Otolaryngology – Head & Neck Surgery looks into 2 categories of hearing loss: sudden sensorineural and conductive. Sudden sensorineural hearing loss is identified as an immediate onset of hearing loss occurring within a 72-hour period. Conductive hearing loss is characterized by a conflict of the ear in being able to conduct sound waves. The study attempts to distinguish a particular correlation between the two types of hearing loss and iron deficiency anemia, a condition resulting in a depletion of red blood cells in the body.
+Data for the study was collected from a sample of 305,339 adults between the age of 21 and 90 years old from January 2011 to October 2015. Patients with sickle cell anemia were excluded due to previously discovered correlations with hearing loss. Iron deficiency anemia was quantified by measuring hemoglobin and ferritin levels for the patients. Patients with hearing loss were categorized into sensorineural, conductive, or combined hearing loss. Chi-squared tests were used to compare data for the varying types of hearing loss and iron deficiency anemia.
+Iron deficiency anemia was present in 0.7% of the population while the prevalence of hearing loss was 1.6%, 0.7%, and 0.2% for combined, sensorineural, and conductive hearing loss, respectively. Results indicated that sensorineural hearing loss and combined hearing loss were both significantly correlated with iron deficiency anemia. Previous research has identified associations between healthy dietary habits and improved hearing. The study suggests that treatment of iron deficiency anemia, carried out through intake of iron supplements, may have beneficial effects towards correlated sensorineural and combined hearing loss as well.
+Although significantly pointing out an association between iron deficiency anemia and sensorineural or combined hearing loss, the study does not provide sufficient proof of simultaneous treatment of both conditions. Nevertheless, the research provides insightful information for potential treatment methods that could target both conditions together, reducing prevalence of iron deficiency anemia and hearing loss in a cost-efficient manner. The correlation also provides a lead for scientists and medical professionals, encouraging an understanding of the underlying biological connections between the two conditions.
+Written By: Shrishti Ahuja, BSc
+Facebook Comments
+TAGS
+anemia
+hearing loss
+Previous articleMigraine Patients Have an Increased Risk of Stroke Following Surgery
+Next articleThe Gene Editing Rumour
+Medical News Bulletin
+RELATED ARTICLESMORE FROM AUTHOR
+Do age and weight now affect asthma treatment?
+Is zinc useful as a non-antibiotic UTI treatment?
+Is it important to have a primary care doctor?
+Connect With Us
+* Indicates Required
+Your Name
+Email Address*
+Be the first to know about the latest medical and health research. Subscribe to our weekly newsletter.
+10611
+Fans
+4626
+Followers
+2478
+Followers
+Disclaimer
+The medical information on this site is provided as an information resource only, and is not to be used or relied on for any diagnostic or treatment purposes. This information should not be used as a substitute for professional diagnosis or treatment. Please consult your health care provider before making any healthcare decisions or for guidance about a specific medical condition. Medical News Bulletin, its writers and editors expressly disclaim responsibility, and shall have no liability, for any damages, loss, injury, or liability whatsoever suffered as a result of your reliance on the information contained in this site. Medical News Bulletin, its writers and editors do not endorse specifically any test, treatment, device, or procedure, or study results mentioned on the site.
+ABOUT US
+Medical News Bulletin is run by a not-for-profit organization "Medinfology" and committed to providing our readers with the most up-to-date, high-quality medical and research news.
+Contact us: [email protected]
+FOLLOW US
+About Us
+Editorial Team
+Advertise With Us
+Contact Us
+Privacy Policy & Terms and Conditions
+© Medical News Bulletin, 2015 - 2019. All rights reserved.
+MORE STORIES
+How do plant-based meals benefit type 2 diabetes patients?
+April 19, 2019
+Are people with migraines destined to suffer from dry eye disease?
+April 19, 2019
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();

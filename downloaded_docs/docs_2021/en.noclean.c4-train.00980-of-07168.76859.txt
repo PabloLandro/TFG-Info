@@ -1,0 +1,116 @@
+11 Flu Misconceptions | On The Table
+Sign in
+Health
+Health Tips
+Healthy Eating
+Men’s Health
+Women’s Health
+Fitness
+Lifestyle
+Recipes
+Shop
+All Meals
+How It Works
+Sign in
+Welcome!Log into your account
+your username
+your password
+Forgot your password?
+Password recovery
+Recover your password
+your email
+Search
+Sign in
+Welcome! Log into your account
+your username
+your password
+Forgot your password? Get help
+Password recovery
+Recover your password
+your email
+A password will be e-mailed to you.
+On The Table
+Health
+AllHealth TipsHealthy EatingMen’s HealthWomen’s Health
+Your Spring Produce Guide & Recipes
+Should You Be Taking Probiotics?
+Make Your Home Gym Work For You
+The Best (& Healthiest) Cup of Coffee
+Fitness
+Lifestyle
+Recipes
+Shop
+All Meals
+How It Works
+Home Health 11 Flu Misconceptions
+Health
+11 Flu Misconceptions
+With the current flu season claimed to be the worst one in years, people are actively searching for answers concerning “Can the flu shot make you sick?” “Is the flu shot a live virus?” and “Can you get the flu twice?” With a high volume of information out there, false, learn the flu fact from the misconceptions here!
+By
+Balance Team
+Facebook
+Twitter
+Google+
+Pinterest
+WhatsApp
+11 Flu Misconceptions
+1. The flu shot causes the flu.
+“Can the flu shot make you sick?” is an extremely common question, as there there is a lot of confusion on whether or not it can, and may even discourage people from getting vaccinated. However, the flu vaccine can not cause the flu, as A) the flu vaccine virus has either been “inactivated,” and therefore not infectious, or B) the flu vaccine contains no virus whatsoever. Nonetheless, people commonly mistake potential side effects of the flu vaccine with the flu itself, which may include soreness, redness, tenderness or swelling in the area where the shot was given, along with a low-grade fever, headache and muscle aches, which often last no longer than one to two days.
+2. The flu vaccine is the only way to protect against the flu.
+While the flu shot is the best way for protect against the flu, there are additional preventative measures one can take. Good health habits can protect yourself and others from the flu and help stop the spread of germs, including avoiding close contact, staying home if sick, covering your mouth and nose when coughing and sneezing, washing hands and keeping them clean, and avoiding touching eyes, nose, and mouth. Cleaning and disinfecting frequently touched surfaces, getting plenty of sleep, being physically active, managing stress, and consuming a nutritious diet can also protect against the flu.
+3. It is safer to get the flu over the flu vaccine.
+While serious allergic reactions towards a flu shot may be life-threatening, they are very rare and effective treatments are available if one were to occur. Nonetheless, the CDC confirms getting the vaccine is a safer choice over risking the chance of the flu. Whereas the vaccine has a generally safe track record, contracting the flu can be serious and potentially even deadly.
+4. You can only get the flu once.
+As if having the flu once wasn’t bad enough… Health experts warn the possible of getting the flu… Again. (You read that right, you can get the flu twice!) While there are various forms of the flu, including influenzas A, B, C, and D, and getting the same type of flu again is relatively low, individuals are still at risk and can become infected with a different strain.
+5. If you are allergic to eggs, you should not get the flu shot.
+For years, people with an egg allergy were told to avoid or take special precautions when getting a flu shot, as most vaccines are grown in eggs and contain a tiny amount of the egg protein. But according to an updated guideline from the American College of Allergy, Asthma and Immunology, there are no special precautions needed for flu shots for people allergic to eggs. Ultimately, the report stresses there is no need to see an allergy specialist for the flu shot, give special flu shots that don’t contain traces of egg, require longer-than-normal observation periods after the shot, or even ask about egg allergy before giving the vaccine.
+6. If you are considered healthy, you don’t need the flu shot.
+The CDC recommends annual influenza vaccinations for everyone aged six months or older, including seniors and pregnant women. It is imperative for all to realize the seriousness of the flu, as it increases likelihood of serious complications, hospitalization, and death even among individuals are considered to be healthy.
+7. You only need to get the flu vaccine once.
+Well, once each year… But the CDC encourages yearly flu vaccine for everyone 6 months and older, even when the virus that the vaccine protects against has not changed from the previous season.
+8. You can only get the flu vaccine at the beginning of the flu season.
+While it is encouraged to get the flu vaccine by the end of October, it is not too late to get vaccinated, especially if the virus is still circulating. In fact, most of the flu activity peaks between December and February, and may even last as late as May, justifying the significance of getting the flu shot later than normal rather than not at all.
+9. If you don’t display symptoms, you can’t spread the flu.
+Even in the absence of symptoms, the flu is highly contagious. According to the CDC, “Most healthy adults may be able to infect other people beginning one day before symptoms develop and up to five to seven days after becoming sick.” Since symptoms start one to four days after the virus enters the body, you can pass the flu before you even known you are sick. To avoid such risk, see flu misconceptions #’s 1 and 2.
+10. You can catch the flu by exposing yourself to cold weather.
+It truly is ironic flu season coincides with cold weather… However, they are entirely different and the only way you can catch the flu is via exposure of the virus, not by venturing out in the cold or walking in cold weather with wet hair.
+11. Feed a cold, starve a fever.
+While food may not seem the most appealing when feeling ill, starving yourself is not recommended despite the well-known wives’ tale. With a fever, the body is already burning calories at a much higher rate; and not replenishing the body with calories and energy can ultimately make the body feel depleted and weaker and contribute to muscle loss. Soft, bland foods may be the most desirable with a fever, including the nourishments from the BRAT diet (bananas, rice, applesauce, and toast). Hydration is also key during the flu, especially if vomiting and diarrhea is present and ongoing.
+Facebook
+Twitter
+Google+
+Pinterest
+WhatsApp
+Previous articleHow Much Sleep Do Adults Need?
+Next article17 Tips to Boost Mental Health
+Balance Team
+RELATED ARTICLESMORE FROM AUTHOR
+Should You Be Taking Probiotics?
+Make Your Home Gym Work For You
+The Truth About Chicory Root
+Must Read
+The Top 10 Most Popular Starbucks Drinks Ranked
+Balance Team - October 19, 2017
+0
+10 Food Combinations to Create Complete Proteins
+Balance Team - September 26, 2017
+0
+14 Tips for a Stress-Free Holiday Season
+Balance Team - November 16, 2017
+0
+Algae Oil: A Vegetarian Source of DHA and Omega-3
+Balance Team - September 20, 2017
+0
+20 Healthy Picnic Food and Snack Ideas
+Balance Team - March 13, 2017
+0
+POPULAR CATEGORIES
+Healthy Eating112
+Recipes111
+Health77
+Lifestyle66
+Health Tips56
+Fitness36
+Follow us on Instagram @balance.bistromd
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+Edit with Live CSS
