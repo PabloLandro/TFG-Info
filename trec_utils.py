@@ -1,67 +1,74 @@
-import os, sys, re, json
+import os, re, json, sys
 import xml.etree.ElementTree as ET
 from pyserini.search.lucene import LuceneSearcher
+from dotenv import load_dotenv
 
-YEAR = 2021
+load_dotenv()
+
+QRELS = {
+    2019: os.path.join("misinfo-resources-2019", "qrels", "qrels_raw"),
+    2020: os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels"),
+    2021: os.path.join("misinfo-resources-2021", "qrels", "qrels-35topics.txt"),
+    2022: os.path.join("misinfo-resources-2022", "qrels", "qrels.final.oct-19-2022"),
+}
+QRELS_GRADED_USEFULNESS = {
+    2019: os.path.join("misinfo-resources-2019", "qrels", "qrels_raw"),                 # NOT ADDED!
+    2020: os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels"),        # NOT ADDED!
+    2021: os.path.join("misinfo-resources-2021", "qrels", "2021-derived-qrels", "misinfo-qrels-graded.usefulness"),
+    2022: os.path.join("misinfo-resources-2022", "qrels", "qrels.final.oct-19-2022"),   # NOT ADDED!
+}
+TOPICS = {
+    2019: os.path.join("misinfo-resources-2019", "topics", "misinfo-2019-topics.xml"),
+    2020: os.path.join("misinfo-resources-2020", "topics", "misinfo-2020-topics.xml"),
+    2021: os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topics.xml"),
+    2022: os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml"),
+}
+INDEX_NAME = {
+    2019: "clueweb_rawtext2",
+    2020: "CC-NEWS-TREC-misinfo-2020",
+    2021: "C4",
+    2022: "C4",
+}
+
+YEAR = 2021 # Default to 2021
+SEARCHER = None
+
+def init_searcher():
+    global SEARCHER
+    INDEXES_DIR = os.environ.get("INDEXES_DIR")
+    if not INDEXES_DIR:
+        SEARCHER = None
+        return
+    from pyserini.search.lucene import LuceneSearcher
+    index_path = os.path.join(INDEXES_DIR, INDEX_NAME[YEAR])
+    SEARCHER = LuceneSearcher(index_path)
 
 def set_year(year):
     global YEAR
     if year not in [2019, 2020, 2021, 2022]:
         raise Exception("Incorrect year")
     YEAR = year
+    init_searcher()
 
-QRELS_2019=os.path.join("misinfo-resources-2019", "qrels", "qrels_raw")
-QRELS_2020=os.path.join("misinfo-resources-2020", "qrels", "misinfo-2020-qrels")
-QRELS_2021=os.path.join("misinfo-resources-2021", "qrels", "qrels-35topics.txt")
-QRELS_2021_graded_usefulness=os.path.join("misinfo-resources-2021", "qrels", "2021-derived-qrels", "misinfo-qrels-graded.usefulness")
-QRELS_2022=os.path.join("misinfo-resources-2022", "qrels", "qrels.final.oct-19-2022")
-
-TOPICS_2019=os.path.join("misinfo-resources-2019", "topics", "misinfo-2019-topics.xml")
-TOPICS_2020=os.path.join("misinfo-resources-2020", "topics", "misinfo-2020-topics.xml")
-TOPICS_2021=os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topics.xml")
-TOPICS_2022=os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml")
-
-INDEXES_DIR = os.getenv("INDEXES_PATH")
-print(INDEXES_DIR)
-INDEX_2019=os.path.join(INDEXES_DIR, "clueweb_rawtext2")
-INDEX_2020=os.path.join(INDEXES_DIR, "CC-NEWS-TREC-misinfo-2020")
-INDEX_2021=os.path.join(INDEXES_DIR, "C4")
-INDEX_2022=os.path.join(INDEXES_DIR, "C4")
-
-def get_year_aux():
-    if YEAR == 2019:
-        return QRELS_2019, TOPICS_2019, INDEX_2019
-    if YEAR == 2020:
-        return QRELS_2020, TOPICS_2020, INDEX_2020
-    if YEAR == 2021:
-        return QRELS_2021, TOPICS_2021, INDEX_2021
-    if YEAR == 2022:
-        return QRELS_2022, TOPICS_2022, INDEX_2022
-
-def get_year_aux_usefulness():
-    if YEAR == 2019:
-        return QRELS_2019
-    if YEAR == 2020:
-        return QRELS_2020
-    if YEAR == 2021:
-        return QRELS_2021_graded_usefulness
-    if YEAR == 2022:
-        return QRELS_2022
     
 def get_year_data(with_graded_usefulness=False):
-    qrels_file, topics_file, index_dir = get_year_aux()
+    qrels_file = QRELS[YEAR]
+    topics_file = TOPICS[YEAR]
     qrels = {}
     if with_graded_usefulness:
         qrels1 = get_qrels_dict(qrels_file)
-        qrels2 = get_qrels_dict(get_year_aux_usefulness(), skip_unuseful=False)
+        qrels2 = get_qrels_dict(QRELS_GRADED_USEFULNESS[YEAR], skip_unuseful=False)
         qrels = merge_qrels(qrels1, qrels2)
     else:
         qrels = get_qrels_dict(qrels_file)
     topics = get_topics_dict(topics_file)
-    searcher = LuceneSearcher(index_dir)
-    return qrels,topics,searcher
+    return qrels,topics
 
+# This is used only in 2021 for the confussion matrices
 def get_stats():
+    if YEAR != 2021:
+        print("Error: get_stats() is only implemented for YEAR == 2021.")
+        sys.exit(1)
     data = {
         "u": {
             "pos_vals": [1, 2],  # Example array of integers
@@ -200,34 +207,54 @@ def get_topics_dict(topics_file):
     return topics
 
 def read_gpt_output(gpt_line):
-
     if YEAR == 2019:
         output_format = r'^R=(0|1|2) E=(0|1|2|3) C=(0|1)$'
-        if not bool(re.match(output_format,gpt_line)):
-            raise Exception(f"Error: Format of response invalid: {gpt_line}")
         matches = re.findall(r"(R|E|C)=(0|1|2|3)", gpt_line)
+        if not bool(re.match(output_format, gpt_line)):
+            # Try to extract the pattern from a larger paragraph
+            search = re.search(r"R=(0|1|2) E=(0|1|2|3) C=(0|1)", gpt_line)
+            if search:
+                print("Warning: Extracted code from paragraph for 2019.")
+                code = search.group(0)
+                matches = re.findall(r"(R|E|C)=(0|1|2|3)", code)
+            else:
+                raise Exception(f"Error: Format of response invalid: {gpt_line}")
         out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
         print(out)
         return out
 
     if YEAR == 2021:
         output_format = r'^U=(0|1|2) S=(0|1|2) C=(0|1|2)$'
-        if not bool(re.match(output_format,gpt_line)):
-            raise Exception(f"Error: Format of response invalid: {gpt_line}")
         matches = re.findall(r"(U|S|C)=(-1|0|1|2)", gpt_line)
+        if not bool(re.match(output_format, gpt_line)):
+            # Try to extract the pattern from a larger paragraph
+            search = re.search(r"U=(0|1|2) S=(0|1|2) C=(0|1|2)", gpt_line)
+            if search:
+                print("Warning: Extracted code from paragraph for 2021.")
+                code = search.group(0)
+                matches = re.findall(r"(U|S|C)=(-1|0|1|2)", code)
+            else:
+                raise Exception(f"Error: Format of response invalid: {gpt_line}")
         out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
         print(out)
         return out
     
     if YEAR == 2022:
         output_format = r'^U=(0|1|2) A=(0|1|2)$'
-        if not bool(re.match(output_format,gpt_line)):
-            raise Exception(f"Error: Format of response invalid: {gpt_line}")
         matches = re.findall(r"(U|A)=(0|1|2)", gpt_line)
+        if not bool(re.match(output_format, gpt_line)):
+            # Try to extract the pattern from a larger paragraph
+            search = re.search(r"U=(0|1|2) A=(0|1|2)", gpt_line)
+            if search:
+                print("Warning: Extracted code from paragraph for 2022.")
+                code = search.group(0)
+                matches = re.findall(r"(U|A)=(0|1|2)", code)
+            else:
+                raise Exception(f"Error: Format of response invalid: {gpt_line}")
         out = {key.lower() if key != "C" else "cr": int(value) for key, value in matches}
         print(out)
         return out
-    
+
 def write_run_to_file(file, topic_id, doc_id, run):
 
     if YEAR == 2019:
@@ -248,17 +275,37 @@ def write_run_to_file(file, topic_id, doc_id, run):
         print(f"write{write}")
         return
 
+NOT_FOUND_LIST = []
 
-def get_doc_content(searcher, doc_id):
-    use_id = doc_id
-    if searcher.doc(doc_id) is None:
+def get_doc_content(doc_id):
+    global NOT_FOUND_LIST
+
+    # If SEARCHER is None, we use the downloads
+    if SEARCHER is None:
+        doc_path = os.path.join("downloaded_docs", f"docs_{YEAR}", f"{doc_id}.txt")
+        try:
+            with open(doc_path, "r", encoding="utf-8") as f:
+                return f.read()
+        except:
+            print(f"ERROR, doc not found in downloads: {doc_path}")
+            NOT_FOUND_LIST.append(doc_id)
+            return None
+        
+    # If SEARCHER is not None, we use the index
+    use_id = doc_id     # In some cases that <> tag needs to be added
+    if SEARCHER.doc(doc_id) is None:
         print("changing id")
         use_id = "<urn:uuid:" + doc_id + "git >"
     try:
-        return json.loads(searcher.doc(use_id).raw())["text"]
-    except Exception as e:
-        print(f"ERROR, failed with doc_id: {doc_id}")
-        if not searcher.doc(use_id) is None:
-            return searcher.doc(use_id).raw() 
-        not_found_list.append(doc_id)
+        return json.loads(SEARCHER.doc(use_id).raw())["text"]
+    except:
+        if not SEARCHER.doc(use_id) is None:
+            return SEARCHER.doc(use_id).raw() 
+        print(f"ERROR, doc not found: {doc_id}")
+        NOT_FOUND_LIST.append(doc_id)
         return None
+
+def print_not_found_docs():
+    global NOT_FOUND_LIST
+    print("The following docs where not found in the indexes")
+    print(NOT_FOUND_LIST)

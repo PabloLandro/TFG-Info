@@ -1,5 +1,5 @@
 from gpt import set_model, evaluate, print_total_tokens
-from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file, get_qrels_dict, get_doc_content
+from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file, get_qrels_dict, get_doc_content, print_not_found_docs
 from itertools import combinations
 import os, argparse, sys
 
@@ -68,12 +68,12 @@ not_found_list = []
 # This is used to check that the same prompt template for the same topic and doc is being sent twice
 history = {}
 
-def run_run_list(prompt_template, run_list, output, topics, searcher, no_evaluate=False):
+def run_run_list(prompt_template, run_list, output, topics, no_evaluate=False):
     run_count = 0
     for topic_id, doc_ids in run_list.items():
         with open(output, "a") as file:
             for doc_id in doc_ids:
-                doc = get_doc_content(searcher, doc_id) 
+                doc = get_doc_content(doc_id) 
                 if doc is None:
                     print(f"NONE DOCUMENT {doc_id}")
                     continue
@@ -101,7 +101,7 @@ def print_not_found_docs():
     print(not_found_list)
 
 
-def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, output_dir, topic_list, prompt_names=[], no_evaluate=False):
+def get_runs_featured_prompt(featured_prompt_template, qrels, topics, output_dir, topic_list, prompt_names=[], no_evaluate=False):
     prompt_template_list = get_prompt_template_list(featured_prompt_template)
     os.makedirs(output_dir, exist_ok=True)
     for (prompt_template, features) in prompt_template_list:
@@ -120,12 +120,12 @@ def get_runs_featured_prompt(featured_prompt_template, qrels, topics, searcher, 
         print("Exclude dict:")
         print(exclude_dict)
         run_list = get_run_list(topic_list, qrels, exclude_dict=exclude_dict)
-        run_run_list(prompt_template, run_list, path, topics, searcher, no_evaluate=no_evaluate)
+        run_run_list(prompt_template, run_list, path, topics, no_evaluate=no_evaluate)
 
-def get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, output_file, topic_list, no_evaluate=False):
+def get_runs_non_featured_prompt(prompt_template, qrels, topics, output_file, topic_list, no_evaluate=False):
     exclude_dict = get_qrels_dict(output_file, skip_unuseful=False)
     run_list = get_run_list(topic_list, qrels, exclude_dict)
-    run_run_list(prompt_template, run_list, output_file, topics, searcher, no_evaluate=no_evaluate)
+    run_run_list(prompt_template, run_list, output_file, topics, no_evaluate=no_evaluate)
 
 
 def create_parser():
@@ -204,14 +204,14 @@ if __name__ == "__main__":
 
     set_model(args.model)
 
-    qrels, topics, searcher = get_year_data()
+    qrels, topics = get_year_data()
     print(args.no_evaluate)
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
-        get_runs_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
+        get_runs_featured_prompt(prompt_template, qrels, topics, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
     else:
-        get_runs_non_featured_prompt(prompt_template, qrels, topics, searcher, args.output, args.topic_list, no_evaluate=args.no_evaluate)
+        get_runs_non_featured_prompt(prompt_template, qrels, topics, args.output, args.topic_list, no_evaluate=args.no_evaluate)
 
     print_not_found_docs()
     print_total_tokens()

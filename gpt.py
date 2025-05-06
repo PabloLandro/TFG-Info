@@ -1,8 +1,6 @@
-import os
-import requests
+import os, requests, tiktoken, ollama
 from dotenv import load_dotenv
-import tiktoken
-from ollama
+
 # Load API key from .env
 load_dotenv()
 api_key = os.getenv("API_KEY")
@@ -86,9 +84,9 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
         # Ollama: Directly call the chat function
         if no_evaluate:
             return None
+        print(prompt)
         print("Evaluating with ollama")
         response = ollama.chat(model=current_model, messages=[
-            {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
         ])
         return response['message']['content']
