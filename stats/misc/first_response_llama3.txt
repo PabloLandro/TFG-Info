@@ -1,0 +1,11 @@
+Format of response invalid: Based on the question and the document, I provide the following scores:
+
+U = 1 (Usefulness): The document provides information about the AchilloTrain Ankle Support, its features, and benefits. While it does not directly answer the question "Will wearing an ankle brace help heal achilles tendonitis?", it provides relevant information that may be useful for a user trying to make an informed decision.
+
+S = 1 (Supportiveness): The document supports the use of an ankle brace for treating Achilles tendonitis, but it does not explicitly state whether wearing an ankle brace can help heal the condition. Therefore, I give it a neutral score of 1.
+
+C = 2 (Credibility): Bauerfeind is a well-established company in the medical industry, and their products are known for their high quality and effectiveness. The document provides detailed information about the AchilloTrain Ankle Support, its features, and benefits, which suggests that the company has a strong reputation and expertise in this area.
+
+Output: U=1 S=1 C=2
+
+3:38
