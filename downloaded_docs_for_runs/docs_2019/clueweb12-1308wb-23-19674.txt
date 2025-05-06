@@ -1,0 +1,15 @@
+
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: Mon, 1 Jan 2001 00:00:00 GMT
+Last-Modified: Thu, 05 Apr 2012 17:35:26 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.2.2
+P3P: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+X-Powered-By: ASP.NET
+Date: Thu, 05 Apr 2012 17:35:26 GMT
+Connection: close
+
+Feverfew Tea Hilde Hemmes' Herbals Healthcare Naturally About Us Products Biotta Juices Books Detox Programs Hair Care Herbal Capsules Herbal Creams Herbal Extracts Herbal Teas Medicinal Wines Miscellaneous Organic Foods Slimming Programs Health Conditions Where To Buy Find a Store Contact Us Headaches / Migraines Feverfew Tea Swedish Bitters Tincture Information Ask Hilde? Search This Website Login Login Feverfew Tea Feverfew has a well-documented historical use mentioned by the  Greek herbalist Dioscorides, English physician Culpeper and the famous  herbalist John Hill. The traditional uses of this herb have covered many ailments, but it  was not until 1973 at the suggestion of a friend, Mrs Anne Jenkins of  Wales started taking three fresh leaves of feverfew to relieve recurrent  migraines. Her favourable findings eventually lead Dr Stewart Johnson, a  migraine specialist, to start a detailed survey. Today there have been  at least six randomised, double-blind, placebo-controlled clinical  studies confirming the benefits of feverfew, in the prevention of  migraine headaches. Medicinal Use Clinical studies show that feverfew (when taken regularly) reduces  the frequency and symptoms of migraine headaches. It may also be taken  for the symptomatic relief of tension headaches. For best results take  feverfew for a few months or longer, if required. Active Ingredients Each 2.5 mL level metric spoon contains Feverfew ( Tanacetum parthenium ) herb dry 500 mg. Features / Benefits Listed with the Therapeutic Goods Administration (TGA) as a herbal medicine. Contains no artificial colours, preservatives, caffeine, gluten, sugars or lactose. Label contains appropriate information based on latest herbal monographs. Least expensive way of taking a herbal medicine. Dosage Adults and children over 12 years: infuse 2.5 mL (1/2 level metric teaspoon) with one cup of boiling water, steep for 10-15 minutes and strain. Drink 1-2 cups daily. Pack Size & RRP 50 g - AUD$7.07 Precautions Use only as directed. If symptoms persist consult your healthcare practitioner. Link1 | Link2 | Link3 Copyright © 2011. 

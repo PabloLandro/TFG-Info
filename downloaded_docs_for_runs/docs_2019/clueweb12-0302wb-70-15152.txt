@@ -1,0 +1,1262 @@
+
+HTTP/1.1 200 OK
+Date: Sun, 19 Feb 2012 16:07:27 GMT
+Server: Apache/2.2.9 (Debian) PHP/5.2.6-1+lenny9 with Suhosin-Patch
+X-Powered-By: PHP/5.2.6-1+lenny9
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html
+
+AG RVS - Sociology of Scientific Knowledge is Not Radically Sceptic Bielefeld University - Faculty of Technology Networks and Distributed Systems Research group of Prof. Peter B. Ladkin, Ph.D. Sociology of Scientific Knowledge is Not Radically Sceptic Peter B. Ladkin Report RVS-Occ-02-01 Abstract: My main thesis is that a view of science often taken by
+sociologists of science, considered to be radically sceptic by Jean Bricmont
+and Alan Sokal, is compatible with a naively realist view of science, indeed is
+justified as a description of everyday scientific activity and its
+products. There are, however, views of science incompatible with a naive
+realism, say, those proposed by so-called postmodern critics, in which science
+is just another form of political activity and a connection to any "facts" is
+illusory.  Such views are harder to argue against than it might seem, even
+though they might appear to be extreme, and obviously false.  The two views,
+one compatible with naive realism and the other not, should be distinguished.
+It is also worthwhile summarising some sources of the views of scientists of
+what science is. I include a resumé due to Larry Laudan. Thesis Bricmont and Sokal have proposed that a view " whereby all facts
+are "socially constructed", scientific theories are [..] "myths" or
+"narrations", scientific debates are resolved by "rhetoric" and "enlisting
+allies", and truth is simply intersubjective agreement " is a form of
+radical scepticism at least equivalent to Cartesian scepticism.  They conclude
+that those sociologists engaging in the "strong program" of sociology of
+scientific knowledge (SSK) are committed to such radical scepticism.  
+I argue that the so-called "Strong Program" SSK has no need of any theory of
+truth, let alone truth as intersubjective agreement. Further, I argue that,
+except for the thesis of truth as intersubjective agreement, and
+understood as a description of part of scientific activity and its
+products, these views are largely compatible with a realist view of truth. Contents What the Fuss is About I give the background to Alan Sokal's first intervention in this
+      debate, when he set out to attempt to show that intellectual standards in
+      cultural studies, as far as they commented on science, were low. Gibberish in relation to the Postmodern 
+       Intellectual The second intervention, by Bricmont and Sokal, was a book ( Impostures
+      Intellectuelles , Editions Odile Jacob, Serie Le
+      Livre de Poche, 1997) which took various commentators to task for
+      their badly justified (indeed, Bricmont and Sokal would hold, 
+      unjustifiable) views of science and scientific activity. Despite the 
+      sometimes absurd-sounding views of the commentators, I consider 
+      which part of the elephant they may have been feeling Doing And Saying One of those pilloried by Bricmont and Sokal is Bruno Latour, a
+     notable sociologist with joint appointments at the most prestigious
+     social scientific research institutions in Britain and France, whose
+     pioneering work concerned the ethnography of science: observing what 
+     scientists actually do day to day in their working environments, rather
+     than what we say we do. The Debate Over SSK I then consider one aspect of the "Strong Program" (SP) thesis of the 
+     sociology of scientific knowledge (SSK), namely the role of truth. I
+     contend that SP SSK does not need a theory of truth. A contrary to
+     this view, advanced by some scientists, would lie in an example
+     of which the sociological features could not be satisfactorily
+     explained without referring to the truth or falsity of some
+     scientific thesis. I attempt to construct such an example, using
+     the Dutch Book Theorem of game theory. Although the example looks as
+     if it may succeed, I note that both the SP-adherent and the truth 
+     relativist have ready replies Scientific Activity and Demarcation 
+     Criteria The views of scientists do not come ready-formed out of nowhere. 
+     I follow the synopsis of Larry Laudan of the history of the most
+     important views of what science is, developed by its protagonists
+     since Aristotle. Laudan elaborates the criteria that have been
+     proposed to demarcate science from other human activities. Versions
+     of these views are held by many scientists nowadays. I also introduce
+     David Bloor's SP demarcation criteria. Critique of A Critique Finally, I consider the constellation of views enumerated and
+     considered equivalent to radical scepticism by Bricmont and Sokal,
+     as well as the "infamous" view attributed to Collins that " the
+     natural world has a small or non-existent role in the construction
+     of scientific knowledge ", and use my own experience as a scientist
+     to argue that, when seen in the right light as a description of what
+     scientists accomplish and how, rather than what "science" accomplishes
+     (which in light of the failure of find satisfactory demarcation
+     criteria, seems to be a phrase without a reference), they are mostly 
+     accurate. Although the argument in this section will seem routine to 
+     sociologists of scientific knowledge, it may surprise some scientists. Acknowledgements Thanks to those who have commented. What the Fuss is About There has been a lot of discussion recently about different views of
+science, and mutual incomprehension between a certain group of students of
+the ways of science (varying from "postmodernist" literary critics to
+sociologists who have studied the ways that scientists work) and
+many scientists themselves, who find some or all of these views 
+incomprehensible. Two facets of the debate (it has many) could be put crudely thus. One facet
+holds that science is an activity in which people engage in a search for the
+truth about various aspects of a physical world which contains us; successful
+science is that in which the truth can be determined to all intents and
+purposes. There are many things left undecided (where is the dark matter?), and
+many that do not admit of determination (who is the Dark Lady?), so this
+inquiry cannot ever be expected to be complete. The other facet holds that
+science is essentially a political activity involving consensual agreement
+among members of a guild-like community (that of "scientists"): successful
+science is that whose proposals succeed in holding sway, and " the natural
+world has a small or non-existent role in the construction of scientific
+knowledge" (attributed to Harry Collins by Susan Haack (in Manifesto of
+a Passionate Moderate , University of Chicago Press, 1998, p91), also by
+Jean Bricmont and Alan Sokal ( Science and Sociology of Science: Beyond War
+and Peace , Jay. A. Labinger and Harry Collins, eds, The One Culture: A
+Conversation About Science , University of Chicago Press, 2001). Bricmont
+and Sokal suggest Collins is paraphrasing a view he may not himself
+hold. Collins has confirmed this in a private communication. His view at the
+time was that SSK practioners " must act as though truth, etc
+.... . However, his comment was repeated in the introduction to the
+journal's issue without the conditional. Collins notes that his view of the
+relationship of evidence and truth changed thereafter changed, around 1981). Those proposing the second facet often claim that the notion of truth is
+essentially relative. There are no truths as such; there are just propositions
+that people assent to (a view associated with Richard Rorty). This view
+conflicts, for example, with a claim that if we all died out tomorrow from some
+mysterious disease, the earth and sun would nevertheless continue in their
+relative motions. For if there were no humans, there could be no consensual
+agreement and thus no truths. Since such a view of truth conflicts with what
+appear to be truisms, it is taken by many to be a reductio ad absurdum of the
+second facet. Susan Haack suggests that " Rorty has stripped [the notions of]
+"justification", as he has "belief", "inquiry" and even "discussion", of
+essential content. " (p20, Manifesto of a Passionate Moderate, University of
+Chicago Press, 1998). There are cultural traits which induce the two facets into mutual
+incomprehension. One concerns style of writing. There is a form ideally used in
+science and analytic philosophy, in which, crudely put, every sentence is
+supposed to be literally true, and in which a thesis is declared, which is then
+(supposed to be) supported by rational argument (a précis of a deductive
+argument, let us say). Let us call this the LT form.  A piece of LT writing is
+judged to be acceptable or not according to whether every sentence is true and
+the thesis contained therein is indeed rationally supported by the argument
+presented. At least, that's the way the story goes. Other sorts of writing, say
+poetry and fiction, are not LT. They adhere to a different convention in which
+all sentences have the same status (they are not necessarily to be judged
+according to their truth) and what matters is how they are linked together and
+how they affect an observer. These two forms of communication do not
+invariably handle distinct topics.  Poetry is often said to convey truths about
+the world, and there is a real sense in which the best of it does. Conversely,
+one often speaks about the beauty of particular pieces of science and
+mathematics and compares it with music or painting. But while few scientists might feel that Einstein's short paper on Brownian
+motion would qualify as an essay for The Paris Review, some adherents of the
+second facet may well propose that it might. They have suggested that poetry,
+political tracts, mathematics, experimental science, indeed all writing, have
+equal status.  Indeed, whatever status writings may have under which they are
+equal, such a view does seem to follow from Rorty's claim that truth is just
+another word for agreement. Either way, assessing the literal truth of
+assertions does not appear in any case to be a major criterion for much
+successful writing, even discursive writing. Let us call this form in which
+"everything is equal" the EE form. An EE position is associated with postmodernist deconstructivism.
+Deconstructionism is a name for a style of criticism in which one expresses
+one's reaction to a text and this reaction itself is taken as being a fact
+(insofar as there is any) about the text itself.  Asking what an author "really
+meant" is regarded as a faux question. Indeed, there is no essential
+distinction between literature and criticism.  In this milieu, science and
+literature are to be judged according to similar criteria, as are literary
+criticism and scientific commentary, themselves being literature and science,
+and reading novels and learning how to deal with differerential equations are
+to be treated equally. It is popularly supposed, with some justification, that deconstructivists
+cannot give a coherent story as to how, in virtue of their writings alone, they
+get read and listened to in preference to the commentary of my four-year
+old son.  But they can reply that neither can scientists give a coherent story
+as to how science is the way it is. They say, with some justification, that
+what scientists say about what they do is not actually what they do;
+that what they actually do has consequences not only for the development of
+their science, but also for the rest of society; and that these consequences
+cannot adequately be explained by the "rational reconstruction" of their
+activities that scientists would prefer to have accepted as their public face. Not only the postmodernists can reply thus. Those sociologists who study SSK
+are also interested in how science is actually done, and in the discrepancies
+between what scientists claim they do and how their field "progresses", and
+what scientists actually do and how the historical record and current
+observation says things got and get decided or resolved. For without a doubt
+there are discrepancies, and one cannot say whether they matter or not unless
+one looks. Like Pandora, they look. One might imagine that EE entails non-discrimination of texts. But this cannot
+be so. Postmodernism and deconstructivism have their journals; articles are
+selected on some non-random basis; tenure decisions are still made partly on
+the basis of publishing record (try publishing nothing!), and so on.  An
+interesting - sociological - question concerns the publishing habits and styles
+in different disciplines, for they vary widely. Even though one may not believe
+in "standards", one can still inquire what the standards are in a particular
+discipline. So how about comparing standards of scientific journals with 
+those in postmodern studies? Enter Alan Sokal, a New York physicist who likes a prank, and who wanted to
+discover whether there was a demonstrable difference in intellectual judgement
+involved between, say, getting a paper accepted for a major physical journal
+and getting it accepted in a major social commentary / "cultural studies"
+journal. He seems to have found an example of one, although he notes he did not
+exactly perform a controlled experiment. He wrote a spoof article which took a
+number of outrageous statements about physics and society (some of them lifted
+verbatim from some of the deconstructionist thinkers), edited it carefully to
+make sure it was utter nonsense, and sent it to the renowned journal Social
+Text. It was accepted and published in 1996 without peer review, on the
+judgement of the two editors who admitted in print later that they didn't
+understand it. Sokal published an article a little later in the journal Lingua
+Franca in which he announced it was a hoax, and explained why he had done it,
+namely to show that intellectual standards in the target milieau were
+vapid. His physicist colleague Jean Bricmont joined his side of the debate. Then the outraged hordes descended (pick your side).  Sokal and Bricmont
+published a book, ( op.cit. ) which attempts to deconstruct
+deconstructivist writing and leaves the remaining characters in a little
+tangled heap on the floor. A number of prominent intellectuals, mostly French,
+were taken apart chapter by chapter. Sokal and Bricmont appear to have been
+living high on the debating circuit ever since. As well as their book, they
+have published a large number of papers on the topic in the haunts of the
+litcrit and SSK crowds. They do seem to have gone native. Well, one might
+think, somebody had to. My impression is that this topic is far more complicated than it seems.  The
+views of the radical relativists are hard to refute on their own terms.  EE
+views may be self-consistent not only with respect to EE standards but also
+with respect to LT form. Self-consistency is, however, not the only criterion
+of acceptability (although it has been proposed to be so in mathematics, for
+example, in the Hilbert program). Bricmont and Sokal claim that this
+self-consistency is bought at an epistomological price far too high reasonably
+to pay. Gibberish in relation to the Postmodern 
+Intellectual One suspects that the editors of Social Text felt that Sokal's disdain had a
+smidgin of truth (sorry, consensus) to it.  They could have argued,
+consistently with EE and deconstructivism, that even gibberish can be fecund (consider Finnegan's Wake); they accepted Sokal's paper on its potential fecundity; and events have shown their decision to be spectacularly accurate, with the
+      explosion of interest from all walks of academia in the event, its 
+      meaning and its consequences. But they did not, even though each of these assertions is apparently true.
+That they did not give such a resounding, indeed persuasive, answer suggests
+they are not without their doubts as to a thoroughgoing deconstructivism. Bricmont and Sokal have two main theses. The first is my main topic, discussed
+later. The second is that they consider much of "postmodernist"
+deconstructionist-style writing intellectually vapid and establish this claim,
+as do others, by quoting at length. They do find some wonderful and amusing
+tidbits, as do others such as Susan Haack ( op.cit. ). If one is judging according to the LT criterion, it is appropriate to critique
+quotations which appear to be meaningless, false or fanciful; every sentence is
+supposed to be true, and any that is not is ground for criticism. One may think
+to contrast LT with, say, literary criticism, in which quoting a few lines of
+Thomas Mann would barely suffice for a serious commentary on any novel of his.
+However, it is difficult to formulate LT precisely.  Boundaries become
+blurred. Even in LT form, some sentences must be considered in context (for
+example, sentences asserted as consequences of previously-introduced
+counterfactual hypotheses could not be taken to be literally true). An adherent
+of EE could point out that even LT adherents acknowledge the importance of
+context in evaluating (what they claim to be) truth, and so a series of
+arguments supported by selected quotes is just a further deconstructivist
+contribution which by no means invalidates the original text, as Sokal and
+Bricmont hope to do. One notes further that EE provides a uniform theory for all forms of written
+communication. In contrast, the status of literary writing has long posed a
+philosophical puzzle for those whose realist philosophical predilections
+incline them to LT. While having a theory of everything is not always
+preferable to having a theory of some small thing, even some scientists claim
+it as a selection criterion amongst their own theories. Bricmont and Sokal's attempt to deconstruct the deconstructivists, Impostures Intellectuelles , takes people to task.  Julia Kristeva, known
+inter alia for her biography of Hannah Arendt, and one of Bricmont and Sokal's
+targets, is reported by the newsletter of my university to have declined an
+invitation to come to the ZiF research center at Bielefeld to debate Bricmont
+and Sokal and others, on the grounds that she considered it - whether the
+invitation or the debate is not clear - an insult to "French culture". How may
+we take this? One response might be to note that the situation as described is as cute a
+comment about what "French culture" may take itself to consist in as any by
+Bricmont and Sokal. It seems that not only Groucho Marx considers an
+invitation to speak one's mind as an insult to one's culture.  A second
+response might be to suppose that the situation may have been misdescribed by
+the newspaper, due to misunderstanding or even bias. There could be some
+simple animosity between the participants that would preclude an interesting
+debate, for example, and Madame Kristeva could have known so. What can we make of these two responses? Surprisingly, the first is a passable
+deconstructivist response to the pure "text". I read it: it exists; I am
+entitled to comment as it occurs to me to do so, and what occurs to me is
+Groucho's disdain for being a member of any club willing to offer him
+membership. Basta. I am part of the "development" of the text and
+Madame Kristeva, the Bielefelder Universit\"atszeitung, Peter Ladkin and
+Groucho Marx are forever linked in literary history. What a rich world! The second response supposes there was a fact of the matter about what went on,
+and the report partially but accurately reflected that fact of the matter, or
+it did not. That "fact of the matter" involves a lot of uncertainty,
+however. Imputations of emotions, responses, the meaning of certain types of
+exchanges, intentions, and so on, many of which are open to doubt and likely
+remain undiscoverable after the fact. Social and psychological "facts" are
+notoriously slippery things on which to get purchase. For all our presumptions,
+we may never be able to decide between the proposal that Madame Kristeva's
+reply was generated by her thoughtful self, and the proposal that she has
+memorised a few thousand sentences, selects one randomly as the basis for her
+reply, and writes supporting material around it.  We simply have no way of
+really knowing. All we have that we can really rely on is what she wrote, and
+what the university newspaper wrote. Any further interpretation is, in a real
+sense, ours. Apart from the existence of the text, any "fact" comes ultimately
+out of our own heads. So the "deconstructivist" comment involving Groucho has,
+in some sense, more reality to it than any supposition I may make about what
+"really went on" during an exchange of invitations, even assuming the newspaper
+wasn't making the whole thing up as some sort of late-summer April Fool's. So is this all, as a prominent US intellectual is reported to have said,
+"French nonsense!  Gibberish!"?  Let us put it in the philosophical context.
+Western modern philosophy has tried for centuries to construct the world out of
+signals impinging on the senses, out of so-called sense data (from the British
+empiricists to Husserl). In response to scepticism that this could effectively
+be done (Hume's comments on the epistomology of causality), intellectual
+frameworks were constructed in which our modes of comprehension of the world
+are inevitable (Kant). Then, after many further adventures, it was proposed to
+explain the world on the basis of the ontology of logic (the logical atomists:
+Russell, Wittgenstein) and veridical observations of the world were supposed to
+be limited to these (the logical positivists).  Then positivism was
+rubbished. And so on. Through all of this, the notion of how descriptions
+relate to the things they purport to be describing, of how assertions
+represented in language relate to the "facts" in the world they are supposed to
+describe, remains highly problematic. Deconstructivist postmoderns start from text, from what has been said,
+which is at least somewhat more concrete than sense-data ever were (it is hard
+coherently to doubt the existence of texts, unless one is a radical Cartesian
+sceptic; in contrast, even today people wonder what sense-data might be), and
+although they may construct an infrastructure on top of that, they do not
+necessarily attempt to construct reality and "facts" the way that Western
+empiricists or rationalists have attempted.  For example, they have the same
+kinds of difficulties reconstructing the notion of truth that even true
+believers in the idea have. But rather than institute a social convention to
+believe in LT and figure out the details later, they have instituted a social
+convention according to which, if one cannot figure out what truth consists in,
+then one does not presume to judge complex writing according to it. That has a ring of practical sense to it. It is hardly a radical sceptical position, which, as Bricmont and Sokal point out, seems to have
+little practical sense to it at all. It seems to be consistent with all sorts
+of things, including the Quine-Duhemian and Kuhnian orthodoxies in foundations
+of natural science. And it takes twentieth-century analytic philosophy
+seriously in putting language at the center of things. It is popularly supposed that believing in the relativity of truth and thus of
+facts leads one to have difficulty crossing the street (one is taken to be a
+sceptic about the existence of cars and social rules of the road).  The
+persistence of the form shows this worry to be misplaced, for believers do not
+appear to be selected against naturally, as Darwin might have supposed.  Hume
+didn't have trouble crossing the street either, despite his purported
+scepticism about causality (although some recent commentators have taken Hume's
+to be an epistomological position concerning ignorance, and not a
+sceptical position vis a vis causality).  Crossing the road, like dunking
+witches, is probably not a good criterion for intellectual veridicality.  Many
+philosophers have considered starting from language as the basis for
+reconstructing whatever it is that our reality consists in, indeed some
+consider this the basis for twentieth century analytic philosophy. One can
+hardly consistently begrudge the deconstructivists their fundament. But what
+about the direction in which it takes them? Maybe EE is another Wittgensteinian
+language-game whose rules are obscure to most Anglo-Saxon analytic
+philosophers, most professional scientists (though not all), and most
+mathematicians. Wittgenstein persuaded us that there are no rules about what
+rules there are, not even this one. The particular game played by
+deconstructivists seems to be more kin to performance art than it does to the
+stuff that I like to look and wonder at in art exhibitions. That all said, does a working scientist have to engage deconstructivism in 
+daily life? No. A working philosopher of science?  No. Maybe a computer
+user or a bicycle rider?  No. Taxi driver, bus driver, pilot? No. It seems as
+if many of us can get along fine without worrying, as long as the litcriterati
+don't outpatois my wine dealer and run off with all the good wine. Or the
+research grants which belong to Truly Serious People such as, well, myself. Doing And Saying So the relativist enterprise itself does not appear to be out to lunch,
+though some of the litcritical targets of Bricmont and Sokal's commentary
+may appear to be. But therein lurks a Trojan Horse. Bruno Latour is a
+sociologist who has made a career from sneaking into labs in broad daylight and
+publishing details about what consenting scientists do to each other,
+not all of which may be suitable for children. Bricmont and Sokal find enough gibberitical statements of sufficient brevity in
+Professor Latour's work to haul him over the coals.  However, Latour is also
+renowned, even revered, and certainly rewarded, as a perceptive and original
+commentator on the ethnography of scientific activity. Scientists, and
+philosophers of science, must take his work very seriously indeed.  Among other
+things, he is one who can tell the governments (of three countries at least)
+what we actually do with its money rather than what we say we do. That is not a totally facetious comment. The philosopher James Fetzer took a
+prominent swipe at the formal verification community of computer scientists in
+1988, in what was then one of the major organs of computing science and
+technology, the Communications of the Association for Computing Machinery, in
+which he claimed to have demonstrated that program verification was impossible,
+and suggested that funding for it should be cut. This engendered howls of
+outrage from amongst the formal verification community, whose major published
+arguments in response appealed to authority to judge Fetzer's argument to be
+nonsense. Unfortunately, their appeal to authority was self-reflexive and thus
+not exactly persuasive to those outside the community (or even some of those
+within it, such myself and Leslie Lamport, who noted to the authors that
+" Fetzer made mincemeat of you, and Denning ground the remains into the
+dust ", quoted in Chapter 6 of Donald McKenzie, Mechanizing Proof, MIT
+Press, 2001, which recounts the controversy). Nobody seemed to address the
+substance of Fetzer's arguments, although two later comments (by Brian Randell
+and John Dobson, respectively, Jon Barwise) went some way towards it. Oddly,
+Fetzer's arguments yield to straightforward counterexamples, and it remains a
+mystery to me why these were not regarded as decisive refutations of his
+view. Some computer scientists have also said to me in private that they
+thought he was largely correct.  It seems there is no uniform view in the
+computer science community about the correctness of Fetzer's arguments. At
+least they can't be considered to be knowledge, consensual or otherwise. So I was already disposed to be curious about the underlying sociology before
+the discussion over Sokal's spoof.  It seems as though there are issus to get 
+serious about. Let us engage. The Debate Over SSK The "Sociology of Scientific Knowledge" debate is intellectually non-trivial.
+"Knowledge" in SSK means not what it does to philosophical epistomologists.
+Philosophical epistomologists used to consider knowledge as something like
+"justified true belief" (no longer, since the Gettier examples. Maybe knowledge
+is something like a true belief that is justified by that which explains its
+truth, but I don't mean to pursue this here).  "Knowledge" in SSK means "shared
+institutionalized belief" (cf. Donald MacKenzie, Knowing Machines, MIT Press
+1996/1998, p9). Barry Barnes and David Bloor delineated the "Strong Program" (SP) of SSK (Barry
+Barnes and David Bloor, Relativism, rationalism and the sociology of knowledge,
+in Martin Hollis and Steven Lukes (ed.), Rationality and Relativism, Oxford:
+Basil Blackwell, 1981), in which the practioner is enjoined to pursue hisher
+researches without being influenced by the actual or claimed truth or falsity
+of the scientific claims which are the subject of the subjects of the study. SP
+is strictly agnostic about what the truth is; it is a negative thesis
+concerning the relevance of truth. Holding a relativist theory of truth, and
+being agnostic about truth are not the same thing, but a tendency
+to conflate them may have led to some misunderstanding. Especially since
+some sociologists do seem to accept a apparent relativist idea of facts (thus
+the comment cited above: " the natural world has a small or non-existent
+role in the construction of scientific knowledge" ). Many scientists do not accept, though, that agnosticism about truth is an
+appropriate position to take for those describing their activities.  These
+scientists believe that one cannot tell a coherent story about scientific
+activity unless one incorporates information about the correctness - meaning
+truth - or otherwise of the scientific views. This is what is thought to give
+science its prestige. The scientific way (whatever it might be) is regarded by
+its practioners as a demonstrated efficient set of ways to ascertain the truth
+about features of the physical world, and if you take the "truth" bit out,
+there is concern that you could't distinguish it from any religion. Indeed, the
+philosopher of science Paul Feyerabend argued some thirty years ago that there
+was nothing essential about science to distinguish it from other myths.  Some
+regard Feyerabend as having taken the Quine-Duhemian and Kuhnian orthodoxies to
+their logical conclusion. But this kind of conclusion won't do, say some
+scientists. Galileo and the pope's people discussed substantial issues: does
+Jupiter have moons or doesn't it? This kind of question is not directly
+comparable with attempting to determine the identity of Shakespeare's Dark
+Lady. The former is, well, factual, and the latter not. Darwin and creationists
+had similar factual disagreements (and it is still going on 150 years later).
+It isn't just a football game. The earth isn't flat, and nobody can coherently
+say that it is. Jupiter really does have moons, as Galileo said (note that it
+took a few hundred years for the church to reconcile itself with Galileo,
+whereas it takes much less time for scientists to accept new discoveries
+that contradict their own work). No religion has built airplanes, immunized us
+from smallpox, measles and poliomylytis, extended our life expectancy to 75+
+years, or landed us on the moon. No other "myth" has come anywhere near such
+distinctive consequences. A weaker form of objection to thorough-going SP would consist in suggesting
+that sometimes , not necessarily always, the truth or falsity of some
+scientific proposition or other is relevant to a sociological account of
+the science. I am amongst those who incline to this view. Indeed, some
+sociologists may incline to this view also. However, there are good reasons for not factoring in truth, sociologists 
+can reply, so whether or not thorough-going SP is achievable, it should
+at least be attempted. The exhortation to SP contains no proof
+that SP is always achievable: it is a method, not a fact. Justification for this method is as follows.
+First, that something is true is almost always no explanatory
+help at all in figuring out how people came to accept its truth. Knowing that
+Fermat's Last Theorem is true, as most mathematicians believed for a long time,
+is no help at all in describing Wiles's and others' struggles to establish its
+truth, and that latter is what we sociologists are interested in.  And if
+a flaw is discovered in the proof in a couple of years or decades, should
+that invalidate our social observations on Wiles's discovery? If doesn't
+seem as if it should, but if we relied essentially on veridicality or 
+objective correctness to make our observations, it would. Consider another example: Hilbert's formalist program to demonstrate the
+rationality of mathematics by exhibiting methods of reducing mathematical
+statements to those of simple arithmetic. Such a reduction, if it succeeded,
+would then show that specific mathematical theories were self-consistent if
+arithmetic were consistent, and Hilbert suggested that self-consistency was
+sufficient for the validity of mathematics (we have already seen that
+self-consistency is not sufficient for, say the validity of LT or EE, so this
+would have been a singular and contentful view of mathematics, had it
+succeeded).  Hilbert's program foundered on the discovery by Gödel that
+arithmetic could not be shown to be consistent, except by methods that were
+logically stronger than arithmetic itself, unless arithmetic were itself
+inconsistent. This meant that if one pursued Hilbert's reductivist program, it
+would have to be based on an assumption that arithmetic were consistent, for
+there could be no elementary proof that did not involve a logically stronger
+theory. But further, no theory that logically implied the consistency of
+arithmetic could be reduced to arithmetic, as Hilbert wanted, unless arithmetic
+were inconsistent and thus a useless basis on which to establish the
+rationality of mathematics.  Such is the extent of the mathematical facts of
+the matter. It is of no help in explaining how this knowledge progressed to
+judge the actions of the participants in Hilbert's program to have been
+pursuing chimeras. They were not eccentric. They just lacked knowledge and
+proceeded on the basis of a mistaken but explicit assumption. In explaining
+what they were doing, it may be helpful to suspend one's 
+hindsight into the mathematical facts as they turned out to be. These are examples from mathematics, but the point applies more widely.  If
+scientists are attempting to work out the answer to something, then they don't
+actually know it at the time themselves, so in describing what they are doing,
+appealing to truth or falsity of propositions would be hindsight functioning as
+a deus ex machina and lead us away from accurate descriptions of the social
+facts.  (This general point has been attributed to Harry Collins.) This 
+argues for SP. One can imagine a contrary response thus (call it CR). If you are looking at a
+process in which everybody eventually comes to the conclusion that 2+2=5, you
+surely have a lot of different explaining to do than if you are describing a
+similar situation in which the received knowledge becomes 2+2=4. In the first
+case, that everyone was seriously misled is a social fact that needs to be
+explained, whereas a comparable social fact is absent in the second case. The
+cases are not even sociologically analogous. But if you ignore the truth or
+falsity of what is believed, then you cannot differentiate the two cases. In reply to CR, a truth-relativist might query whether there is a social fact
+there at all that needs to be explained. Heshe might argue that the claim
+that there is a social fact to explain is dependent upon a judgement of the
+truth or falsity of the beliefs.  If one believes that that truth or falsity is
+conventional, then one cannot establish that there is a fact here to
+explain. Thus CR depends upon an assumption which a truth-relativist can
+deny. Is there maybe another way to establish an argument using an unequivocal
+sociological fact which differs according to the truth or falsity of a
+statement? Let me try to find one. There are two steps.  The second step implies the existence of partly
+commensurable, partly incompatible scientific theories. Some may think that
+there cannot be such things, maybe invoking Kuhn's work on the structure of
+scientific revolutions, that when a truly new theory of sufficient explanatory
+strength appears, the new theory and the old theory are strictly incomparable.
+So the first step is to establish that such a situation of partial
+comparability of incompatible theories can indeed pertain, or, at least, that
+there is a good argument that it can.  I contend that there are many ways to
+compare logically incompatible theories (that is, two theories, each of which
+has a consequence whose negation is a consequence of the other). Recent work by
+Friedman (Dynamics of Reason, CSLI Publications, Center for the Study of
+Language and Information, Stanford University, 2001) has highlighted
+comparabilities between the "classical" examples of incomparability, Newtonian
+and Einsteinian theories of mechanics and gravitation (Friedman refers to
+Cartan's technical comparability work in 1923-4, in which he established
+Newtonian mechanics within a mathematical framework of the same sort to that of
+relativity theory). Work on logics has shown many degrees of comparability of
+the prima facie incompatible principles of deductive reasoning espoused by
+intuitionist mathematicians and "classical" mathematicians. I shall leave it
+there, but some more detail concerning partial comparability may be found in
+the appendix. For the second step, I now attempt to construct two partially
+incommensurable theories and differentiate them through a sociological fact
+which is functionally dependent on the truth or falsity of a given logical
+assertion. The "Dutch Book Theorem" (Michael Resnick, Choices: An Introduction to Decision
+Theory, University of Minnesota Press, 1987) says that if people mistakenly
+assess likelihoods, then one can make a "Dutch book" against them and run off
+with all their money.  A Dutch book is a bet which the offerer cannot lose, no
+matter which way affairs turn out. The Dutch Book Theorem is taken to be a way
+of showing that those who interpret likelihoods as determined by which bets one
+considers equivalent (an interpretation often attributed to Frank Ramsey) are
+committed to the Kolmogorov axioms of probability.  So it somehow connects
+likelihood judgements with social consequences. I suppose a situation in which communities A and B agree on certain elementary
+facts concerning arithmetic, but community A believes certain types of physical
+falsehood, and community B does not. (I note that my supposition implies that
+partial incompatibility of theories must be possible, hence my need to
+establish that as the first point.) The truths on which communities A and B
+differ must also not be epistomologically certain. There must be some residual
+doubt.  So community A believes a falsehood X (with some residual doubt) and
+community B believes instead the truth not-X (with comparable residual doubt). I suppose agreement between A and B on enough arithmetic that they can agree on
+calculations regarding the settling of bets. I also suppose agreement between
+communities A and B on the desciption of the outcomes of certain experiments,
+namely those which can be devised to test X, resp. not-X. If these suppositions are fulfilled, community B can now make a Dutch Book 
+against A. A believes it can make a Dutch Book against B, but in fact
+community A will collectively lose its shirts because not-X is true.
+And losing your shirt is a social fact. The connection I was aiming for
+is established. Or at least I hope so. There are some details to be filled out in this
+argument. For example, it only works for some kinds of physical truths with
+simple experimental manifestation; say, laws implying some value for the
+frequency of an observable phenomenon. And I haven't given an example of one.
+But it does give one way of attempting to show how physical truths may
+sometimes be differentially convertible into social facts. How does this bear
+on SSK's principle of ignoring truth (but not truth claims)? A naive realist could claim contra SP that the argument shows that truth or
+falsity of beliefs, namely the ones fulfilling the assumptions above,
+necessarily impinges on social issues in a way that even truth-agnostic
+sociologists may not ignore, and thus that SP is inappropriate. An SSK
+practioner of SP could reply to the contrary that since the distinguishing
+feature is social, this puts the claim X (resp. not-X) well within the bounds
+of social commentary, and that as a consequence of believing X, community A
+lost their shirts. This would show, not that SP was inappropriate, but only at
+most that it is redundant, for if many physical truths can be converted into
+social facts, then paying attention to the social facts must entail paying
+attention to these truths, which was the very point that the naive realists
+were trying to establish. So there is no argument contra SP here. A truth-relavist could go even further, and argue that the salient fact is
+not that X is a physical truth, but that communities A and B agreed on the
+arithmetic used in calculations of the bets.  And who knows whether this
+arithmetic is necessarily the same as our arithmetic? Maybe A and B could
+agree, through use of a different arithmetic, that B loses its shirts
+instead. If this is so, then it would seem that A lost its shirts through
+agreement on a certain type of arithmetic, rather than through the fact
+of X being or not being true.  So agreement is once again paramount. I hope at least to have illustrated that the issue of the
+applicability of SP is not trivial. Even with a prima facie strong connection
+between physical truths and social facts as illustrated by the argument through
+a Dutch Book, it remains possible to hold that some of the salient
+considerations are nevertheless social, and that what matters is agreement and
+not the logical truth or falsity of the arithmetic that led to that
+agreement. The final argument for SP which I wish to note is that SSK practitioners claim
+that they are not expert scientists in the fields they study, and are thus not
+qualified to say what counts as the truth or not; further, even scientists
+change their minds after a couple of years or a couple of hundred years (this
+point may also be attributed to Harry Collins). To which I guess the scientist
+can reply: if you are disqualifying yourself on grounds of intellectual
+incapability, then if you had that capability would you use it?  If not (and
+the Strong Program suggests you should not), then lack of qualification cannot
+be the main reason for truth-agnosticism. If it would be used if available,
+then one is simply pleading ignorance, and SP is just a way of making the best
+of a bad situation, and not by itself a justifiable principle of SSK
+methodology.  I do not consider the argument to SP from lack of qualification
+to be very strong, despite its intuitive plausibility. The bottom line is probably something like this.  SP or not, each piece of SSK
+work stands and falls on its own, as to how well it exhibits and explains the
+social facts in a particular scientific endeavor. Thus 
+Steven Shapin (How to Be Antiscientific, in Labinger and Collins, op. cit.), 
+if I may paraphrase loosely: "I do what I do, and anybody who
+wants to criticise my work is welcome to get into the details and show me how
+what I have said is incorrect, if it is."  This is an appropriate challenge to
+any critic.  It says that a critique of SP must apply to individual cases if it
+is to be pertinent. Surely this is correct. It remains only to note that it
+contains no general argument for or against SP. Scientific Activity and Demarcation Criteria The activity of natural scientists has observers besides those scientists
+themselves. Those observers see many different things. Science journalists
+and scientists themselves see discoveries and advances in knowledge. 
+Sociologists of scientific knowledge see less of the natural world and
+more of social constructions of claims, and so-called postmodern critics 
+in cultural theory seem to see virtually nothing of the natural world,
+and see nothing in science to distinguish it from, say politics or
+literary criticism. I am, or would like to be, some variety of naive
+realist about science, as are most scientists, but I do lean towards a
+view captured well by the parable of the blind men with the elephant. 
+The blind men feeling the trunk, the legs, the tail, and the ears all
+perceive very different things. Nevertheless, they are all parts of the
+elephant. And it remains true that the elephant has one trunk, not two,
+two ears, not four, and four legs, not eight. Many physical scientists view science as epistemically privileged.
+The activities of science leads towards knowledge of the world that
+is, according to this view, much more well founded than that of, say,
+Marx about the prime causal factors affecting society. In contrast,
+as we have seen, some postmodern cultural commentators have denied it,
+and others, from sociologists of scientific knowledge to philosophers of
+science and even some scientists, have doubted it. It may be well at this 
+point to ask where the views of various scientists originate. The philosopher Larry Laudan calls the attempt to show science as epistemically
+privileged the demarcation problem , and has encapsulated the historical
+development of the demarcation problem thus (Laudan, The Demise of the
+Demarcation Problem , Chapter 11 of Beyond Positivism and Relativism:
+theory, method and evidence , University of Chicago Press, 1996). Aristotle
+said that knowledge may be called scientific if it is apodictically certain,
+and that the way to certainty led through identifying causes, using deductive
+reasoning, and identifying universals which "inhere" in the particulars of
+sense. He also distinguished between "knowing how" (the shipbuilder knows the
+characteristics of ships, and how to build one with those characteristics) and
+"knowing why" (a scientist knows why the ship floats, and why it behaves as it
+does when built to a particular form by the shipbuilder). By the time of
+Ptolemy, many had given up the attempt to derive the motions of the planets
+causally, and the Ptolemaic system focused on describing the phenomena of
+astronomical motion accurately. Galileo, Huygens and Newton all advocated
+theories whose primary aim was to describe the phenomena, rather than identify
+Aristotelian primary causes (apparently Newton wished he could have given a
+causal explanation, but believed it was beyond his means). Nevertheless,
+science was regarded still as apodictically certain (a view also to be found in
+Bacon, Locke, Leibniz, Descartes, and Kant, according to Laudan). In the
+nineteenth century, a fallibilist view of science emerged, in which scientific
+theories are " corrigible and may be subject to serious emendation ". It
+became no longer possible to distinguish science as certain knowledge, and
+attempts were made to demarcate science through its methodology .
+Thinkers such as Comte, Bain, Jevons, Helmholtz and Mach tried to identify
+something called the "scientific method", which, although fallible, was somehow
+self-correcting and thus a reliable way to knowledge of the world.  There were
+various views as to what this privileged method was. Herschel and Mill took it
+to be the use of so-called inductive reasoning. Others took it to be the
+restriction of theories to observable phenomena.  Others (Laudan cites Whewell
+and Peirce) to it to be the ability of theories to make surprising (true)
+predictions. Also, many of the proposed specific methodological rules were
+ambiguous; it was hard to tell when they were being followed and when
+breached. Duhem pointed out in 1908 that many of the rules proposed to
+encapsulate the "scientific method" had little to do with the everyday working
+practices of scientists. In the twentieth century, both verificationist (from
+logical positivism) and falsificationist (Popperian) demarcation criteria wer
+proposed, but both have been found wanting, not least because a lot of what
+most scientists regard as pseudoscience satisfy these criteria (Laudan notes
+memorably that " flat eathers, biblical creationists, proponents of laetrile
+or orgone boxes, Uri Geller devotees, Bermuda Triangulators, circle squarers,
+Lysenkoists, charioteers of the gods, perpetuum mobile builders, Big Foot
+searchers, Loch Nessians, faith healers, polywater dabblers, Rosicrucians,
+the-world-is-about-to-enders, primal screamers, water diviners, magicians, and
+astronomers all turn out to be scientific on Popper's criterion.... ").
+The twentieth century brought many other views of science, such as the
+Quine-Duhem thesis, which essentially denied the existence of demarcation
+criteria. Since my purpose here is to elaborate demarcation criteria, I
+do not consider these views, which may even have been in the majority. Laudan suggests some other possible candidates for demarcation criteria,
+to wit: that scientific claims are well tested, whereas nonscientific claims
+       are; that scientific knowledge is unique in maintaining progress or growth; that scientific theories alone make surprising predictions which turn
+      out to be true; that science is the sole repository of reliable and useful knowledge; that science is " the only form of intellectual system-building 
+      which proceeds cumulatively, with later views embracing earlier ones,
+      or at least retaining those earlier views as limiting cases " He comments that " it can readily be shown that none of these suggestions
+can be a necessary and sufficient condition for something to count as
+`science', at least as that term is customarily used. " (Laudan, op.cit. , p220). He suggests that " the evident epistemic heterogeneity
+of the activities and beliefs customarily regarded as scientific should alert
+us to the probable futility of seeking of seeking an epistemic version of a
+demarcation criterion. ( op.cit. , p221). He concludes that two
+distinct questions have been conflated: " What makes a belief well founded
+(or heuristically fertile)? And what makes a belief scientific?  The first set
+of questions is philosophically interesting and possibly even tractable; the
+second question is both uninteresting and, judging by its checkered [sic] past,
+intractable. [...] Insofar as our concern is to protect ourselves and our
+fellows from the cardinal sin of believing what we wish were so rather than
+what there is substantial evidence for (and surely that is what most forms of
+`quackery' come down to), then our focus should be squarely on the empirical
+and conceptual credentials for claims about the world. The `scientific' status
+of those claims is altogether irrelevant. " It might appear to some scientists from this conclusion that Laudan is somehow
+"against science", but this is not so. Laudan has criticised the "received"
+twentieth century views of science proposed by Quine (a holistic view, in which
+any individual "theoretical" claim may by maintained, if so wished, in the face
+of prima facie contrary evidence by giving up, or adjusting, other parts of
+one's entire scheme of beliefs) and Kuhn (in which major scientific theory
+changes, say between Newtonian mechanics and relativity theory, result in
+theories which stictly cannot be compared with each other in terms of what they
+say about how the world is; such a change cannot be claimed to be an "advance"
+therefore). He has also criticised the "scientific" approach proposed for the
+sociology of scientific knowledge by David Bloor (in Knowledge and Social
+Imagery , London: Routledge and Kegan Paul, 1976; 2nd edition University of
+Chicago Press, 1991), not least because he proposes certain criteria for being
+scientific; in effect, he proposes a particular solution to the demarcation
+problem, through four criteria, three of which Laudan finds unexceptionable,
+even platitudinous, and the fourth of which he confutes. I take Laudan as suggesting that scientific work stands and falls on the
+quality of its justification, and that the criteria for justification, as far
+as anyone can tell, apply to all varieties of knowledge, and not merely to
+those traditionally singled out as being scientific. The epistomologist Susan
+Haack, in writing on the debates about science and cultural theory, has also
+emphasised criteria of evidential quality as constitutive of true inquiry, and
+is less concerned with whether such inquiry is labelled as "scientific" or not
+(various essays in Memoirs of a Passionate Moderate , University of
+Chicago Press, 1998). Similarly, the philosopher of science and mathematics,
+Philip Kitcher, who has worked on potential demarcation criteria for science
+(see his critique of creationism, Abusing Science , MIT Press, 1982), has
+focused recently on the actual arguments used by scientists (notably Darwin and
+Lavoisier) and why they were successful (in The Advancement of Science:
+Science without Legend, Objectivity without Illusions , Oxford University
+Press, 1993). There seems to be a consensus here, despite individual
+differences, that what counts is whether certain beliefs, certain propositions
+about the world, are well justified or not, and not whether something is
+labelled as "scientific" or not. Laudan points out ( Science at the Bar --
+Causes for Concern , Chapter 12 of op.cit. ) that biblical creationism
+is refuted, not by being shown to be "unscientific", but by being shown to lack
+justification; it is refutable, as Popper might wish, and also refuted. One
+might suggest that creationism is simply bad science. (This has the interesting
+implication, not that it should not be considered in school curricula, but that
+it could fruitfully be considered - and be shown to be wrong. I find that such
+a view has a lot to recommend it. It would be a way of showing students how to
+distinguish good science from bad science at an early age, and maybe be an
+improvement over current natural scientific curricula, which, in my experience,
+when they deal with it at all, seem to hold to more traditional demarcation
+criteria, which I think Laudan and others have shown to be lacking). Many physical scientists seem to adhere to a view of science as epistemically
+privileged, and that there exist demarcation criteria. At the same time, most
+scientists recognise that there is good science and bad science, and there is
+substantial consensus as to which is which. I think it may be fair to say that
+good science is indeed epistemically privileged because well justified -
+indeed, those might be two ways of saying the same thing. However, what goes
+for science also goes for views on science as an activity. Many scientists
+applaud the efforts of Jean Bricmont and Alan Sokal to defend science against
+what they see as misguided criticism (from sociologists as well as
+postmodern cultural critics). They have inveighed against what they see as poor
+intellectual standards amongst critics of science, as compared with those of
+scientists.  They argue, in the words of this section, that many of those
+views, although famous, are not epistemically well justified (actually, that
+they are nonsense). But they have also engaged with some substantial theses
+about scientific activity proposed by sociologists of scientific knowledge and
+have claimed they are false. It appears superficially plausible to many
+scientists to consider these theses as false, but I believe they are largely
+accurate characterisations of the everyday business of doing science, and
+now is the time to illustrate why I think so. My illustration falls far short 
+of a proof, however. It consists largely of a set of anecdotes and examples 
+from my experience, along with a presumption that my experience is not so 
+very different from that of others. Critique of A Critique I think Bricmont and Sokal's critique of the Strong Program
+(SP) is weak, because I think the views of science that they criticise,
+understood appropriately, are mostly justified when one considers everyday
+practice in science and the results of that practice.  However, 
+I understand those views against which Bricmont and Sokal argue
+maybe differently from the way they might. Bricmont and Sokal suggest (in Science and Sociology of Science: Beyond War
+and Peace , in Labinger and Collins, op.cit. ) that the SP position is
+comparable with radical Cartesian scepticism. I don't think this is so.
+Neither do I think it is correct to deny the specific theses which they claim
+SP adherents are committed to. I think one can be even a naive realist about
+science, far from a sceptic, and still support the theses which Bricmont and
+Sokal criticise in their argument that SSK is radically sceptic, with the
+exception of the thesis of the relativity of truth. The specific view that I want to critique is as follows. Bricmont and Sokal
+argue that the theses of SSK, that all facts are "socially constructed", that
+scientific theories are "myths" or "narrations", that scientific debates are
+resolved by "rhetoric" or by "enlisting allies", (as they list in Labinger and
+Collins, op.cit. ), are mistaken. They claim that these theses, with the
+addition of the thesis of truth as intersubjective agreement, are equivalent to
+radical scepticism. I shall argue that these views attributed to SSK are
+largely justified. But while I suspect Bricmont and Sokal believe they are
+theses which are argued to follow from, for example, truth-relativism, I would
+suggest that they are observations about the way we scientists and
+technologists go about our business. Given that they are observations about how science is conducted, I believe that
+it is largely impossible to prove or to disprove such views, which does not
+make them any the less true. Someone who accepts a truth-relativism
+might be able to argue that all science is of necessity of that nature, which I
+take to be a much stronger view. However, I think truth relativism is false, so
+I am not that interested in arguments from it to other positions, for it can
+tell me nothing about the world. In any case, I believe that SP SSK is agnostic
+on truth.  It has no theory of truth; a fortiori it is not committed to a
+relativistic theory of truth (despite occasional appearances to the contrary),
+so any argument from truth-relativism to these views that Bricmont and Sokal
+criticise need not be part of SSK's argument for them. The observation that
+SP is  not committed to a theory of truth does not of course say anything
+about what theory of truth individual SSK practitioners may believe. My commentary proceeds under the following suppositions of naive realism.
+There are such things as facts, and facts of the matter. 2+2=4 is a fact. 
+There are names, and objects, and reference is real: "the sun" refers to
+the sun; "the moon" refers to the moon. And there are facts about them:
+"the sun and the earth have approximately thus-and-such relative motion"
+is true, or it is not the case that it is true (depending on what
+thus-and-such is). It is true that there is such a thing as the room I
+am sitting and typing in at the moment, and this room is situated on the
+edge of what is now a meadow. And this is true even if there is nobody
+around to engage in intersubjective agreement. Furthermore, there are
+reliable ways of inferring truths from other truths, namely the ways
+described by deductive logic, and what we call first-order predicate 
+calculus is part (that does not deal with modalities) of deductive logic.
+And so on. It seems appropriate to deal first with the relation of SP SSK to theories of
+truth.  Bricmont and Sokal suggest that proponents of the SSK program adhere to
+a theory of truth by convention (or "intersubjective agreement", as they
+formulate it). As I said above, I do not believe this need be the case.  As far
+as concerns truth theories, all that is required to perform strong-program SSK
+is to avoid basing conclusions on an assessment of the literal truth of
+scientific claims, or to use the truth or falsity of scientific claims as an
+explanatory feature for certain social processes. It is not required to claim
+any specific theory of truth. Indeed, if any piece of substantial work depended essentially on a claim that truth is convention (that is, its reasoning
+would be falsified, and the conclusions it draws vitiated, if truth were not to
+be merely conventional), then that itself would be real reason to doubt its
+validity as a piece of SP SSK, for it would be reasoning that depended for its
+validity on substantial claims about truth, and that is precisely what Strong
+Program SSK explicitly disavows. It seems to me rather that SP is committed to
+agnosticism about the nature of truth. In any case, it is not clear to me that adherence to such a view of truth as
+"intersubjective agreement" must commit one to radical scepticism. For example,
+the theory of truth proposed by John Austin (Truth, Proc. Arist. Soc. Supp.
+Vol. XXIV, 1950, reprinted variously), establishes ascriptions of truth to
+assertions in so far as they cohere with or agree with other assertions in our
+complete held-true set. The notion of coherence presupposes unavoidable
+structural constraints (e.g., a principle of non-contradiction, I suppose), as
+might truth by "intersubjective agreement", if only because there is
+intersubjective agreement on classical logic and certain properties of
+truth. There seem to be many respects in which considering truth a matter for
+convention or for intersubjective agreement is similar to the
+truth-as-coherence proposal of Austin. This does not make Austin right about
+truth, but no one in the last half century has argued that his view commits him
+to a radical scepticism.  Indeed, Austin's views about perception were closer
+to naive realism than, say, those of Locke. It seems to me unlikely that truth
+by convention must inevitably entail radical scepticism. As I have said, my reading of the SP has it suggesting something like "don't
+use what you don't need".  This is actually a position very similar to that
+which led to great achievements in science itself. Philip Kitcher (in The
+Advancement of Science, Oxford University Press, 1993) shows convincingly how
+Darwin's explanatory revolution gained its power. Kitcher shows that the ideas
+which Darwin singled out were already present and accepted in the work of his
+contemporaries and precursors. Darwin proposed, however, that this limited set
+of ideas was sufficient by itself to explain observed facts about
+speciation, and gave significant examples of the application of his suggested
+new paradigm. Creationist mechanisms, which were then common if not universal,
+formed no part of his limited set. Similarly, SSK can claim explanatory power
+if the explanations are forthcoming without referring to the truth of the
+propositions being investigated by the subjects of study. Let us move on to the other claims about the social nature of scientific work.
+Under the naive realist view I am proposing, these claims about the nature of
+science are generalisations, rather like saying that the inhabitants of England
+communicate in English.  Most of them do, better or less well, and the presence
+of inhabitants who cannot use English is not regarded as a counterexample to
+the generalisation. Rather than say that such generalisations are true or not
+true, it might be preferable to speak of them as appropriate or
+inappropriate. Thus I wish to argue that the generalisations about the social
+nature of science against which Bricmont and Sokal are appropriate. To show how I mean to consider these views, let me return to the comment quoted
+above that " the natural world has a small or non-existent role in the
+construction of scientific knowledge" . This may seem to be a good example
+of an extreme view, but let me argue to the contrary that it is appropriate.  I
+have been dabblingin physics recently. In the last fifteen months. I attempted
+to construct a rigorous demonstration that a fire in Swissair 111 could not
+have been started alone by high-intensity radiation fields outside the
+airplane. I looked at the reasoning and evidence behind the claim that
+so-called single event upsets in digital avionics at altitude was primarily due
+to atmospheric neutrons, and concluded that it was very weak (which is not to
+say that the claim is untrue; just that no one can yet claim they know, even if
+they think they do). Finally, I concluded that there probably cannot be
+decisive epidemiological evidence for any health effects of low-dose radiation
+from particle decay, given the constraints upon the kinds of data one can
+gather. These are all very physical, practical issues. But I did all this work
+without leaving the confines of my office, my home office, and the university
+library. So I must indeed say that observations of the natural world had a very
+minor role to play, if any at all, in the construction of this particular
+knowledge. And, as postmodern critics might suspect, reading and interpreting
+had a very large role to play.  Given what I know of the work habits of my
+colleagues in theoretical physics, and what they have in their offices (mostly
+computers, books and paper), it must be largely true of them also that they
+work like this.  They explain or attempt to explain experimental results, but
+mostly they run computer simulations or do mathematics by hand. So how big a role does looking at the natural world play, as contrasted with,
+say, social entities such as books, conversations, and use of artifacts?  I
+considered the following thought experiment. Suppose I were to take the entire
+physics community in Bielefeld, including experimentalists, plus an oracle from
+God. The oracle's job is to intervene in every experiment.  Every time that an
+experiment starts, he disconnects it from the natural world without affecting
+the measuring apparatus, and then he simply injects the appropriate readings
+into the devices at the appropriate time as they would have been injected by
+the natural world, had it not been disconnected. So the world can have a rest;
+it is being perfectly simulated by the oracle.  All the physicist colleagues
+work as they do, and there are lots of them (a couple of hundred or so). How
+hard does the oracle work?  I figure one or two oracles could get the job
+done. Now, the oracles substitute exactly for the interface between the natural
+world and the human social world. And it seems that there isn't much of it. Two
+oracles compared with two hundred physicists. One or two or a few per cent of
+the total work. So in terms of what physicists actually do with their time,
+dealing with the natural world interface ranks pretty low. However, I
+wouldn't go so far as to say it is "non-existent".  I'd guess a few per cent. The point of the thought experiment is this. An assertion which looks wild at
+first sight turns out to be a fairly good approximation to what actually
+happens if one looks at it in the right way. I shall now try to look "the right
+way", or at least a right way, at the other views that Bricmont and Sokal
+dislike besides truth relativity. Technology may even be more fertile ground for these views than pure science.
+Those of us who have been involved in support and funding for technological
+projects see what the SSK people call self-fulfilling prophecies everywhere we
+have been. Consider an example from formal methods in computer and software
+development. A decade or so ago, the head of DARPA ISTO was rumored to have
+proclaimed "formal methods don't work" and lo, progress dwindled to a trickle
+in the US except for a couple of outstanding results. In contrast, the UK MoD
+wrote the use of state-of-the-art mathematical methods into relevant standards
+for computer-based system procurement (Def Stans 00-55 and 00-56) and lo,
+those developing safety-critical software in GB must comply, and Lockheed
+Martin must develop all the software for the C130J using a formal static
+analysis tool (SPARK), which development showed weaknesses in software
+developed according to the US civilian certification criterion DO-178B (for
+example, the proportion of significant errors in software developed according
+to DO-178's most stringent category, Level A, was indistinguishable from the
+proportion of errors in software developed according to the less stringent
+Level B). So development was proceeding according to two incompatible
+paradigms in two communities, which two communities overlapped significantly.
+Those two incompatible paradigms can't both be right, can they? To interject an anecdote here, during my work in the US, I found a pervasive
+anathema even to simple math and formal reasoning in the US computer-based
+systems industry (an odd phenomenon, since graduate-level education in these
+fields requires at least some from everybody). In fact this partly led to my
+return to Europe, where math is a daily enterprise in technology, like eating
+lunch. I expected that the aversion to, respectively the facility with
+mathematics would show itself in a difference in the characteristics of
+software available. But this seems generally not to be the case, as far as I
+can tell. So, it could be argued that even these two partially contrary
+paradigms, lots o' math versus little math, did not seem to differ much in
+their effects.  Nevertheless, very specific software such as that developed for
+the C130J is argued to be superior based on its use of some formal methods, and
+there seems to be justification for this view. It seems to be generally accepted in computing technology that having the
+"best" product or using the "best" techniques accounts only for a small
+proportion of what happens in the market. And it is supposed that the market 
+controls what gets developed and what not. Taken literally, this means
+that by far the larger share of the results is due to social factors, factors
+to do with the interaction between people, and thus better left to sociologists
+to explain. One may try to distinguish the situation of technology somewhat
+from that of science by observing that technology is more concerned with
+efficiency in practice, which is a highly social concept, rather than simply
+truth. But whether this brief observation can claim to be an explanation of the
+phenomenon is to me unclear. I don't believe that facts such as 2+2=4 are so merely because of
+intersubjective agreement, because I can imagine a world in which everybody
+comes up with the answer 5 every time that they considered adding 2 to 2
+(three year olds make such mistakes in patterns all the time - it would 
+simply be a world in which everyone had the mental age of any 3 year old).
+But that does not make 2+2=5 and it is hard to believe that anyone should
+think coherently that it does, except a radical sceptic even further out
+than Descartes' doubter (can even Descartes' demon make P and not P both
+true at the same time?). So does that mean that I cannot regard facts
+as socially constructed? In some sense, yes, but I think that interpretation misunderstands the
+thesis as proposed in SSK. SSK practitioners talk about "knowledge", taken to
+mean "shared institutionalized belief", and it is almost a platitude to say
+that shared institutionalized belief is socially constructed. Ergo, in this
+terminology, knowledge is socially constructed. It seems that scientific theories can indeed sometimes be considered to be
+generated by social processes (namely, "shared institutionalized belief")
+similar to those that generate myths or "narrations". Consider my work
+reported above. Most of what I did is read the work of others, and through
+that reading came to form my ideas. Anyone studying what I did, or studying
+the development of a concept or theory through the work of the involved
+scientists needs a term for this iterated communication, and a term for
+its results, its "shared institutionalised meaning". It is like some kind
+of socially developed story. Why not call it a "narration"? Consider an example.  I looked at the evidence for the fact that single event
+effects in silicon devices (in which individual bits sporadically get stuck or
+flipped) at altitude (30,000 - 50,000+ ft) are caused by atmospheric neutrons,
+which, if you read the literature on it, is "generally accepted". Now, there
+are other possible explanations of SEE, and I wanted to know how they were
+ruled out, so I traced all the references to this "generally accepted" fact
+back. They either petered out, or terminated in one paper narrating some
+somewhat sparse tests performed at Los Alamos in the neutron irradiation
+facility in which DRAMs were partially exposed to neutron irradiation. Yes,
+there seemed to be an effect, but there were also two other paradoxical
+effects, orders of magnitude greater than the effect later claimed as
+"established". One was that the DRAMs from one manufacturer showed effects that
+were orders of magnitude greater that those from others; and the other was that
+in the DRAMs from this manufacturer, the number of bits flipped one way was
+orders of magnitude greater than the number of bits flipped the other
+way. Which is a phenomenon crying out for explanation, since the theory of
+neutron-induced effects predicts that the effects should be
+symmetrical. Neither of these two effects was explained in the paper. An
+observer used to applying any general theory of confirmation would note that
+the largest effect (by orders of magnitude) was one that contradicted the
+predictive consequences of the hypothesis under test (that SEEs were caused by
+the results of elastic collisions between silicon atoms and neutrons, and
+therefore that the effects should be symmetrical in which way bits were
+flipped) and therefore it seemed that the hypothesis was prima facie
+disconfirmed by the experiments. But yet the experimenters considered the
+hypothesis confirmed, without bothering to explain the anomaly, and this became
+the referential basis (in so far as there is one in the literature) for the
+claim that SEEs at altitude are due to atmospheric neutrons. This seems to me a
+clear example of a scientific theory being constructed by narrative processes,
+and a scientific "fact" being established by conducing its repetition in the
+literature. Apparently, this is a relatively common phenomenon, according to
+physicist colleagues with whom I discussed it.  It is regarded as uncommon,
+though, in areas which attract a lot of attention. There are also scientific theories whose predictions, while regarded as both
+true and consequential for human beings, concern effects which are so small in
+comparison with the influence of the background that they cannot, in principle,
+be reliably observed. One example is exposure to radioactivity and EM radiation
+of very short wavelengths associated with it. Estimates of the effects of low
+doses on humans are derived, as they have been for 50 years, by extrapolation
+of the measured effects of very high doses on the midcentury residents of
+Hiroshima and Nagasaki. The effects have a latency of a decade or more: effects
+are still being seen in survivors over 50 years later. They are mostly
+formation of organ and skin cancers, as well as other effects such as cataract
+formation. However, because not all potential lifestyle and environmental
+parameters have or can be recorded and measured, the data consist largely of
+cancer mortality statistics. Such statistics are confounded by unrecorded known
+correlants, such as whether subjects smoked or not and how much. No definitive
+statistical effect on health has been seen below a cumulative exposure of about
+100 milliSieverts, which is more than most designated "radiation workers" such
+as airline pilots and atomic power plant workers receive in a lifetime's
+exposure.  Recording exposure to the Hiroshima-Nagasaki bombs is not trivial -
+it affected survivors according to how much and what kind of material protected
+them, for example, and that is hard to assess except anecdotally.  Measurements
+of radiation exposure of groups of "radiation workers" is through small badges,
+which are by no means as accurate as the significantly larger detection devices
+built by specialists for high-energy particle physics experimental research
+establishments. Cosmic radiation at altitude is also measured by smaller, less
+accurate instruments sent up in balloons from specific locations; the exposure
+of air crew to cosmic radiation is not identical to the background, since some
+of it is attentuated an unmeasured amount by the skin of the airplane and
+whatever extra material lies between outside and crewmember. Measurements
+inside the hull suffer from inaccuracy, because only lightweight devices may be
+used, and the spectrum is broad, and types of radiation varied.  Offspring of
+aircrew who fly whle pregnant may exceed the 100 mSv exposure level, but they
+do not constitute any level of occurrence comparable even with the standard
+deviation of illness occurrence. Such low-dose effects, in short, are in
+principle immeasurable. Any effects inferred by extrapolation from high-dosage
+subject experience lie within the normal statistical deviation expected within
+the data gathered over years from the population at large. While these effects are in principle unobservable, that does not mean they are
+not there. So an extrapolation is made from high-dose effects, and advice based
+on this extrapolation is given to potentially exposed humans, for example in US
+FAA Advisory Circular FAA AC 120-52, Radiation Exposure of Air Carrier
+Crewmembers, March 5, 1990. This AC, similarly to advice given out on the
+matter by the Health Physics Society and other official bodies, treats the
+matter of low-dose radiation effects on humans as fact. Whereas it is just a
+uniformly accepted guess, any evidence for which is buried in the statistical
+noise. It seems appropriate, even as a scientist who believes in facts the way
+Dr. Johnson believed in rocks, to say that there is and can be no fact of the
+matter here. But it is presented by some as if there were a fact of the
+matter. I deem it appropriate to call this a "myth" or "narration", for these
+words refer to socially constructed explanations, as long as it is not thereby
+inferred that the putative "facts" are thereby judged false. For these they
+cannot be judged false. They are consistent with all evidence, but nothing
+more and also nothing less.  There is a lot more that would have to be known
+for them to become scientific fact, but they are treated as fact by many
+if not most scientists and technologists. MacKenzie has observed a similar phenomenon in the determination of the "error
+budget" associated with targeting errors of long-range missiles in his book
+Inventing Accuracy (MIT Press, 1990). This determination in the face of
+principled immeasurability is by no means an isolated scientific phenomenon. It may be objected that not all science is like that. Maybe so, but this "fact
+construction" does appear to be a common procedure amongst scientists. Further,
+I doubt that these cases appear sufficiently distinct in terms of the behavior
+of their participants from other cases in which the facts appear determinable
+(measuring the mass of an electron, for example).  If one word is chosen to
+refer to the behavior of participants in a scientific enterprise such as
+determining which low doses of radiation are risky, whether atmospheric
+neutrons are largely to blame for SEEs at altitude, and what the charge on an
+electron is, then "myth" or "narration" would seem to be as good as any, as
+long as they are understood as technical terms for a particular social
+construction. Consider now whether scientific debates are resolved by "rhetoric" or by
+"enlisting allies". First, let us consider rhetoric. I use the word "rhetoric"
+to refer to those features of any piece of argumentative writing which
+contribute (positively or negatively) to its persuasive force. This use is
+common amongst those who study this phenomenon.  However, many people use the
+word to refer only to persuasive means which are regarded as logically
+illegitimate. I suppose it would be acceptable to Bricmont and Sokal to claim
+that scientific debates are resolved through considered presentation of
+explanatory arguments, and thus by "rhetoric" in my sense of the term.  In
+that sense, it seems incontrovertible that scientific debates are resolved by
+rhetoric. One may go further. There are very few scientific papers in which conclusions
+are established by rigorous, deductively valid and complete arguments. In fact,
+there are only two or three which I know, although I work in the field. I
+constructed one (even this was only a close approximation to one: I assumed
+that any logical truth could be used as an axiom) to see what it would take,
+using the Temporal Logic of Actions (TLA) of Leslie Lamport.  Another, longer
+such proof in TLA was written by my student Dirk Henkel, who performed a
+rigorous verification that an algorithm which everybody already knew worked was
+in fact implemented by a specific algorithmic mechanism.  The proof consisted
+of 115 pages of pure formal logic, and assumed the tautologies of classical
+propositional logic and the logical truths of classical predicate logic
+only. Lamport himself advocates rigorous proofs of algorithms to a level of
+detail unaccustomed even in mathematics, because the kinds of algorithms which
+he verifies are prone to mistakes of detail. However, he advocates terminating
+the steps of a proof at a much higher mathematical level than Henkel or I
+approached. The kinds of proofs performed by Lamport in TLA and Henkel in TLA
+are the most rigorous deductive arguments I know, but even they assume that the
+reader takes some principles (tautologies of propositional logic, theorems of
+predicate logic, not all of which are obvious) on faith. Scientific papers,
+even other correctness proofs of algorithms, do not begin to approach such
+deductive completeness. I would like to consider what this may mean. A correct deductive argument is one in which every step follows from
+previous steps by deductively valid inference. Only deductively valid
+inferences can guarantee that their conclusions are true if their premises
+are. If an argument is not rigorous, some element of the
+truth of the conclusion is being taken on faith by the reader. Further,
+if the conclusion is to be established as true, all the premises of the
+argument, those principles which are assumed in order for the rigorous
+argument to be presented, must be taken to be true. 
+I define a deductively rigorous argument as a correct deductive
+argument whose deductive steps are those of the proof rules of an
+accepted deductive system. According to this terminology, Lamport's
+TLA proofs are correct deductive arguments, and Henkel's are (almost)
+deductively rigorous arguments. The point of deductive rigor is that
+not only are the arguments correct deductive arguments, but they may be
+seen to be correct by checking each step simply and mechanically, whereas
+a correct, but not necessarily rigorous, deductive argument may use
+derived proof rules that are not obviously seen to be correct unless one
+has significant additional knowledge. Most, indeed practically all, scientific papers do not consist of deductively
+rigorous arguments.  Were they to do so, they would be unreadable (as Dirk
+Henkel's is, except by experts with a lot of patience). Hence the persuasive
+nature of a scientific paper largely comes from somewhere other than the
+deductive rigor (in my sense) of its argumentation. And any other argumentation
+styles besides deductive validity are fallible.  Thus good scientific papers
+consist largely of fallible but persuasive argumentation, not of deductively
+rigorous (in my sense) arguments.  In the majority of papers, it is even
+doubtful whether the arguments therein are correct deductive arguments.  And to
+repeat, one can argue that only a deductively rigorous argument can without
+further ado be accepted as establishing its conclusion (and additionally its
+premises must all be accepted as true for it to do so).  Any other than a
+deductively rigorous argument can rightly and literally be called a stepwise
+fallible attempt at persuasion. I think it is appropriate to use the word
+"rhetoric" for a stepwise fallible attempt at persuasion. So much for rhetoric. What about "enlisting allies"?  Are scientific issues
+resolved by rhetoric of the sort which consists laregely in enlisting allies,
+without any serious attempt to engage the argumentation of the supposed
+adversary? Most certainly. It is pervasive. But now we enter the realm of what
+most scientists consider anecdotes and prefer not to talk about in public, like
+the machinations of our colleagues on faculty committees.  But it happens, and
+it is legitimate to recount incidents.  Let me recount three such recent
+experiences of mine. First, I wrote commentaries on two public documents concerning accidents with a
+US military development aircraft. One was the transcript of the public briefing
+of the inquiry board into the causes of an accident; the other was the report
+of a specially-convened panel into the development of the aircraft, which had
+been generally acknowledged to be troubled.  I concluded that the inquiry board
+briefers had given a misleading characterisation of the cause of the accident,
+and confirmed my reasoning by interviewing a panel member, who worked at a
+major US university, by telephone. A colleague of his, who is a frequent
+discussant on mailing lists which I frequent, told me I was publishing mistaken
+factual claims, and that I had unethically misled the panel member.
+Furthermore, my colleague informed me that he was privy to the truth but could
+not talk about it for professional reasons. I was concerned about the claims
+that I had acted unethically, because they were in fact mistaken.  I asked two
+other US colleagues what to do. One said it was a known behavior of my
+critic. The other said that since my critic is an professor at a renowned
+institution, I had not only to assert that the claims of unethical conduct were
+mistaken, but persuade my accusor of the validity of my arguments (even though
+prima facie I had failed at that already).  Neither of my advisors commented on
+the validity of my analysis of the public pronouncements on the aircraft.
+Their commentary was 100 per cent social, and for good reason: the arguments
+presented by my critic were almost 100% social, with the sole exception of the
+assertion that my analysis was wrong, for which no ground was given.  There was
+no attempt to go through my analysis and the source documents on which it was
+based and show where the analysis was incorrect and where correct. Second, a colleague publically mischaracterised a method which I have developed
+for causal analysis of system behavior, on a mailing list containing experts
+with an interest in my methods.  In response, I went back to the published
+classification used to (mis)characterise my method, and pointed out how my
+method fit into a number of different other categories as well; however, the
+classification was supposedly based on exclusive categories. So there must be
+something wrong either with the categories or with the way they were used in
+classification.  I also expressed my wish (and expectation) that my colleague
+would engage in a substantial debate.  My colleague dismissed the request for
+discussion by claiming to be too busy dealing with "real" problems to engage in
+an "academic pissing match". That was the end of the public discussion. The
+rhetoric used by my colleague was designed to enlist allies (as most public
+expressions of outrage are), and not to engage in a serious discussion of the
+classification of my method.  This brief description should suffices to show
+that anyone's opinions on my work and that of my colleague were not intended to
+be formed by careful analysis of our technical work, but rather by a social
+process of some sort which involved little technical detail. This kind of interaction, based primarily on forms of status and alliance,
+happens frequently to almost everyone I know, and is as pervasive a form of
+rhetoric as technical argumentation, if not more so. How can we pretend that
+social manoeuvrings are not a major part of the persuasive techniques we use to
+(try to) prevail? I don't think we can. Third example. I recently engaged in a debate on a mailing list composed of
+pilots, engineers, regulators and others concerned with use of computerised
+flight management systems on commercial aircraft. An engineer claimed he had
+built systems to a failure rate of 1 in a billion hours, and his experience
+confirmed that indeed these systems were so accurate. This specific failure
+rate is a certification criterion for safety-critical systems and subsystems
+aboard commercial aircraft, and has been so for decades. Such claims, however,
+while required for certification, cannot feasibly be confirmed through testing
+or experience with the systems, unless one is in advance already convinced by
+other means that the system is that reliable. This fact is established by
+theorems in the literature.  So even were a system to be so reliable, one
+cannot know it. This phenomenon is recognised by UK MoD Def Stan 00-56, for
+example.  Further, a colleague in the UK, who is an acclaimed safety-critical
+systems software entrepreneur, believes that no one can show him a
+1-in-a-billion-hours argument of any sort that he couldn't rubbish.  (I am
+inclined to make the same claim, but I have not seen as many such arguments as
+he has.) My arguments consisted of citing the literature and showing how it 
+contradicted what the engineer claimed was his practice. His arguments 
+consisted of explaining the way he works (as do others following this
+methodology), and claiming I was unfamiliar with the details of the working.
+He also made various claims concerning my motivation for engaging him in
+discussion and not accepting his statements. His arguments seemed to me
+to be little more than attempts to enlist allies from amongst his 
+community (which he succeeded in doing to some extent). On the other hand,
+I certainly admit to hoping that my arguments would succeed in enlisting
+allies on my side. So that is what we were both doing, for better or worse.
+How can one deny it? Many if not most of my UK colleagues would make the same arguments as I did,
+based on the same understanding of processes concerning estimation of failure
+rates. My peers in the US know the science, and accept the reasoning, but some
+or even many of them defend the industrial methods, even though using those
+methods requires one to make claims that contradict the science. And, indeed,
+those methods do appear to work!  Airplanes do not, in general, fall out of the
+sky. We must conclude that the reasons they work cannot be identical with the
+claims those methods themselves make as to why they work, on pain of
+contradiction.  So the claims those successful methods make are indeed "myths",
+in the strong sense that some of them must be untrue. But they are
+used. They work.  They continue to work. And their practitioners continue to
+advocate the demonstrably false parts. What else are we to make of this
+phenomenon, other than to characterise it as a "myth" which is
+nevertheless successful? I think these examples show that it is even possible to be a naive realist
+about science, and still consider much technological knowledge (in the sense of
+shared institutionalised beliefs) socially constructed (the one-in-a-billion
+process certainly cannot be described as veridical by a naive realist); that
+the theories or accepted practices have similar characteristics to myths or
+other communicative developments (same example); that debates are often
+resolved by rhetoric in its perjorative sense or by enlisting allies (all three
+examples). As to truth, I have argued for an interpretation of SP in which it
+proposes no truth theory (as opposed to, say, a truth-relativity theory), but
+rather ignores the issue.  I don't see that there is so much very wrong with
+the presumptions that Bricmont and Sokal consider equivalent to radical
+scepticism, although I have great reservations about radical scepticism, as do
+most people who look before they cross the road or write papers that they
+expect might be read. Appendix: Partial Commensurability of Incompatible Theories Michael Friedman in his 1999 Kant lectures
+at Stanford (Dynamics of Reason, CSLI Publications, Center for the Study of 
+Language and Information, Stanford University, 2001) divided a physical
+theory into three. There is the a priori (so he argues) basis structure,
+what Friedman calls "meta-paradigms" or "meta-frameworks"; there are 
+the physical laws that may be tested against worldly observation, "empirical
+laws of nature ... that squarely and precisely face the "tribunal of
+experience" via a rigorous process of empirical testing"; and the
+level which connects the basis structure with the empirical physical level,
+which he calls the "relativized a priori principles [which] Kuhn calls
+paradigms: at least relatively stable sets of rules of the game, as it were,
+that define or make possible the problem solving activities of normal 
+science - including, in particular, the rigorous formulation and testing of
+properly empirical laws." At Friedman's meta-paradigm level lie the Euclidean geometry of Newton or
+the Riemannian geometry of Einstein. These clusters of mathematical
+knowledge are supposed to have a validity independent of the fate of
+Newtonian or relativistic mechanics, as indeed all mathematicians believe
+they do. There is not supposed to be a way these intellectual constructions
+can be refuted, except by exhibiting internal contradictions in them (it
+is in some sense always thinkable that there should be such that no one has
+yet discovered, but no competent mathematician believes it. It has been
+supposed at times that formal arithmetic may be inconsistent, in particular 
+since the work of Gödel, indeed so-called intuitionist mathematicians
+accept only parts of classical arithmetic, but there is little doubt that,
+were arithmetic to be found inconsistent in some way, revised principles of
+arithmetic would be devised that preserved at least the arithmetic of
+shopkeepers). At the level of "properly empirical" laws which face
+squarely the "tribunal of experience", there is no such insulation from
+refutation. Thus the meta-framework and the empirical level must be distinct.
+There must then be principles explaining how the meta-framework is used to
+formulate the empirical law level: principles of translation that say how
+features of the meta-framework are to be interpreted in the physical 
+universe such that the physical laws framed in their terms can be adjudged. Friedman considers the Newtonian law of universal gravitation, and the
+Einsteinian gravitational field equations, as constituting the empirical
+level at which the respective theories of mechanics can be tested, say,
+against the observations of the perihelion of Mercury At the level of connections, Friedman points out that the Einsteinian
+principle of equivalence 
+"depicts the space-time trajectories of bodies
+affected only by gravitation as geodesics or straightest possible paths
+in a variably-curved space-time geometry", just as the Newtonian laws of
+motion "depict the trajectories of bodies affected by no forces at all
+as geodesics or straightest possible paths in a flat or Euclidean
+space-time geometry." Einstein's field equations describe the variations in curvature of 
+space-time geometry as a function of the distribution of mass and energy.
+This is only possible against a background in which space-time can
+be taken to have such a geometry (which became available after Riemann
+but not before); that is, in which some empirically given phenomena are
+selected as counterparts of the fundamental geometrical notions, in 
+particular geodesics. Einstein's principle of equivalence does this.
+Hence Friedman's identification of the principle of equivalence as the
+connecting layer between the meta-paradigm, the geometry, whose intellectual 
+worth is irrespective of physical observations, and the conjectures which
+are most subject to confirmation or denial according to testing against
+physical phenomena. Similarly, the Newtonian laws of motion explain how
+the Euclidean geometry is interpreted in space and time so that the law
+of universal gravitation can be seen to fit or misfit our observations. My point here is not to establish and explain the three-layer 
+stratification of physical theory counterposed to an undifferentiated
+Quine-Duhemian holism, say, but to establish the idea of partial 
+incommensurability of theories against a Kuhnian suggestion that theories are
+either commensurable or not, with no in between stages distinguishable.
+I believe Friedman has made a plausible attempt to distinguish 
+levels of a physical theory which accords with practioners'
+understanding and indeed with physical practice. Whether one can 
+disentangle the correspondence principles - those that interpret the
+geometry, say, in the realm of physical phenomena - from the empirical
+principles of a scientific theory is an issue which need not engage us.
+The relevant point is that both Newtonians and relativists can talk to
+each other, via a mutually-comprehensible explanation of the different
+geometries underlying the two theories. Although the theories are
+ultimately different, they are partially commensurable. One way in
+which one might argue for the tripartite separation is through the
+event of Cartan's reformulation of Newtonian mechanics using Riemannian
+geometry and the principle of equivalence. The Cartanian formulation of
+Newtonian theory is equivalent in its empirical consequences to Newtonian
+theory; the Cartanian formulation and the Einsteinian theory share the
+meta-paradigmatic background of Riemannian geometry as well as the
+translation principle of equivalence. Cartan demonstrated clearly that
+Newtonian theory and Einsteinian theory were more commensurable than
+had previously been thought. One may conclude that
+partial commensurability is a fact for scientific theories. Not just for scientific theories, but also for pure principles of deductive
+reasoning.  Intuitionist mathematicians differ from classical mathematicians on
+(amongst other things) the principles of logic, of valid deductive reasoning,
+which they accept and use. Work of Kleene, Heyting and others showed how,
+purely syntactically, the propositional deductive logics of the two schools are
+comparable. The semantics continue to differ under the comparison afforded by
+this work, but the principles accepted by intuitionists are syntactically a
+subset of those accepted by classical logicians. Further work by Dummett and
+Lemmon later showed how one may formulate deductive logics with a concept of
+necessity (so-called deictic modal logics), with identical semantic
+interpretational principles, in which the set of necessary principles of one
+logic are those of intuitionist propositional logic, and those of the other are
+those of classical propositional logic. So the two sets of deductive
+principles, although prima facie incomparable, turn out to have multiple
+modes of comparison, differing in the structural nearness which they can
+elicit from the divergent logics. Acknowledgements I wish to thank Didier de Fontaine and Harry Collins, who read and commented
+on an early version of this essay. Professor Collins suggested a greater
+separation of themes than I found myself able finally to achieve while 
+retaining the original goals of this paper, which were to introduce this 
+debate to interested non-specialists via a refutation of a particular thesis 
+of Bricmont and Sokal. Finally, I was glad to be able to refer to the 
+excellent summary by Larry Laudan of the sources of views of scientists 
+about what science is. Peter B. Ladkin Home People & Info Publications Research & Projects Why-Because Analysis Lectures Compendium CRICA System Safety Society Bieleschweig Workshops RVS Blog Photo Gallery Contact & Impressum 

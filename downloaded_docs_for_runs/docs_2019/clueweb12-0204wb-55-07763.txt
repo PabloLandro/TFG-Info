@@ -1,0 +1,36 @@
+
+HTTP/1.1 200 OK
+Connection: close
+Date: Thu, 16 Feb 2012 13:12:03 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Set-Cookie: CFGLOBALS=urltoken%3DCFID%23%3D2693530%26CFTOKEN%23%3D22203325%23lastvisit%3D%7Bts%20%272012%2D02%2D16%2008%3A12%3A03%27%7D%23timecreated%3D%7Bts%20%272012%2D02%2D15%2019%3A20%3A54%27%7D%23hitcount%3D509%23cftoken%3D22203325%23cfid%3D2693530%23;expires=Sat, 08-Feb-2042 13:12:03 GMT;path=/
+Content-Type: text/html; charset=ISO-8859-1
+
+Journalists Against AIDS (JAAIDS) Nigeria NIGERIA HIV/AIDS NEWS WHO - 'Male circumcision can aid HIV control efforts' March 30, 2007 :: Ochieng' Ogodo,Nairobi, SciDev.Net,London Circumcision has been approved as part of HIV prevention
+
+The World Health Organization and UNAIDS now recommend that male circumcision be added to approved interventions to reduce the risk of heterosexually acquired HIV infection in men.
+
+The recommendation follows an international consultation held earlier this month (6-8 March) at which experts agreed that the evidence from research into circumcision was compelling.
+
+Three trials, carried out in Kenya, Uganda and South Africa, were stopped early because they showed such large reductions in new HIV infections -- by 48-60 per cent (see Male circumcision cuts HIV risk, UN urges caution).
+
+However the organisations warn that countries should consider male circumcision as part of a wider HIV prevention package, including HIV testing and counselling services to prevent men developing a false sense of security.
+
+And since the circumcision procedure itself carries a significant risk of HIV transmission if carried out under unsafe conditions, countries should train healthcare workers and provide certification to ensure that procedures are safe and hygienic (see Unhygienic circumcision 'increases risk of HIV').
+
+"The recommendations represent a significant step forward in HIV prevention," said Kevin De Cock, director of HIV/AIDS at the World Health Organization.
+
+"Countries with high rates of heterosexual HIV infection and low rates of male circumcision now have an additional intervention which can reduce the risk of HIV infection in heterosexual men."
+
+But he added that it will be a number of years before we can expect to see an impact on the epidemic from such investment.
+
+Kenya's director of Medical Services, James Nyikal, cautiously welcomed the recommendation.
+
+"Although male circumcision considerably reduces the risk of HIV/AIDS transmission, there is a high risk of circumcised men becoming complacent and engaging in risky sexual behaviour," he said.
+
+Alloys Orago, director of the National Aids Control Council in Kenya remained sceptical about the results of the research studies.
+
+But he added, "If it is true, then Kenya will have to come up with a policy on male circumcision and develop strategies on how it can be incorporated into the many packages used in HIV infection prevention."
+
+"Having a single partner still remains key to prevention of HIV infections. There are three other strands to this; abstain, be faithful to the uninfected partner or use a condom if unsure," he told SciDev.Net. Copyright © 2005 Journalis

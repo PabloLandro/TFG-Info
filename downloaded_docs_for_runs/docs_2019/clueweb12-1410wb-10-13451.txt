@@ -1,0 +1,142 @@
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 2.0.50727
+X-Powered-By: ASP.NET
+Date: Wed, 11 Apr 2012 18:13:13 GMT
+Connection: close
+
+Medicare Hospital Compare Information for Professionals Skip Navigation Close Window Medicare.gov Hospital Compare Print Information for Professionals Value Based Purchasing Process of Care Information for Professionals on Data Collection Data Quality Assurance Confidence Interval Technical Appendix Outcome of Care Measure Outpatient Imaging Efficiency Measures Patients' Survey Patient Safety Measures Technical Appendix Individual Hospital Performance Rate Calculations The performance rate is calculated by dividing the 
+                    numerator by the denominator. The denominator is the sum of all eligible cases 
+                    (as defined in the measure specifications) submitted to the QIO Clinical Data 
+                    Warehouse for the reporting period. The numerator is the sum of all eligible 
+                    cases submitted for the same reporting period where the recommended care was 
+                    provided. The same data will be used for individual hospital, state and national 
+                    rate calculations. National and State Averages - Calculation of the Comparison Rates Beginning in December 2010, state and national averages for the process of care measures are calculated by: Summing the cases in the state or nation that 'passed' the measure (Numerator) and Dividing that sum by the number of cases in the state or national Denominator For the determination of the 90th percentile (or top 10%) of hospitals on a national basis, the individual rates were then rank-ordered and the top 10th percentile score identified. For the national and state averages, a simple average was constructed where the numerator was the sum of all non-excluded hospitals' scores and the denominator was the total number of hospitals, each calculated at either the national or individual state level. For the process and survey measures, the national and state averages are calculated before excluding suppressed rates and are not recalculated using only published rates as was done prior to September 2009. Acute Care - VA Medical Centers - Opens in a new window are not included in the calculation of the national and state comparison rates. The children’s asthma care national and state averages are calculated differently. The average rate for all healthcare organizations in the nation that provide 
+                    results for a measure - The average rate is calculated by dividing the 
+                    total number of patients who had the recommended care provided for a measure by 
+                    the total number of patients who met the inclusion and exclusion criteria for 
+                    that measure in the nation for the timeframe being reported. Sampling Whether or not a hospital uses sampling is determined by rules established by The 
+                    Joint Commission and CMS. The same sampling methodology is used by hospitals for 
+                    both their non-Medicare cases and Medicare cases and is based on the number of 
+                    discharges per topic each quarter. More detailed information is available at www.QualityNet.org . Hospital Process of Care Measure Set List of Current Measures Heart Attack (Acute Myocardial Infarction or AMI) and Chest Pain Aspirin at Arrival (Is both an inpatient and outpatient measure.) Aspirin at Discharge Angiotensin Converting Enzyme (ACE) Inhibitor or Angiotensin Receptor Blocker 
+                        (ARB) for Left Ventricular Systolic Dysfunction Beta Blocker at Discharge Fibrinolytic Medication Within 30 Minutes Of Arrival (Is both an inpatient and outpatient measure.) Percutaneous Coronary Intervention (PCI) Received Within 90 Minutes of Hospital 
+                        Arrival Smoking Cessation Advice/Counseling Median Time to Fibrinolysis (This is only an outpatient measure) Median Time to Transfer to Another Facility for Acute Coronary Intervention (This is only an outpatient measure.) Median Time to ECG (This is only an outpatient measure.) Statin at Discharge Heart Failure Evaluation of Left Ventricular Systolic (LVS) Function Angiotensin Converting Enzyme (ACE) Inhibitor or Angiotensin Receptor Blocker 
+                        (ARB) for Left Ventricular Systolic Dysfunction Discharge Instructions Smoking Cessation Advice/Counseling Pneumonia Initial Antibiotic Timing Pneumococcal Vaccination Influenza Vaccination Blood Culture Performed in the Emergency Department Prior to Initial Antibiotic 
+                        Received in Hospital Appropriate Initial Antibiotic Selection Smoking Cessation Advice/Counseling Surgical Care Improvement Project Prophylactic Antibiotic Received Within 1 Hour Prior to Surgical Incision (Is both an inpatient and outpatient measure.) Prophylactic Antibiotics Discontinued Within 24 Hours After Surgery End Time Prophylactic Antibiotic Selection (Is both an inpatient and outpatient measure.) Surgery Patients with Recommended Venous Thromboembolism Prophylaxis Ordered Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis 
+                        Within 24 Hours Prior to Surgery to 24 Hours After Surgery Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose Surgery Patients with Appropriate Hair Removal Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta Blocker 
+                        During the Perioperative Period Inpatients whose urinary catheters were removed within 2 days after surgery to reduce the risk of infection. Surgery Patients with Perioperative Temperature Management Children's Asthma Care Children receiving reliever medication (like albuterol) while hospitalized for 
+                        asthma Children receiving systemic corticosteroid medication (oral and IV medication 
+                        that reduces inflammation and controls symptoms) while hospitalized for asthma Children and their caregivers receiving a Home Management Plan of Care Document 
+                        While Hospitalized for Asthma Description of Measures The definitive description of all measures reported on 
+                    Hospital Compare, including their micro-specifications, is found at the 
+                    QualityNet website. The information provided below and at www.cms.gov - Opens in a new window for each 
+                of the measures is intended to be illustrative, but is not a definitive listing 
+                of the micro-specifications. The complete measure specifications can be viewed 
+                on www.QualityNet.org . Heart Attack and Chest Pain Every year, about one million people suffer a heart attack 
+                    (acute myocardial infarction or AMI). AMI is among the leading causes of 
+                    hospital admission for Medicare beneficiaries, age 65 and older. Scientific evidence indicates that the following process 
+                    of care measures represent the best practices for the treatment of AMI. Higher 
+                    scores are better. Asprin at Arrival - Acute myocardial infarction (AMI) patients without 
+                        aspirin contraindications who received aspirin within 24 hours before or after 
+                        hospital arrival. (Is both an inpatient and outpatient measure.) Aspirin at Discharge - AMI patients without aspirin contraindications who 
+                        were prescribed aspirin at hospital discharge. Angiotensin Converting Enzyme (ACE) Inhibitor or Angiotensin Receptor Blocker 
+                        (ARB) for Left Ventricular Systolic Dysfunction - AMI patients with left 
+                        ventricular systolic dysfunction (LVSD) and without angiotensin converting 
+                        enzyme inhibitor (ACE inhibitor) contraindications or angiotensin receptor 
+                        blocker (ARB) contraindications who are prescribed an ACE inhibitor or an ARB at 
+                        hospital discharge. Beta Blocker at Discharge - AMI patients without beta-blocker 
+                        contraindications who were prescribed a beta-blocker at hospital discharge. Fibrinolytic Medication Within 30 Minutes Of Arrival - AMI patients 
+                        receiving fibrinolytic therapy during the hospital stay and having a time from 
+                        hospital arrival to fibrinolysis of 30 minutes or less (Is both an inpatient and outpatient measure.) Percutaneous Coronary Intervention (PCI) Received Within 90 Minutes of 
+                        Hospital Arrival - AMI patients receiving Percutaneous Coronary Intervention 
+                        (PCI) during the hospital stay with a time from hospital arrival to PCI of 90 
+                        minutes or less. Smoking Cessation Advice/Counseling - AMI patients with a history of 
+                        smoking cigarettes, who are given smoking cessation advice or counseling during 
+                        a hospital stay. Median Time to Fibrinolysis (This is only an outpatient measure.) - Median time from arrival to fribrinolysis for patients that received fibrinolysis. Median Time to Transfer to Another Facility for Acute Coronary Intervention (This is only an outpatient measure.) - Median number of minutes before outpatients with heart attack who needed specialized car were transferred to another hospital (a lower number of minutes is better) Median Time to ECG (This is only an outpatient measure.) - Median number of minutes before outpatients with heart attack (or with chest pain that suggest a possible heart attack) got an ECG(a lower number of minutes is better) Statin at Discharge Heart Failure Heart failure is the most common hospital admission 
+                    diagnosis in patients age 65 or older, accounting for more than 700,000 
+                    hospitalizations among Medicare beneficiaries every year. It is associated with 
+                    severe functional impairments and high rates of mortality and morbidity. Substantial scientific evidence indicates that the 
+                    following Process of Care measures represent the best practices for the 
+                    treatment of heart failure. Higher scores are better. Evaluation of left ventricular systolic (LVS) function - Heart failure 
+                        patients with documentation in the hospital record that an evaluation of the 
+                        left ventricular systolic (LVS) function was performed before arrival, during 
+                        hospitalization, or is planned for after discharge. ACE inhibitor or ARB for left ventricular systolic dysfunction - Heart 
+                        failure patients with left ventricular systolic dysfunction (LVSD) and without 
+                        angiotensin converting enzyme inhibitor (ACE inhibitor) contraindications or 
+                        angiotensin receptor blocker (ARB) contraindications who are prescribed an ACE 
+                        inhibitor or an ARB at hospital discharge. Discharge instructions - Heart failure patients discharged home with 
+                        written instructions or educational material given to patient or care giver at 
+                        discharge or during the hospital stay addressing all of the following: activity 
+                        level, diet, discharge medications, follow-up appointment, weight monitoring, 
+                        and what to do if symptoms worsen. Smoking cessation advice/counseling - Heart failure patients with a 
+                        history of smoking cigarettes, who are given smoking cessation advice or 
+                        counseling during a hospital stay. Pneumonia Community acquired pneumonia is a major contributor to 
+                    illness and mortality in the United States, causing 4 million episodes of 
+                    illness and nearly one million hospital admissions each year. Scientific evidence indicates that the following process 
+                    of care measures represent the best practices for the treatment of 
+                    community-acquired pneumonia. Higher scores are better. Initial Antibiotic Timing - Pneumonia inpatients that receive within 6 
+                        hours after arrival at the hospital. Evidence shows better outcomes for 
+                        administration times less than four hours. Pneumococcal Vaccination Status - Pneumonia inpatients age 65 and older 
+                        who were screened for pneumococcal vaccine status and were administered the 
+                        vaccine prior to discharge, if indicated. Influenza Vaccination Status - Pneumonia patients age 50 years and older, 
+                        hospitalized during October, November, December, January, or February who were 
+                        screened for influenza vaccine status and were vaccinated prior to discharge, if 
+                        indicated. Blood Cultures Performed in the Emergency Department Prior to Initial 
+                        Antibiotic Received in Hospital - Pneumonia patients whose initial emergency 
+                        room blood culture specimen was collected prior to first hospital dose of 
+                        antibiotics. Appropriate Initial Antibiotic Selection - Immunocompetent patients with 
+                        pneumonia who receive an initial antibiotic regimen that is consistent with 
+                        current guidelines. Smoking cessation advice/counseling - Pneumonia patients with a history 
+                        of smoking cigarettes, who are given smoking cessation advice or counseling 
+                        during a hospital stay. Surgical Care Improvement Project Hospitals can reduce the risk of complications like wound 
+                    infection or blood clots in surgery patients by giving the right treatments at 
+                    the right time. For example, studies show a strong association of reduced 
+                    incidence of post-operative infection with administration of antibiotics within 
+                    the one hour prior to surgery. After the incision is closed, however, studies 
+                    show that prolonged administration of prophylaxis with antibiotics may increase 
+                    the risk of certain other infections at no additional benefit to the surgical 
+                    patient. Scientific evidence shows that the following process of 
+                    care measures represent the best practices for preventing complications after 
+                    certain surgeries (colon surgery, hip and knee arthroplasty, abdominal and 
+                    vaginal hysterectomy, cardiac surgery (including coronary artery bypass grafts 
+                    (CABG)) and vascular surgery). Higher scores are better. Prophylactic Antibiotic Received Within 1 Hour Prior to Surgical Incision - Surgical patients who received prophylactic antibiotics within 1 hour prior to 
+                        surgical incision. (Is both an inpatient and outpatient measure.) Prophylactic Antibiotics Discontinued Within 24 Hours After Surgery End Time - Surgical patients whose prophylactic antibiotics were discontinued within 24 
+                        hours after surgery end time. Prophylactic Antibiotic Selection - Surgical patients who received the 
+                        recommended antibiotics for their particular type of surgery.  (Is both an inpatient and outpatient measure.) Surgery Patients with Recommended Venous Thromboembolism Prophylaxis Ordered - Surgery patients with recommended venous thromboembolism (VTE) prophylaxis 
+                        ordered anytime from hospital arrival to 48 hours after Surgery End Time . Surgery Patients Who Received Appropriate Venous Thromboembolism Prophylaxis 
+                        Within 24 Hours Prior to Surgery to 24 Hours After Surgery - Surgery 
+                        patients who received appropriate venous thromboembolism (VTE) prophylaxis 
+                        within 24 Hours prior to Surgical Incision Time to 24 Hours after Surgery End Time . Cardiac Surgery Patients With Controlled 6 A.M. Postoperative Blood Glucose - Cardiac surgery patients with controlled 6 A.M. blood glucose (≤ 200 mg/dL) on 
+                        postoperative day one (POD 1) and postoperative day two (POD 2) with Surgery 
+                        End Date being postoperative day zero (POD 0). Surgery Patients with Appropriate Hair Removal - Surgery patients with 
+                        appropriate surgical site hair removal. No hair removal, or hair removal with 
+                        clippers or depilatory is considered appropriate. Shaving is considered 
+                        inappropriate. Surgery Patients on a Beta Blocker Prior to Arrival Who Received a Beta 
+                        Blocker During the Perioperative Period - Surgery patients who were taking 
+                        heart drugs called beta blockers before coming to the hospital, who were kept on 
+                        the beta blockers during the period just before and after their surgery. Inpatients whose urinary catheters were removed within 2 days after surgery to reduce the risk of infections. - Shows the percent of surgery patients whose urinary catheters were removed on the first or second day after surgery. Surgery Patients with Perioperative Temperature Management Children's Asthma Care Asthma is the most common chronic disease in children and 
+                    a major cause of morbidity and increased health care expenditures nationally 
+                    (Adams, et al., 2001). For children, asthma is one of the most frequent reasons 
+                    for admission to hospitals (McCormick, et al., 1999). Other researchers noted 
+                    that there are approximately 200,000 admissions for childhood asthma in the 
+                    United States annually, representing more than $3 billion dollars in healthcare 
+                    costs (Silber, et al., 2003). Under-treatment and/or inappropriate treatment of 
+                    asthma are recognized as major contributors to asthma morbidity and mortality Use of Reliever Medication for Inpatient Asthma - Use of relievers in 
+                        pediatric patients admitted for inpatient treatment of asthma. Use of Systemic Corticosteroid Medication for Inpatient Asthma - Use of 
+                        systemic Corticosteroid Medication in pediatric patients admitted for inpatient 
+                        treatment of asthma. Home Management Plan of Care Document Given to Patient/Caregiver – An 
+                        assessment that there is documentation in the medical record that a Home 
+                        Management Plan of Care (HMPC) document was given to the pediatric asthma 
+                        patient/caregiver. National Quality Forum Endorsement of Measures The Federal government uses quality measures to assess how 
+                    well hospitals care for patients with certain conditions. By law, any measures reported on the Hospital 
+                    Compare website must reflect accepted standards of healthcare quality. The National Quality Forum (NQF) is an independent 
+                    organization created to develop and implement a strategy for health care quality 
+                    measurement and public reporting. The NQF brings together stakeholders from 
+                    throughout the healthcare industry to jointly decide which quality measures meet 
+                    industry standards and are suitable for reporting on Hospital Compare. While NQF 
+                    endorses the quality measures, it does not monitor or review the data that are 
+                    collected from and about hospitals. NQF considers several factors when deciding whether a 
+                    quality measure should be reported: Whether it addresses an aspect of care or treatment that improves people’s 
+                        health or well-being Whether it can be measured accurately and reliably in different hospitals Whether the information can be used to improve the quality of care or to inform 
+                        patients’ decisions about where to go for care. The NQF brings eight different types of stakeholder 
+                    organizations together in its consensus process: associations of doctors, nurses, and other health professionals; patient and consumer advocacy organizations (e.g. AARP); health care provider organizations (e.g. American Hospital Association); employers and employer coalitions; health plans and insurance companies; public health and community health agencies; professionals involved in measuring and improving quality; and, businesses 

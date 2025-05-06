@@ -1,0 +1,10 @@
+
+HTTP/1.1 200 OK
+Date: Mon, 13 Feb 2012 14:07:16 GMT
+Server: WebServer
+Vary: *
+X-Powered-By: PHP/5.2.17
+Connection: close
+Content-Type: text/html
+
+Cranberry Bounty, the quicker picker-upper - DIG IT! Magazine Back to article Sorry, article not available right now. Cranberry Bounty, the quicker picker-upper by Mary Jasch It's a fact. Cranberries do prevent urinary tract infections. But do you know they reduce LDL, total cholesterol, inflammation and tumors? That they aid cancer treatment? And all it takes is a glass of juice a day, says Amy Howell, associate research scientist at The Philip E. Marucci Center for Blueberry and Cranberry Research and Extension, Rutgers University in Chatsworth, New Jersey. Contrary to widespread belief the berry's acidity is not responsible for its medicinal effects. Within the scope of her research, Howell isolates cranberry and blueberry compounds that benefit human health. She focuses on condensed tannins, or proanthocyanidins (PACs), that prevent E. coli and other antibiotic resistant bacteria from attaching to the walls of the urinary tract and bladder.  These PACs give cranberries their body, astringent taste, and medicinal properties. She investigates other activities of PACs, including bioavailability. Urinary Tract Infections Although PACs do not kill bacteria, taken regularly they can prevent urinary tract infections by disallowing adhesion. The bacteria will not do anything if it cannot bind to the walls. "Adding things into the diet is so much easier psychologically than taking something away. 

@@ -1,0 +1,9 @@
+
+HTTP/1.1 200 OK
+Date: Sat, 25 Feb 2012 20:21:00 GMT
+Server: Apache/2.2.17 (Unix) mod_ssl/2.2.17 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+X-Powered-By: PHP/5.3.4
+Connection: close
+Content-Type: text/html
+
+Dental Sealants Dental Sealants Definition: This is a layer or resin that is designed to protect the tooth from any cavities forming. As there is a layer protecting the tooth, this will also prevents bacteria from getting to the tooth when chewing. The sealant is not a permanent treatment; this could last up to 5 years. Its often use in children as its most effective when the tooth is erupting. Also known as:fissure sealants Pronunciation:Den-tal Seal-ants Home About Treatments Finances Offers Testimonials Contact Languages © 2008 Baker Street Dental Clinic.  All Rights Reserved. Disclaimer Website by The Fresh Dental Websites & Marketing Cosmetic dentistry Baker Street Dental Clinic, 102 Baker Street, Dentist in London, W1U 6F

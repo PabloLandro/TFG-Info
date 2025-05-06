@@ -1,0 +1,636 @@
+
+HTTP/1.1 200 OK
+Date: Tue, 28 Feb 2012 08:33:17 GMT
+Server: Apache/2.2.3 (CentOS)
+X-Powered-By: PHP/5.2.17
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Tue, 28 Feb 2012 08:33:18 GMT
+Cache-Control: store, no-cache, must-revalidate
+Cache-Control: post-check=0, pre-check=0
+Vary: Accept-Encoding
+Connection: close
+Content-Type: text/html; charset=utf-8
+
+Health Library | Swedish Covenant Hospital Swedish Covenant Hospital Well Community Mobile Version Swedish Covenant Medical Group Galter LifeCenter Skip to main content Main Menu Find a Doc Medical Services Cancer Services Cancer Services Screening and Diagnostics Mammogram Availability Breast Health Program Treatment Options Support and Rehabilitation Services Specialties Breast Cancer Colon Cancer Liver Cancer Prostate Cancer Technology IMRT Delivers Radiation with Pinpoint Precision Resources and FAQs Guidelines for Yearly Cancer Screenings Cancer Services Publications Patient and Family Support Services Screening Events and Community-Based Programs Myths and Misunderstandings on Breast Cancer Philosophy of Care Accreditations and Awards Swedish Covenant Hospital Nurse Recognized as 2008 Yoplait Champion Cardiology and Heart Services Cardiac Services Cardiac Testing Cardiac Treatment Cardiac Rehabilitation Pulmonary Rehabilitation Cardiac Facilities Philosophy of Care Chicago Back Institute Chicago Back Institute Overview Back Pain Treatments Minimally Invasive Herniated Disk Procedures SI Joint Stabilization Team of Clinicians Philosophy of Care Chicago Back Institute Location and Contact Chicago Back Institute in Our Community Spine and Back Resources Childbirth Childbirth Services Family Birthing Center Midwifery Services Technology Resources and FAQ’s Childbirth Classes Preregistration Information Dermatology Emergency Services Services Resources and FAQs Family Health Family Health Services Family Practice Center Pediatric Services Affordable Pre-Natal and Pediatric Services Emergency Situations Diabetes Community Center Medical Nutrition Counseling Adolescent Programs Resources and FAQs A Growing Problem: Obesity in Kids Choosing Your Child's Physician Why Are "Well-Child" Exams Important? When Pediatric Hospitalization is Necessary Common Questions on Childhood Asthma Discover the Fact and Fiction Behind Many Popular Home Remedies All Kids, FamilyCare and Moms and Babies Health Care and Services at Home Services Home Health Care HouseCalls: Mobile Medical Program Team of Clinicians Meet the Home Health Care Team Meet the HouseCalls Medical Director and Nurse Practitioners Resources and FAQs Home Health Care FAQs HouseCalls Frequently Asked Questions Education and Services for Care Givers Education and Services for Patients Location and Contact Home Health Care Contact Information and Service Area HouseCalls Contact Information and Service Area Philosophy of Care Laboratory and Blood Work Mental Health Services Mental Health Services Psychological Services Psychiatric Services Team of Clinicians Midwifery Services Team of Clinicians Resources and FAQ's Location and Contact Philosophy of Care Ophthalmology (Eye Health) Orthopedic Program Orthopedic Program Overview Orthopedic Services and Treatments Joint Replacement Program Resources and FAQs Articles by Dr. Levi: Cartilage Injuries Miniminally Invasive Hip Surgery Unique Orthopedic Offerings Physical Therapy and Rehabilitation Physicians Location and Contact Pain Management Pain Management Services Conditions Treated With Pain Management Pain Management Procedures Lidocaine Infusions Team of Clinicians Our Team Approach Resources and FAQs Scheduling Your Appointment Preparing for Your Appointment Performance Outcomes Pediatrics Well-Child Exams Team of Clinicians Resources and FAQs Preparing For Your Child’s Appointment Common Health Advice for Parents Prenatal visit FAQs New Born Guide Other Health Resources Baby 411 Location and Contact Philosophy of Care Physical Therapy Post-Hospital Services Resources and FAQs Nursing Home Evaluation Checklists Living in a Nursing Home: Myths and Realities Skilled Nursing Facility and Other Resources Pulmonary Rehabilitation Genomic Medicine Program Radiology Services Radiology Services Interventional Radiology Uterine Fibroid Embolization Vertebroplasty: Advanced Treatment for Osteoporosis Bone Density Screening Cardiac Scoring Technology MRI Technology CT Technology Rehabilitation Services Physical Therapy Specialty Programs Occupational Therapy Mirror Therapy Speech-Language Pathology Work Conditioning Resources and FAQ’s Balance Center Primary Stroke Center Certification Sleep and Neurodiagnostic Center Services Overnight Sleep Studies Treatment Options Resources and FAQs Surgical Services Surgical Procedures Robotic Surgery Da Vinci Si Robotic Surgery System Benefits of the Da Vinci Si Robotic Surgery System Our Expert Surgeons How to Schedule a Robotic Surgery Appointment Resources and FAQ’s Our Patient Stories Vascular Services Vascular Services Vascular Disease Risk Factors Treating Vascular Problems Vascular Screenings Vital Screening Package Online Assessment Weight Management Weight Management Services Weight Management Comprehensive Evaluation Weight Management Surgical Options Weight Management Non-Surgical Options Team of Clinicians Weight Management Resources and FAQs Facts About Obesity Location and Contact Our Patient Stories Obesity Win Means Fewer Medications, More Happiness for Mom Women's Health Women's Health Services OB/GYN Practice Family Birthing Center Breast Health Incontinence and Pelvic Pain Treatments Surgical Options Menopause Osteoporosis Team of Clinicians Resources and FAQ’s Embracing Menopause: Preparing for a Healthy Transition Tips For a Great Mammogram Wound Care Center Wound Care Services Wound Care Procedures and Treatments Prevention and Home Treatment Techniques Wound Care Center Team of Clinicians Wound Care Center Resources and FAQs Preparing For Your Visit Wound Care Definitions Wound Care Frequently Asked Questions Location and Contact Events & Classes Careers Employment Opportunities Physician Opportunities Benefits Health Time Knowledge Spirit Money Lifeworks Program Residency Programs Residency Opportunities Family Medicine Residency Program Osteopathic Internal Medicine Residency Program Traditional Rotating Internship Salary and Benefits Requirements and Contracts Residency Photo Gallery Medical Students Testimonials from Our Residents Meet Our Current Residents Nursing Journey to Magnet Excellence Magnet Force 1: Quality of Nursing Leadership Magnet Force 2: Organizational Structure Magnet Force 3: Management Style Magnet Force 4: Personnel Policies and Programs Magnet Force 5: Professional Models of Care Magnet Force 6: Quality of Care Magnet Force 7: Quality Improvement Magnet Force 8: Consultation and Resources Magnet Force 9: Autonomy Magnet Force 10: Community and the Healthcare Organization Magnet Force 11: Nurses as Teachers Magnet Force 12: Image of Nursing Magnet Force 13: Interdisciplinary Relationships Magnet Force 14: Professional Development Nursing Photo Gallery Testimonials From Our Nurses Awards and Recognition Board-Certified Nurses Careers in Nursing Education and Resources 2011 Summer Nursing Camp Volunteering About Volunteering at Swedish Covenant Hospital How to Become a Volunteer Volunteer Requirements Volunteer Opportunities Volunteer Benefits Volunteer Guidelines and Responsibilities Volunteer Testimonials Volunteer News Secondary Menu About Us Your Visit to SCH For Physicians Media Center Health Library My Health Space You are here: Home » Health Library Health Library Low Back Pain Topic Contents Topic Overview Health Tools Cause Symptoms What Happens What Increases Your Risk When To Call a Doctor Exams and Tests Treatment Overview Prevention Home Treatment Medications Surgery Other Treatment Other Places To Get Help Related Information References Credits Low Back Pain Topic Overview Is this topic for you? This topic provides a
+			 general overview of low back pain. If you have been diagnosed with a herniated
+			 disc or spinal stenosis, see the topic Herniated Disc or Lumbar Spinal Stenosis . What is low back pain? Low back pain can affect
+			 the back anywhere below the ribs and above the legs. The lower back is the connection between the upper and lower body, and it bears
+			 most of the body’s weight. Because of these roles, it is easily injured when
+			 you lift, reach, or twist. Almost everyone has low back pain at
+			 one time or another. The good news is that most low back pain will go away in a
+			 few weeks with some basic self-care. But if your pain is severe or lasts more
+			 than a couple of weeks, see your doctor. What causes low back pain? Low back pain is often
+			 caused by overuse, strain, or injury. For instance, people often hurt their
+			 backs playing sports or working in the yard, being jolted in a car accident, or
+			 lifting something too heavy. Aging plays a part too. Your bones
+			 and muscles tend to lose strength as you age, which increases your risk of
+			 injury. The spongy discs between the bones of the spine ( vertebrae ) may
+			 suffer from wear and tear and no longer provide enough cushion between the
+			 bones. A disc that bulges or breaks open ( herniated disc )
+			 can press on nerves, causing back pain. In some people, low back
+			 pain is the result of arthritis , broken vertebrae ( compression fractures ) caused by bone loss ( osteoporosis ),
+			 illness, or a spine problem you were born with. Often doctors
+			 don't really know what causes low back pain. But it is more likely to become
+			 long-lasting (chronic) if you are under stress or depressed. What are the symptoms? Depending on the cause, low
+			 back pain can cause a range of symptoms. It may: Be dull, burning, or sharp. Be
+				felt at a single point or over a broad area. Come on gradually or
+				suddenly. Occur with muscle spasms or stiffness. Cause leg symptoms, such as pain, numbness, or tingling, often extending below
+				the knee. These symptoms can occur on their own or along with low back pain.
+				Leg symptoms are often caused by lower spine problems that place pressure on a
+				nerve that leads to the leg. A rare but serious problem called cauda equina syndrome can occur if the nerves at the
+			 end of the spinal cord are squeezed. Seek emergency treatment if you have
+			 weakness or numbness in both legs, or loss of bladder or bowel control. Doctors say back pain is: Acute if a spell (or
+				episode) of pain lasts less than 3 months. Most back pain is acute and goes
+				away with 4 to 6 weeks of home treatment. Recurrent if acute symptoms come back. Most people have one or more 
+				episodes of recurrent low back pain. Chronic if your back bothers you most of the time for longer than 3
+				months. How is low back pain diagnosed? The doctor will
+			 ask questions about your past health, symptoms, and work and physical
+			 activities. He or she will also do a physical exam. Your answers and the exam
+			 can help the doctor rule out a serious cause for the pain. In most cases,
+			 doctors are able to recommend treatment after the first exam. Most
+			 people do not need further testing. Imaging tests such as X-rays , CT scans , and MRIs are not helpful for diagnosing most episodes of
+			 low back pain. In most cases, they are only used if the doctor suspects a
+			 serious problem, such as a herniated disc, a broken bone, or cancer, or if
+			 surgery is being considered or planned. You might also have imaging tests if
+			 worker’s compensation or a lawsuit is involved. How is it treated? Most low back pain will improve
+			 with the following treatment: For the first day or two, rest in a comfortable position . Try lying on your side with a
+				pillow between your knees. Or lie on your back on the floor with a pillow under
+				your knees. Do not stay in one position for too long, though. Every 2 to 3
+				hours, take a short walk (about 10 to 20 minutes), then rest in a comfortable
+				position again. Take over-the-counter pain medicine if needed,
+				such as acetaminophen (Tylenol, for example) or an anti-inflammatory drug such as aspirin or ibuprofen
+				(Advil or Motrin, for example). For most people, these medicines work best if taken on a regular schedule. Try using a heating pad on a low or medium setting for 15 to 20 minutes every 2 or 3 hours. Try a warm shower in place of one session with the heating pad. You can also buy
+				single-use heat wraps that last up to 8 hours. You can also try an ice pack for
+				10 to 15 minutes every 2 to 3 hours. There is not strong evidence that either
+				heat or ice will help. But you can try them to see if they help. As soon as possible, get back to your normal activities. Staying in bed for
+				more than 1 or 2 days can weaken your muscles and make the problem worse. Walking is the simplest and maybe the best exercise for
+			 the lower back. It gets your blood moving and helps your muscles stay strong.
+			 Start with easy walks of 5 to 10 minutes a day, and gradually increase your
+			 time. Walking in water up to your waist or chest is also good exercise. A doctor or physical therapist can recommend more specific
+			 exercises to help your back muscles get stronger. These may include a series of
+			 simple exercises called core stabilization . The muscles of your trunk , or core, support your spine. Strengthening
+			 these muscles can improve your posture, keep your body in better balance, and
+			 lower your chance of injury. Some people get relief from pain by
+			 using treatments such as massage, spinal manipulation ( chiropractic or
+			 osteopathic manipulation), or acupuncture . Certain treatments work for some people
+			 but not for others. You may need to try different things to see which work best
+			 for you. If your symptoms are severe or you still have them after
+			 2 weeks of self-care, see your doctor. You may need stronger pain medicines, or
+			 you might benefit from physical therapy . Having ongoing back
+			 pain can make you depressed. In turn, depression can have an effect on your
+			 level of pain and whether your back gets better. People with depression and
+			 chronic pain often benefit from both counseling and medicine. A cognitive-behavioral therapist can teach stress
+			 management and pain control skills. Antidepressant medicines may help too. Only a few people with low back pain need surgery. Surgery may
+			 help if you have a herniated disc or back pain along with symptoms of nerve
+			 damage, such as numbness in your legs. Even in these cases, most people will
+			 improve without surgery. Having surgery does not guarantee that all your pain
+			 will go away. Before you have surgery, it is a good idea to get a second opinion . How can you prevent low back pain from returning? After the first time you have had low back pain, you are likely to have
+			 it again. To help keep your back healthy and avoid further pain: Practice good posture when you sit, stand,
+				and walk. Get regular, low-impact exercise. Walk, swim, or ride a
+				stationary bike. Stretch before you exercise. Wear low-heeled
+				shoes with good support. Sleep on your side. A medium-firm mattress
+				may put the least stress on your back. Watch your weight. Being too
+				heavy, especially around your waist, puts extra stress on your back. Don't try to lift things that are too heavy for you. When you must
+				lift, bend your knees and keep your back straight, keep the object you are
+				lifting close to your belly button, and avoid lifting and twisting at the same
+				time. See a picture of proper lifting technique . If you sit or stand for long periods at work: Pay attention to your posture. Sit or stand
+				up straight, with your shoulders back. Make sure your chair has
+				good back support. Take regular breaks to walk around. If your work involves a lot of bending, reaching, or
+			 lifting: Talk to your human resources department to
+				see if there are other ways you can do your work. Don't depend on a
+				“back belt” to protect your back. Studies have not shown these belts to be
+				effective in reducing back injuries. The most they can do is to help remind you
+				to use good techniques for lifting. Frequently Asked Questions Learning about low back pain: What is low back pain? What causes low back pain? What increases my risk of low back pain? What can I do to prevent low back pain? Who is affected by low back pain? Being diagnosed: How is the cause of low back pain diagnosed? Should I have magnetic resonance imaging (MRI) for low back pain? Getting treatment: How is new (acute) low back pain treated? Should I have spinal manipulative therapy to treat low back pain? How is chronic low back pain treated? What can I do to relieve my low back pain? What medications are typically used to relieve low back pain? What are trigger point and epidural injections? What is intradiscal electrothermic therapy (IDET)? What is spinal cord stimulation? What is botulinum toxin (Botox) injection? Should I have surgery for a herniated disc? Ongoing concerns: What measures can I take to manage my risk of low back pain throughout my life? How can I lift properly to prevent back injury? What exercises can I do for low back pain? Health Tools Health Tools help you make wise health decisions or take action to improve your health. Decision Points focus on key medical care decisions that are important to many health problems. Herniated disc: Should I have surgery? Low back pain: Should I have an MRI? Low back pain: Should I have spinal manipulation? Actionsets are designed to help people take an active role in managing a health condition. Back problems: Proper lifting Fitness: Increasing core stability Low back pain: Exercises to reduce pain Interactive tools are designed to help people determine health risks, ideal weight, target heart rate, and more. Interactive Tool: Should I Consider Surgery for My Low Back Problem? Cause Most low back pain is triggered by some combination of
+		  overuse, muscle strain, and injury to the muscles, ligaments, and discs that
+		  support the spine. Many experts believe that over time muscle strain can lead
+		  to an overall imbalance in the spinal structure. This leads to a constant
+		  tension on the muscles, ligaments, bones, and discs, making the back more prone
+		  to injury or reinjury. The causes of pain in the low back, or lumbosacral region , tend to add on to one another. For
+		  example, after straining muscles, you are likely to walk or move in different
+		  ways to avoid pain or to use muscles that aren't sore. That can cause you to
+		  strain other muscles that don't usually move that way. The most common causes of low back pain are: Injury or overuse of muscles, ligaments, facet joints , and the sacroiliac joints . Pressure on nerve roots in the spinal canal. Nerve root
+			 compression can be caused by: A herniated disc , often brought on by repeated vibration
+				  or motion (as during machine use or sport activity, or when lifting
+				  improperly), or by a sudden heavy strain or increased pressure to the lower
+				  back. Osteoarthritis (joint degeneration),
+				  which typically develops with age. When osteoarthritis affects the small facet
+				  joints in the spine, it can lead to back pain. Osteoarthritis in other joints,
+				  such as the hips, can cause you to limp or to change the way you walk. This can
+				  also lead to back pain. Spondylolysis and spondylolisthesis ,
+				  vertebra defects that can allow a vertebra to slide over another when
+				  aggravated by certain activities. Spinal stenosis , or narrowing of the spinal canal, which typically develops
+				  with age. Fractures of the vertebrae caused by significant force,
+				  such as from an auto or bicycle accident, a direct blow to the spine, or
+				  compressing the spine by falling onto the buttocks or head. Spinal deformities, including curvature problems such as
+				  severe scoliosis or kyphosis. Compression fractures . Compression
+			 fractures are more common among postmenopausal women with osteoporosis , or in men or women after long-term
+			 corticosteroid use. In a person with osteoporosis, even a small amount of force
+			 put on the spine, as from a sneeze, may cause a compression fracture. Less common spinal conditions that
+		  can cause low back pain include: Ankylosing spondylitis , which is a form of joint inflammation (arthritis) that most
+			 often affects the spine. Bacterial infection . Bacteria are
+			 usually carried to the spine through the bloodstream from an infection
+			 somewhere else in the body or from IV drug use. But bacteria can enter the
+			 spine directly during surgery or injection treatments, or as the result of
+			 injury. Back pain may be the result of an infection in the bone ( osteomyelitis ), in the spinal discs, or in the spinal
+			 cord. Spinal tumors , or growths that develop on the bones
+			 and ligaments of the spine, on the spinal cord, or on nerve
+			 roots. Paget's disease , which causes abnormal
+			 bone growth most often affecting the pelvis, spine, skull, chest, and
+			 legs. Scheuermann's disease , in which one or
+			 more of the bones of the spine (vertebrae) develop wedge-shaped deformities.
+			 This causes curvature of the spine (rounding of the back, or kyphosis), most
+			 commonly in the chest region. Failed back surgery syndrome , which mean that a person is still having significant symptoms after surgery. Other medical conditions that can
+		  cause pain that may be similar to low back pain include: Pelvic inflammatory disease . Aortic aneurysm . Peptic ulcers . Gallbladder disease. Pancreatitis . Urinary disorders such as kidney stones or urinary tract infections . Prostate disease. Your state of mind also has an effect on your level of pain
+		  and whether it becomes long-lasting (chronic). People who are depressed, under
+		  stress, unhappy in their work, or seeking money for an injury are more likely
+		  to have chronic back pain. Symptoms The type, location, and severity of low back pain depends upon what is causing it. Symptoms of a back sprain or strain generally
+		  include: Muscle spasms, cramping, and
+			 stiffness. Pain, mostly in the back and buttocks. The pain may
+			 develop quickly or over a longer period of time. Pain generally occurs in
+			 episodes. It is aggravated by weight-bearing or specific movements and is
+			 relieved by rest. The most severe pain usually lasts 48 to 72 hours and may be
+			 followed by days or weeks of less severe pain. The back is easily reinjured
+			 during this time. Symptoms of nerve-root pressure generally include: Leg pain. If pain extends below the knee, it is
+			 more likely to be due to pressure on a nerve than to a muscle problem. Most
+			 commonly, the pain starts in the buttock and travels down the back of the leg
+			 as far as the ankle or foot. This pain pattern is known as sciatica . Pain may come on suddenly or gradually. It
+				  may vary from mild to severe, and it can be constant or it may come and go. It
+				  is usually sharp and burning and is made worse by sneezing, coughing, or
+				  straining to pass stools. Some people describe it as a shooting pain. The pain
+				  usually affects only one leg. Depending on the cause of your low
+				  back pain, symptoms may be better or worse in various positions, such as
+				  bending forward (flexion) or backwards (extension). If bending forward
+				  increases symptoms, walking, lying down, and movements that straighten (extend)
+				  the spine usually relieve symptoms. The opposite is also true: if your symptoms
+				  are worse when you stand or walk, they are usually relieved by sitting down or
+				  lying down on your back with your knees bent, and by gentle exercises to bend
+				  your spine forward (flex). Pain can also be made worse by
+				  activities that cause you to forcefully contract the core muscles of your trunk , such as a cough, sneeze, or a difficult bowel
+				  movement, or if you hold your breath during an activity ( Valsalva maneuver ). Nerve-related problems, such as tingling,
+			 numbness, or weakness in one leg or in the foot, lower leg, or both legs.
+			 Tingling may begin in the buttock and extend to the ankle or foot. Weakness or
+			 numbness in both legs, or loss of bladder and/or bowel control, are symptoms of cauda equina syndrome , which requires immediate
+			 medical attention. Symptoms of arthritis of the spine generally include pain and stiffness that are worse in the back and hip region. Arthritis pain starts gradually, gets worse over time,
+		  and lasts longer than 3 to 6 months. It is generally worse in the morning or
+		  after prolonged periods of inactivity. Arthritis pain gets better when you move
+		  around. Symptoms caused by arthritis and symptoms due to back injury are often
+		  similar and commonly occur together. Symptoms of diseases that affect the spine vary depending upon the type of
+		  illness. They may include: Pain that is worse in the affected part of the
+			 spine (for instance, if there is a compression fracture, tumor, or
+			 infection). Pain that starts gradually, is constant, and may be
+			 sharp or a dull ache. Bed rest does not make it better and may make it worse
+			 (tumors on the spine often cause night pain). The pain lasts longer than 2 to 3
+			 weeks. Fever. Sensitivity of the spine to touch and
+			 pressure. Pain that wakes you up from sleep. Other symptoms or conditions that
+		  may occur with low back pain and require additional evaluation and treatment
+		  include: Depression . Drug or alcohol abuse . Use of intravenous (injected or IV) illegal drugs is
+			 especially risky. Use of steroids over a long period of
+			 time. Unexplained weight loss. Fever. A
+			 history of cancer. Bladder or bowel problems. An
+			 illness or condition that affects the immune system, such as diabetes , chemotherapy for cancer treatment, HIV (AIDS), or an organ transplant . What Happens The course of low back pain depends both on its cause and on how
+		  well you treat your back. Most low back pain lasts less than 3 months.
+			 Overall, 60% of low back pain goes away within 1 week, 90% within 6 weeks, and
+			 up to 95% recover within 12 weeks. Over 98% of low back pain is gone within 1
+			 year. 1 After the first time you have hurt
+			 your back, you are more likely to hurt your back again. Many people who recover
+			 from low back pain will have a repeat episode within a year. Most people will
+			 have it again sometime during their lives. Long-lasting (chronic)
+			 pain not only makes you tired, irritable, and less productive and active, but
+			 it can trigger other problems. If your back pain causes you to use your body in
+			 different ways (for example to limp or to sit differently), pain can develop in
+			 other areas of the body. Pain can also cause biochemical changes in your body
+			 that tend to keep the pain going. Without specialized treatment, chronic pain syndrome can become disabling. What Increases Your Risk Low back pain is often triggered by some combination of overuse, muscle strain, or injury to
+		  the muscles and ligaments that support the spine. Less commonly, low back pain
+		  is caused by illness or spinal deformity. A risk factor is
+		  something that increases your chances of having back pain. More risk factors
+		  means you have a higher chance of having back pain. Risk factors that you cannot change include: Being middle-aged or older. Being male. Having a family history of back
+			 pain. Having had a previous back injury. Being
+			 pregnant. A woman's back is significantly stressed by carrying a baby. Having had compression fractures of the spine. Having had previous back surgery. Having spine
+			 problems since birth (congenital spine problems). Risk factors that you can change with lifestyle changes or medical treatment include: Not getting regular exercise. Doing
+			 a job or other activity that requires long periods of sitting, lifting heavy
+			 objects, bending or twisting, repetitive motions, or constant vibration, such
+			 as using a jackhammer or driving certain types of heavy
+			 equipment. Smoking. Smokers are more likely than nonsmokers to have
+			 low back pain. Being overweight. Excess body weight, especially
+			 around the waist, may put strain on your back, although this has not been
+			 proven. But being overweight often also means being in poor physical condition,
+			 with weaker muscles and less flexibility. These can lead to low back
+			 pain. Having poor posture. Slumping or slouching alone may not
+			 cause low back pain. But after the back has been strained or injured, bad
+			 posture can make pain worse. "Good posture" generally means your ears, shoulders, and hips are in a straight line. If this posture causes pain, you may have another condition such as a problem with a disc or bones in your back. Being under stress. Stress and other
+			 emotional factors are believed to play a major role in low back pain,
+			 particularly chronic low back pain. Many people unconsciously tighten their
+			 back muscles when they are under stress. Having long periods of depression . Using medicines long-term that weaken bones, such as corticosteroids . When To Call a Doctor Give your low back pain a day or two to work itself out before
+		  you call your doctor, unless you have signs of a severe illness, injury, or
+		  heart attack, as described below. Call 911 or other emergency services immediately if: You have back pain with chest pain . Always call 911 anytime you
+			 think you might have symptoms of a heart attack . Symptoms of a heart attack
+			 can include: Pain in the upper back with chest pain or
+				  discomfort that is crushing or squeezing or feels like a heavy weight on the
+				  chest. Chest discomfort or pain that occurs with: Sweating. Shortness of
+						breath. Nausea or vomiting. Pain that spreads from the
+						chest to the back, neck, or jaw, upper belly, or one or both shoulders or arms.
+						The left shoulder and arm are more commonly affected. See a picture of areas
+						that may be affected by chest pain . Dizziness, lightheadedness , or feeling like you are going to
+						faint. A fast, slow, or irregular heartbeat. You had a severe injury to your back. Signs of
+			 spinal injury include: New loss of bowel or bladder
+				  control. New weakness in the legs. New numbness or
+				  tingling in the buttocks, genital area, or legs. Moderate to severe
+				  pain following an injury to the back. Note : If you suspect that someone
+		  has a spinal injury, don't move the person except to avoid an immediate threat,
+		  such as a fire. If there is immediate danger, keep the head, neck, and back
+		  supported and aligned while you move the person to safety. Call your doctor if: You are not able to manage your pain. Pain continues even when you are resting, and it keeps you from sleeping. You have a fever over 100°F for more than 2 days. Pain, numbness, or weakness that extends below the knee gets worse. For
+		  more information, see the topic Back Problems and Injuries . Watchful Waiting Most low back pain does not require a visit to a
+			 doctor. In general, pain should start to improve after 1 or 2 days of home
+			 treatment. If you have pain that has not improved after 1 or 2
+			 days and you are unable to do your normal daily activities, call your
+			 doctor. If your mild to moderate low back pain has continued
+			 through at least 2 weeks of home treatment, talk with your doctor. He or she
+			 may want to check for problems that may be causing your back pain. Who To See The following health professionals can diagnose the
+			 cause of back pain, evaluate back injuries, and start treatment: Primary care provider such as: Family medicine doctor Internist Nurse practitioner Physician assistant Orthopedic surgeon Osteopathic doctor (osteopath) Emergency medicine specialist Chiropractor You may also be referred to one of the following
+			 specialists for treatment: Physical therapist Physiatrist Cognitive-behavioral therapist Neurosurgeon Orthopedic surgeon Rheumatologist Pain management specialist if low back pain has lasted for more than 3 months To prepare for your appointment, see the topic Making the Most of Your Appointment . Exams and Tests Initial exam for low back pain Your doctor will
+			 begin by asking questions about your medical history , your symptoms, and your work and
+			 physical activities. He or she will also do a physical exam . The questions and exam can help him or
+			 her rule out a serious cause for your pain. Your doctor may also ask questions
+			 about stress at home and at work that may make you more susceptible to chronic
+			 pain. For most people with low back pain, the doctor will be able
+			 to recommend treatment after the initial exam. Your doctor will probably
+			 recommend that you begin home treatment and possibly physical therapy . If you are older than
+			 50 or you have symptoms of a specific illness, your doctor may recommend more
+			 tests. Tests for low back pain If your initial exam
+			 shows no signs of a serious condition, you will probably not need to have an
+			 imaging test. Imaging tests are typically done if: You are over 50 years of age. You
+				have had spine problems since birth (congenital spine
+				problems). The history and physical exam reveal signs of a serious
+				problem, such as a fracture, tumor, infection, or damage or pressure on nerves. You have a history of any type of arthritis in your
+				spine. You have a history of a previous spine injury or back
+				surgery. You have a history of long-term steroid use or a history
+				of drug abuse. Back pain has not improved after at least 4 weeks of
+				home treatment that may include pain relievers, heat or ice, and
+				exercises. Your symptoms are worse. You have had
+				several episodes of severe pain. You and your doctor are
+				considering surgery. Workers' compensation is involved because you
+				had an injury on the job. You are involved in a lawsuit concerning
+				your injury. The type of imaging test will depend on what kind of
+		  problem your doctor suspects. You may have one or more tests, such as: Spinal X-ray . MRI . CT scan . Bone scan . For more information about MRI for low back pain , see: Low back pain: Should I have an MRI? Imaging tests such as the myelogram and discography have been largely replaced by simpler and
+		  more effective methods for basic testing. They are sometimes still used in
+		  hard-to-diagnose cases or before surgery. Discography may increase the risk of having disc problems. 2 If your doctor recommends
+		  discography, experts recommend getting a second opinion before having the test. If
+		  you have leg pain or numbness, you may have an electromyogram and nerve conduction studies to find
+		  out how severely your nerve function is being affected. Electromyogram and
+		  nerve conduction studies check the function of the spinal cord, nerve roots,
+		  and nerves and muscles that control your arms and legs. Blood
+		  tests are sometimes used to look for a metabolic disorder, arthritis, cancer,
+		  or an infection. Bone scans may also be used to look for cancer or
+		  infection. Treatment Overview A wide range of treatment is
+		  available for low back pain , depending on what is causing the pain
+		  and how long it lasts. Most people find that their low back pain improves
+		  within a few weeks. Chances are good that your pain will go away soon with some
+		  basic self-care. As you consider treatment for your low back pain,
+		  keep these things in mind: If you have recently developed low back pain,
+			 stay active and consider taking over-the-counter pain medicines such as
+			 acetaminophen (Tylenol, for example) or nonsteroidal anti-inflammatory drugs
+			 (NSAIDs). Examples of NSAIDs are ibuprofen (Advil or Motrin) and naproxen
+			 (Aleve or Naprosyn). Staying active is better for you than bed rest. In fact,
+			 staying in bed more than 1 or 2 days can actually make your pain worse and lead
+			 to other problems such as stiff joints and muscle weakness. People who understand their
+			 low back pain are more satisfied. Be sure to ask your
+			 doctor or physical therapist if you have questions about your symptoms, how to
+			 manage your back pain, or activities you can do or should not
+			 do. If your low back pain has lasted longer than 3 months, you will
+			 probably benefit from more intensive treatment. Programs that combine
+			 strengthening exercises with education and activities to help you increase your
+			 function and manage your pain are often effective. 3 Surgery is rarely needed for low back pain. Even
+			 if you have a herniated disc or nerve damage, you are likely to improve without
+			 surgery. After you have had low back pain once, the pain is likely
+			 to come back. To avoid further problems, keep your back and stomach muscles
+			 strong, use good posture, learn the safest way to lift heavy objects, and learn
+			 to manage stress. Treatment for acute low back pain Acute low back pain is pain that has lasted less than 3
+			 months. If you have recently started to have low back pain, there's a good
+			 chance that it will get better within a few weeks. Most low back pain will
+			 improve if you take the following steps: For the first day or two, rest in a
+				comfortable position. Try lying on your side with a pillow between your knees.
+				Or lie on your back on the floor with a pillow under your knees. Do not stay in
+				one position for too long, though. Every 2 or 3 hours, take a short walk (about
+				10 to 20 minutes), then find a comfortable position to rest
+				again. Take pain medicine if needed, such as acetaminophen (Tylenol) or medicines that reduce pain, swelling, and irritation ,
+				including ibuprofen (such as Advil or Motrin) or naproxen (such as Aleve or
+				Naprosyn). For some people, these medicines work best if taken on a regular
+				schedule. Try using a heating pad on a low or medium setting for 15 to 20 minutes every 2 or 3 hours. Try a warm shower in place of one session with the heating pad. You can also buy
+				single-use heat wraps that last up to 8 hours. You can also try an ice pack for
+				10 to 15 minutes every 2 to 3 hours. There is not strong evidence that either
+				heat or ice will help. But you can try them to see if they help. You may also want to try switching between heat and cold. As
+				soon as possible, get back to your normal activities. Movement helps your
+				muscles stay strong. Staying in bed for more than 1 or 2 days can actually make
+				your problem worse. Walking is the simplest and perhaps the best exercise for
+			 the low back. Your doctor or a physical therapist can recommend more specific
+			 exercises to help your back muscles get stronger. These may include a series of
+			 simple exercises called core stabilization. The muscles of your trunk , or core, support your spine. Strengthening
+			 these muscles can improve your posture, keep your body in better balance, and
+			 decrease your chance of injury. For more information, see: Fitness: Increasing core stability . Most people have at least one repeat episode of low back
+			 pain. If you have had low back pain, remember that your back is now more
+			 vulnerable than before. Keep your stomach and back muscles strong, lift
+			 properly, and use good posture. For more information, see: Low back pain: Exercises to reduce pain . Back problems: Proper lifting . Sometimes acute low back pain persists for longer than a few days, even after you try these treatments. Then your doctor may suggest other treatments, such as physical therapy or stronger pain medicine. One treatment choice for acute low back pain is spinal
+			 manipulation, or spinal manual therapy. The aim of spinal manipulation is to
+			 increase a joint's range of motion . Spinal manipulation can be done by a chiropractor , osteopathic doctor , and some physical therapists or physiatrists . For more information on this type of
+			 treatment, see: Low back pain: Should I have spinal manipulative? A brief program of instruction
+			 in pain management—about how to manage usual daily activities, how to deal
+			 with worries about back pain, and overcoming fear of causing pain—can also be
+			 an effective treatment for low back pain. 4 Treatment for ongoing (chronic) low back pain Chronic low back pain is pain that has lasted longer than 3
+			 months. As low back pain continues beyond 3 months, it becomes vitally
+			 important that you develop skills for managing and coping with chronic pain so you can avoid getting into a cycle of
+			 sleeplessness, inactivity, irritability, depression, and more pain. Chronic pain often requires both psychological counseling and medical
+			 treatment, because pain has a wearing effect on both the mind and the body.
+			 Seek out a cognitive-behavioral therapist who can teach you
+			 stress management and pain control skills. Look for a " back school " program
+			 and at least one type of health professional who specializes in spinal care.
+			 Some programs combine exercise,
+			 activities to increase your function, and techniques to help you manage
+			 pain. Depending on your condition, you can start
+			 taking charge of pain by continuing with home treatment measures and using one
+			 or more of the following treatments: Daily exercises to strengthen your trunk and back. See a physical therapist for specific
+				exercises. For more information, see: Fitness: Increasing core stability . One
+					 study suggests that this type of exercise may be more effective than either manual therapy or education as a part of physical therapy for chronic low back pain. 5 Low back pain: Exercises to reduce pain . Medicines, if needed. They are not effective
+				for all people. But medicines that doctors sometimes suggest for low back pain
+				include: Acetaminophen to reduce pain and/or medicines that reduce pain, swelling, and irritation ,
+					 including ibuprofen (such as Advil or Motrin) and naproxen (such as Aleve or
+					 Naprosyn). These medicines usually work best if you take them on a regular
+					 schedule instead of waiting until the pain is severe. Prescription
+					 pain medicine or muscle relaxants for a short time, to help break the
+					 pain cycle. Antidepressants , to treat chronic pain. This type of
+					 medicine treats depression . And some antidepressants may have an additional effect on
+					 chronic pain. Anesthetic or corticosteroid injections , to block pain sensation or reduce inflammation. Other therapies. These may include: Heat and/or ice , depending on which
+					 seems to help you more. You may want to try switching between heat and
+					 cold. Therapeutic massage , to ease muscle
+					 spasm. Spine adjustment (manipulation), by an osteopath,
+					 chiropractor, physiatrist, or a physical therapy spine specialist. People who
+					 benefit from this usually notice improvement after one visit, and additional
+					 manipulation may not be needed. 6 Cognitive-behavioral therapy or biofeedback , for controlling pain and pain triggers.
+					 See a psychologist, licensed counselor, or clinical social worker who
+					 specializes in pain management skills. Acupuncture ,
+					 which may help decrease pain and increase activity. Some studies show that
+					 acupuncture reduced pain and disability related to back problems more than
+					 usual treatment. 7 In
+					 contrast, a summary of several studies showed that acupuncture reduced pain and
+					 increased the ability to be active for a short time after treatment but not any more than other
+					 treatments. 8 Medicine that you put on your skin (topical) may relieve pain for a short time. These medicines include: Pain relievers that are applied directly to the skin (topical analgesics), such as EMLA cream or a lidocaine patch (Lidoderm). Capsaicin, a naturally occurring substance that is found in chili peppers and is used to make certain topical analgesic creams. Cooling spray. This involves using a cooling spray (such as Biofreeze) directly on the skin. This may be repeated several times. Creams or gels containing medicines or combinations of medicines. These are being studied for pain control. The cream or gel is rubbed directly on the painful area. Several experimental treatments are controversial, with
+			 little evidence that they help. These include: A traction-like treatment called vertebral
+				axial decompression. Percutaneous disc decompression such as intradiscal electrothermic therapy (IDET) . Radiofrequency ablation for facet joint
+				pain. Botulinum (Botox) injection . Prolotherapy . Facet joint injections and spinal traction are not
+			 considered to be effective treatments for chronic low back
+			 pain. 3 Treatment if low back pain gets worse or comes back See your doctor if you have moderate to severe low back pain that lasts more than a couple of days,
+			 if you have back or leg symptoms that have gotten worse, if your symptoms have
+			 not gone away after 2 weeks of home treatment, or if improved symptoms flare up
+			 again. A physical exam and possibly an imaging test may produce new information
+			 about your condition and help direct your treatment decisions. If no serious cause of
+				mild to moderate low back pain is apparent (as in most cases), your doctor
+				will probably advise you to continue with home treatment. Consider seeing a physical therapist for back-healthy exercises to use
+				every day, as long as they don't make your symptoms worse. A medicine to reduce pain , moist heat application,
+				massage, cognitive-behavioral therapy , learning how to best use
+				your back in a "back school" program , chiropractic therapy (also called spinal
+				manipulation), or biofeedback may also help prevent your symptoms from
+				becoming chronic. If your pain is severe ,
+				your doctor may recommend short-term use of an opiate painkiller , epidural steroid injection , or muscle relaxant . These medicines have potential harms
+				and side effects, but these may be balanced out if the medicines help you.
+				Epidural steroid injections are usually used only for people with symptoms from
+				a herniated disc, such as pain in the buttocks and down into the leg. Talk with
+				your doctor about the expected benefits and side effects of any
+				medicine. If your pain is caused by another health problem , such as a herniated disc , spinal stenosis , ankylosing spondylitis , osteoarthritis , cancer, or infection, your doctor will
+				make specific treatment recommendations. If you have a herniated disc, your doctor may recommend
+			 surgery. Most doctors will wait to consider surgery until after you have tried
+			 nonsurgical treatment for 1 to 3 months without improvement (but usually before
+			 more than 6 months have gone by). Most people who have a herniated disc never need surgery. For more
+			 information, see: Herniated disc: Should I have surgery? For more information about specific conditions,
+			 see: Lumbar Spinal Stenosis . Ankylosing Spondylitis . Osteoarthritis . Herniated Disc . At one time, traction was a common treatment for low
+		  back pain. Traction was thought to stretch the spine and reduce pressure on the spinal discs . Research does not prove that
+		  traction will reduce acute or chronic low back pain. 9 , 3 Prevention There is no clear evidence that you can
+		  prevent low back pain . Nearly
+		  everyone experiences it at some time. But there are some things you can do to
+		  help prevent low back pain. And they can prepare you for faster recovery if you
+		  do have low back pain. Some of them also have added health benefits. Here are
+		  some things you can do: Exercise to keep your back healthy and strong.
+			 Exercise programs that include aerobic conditioning and strengthening exercises
+			 can help reduce the recurrence of low back pain. For more information, see: Fitness: Increasing core stability . Low back pain: Exercises to reduce pain . Learn how to lift objects safely to protect your
+			 back. For more information, see: Back problems: Proper lifting . Protect your back while sitting .
+			 Standing posture is also important. For most people, good posture means that when you stand, your ears, shoulders, hips,
+			 and knees should be in line with one another. Try different sleeping positions that protect your back. If you sleep on your side, try putting
+			 a pillow between your knees. If you sleep on your back, use a pillow under your
+			 knees. You can also try rolling up a small towel and using it to support your
+			 lower back. Wear low-heeled shoes. Maintain a healthy
+			 weight to avoid excess strain on your lower back. For more information, see the
+			 topic Weight Management . If you're a smoker,
+			 quit. Smoking increases your risk of bone loss ( osteoporosis )
+			 and increases your sensitivity to pain. Smoking also interferes with blood
+			 circulation by tightening the arteries, which makes it harder for blood to
+			 flow, and by decreasing the amount of oxygen the red blood cells can carry.
+			 Spinal discs do not have their own blood supply, but receive nutrition in part
+			 from the blood supply to the vertebral bones above and below them. Decreased
+			 circulation may increase the speed of degeneration and/or slow the healing of
+			 the discs. For more information on how to quit, see the topic Quitting Smoking . Eat a nutritious diet . Getting plenty of calcium , phosphorus , and vitamin D may help prevent osteoporosis, which can
+			 lead to compression fractures and low back
+			 pain. Manage the stress in your life, both at home and at
+			 work. Home Treatment Whether your low back pain is mild or severe, home treatment will
+		  be an important part of your care. Acute low back pain Try first aid for back pain in the first few days after back pain
+				starts. Ease back into your daily activities . Studies show
+				that bed rest does not relieve pain better than staying active. And bed rest
+				can lead to a decrease in your ability to function.
+				But you may need to reduce your activity level. Avoid activities that cause
+				back pain, such as prolonged sitting. Use nonprescription pain relievers, such as acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs) , and apply ice or heat to your back to reduce back
+				pain. A medium-firm mattress is likely to be more comfortable than
+				either a soft or a firm mattress. Back problems: Proper lifting Fitness: Increasing core stability Low back pain: Exercises to reduce pain Ongoing (chronic) low back pain To help relieve
+			 chronic low back pain, always try to: Exercise to help relieve back pain. See a
+				physical therapist or other spine specialist for exercises specific to your
+				condition. Studies show that doing exercises can help people with chronic low
+				back pain return to their normal daily activities. 10 Reduce the stress in your life . Get the support you need . Work with
+				your doctor to come up with a chronic pain treatment plan. Ask family members
+				or friends when you need a helping hand. Achieve and maintain a healthy weight. For more information, see the topic Weight Management . Try not to bend or
+				twist your back as you lie down . Avoid
+				tobacco smoke. Smoking slows tissue healing. For more information, see the topic Quitting Smoking . Think through your daily activities and change those
+		  that may be causing back pain. Your list might include lifting a small child
+		  throughout the day, a long commute to work, sitting in front of a computer all
+		  day, wearing high-heeled shoes, or doing yard work or landscaping work. Many people who have low back pain, or leg pain from a low back problem,
+		  notice that the pain interferes with sexual activity. Talk with your partner
+		  and perhaps your doctor about this. You may be able to find different positions
+		  for sex that are comfortable for you. If you think your activities
+		  at work are causing back problems, information is available from your human
+		  resources department or the Occupational Health and Safety Administration
+		  (OSHA) within the U.S. Department of Labor. For contact information, see the
+		  Other Places to Get Help section of this topic. Many businesses require or
+		  recommend the use of back belts at work, although there is no evidence that
+		  they reduce back injury. 11 Medications Medicine can decrease low back pain and reduce muscle spasms in some people.
+		  But medicine alone is not an effective treatment for low back pain. It should
+		  be used along with other treatments, such as exercise and physical therapy . Medication Choices There are several medicines your doctor may recommend,
+			 depending on how long you have had pain, what other symptoms you have, and your
+			 medical history. The medicines recommended most often are: Acetaminophen . Nonsteroidal anti-inflammatory drugs (NSAIDs) . Muscle relaxants . Opiates . Antidepressants . Anesthetic or corticosteroid injections have all been
+			 prescribed for chronic low back pain. But they have not been researched enough
+			 to know whether they are effective for most people. You may also
+			 hear of people having facet joint injections of anesthetic or corticosteroid for low back pain. But research has shown this treatment to be ineffective or even
+			 harmful. What To Think About When making treatment decisions,
+			 bear in mind that medicines that work for some people don't work for others.
+			 Let your doctor know if the medicine you are taking is not effective. There may
+			 be another option to help control your back pain. Anticonvulsants are sometimes used to treat low back
+			 pain, even though there isn't strong evidence that they help. Botulinum toxin A (Botox) injection into the back
+			 muscles for chronic low back pain is an experimental treatment. Surgery Surgery is seldom used to treat low back pain . In most cases, the cause of low back
+		  pain cannot be helped by surgery. Most back surgeries are
+		  performed to treat herniated discs . Still, most people with herniated
+		  discs do not need surgery. Herniated disc surgery may be used when a disc
+		  problem is causing severe and disabling sciatica . For more information, see the topic Herniated Disc . Surgery is sometimes done
+		  to treat spinal stenosis if it is causing severe symptoms. As
+		  with herniated disc, most people with spinal stenosis do not need surgery. For
+		  more information, see the topic Lumbar Spinal Stenosis. Surgery
+		  may also be considered in more unusual situations, as in the case of: A spinal fracture caused by an
+			 injury. A spinal infection, such as osteomyelitis or an abscess . An "unstable spine" condition,
+			 such as spondylolisthesis . A spinal tumor . Rehabilitation after surgery A comprehensive
+			 rehabilitation program is very important after most back surgery. As you regain
+			 flexibility, recondition your back and stomach muscles, and increase your
+			 endurance for activity, you increase your chances of treatment success. If you are unable or unwilling to commit to physical therapy after
+			 surgery, you may not be a good candidate for surgery. Surgery Choices If nonsurgical treatment has not been successful and your
+			 doctor suggests that you consider surgery, the type of procedure he or she
+			 recommends will depend on the cause of your back problems and the experience
+			 and preference of the surgeon. Herniated disc surgery removes disc material
+				that is pressing on the spinal cord or a nerve root . For more information, see: Herniated disc: Should I have surgery? Spinal stenosis surgery ( spinal decompression with or without spinal fusion ) widens a narrowed spinal canal and
+				relieves pressure on the spinal cord or a nerve root. For more information, see
+				the topic Lumbar Spinal Stenosis . Spinal fusion (arthrodesis) for spondylolisthesis and other "unstable spine"
+				conditions joins vertebrae together to relieve pressure on the spinal cord or a
+				nerve root and to stabilize the spine. Vertebroplasty or kyphoplasty may relieve pain from compression fractures . Surgery for
+				infection includes debridement with or without joint fusion, or drainage
+				of an abscess . Disc replacement surgery removes
+				a spinal disc that is severely damaged by degenerative disc disease ( DDD ), and replaces it with an artificial disc. This is
+				currently only for carefully selected patients, and it is done by specially
+				trained surgeons. Surgery for spinal tumors includes tumor removal and stabilization with or without
+				fusion. What To Think About Back surgery is not always
+			 successful. Depending on the condition, you may still have back pain after
+			 surgery. If you and your doctor are considering surgery, get as
+			 much information as you can about possible outcomes, and consider whether you
+			 will be willing to participate in a physical therapy program after surgery. It
+			 is also a good idea to get a second opinion before you decide to have
+			 surgery. Interactive tool: Should I have consider surgery for my low back problem? Other Treatment You can choose from a number
+		  of alternative therapies for treating your low back pain . Some are short-term "repair"
+		  treatments, and others give you the self-care tools for managing your back
+		  symptoms over a lifetime. Because many of these treatments are new or not yet
+		  well researched, they may not be covered by health insurance. Comprehensive rehabilitation programs offer a
+		  variety of treatments and specialists. A comprehensive rehabilitation program is considered one
+		  of the most effective approaches for treating chronic low back pain, and may be
+		  your best bet for finding the right combination of treatments. 12 Other therapies for lower back treatment Exercise therapy for back pain is considered
+				an effective approach for treating and managing chronic low back pain. 3 Daily activity and physical therapy exercises can be
+				effective in relieving back pain and can lead to long-term improvement for low
+				back pain. Also see: Fitness: Increasing core stability . Low back pain: Exercises to reduce pain . Cognitive-behavioral therapy may reduce
+				both acute and chronic low back pain and disability. 9 , 3 Back school is an
+				educational program that has shown mixed results but is considered likely to be
+				beneficial for treating chronic low back pain. 3 Intradiscal electrothermic therapy (IDET) treats
+				chronic low back pain related to a damaged spinal disc . Spinal cord stimulation may be used for some types of chronic pain when other
+				treatments have failed, but there is not strong evidence that it works. 13 Experimental treatments New and experimental
+			 treatments are constantly being developed and offered to people with low back
+			 pain. If you are considering such a treatment, be sure to ask your doctor for
+			 the scientific evidence that shows the treatment's effectiveness and safety, as
+			 well as the results of his or her own practice. The following
+			 therapies are experimental and not widely used. Research continues on these
+			 therapies. Surgery to replace a ruptured or herniated disc with an artificial disc has
+				been approved by the U.S. Food and Drug Administration (FDA). Long-term studies
+				have not been done. Botulinum toxin (Botox) injection may relax pain muscle spasms in the low back. Radiofrequency ablation of nerves may reduce chronic
+				low back pain in some people by preventing pain signals from reaching the
+				brain. It is sometimes used for pain from problems with the small joints in the
+				spine called facet joints. An intrathecal pain pump is a small tube inserted under the
+				skin and deeper tissues along the midline of the back and into the spinal canal. The tube connects to a
+				small reservoir of medicine inserted under the skin of your belly. The medicine
+				is regularly delivered to the area of pain through the tube. 14 Complementary therapies and self-care The
+			 following complementary therapies are commonly used for relieving low back
+			 pain. Massage may reduce low back pain,
+				especially when combined with exercises and back care education. 15 Spinal
+				manipulation is likely to help either acute or chronic low back pain, in the short-term, but probably no more than other treatments such as physical therapy, exercise, or pain medicine. 16 While they differ in their
+				training, osteopaths, chiropractors, physiatrists, and specially trained
+				physical therapists can all perform spinal manipulation. Spinal manipulation
+				usually has its greatest impact after one treatment, so multiple treatments are
+				seldom needed. 6 Learn more about chiropractic and spinal manipulation . One comparison has shown that
+				people receiving osteopathic manipulative treatment may need less medicine to
+				control their pain than those receiving standard treatment such as pain
+				medicine and physical therapy. 17 For more
+				information, see: Low back pain: Should I have spinal manipulation? Biofeedback has not been well studied as a treatment
+				for low back pain. But recent research has not shown that biofeedback is
+				effective for controlling low back pain. Acupuncture may help decrease pain and
+				increase activity. Some studies show that acupuncture reduced pain and
+				disability related to back problems more than usual treatment. 7 Another summary of several studies
+				showed that acupuncture reduced pain and increased the ability to be active for a short time after treatment
+				but not any more than other treatments. 8 Acupressure uses pressure on certain points in
+				the body to decrease symptoms. Small studies suggest that acupressure reduces
+				pain and allows a person to be more active. 18 Relaxation techniques can help reduce muscle tension,
+				stress, and depression. Yoga is another way of staying active,
+				while also helping with relaxation and stress management. It is not clear
+				whether yoga is more helpful than other activity or treatment for low back
+				pain. 19 There are different types of yoga. Talk to your
+				doctor or physical therapist before you start a yoga program. Other Places To Get Help Organizations National Institute of Neurological Disorders and
+		Stroke P.O. Box 5801 Bethesda, MD  20824 Phone: 1-800-352-9424 (301) 496-5751 TDD: (301) 468-5981 Web Address: www.ninds.nih.gov The National Institute of Neurological Disorders and
+		  Stroke (NINDS), a part of the National Institutes of Health, is the leading
+		  U.S. federal government agency supporting research on brain and nervous system
+		  disorders. It provides the public with educational materials and information
+		  about these disorders. American Academy of Orthopaedic Surgeons
+		(AAOS) 6300 North River Road Rosemont, IL  60018-4262 Phone: 1-800-346-AAOS (1-800-346-2267) (847) 823-7186 Fax: (847) 823-8125 E-mail: orthoinfo@aaos.org Web Address: www.aaos.org The American Academy of Orthopaedic Surgeons (AAOS)
+		  provides information and education to raise the public's awareness of
+		  musculoskeletal conditions, with an emphasis on preventive measures. The AAOS
+		  Web site contains information on orthopedic conditions and treatments, injury
+		  prevention, and wellness and exercise. National Institute of Arthritis and Musculoskeletal and
+		Skin Diseases (NIAMS), National Institutes of Health 1 AMS Circle Bethesda, MD  20892-3675 Phone: 1-877-22-NIAMS (1-877-226-4267) toll-free (301) 495-4484 Fax: (301) 718-6366 TDD: (301) 565-2966 E-mail: niamsinfo@mail.nih.gov Web Address: www.niams.nih.gov The National Institute of Arthritis and Musculoskeletal
+		  and Skin Diseases (NIAMS) is a governmental institute that serves the public
+		  and health professionals by providing information, locating other information
+		  sources, and participating in a national federal database of health
+		  information. NIAMS supports research into the causes, treatment, and prevention
+		  of arthritis and musculoskeletal and skin diseases and supports the training of
+		  scientists to carry out this research. The NIAMS Web site provides
+		  health information referrals to the NIAMS Clearinghouse, which has information
+		  packages about diseases. North American Spine Society 7075 Veterans Boulevard Burr Ridge, IL 60527 Phone: (630) 230-3600 Fax: (630) 230-3700 Web Address: www.spine.org The North American Spine Society (NASS) has a patient education Web site http://KnowYourBack.org. This Web site includes information on the cause, treatment, and prevention of neck and back problems. This information includes references and brochures to help patients make health decisions. NASS promotes education, research, and advocacy for spine care. NASS members include spine care professionals such as orthopedic surgeons, neurosurgeons, neurologists, physical therapists, and researchers. Related Information Back Problems and Injuries Chronic Pain Complementary Medicine Herniated Disc Lumbar Spinal Stenosis Osteoarthritis Scoliosis References Citations Carragee EJ, Hannibal M (2004). Diagnostic evaluation
+	 of low back pain. Orthopedic Clinics of North America ,
+	 35(2004): 7–16. Carragee EJ, et al. (2009). Does discography cause accelerated progression of degeneration changes in the lumbar disc: A ten-year matched cohort study. Spine , 34(21): 2338–2345. McIntosh G, Hall H (2008). Low back pain (chronic), search date May 2007. Online version of BMJ Clinical Evidence : http://www.clinicalevidence.com. Hay EM, et al. (2005). Comparison of physical
+	 treatments versus a brief pain-management programme for back pain in primary
+	 care: A randomised clinical trial in physiotherapy practice. Lancet , 365(9476): 2024–2030. Goldby LJ, et al. (2006). A randomized controlled
+	 trial investigating the efficiency of musculoskeletal physiotherapy on chronic
+	 low back disorder. Spine , 31(10): 1083–1093. Hadler NM (2005). Low back pain. In WJ Koopman, ed., Arthritis and Allied Conditions , 15th ed., vol. 2, pp.
+	 2073–2086. Philadelphia: Lippincott Williams and Wilkins. Abramowicz M (2006). Acupuncture. Medical Letter on Drugs and Therapeutics , 48(1234):
+	 38–39. Furlan AD, et al. (2005). Acupuncture and dry-needling
+	 for low back pain. Cochrane Database of Systematic Reviews (1). McIntosh G, Hall H (2008). Low back pain (acute), search date May 2007. Online version of BMJ Clinical Evidence : http://www.clinicalevidence.com. Hayden JA, et al. (2005). Exercise therapy for
+	 treatment of non-specific low back pain. Cochrane Database of Systematic Reviews (3). Van Duijvenbode I, et al. (2008). Lumbar supports for prevention and treatment of low back pain. Cochrane Database of Systematic Reviews (2). Chou R, et al. (2009). Interventional therapies, surgery and interdisciplinary rehabilitation for low back pain: An evidence-based clinical practice guideline from the American Pain Society. Spine , 34(10): 1066–1077. Mailis-Gagnon A, et al. (2004). Spinal cord
+	 stimulation for chronic pain. Cochrane Database of Systematic Reviews (3). Deer T, et al. (2004). Intrathecal drug delivery for
+	 treatment of chronic low back pain: Report from the National Outcomes Registry
+	 for Low Back Pain. Pain Medicine , 5(1):
+	 6–13. Furlan AD, et al. (2008). Massage for low-back pain. Cochrane Database of Systematic Reviews (4). Chou R, Huffman LH (2007). Nonpharmacologic therapies
+	 for acute and chronic low back pain: A review of the evidence for an American
+	 Pain Society/American College of Physicians clinical practice guideline. Annals of Internal Medicine , 147(7):
+	 492–504. Andersson GB, et al. (1999). A comparison of osteopathic
+spinal manipulation with standard care for patients with low back
+pain. New England Journal of Medicine , 341(19): 1426–1431. Hsieh LL, et al. (2006). Treatment of low back pain by
+	 acupressure and physical therapy: Randomised controlled trial. BMJ , 333(7543): 696–700. Graves N, et al., (2004). Does yoga speed healing for
+	 patients with low back pain? Journal of Family Practice ,
+	 53(8): 661–662. Other Works Consulted American Geriatrics Society Panel on Pharmacological Management of Persistent Pain in Older Persons (2009). Pharmacological management of persistent pain in older persons. Journal of the American Geriatrics Society , 57(8): 1331–1346. Assendelft WJJ, et al. (2003). Spinal manipulative therapy for low back pain: A meta-analysis of effectiveness relative to other therapies. Annals of Internal Medicine , 138(11): 871–881. Cailliet R (2003). Low Back Disorders: A Medical Enigma . Philadelphia: Lippincott Williams and
+	 Wilkins. Carragee EJ (2005). Persistent low back pain. New England Journal of Medicine , 352(18):
+	 1891–1898. Chaiamnuay S, et al. (2006). Risks versus benefits of
+	 cyclooxygenase-2-selective nonsteroidal antiinflammatory drugs. American Journal of Health-System Pharmacy , 63(19):
+	 1837–1851. Chou R, et al. (2007). Diagnosis and treatment of low
+	 back pain: A joint clinical practice guideline from the American College of
+	 Physicians and the American Pain Society. Annals of Internal Medicine , 147(7): 478–491. Chou R, et al. (2009). Imaging strategies for low-back pain: Systematic review and meta-analysis. Lancet , 373(9662): 463–472. Deshpande A, et al. (2007). Opioids for chronic low-back pain. Cochrane Database of Systematic Reviews (3). Hu SS, et al. (2006). Spondylolisthesis and
+	 spondylolysis section of Disorders, diseases, and injuries of the spine. In HB
+	 Skinner, ed., Current Diagnosis and Treatment in Orthopedics , 4th ed., pp. 271–277. New York: McGraw-Hill. Kanayama M, et al. (2007). A minimum 10-year follow-up
+	 of posterior dynamic stabilization using Graf artificial ligament. Spine , 32(18): 1992–1996. Kovacs FM, et al. (2003). Effect of firmness of
+	 mattress on chronic non-specific low-back pain: Randomised, double-blind,
+	 controlled, multicentre trial. Lancet , 362(9396):
+	 1599–1604. Mercier LR (2008). The back. In Practical Orthopedics , 6th ed., pp. 143–184. Philadelphia: Mosby Elsevier. Modic MT, et al. (2005). Acute low back pain and radiculopathy: MR Imaging findings and their prognostic role and effect on outcome. Radiology , 237(2): 599–604. Roelofs PDDM, et al. (2008). Non-steroidal anti-inflammatory drugs for low back pain. Cochrane Database of Systematic Reviews (1). Thorson DC, et al. (2008). Health Care Guideline: Adult Low Back Pain , 13th ed., pp. 1–66. Bloomington, MN:
+	 Institute for Clinical Systems Improvement. U.S. Preventive Services Task Force (2005). Primary care interventions to prevent low back pain in adults: Recommendation statement. Available online: http://www.ahrq.gov/clinic/uspstf/uspsback.htm. Urquhart DM, et al. (2009). Antidepressants for non-specific low back pain. Cochrane Database of Systematic Reviews (1). Credits Author Shannon Erstad, MBA/MPH Editor Kathleen M. Ariss, MS Associate Editor Pat Truman, MATC Primary Medical Reviewer William M. Green, MD - Emergency Medicine Specialist Medical Reviewer Robert B. Keller, MD - Orthopedics Last Updated February 3, 2010 Top of Page Next Section: Health Tools Previous Section: Topic Overview Top of Page Next Section: Cause Previous Section: Health Tools Top of Page Next Section: Symptoms Previous Section: Cause Top of Page Next Section: What Happens Previous Section: Symptoms Top of Page Next Section: What Increases Your Risk Previous Section: What Happens Top of Page Next Section: When To Call a Doctor Previous Section: What Increases Your Risk Top of Page Next Section: Exams and Tests Previous Section: When To Call a Doctor Top of Page Next Section: Treatment Overview Previous Section: Exams and Tests Top of Page Next Section: Prevention Previous Section: Treatment Overview Top of Page Next Section: Home Treatment Previous Section: Prevention Top of Page Next Section: Medications Previous Section: Home Treatment Top of Page Next Section: Surgery Previous Section: Medications Top of Page Next Section: Other Treatment Previous Section: Surgery Top of Page Next Section: Other Places To Get Help Previous Section: Other Treatment Top of Page Next Section: Related Information Previous Section: Other Places To Get Help Top of Page Next Section: References Previous Section: Related Information Top of Page Next Section: Credits Previous Section: References Top of Page Last Updated: February 3, 2010 Author: Shannon Erstad, MBA/MPH Medical Review: William M. Green, MD - Emergency Medicine & Robert B. Keller, MD - Orthopedics Carragee EJ, Hannibal M (2004). Diagnostic evaluation
+	 of low back pain. Orthopedic Clinics of North America ,
+	 35(2004): 7–16. Carragee EJ, et al. (2009). Does discography cause accelerated progression of degeneration changes in the lumbar disc: A ten-year matched cohort study. Spine , 34(21): 2338–2345. McIntosh G, Hall H (2008). Low back pain (chronic), search date May 2007. Online version of BMJ Clinical Evidence : http://www.clinicalevidence.com. Hay EM, et al. (2005). Comparison of physical
+	 treatments versus a brief pain-management programme for back pain in primary
+	 care: A randomised clinical trial in physiotherapy practice. Lancet , 365(9476): 2024–2030. Goldby LJ, et al. (2006). A randomized controlled
+	 trial investigating the efficiency of musculoskeletal physiotherapy on chronic
+	 low back disorder. Spine , 31(10): 1083–1093. Hadler NM (2005). Low back pain. In WJ Koopman, ed., Arthritis and Allied Conditions , 15th ed., vol. 2, pp.
+	 2073–2086. Philadelphia: Lippincott Williams and Wilkins. Abramowicz M (2006). Acupuncture. Medical Letter on Drugs and Therapeutics , 48(1234):
+	 38–39. Furlan AD, et al. (2005). Acupuncture and dry-needling
+	 for low back pain. Cochrane Database of Systematic Reviews (1). McIntosh G, Hall H (2008). Low back pain (acute), search date May 2007. Online version of BMJ Clinical Evidence : http://www.clinicalevidence.com. Hayden JA, et al. (2005). Exercise therapy for
+	 treatment of non-specific low back pain. Cochrane Database of Systematic Reviews (3). Van Duijvenbode I, et al. (2008). Lumbar supports for prevention and treatment of low back pain. Cochrane Database of Systematic Reviews (2). Chou R, et al. (2009). Interventional therapies, surgery and interdisciplinary rehabilitation for low back pain: An evidence-based clinical practice guideline from the American Pain Society. Spine , 34(10): 1066–1077. Mailis-Gagnon A, et al. (2004). Spinal cord
+	 stimulation for chronic pain. Cochrane Database of Systematic Reviews (3). Deer T, et al. (2004). Intrathecal drug delivery for
+	 treatment of chronic low back pain: Report from the National Outcomes Registry
+	 for Low Back Pain. Pain Medicine , 5(1):
+	 6–13. Furlan AD, et al. (2008). Massage for low-back pain. Cochrane Database of Systematic Reviews (4). Chou R, Huffman LH (2007). Nonpharmacologic therapies
+	 for acute and chronic low back pain: A review of the evidence for an American
+	 Pain Society/American College of Physicians clinical practice guideline. Annals of Internal Medicine , 147(7):
+	 492–504. Andersson GB, et al. (1999). A comparison of osteopathic
+spinal manipulation with standard care for patients with low back
+pain. New England Journal of Medicine , 341(19): 1426–1431. Hsieh LL, et al. (2006). Treatment of low back pain by
+	 acupressure and physical therapy: Randomised controlled trial. BMJ , 333(7543): 696–700. Graves N, et al., (2004). Does yoga speed healing for
+	 patients with low back pain? Journal of Family Practice ,
+	 53(8): 661–662. This information does not replace the advice of a doctor. Healthwise disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the Terms of Use . Privacy Policy . How this information was developed to help you make better health decisions. To learn more visit Healthwise.org © 1995-2010 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated. © 2011 Swedish Covenant Hospital Contact Us Site Map Copyright and Legal Vendor Compliance Privacy Statement Spanish (pdf) Korean (pdf) Russian (pdf) 5145 N California Ave

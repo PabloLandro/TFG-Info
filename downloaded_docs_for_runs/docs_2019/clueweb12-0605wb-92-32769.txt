@@ -1,0 +1,16 @@
+
+HTTP/1.1 200 OK
+Date: Sun, 04 Mar 2012 04:49:46 GMT
+Server: Apache/1.3.35 (Unix) mod_auth_pgsql/0.9.12 mod_gzip/1.3.19.1a mod_perl/1.29 mod_ssl/2.8.26 OpenSSL/0.9.7a
+Cache-Control: s-maxage=10800,max-age=10800
+Age: 0
+Cache-Control: max-age=10800
+Cache-Control: s-maxage=10800
+Via: HTTP/1.1 www.who.int (MII-WSD/1.4)
+X-Pb-Mii: Powered by Mirror Image Internet
+Expires: Sun, 04 Mar 2012 07:49:51 GMT
+Content-Type: text/html
+Via: 1.1 ttn107102 (MII-APC/2.1)
+Connection: close
+
+WHO | Haemophilus influenzae type B Skip to main content Access Home Alt+0 Navigation Alt+1 Content Alt+2 Language عربي 中文 English Français Русский Español Navigation Home Health topics Data and statistics Media centre Publications Countries Programmes and projects About WHO Search Search the WHO .int site Submit Advanced search Health topics Haemophilus influenzae type B WHO/Sergei Deshevoi Haemophilus influenzae type b is a Gram-negative bacterium that causes meningitis and acute respiratory infections, mainly in children. In both developed and developing countries, it is an important cause of non-epidemic meningitis in young children, and is frequently associated with severe neurological sequelae, even if antibiotics are given promptly. In developing countries, H. influenzae is also a major cause of pneumonia in children. Other important, but less frequent, manifestations of H. influenzae disease include epiglottitis, osteomyelitis, septic arthritis and septicaemia. Haemophilus influenzae infection is transmitted by droplets from infected (but not necessarily symptomatic) people. Haemophilus influenzae type b be can be prevented by vaccination. Related sites Immunization, Vaccines and Biologicals RELATED LINKS Immunization, Vaccines and Biologicals: haemophilus influenzae type b (Hib) Immunization surveillance, assessment and monitoring: Haemophilus influenzae type b (Hib) Invasive Haemophilus influenzae type B (Hib) disease prevention You are here: Health topics Haemophilus influenzae type B Quick Links Sitemap Home Health topics Data and statistics Media centre Publications Countries Programmes and projects About WHO Help and Services Contacts FAQs Employment Feedback Privacy E-mail scams WHO Regional Offices WHO African Region WHO Region of the Americas WHO South-East Asia Region WHO European Region WHO Eastern Mediterranean Region WHO Western Pacific Region Connect with WHO RSS Feeds WHO YouTube

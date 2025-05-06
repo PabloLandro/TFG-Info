@@ -1,0 +1,19 @@
+
+HTTP/1.1 200 OK
+Connection: close
+Date: Mon, 13 Feb 2012 15:35:58 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Set-Cookie: CFCLIENT_BODY1IMPORT=;expires=Wed, 05-Feb-2042 14:49:37 GMT;path=/
+Set-Cookie: CFGLOBALS=urltoken%3DCFID%23%3D8356796%26CFTOKEN%23%3D20653597%23lastvisit%3D%7Bts%20%272012%2D02%2D13%2010%3A35%3A58%27%7D%23timecreated%3D%7Bts%20%272012%2D02%2D12%2017%3A16%3A06%27%7D%23hitcount%3D706%23cftoken%3D20653597%23cfid%3D8356796%23;expires=Wed, 05-Feb-2042 14:49:37 GMT;path=/
+Content-Language: en-US
+Content-Type: text/html; charset=UTF-8
+
+Body1.com - Pertussis (Whooping Cough) Other Body1 Health Sites: Empower your Life ® Circulatory System Dental Care Diabetes General Health Heartburn Orthopedics Skin Care Women's Health Register Login Main 
+      Page Education 
+      Center Conditions Diagnostics Procedures Find a Physician First Aid Online Resources Health 
+                  			Care Hero™ Dr. James D'Adamo: The Blood-Type Lifestyle . About Heroes Join the Discussion in  Our Forums Health 
+      Community Forums Health Blogs Health 
+      News Health Feature Latest Health News Life Stories Health Calendar Video
+      Library International Content Syndication advertisement Search the Body1 Network February 13, 2012 EDUCATION CENTER: Diagnosis and Treatment Clinical Overview Definition Symptoms Diagnosis and Treatment Printer Friendly Version Email this Condition Pertussis (Whooping Cough) Diagnosis and Treatment Pertussis requires immediate medical treatmentâ€”delay in treatment may lead to complications. Doctors usually prescribe erythromycin to treat pertussis. This antibiotic reduces the length and severity of whooping cough, especially when the infection is discovered within the first 10 days. In some cases, codeine is prescribed for the harsh coughing. The DPT ( diphtheria , pertussis, and tetanus ) vaccine prevents pertussis in children. Children receive five doses starting at age two months and ending at age six. The vaccine is 90 percent effective when all doses are given and lasts for five years after the final dose. Reimmunization after this period is not recommended because young adults and children experience severe side effects. Last updated: 01-Jan-00 Interact on Body1 Discuss this topic with others. Related Content Diptheria Tetanus Home About Us Press Jobs Advertise With Us Contact Us advertisement ©1999- 2012 Body1 All rights reserved. Disclaimer:  The information provided within this website is for educational purposes only and is not a substitute for consultation with your physician or healthcare provider.   The opinions expressed herein are not necessarily those of the Owners and Sponsors of this site. By using this site you agree to indemnify, and hold the Owners and Sponsors harmless, from any disputes arising from content posted here-in. See our Terms of Service , our Privacy 
+      
