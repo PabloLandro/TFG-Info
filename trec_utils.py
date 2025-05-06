@@ -1,4 +1,4 @@
-import os, sys, re
+import os, sys, re, json
 import xml.etree.ElementTree as ET
 from pyserini.search.lucene import LuceneSearcher
 
@@ -22,6 +22,7 @@ TOPICS_2021=os.path.join("misinfo-resources-2021", "topics", "misinfo-2021-topic
 TOPICS_2022=os.path.join("misinfo-resources-2022", "topics", "misinfo-2022-topics.xml")
 
 INDEXES_DIR = os.getenv("INDEXES_PATH")
+print(INDEXES_DIR)
 INDEX_2019=os.path.join(INDEXES_DIR, "clueweb_rawtext2")
 INDEX_2020=os.path.join(INDEXES_DIR, "CC-NEWS-TREC-misinfo-2020")
 INDEX_2021=os.path.join(INDEXES_DIR, "C4")
@@ -246,3 +247,18 @@ def write_run_to_file(file, topic_id, doc_id, run):
         file.write(f'{topic_id} {doc_id} {run["u"]} {run["a"]}\n')
         print(f"write{write}")
         return
+
+
+def get_doc_content(searcher, doc_id):
+    use_id = doc_id
+    if searcher.doc(doc_id) is None:
+        print("changing id")
+        use_id = "<urn:uuid:" + doc_id + "git >"
+    try:
+        return json.loads(searcher.doc(use_id).raw())["text"]
+    except Exception as e:
+        print(f"ERROR, failed with doc_id: {doc_id}")
+        if not searcher.doc(use_id) is None:
+            return searcher.doc(use_id).raw() 
+        not_found_list.append(doc_id)
+        return None

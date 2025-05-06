@@ -1,7 +1,7 @@
 from gpt import set_model, evaluate, print_total_tokens
-from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file, get_qrels_dict
+from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file, get_qrels_dict, get_doc_content
 from itertools import combinations
-import os, argparse, json, sys
+import os, argparse, sys
 
 # Get all combinations of prompts by changing features
 def get_prompt_template_list(featured_prompt_template):
@@ -63,20 +63,6 @@ def get_run_list(topic_list, qrels, exclude_dict={}):
     return run_list
 
 not_found_list = []
-
-def get_doc_content(searcher, doc_id):
-    use_id = doc_id
-    if searcher.doc(doc_id) is None:
-        print("changing id")
-        use_id = "<urn:uuid:" + doc_id + ">"
-    try:
-        return json.loads(searcher.doc(use_id).raw())["text"]
-    except:
-        print(f"ERROR, failed with doc_id: {doc_id}")
-        if not searcher.doc(use_id) is None:
-            return searcher.doc(use_id).raw() 
-        not_found_list.append(doc_id)
-        return None
 
 
 # This is used to check that the same prompt template for the same topic and doc is being sent twice
