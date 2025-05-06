@@ -1,0 +1,92 @@
+5 Tips to Avoid Getting Sick When You Travel | Travelplanet
+India
+World
+Budget
+Tips
+Dine In
+More
+Popular spots
+Honeymoon Spots
+Festivals
+Top 10
+Videos
+Gallery
+Search
+Travelplanet
+India
+World
+Budget
+Tips
+Dine In
+More
+Popular spots
+Honeymoon Spots
+Festivals
+Top 10
+Videos
+Gallery
+Home Tips 5 Tips to Avoid Getting Sick When You Travel
+5 Tips to Avoid Getting Sick When You Travel
+By
+Team TP
+-
+February 21, 2016
+Share
+Facebook
+Twitter
+Google+
+Pinterest
+WhatsApp
+Sometimes in the over joy of getting into the new world, people overlook the possible health problems which may arise during their expedition. Here are some very simple to follow tips which are useful to keep the illness away from you.
+Make an appointment with a travel health professional
+It is highly recommended that you should discuss your plans with a health professional well before you head off on your travel voyage. There could be some necessary vaccinations needed which may be your passport to get entry into any particular nation.
+The average time to see a health professional is 6 to 8 weeks before you leave, especially if you need more than one vaccination or if you have some specific health concerns. Some people leave this for last day, nothing much will happen if you will get an appointment closer to your time of departure, you’ll just declared unfit if it is determined that you don’t have the sufficient amount of time to get things sorted.
+Be Careful of Food and Water Contamination
+You have to be extremely careful about the food you are going to eat and where. Ensure in advance that the food you are going to eat is fresh, fully cooked and served hot. Street food is really fresh and gives a delicious taste. But make sure that the cook has put gloves and chef cap during cooking, use separate serving spoon for different cuisines, put raw food hygienically etc. Choosing the wrong food environment may lead you to suffer with nasty diarrhea.
+On the other hand, purity of local water cannot be measured aptly. Locals may drink tap water without hesitation as they are habitual to such climate and water, their body is comfortable with it but yours not, so always drink bottled mineral water.
+Well, ‘Water Bottle with Built-in Filter’ should be preferred by travelers over purchasing and collecting bottles every now and then. This can easily filter any type of water you have and is a must have accessory during travel.
+Protect Yourself from Mosquito Bites
+Mosquito bites are the worst nightmare of any traveler. Other than annoying you with their stings, the little devils can gift you a wide variety of diseases such as Dengue, Malaria, Yellow Fever, Japanese encephalitis and chikungunya.
+Here are few suggestions to save you from mighty mosquitoes:
+Air-conditioned rooms should be preferred for stay to minimize mosquito bites as they are sealed and chances of letting them in are lower as compared to non air-conditioned rooms.
+Wearing the right clothing is necessary. Wear loose, light cotton clothing that covers most of your skin. It will work near water bodies and after dark when it is the peak time when malaria mosquito feed.
+Sleep under nets where necessary or during camping.
+Use anti-mosquito coils, apply mosquito repellent gels and plug-in devices whenever it will be appropriate.
+Though these measures are not completely foolproof, you can do everything right and still got bitten. But, minimizing the risk is always better than ignoring the same.
+Protect Yourself against the Sun
+Believe it or not, sunburn can actually burn the good travel experience. Doing snorkeling for a long time is a real fun but forgetting to apply sunscreen lotion could be quite harmful and spoil such fun. You must carry a sun protection cream of at least SPF 30 if you are traveling to a country with hot climate.
+Other than this, cover your head with a scarf or hat in order to prevent sun stroke. Plus in hot climatic areas there are pretty good chances of getting dehydration. If this gets unattended, it may lead to serious medical emergency. So, keep yourself hydrated, drink plenty of water, take juice and eat fruits.
+Stay Active
+It is medically proven that exercise gives strength to mind, body and immune system. One of the best ways to stay fit and fight with unwanted infections is exercise. Going on trek requires a lot of physical work; you have to walk for at least 5 hour a day. Before going on travel, get used to it beforehand to avoid early out of breath situation.
+Facebook
+Twitter
+Google+
+Pinterest
+WhatsApp
+Team TP
+Featured Articles
+Yummy things to make on Easter
+Sanya Bajaj - April 19, 2019
+The auspicious festival of Easter is almost here and no celebration is complete without good food and drinks. So, we have listed down yummy...
+Mumbai: Beat the Heat at the Best water parks
+April 19, 2019
+Amazing things to do in Mysore
+April 18, 2019
+Trending Articles
+#TrashTag challenge goes viral
+Sanya Bajaj - March 14, 2019
+Social Media has become one of the most popular modes of communication, nowadays. You might have seen many silly or funny challenges like Kiki...
+Himachal Pradesh welcomes snowfall again!
+March 14, 2019
+6 Makeup products to look flawless while traveling
+March 6, 2019
+Things you need to Know about St. Moritz
+February 25, 2019
+Travel Goals: Priyanka Chopra’s travel dairies are perfect!
+February 15, 2019
+Facebook Twitter Youtube
+About us
+Privacy Policy
+Terms and Conditions
+© Copyright © 2019 Xaprio Solutions
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();

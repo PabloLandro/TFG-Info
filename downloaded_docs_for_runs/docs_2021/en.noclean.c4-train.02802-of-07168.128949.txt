@@ -1,0 +1,305 @@
+Magnesium - Minerals - Vital Health Zone
+Web www.vitalhealthzone.com
+Home
+Health
+Nutrition
+About
+Experts
+Contact
+home > nutrition > minerals > magnesium
+All About Minerals
+Latest Health & Nutrition News
+<?php function tla_ads() { // Number of seconds before connection to XML times out // (This can be left the way it is) $CONNECTION_TIMEOUT = 10; // Local file to store XML // This file MUST be writable by web server // You should create a blank file and CHMOD it to 666 $LOCAL_XML_FILENAME = "local_71595.xml"; if( !file_exists($LOCAL_XML_FILENAME) ) die("Script error: $LOCAL_XML_FILENAME does not exist. Please create a blank file named $LOCAL_XML_FILENAME."); if( !is_writable($LOCAL_XML_FILENAME) ) die("Script error: $LOCAL_XML_FILENAME is not writable. Please set write permissions on $LOCAL_XML_FILENAME."); if( filemtime($LOCAL_XML_FILENAME) < (time() - 3600) || filesize($LOCAL_XML_FILENAME) < 20) { $request_uri = isset($_SERVER['REQUEST_URI']) ? $_SERVER['REQUEST_URI'] : ""; $user_agent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : ""; tla_updateLocalXML("http://www.text-link-ads.com/xml.php?inventory_key=M13Z87BVJTIUBJJ1J6YK&referer=" . urlencode($request_uri) . "&user_agent=" . urlencode($user_agent), $LOCAL_XML_FILENAME, $CONNECTION_TIMEOUT); } $xml = tla_getLocalXML($LOCAL_XML_FILENAME); $arr_xml = tla_decodeXML($xml); if ( is_array($arr_xml) ) { echo "\n<ul>\n"; for ($i = 0; $i < count($arr_xml['URL']); $i++) { if( isset($arr_xml['PostID'][$i]) && $arr_xml['PostID'][$i] > 0 ) continue; echo "<li>".$arr_xml['BeforeText'][$i]." <a href=\"".$arr_xml['URL'][$i]."\">".$arr_xml['Text'][$i]."</a> ".$arr_xml['AfterText'][$i]."</li>\n"; } echo "</ul>"; } } function tla_updateLocalXML($url, $file, $time_out) { if($handle = fopen($file, "a")){ fwrite($handle, "\n"); fclose($handle); } if($xml = file_get_contents_tla($url, $time_out)) { $xml = substr($xml, strpos($xml,'<?')); if ($handle = fopen($file, "w")) { fwrite($handle, $xml); fclose($handle); } } } function tla_getLocalXML($file) { $contents = ""; if($handle = fopen($file, "r")){ $contents = fread($handle, filesize($file)+1); fclose($handle); } return $contents; } function file_get_contents_tla($url, $time_out) { $result = ""; $url = parse_url($url); if ($handle = @fsockopen ($url["host"], 80)) { if(function_exists("socket_set_timeout")) { socket_set_timeout($handle,$time_out,0); } else if(function_exists("stream_set_timeout")) { stream_set_timeout($handle,$time_out,0); } fwrite ($handle, "GET $url[path]?$url[query] HTTP/1.0\r\nHost: $url[host]\r\nConnection: Close\r\n\r\n"); while (!feof($handle)) { $result .= @fread($handle, 40960); } fclose($handle); } return $result; } function tla_decodeXML($xmlstg) { if( !function_exists('html_entity_decode') ){ function html_entity_decode($string) { // replace numeric entities $string = preg_replace('~&#x([0-9a-f]+);~ei', 'chr(hexdec("\1"))', $string); $string = preg_replace('~&#([0-9]+);~e', 'chr(\1)', $string); // replace literal entities $trans_tbl = get_html_translation_table(HTML_ENTITIES); $trans_tbl = array_flip($trans_tbl); return strtr($string, $trans_tbl); } } $out = ""; $retarr = ""; preg_match_all ("/<(.*?)>(.*?)</", $xmlstg, $out, PREG_SET_ORDER); $search_ar = array('<', '>', '"'); $replace_ar = array('<', '>', '"'); $n = 0; while (isset($out[$n])) { $retarr[$out[$n][1]][] = str_replace($search_ar, $replace_ar,html_entity_decode(strip_tags($out[$n][0]))); $n++; } return $retarr; } tla_ads(); ?>
+Advertisement
+Tools
+BMI Calculator
+Body Fat Calculator
+Target Heart Rate
+Health Conditions A-Z
+Health Glossary A-Z
+Ask an expert
+Ask a Fitness Question
+Ftiness - Q&A
+Ask a Health Question
+Health - Q&A
+Ask a Heart Health Question
+Heart Health - Q&A
+Ask a Spiritual Awareness Question
+Spiritual Awareness - Q&A
+Ask a Relationships Question
+Relationships - Q&A
+Ask a Nutrition Question
+Nutrition - Q&A
+Nutrition
+Latest Nutrition News
+Vitamins
+Minerals
+:: boron
+:: calcium
+:: chloride
+:: chromium
+:: cobalt
+:: copper
+:: fluoride
+:: iodine
+:: iron
+:: magnesium
+:: manganese
+:: molybdenum
+:: phosphorus
+:: potassium
+:: selenium
+:: silica
+:: sodium
+:: vanadium
+:: zinc
+Amino Acids
+Other Nutrients
+Food Groups
+Nutrition of Foods
+Food Labels
+Recipes
+Diets
+Nutrition Articles
+Fitness Questions
+Health Questions
+Heart Health Questions
+Spiritual Awareness Questions
+Relationships Questions
+Nutrition Questions
+Magnesium
+print the page email the page
+Why magnesium is good for you
+Important magnesium facts
+Groups at risk of magnesium deficiency
+Symptoms of magnesium deficiency
+Magnesium and health
+Magnesium in foods
+Magnesium recommended daily intake (RDI)
+Magnesium works best with
+Overdosage, toxicity and cautions for magnesium
+Why magnesium is good for you
+Every cell in the body needs magnesium to produce energy. Magnesium is required to make more than 300 different enzymes and to send messages along the nerves.
+Magnesium makes the muscles relax and that ensures the heart is healthy and beats regularly, preventing abnormal heartbeat. Magnesium is also needed to keep blood pressure down to normal levels.
+Magnesium is required so that the body can use other vitamins and minerals properly – vitamin C and calcium work better, for example, when there is sufficient magnesium in the body.
+Magnesium works very closely with calcium to help keep bones strong throughout life.
+There is about 25 grams of magnesium in the body and most of it is in the bones and teeth, but there is also a lot in the muscles and blood. The amount in the blood is very important as it ensures there is correct balance in various body processes. In the same way calcium is needed to make the muscles contract (when the heart beats) magnesium is needed to make the muscles relax again. The levels of magnesium and calcium in the blood need to be steady and sufficient. If there are insufficient blood levels of calcium and magnesium, the body will pull it from the bones and send it to the blood, which can result in weakened bones.
+Important magnesium facts
+Magnesium is starting to become more of a mainstream medication for people with the following health conditions:
+Arrhythmia - some people with arrhythmia may have a lack of magnesium, which is one reason why emergency departments use intravenous magnesium (or potassium) for people with certain heart arrhythmias and cardiac infarction
+Asthma - magnesium is used in emergency departments of hospitals for people with asthma to help their airways open up, by relaxing the smooth muscles surrounding the bronchi and reducing risk of dying from a severe asthmatic attack
+Migraines - people with migraines often find that their symptoms improve with magnesium supplementation as it relaxes the smooth muscles and reduces the symptoms associated with severe migraines
+Talk to a medical professional about magnesium supplements BEFORE taking them
+^ top
+Groups at risk of magnesium deficiency
+About 75% of the population do not get enough magnesium from their foods to meet the RDI, so they may be borderline deficient. Even so, very few people are really severely deficient in magnesium, as it would require intake of very low amounts of magnesium over a long time to have any major symptoms.
+Magnesium deficiency occurs when there is less than 85mg intake of magnesium per day.
+Deficiency of magnesium can occur if the following health problems are present:
+Alcoholics – most people who drink alcohol excessively have poor diets that are too low not just in magnesium but also in the other nutrients too
+Diabetics – people with diabetes may be excreting a lot of magnesium in their urine
+People with kidney disease – the kidneys may not be handling magnesium very well. Your doctor will prescribe medications that prevent magnesium deficiency. People with kidney disease should NOT take magnesium supplements
+People that have been vomiting or have severe diarrhoea – people with any condition that causes vomiting or severe diarrhoea (or both) will be eliminating most of their magnesium (and other vital nutrients)
+People taking diuretic drugs – diuretics cause urine to be excreted more than normal and this may lower magnesium levels. This can pose a real problem if non-prescription or herbal diuretics (“water pills”) are used, without informing a medical professional if other medications are being used at the same time, as this can cause adverse health effects
+People in these groups at risk of deficiency should talk to a medical professional about magnesium supplements BEFORE taking them.
+^ top
+Symptoms of magnesium deficiency
+If there is insufficient dietary magnesium, all the tissues in the body will become affected in some way, but mostly the following will be the most adversely affected:
+Heart
+Kidneys
+Nerves
+Generally magnesium deficiency symptoms include:
+Irritability
+Loss of appetite
+Muscle weakness or tremors
+Nausea
+Severe magnesium deficiency
+Can cause the heart to beat irregularly
+Advertisement
+Many doctors and nutritionists feel that breathing problems, such as asthma are cause in part by a magnesium deficiency.
+Magnesium and health
+Heart problems – low levels of magnesium seem to be related to some types of heart problems. Because magnesium helps the heart muscles to relax, a short supply may cause a spasm in one (or both) of the coronary arteries that supply blood to the heart. This spasm blocks blood flow and can cause a heart attack. Some doctors think a deficiency of magnesium is the cause of many sudden heart attacks, especially in people who don't have a history of heart disease. In fact, intravenous magnesium is used in emergency rooms in the Australia, UK, USA and other countries as part of the treatment for heart attacks (usually with potassium and other conventional medications)
+Blood clots – magnesium also protects against heart attacks caused by blood clots. Magnesium helps keep the clots from forming by making platelets (tiny blood vessels that form clots) less “sticky”, and this makes them less likely to lump together into an artery-clogging clot
+Heart arrhythmia – too little magnesium can cause cardiac arrhythmia. These are irregular heartbeats – an extra heartbeat, a skipped heartbeat or just a fast heart beat for no apparent reason. If the problem is serious enough, the heartbeat doesn't return to normal and sudden death occurs. Studies suggest that people with low levels of magnesium are more likely to die suddenly from heart rhythm problems
+Magnesium manages blood pressure – magnesium helps the muscles relax and if there is insufficient magnesium, the walls of the blood vessels tighten up, which raises blood pressure. Coincidentally, many people with high blood pressure don't get enough calcium either. Pregnant women sometimes get dangerously high blood pressure, especially in the last few months of pregnancy (due to pre-eclampsia). Magnesium may help prevent this problem. Pregnant women are usually prescribed a multivitamin supplement that has magnesium in it – DON'T take extra magnesium supplements unless a medical professional has recommended it
+Magnesium and asthma – asthma causes the muscles lining the airways in the lungs to contract and become too narrow, which results in trouble breathing. Magnesium helps the smooth muscles that line the trachea and bronchi to relax, so the airways open up and breathing becomes normal and easier. In emergency rooms, intravenous magnesium is used to treat severe asthma attacks. People with asthma may have a diet that is low in magnesium, so getting more through higher intake of magnesium-rich foods and/or supplements could help prevent attacks and reduce severity of breathing problems. DON'T try to treat an asthma attack on your own by taking magnesium supplements – it could be dangerous - always take asthma medicines prescribed and see your doctor about magnesium supplements
+Healthy bones – not only is calcium required for healthy bones, but so is magnesium. Magnesium helps to keep the calcium levels in balance and also makes sure that enough vitamin D is produced. Twice as much calcium as magnesium is required for good health and any supplements should also have this ratio
+Diabetes – high blood pressure is often a problem for people with diabetes and people with diabetes often have low magnesium levels. Some doctors think there is a connection and recommend magnesium supplements for diabetic patients. Magnesium may also help diabetics control their blood glucose levels better and help prevent diabetes complications later on, like eye problems and heart disease. There is also some evidence that older people who are at risk for diabetes can prevent it by taking extra magnesium. People with diabetes, or at risk for it, should aim to get as much magnesium as possible from their diet and also consider taking a supplement. Talk to a medical professional about magnesium supplements BEFORE taking them, especially if there are kidney problems because of diabetes
+Migraines – People who suffer with migraine headaches often have low magnesium levels. Migraine sufferers should consider magnesium supplementation to help reduce the number of attacks and the severity. One study showed that in about half the cases, intravenous magnesium stopped migraine headaches in their tracks. Unfortunately, once a migraine is in effect, just swallowing magnesium supplements doesn't have the same effect and it is better to take magnesium supplements on a continuous basis for them to take effect in reducing severity and incidence of migraines
+Kidney stones – Magnesium supplements seem to keep calcium kidney stones from coming back. Studies show that about 100-300mg of magnesium a day is required and seems to work better if 10mg of vitamin B6 (pyridoxine) is taken with it. People with kidney stones should talk to a medical professional about magnesium supplements BEFORE taking them
+PMS – Studies show magnesium supplements relieve uncontrollable PMS and PMDD symptoms, such as breast tenderness, headaches and irritability. Studies show that women with severe PMS should try 300-500mg of magnesium per day for the two weeks leading up to menstruation. If severe cramps are a problem at menstruation, keep taking magnesium during that time too – it may help reduce menstrual cramping. Magnesium supplementation may help even more if it is combined with calcium and vitamin B6 (pyridoxine) for PMS and PMDD symptoms
+People who wish to take a magnesium supplement should talk to a medical professional BEFORE taking it.
+Advertisement
+^ top
+Magnesium in food
+FOOD
+AMOUNT
+magnesium (mg)
+Black Beans
+1 cup 121
+Tofu
+½ cup 188
+White Beans
+1 cup 113
+Almonds, dry roasted
+30g 84
+Lima beans
+1 cup 82
+Kidney beans
+1 cup 80
+Spinach, cooked
+½ cup 79
+Chickpeas
+1 cup 78
+Swiss chard
+½ cup 76
+Cashews, dry roasted
+30g 72
+Lentils
+1 cup 71
+Wheat germ
+¼ cup 69
+Pinto beans, canned
+1 cup 64
+Oatmeal, cooked
+1 cup 56
+Potato, baked with skin
+1 medium 55
+Peanuts
+30g 52
+Peanut butter
+2 Tbsp 51
+Flounder
+85g 50
+Walnuts
+30g 48
+Okra
+½ cup 46
+Soy milk
+1 cup 45
+Yoghurt
+1 cup 40
+Milk, low-fat
+1 cup 34
+Banana
+1 medium 33
+Peas
+½ cup 31
+Prawns (shrimp)
+85g 29
+Bread, whole wheat
+1 slice 23
+Broccoli, cooked
+½ cup 19
+Bread, white
+1 slice 5
+^ top
+Magnesium recommended daily intake (RDI)
+RDA
+lifestage
+age
+amount
+INFANTS 0-6mths
+7-12mths 30mg
+75mg
+CHILDREN 1-3yrs
+4-8yrs 80mg
+130mg
+CHILDREN 9-13yrs
+male: 14-18yrs
+female: 14-18yrs 240mg
+410mg
+360mg
+ADULTS male: 19-30yrs
+male: 31-50yrs
+female: 19-50yrs 400mg
+420mg
+310mg
+SENIORS male: 51+yrs
+female: 51+yrs
+420mg
+320mg
+PREGNANT <18yrs
+19-30yrs
+31-50yrs 400mg
+350mg
+360mg
+LACTATING <18yrs
+19-30yrs
+31-50yrs 360mg
+310mg
+320mg
+TOLERABLE UPPER LIMIT
+lifestage
+age
+amounT
+INFANTS 0-12mths n/a*
+CHILDREN 1-3yrs
+4-8yrs 65mg
+110mg
+CHILDREN 9-18yrs 350mg**
+ADULTS 19-50yrs 350mg**
+SENIORS 51+yrs
+350mg**
+PREGNANT all ages 350mg**
+LACTATING all ages 350mg**
+Toxic Levels
+>2,000mg (can be much lower than this for some individuals)
+The tolerable upper limits should only be taken for short periods and only under medical supervision.
+* The tolerable upper limit for magnesium for infants aged 0-12 months has not yet been determined due to a lack of data about the adverse effects in this age group. The only source of magnesium intake should be from food (breast milk and/or baby formula).
+* The tolerable upper limit for magnesium for adults, pregnant and lactating mothers is for any supplements that are taken beyond any magensium which is obtained in the diet.
+There is no upper limit for magnesium in the diet, only an upper limit of magnesium from supplements.
+^ top
+Magnesium works best with
+Vitamin B1
+Vitamin B6
+Vitamin C
+Vitamin D
+Boron
+Calcium
+Potassium
+Zinc
+Overdosage, toxicity and cautions for magnesium
+Acute toxicity (>15 grams) - nausea, paralysis of the central nervous system, vomiting, sleepiness, extreme muscle weakness, difficulty breathing, heartbeat irregularity
+Chronic toxicity - confusion, dry mouth, flushing, low blood pressure, muscle weakness, sleepiness, thirst
+CAUTIONS
+People with kidney failure or congestive heart failure should NOT take magnesium supplements or antacids containing magnesium
+Last reviewed: 10 January 2010 || Last updated: 21 January 2010
+references
+Bichara MD, Goldman RD. Magnesium for treatment of asthma in children. Can Fam Physician. 2009 Sep;55(9):887-9
+Bigal ME, Rapoport AM, Sheftell FD, Tepper SJ. New migraine preventive options: an update with pathophysiological considerations. Rev Hosp Clin Fac Med Sao Paulo. 2002 Nov-Dec;57(6):293-8. Epub 2003 Feb 17
+Brannon PM, Yetley EA, Bailey RL, Picciano MF. Overview of the conference "Vitamin D and Health in the 21st Century: an Update". Am J Clin Nutr. 2008 Aug;88(2):483S-490S
+Gaby AR. Intravenous nutrient therapy: the "Myers' cocktail". Altern Med Rev. 2002 Oct;7(5):389-403
+Gries A, Bode C, Gross S, Peter K, Böhrer H, Martin E. The effect of intravenously administered magnesium on platelet function in patients after cardiac surgery. Anesth Analg. 1999 Jun;88(6):1213-9
+Longstreet DA, Heath DL, Panaretto KS, Vink R. Correlations suggest low magnesium may lead to higher rates of type 2 diabetes in Indigenous Australians. Rural Remote Health. 2007 Oct-Dec;7(4):843. Epub 2007 Oct 12
+Mellen PB, Gao SK, Vitolins MZ, Goff DC Jr. Deteriorating dietary habits among adults with hypertension: DASH dietary accordance, NHANES 1988-1994 and 1999-2004. Arch Intern Med. 2008 Feb 11;168(3):308-14
+Mohammed S, Goodacre S. Intravenous and nebulised magnesium sulphate for acute asthma: systematic review and meta-analysis. Emerg Med J. 2007 Dec;24(12):823-30
+Odabasi E, Turan M, Aydin A, Akay C, Kutlu M. Magnesium, zinc, copper, manganese, and selenium levels in postmenopausal women with osteoporosis. Can magnesium play a key role in osteoporosis? Ann Acad Med Singapore. 2008 Jul;37(7):564-7
+Osiecki, H. The Nutrient Bible. Bio-Concepts Publishing QLD, 2002
+Øymar K, Halvorsen T. Emergency presentation and management of acute severe asthma in children. Scand J Trauma Resusc Emerg Med. 2009 Sep 4;17(1):40
+Pham PC, Pham PM, Pham SV, Miller JM, Pham PT. Hypomagnesemia in patients with type 2 diabetes. Clin J Am Soc Nephrol. 2007 Mar;2(2):366-73. Epub 2007 Jan 3
+Pokan R, Hofmann P, von Duvillard SP, et al. Oral magnesium therapy, exercise heart rate, exercise tolerance, and myocardial function in coronary artery disease patients. Br J Sports Med. 2006 Sep;40(9):773-8. Epub 2006 Jul 6
+Ravn HB, Moeldrup U, Brookes CI, et al. Intravenous magnesium reduces infarct size after ischemia/reperfusion injury combined with a thrombogenic lesion in the left anterior descending artery. Arterioscler Thromb Vasc Biol. 1999 Mar;19(3):569-74
+Rosen CJ. Sugar and Bone: A Not-So Sweet Story. J Bone Miner Res. 2008 December; 23(12): 1881–1883
+Rowe B, Bretzlaff J, Bourdon C, Bota G, Camargo C. Magnesium sulfate is effective for severe acute asthma treated in the emergency department. West J Med. 2000 Feb;172(2):96
+Rylander R, Remer T, Berkemeyer S, Vormann J. Acid-base status affects renal magnesium losses in healthy, elderly persons. J Nutr. 2006 Sep;136(9):2374-7
+Schulze MB, Schulz M, Heidemann C, Schienkiewitz A, Hoffmann K, Boeing H. Fiber and magnesium intake and incidence of type 2 diabetes: a prospective study and meta-analysis. Arch Intern Med. 2007 May 14;167(9):956-65
+Shepherd J, Jones J, Frampton GK, Tanajewski L, Turner D, Price A. Intravenous magnesium sulphate and sotalol for prevention of atrial fibrillation after coronary artery bypass surgery: a systematic review and economic evaluation. Health Technol Assess. 2008 Jun;12(28):iii-iv, ix-95
+Swaminathan R. Magnesium metabolism and its disorders. Clin Biochem Rev. 2003 May;24(2):47-66
+Tiryakioglu O, Demirtas S, Ari H, Tiryakioglu SK, Huysal K, Selimoglu O, Ozyazicioglu A. Magnesium sulphate and amiodarone prophylaxis for prevention of postoperative arrhythmia in coronary by-pass operations. J Cardiothorac Surg. 2009 Feb 20;4:8
+USDA National Nutrient Database - provides nutrient values for foods (accessed 5 January 2005)
+Whitney EN, Cataldo DB, Rolfes SR. Understanding Normal and Clinical Nutrition, 6th Edition. Wadsworth/Thomson Learning, 2002
+Woolhouse M. Migraine and tension headache--a complementary and alternative medicine approach. Aust Fam Physician. 2005 Aug;34(8):647-51
+^ top
+NOTE: Mega doses of vitamins, minerals, amino acids, or other supplements cannot cure illnesses and in fact can be very dangerous and produce toxic side effects and interfere with medicine you are taking. Always ensure you consult your doctor before taking any type of nutrient supplement.
+Disclaimer: This guide is not intended to be used for diagnostic or prescriptive purposes. For any treatment or diagnosis of illness, please see your doctor.
+About Us
+Experts
+Contact
+Disclaimer
+Privacy
+Advertising
+Sitemap
+Home
+© Copyright 2004-2011 - Vital Health Zone
+Web design by missive media
+Partners - new body diet

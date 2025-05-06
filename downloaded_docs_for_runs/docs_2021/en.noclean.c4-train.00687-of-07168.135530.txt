@@ -1,0 +1,183 @@
+Staying safe during tick season - Dogs Monthly
+Home
+Subscribe
+Magazine subscription
+Digital subscription
+Shop back issues
+News
+News
+Post a photo to Pin-up pups
+Pet Care Advice
+Events
+Appeals
+Competitions
+Competitions
+Terms & Conditions
+Advertise
+Advertise with us
+Contact
+Contact
+View Cart
+Search
+Home
+Subscribe
+Magazine subscription
+Digital subscription
+Shop back issues
+News
+News
+Post a photo to Pin-up pups
+Pet Care Advice
+Events
+Appeals
+Competitions
+Competitions
+Terms & Conditions
+Advertise
+Advertise with us
+Contact
+Contact
+View Cart
+Dogs Monthly
+Home
+Subscribe
+Magazine subscription
+Digital subscription
+Shop back issues
+News
+News
+Post a photo to Pin-up pups
+Pet Care Advice
+Events
+Appeals
+Competitions
+Competitions
+Terms & Conditions
+Advertise
+Advertise with us
+Contact
+Contact
+View Cart
+Home Hot Topics Staying safe during tick season
+Hot Topics
+Pet Care Advice
+Staying safe during tick season
+By
+Maria Laken
+-
+26th March 2019
+0
+133
+Facebook
+Twitter
+Google+
+Pinterest
+WhatsApp
+As the weather gets warmer here in the UK, blood-thirsty ticks begin to emerge to feed from passing humans and animals. Becoming particularly active from the start of spring to mid-autumn, outdoor specialists BillyOh.com have created a list of top tips to help owners stay safe during the tick season.
+Ticks are most common in woodland areas and are often found clinging to tall grass and shrubs. A blood-sucking member of the spider family, there are over 22 species in the UK, with numbers increasing dramatically in the past ten years. Ticks transmit bacteria which can cause Lyme disease – which could be serious if not treated.
+The majority of ticks feed on wild animals such as bats, woodland birds and badgers, but they are known to cling onto family pets or bite at the ankles of passers-by, too. It’s really important to remain vigilant of the critter and ensure that you are properly prepared to deal with the risk.
+A spokesperson from BillyOh said, “As the weather conditions improve, many Brits will be out enjoying the sun in grassy areas, where ticks are usually found.
+“It’s vital to be educated on the risks of these tiny critters, as if you’re bitten and it’s not treated correctly, this can potentially result in serious consequences. Following a few simple tips can lower the risk of being bitten by a tick dramatically and prevent further health issues.”
+Here are BillyOh’s top tips for ticks:
+Stick to paths
+Sticking to paths on walks will help avoid ticks clinging to tall grass and shrubs. If you are in an area with no path then try walking where the grass is shorter avoiding any overhanging vegetation unless necessary.
+Clothing
+In woodland areas remain covered by wearing long-sleeve tops and full length trousers. Protect areas such as the back of the knees, armpits and the groin area. Opting for lighter coloured clothing will make it easier to identify any ticks present that may become attached.
+Footwear
+Wellies are not just for rainy days, they are also great for protecting the feet and ankles from ticks whilst on walks. Tucking trousers into socks is also a good defence mechanism if wellies are not an option
+Regular checks
+Ticks are very small and hard to identify when not paying attention. Check regularly whilst outside and also when home in order to remove any feeding ticks. The longer a tick is left attached the harder it is to remove.
+Right tools
+Avoid any home remedies to try and remove ticks such as covering the affected area of the body in Vaseline or nail varnish or even burning them off. Instead, use a tick removal tool. This will help avoid aggravating the tick and lower the risk of secondary infection. When removed, use an antiseptic wipe and be aware of any symptoms of Lyme disease.
+TAGS
+Pet Care
+Spring
+Ticks
+Facebook
+Twitter
+Google+
+Pinterest
+WhatsApp
+Previous articleDog v mog
+Next articleTop UK cities to pamper your pooch
+Maria Laken
+RELATED ARTICLESMORE FROM AUTHOR
+“Help! My dog’s started weeing indoors”
+Neglected rescue dog becomes star of the show
+Our latest WinitWednesday competitions
+LEAVE A REPLY Cancel reply
+Please enter your comment!
+Please enter your name here
+You have entered an incorrect email address!
+Please enter your email address here
+Find your pawfect pet-friendly escape
+Premier Cottages
+Latest Issue
+Follow Dogs Monthly Magazine
+28,190FansLike
+508FollowersFollow
+36,759FollowersFollow
+Subscribe
+Find us on Twitter
+Tweets by @Dogsmonthly
+EDITOR PICKS
+Recent Posts
+“Help! My dog’s started weeing indoors”
+Neglected rescue dog becomes star of the show
+Our latest WinitWednesday competitions
+Puppy found dumped in cardboard box now ready for a home!
+“Help! He eats everything!”
+POPULAR POSTS
+Help! My dog keeps shaking his head but his ears are...
+18th November 2016
+Ricky Gervais and Peter Egan call for debate on animal testing...
+10th April 2018
+“Help! My puppy chews my hair!”
+18th January 2018
+POPULAR CATEGORY
+News1083
+Hot Topics858
+Pet Care Advice269
+Events244
+Appeals224
+Guest Submissions141
+Inside each issue113
+Sponsored25
+Competitions17
+Categories
+Appeals
+Competitions
+Events
+Expired
+Guest Submissions
+Hot Topics
+Inside each issue
+News
+Pet Care Advice
+Sponsored
+Survey
+Uncategorised
+ABOUT US
+FOLLOW US
+Home
+Subscribe
+Magazine subscription
+Digital subscription
+Shop back issues
+News
+News
+Post a photo to Pin-up pups
+Pet Care Advice
+Events
+Appeals
+Competitions
+Competitions
+Terms & Conditions
+Advertise
+Advertise with us
+Contact
+Contact
+View Cart
+© Copyright 2019 Dogs Monthly. All rights reserved.
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+Edit with Live CSS

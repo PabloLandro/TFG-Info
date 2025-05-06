@@ -1,0 +1,80 @@
+Avoid Mosquito Bites while Traveling - QM
+QM
+Home
+mbox indoor mosquito trap
+it04 solar mosquito trap
+photo
+MBOX
+Natura
+Video
+Cooperation solution
+about us
+onlineshop
+Home
+mbox indoor mosquito trap
+it04 solar mosquito trap
+photo
+MBOX
+Natura
+Video
+Cooperation solution
+about us
+onlineshop
+QM
+QM MOSQUITO TRAP - QM MOSQUITO TRAP IS BETTER THAN ANY OTHER MOSQUITO TRAPS
+Scenery
+0
+Avoid Mosquito Bites while Traveling
+by admin · Published April 25, 2017 · Updated May 29, 2017
+Traveling? Don’t let mosquitoes ruin your vacation.
+If you are planning a trip, do your homework before traveling! Learn how to keep yourself and your family healthy during and after your trip. Zika, dengue, and chikungunya viruses are all spread by mosquito bites. Anyone who lives in or travels to an area where these viruses are found and has not already been infected is at risk.
+Getting infected with dengue or chikungunya can make you sick and if you are pregnant, Zika infection could threaten your pregnancy. The best way to prevent getting sick is to protect yourself from mosquito bites.
+What is Zika?
+Zika is a virus primarily spread to people through mosquito bites. Zika can also be spread by an infected person to his or her sex partners. A pregnant woman can pass Zika virus to her fetus during pregnancy or around the time of birth. Zika can cause microcephaly and other severe birth defects. The most common symptoms of
+Zika are fever, rash, joint pain, and conjunctivitis (red eyes). Many people who get infected won’t know it. For people who do get sick, the illness is usually mild with symptoms lasting from several days to a week.
+What is Dengue?
+Dengue is another common viral infection found throughout the Americas. There is no vaccine to prevent or medicine to treat dengue. Symptoms of dengue begin with high fever, and may also include severe headache, severe pain behind the eyes, joint pain, muscle and bone pain, rash, and mild bleeding (e.g., nose or gums bleed; unusual bruising). Most people will recover after about a week, but sometimes dengue can become a serious or even fatal. Severe dengue is an emergency and requires hospitalization.
+Stay Healthy During Your Trip
+The mosquitoes that spread the chikungunya, dengue, and Zika viruses bite during the day and night. The best way to prevent getting sick is to protect yourself from mosquito bites with QM mosquito trap.
+Species-specific QM mosquito trap could help consumers solve pest problems more reliably, said Jacky Choy, chairman and chief executive officer of QM Corporation, the best company to produce a CO2 mosquito trap for the consumer market, the QM mosquito trap. The QM company is also the fastest one to develop mosquito trap based on human skin scents, and recently introduced an attractant designed for the Asian tiger mosquito. MBOX mosquito trap is one of the products of QM which uses a new and highly effective method to catch mosquitoes. Get more information from .http://mbox-qm.com
+Now, stop the mosquito bites with QM mosquito trap.
+Share
+$('#twitter').sharrre({ share: { twitter: true }, template: '
+{total}
+', enableHover: false, enableTracking: true, buttons: { twitter: {via: ''}}, click: function(api, options){ api.simulateClick(); api.openPopup('twitter'); } }); $('#facebook').sharrre({ share: { facebook: true }, template: '
+{total}
+', enableHover: false, enableTracking: true, buttons:{layout: 'box_count'}, click: function(api, options){ api.simulateClick(); api.openPopup('facebook'); } }); $('#googleplus').sharrre({ share: { googlePlus: true }, template: '
+{total}
+', enableHover: false, enableTracking: true, buttons:{size: 'tall'}, urlCurl: 'http://mosquitotrap.site/wp-content/plugins/hueman-addons/addons/assets/front/js/sharrre.php', click: function(api, options){ api.simulateClick(); api.openPopup('googlePlus'); } }); // Scrollable sharrre bar, contributed by Erik Frye. Awesome! var $_shareContainer = $(".sharrre-container"), $_header = $('#header'), $_postEntry = $('.entry'), $window = $(window), startSharePosition = $_shareContainer.offset(),//object contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(), topOfTemplate = $_header.offset().top, topSpacing = _setTopSpacing(); //triggered on scroll shareScroll = function(){ var scrollTop = $window.scrollTop() + topOfTemplate, stopLocation = contentBottom - ($_shareContainer.outerHeight() + topSpacing); $_shareContainer.css({position : 'fixed'}); if( scrollTop > stopLocation ){ $_shareContainer.css( { position:'relative' } ); $_shareContainer.offset( { top: contentBottom - $_shareContainer.outerHeight(), left: startSharePosition.left, } ); } else if (scrollTop >= $_postEntry.offset().top - topSpacing){ $_shareContainer.css( { position:'fixed',top: '100px' } ); $_shareContainer.offset( { //top: scrollTop + topSpacing, left: startSharePosition.left, } ); } else if (scrollTop < startSharePosition.top + ( topSpacing - 1 ) ) { $_shareContainer.css( { position:'relative' } ); $_shareContainer.offset( { top: $_postEntry.offset().top, left:startSharePosition.left, } ); } }, //triggered on resize shareMove = function() { startSharePosition = $_shareContainer.offset(); contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(); topOfTemplate = $_header.offset().top; _setTopSpacing(); }; /* As new images load the page content body gets longer. The bottom of the content area needs to be adjusted in case images are still loading. */ setTimeout( function() { contentBottom = $_postEntry.offset().top + $_postEntry.outerHeight(); }, 2000); function _setTopSpacing(){ var distanceFromTop = 20; if( $window.width() > 1024 ) { topSpacing = distanceFromTop + $('.nav-wrap').outerHeight(); } else { topSpacing = distanceFromTop; } return topSpacing; } //setup event listeners $window.scroll( _.throttle( function() { if ( $window.width() > 719 ) { shareScroll(); } else { $_shareContainer.css({ top:'', left:'', position:'' }) } }, 50 ) ); $window.resize( _.debounce( function() { if ( $window.width() > 719 ) { shareMove(); } else { $_shareContainer.css({ top:'', left:'', position:'' }) } }, 50 ) ); });
+Tags: Avoid Mosquito BitesTraveling
+BUY ON AMAZON
+You may also like...
+0
+Golf & the Mosquito
+April 20, 2017
+by admin · Published April 20, 2017 · Last modified June 1, 2017
+0
+Facts about Dengue in India
+April 25, 2017
+by admin · Published April 25, 2017 · Last modified May 31, 2017
+0
+Orchid Problem of Midges
+April 22, 2017
+by admin · Published April 22, 2017 · Last modified June 1, 2017
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Comment
+Name *
+Email *
+Website
+MORE INFORMATION
+http://mbox-qm.com
+http://mosquitotrap.site
+http://insectkiller.shop
+http://bugzapper.global
+http://insectkiller.tech
+http://outdoor-mosquito-trap.com
+http://outdoor-insect-killer.com
+http://indoor-mosquito-killer.com
+http://outdoor-mosquito-killer.com
+普人特福的博客cnzz&51la for wordpress,cnzz for wordpress,51la for wordpress

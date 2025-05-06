@@ -1,0 +1,324 @@
+Is Cell Phone Radiation Safe? - Cell Phones - ProCon.org
+PROS & CONS OF CURRENT ISSUES.
+RELIABLE. NONPARTISAN. EMPOWERING.
+Menu Toggle navigation
+HOME
+CELL PHONES - MENU
+CELL PHONES - HOME
+GET STARTED
+History of Cell Phone Radiation Top Pro & Con Arguments Top Pro & Con Quotes
+RECOMMENDED
+Did You Know? Readers' Comments Video Highest and Lowest Radiation Cell Phones INTERPHONE Study Concludes Cell Phones Might or Might Not Cause Cancer
+DIG DEEPER
+Source Biographies Footnotes & Sources
+ISSUES WE COVER
+MOST POPULAR
+Medical Marijuana
+Gun Control
+Animal Testing
+Death Penalty
+Recreational Marijuana
+School Uniforms
+OTC Birth Control
+Social Media
+Vaping E-Cigarettes
+Illegal Immigration
+HEALTH & MEDICINE
+Medical Marijuana
+Euthanasia & Assisted Suicide
+Vaping E-Cigarettes
+Vaccines for Kids
+Milk - Is It Healthy?
+OTC Birth Control
+Abortion
+Vegetarianism
+Obesity a Disease?
+Obamacare
+Right to Health Care
+Prescription Drug Ads
+EDUCATION
+School Uniforms
+Standardized Tests
+Tablets vs. Textbooks
+College Education Worth It?
+Teacher Tenure
+Student Loan Debt
+School Vouchers
+Corporal Punishment
+Banned Books
+Homework
+POLITICS
+Death Penalty
+Drinking Age - Lower It?
+Illegal Immigration
+Gun Control
+Recreational Marijuana
+ACLU - Good for America?
+Concealed Handguns
+Sanctuary Cities
+Under God in the Pledge
+SCIENCE & TECHNOLOGY
+Animal Testing
+Cell Phones Radiation
+Alternative Energy vs. Fossil Fuels
+Climate Change
+Net Nautrality
+Police Body Cameras
+Bottled Water Ban
+ELECTIONS & PRESIDENTS
+Felon Voting
+Ronald Reagan
+Bill Clinton
+Voting Machines
+2016 Presidential Election
+Electoral College
+Lowering the Voting Age to 16
+WORLD / INTERNATIONAL
+Israeli-Palestinian Conflict
+Cuba Embargo
+Drone Strikes Overseas
+SEX & GENDER
+Gay Marriage
+Prostitution - Legalize It?
+Born Gay? Origins of Sexual Orientation
+ENTERTAINMENT & SPORTS
+Social Media
+Video Games and Violence
+Drug Use in Sports
+Binge-Watching
+Golf - Is It a Sport?
+Olympics
+National Anthem Protest
+Fighting in Hockey
+ECONOMY & TAXES
+Minimum Wage
+Gold Standard
+Corporate Tax Rate & Jobs
+Churches and Taxes
+Uber & Lyft
+Social Security Privatization
+Daylight Savings Time
+Universal Basic Income
+Penny - Keep It?
+YOU MAY ALSO LIKE
+Watch Our Videos
+Teachers' Corner
+Readers' Comments
+Who Uses ProCon.org?
+Weekly Tidbits
+Archived Topics
+Testimonials
+Donors & Sponsors
+GET INVOLVED
+ProCon.org Events
+Suggest a Topic
+Cite This Page
+Share on Social Media
+Volunteers / Interns
+Join
+ABOUT US
+ABOUT US
+HOW WE WORK
+WATCH OUR VIDEOS
+FAQS
+METRICS
+EVENTS
+TRAFFIC
+TESTIMONIALS
+JOIN
+DONORS & SPONSORS
+CONTACT US
+TEACHERS' CORNER
+HOME
+|
+FAQS
+|
+METRICS
+|
+TRAFFIC
+|
+TESTIMONIALS
+|
+DONORS & SPONSORS
+|
+CONTACT US
+MORE
+ISSUES
+ABOUT
+US
+JOIN
+WATCH
+OUR VIDEOS
+TEACHERS'
+CORNER
+// jQuery-menu-aim: the following JS is used to show and hide the submenu // contents. Again, this can be done in any number of ways. jQuery-menu-aim // doesn't care how you do this, it just fires the activate and deactivate // events at the right times so you know when to show and hide your submenus. function activateSubmenu(row) { var $row = $(row), submenuId = $row.data("submenuId"), $submenu = $("#" + submenuId), height = $menu.outerHeight(), width = $menu.outerWidth(); // Show the submenu $submenu.css({ display: "block", top: 0, left: width - 3, // main should overlay submenu height: height - 4 // padding for main dropdown2's arrow }); // Keep the currently activated row's highlighted look $row.find("a").addClass("maintainHover"); } function deactivateSubmenu(row) { var $row = $(row), submenuId = $row.data("submenuId"), $submenu = $("#" + submenuId); // Hide the submenu and remove the row's highlighted look $submenu.css("display", "none"); $row.find("a").removeClass("maintainHover"); } // Bootstrap's dropdown2 menus immediately close on document click. // Don't let this event close the menu if a submenu is being clicked. // This event propagation control doesn't belong in the menu-aim plugin // itself because the plugin is agnostic to bootstrap. $(".dropdown2-menu li").click(function(e) { e.stopPropagation(); }); $(document).click(function() { // Simply hide the submenu on any click. Again, this is just a hacked // together menu/submenu structure to show the use of jQuery-menu-aim. $(".popover2").css("display", "none"); $("a.maintainHover").removeClass("maintainHover"); });
+CELL PHONES
+Last updated on: 11/16/2018 1:45:47 PM PST
+Is Cell Phone Radiation Safe?
+Pro & Con Quotes
+Readers' Comments (188)
+General Reference (not clearly pro or con)
+Keith Black, MD, Chairman of the Department of Neurosurgery and Director of the Maxine Dunitz Neurological Institute at Cedars-Sinai Medical Center, stated the following in a May 31, 2011 interview "Neurosurgeon: 'Your Cell Phone Is Not Necessarily a Safe Device,'" avaialble at pbs.org:
+"So, essentially, a cell phone is a microwave antenna which generates microwave radiation.
+And we know that microwave radiation can penetrate into the brain when you hold the cell phone next to your ear. In fact, it's related to the square of the distance. So, the closer, you get a much, much greater amount of radiation going into the brain.
+That radiation and energy, when it hits biological tissues, there is some concern that it may actually cause cells, over a long-term time period, to transform from normal cells into cancer cells...
+So, what we don't know currently is whether cell phone use is safe, and we don't know that it is unsafe.
+The problem that we have is that about half of the studies have shown that there is no correlation to brain cancer and cell phone use, and half of the studies that have been done have shown a correlation...
+The problem we have is that we know that most environmental agents that cause cancer don't cause cancer after a month or a year or two years of exposure. The best example I can give to illustrate this is that, if one was to start smoking cigarettes when they were 12, we don't expect them to develop lung cancer when they're 22. We expect them to develop lung cancer when they're 42 or 52, three or four decades of exposure.
+We just don't have that long period of study with people that have used cell phones."
+May 31, 2011 - Keith Black, MD
+Dariusz Leszczynski, PhD, DSc, Research Professor at the Radiation and Nuclear Safety Authority (Finland), provided the following testimony on Sep. 14, 2009 during the US Senate Committee on Appropriations Subcommittee on Labor, Health and Human Services, and Education hearing on the "Health Effects of Cell Phone Use," available at appropriations.senate.gov:
+"In case of the electromagnetic radiation emitted by the mobile phones the scientific evidence is contradictory. In each area of investigation (epidemiology, human volunteers, animal studies, laboratory in vitro experiments and biophysical mechanisms) there are both positive and negative studies and by the sheer numbers, the negative studies outweigh the positive ones. This is commonly referred as the 'weight of the evidence' that is pointing out to the no-effect-conclusion because the outcome of the majority of published research studies is negative...
+In my opinion epidemiological evidence is not sufficiently reliable to conclude that human health either is or is not at risk. I think that at this time any statement suggesting that there 'is a health risk' or that there 'is no health risk', based on the epidemiological evidence, is premature and not reliably supported by the available scientific evidence...
+We urgently need well designed comprehensive molecular level human volunteer studies to close these gaps in the knowledge. In the meantime, it is wise to support the use of precautionary measures in every day dealings with mobile phones in order to, whenever reasonably possible, limit the body exposure to mobile phone radiation."
+Sep. 14, 2009 - Dariusz Leszczynski, PhD, DSc
+PRO (yes)
+Jeffrey Shuren, MD, JD, Director of the FDA's Center for Devices and Radiological Health, stated the following in a Nov. 1, 2018 press release, "Statement from Jeffrey Shuren, MD, JD, Director of the FDA’s Center for Devices and Radiological Health on the National Toxicology Program’s Report on Radiofrequency Energy Exposure," available at fda.gov:
+"[T]he current safety limits for cell phone radiofrequency energy exposure remain acceptable for protecting the public health.
+We reviewed the recently finalized research conducted by our colleagues at the National Toxicology Program (NTP), part of the National Institute of Environmental Health Sciences within the National Institutes of Health, on radiofrequency energy exposure. After reviewing the study, we disagree, however, with the conclusions of their final report regarding 'clear evidence' of carcinogenic activity in rodents exposed to radiofrequency energy...
+Based on our ongoing evaluation of this issue, the totality of the available scientific evidence continues to not support adverse health effects in humans caused by exposures at or under the current radiofrequency energy exposure limits. We believe the existing safety limits for cell phones remain acceptable for protecting the public health."
+Nov. 1, 2018 - Jeffrey Shuren, MD, JD
+Larry Junck, MD, Professor of Neurology at the University of Michigan Medical School, stated the following in his May 22, 2016 article "Should Cellphones Have Warning Labels?," available at wsj.com:
+"Consider that brain tumors have not increased in incidence in correlation with cellphone use. If cellphones were an important cause of brain tumors, we would have seen an increase perhaps starting in the 1990s, when cellphones came into widespread use, or starting several years later, if it took several years of cellphone use to cause a brain tumor. While the number of people diagnosed with brain tumors has risen, the increase has been mainly among the elderly, who use cellphones less than others. The increase started before the 1990s, and the numbers have leveled off. The increase is believed to be largely due to our improved detection of brain tumors using CT scans and MRI.
+Also, there is no known scientific mechanism by which mobile phones might cause brain tumors. For carcinogenic chemicals and other environmental causes of cancer, we can generally show that these cause mutations in DNA or changes in other molecules, sufficient to explain the resulting cancers. However, radiofrequency emissions such as those emitted by cellphones generally pass through tissues without causing these effects.
+Numerous epidemiologic studies considered together do not conclusively show an increase in risk of brain tumors associated with cellphone use."
+May 22, 2016 - Larry Junck, MD
+The Federal Communications Commission (FCC) stated the following in its "FAQS-Wireless Phones," available at fcc.gov (accessed Sep. 17, 2013):
+"All wireless phones sold in the United States meet government requirements that limit their RF energy to safe levels...
+There is no scientific evidence that proves that wireless phone usage can lead to cancer or a variety of other problems, including headaches, dizziness or memory loss. However, organizations in the United States and overseas are sponsoring research and investigating claims of possible health effects related to the use of wireless telephones. The Federal government is monitoring the results of this ongoing research, and the FDA is participating in an industry-funded research project to further investigate possible biological effects."
+Sep. 17, 2013 - Federal Communications Commission (FCC)
+The US Food and Drug Administration (FDA) stated the following on its webpage "Health Issues: Do Cell Phones Pose a Health Hazard," available at fda.gov (accessed Sep. 19, 2013):
+"Many people are concerned that cell phone radiation will cause cancer or other serious health hazards. The weight of scientific evidence has not linked cell phones with any health problems.
+Cell phones emit low levels of radiofrequency energy (RF). Over the past 15 years, scientists have conducted hundreds of studies looking at the biological effects of the radiofrequency energy emitted by cell phones. While some researchers have reported biological changes associated with RF energy, these studies have failed to be replicated. The majority of studies published have failed to show an association between exposure to radiofrequency from a cell phone and health problems.
+The low levels of RF cell phones emit while in use are in the microwave frequency range. They also emit RF at substantially reduced time intervals when in the stand-by mode. Whereas high levels of RF can produce health effects (by heating tissue), exposure to low level RF that does not produce heating effects causes no known adverse health effects."
+Sep. 19, 2013 - US Food and Drug Administration (FDA)
+Eric Swanson, PhD, Associate Professor of Nuclear Physics at the University of Pittsburgh, stated the following in his Aug. 3, 2008 article "Stop Freaking Out About Cell Phones," published in the Pittsburgh Post-Gazette:
+"X-rays and UV rays carry enough energy that they can physically rearrange DNA structure (and that ain't good!). Visible light is not dangerous because it does not have enough energy to damage DNA...
+What about cell phones? They typically broadcast between 800 Mhz and 2.1 GHz, which corresponds to an energy that is one million times less than visible light...
+The only effect of such low-energy radiation is a tiny amount of heating of the ear and brain matter - about one one-thousandth as much as the brain heating caused by wearing a hat...
+The nature of light and of our bodies suggest that cell phone radiation cannot cause cancer, no matter how much is present. Similarly, radio waves, TV transmissions, microwaves and the radiation from power lines are all too feeble to cause DNA damage, and, hence, cancer.
+Tell your friends -- feel free to call them!"
+Aug. 3, 2008 - Eric S. Swanson, PhD
+Bernard Leikind, PhD, independent physicist, stated the following in his June 2010 article "Do Cell Phones Cause Cancer?, published in Skeptic Magazine:
+"Fears that cell phones cause cancer are groundless. There is not a shred of evidence that the electromagnetic radiation from your cell phones causes harm, much less that from the wiring in the walls of your house, your hair dryer, electric blanket, or the power distribution wires nearby.
+We know exactly what happens to energy from any of these sources when it meets the atoms and molecules in your body, and that energy cannot cause cancer. There is no known way that this energy can cause any cancer, nor is there any unknown way that this energy can cause any cancer...
+We can all be confident that any epidemiological study that purports to show that cell phone radiation causes any cancer must have at least one mistake."
+June 10, 2010 - Bernard Leikind, PhD
+The International Commission on Non-Ionizing Radiation Protection (ICNIRP) stated the following in its May 2009 "Statement on the Guidelines for Limiting Exposure to Time-Varying Electric, Magnetic, and Electromagnetic Fields (up to 300 GHz)," available at icnirp.de:
+"Since the [1998] publication of the ICNIRP 'Guidelines for limiting exposure to time-varying electric, magnetic, and electromagnetic fields (up to 300 GHz)' many scientific studies of the effects of such fields have been published...
+For [Radio] frequencies above 100 kHz, including frequencies used for modern wireless communications, several major national and international research programs have been completed recently...
+[I]t is the opinion of ICNIRP that the scientific literature published since the 1998 guidelines has provided no evidence of any adverse effects below the basic restrictions and does not necessitate an immediate revision of its guidance on limiting exposure to high frequency electromagnetic fields...
+With regard to non-thermal interactions, it is in principle impossible to disprove their possible existence but the plausibility of the various non-thermal mechanisms that have been proposed is very low. In addition, the recent in vitro and animal genotoxicity and carcinogenicity studies are rather consistent overall and indicate that such effects are unlikely at low levels of exposure...
+Many epidemiological studies initiated recently have focused primarily on possible biological and adverse health conditions that might be associated with the operation of modern telecommunication systems. The Interphone Study, a multi-country coordinated casecontrol study, addresses possible cancer risks due to the relatively high local exposure of the user’s head when using mobile phones. The pooled analysis of all national data is not yet published. However, individual national and multinational results published thus far do not indicate an elevation of the risk of cancers in the head with cell phones within 10 years of first use."
+May 2009 - International Commission on Non-Ionizing Radiation Protection (ICNIRP)
+Linda S. Erdreich, PhD, Senior Managing Scientist at Exponent Health Sciences Center for Epidemiology, Biostatistics, and Computational Biology, provided the following testimony during the Sep. 25, 2008 US House of Representatives Domestic Policy Subcommittee of the Oversight and Government Reform Committee hearing “Tumors and Cell Phone Use: What the Science Says,” available at the United States House Committee on Oversight and Government Reform website:
+"Numerous government agencies and professional organizations have reviewed the science related to potential health effects from using wireless phones. While the specific conclusions vary, all of the reports that assess the evidence using multidisciplinary panels and a comprehensive approach reach similar conclusions; the current scientific evidence does not demonstrate that wireless phones cause cancer or other adverse health effects...
+Based on my review of the epidemiologic studies and consideration of experimental data in animals, I agree with the conclusions of the scientific organizations: The current scientific evidence does not demonstrate that wireless phones cause cancer or other adverse health effects."
+Sep. 25, 2008 - Linda S. Erdreich, PhD
+Robert N. Hoover, MD, ScD, Director of the Epidemiology and Biostatistics Program at the National Cancer Institute, provided the following testimony on Sep. 14, 2009 during the US Senate Committee on Appropriations Subcommittee on Labor, Health and Human Services, and Education hearing on the "Health Effects of Cell Phone Use," available at hhs.gov:
+"As an epidemiologist my statement will focus on studies of risk in human populations. It is also important to note on the biologic side that the radio frequency [RF] radiation from cell phones is billions of times lower than the energy of an x-ray. As such, its effect in the body appears to be insufficient to produce the genetic damage typically associated with developing cancer...
+In descriptive data from the large networks of population-based registries funded by NCI, there has been no meaningful increase in the incidence of brain or other nervous system cancers from 1987 through 2005, a time period when cell phone use increased 10-fold."
+Sep. 14, 2009 - Robert N. Hoover, MD, ScD
+The International Association for the Wireless Telecommunications Industry (CTIA) stated the following in its Sep. 2009 position paper "Use of Mobile Phones & Health Effects," available at ctia.org:
+"When learning the facts about cell phones and health-related effects, the industry relies on the conclusions of impartial groups such as the U.S. Food and Drug Administration (FDA), the World Health Organization (WHO), the American Cancer Society, and the National Institute of Health, which have all concluded that the scientific evidence to date does not demonstrate any adverse health effects associated with the use of wireless phones...
+In 2000, CTIA and the FDA launched a research initiative, referred to as the Cooperative Research and Development Agreement (CRADA), to examine scientific questions about radiofrequency (RF) energy....
+The CRADA research activities focused on (1) mechanistic studies related to genotoxicity, (2) epidemiologic studies and (3) a review of the science through a science symposium organized by the FDA. The results of this work concluded, 'no association was found between exposure to radiofrequency (RF) radiation from cell phones and adverse health effects.'"
+Sep. 2009 - International Association for the Wireless Telecommunications Industry
+CON (no)
+Ronald L. Melnick, PhD, former Senior Toxicologist and Director of Special Programs in the Environmental Toxicology Program at the National Institute of Environmental Health Sciences, stated the following in his Sep. 28, 2016 article “More on How Cellphones Are Linked to Brain Cancer,” available at jhnewsandguide.com:
+"As a senior scientist with the National Toxicology Program [NTP], I was one of 22 experts who participated in that IARC evaluation five years ago. At that time we classified cellphone radiation as possibly carcinogenic to humans based on positive associations that had been observed between cellphone radiation and malignant brain tumors and tumors of Schwann cells that surround the auditory nerve leading from the inner ear to the brain (acoustic neuroma)...
+More recent evidence on health effects of cellphone radiation has strengthened the case for concluding that this radiation poses a cancer risk. The U.S. National Toxicology Program recently reported results from a study in which rats and mice were exposed to cellphone RFR for two years at exposure intensities in the range of cellphone emissions and that did not cause measurable increases in body temperature...
+The findings of highly malignant and quite rare brain tumors and malignant Schwann cell tumors of the heart in the NTP study present a major public health concern because some of these same types of tumors had been reported in epidemiological studies of adult cellphone users. In addition the NTP reported DNA damage was induced in brain cells of exposed animals."
+Sep. 28, 2016 - Ronald L. Melnick, PhD
+Joel M. Moskowitz, PhD, Director and Principal Investigator of the Center for Family and Community Health at the University of California at Berkeley, stated the following in his May 22, 2016 article "Should Cellphones Have Warning Labels?," available at wsj.com:
+"By 2016, we have evidence from more than a dozen epidemiological studies that heavy cellphone users, usually over long periods, 10 years or more, face increased risk of malignant and nonmalignant brain tumors.
+The U.S. incidence of nonmalignant brain tumors has increased in recent years, especially among adolescents and young adults. It’s unlikely the increase was entirely due to improved detection because, according to one review, we would expect to see a plateau, then a reduction in incidence, which has not occurred. The most serious type of brain cancer has increased in parts of the brain near where people hold their phones. Observations that overall increases in brain cancer were not seen after the introduction of cellphones merely serve to illustrate that there can be a considerable lag between exposure to a carcinogen and the cancer's diagnosis."
+May 22, 2016 - Joel M. Moskowitz, PhD
+Lennart Hardell, MD, PhD, Professor of Oncology and Cancer Epidemiology at the University Hospital in Orebro, Sweden, was quoted as stating the following in a Jan. 7, 2013 press release for the Bioinitiative 2012 Report, "BioInitiative 2012 Report Issues New Warnings on Wireless and EMF," available at bioinitiative.org:
+"There is a consistent pattern of increased risk for glioma (a malignant brain tumor) and acoustic neuroma with use of mobile and cordless phones...
+Epidemiological evidence shows that radiofrequency should be classified as a human carcinogen. The existing FCC/IEE and ICNIRP public safety limits and reference levels are not adequate to protect public health."
+Jan. 7, 2013 - Lennart Hardell, MD, PhD
+Devra L. Davis, PhD, Founder and President of the Environmental Health Trust, stated the following in her May 21 , 2013 article "War-Gaming Cell Phone Science Protects Neither Brains Nor Private Parts," avaialble at the Huffington Post:
+"As soon as the World Health Organization International Agency for Research on Cancer expert review declaring cell phone radiation a 'possible human carcinogen' - just like lead, DDT, and jet fuel - was drafted in 2011, the global multi-trillion dollar cell phone industry set up a quarter of a billion dollar defense fund to produce and promote science that would discredit the WHO...
+The WHO published detailed documentation for its year-long 2011 expert review last month. Extending this work, Santosh Kesari, chief of neuro-oncology at the University of California, San Diego, two of Canada's top physician-epidemiologists, Antony B. Miller and Colin Soskolne, and I have just published a technical report concluding that more recent studies indicate that cell phone radiation constitutes a 'probable human carcinogen'...
+[B]rain cancer is hardly the only health matter of concern when it comes to cell phones and other devices. While important studies are carried out, we need to protect children from wireless routers, baby monitors, and numerous other sources of microwave radiation that can affect the brains and bodies of infants and toddlers, and we need to protect young men and women who wish to become parents of healthy children."
+May 21, 2013 - Devra L. Davis, PhD, MPH
+Ronald B. Herberman, MD, Director of the University of Pittsburgh Cancer Institute, provided the following testimony during the Sep. 25, 2008 US House of Representatives Domestic Policy Subcommittee of the Oversight and Government Reform Committee hearing “Tumors and Cell Phone use: What the Science Says,” available at the United States House Committee on Oversight and Government Reform website:
+"In summary, my review of the literature suggests that most studies claiming that there is no link between cell phones and brain tumors are outdated, had methodological concerns, and did not include sufficient numbers of long-term cell phone users to find an effect, since most of these negative studies primarily examined people with only a few years of phone use and did not inquire about cordless phone use. In addition, many studies defined regular cell phone use as 'once a week'...
+[S]ome recent studies in Nordic countries, where phones have been used longest, find that persons who have used cell phones for at least a decade have 30% to more than 200% more brain tumors than do those without such use, and only on the side of the head where the user holds his or her phone. To put these numbers in context, this is at least as high an increase as the added risk of breast cancer that women face from long-term use of hormone replacement therapy. Based on these findings and the increased absorption into the brains of the young, the French Ministry of Health advised that children should be discouraged from using cell phones, a position also taken by British, German and other authorities...
+RF radiation emitted by cell phones should be considered a potential human health risk...
+From my careful review of the evidence, I cannot tell you conclusively that phones cause cancer or other diseases. But, I can tell you that there are published peer reviewed studies that have led me to suspect that long term cell phone use may cause cancer. It should be noted in this regard that worldwide, there are three billion regular cell phone users, including a rapidly growing number of children. If we wait until the human evidence is irrefutable and then act, an extraordinarily large number of people will have been exposed to a technology that has never really been shown to be safe."
+Sep. 25, 2008 - Ronald B. Herberman, MD
+The International EMF Collaborative, an organization of five cell phone radiation research research groups, stated the following in the introduction to its Aug. 25, 2009 report "Cellphone and Brain Tumors - 15 Reasons for Concern," authored by L. Lloyd Morgan et al., available at the Radiation Research Trust website:
+"Telecom-funded studies have been reporting highly questionable results in comparison with independent studies. Studies independent of industry consistently show there is a significant risk of brain tumors from cellphone use.
+The existing ICNIRP [International Commission on Non-Ionizing Radiation] and FCC [Federal Communications Commission] exposure limits are based on a false premise that only thermal effects cause harm. In this regard the European Parliament has voted overwhelmingly for a review of the existing exposure limits.
+The risk to children is far greater than to adults, and though some government recommendations or guidelines have been published, no mandatory actions have been taken.
+Soon, after years of delays, for the first time, partial results from all 13 countries of the Interphone study will be published...
+The Telecom industry 'media statement' (AKA press release) and similar messages will do their best to cast doubt about the risk of brain tumors from wireless phone use. But the facts remain. We encourage journalists to report on the independent science, to make the dangers of cellphone use known to the public, and to thoroughly investigate who was responsible for the Interphone design protocol."
+Aug. 25, 2009 - International EMF Collaborative
+The International Commission for Electromagnetic Safety, a non-profit public health research organization, stated the following in its Sep. 15, 2009 "Puerto Alegre Resolution," signed by 35 international scientists, available at icems.eu:
+"[T]here has been an unprecedented explosion in the availability and use of non-ionizing electromagnetic fields for electrical and wireless communications technologies (mobile and cordless phones, WiFi and WIMAX networks, RFID, etc,)...
+We are concerned about the body of evidence that indicates that exposure to electromagnetic fields interferes with basic human biology and may increase the risk of cancer and other chronic diseases... Recent research indicates that electromagnetic fields could cause detrimental health effects even at very low levels of exposure...
+We are deeply concerned that current uses of non-ionizing radiation for mobile phones, wireless computers and other technologies place at risk the health of children and teens, pregnant women, seniors and others who are most vulnerable due to age or disability."
+Sep. 15, 2009 - International Commission on Non-Ionizing Radiation Protection (ICNIRP)
+David O. Carpenter, MD, Director of the Institute for Health and the Environment at the University at Albany, stated the following in his July 2007 article "Key Scientific Evidence and Public Health Policy Recommendations," published as part of the "Bioinitiative Report," available at bioinitiative.org:
+"The health endpoints that have been reported to be associated with ELF and/or RF include childhood leukemia, adult brain tumors, childhood brain tumors, genotoxic effects (DNA damage and micronucleation), neurological effects and neurodegenerative disease, immune system disregulation, allergic and inflammatory responses, breast cancer in men and women, miscarriage and some cardiovascular effects...
+Given the scientific evidence at hand, the rapid deployment of new wireless technologies that chronically expose people to pulsed RF at levels reported to cause bioeffects, which in turn, could reasonably be presumed to lead to serious health impacts, is a public health concern. A public health action level that implements preventative action now is warranted, based on the collective evidence...
+[I]t is not unreasonable to question the safety of RF at any level."
+July 2007 - David O. Carpenter, MD
+George Carlo, PhD, JD, former Chairman of the CTIA funded Wireless Technology Research Program (WTR), stated the following in his Oct. 7, 1999 letter "Dr. George Carlo's Letter to AT&T Chairman & CEO," available at emf-helath.com:
+"Since 1993, I have headed the WTR [wireless technology research] surveillance and research program funded by the wireless industry. The goal of WTR has always been to identify and solve any problems concerning consumers' health that could arise from the use of these phones. This past February, at the annual convention of the CTIA, I met with the full board of that organization to brief them on some surprising findings from our work...
+The rate of death from brain cancer among handheld phone users was higher than the rate of brain cancer death among those who used non-handheld phones that were away from their head;
+The risk of acoustic neuroma, a benign tumour of the auditory nerve that is well in range of the radiation coming from a phone's antenna, was fifty percent higher in people who reported using cell phones for six years or more...
+Today, I sit here extremely frustrated and concerned that appropriate steps have not been taken by the wireless industry to protect consumers...
+Alarmingly, indications are that some segments of the industry have ignored the scientific findings suggesting potential health effects, have repeatedly and falsely claimed that wireless phones are safe for all consumers including children, and have created an illusion of responsible follow up by calling for and supporting more research."
+Oct. 7, 1999 - George Carlo, PhD, JD
+People who view this page may also like:
+20 Highest and Lowest Radiation Cell Phones
+Are Social Networking Sites Good for Our Society?
+Can Alternative Energy Effectively Replace Fossil Fuels?
+Cell Phones Homepage
+History of Cell Phone Radiation
+Top Pro & Con Arguments
+Top Pro & Con Quotes
+RECOMMENDED to you...
+1
+Did You Know?
+2
+Readers' Comments
+3
+Video
+4
+Highest and Lowest Radiation Cell Phones
+5
+INTERPHONE Study Concludes Cell Phones Might or Might Not Cause Cancer
++ DIG DEEPER...
+Source Biographies
+Footnotes & Sources
+CITE THIS PAGE
+Who is the author?
+SHARE
+HOME
+CITE THIS PAGE
+REPRINTING POLICY
+PRIVACY POLICY
+DISCLAIMER
+READER FAVORITES
+State Laws
+Debate Topics
+Critical Thinking Quotes
+Teaching Controversial Issues
+History Of...
+TRANSLATE
+into 100+ Languages and Dialects
+LET'S GET SOCIAL!
+Tweets by @procon_org
+BECOME A MEMBER
+ProCon.org is a 501(c)(3) nonprofit
+public charity supported by your donations.
+233 Wilshire Blvd., Suite 200
+Santa Monica, CA 90401
+310-451-9596
+[email protected]
+© 2019 ProCon.org
+All rights reserved

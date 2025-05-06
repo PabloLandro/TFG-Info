@@ -1,0 +1,208 @@
+Is processed meat bad for me? | Examine.com
+Sign up
+Login
+About us
+Subscribe
+Supplements
+Testosterone
+Bone and joint health
+Fat loss
+Muscle building
+Sleep
+Gut health
+Men's health
+Women's health
+See All
+Nutrition
+Guides
+Subscribe
+×
+Close
+Examine.com
+Nutrition
+Is processed meat bad for me?
+Is processed meat bad for me?
+Processed meat products are associated with cancer and mortality in survey research, but to a small degree. They are likely unhealthy, technically speaking, but the increase in mortality/cancer is overblown.
+Our evidence-based analysis on creatine features 26 unique references to scientific papers.
+×
+This page is regularly updated, to include the most recently available clinical trial evidence.
+Each member of our research team is required to have no conflicts of interest, including with supplement manufacturers, food companies, and industry funders. The team includes nutrition researchers, registered dietitians, physicians, and pharmacists. We have a strict editorial process.
+This page features 26 references. All factual claims are followed by specifically-applicable references. Click here to see the full set of references for this page.
+Written by Kamal Patel
+Published: May 30, 2013
+Last Updated: Apr 27, 2018
+Tags:
+processed meat
+cancer
+meat
+nitrates
+Processed meat, in the following sections, tends to refer to pink and cured meat products that use the preservative sodium nitrate. This extends to hams, hot dogs, bacon products, and various pre-packaged deli meats
+Although there are similarities between red meat products and processed meats, the minor differences include cooking possibly making carcinogens and processed meat having a higher nitrate content
+Survey Research
+In the following sections, hazard ratios (HRs) and confidence intervals (CIs) are used. A hazard ratio is a simple way of demonstrating the increased risk (usually by comparing one group against another defined group, such as high meat intake against no meat intake) and while 1.00 means no significant difference, 2.00 is a doubling and 4.00 a quadrupling while 0.50 and 0.25 are a half and quarter; negative values cannot occur, and a hazard ratio of 2-4 as a minimum to show a magnitudal difference is usually desirable (hazard ratios between 1-2 are quite small in magnitude for survey research)
+Confidence intervals (almost always set at 95%) are a mathematical way of saying "we are 95% sure that the true value lies in this range". If the range at all crosses the 1.00 point, then the results are not statistically significant regardless of how large the range may be (due to being unable to rule out no change)
+Processed Meat and Cancer Occurrence
+Processed meat has been associated with an increased risk of cancer (generally referring to all) with hazard ratios of 1.11-1.12 (95% CI of 1.04-1.19 and 1.06-1.19 divided by gender) for the most recent evidence comparing the highest and lowest quintiles against each other.[1] Smaller sample sizes may have hazard ratios in the 2 range (2.14-2.75).[2] Other cancers that have been associated with increased cancer risk include breast (fixed relative risk for every additional 30g was 1.03 with a 95% CI of 1.00-1.06[3]), pancreatic (HR of 1.19 and 95% CI of 1.04-1.36[4]) and a failure to find a relationship with prostate cancer (1.05 and a 95% CI of 0.99-1.12).[5]
+In particular, processed meat appears to be associated with increased risk for colorectal cancers, with higher risk than red meat (poultry not associated and fish is protective)[6][7][8] with one meta-analysis of epidemiological research[9] concluding an increased risk of 1.18 (95% CI of 1.10−1.28) for every 50g increase in processed meat consumption; the increase was similar to 100g increases in red meat.
+Processed meat intake does appear to be associated with an increased risk of cancer (colorectal cancer is most well known to be associated with processed meat, but seems to be just as much an increased risk as cancer overall). Despite the statistical significance, the effect size is very small
+Processed Meat and All-cause Mortality
+Consumption of processed meat has been linked to an increase rate of all cause mortality, with the most recent data (448,568 persons, of which 9,861 died from cancer during the study period) noted that processed meat remained associated with an increased risk of all cause mortality after controls were in place, with a calibrated hazard ratio (HR) of 1.18 (95% CI of 1.11-1.25) when comparing an intake of above 160g daily against the reference intake (10-19.9g).[10]
+Both dietary deprivation of meat and excessive levels of meat intake appear to be associated with increased risk for death, but the HR was quite low.
+Comparisons to other Meats
+Although the most recent (and largest) data has failed to find any negative link between red meat and mortality,[10] a result which has been noted elsewhere,[11] some studies do indeed find an association;[12][13][14] all studies seem to use similar controls for the most predictable confounds (caloric intake, obesity, social status, smoking status, etc.) with the only major difference being locale (European data having no association[10] and American data showing a link[13]).
+For poultry products, there does not appear to be an increased risk of death (a slight protective effect that becomes statistically insignificant after weighting).[10]
+Processed meat and red meat both appear to be associated with increased mortality and death, with processed meat slightly more reliably associated. Both meat categories still have fairly small magnitudes (never surpassing a doubling of risk), and both poultry and fish are not associated with these adverse effects
+Sodium Nitrate
+Nitrate Sources
+Sodium nitrate is a preservative commonly associated with pink or cured meats which contains dietary nitrate, a molecule that has cardioprotective properties but may also convert into a class of molecules known as nitrosamines. In vitro, nitrosamines are known to be carcinogenic. The nitrate found in processed meat products is the same as that from vegetable products, although their biological effects seem to differ.
+The nitrates themselves do not differ between sources, and sodium nitrate from processed meat is the same 'nitrate' that is found in vegetables and drinking water
+Nitrosamine Formation
+Nitrates can 'nitrosylate' other compounds by donating a nitroso group (donating nitric oxide to a molecule to change its structure),[15] and nitrosylating amines (amino acids) will create nitrosamines. 'Nitrosamine' is a categorical term rather than a single molecule, and while there are select nitrosamines that are carcinogenic (cancer causing)[16] some may be inert.
+Other products of nitrosylation include S-nitrosothiols and some minerals such as iron from heme (Nitrosyl iron, or FeNO),[17][18] heme being the ring shaped structure in hemoglobin (red blood cells carrier of oxygen) that holds iron in place.
+Nitrate can nitrosylate other compounds by binding to them, and when this occurs to amino acids then nitrosamines are formed
+Nitrosyl compounds have been detected in the feces of otherwise healthy volunteers following consumption of red or processed meat products, with their production occurring in a fairly dose dependent manner;[19][20] furthermore, a nitroso compound specific DNA adduct (thought to be a reliable biomarker of causing cancer) has been detected in the colon of humans consuming red meat.[21]
+Following consumption of processed and red meats, there does appear to be production of nitroso compounds in humans. At least one study has confirmed DNA damage in the colon from this
+Heme as Catalyst
+Heme is an issue that applies to both processed meats and red meats, but not poultry nor fish products (at least to a concernable degree).
+Role of Heme
+An observation that has been noted is that white meats (poultry) do not form nitroso compounds following ingestion to the degree that red and processed meats do[22][23] and there are studies that despite finding associations with processed meat and cancer, fail to find any association with poultry.[1]
+Currently, it is thought that the higher presence of heme in red meat products relative to white[24][25] is an explanation. It appears that nitric oxide (from sodium nitrate) has affinity for heme and production of nitrosylheme (some sources refer to it as nitrosyl iron) can act as a catalyst for further nitroso compound formation;[26] this is a function not attributed to isolated iron, but to heme containing iron.[24] This product, when detected in the feces, is a predictor of total nitroso formation[17] alongside transit time (longer time to defecation being associated with higher production) and reduced fecal weight (more fecal weight being associated with less production).[20]
+Overall, longer exposure times to higher nitroso concentrations appear to dose-dependently increase the risk of forming DNA adducts (a biomarker of DNA damage and thus cancer risk). Without heme, the production rate appears to be quite slow and thus risk is minimized; even at high levels of intake, the epidemiological research does again suggest that while the risk is present it is not dire.
+A current theory is that iron from heme (but not free iron from other sources) appears to itself be nitrosylated and then augment production of other nitroso compounds. Thus when nitrates and heme are coingested, production of nitroso compounds is accelerated. It appears to be dose-dependent
+It is thought that the presence of heme in a meat product would act as an almost required catalyst for formation of nitroso compounds (implicated both red meat and processed meat), and in this situation only a higher intake of nitrates would lead to dose-dependent increases in nitroso compound formation.
+This current theory is in line with the epidemiological evidence that notes that white meat is not associated with any cancer or cardiovascular mortality, that red and processed meat are both implicated (but processed to a slightly higher degree), and that nitrate intake from vegetables (without heme) are very unreliably correlated with harm.
+This theory is able to explain the inability of poultry and vegetables to be associated with an increased cancer risk, despite the latter having nitrate content and the former being a meat product
+Summation
+Processed meats, through a combination of nitrates and heme (neither one alone appearing to be too much of a problem) appear to dose-dependently form carcinogenic nitrosamines. This is a phenomena very well researched in vitro (outside of living systems) and in animal models, with at least one human study noting that DNA damage has occurred in the colon following consumption of processed meat products. Due to the current state of research (survey research showing a connection, but no interventions existing due to ethical complications of possibly giving a human cancer intentionally) and the biological plausibility, it is reasonable to assume that processed meats do cause cancer.
+However, in the survey research the hazard ratios and overall risk is fairly small. While this increased risk does exist (in a dose-dependent manner), due to its size it is wholly possible that dietary or supplemental interventions to reduce cancer risk could eliminate the risk. The possibility of one unforeseen or additional variable negating the risk is why low hazard ratios tend not to be used, despite technically being an increased risk
+Share
+Link
+Print version
+Feedback:
+Related Nutrition Articles
+Are nitrates from beetroot and processed meats the same thing?
+Can creatine cause cancer?
+Scientists found that red meat causes cancer ... or did they?
+Does red meat cause cancer?
+Do muscle building supplements cause testicular cancer?
+How can I make red meat healthier?
+Do MCTs or CLA help with appetite reduction?
+Can eating too much protein be bad for you?
+What beneficial compounds are primarily found in animal products?
+5 supplements (and foods) for a stronger heart
+References
+^ a b Sinha R, et al. Meat intake and mortality: a prospective study of over half a million people . Arch Intern Med. (2009)
+^ De Stefani E, et al. Processed meat consumption and risk of cancer: a multisite case-control study in Uruguay . Br J Cancer. (2012)
+^ Alexander DD, et al. A review and meta-analysis of red and processed meat consumption and breast cancer . Nutr Res Rev. (2010)
+^ Larsson SC, Wolk A. Red and processed meat consumption and risk of pancreatic cancer: meta-analysis of prospective studies . Br J Cancer. (2012)
+^ Alexander DD, et al. A review and meta-analysis of prospective studies of red and processed meat intake and prostate cancer . Nutr J. (2010)
+^ Norat T, et al. Meat, fish, and colorectal cancer risk: the European Prospective Investigation into cancer and nutrition . J Natl Cancer Inst. (2005)
+^ Cross AJ, et al. A prospective study of red and processed meat intake in relation to cancer risk . PLoS Med. (2007)
+^ Larsson SC, Wolk A. Meat consumption and risk of colorectal cancer: a meta-analysis of prospective studies . Int J Cancer. (2006)
+^ Chan DS, et al. Red and processed meat and colorectal cancer incidence: meta-analysis of prospective studies . PLoS One. (2011)
+^ a b c d Meat consumption and mortality - results from the European Prospective Investigation into Cancer and Nutrition
+^ Whiteman D, et al. Dietary questions as determinants of mortality: the OXCHECK experience . Public Health Nutr. (1999)
+^ Anatomy of health effects of Mediterranean diet: Greek EPIC prospective cohort study
+^ a b Pan A, et al. Red meat consumption and mortality: results from 2 prospective cohort studies . Arch Intern Med. (2012)
+^ Kahn HA, et al. Association between reported diet and all-cause mortality. Twenty-one-year follow-up on 27,530 adult Seventh-Day Adventists . Am J Epidemiol. (1984)
+^ Chemistry and Biology of N-Nitroso Compounds
+^ Povey AC, et al. DNA alkylation and repair in the large bowel: animal and human studies . J Nutr. (2002)
+^ a b Kuhnle GG, et al. Diet-induced endogenous formation of nitroso compounds in the GI tract . Free Radic Biol Med. (2007)
+^ Kuhnle GG, Bingham SA. Dietary meat, endogenous nitrosation and colorectal cancer . Biochem Soc Trans. (2007)
+^ Joosen AM, et al. Effect of processed and red meat on endogenous nitrosation and DNA damage . Carcinogenesis. (2009)
+^ a b Hughes R, et al. Dose-dependent effect of dietary meat on endogenous colonic N-nitrosation . Carcinogenesis. (2001)
+^ Lewin MH, et al. Red meat enhances the colonic formation of the DNA adduct O6-carboxymethyl guanine: implications for colorectal cancer risk . Cancer Res. (2006)
+^ Cross AJ, et al. Developing a heme iron database for meats according to meat type, cooking method and doneness level . Food Nutr Sci. (2012)
+^ Bingham SA, Hughes R, Cross AJ. Effect of white versus red meat on endogenous N-nitrosation in the human colon and further evidence of a dose response . J Nutr. (2002)
+^ a b Cross AJ, Pollock JR, Bingham SA. Haem, not protein or inorganic iron, is responsible for endogenous intestinal N-nitrosation arising from red meat . Cancer Res. (2003)
+^ Schwartz S, Ellefson M. Quantitative fecal recovery of ingested hemoglobin-heme in blood: comparisons by HemoQuant assay with ingested meat and fish . Gastroenterology. (1985)
+^ Reactions of nitrous acid and nitric oxide with porphyrins and haems. Nitrosylhaems as nitrosating agents
+Show all 26 references
+What did you like?
+×
+This article was great Please tell us how it was great
+This article was helpful Please tell us what you found helpful Is there anything else you wish we had covered?
+Change
+Please tell us how it was great
+Your email
+Your name
+Sign me up for Examine.com's newsletter
+Done
+Your privacy is important to us.
+Change
+Please tell us how it was helpful
+Your email
+Your name
+Sign me up for Examine.com's newsletter
+Done
+Your privacy is important to us.
+Change
+Please tell us what you wish we had cevered?
+Your email
+Your name
+Sign me up for Examine.com's newsletter
+Done
+Your privacy is important to us.
+What did you not like?
+×
+This article has inaccurate information Please tell us what was incorrect or inaccurate
+This article was not helpful Please tell us what you were looking for
+Change
+Please tell us what was incorrect or inacurate
+Your email
+Your name
+Sign me up for Examine.com's newsletter
+Done
+Your privacy is important to us.
+Change
+Please tell us what you were looking for
+Your email
+Your name
+Sign me up for Examine.com's newsletter
+Done
+Your privacy is important to us.
+×
+Follow this page
+You are now following this page.
+Do you wish to unfollow this page?
+Unfollow
+Link
+×
+Embed this URL
+Copy
+Cite this page
+"Is processed meat bad for me?," Examine.com, published on 30 May 2013, last updated on 27 April 2018, https://examine.com/nutrition/is-processed-meat-bad-for-me/
+×
+This page is regularly updated, to include the most recently available clinical trial evidence.
+Each member of our research team is required to have no conflicts of interest, including with supplement manufacturers, food companies, and industry funders. The team includes nutrition researchers, registered dietitians, physicians, and pharmacists. We have a strict editorial process.
+This page features 26 references. All factual claims are followed by specifically-applicable references. Click here to see the full set of references for this page.
+Popular Supplements
+Ashwagandha
+Berberine
+Bone and joint health
+Cognitive Function and Brain Health
+Creatine
+Fish Oil
+Maca
+Melatonin
+Mood
+Testosterone Boosters
+Turmeric
+Vitamin D
+Whey Protein
+TOP NUTRITION ARTICLES
+Detoxes: an undefined scam
+Common nutrition myths
+How can you increase testosterone naturally?
+How much protein do you need?
+4 science-based superfoods
+10 tips for better sleep
+Caffeine consumption: how much is safe?
+Are energy drinks bad for you?
+Are eggs healthy?
+Is diet soda bad for you?
+Never miss an update!
+Subscribe
+Your e-mail is safe with us. We don’t share personal data.
+Tweet
+© 2011 — 2019 Examine.com Inc | Privacy | Terms and Conditions | About Us | Contact Examine.com

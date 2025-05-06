@@ -1,0 +1,38 @@
+Amazing Health Benefits Of Ginger - HealthPrep
+Fitness & Nutrition
+Living Healthy
+A-Z Conditions
+Search
+HealthPrep
+Fitness & Nutrition
+Living Healthy
+A-Z Conditions
+Amazing Health Benefits Of Ginger
+By
+HealthPrep Staff
+Many cultures have used ginger as a cooking ingredient for centuries. Ginger is a rhizomatous plant that originated from India and quickly spread around the globe and into our kitchens. If you don’t have ginger on your spice rack, you’re definitely missing out on something spectacular. The small golden herb has a fine taste and aroma that can transform a basic dish into an exquisite meal. This ancient spice also has numerous medicinal properties and is highly recommended by medical practitioners. Added to the flavor it brings, these health benefits make it a must-have for everyone.
+Alleviate Nausea
+Dreamstime
+Nausea is an ill feeling accompanied by an involuntary urge to vomit. Ginger has been used for many years to remedy seasickness, and evidence supports its use as a suitable remedy for nausea due to many causes. It can also alleviate nausea after surgery and in cancer patients undergoing chemotherapy. Certain medications are also known to trigger vomiting. Nausea is caused by an increase in serotonin in the vagus nerve pathway. Based on tissue and cellular research, ginger blocks excess serotonin and thus preventing the vagus nerve activation in the stomach and gut. In a study that monitored a total of 1,278 pregnant women, results showed 1.1-1.5 grams of ginger greatly alleviates nausea. If used for at least four days in a row the effects may increase by up to five times. One gram taken before medication is enough to mitigate both mild and severe nausea after two weeks.
+Reveal the next health benefit of ginger now.
+Keep Reading ►
+{{title}}
+{{/items}}
+Get more health information like this
+in your inbox
+Subscribe to our mailing list and get interesting health and lifestyle updates to your email inbox.
+we respect your privacy and take protecting it seriously
+© 2016 HealthPrep.com
+About Us
+Content Disclaimer
+Privacy Policy
+Advertising
+Unsubscribe
+* HealthPrep does not provide medical advice, diagnosis or treatment. Certain content that appears on this site comes from Amazon Services LLC. This content is provided "as is" and is subject to change or removal at any time.
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+Edit with Live CSS
+EN
+FR
+ES
+DE
+IT

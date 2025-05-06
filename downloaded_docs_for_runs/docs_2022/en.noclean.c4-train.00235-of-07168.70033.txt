@@ -1,0 +1,240 @@
+Ginger-Mechanism of action in chemotherapy-induced nausea and vomiting: A review. - PDF Download Free
+MENU
+Home
+Add Document
+Sign In
+Create An Account
+PDF Reader
+Full Text
+This article was downloaded by: [Rutgers University] On: 26 April 2015, At: 08:27 Publisher: Taylor & Francis Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Critical Reviews in Food Science and Nutrition Publication details, including instructions for authors and subscription information: http://www.tandfonline.com/loi/bfsn20
+Ginger—Mechanism of Action in Chemotherapy-induced Nausea and Vomiting: A Review ab
+b
+c
+d
+b
+Wolfgang Marx , Karin Ried , Alexandra L McCarthy , Luis Vitetta , Avni Sali , Daniel e
+McKavanagh & Elisabeth Isenring
+afg
+a
+Centre of Dietetics Research, University of Queensland, St Lucia, QLD, Australia.
+b
+National Institute of Integrative Medicine, Melbourne, VIC, Australia.
+c
+Division of Cancer Services, Princess Alexandra Hospital and Institute of Biomedical Innovation, Queensland University of Technology, Brisbane, QLD, Australia d
+Centre for Integrative Clinical and Molecular Medicine, School of Medicine, Princess Alexandra Hospital, QLD, Australia.
+Click for updates
+e
+Oncology & Haematology Unit, Princess Alexandra Hospital, QLD, Australia.
+f
+Department of Nutrition & Dietetics, Princess Alexandra Hospital, QLD, Australia.
+g
+Health Sciences & Medicine, Bond University, Gold Coast, QLD, Australia. Accepted author version posted online: 07 Apr 2015.
+To cite this article: Wolfgang Marx, Karin Ried, Alexandra L McCarthy, Luis Vitetta, Avni Sali, Daniel McKavanagh & Elisabeth Isenring (2015): Ginger—Mechanism of Action in Chemotherapy-induced Nausea and Vomiting: A Review, Critical Reviews in Food Science and Nutrition, DOI: 10.1080/10408398.2013.865590 To link to this article: http://dx.doi.org/10.1080/10408398.2013.865590
+Disclaimer: This is a version of an unedited manuscript that has been accepted for publication. As a service to authors and researchers we are providing this version of the accepted manuscript (AM). Copyediting, typesetting, and review of the resulting proof will be undertaken on this manuscript before final publication of the Version of Record (VoR). During production and pre-press, errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal relate to this version also.
+PLEASE SCROLL DOWN FOR ARTICLE Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon and should be independently verified with primary sources of information. Taylor and Francis shall not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of the Content. This article may be used for research, teaching, and private study purposes. Any substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+form to anyone is expressly forbidden. Terms & Conditions of access and use can be found at http:// www.tandfonline.com/page/terms-and-conditions
+ACCEPTED MANUSCRIPT Ginger—Mechanism of Action in Chemotherapy-Induced Nausea and Vomiting: A Review Wolfgang Marx1,2, Karin Ried2, Alexandra L McCarthy3, Luis Vitetta4, Avni Sali2, Daniel McKavanagh5, Liz Isenring1,6,7 1. Centre of Dietetics Research, University of Queensland, St Lucia, QLD, Australia. 2. National Institute of Integrative Medicine, Melbourne, VIC, Australia.
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+3. Division of Cancer Services, Princess Alexandra Hospital and Institute of Biomedical Innovation, Queensland University of Technology, Brisbane, QLD, Australia 4. Centre for Integrative Clinical and Molecular Medicine, School of Medicine, Princess Alexandra Hospital, QLD, Australia. 5. Oncology & Haematology Unit, Princess Alexandra Hospital, QLD, Australia. 6. Department of Nutrition & Dietetics, Princess Alexandra Hospital, QLD, Australia. 7. Health Sciences & Medicine, Bond University, Gold Coast, QLD, Australia. Corresponding author: Mr Wolfgang Marx 1.
+Centre for Dietetics Research, School of Human Movement Studies, University of
+Queensland, Brisbane, Queensland, Australia, 4067. Email: [email protected] Abbreviations CINV - Chemotherapy-Induced Nausea and Vomiting GIT – Gastrointestinal Tract
+1
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT 5-HT3 - 5-Hydroxytryptamine NK-1 - Neurokinin 1 NF-κB - nuclear factor kappa-B
+Abstract
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+Despite advances in anti-emetic therapy, chemotherapy-induced nausea and vomiting (CINV) still poses a significant burden to patients undergoing chemotherapy. Nausea, in particular, is still highly prevalent in this population. Ginger has been traditionally used as a folk remedy for gastrointestinal complaints and has been suggested as a viable adjuvant treatment for nausea and vomiting in the cancer context. Substantial research has revealed ginger to possess properties that could exert multiple beneficial effects on chemotherapy patients who experience nausea and vomiting. Bioactive compounds within the rhizome of ginger, particularly the gingerol and shogaol class of compounds, interact with several pathways that are directly implicated in CINV in addition to pathways that could play secondary roles by exacerbating symptoms. These properties include 5-HT3, substance P and acetylcholine receptor antagonism; anti-inflammatory properties; and modulation of cellular redox signalling, vasopressin release, gastrointestinal motility, and gastric emptying rate. This review outlines these proposed mechanisms by discussing the results of clinical, in vitro and animal studies both within the chemotherapy context and in other relevant fields. The evidence presented in this review indicates that ginger possesses multiple properties that could be beneficial in reducing chemotherapy-induced nausea and vomiting.
+2
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+Keywords: ginger, nausea, chemotherapy, CINV, vomiting
+3
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Introduction Chemotherapy-induced nausea and vomiting (CINV) is a significant burden for patients undergoing anticancer chemotherapy. Nausea and vomiting are rated as two of the most distressing symptoms by chemotherapy patients and have been shown to significantly and adversely affect quality of life and physical function during treatment.(Carelle et al., 2002; Sun et al., 2005) Ratings of quality of life can be reduced by as much as 20% in patients who
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+experience CINV compared to symptom-free patients.(Lindley et al., 1992) Additionally, CINV is associated with malnutrition and further physical complications such as acid-base imbalance and electrolyte disturbances.(Davidson et al., 2012; Lindley and Hirsch, 1992; Osoba, 2005) All of these issues affect the patients’ ability to adhere to, or complete chemotherapy, resulting in a potential concomitant impact on survival outcomes. Despite significant improvement in the control of CINV through the use of modern anti-emetics such as 5-HT3 antagonists, corticosteroids and NK1 antagonists, nausea and vomiting still affects up to 60% and 37% of patients undergoing chemotherapy, respectively.(Bloechl-Daum et al., 2006) Ginger has traditionally been used for centuries as a treatment for gastrointestinal complaints and more recently has been investigated for its use in treating motion sickness, post-operative nausea and vomiting, and morning sickness in clinical studies.(Ernst and Pittler, 2000) A recent systematic review of randomised-controlled trials that investigated the effect of ginger as an adjuvant treatment for CINV found that the literature was equivocal with significant limitations.(Marx et al., 2013)
+4
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT An array of compounds are bioactive within the rhizome of ginger, such as shogaols, gingerols, zingerone, and paradols.(Baliga et al., 2011) These compounds are typically categorised into two classes: volatile oils and non-volatile pungent compounds. Both of these classes of compounds are contained within the oleoresin, the collective term for the oil and resin fraction of the rhizome. While the concentration of these compounds varies greatly depending on the country of origin, storage, and preparation of the ginger product, the gingerol and shogaol compounds are
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+likely to be the primary components responsible for ginger’s pharmacological effects. These compounds are believed to interact with multiple areas implicated in the development of CINV. Specific properties of these compounds that may be relevant to CINV include 5-HT3, substance P and acetylcholine receptor antagonism; anti-inflammatory properties; and modulation of cellular redox signalling, vasopressin release, gastrointestinal motility, and gastric emptying rate.(Abdel-Aziz et al., 2006; Prakash and Srinivasan, 2010; Wu et al., 2008; Zick et al., 2011) Whereas recent reviews have focused upon the clinical efficacy of ginger, this paper will focus on the potential mechanisms by which ginger could exert anti-CINV effects.
+Physiology of CINV The physiology of CINV is a complex neural interaction involving central and peripheral stimuli and reactions. While multiple pathways are involved in CINV, this discussion will focus on the primary pathway of CINV (i.e 5-HT3 and NK1 antagonism) and pathways that could potentially be modulated by ginger (Figure 1). The site of the initial trigger of CINV is thought to be within the gastrointestinal tract. Chemotherapy agents interact with enterochromaffin cells, possibly via oxidative stress, resulting in a release of the neurotransmitters serotonin and substance P.(Torii et
+5
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT al., 1994a) The released neurotransmitters then interact with receptors located upon the vagus nerve, which subsequently transmits afferent signals to the chemotherapy receptor zone within the brain via the nucleus tractus solitarius. It is thought that modern 5-HT3 antagonist medications (e.g. ondansetron) interact with the 5-HT3 receptors involved in this process, which then mitigates the degree of afferent signalling. Another neurotransmitter, substance P, has also been implicated in the generation of CINV by binding to NK1 receptors located centrally within
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+the brain. Stimuli transmitted using these two neuropeptides, as well as stimuli from other regions of the brain, are processed by the chemoreceptor trigger zone and vomiting centre, which then coordinates the relevant musculature to induce a nausea and/or vomiting response.(Rudd, 2005) While not directly involved in the generation of CINV, other secondary pathways could exacerbate the experience of nausea and vomiting in this setting. These include the modulation of gastric emptying, increased inflammation, and vestibular and vasopressin-related mechanisms.(Cawley and Benson, 2005; Rudd, 2005; Sharma and Gupta, 1998) Chemotherapy agents such as cisplatin and methotrexate are known to delay gastric emptying, potentially resulting in gastrointestinal distress due to antral distension.(Sharma and Gupta, 1998) Research related to chemotherapy-induced mucositis has demonstrated that proinflammatory signalling pathways, particularly nuclear factor kappa-B (NF-κB), are increased within the gastrointestinal mucosa as a result of chemotherapy-induced cell injury. It has been suggested that this increase in gut inflammation might contribute to the development of CINV, particularly during the delayed phase (≥24 hours after chemotherapy)(Rudd, 2005) which is
+6
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT supported by the increase in inflammatory cytokines largely occurring between 2-10 days postchemotherapy.(Cawley and Benson, 2005) The vestibular system, which is located within the inner ear, is involved in providing a sense of balance. While the vestibular system might not be a primary pathway in the development of CINV, vestibular disturbances are implicated in the exacerbation of CINV. In support of this, the
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+vestibular system is involved in the development of motion sickness, which is a known risk factor for CINV.(Leventhal et al., 1988) Furthermore, scopolamine, a pharmacological treatment for motion sickness, has demonstrated efficacy in reducing CINV when used in conjunction with other anti-emetic medications, but not when used as a stand-alone treatment.(Longo et al., 1982; Meyer et al., 1987) This suggests that the vestibular system plays a secondary role in the development of CINV. Lastly, it has been suggested that vasopressin (also known as antidiuretic hormone) contributes to the sensation of nausea in chemotherapy patients. Studies have demonstrated that vasopressin is significantly increased in patients experiencing CINV(Fisher et al., 1982; Rudd, 2005) and that the administration of supraphysiological doses of endogenous vasopressin is sufficient to induce nausea in healthy human participants.(Caras et al., 1997) However, other studies do not support this hypothesis. For example, when vasopressin was administered at physiological doses, nausea was not experienced.(Kim et al., 1997) This has lead researchers to suggest that vasopressin may play a modulatory role in the generation of CINV instead.(Rudd, 2005)
+Proposed mechanisms of action
+7
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Interaction with neurotransmitters and vagal afferent signalling Results from in vitro and animal studies demonstrate that ginger is likely to exert 5-HT3 antagonistic effects. Yamahara et al.(Yamahara et al., 1989) were the first to demonstrate that whole ginger, as well as 6-, 8- and 10-gingerols, could inhibit 5-HT3-induced contractions in an isolated guinea pig ileum. Huang et al.(Huang et al., 1991) demonstrated inhibition of 5-HT3induced contractions using the ginger compound, galanolactone. However, these two studies
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+have significant limitations.(Abdel-Aziz et al., 2006) Both studies used serotonin to induce contractions, not an agonist that is selective for 5-HT3 receptors. This allows for the possibility that ginger inhibited the action of serotonin on another receptor, making the exact mechanism of action unclear.(Abdel-Aziz et al., 2006) Additionally, Huang et al.(Huang et al., 1991) studied galanolactone, a compound only found in Japanese ginger and which therefore cannot be extrapolated to other types of ginger.(Abdel-Aziz et al., 2006; Ravindran and Babu, 2004) To address these limitations, Abdel-Aziz et al.(Abdel-Aziz et al., 2006) investigated the effect of four major compounds found in ginger, namely 6-, 8- and 10-gingerol and 6-shogaol, on 5-HT3mediated contractions in an isolated rat ileum using a selective 5-HT3 agonist. The results indicated that these compounds significantly inhibited contractions induced by this agonist; however, all four compounds failed to displace the 5-HT3 receptor antagonist, [3H]GR65630, from binding to the 5-HT3 receptor. It was therefore concluded that the mechanism of action of ginger, at least in relation to 5-HT3 pathways, is most likely due to indirect modulation of 5-HT3 signalling through the binding of an alternative, unidentified site.(Abdel-Aziz et al., 2006)
+8
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Additionally, the authors reported that these compounds weakly inhibited acetyl-choline and substance P-induced contractions, suggesting additional mechanisms for the anti-CINV effects of ginger.
+Modulation of gastrointestinal motility and gastric emptying Metoclopramide has been used for decades as an anti-emetic in chemotherapy, partly due to its
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+prokinetic effect on the gastrointestinal system.(Schapira et al., 1990) Research, particularly from in vitro studies, suggest that ginger is also likely to affect gastrointestinal motility and gastric emptying.(Hashimoto et al., 2002; Hu et al., 2011; Wu et al., 2008) While gastrointestinal dysmotility may not play a direct role in the generation of CINV, it may play a secondary role by contributing to other gastrointestinal symptoms such as bloating, early satiety, and abdominal pain. Multiple animal and in vitro studies indicate that whole ginger as well as specific compounds within ginger affect gastric emptying rates and gastrointestinal contractions. For example, Hashimoto et al.(Hashimoto et al., 2002) demonstrated that 6-shogaol improved muscle contractions and charcoal-induced transit time in porcine small intestines. Similarly, acetone ginger extract as well as the ginger components, 6-shogoal, 6-. 8-, and 10-gingerol, all enhanced the transport of a charcoal meal in mice.(Yamahara et al., 1990) Furthermore, both an ethanolic and acetone extract of ginger as well as ginger juice all reversed cisplatin-induced delayed gastric emptying in rats.(Sharma and Gupta, 1998) In contrast, the ginger compounds zingerone and zingerol as well as whole ginger were reported to inhibit colonic motility in rats.(Iwami et al., 2011a; Iwami et al., 2011b) These diverse results indicate that ginger’s effects could be a
+9
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT result of the particular concentration of different bioactive compounds, or the synergy between them. The effect of ginger on gastrointestinal motility in human participants has been investigated in multiple studies; however, the degree to which the results of these studies can be extrapolated to the CINV setting is limited as no study has been conducted with patients undergoing
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+chemotherapy to date. This is likely due to CINV-related anti-emetic research focusing on other pathways (i.e 5-HT3-mediated CINV) and the burden that such a study may place on patients undergoing chemotherapy; however, relief from symptoms related to gastrointestinal dysmotility could prove to be effective as a secondary measure of CINV management and therefore, future research in the CINV setting is recommended. To date, six studies have examined the effect of ginger on gastrointestinal motility in varied patient populations, including healthy participants and participants with dyspepsia or admitted to an intensive care unit.(Hu et al., 2011; Micklefield et al., 1999; Phillips et al., 1993; Shariatpanahi et al., 2010; Stewart et al., 1991; Wu et al., 2008) However, the significant differences in methodology employed in these studies makes comparison difficult. Differences included the dosage of ginger, the composition of the test meal used, and the instrument used to measure gastric emptying and motility. Scintography is the recommended method to evaluate gastric empting.(Abell et al., 2008) However, due to the use of radioactive materials in this technique and the risk attendant on this, alternative methods are preferred.(Wu et al., 2008) While the use of alternative methods might reduce the equipment costs and expertise required, they are not as sensitive and could introduce confounders. For example, in one study of
+10
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT intensive care patients, when gastric emptying was measured by the amount of feeding tolerated over a 48 hour period by participants, ginger improved gastric motility.(Shariatpanahi et al., 2010) However, in an another study that evaluated gastric emptying by a similarly indirect method (the measurement of paracetamol absorption), Phillips et al.(Phillips et al., 1993) found 1g of ginger had no effect on gastric emptying. The indirect measures used in these two studies provided a lower level of precision. The results could also be influenced by other factors, such as
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+the nutrient density of the test meal, its fluid and macronutrient content and its total volume. All of these factors can influence the rate of gastric emptying; hence, a nutrient-dense test meal is critical when measuring rates of gastric emptying.(Wu et al., 2008) Because no test meal was used in this study, significant delays in gastric emptying would not be expected. A similarly non-nutrient-dense test meal was used in a study of the effect of 500mg of ginger on gastric emptying rates.(Stewart et al., 1991) The failure of this study to demonstrate efficacy in relation to ginger could be a result of the 75kcal solution used as the test meal, which may have been insufficient to induce an effect.(Stewart et al., 1991) Wu et al.(Wu et al., 2008) and Hu et al.(Hu et al., 2011) addressed many of these limitations by using a dose of 1.2g of ginger and a test meal with a relatively high caloric content (118kcal in both studies). The two studies found that ginger was effective at reducing gastric emptying rates in both healthy and dyspeptic participants. A smaller dose of ginger (200mg) has also demonstrated effectiveness in increasing gastrointestinal motility in healthy volunteers.(Micklefield et al., 1999)
+11
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT In summary, animal studies as well as most human studies conducted to date (66%) suggest ginger modulates the rate of gastric emptying and gastrointestinal motility. However, no studies so far have investigated the effect in participants undergoing chemotherapy and therefore, the applicability of these results to the chemotherapy setting is currently unclear.
+Anti-oxidant properties
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+Oxidative stress, defined as an over production of reactive oxygen species, has been reported to be linked to the etiology of the emetic reflex. One of the initial steps in the generation of CINV is believed to be the generation of free radicals by chemotherapy agents within the gastrointestinal tract which in turn leads to the release of neurotransmitters from enterochromaffin cells.(Torii et al., 1994b) This notion has led to investigations of the antioxidant activity of ginger. In vitro experiments have demonstrated the antioxidant kinetic behaviour of isolated compounds extracted from the dried rhizomes of ginger, subjected to a 1,1-diphenyl-2-picrylhydrazyl radical scavenging reaction.(Masuda et al., 2004) However, there are no clear human clinical trials or animal experiments that demonstrate that ginger extracts might modulate CINV via an antioxidant effect. Given that the oxidative stress/antioxidant theory of cellular metabolism has been challenged,(Linnane et al., 2007) an alternative plausible biochemical explanation for ginger’s effect on CINV is the rebalancing of the disrupted cellular oxido-reductase mechanism that often accompanies chemotherapy treatments.(Linnane et al., 2007)
+Anti-inflammatory properties
+12
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT During chemotherapy, cell injury caused within the gastrointestinal tract (GIT) results in the release of multiple inflammatory factors including cyclooxygenase-2 (COX-2), interleukin-6 (IL6), and nuclear factor kappa-B (NF-kB). The end result of this pathway is continued tissue damage and potentially mucositis along the length of the GIT.(Sultani et al., 2012) It has been suggested that inflammation and cell injury may be particularly involved in the delayed phase of
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+CINV.(Hesketh, 2005) In vitro research has found that multiple ginger compounds are able to elicit an antiinflammatory effect through a number of pathways including the inhibition of NF-kB, COX enzymes, and 5-lipoxogenase.(van Breemen et al., 2011) Ginger compounds have also demonstrated an anti-inflammatory effect in murine and rat models, with these effects replicated in human clinical trials.(Ojewole, 2006; Zick et al., 2011) For example, 28 days of ginger supplementation (2g) in humans modulated eicosanoid synthesis in the colonic mucosa by lowering prostaglandin-2 levels in healthy participants(Zick et al., 2011) and COX-1 in participants who were at risk of colon cancer.(Jiang et al., 2012) Additionally, a review that included 8 clinical trials in this field concluded that while there is a paucity of well-designed trials, there is tentative evidence that ginger possesses anti-inflammatory properties in the treatment of pain related to osteoarthritis, dysmenorrhea, and exercise.(Terry et al., 2011) In summary, while these studies did not directly measure the effect of ginger on inflammation during chemotherapy, the current literature indicates that ginger is likely to modulate inflammation in the gut and this could contribute to ginger’s anti-CINV effects.
+Vestibular interactions
+13
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Acetylcholine and histamine are two neurotransmitters involved in the development of motion sickness. In vitro studies demonstrate that ginger compounds have antagonistic properties to both muscarinic and histaminergic receptors and therefore, represent a potential pathway by which ginger may interact with the vestibular system.(Abdel-Aziz et al., 2006) Clinical trials have largely confirmed this effect in clinical or experimentally-induced motion sickness. Eight trials were identified in our review, of which five reported ginger to be either superior to placebo or
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+equal to standard anti-motion sickness medications. (Grontved et al., 1988; Grontved and Hentzer, 1986; Holtmann et al., 1989; Lien et al., 2003; Mowrey and Clayson, 1982; Schmid et al., 1994; Stewart et al., 1991; Wood et al., 1988) Therefore, it is likely that ginger is able to interact with signalling involved in the vestibular system and could potentially modulate CINV symptoms.
+Modulation of vasopressin Ginger is known to reduce plasma vasopressin in adults exposed to experimentally-induced motion sickness; however, when endogenous vasopressin was injected, ginger was ineffective in preventing nausea.(Lien et al., 2003) This suggests that ginger exerts an indirect action on vasopressin release. However, to date there is only one study measuring ginger’s effect on vasopressin. Future studies are required to confirm these effects in the chemotherapy setting. Furthermore, the exact role of vasopressin in CINV needs to be elucidated before this can be considered a clinically-relevant mechanism.
+Conclusion
+14
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT CINV is a significant burden experienced by many oncology patients. While the control of overt vomiting has advanced, it is still prevalent and nausea remains stubbornly problematic for numerous chemotherapy patients. Ginger contains a wide array of bioactive compounds that can potentially act on multiple pathways involved in the physiology of CINV (Figure 1). These pathways include the modulation of relevant neuropeptides, vasopressin release and gastrointestinal motility as well as redox and anti-inflammatory signalling. The clinical evidence
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+for its use in the treatment in CINV is currently equivocal;(Marx et al., 2013) however, the data presented in this paper demonstrate an array of viable mechanisms of action and provide a sound foundation for continued research in this area. Of primary importance is the need for future trials to investigate these beneficial properties in the chemotherapy setting.
+Conflict of interest Luis Vitetta has received National Institute of Complementary Medicine and National Health and Medical Research Council of Australia competitive funding and Industry support for research into nutraceuticals. No other author has any competing interests to disclose.
+15
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT References
+Abdel-Aziz, H., Windeck, T., Ploch, M., and Verspohl, E. J. (2006). Mode of action of gingerols and shogaols on 5-HT3 receptors: Binding studies, cation uptake by the receptor channel and contraction of isolated guinea-pig ileum. European Journal of Pharmacology. 530: 136-143.
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+Abell, T. L., Camilleri, M., Donohoe, K., Hasler, W. L., Lin, H. C., Maurer, A. H., McCallum, R. W., Nowak, T., Nusynowitz, M. L., Parkman, H. P., Shreve, P., Szarka, L. A., Snape, W. J., Jr., and Ziessman, H. A. (2008). Consensus recommendations for gastric emptying scintigraphy: a joint report of the American Neurogastroenterology and Motility Society and the Society of Nuclear Medicine. Am J Gastroenterol. 103: 753-763. Baliga, M. S., Haniadka, R., Pereira, M. M., D'Souza, J. J., Pallaty, P. L., Bhat, H. P., and Popuri, S. (2011). Update on the chemopreventive effects of ginger and its phytochemicals. Crit Rev Food Sci Nutr. 51: 499-523. Bloechl-Daum, B., Deuson, R. R., Mavros, P., Hansen, M., and Herrstedt, J. (2006). Delayed nausea and vomiting continue to reduce patients' quality of life after highly and moderately emetogenic chemotherapy despite antiemetic treatment. J Clin Oncol. 24: 4472-4478. Caras, S. D., Soykan, I., Beverly, V., Lin, Z., and McCallum, R. W. (1997). The effect of intravenous vasopressin on gastric myoelectrical activity in human subjects. Neurogastroenterology & Motility. 9: 151-156.
+16
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Carelle, N., Piotto, E., Bellanger, A., Germanaud, J., Thuillier, A., and Khayat, D. (2002). Changing patient perceptions of the side effects of cancer chemotherapy. Cancer. 95: 155-163. Cawley, M. M., and Benson, L. M. (2005). Current trends in managing oral mucositis. Clin J Oncol Nurs. 9: 584-592. Davidson, W., Teleni, L., Muller, J., Ferguson, M., McCarthy, A. L., Vick, J., and Isenring, E.
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+(2012). Malnutrition and chemotherapy-induced nausea and vomiting: implications for practice. Oncol Nurs Forum. 39: E340-345. Ernst, E., and Pittler, M. H. (2000). Efficacy of ginger for nausea and vomiting: a systematic review of randomized clinical trials. British Journal of Anaesthesia. 84: 367-371. Fisher, R. D., Rentschler, R. E., Nelson, J. C., Godfrey, T. E., and Wilbur, D. W. (1982). Elevation of plasma antidiuretic hormones (ADH) associated with chemotherapy-induced emesis in man. Cancer Treat Rep. 66: 25-29. Grontved, A., Brask, T., Kambskard, J., and Hentzer, E. (1988). Ginger root against seasickness. A controlled trial on the open sea. Acta Otolaryngol. 105: 45-49. Grontved, A., and Hentzer, E. (1986). Vertigo-reducing effect of ginger root. A controlled clinical study. ORL J Otorhinolaryngol Relat Spec. 48: 282-286. Hashimoto, K., Satoh, K., Murata, P., Makino, B., Sakakibara, I., Kase, Y., Ishige, A., Higuchi, M., and Sasaki, H. (2002). Component of Zingiber officinale that improves the enhancement of small intestinal transport. Planta Med. 68: 936-939.
+17
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Hesketh, P. J. (2005). Management of Nausea and Vomiting in Cancer Treatment: Introduction, Scope of the Problem. In: Management of Nausea and Vomiting in Cancer and Cancer Treatment, pp. 1-15. Hesketh, P. J. (Ed.), Jones and Bartlett, Sudbury, MA. Holtmann, S., Clarke, A. H., Scherer, H., and Hohn, M. (1989). The anti-motion sickness mechanism of ginger. A comparative study with placebo and dimenhydrinate. Acta Otolaryngol. 108: 168-174.
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+Hu, M. L., Rayner, C. K., Wu, K. L., Chuah, S. K., Tai, W. C., Chou, Y. P., Chiu, Y. C., Chiu, K. W., and Hu, T. H. (2011). Effect of ginger on gastric motility and symptoms of functional dyspepsia. World J Gastroenterol. 17: 105-110. Huang, Q. R., Iwamoto, M., Aoki, S., Tanaka, N., Tajima, K., Yamahara, J., Takaishi, Y., Yoshida, M., Tomimatsu, T., and Tamai, Y. (1991). Anti-5-hydroxytryptamine3 effect of galanolactone, diterpenoid isolated from ginger. Chem Pharm Bull (Tokyo). 39: 397-399. Iwami, M., Shiina, T., Hirayama, H., Shima, T., Takewaki, T., and Shimizu, Y. (2011a). Inhibitory effects of zingerone, a pungent component of Zingiber officinale Roscoe, on colonic motility in rats. J Nat Med. 65: 89-94. Iwami, M., Shiina, T., Hirayama, H., and Shimizu, Y. (2011b). Intraluminal administration of zingerol, a non-pungent analogue of zingerone, inhibits colonic motility in rats. Biomed Res. 32: 181-185. Jiang, Y., Turgeon, D. K., Wright, B. D., Sidahmed, E., Ruffin, M. T., Brenner, D. E., Sen, A., and Zick, S. M. (2012). Effect of ginger root on cyclooxygenase-1 and 15hydroxyprostaglandin dehydrogenase expression in colonic mucosa of humans at normal and increased risk for colorectal cancer. Eur J Cancer Prev.
+18
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Kim, M. S., Chey, W. D., Owyang, C., and Hasler, W. L. (1997). Role of plasma vasopressin as a mediator of nausea and gastric slow wave dysrhythmias in motion sickness. Am J Physiol. 272: G853-862. Leventhal, H., Easterling, D. V., Nerenz, D. R., and Love, R. R. (1988). The role of motion sickness in predicting anticipatory nausea. J Behav Med. 11: 117-130. Lien, H. C., Sun, W. M., Chen, Y. H., Kim, H., Hasler, W., and Owyang, C. (2003). Effects of
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+ginger on motion sickness and gastric slow-wave dysrhythmias induced by circular vection. Am J Physiol Gastrointest Liver Physiol. 284: G481-489. Lindley, C. M., and Hirsch, J. D. (1992). Nausea and vomiting and cancer patients' quality of life: a discussion of Professor Selby's paper. Br J Cancer Suppl. 19: S26-29. Lindley, C. M., Hirsch, J. D., O'Neill, C. V., Transau, M. C., Gilbert, C. S., and Osterhaus, J. T. (1992). Quality of life consequences of chemotherapy-induced emesis. Qual Life Res. 1: 331-340. Linnane, A. W., Kios, M., and Vitetta, L. (2007). Healthy aging: regulation of the metabolome by cellular redox modulation and prooxidant signaling systems: the essential roles of superoxide anion and hydrogen peroxide. Biogerontology. 8: 445-467. Longo, D. L., Wesley, M., Howser, D., Hubbard, S. M., Anderson, T., and Young, R. C. (1982). Results of a randomized double-blind crossover trial of scopolamine versus placebo administered by transdermal patch for the control of cisplatin-induced emesis. Cancer Treat Rep. 66: 1975-1976.
+19
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Marx, W. M., Teleni, L., McCarthy, A. L., Vitetta, L., McKavanagh, D., Thomson, D., and Isenring, E. (2013). Ginger (Zingiber officinale) and chemotherapy-induced nausea and vomiting: a systematic literature review. Nutrition Reviews. 71: 245-254. Masuda, Y., Kikuzaki, H., Hisamoto, M., and Nakatani, N. (2004). Antioxidant properties of gingerol related compounds from ginger. Biofactors. 21: 293-296. Meyer, B. R., O'Mara, V., and Reidenberg, M. M. (1987). A controlled clinical trial of the
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+addition of transdermal scopolamine to a standard metoclopramide and dexamethasone antiemetic regimen. J Clin Oncol. 5: 1994-1997. Micklefield, G. H., Redeker, Y., Meister, V., Jung, O., Greving, I., and May, B. (1999). Effects of ginger on gastroduodenal motility. Int J Clin Pharmacol Ther. 37: 341-346. Mowrey, D. B., and Clayson, D. E. (1982). Motion sickness, ginger, and psychophysics. Lancet. 1: 655-657. Ojewole, J. A. (2006). Analgesic, antiinflammatory and hypoglycaemic effects of ethanol extract of Zingiber officinale (Roscoe) rhizomes (Zingiberaceae) in mice and rats. Phytother Res. 20: 764-772. Osoba, D. (2005). Impact of Nausea and Vomiting on Health-Related Quality of Life. In: Management of Nausea and Vomiting in Cancer and Cancer Treatment, pp. 99-118. Hesketh, P. J. (Ed.), Jones and Bartlett, Sudbury, MA. Phillips, S., Hutchinson, S., and Ruggier, R. (1993). Zingiber officinale does not affect gastric emptying rate. A randomised, placebo-controlled, crossover trial. Anaesthesia. 48: 393395.
+20
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Prakash, U. N., and Srinivasan, K. (2010). Gastrointestinal protective effect of dietary spices during ethanol-induced oxidant stress in experimental rats. Appl Physiol Nutr Metab. 35: 134-141. Ravindran, P. N., and Babu, K. N. (2004). In: Ginger: The Genus Zingiber, p. 86. Taylor & Francis. Rudd, J. A., Andrews, P.L.R (2005). Mechanisms of acute, delayed, and anticipatory emesis
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+induced by anticancer therapies. In: Management of Nausea and Vomiting in Cancer and Cancer Treatment, pp. 15-65. Hesketh, P. J. (Ed.), Jones and Bartlett, Sudbury, MA. Schapira, M., Henrion, J., and Heller, F. R. (1990). The current status of gastric prokinetic drugs. Acta Gastroenterol Belg. 53: 446-457. Schmid, R., Schick, T., Steffen, R., Tschopp, A., and Wilk, T. (1994). Comparison of Seven Commonly Used Agents for Prophylaxis of Seasickness. J Travel Med. 1: 203-206. Shariatpanahi, Z. V., Taleban, F. A., Mokhtari, M., and Shahbazi, S. (2010). Ginger extract reduces delayed gastric emptying and nosocomial pneumonia in adult respiratory distress syndrome patients hospitalized in an intensive care unit. J Crit Care. 25: 647-650. Sharma, S. S., and Gupta, Y. K. (1998). Reversal of cisplatin-induced delay in gastric emptying in rats by ginger (Zingiber officinale). J Ethnopharmacol. 62: 49-55. Stewart, J. J., Wood, M. J., Wood, C. D., and Mims, M. E. (1991). Effects of ginger on motion sickness susceptibility and gastric function. Pharmacology. 42: 111-120. Sultani, M., Stringer, A. M., Bowen, J. M., and Gibson, R. J. (2012). Anti-Inflammatory Cytokines: Important Immunoregulatory Factors Contributing to Chemotherapy-Induced Gastrointestinal Mucositis. Chemotherapy Research and Practice. 2012: 11.
+21
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Sun, C. C., Bodurka, D. C., Weaver, C. B., Rasu, R., Wolf, J. K., Bevers, M. W., Smith, J. A., Wharton, J. T., and Rubenstein, E. B. (2005). Rankings and symptom assessments of side effects from chemotherapy: insights from experienced patients with ovarian cancer. Support Care Cancer. 13: 219-227. Terry, R., Posadzki, P., Watson, L. K., and Ernst, E. (2011). The use of ginger (Zingiber officinale) for the treatment of pain: a systematic review of clinical trials. Pain Med. 12:
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+1808-1818. Torii, Y., Saito, H., and Matsuki, N. (1994a). Induction of emesis in Suncus murinus by pyrogallol, a generator of free radicals. British Journal of Pharmacology. 111: 431-434. Torii, Y., Saito, H., and Matsuki, N. (1994b). Induction of emesis in Suncus murinus by pyrogallol, a generator of free radicals. Br J Pharmacol. 111: 431-434. van Breemen, R. B., Tao, Y., and Li, W. (2011). Cyclooxygenase-2 inhibitors in ginger (Zingiber officinale). Fitoterapia. 82: 38-43. Wood, C. D., Manno, J. E., Wood, M. J., Manno, B. R., and Mims, M. E. (1988). Comparison of efficacy of ginger with various antimotion sickness drugs. Clin Res Pr Drug Regul Aff. 6: 129-136. Wu, K. L., Rayner, C. K., Chuah, S. K., Changchien, C. S., Lu, S. N., Chiu, Y. C., Chiu, K. W., and Lee, C. M. (2008). Effects of ginger on gastric emptying and motility in healthy humans. Eur J Gastroenterol Hepatol. 20: 436-440. Yamahara, J., Huang, Q. R., Li, Y. H., Xu, L., and Fujimura, H. (1990). Gastrointestinal motility enhancing effect of ginger and its active constituents. Chem Pharm Bull (Tokyo). 38: 430-431.
+22
+ACCEPTED MANUSCRIPT
+ACCEPTED MANUSCRIPT Yamahara, J., Rong, H. Q., Iwamoto, M., Kobayashi, G., Matsuda, H., and Fujimura, H. (1989). Active components of ginger exhibiting anti-serotonergic action. Phytotherapy Research. 3: 70-71. Zick, S. M., Turgeon, D. K., Vareed, S. K., Ruffin, M. T., Litzinger, A. J., Wright, B. D., Alrawi, S., Normolle, D. P., Djuric, Z., and Brenner, D. E. (2011). Phase II study of the effects of ginger root extract on eicosanoids in colon mucosa in people at normal risk for colorectal
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+cancer. Cancer Prev Res (Phila). 4: 1929-1937.
+23
+ACCEPTED MANUSCRIPT
+Downloaded by [Rutgers University] at 08:27 26 April 2015
+ACCEPTED MANUSCRIPT
+Figure 1. Proposed anti-CINV mechanisms of action of ginger.
+24
+ACCEPTED MANUSCRIPT
+Suggest Documents
+Olanzapine for chemotherapy-induced nausea and vomiting: a systematic review.
+Postoperative nausea and vomiting.
+Chemotherapy-Induced Nausea and Vomiting.
+Does previous chemotherapy-induced nausea and vomiting predict postoperative nausea and vomiting?
+Chemotherapy-Induced Nausea and Vomiting.
+Treatment of Nausea and Vomiting During Chemotherapy.
+Postoperative nausea and vomiting in pediatric anesthesia.
+Nausea and vomiting in early pregnancy.
+Ondansetron: a review of pharmacokinetics and clinical experience in postoperative nausea and vomiting.
+Recent developments in the prevention of chemotherapy-induced nausea and vomiting (CINV): a comprehensive review.
+Delayed Chemotherapy-Induced Nausea and Vomiting in the Hematology Population: A Review of the Literature.
+Ginger for nausea and vomiting of pregnancy.
+Nausea in specific phobia of vomiting.
+Neurokinin-1 receptor antagonists in preventing postoperative nausea and vomiting: a systematic review and meta-analysis.
+Case 2: A teenager with nausea, vomiting and dysarthria.
+Motion sickness: more than nausea and vomiting.
+Prevention of postoperative nausea and vomiting: a thought on ondansetron.
+Improved prophylaxis of postoperative nausea vomiting: Palonosetron a novel antiemetic.
+Olanzapine for chemotherapy-induced nausea and vomiting: systematic review and meta-analysis.
+Nausea and vomiting during pregnancy and neurodevelopmental outcomes in offspring.
+Treatment of Breakthrough and Refractory Chemotherapy-Induced Nausea and Vomiting.
+Gastric Decompression Decreases Postoperative Nausea and Vomiting in ENT Surgery.
+A review of olanzapine as an antiemetic in chemotherapy-induced nausea and vomiting and in palliative care patients.
+The effectiveness of acupuncture in prevention and treatment of postoperative nausea and vomiting--a systematic review and meta-analysis.
+Prevention and management of chemotherapy-induced nausea and vomiting.
+Pathophysiological and neurochemical mechanisms of postoperative nausea and vomiting.
+Olanzapine in the treatment of refractory nausea and vomiting: a case report and review of the literature.
+Interventions for nausea and vomiting in early pregnancy.
+Nausea and Vomiting Remedies in Iranian Traditional Medicine (ITM).
+Granisetron transdermal system improves refractory nausea and vomiting in gastroparesis.
+Ginger-Mechanism of action in chemotherapy-induced nausea and vomiting: A review.
+Despite advances in antiemetic therapy, chemotherapy-induced nausea and vomiting (CINV) still poses a significant burden to patients undergoing chemot...
+505KB Sizes 2 Downloads 13 Views
+Download PDF
+Recommend Documents
+Olanzapine for chemotherapy-induced nausea and vomiting: a systematic review.
+Newer drugs incorporated in prophylactic regimens for chemotherapy-induced nausea and vomiting (CINV) have resulted in significantly reduced rates of this feared complication of cytotoxic chemotherapy. However, both delayed chemotherapy-induced nause
+Postoperative nausea and vomiting.
+Postoperative nausea and vomiting (PONV) is a long-standing issue, not a new concept in anesthesiology. Despite many studies over the last several decades, PONV remains a significant problem due to its complex mechanism. This review presents a summar
+Chemotherapy-Induced Nausea and Vomiting.
+Despite treatment advances, nausea and vomiting, especially anticipatory nausea and vomiting, delayed nausea and vomiting and nausea alone, are still the most common, expected and feared side effects among patients receiving chemotherapy. Of the 70 t
+Does previous chemotherapy-induced nausea and vomiting predict postoperative nausea and vomiting?
+Postoperative nausea and vomiting (PONV) remains a problem in the postoperative period. Previous PONV in oncology patients has recently been associated with chemotherapy-induced nausea and vomiting (CINV). We assessed if CINV could improve Apfel's he
+Chemotherapy-Induced Nausea and Vomiting.
+Treatment of Nausea and Vomiting During Chemotherapy.
+Nausea and vomiting are two of the most troubling side effects patients experience during chemotherapy. While newly available treatments have improved our ability to manage nausea and vomiting, anticipatory and delayed nausea and vomiting are still a
+Postoperative nausea and vomiting in pediatric anesthesia.
+Postoperative nausea and vomiting (PONV) has a high incidence in children and requires prophylactic and therapeutic strategies.
+Nausea and vomiting in early pregnancy.
+More than half of pregnant women suffer from nausea and vomiting, which typically begins by the fourth week and disappears by the 16th week of pregnancy. The cause of nausea and vomiting in pregnancy is unknown, but may be due to the rise in human ch
+Ondansetron: a review of pharmacokinetics and clinical experience in postoperative nausea and vomiting.
+Postoperative nausea and vomiting (PONV) is associated with poor patient satisfaction and delayed recovery after general anesthesia. Multiple neurotransmitters are involved in the mediation of PONV but despite the introduction of new antiemetics, no
+Recent developments in the prevention of chemotherapy-induced nausea and vomiting (CINV): a comprehensive review.
+The prevention of chemotherapy-induced nausea and vomiting (CINV) has been revolutionized over the past 25 years. Guideline-based treatment means that vomiting can be prevented in the majority, but not in all patients. Therefore, antiemetic research
+×
+Sign In
+Login with Facebook
+Don't have an account?
+Forgot Password?
+×
+Sign Up
+By clicking register, I agree to your terms
+Follow Us
+About Us
+Privacy Policy
+Terms and Sevice
+Copyright
+Contact Us
+Copyright © 2019 DOCKSCI.COM. All rights reserved. | Design by w3layouts

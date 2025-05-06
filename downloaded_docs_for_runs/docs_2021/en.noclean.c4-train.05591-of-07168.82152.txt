@@ -1,0 +1,72 @@
+Music-based therapeutic interventions for people with dementia.
+Home
+About MedWorm
+Health News
+Specialties
+Conditions
+Cancers
+Infec. Diseases
+Procedures
+Therapies
+Nutrition
+Drugs
+Vaccines
+Management
+Training
+Countries
+any words all words exact phrase advanced  Advanced search can include the following:
+• OR operator: |
+• NOT operators: - OR !
+• phrase search: "breast cancer"
+• AND is implied so listing two words without another operator will search for records where both words are present.
+• use () to group words together:
+eg.(cancer|cancers)(cervical|cervix)!("Squamous cell carcinoma"|SCC)
+will return records where either the words 'cancer' or 'cancers' are present, plus the words 'cervical' or 'cervix', but not the phrase 'squamous cell carcinoma' or 'SCC'.
+• order operator: word1 << word2 << word3
+eg. chronic << (leukemia|leukaemia)
+here the word 'chronic' must come somewhere before either the work 'leukemia' or 'leukaemia'.
+• search on a specific field using any of the following: @item_headline @item_description @source @author @tags
+eg1. @item_headline "kidney cancer" @item_description (trial|trials)
+this searches for the phrase 'kidney cancer' in the title as well as either the word 'trial' or 'trials' in description.
+eg2. @(item_headline,item_description,tags) heart
+this searches for items where the word 'heart' exists in all of the headline, description and tags fields.
+eg3. @source "Journal of the American College of Cardiology"
+this searches for items where "Journal of the American College of Cardiology" is listed as the source.
+news research blogs podcasts video events funding alerts forums clinical trials
+Music-based therapeutic interventions for people with dementia.
+CONCLUSIONS: Providing people with dementia who are in institutional care with at least five sessions of a music-based therapeutic intervention probably reduces depressive symptoms and improves overall behavioural problems at the end of treatment. It may also improve emotional well-being and quality of life and reduce anxiety, but may have little or no effect on agitation or aggression or on cognition. We are uncertain about effects on social behaviour and about long-term effects. Future studies should examine the duration of effects in relation to the overall duration of treatment and the number of sessions. PMID: 30033623 [PubMed - as supplied by publisher]
+https://www.ncbi.nlm.nih.gov/pubmed/30033623?dopt=Abstract
+Source: Cochrane Database of Systematic Reviews - July 23, 2018 Category: General Medicine Authors: van der Steen JT, Smaling HJ, van der Wouden JC, Bruinsma MS, Scholten RJ, Vink AC Tags: Cochrane Database Syst Rev Source Type: research
+Related Links:
+Meta-analysis of psychosocial interventions for people with dementia and anxiety or depression.
+CONCLUSION: The identified psychosocial interventions are effective at reducing symptoms of depression or anxiety in PWD experiencing these symptoms. This review is limited by the quality of studies, small sample sizes and the heterogeneity of the interventions, therefore high quality studies with larger sample sizes are required to test the efficacy of specific interventions such as CBT. PMID: 30328711 [PubMed - as supplied by publisher]
+Source: Aging and Mental Health - October 17, 2018 Category: Geriatrics Authors: Noone D, Stott J, Aguirre E, Llanfear K, Spector A Tags: Aging Ment Health Source Type: research
+Dementia patients may benefit from music therapy
+(Reuters Health) - Music therapy may improve depression and anxiety in dementia patients, a new analysis suggests.
+Source: Reuters: Health - August 17, 2018 Category: Consumer Health News Tags: healthNews Source Type: news
+Music Offers Many Cognitive, Emotional and Physical Benefits to Young and Old
+“Music is therapy. Music moves people. It connects people in ways that no other medium can. It pulls heart strings. It acts as medicine.” — Macklemore Much research over the years has centered on the potential, perceived and realized benefits of music. In fact, the area of study has blossomed, growing from the preliminary findings of earlier studies to recent ones that built upon them. What’s exciting is the widespread and diverse benefits that music offers to everyone, young, old and in-between. Musical training gives babies’ brains a boost. Even before babies can walk or talk, they can benef...
+Source: World of Psychology - May 14, 2018 Category: Psychiatry & Psychology Authors: Suzanne Kane Tags: Brain and Behavior Creativity Happiness Health-related Motivation and Inspiration Research Self-Esteem Stress Coping Emotional Support Music Therapy musical therapy Source Type: blogs
+Soothe Your Stress Away with Music
+If you regularly turn to music intuitively to relieve stress, you certainly aren’t alone. You can definitely tap into the power of music to bring healing to yourself. Read along to discover the hidden psychological benefits of music that will make you feel better in times of stress. If you are not a music lover, the treasure trove of hidden benefits below just might convert you to begin singing a new tune as your go-to stress reliever. Music can help relieve stress. In one 2013 study, participants took part in one of three conditions before being exposed to a stressor, and subsequently took a psychosocial stress t...
+Source: World of Psychology - February 25, 2018 Category: Psychiatry & Psychology Authors: Emily Waters Tags: Creativity Memory and Perception Research Self-Help Stress Music Self Care stress management stress reduction Source Type: blogs
+Music Intervention With Reminiscence Therapy and Reality Orientation for Elderly People With Alzheimer Disease Living in a Nursing Home: A Pilot Study
+The purpose of this study was to investigate the effect of an 8-week nursing intervention consisting of 2 weekly sessions of music and reminiscence therapy together with the application of reality orientation techniques. Our expectation at the onset of the study was that listening to music that was familiar and connected with the memory of past events would, due to the music's emotional impact, stimulate memory associations, leading, in turn, to a positive effect on depression and anxiety in people living with dementia. We carried out a pre-/posttest intervention design with a sample of 19 patients divided into 2 groups&md...
+Source: Holistic Nursing Practice - January 1, 2018 Category: Nursing Tags: Features Source Type: research
+Efficacy of music therapy in the neuropsychiatric symptoms of dementia: systematic review
+Conclusions Although there are reports of the efficacy of music therapy on the decline of neuropsychiatric symptoms of dementia, the area still needs randomized studies aimed at the solution of important methodological problems like the lack of standardized approaches.RESUMO Objetivo Muitas interven ções psicossociais na demência estão baseadas em atividades musicais e intervenções de musicoterapia. Nosso objetivo consiste em avaliar a eficácia das intervenções de musicoterapia nos sintomas neuropsiquiátricos de pessoas com demência. Métodos ...
+Source: Jornal Brasileiro de Psiquiatria - May 8, 2017 Category: Psychiatry Source Type: research
+Prescription of potentially inappropriate medications in homes for the aged
+Conclusions Although there are reports of the efficacy of music therapy on the decline of neuropsychiatric symptoms of dementia, the area still needs randomized studies aimed at the solution of important methodological problems like the lack of standardized approaches.RESUMO Objetivo Muitas interven ções psicossociais na demência estão baseadas em atividades musicais e intervenções de musicoterapia. Nosso objetivo consiste em avaliar a eficácia das intervenções de musicoterapia nos sintomas neuropsiquiátricos de pessoas com demência. Métodos ...
+Source: Jornal Brasileiro de Psiquiatria - May 8, 2017 Category: Psychiatry Source Type: research
+Music-based therapeutic interventions for people with dementia.
+CONCLUSIONS: Providing people with dementia with at least five sessions of a music-based therapeutic intervention probably reduces depressive symptoms but has little or no effect on agitation or aggression. There may also be little or no effect on emotional well-being or quality of life, overall behavioural problems and cognition. We are uncertain about effects on anxiety or social behaviour, and about any long-term effects. Future studies should employ larger sample sizes, and include all important outcomes, in particular 'positive' outcomes such as emotional well-being and social outcomes. Future studies should also exam...
+Source: Cochrane Database of Systematic Reviews - May 2, 2017 Category: Journals (General) Authors: van der Steen JT, van Soest-Poortvliet MC, van der Wouden JC, Bruinsma MS, Scholten RJ, Vink AC Tags: Cochrane Database Syst Rev Source Type: research
+Music therapy and Alzheimer's disease: Cognitive, psychological, and behavioural effects
+Conclusions In the sample studied, music therapy improved some cognitive, psychological, and behavioural alterations in patients with AD. Combining music therapy with dance therapy to improve motor and functional impairment would be an interesting line of research.
+Source: Neurologia - April 29, 2017 Category: Neurology Source Type: research
+Does Music Therapy Enhance Behavioral and Cognitive Function in Elderly Dementia Patients? A Systematic Review and Meta-analysis.
+This study is registered with PROSPERO, number CRD42016036153. PMID: 28025173 [PubMed - as supplied by publisher]
+Source: Ageing Research Reviews - December 23, 2016 Category: Genetics & Stem Cells Authors: Zhang Y, Cai J, An L, Hui F, Ren T, Ma H, Zhao Q Tags: Ageing Res Rev Source Type: research
+More News: Anxiety | Databases & Libraries | Dementia | Depression | General Medicine | Music Therapy | Study
+MedWorm Privacy Policy Disclaimer Copyright © MedWorm 2006-2019

@@ -1,0 +1,269 @@
+﻿ UN 1230: Methanol - Substance information – HazMat Tool
+Toggle navigation
+HazMat Search
+Advanced Search...
+Index of Hazardous Materials
+ABCDEFG
+HIJKLMN
+OPQRSTU
+VWXYZ12
+3456789
+ABCDEFG
+HIJKLMN
+OPQRSTU
+VWXYZ12
+3456789
+Hazard Classes
+Overview
+Class 1 – Explosives
+Class 2 – Gases
+Class 3 – Flammable liquids
+Class 4 – Other Flammable Substances
+Class 5 – Oxidizing Substances & Organic Peroxides
+Class 6 – Toxic (Poisonous) Substances
+Class 7 – Radioactive materials
+Class 8 – Corrosives
+Class 9 – Miscellaneous hazardous materials
+Special Provisions
+Overview
+Numeric Codes
+A-Codes
+B-Codes
+IB-Codes and IP-Codes
+N-Codes
+R-Codes
+T-Codes
+TP-Codes
+W-Codes
+Segregation
+Segregation Chart
+My Segregation Check
+Placards & Labels
+Overview
+General Guidelines on Use
+Class 1 – Explosives
+Class 2 – Gases
+Class 3 – Flammable liquids
+Class 4 – Other Flammable Substances
+Class 5 – Oxidizing Substances & Organic Peroxides
+Class 6 – Toxic (Poisonous) & Infectious Substances
+Class 7 – Radioactive materials
+Class 8 – Corrosives
+Class 9 – Miscellaneous hazardous materials
+Dangerous
+Cargo Aircraft Only
+Empty
+Emergency Response
+List of Emergency Response Guides
+My HazMat
+Add / Edit HazMat
+Login
+Register
+News
+Contact
+Feedback
+Help
+Advertise
+Disclaimer
+Privacy
+Toggle navigation
+Methanol
+Description
+Substance Data
+Emergency Response
+Hazardous Materials Table
+Segregation Chart
+Similar Substances
+Add to my HazMat
+by HazMat Tool
+MSDS to GHS Compliance
+EHS Professionals, with Global expertise, Providing SDS Authoring and GHS Compliance Services.
+Contact us for any questions or a Free Quote
+at MSDStoGHS.com
+or 844-794-0801 (Toll Free).
+SDS Authoring • Expedited (24hr Service) •
+MSDS to SDS conversion • GHS Labels • Translation • Compliance review
+Sponsored
+Methanol
+Methanol, also known as methyl alcohol among others, is a chemical with the formula CH3OH (a methyl group linked to a hydroxyl group, often abbreviated MeOH). Methanol acquired the name wood alcohol because it was once produced chiefly by the destructive distillation of wood. Today, methanol is mainly produced industrially by hydrogenation of carbon monoxide.Methanol is the simplest alcohol, consisting of a methyl group linked to a hydroxyl group. It is a light, volatile, colorless, flammable liquid with a distinctive odor similar to that of ethanol (drinking alcohol). Wikipedia
+Substance Data
+Source: TOXNET (HSDB, 27.03.2019)
+CAS-Number
+67-56-1
+Flash Point
+n/a
+Boiling Point
+n/a
+Emergency Response Guide No. 131
+Data from the Hazardous Materials Table
+Source: 49 CFR §172 (2018/07)
+Packing Group II
+Packing Group III
+(3) Hazard Class
+3
+Flammable liquids
+(4) Identification number
+UN 1230
+(5) Packing Group
+II
+Comparison View of PG
+(6) Labels
+(1) Symbols
+This entry is signed with plus (+). The plus (+) sign fixes the proper shipping name, hazard class and packing group for that entry without regard to whether the material meets the definition of that class, packing group or any other hazard class definition. When the plus sign is assigned, it means that the material is known to pose a risk to humans. When a plus sign is assigned to mixtures or solutions containing a material where the hazard to humans is significantly different from that of the pure material or where no hazard to humans is posed, the material may be described using an alternative shipping name that represents the hazards posed by the material. An appropriate alternate proper shipping name and hazard class may be authorized by the Associate Administrator.
+This entry is signed with "I". The letter "I" identifies proper shipping names which are appropriate for describing materials in international transportation. An alternate proper shipping name may be selected when only domestic transportation is involved.
+(7) Special Provisions (§172.102)
+×Note:
+Special provisions may be very complex. The extracts are taken from 49 CFR §172.102. Please be careful with the information, as necessary, additional conditions may be applied that are not written here. Please check the original source and report bugs.
+IB2
+Authorized IBCs: Metal (31A, 31B and 31N); Rigid plastics (31H1 and 31H2); Composite (31HZ1).
+Additional Requirement: Only liquids with a vapor pressure less than or equal to 110 kPa at 50 [deg]C (1.1 bar at 122 [deg]F), or 130 kPa at 55 [deg]C (1.3 bar at 131 [deg]F) are authorized.
+Browse special provision IB2
+T7
+see 49 CFR §172.102
+TP2
+a. The maximum degree of filling must not exceed the degree of filling determined by the following:
+Where:
+tr is the maximum mean bulk temperature during transport,
+tf is the temperature in degrees celsius of the liquid during filling, and α is the mean coefficient of cubical expansion of the liquid between the mean temperature of the liquid during filling (tf) and the maximum mean bulk temperature during transportation (tr) both in degrees celsius.
+b. For liquids transported under ambient conditions α may be calculated using the formula:
+Where:
+d15 and d50 are the densities (in units of mass per unit volume) of the liquid at 15 °C (59 °F) and 50 °C (122 °F), respectively.
+Browse special provision TP2
+(8) Packing Authorizations (§173.***)
+(8A) Exceptions
+150 see 49 CFR §173.150
+(8B) Non-bulk
+202 see 49 CFR §173.202
+(8C) Bulk
+242 see 49 CFR §173.242
+(9) Quantity Limits
+(9A) Passenger aircraft/rail
+1 L
+(9B) Cargo aircraft only
+60 L
+(10) Vessel stowage
+(10A) Location
+B
+Stowage category “B” means
+(i) The material may be stowed “on deck” or “under deck” on a cargo vessel and on a passenger vessel carrying a number of passengers limited to not more than the larger of 25 passengers, or one passenger per each 3 m of overall vessel length; and
+(ii) “On deck only” on passenger vessels in which the number of passengers specified in paragraph (k)(2)(i) of this section is exceeded.
+Source: 49 CFR §172.101(k)
+(10B) Other
+40 Stow “clear of living quarters”.
+Source: 49 CFR §176.84
+(3) Hazard Class
+3
+Flammable liquids
+(4) Identification number
+UN 1230
+(5) Packing Group
+II
+Comparison View of PG
+(6) Labels
+(1) Symbols
+This entry is signed with "D". The letter "D" identifies proper shipping names which are appropriate for describing materials for domestic transportation but may be inappropriate for international transportation under the provisions of international regulations (e.g., IMO, ICAO). An alternate proper shipping name may be selected when either domestic or international transportation is involved.
+(7) Special Provisions (§172.102)
+×Note:
+Special provisions may be very complex. The extracts are taken from 49 CFR §172.102. Please be careful with the information, as necessary, additional conditions may be applied that are not written here. Please check the original source and report bugs.
+IB2
+Authorized IBCs: Metal (31A, 31B and 31N); Rigid plastics (31H1 and 31H2); Composite (31HZ1).
+Additional Requirement: Only liquids with a vapor pressure less than or equal to 110 kPa at 50 [deg]C (1.1 bar at 122 [deg]F), or 130 kPa at 55 [deg]C (1.3 bar at 131 [deg]F) are authorized.
+Browse special provision IB2
+T7
+see 49 CFR §172.102
+TP2
+a. The maximum degree of filling must not exceed the degree of filling determined by the following:
+Where:
+tr is the maximum mean bulk temperature during transport,
+tf is the temperature in degrees celsius of the liquid during filling, and α is the mean coefficient of cubical expansion of the liquid between the mean temperature of the liquid during filling (tf) and the maximum mean bulk temperature during transportation (tr) both in degrees celsius.
+b. For liquids transported under ambient conditions α may be calculated using the formula:
+Where:
+d15 and d50 are the densities (in units of mass per unit volume) of the liquid at 15 °C (59 °F) and 50 °C (122 °F), respectively.
+Browse special provision TP2
+(8) Packing Authorizations (§173.***)
+(8A) Exceptions
+150 see 49 CFR §173.150
+(8B) Non-bulk
+202 see 49 CFR §173.202
+(8C) Bulk
+242 see 49 CFR §173.242
+(9) Quantity Limits
+(9A) Passenger aircraft/rail
+1 L
+(9B) Cargo aircraft only
+60 L
+(10) Vessel stowage
+(10A) Location
+B
+Stowage category “B” means
+(i) The material may be stowed “on deck” or “under deck” on a cargo vessel and on a passenger vessel carrying a number of passengers limited to not more than the larger of 25 passengers, or one passenger per each 3 m of overall vessel length; and
+(ii) “On deck only” on passenger vessels in which the number of passengers specified in paragraph (k)(2)(i) of this section is exceeded.
+Source: 49 CFR §172.101(k)
+(10B) Other
+40 Stow “clear of living quarters”.
+Source: 49 CFR §176.84
+Comparison View of Different Packing Groups
+More than one packing group is indicated for this entry. Criteria for assignment see 49 CFR §173 Subpart D. You can find specific details in the tabs above. Differences are highlighted.
+PG II
+PG II
+1 + I D
+2 Methanol Methanol
+3 3 3
+4 UN 1230 UN 1230
+5 II II
+6 3, 6.1 3
+7 IB2, T7, TP2 IB2, T7, TP2
+8A 150 150
+8B 202 202
+8C 242 242
+9A 1 L 1 L
+9B 60 L 60 L
+10A B B
+10B 40 40
+Segregation Chart for Load, Transport, Storage
+In this table a statement is contained for each hazard class whether the loading, transport or storage with other hazard classes is allowed, is not permitted or is restricted. The table is based on U.S.-Code 49 CFR §177.848.
+Add to my HazMat
+Hazard Class 8
+7
+6.1
+5.2
+5.1
+4.3
+4.2
+4.1
+3
+2.3B
+2.3A
+2.2
+2.1
+1.6
+1.5
+1.4
+1.3
+1.1/1.2
+1.1/1.2
+1.3
+1.4
+1.5
+1.6
+2.1
+2.2
+2.3A
+2.3B
+3
+4.1
+4.2
+4.3
+5.1
+5.2
+6.1
+7
+8
+May not be loaded, transported, or stored together in the same transport vehicle or storage facility.
+Load, transport, storage together is not restricted.
+Load, transport, storage together is allowed under restrictions.
+Substances with similar name
+UN-Number
+Name
+Hazard Class
+Methyl alcohol, see Methanol

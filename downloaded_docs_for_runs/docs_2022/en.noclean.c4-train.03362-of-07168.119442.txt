@@ -1,0 +1,57 @@
+Effects Of Breastfeeding On Menstruation
+WOMENS HEALTH
+GENERAL HEALTH
+HEALTHY LIVING
+SELF CARE
+TOOLS
+TOPICS
+Search
+Womens Health Zone
+WOMENS HEALTH
+GENERAL HEALTH
+HEALTHY LIVING
+SELF CARE
+TOOLS
+TOPICS
+Home Women's Reproductive Health Menstrual Cycle Effects Of Breastfeeding On Menstruation
+Effects Of Breastfeeding On Menstruation
+One of our readers raised a question about trying to have a second baby. She writes about getting married in 2007 and then having a baby girl, and then trying since the beginning of this year to get pregnant. She expresses concern at having had no success to get pregnant for all these months.
+There are one or two issues that could be behind her not getting pregnant at this time:
+The reader has not mentioned what is the age of her first child and if she breast fed her or if she is still breastfeeding her. If her baby is still of an age where she is being breastfed, then it is possible that she is not ovulating and therefore unable to get pregnant in spite of trying repeatedly to do so.
+It is also possible that she has what is known as secondary infertility, which is the inability to conceive a child or carry a child to term after having had one child already. Secondary infertility could be caused by a variety of reasons, such as excessive weight gain, an infection, advanced age of the woman (which may not be much of an issue with our reader since she says she is 30 years old) and even stress.
+All women have duration of bleeding right after childbirth which could range from several days to weeks. This post partum bleeding, however, is not menstrual bleeding which may vary greatly from woman to woman, particularly those that are breastfeeding.
+Breastfeeding has the effect of suppressing ovulation for some duration among some women. For them, breastfeeding may act as a sort of natural form of birth control. This, however, does not mean that appropriate birth control methods are to be eschewed just because a woman is breastfeeding.
+Many women may go months and even years without any kind of menstrual period after childbirth. And then when menstruation returns it may be irregular and may take time to revert to the pre pregnancy pattern.
+However for many women, the menstrual period will resume within a few weeks of the postpartum bleeding having stopped. This has no impact on breastfeeding and women can continue to breastfeed right through a period.
+Though a slight decrease in milk supply is sometimes noted, (which, it is thought is due to hormonal changes in the body during the period) there is no change in taste of nutritional value of breast milk during this time. Some nipple tenderness may also be noticed but this will disappear at the end of the period.
+Effects Of Breastfeeding On Menstruation was last modified: March 24th, 2010 by admin2
+SHARE
+Facebook
+Twitter
+tweet
+Previous articleThe Menopause Depression Can Be Cured With Basic Psychology
+Next articleCervical Cancer And The HPV Vaccine – What’s The Connection?
+admin2
+RELATED ARTICLESMORE FROM AUTHOR
+Menstrual Cramps- Natural Remedies To Relieve Pain
+Yoga to your rescue during your periods
+8 Foods You Should Definitely Eat During Menstruation Cycle
+Menstruation Cycle and Women Athletes
+10 Common Misconceptions about Menstruation
+Top 8 Ways to Lighten your Period
+Most Featured
+Is Caffeine and Coffee OK for Weight...
+Colon and Breast Cancer Prevention Through Lifestyle...
+Vegetarian Diet Could Be the Key to...
+5 Fashionable Women Incontinence Products You Will...
+Facebook Google+ Pinterest Twitter
+Contact Us
+Sitemap
+Privacy Policy
+Terms Of Use
+Copyright © 2018 WomenHealthZone.com • All rights reserved.
+MORE STORIES
+A Low-Down On Water Aerobics
+Reasons That Causes Upper Abdomen Weight Gain in Women
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+Edit with Live CSS

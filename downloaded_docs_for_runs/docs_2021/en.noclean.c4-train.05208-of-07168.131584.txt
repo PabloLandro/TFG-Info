@@ -1,0 +1,121 @@
+Alexander Yule Consulting Blog : June 2018
+Commentary and opinion on developments in medicine, pharmaceuticals and the life sciences
+Welcome to the Alexander Yule Consulting Blog
+Tuesday, 26 June 2018
+Bugs as drugs?
+Lactococcus lactis: Potential
+beyond cheesemaking?
+More microbiological nostalgia, this time prompted by an article in Nature concerning another decades-old concept, the therapeutic use of genetically engineered bacteria.
+The early 90s saw a spate of clinical studies involving bacteria (Clostridium and Salmonella species) capable of growing and multiplying within the oxygen-poor environment found within solid tumours, their natural anti-cancer properties enhanced through engineered expression of enzymes capable of activating cancer drugs. Response rate were far from compelling, although interest remains in their use as oncolytic “vaccines".
+Listeria monocytogenes is under evaluation as a live vector for the delivery of tumour-specific antigens across a variety of cancer indications, but the treatment-related death of a cervical cancer patient (and subsequent clinical hold) in a Phase I/II combination study involving Advaxis’s L.monocytogenes HPV vaccine has raised questions as to whether the vector or AstraZeneca’s immune checkpoint, Imfinzi® (durvalumab) is the culprit.
+More recent efforts are directed towards conditions other than cancer and are exploiting advances made in synthetic biology. A US company, Synlogic, is applying “therapeutic programming” to repurpose commensal bacteria by stitching in DNA encoding for environmental sensors and metabolic switches. Clinical studies have recently commenced with an E.coli strain engineered to break down phenylalanine, an amino acid that accumulates to harmful effect in those with the hereditary condition phenylketonuria, and with another engineered strain capable of breaking down ammonia in those with life-threatening blood levels arising from genetic disease or through liver failure.
+Intrexon (through a subsidiary, ActoBio Therapeutics and various collaborators) is looking to repurpose the cheese makers’ friend, Lactobacillus lactis. A clinical study is underway with a strain that produces trefoil factor I, a human protein involved in the maintenance and repair of mucosal epithelium, in subjects with oral mucositis, a painful inflammation of the lining of the mouth and a common side effect of radio- and chemotherapy.
+Another strain in the clinic produces an antibody fragment against tumour necrosis factor, the target of several established and effective therapies for inflammatory bowel disease and a study is planned with a strain which produces a form of insulin thought to trigger the autoimmune destruction of insulin-secreting cells in Type 1 diabetes, along with a tolerance-inducing cytokine.
+While the genetic manipulation of well-characterised bacteria is relatively straightforward, the design and development of effective therapeutic strains is not without problems. Mutation and the loss of inserted plasmids can result in reversion of engineered bacteria to their wild state. Predicting the potency of modified bacteria and the likelihood of successful colonisation remains complex and uncertain. As demonstrated by antibiotic resistance, bacteria are notoriously promiscuous when it comes to sharing DNA and there is a risk that the ability to express therapeutic proteins might be passed to other bacterial species. The gut and oral microbiomes play subtle and important roles in human health and might be detrimentally altered through colonisation by engineered strains.
+While none of these challenges are insurmountable, and with admiration at the ingenuity exercised in designing and developing bacterial therapeutics, I suspect that the same treatment objectives can be more readily achieved by established, less problematic, technologies, although the convergence of synthetic biology and growing understanding of the human microbiome opens some intriguing, if not near-horizon, possibilities for short or long term beneficial manipulation.
+Photo credit: Kenneth Toda, University of Wisconsin
+Read more »
+Posted by Alex Yule at 12:47 No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: ActoBio Therapeutics, Advaxis, Genetic engineering, microbiome, phenylketonuria, SYNB1618, Synlogic, synthetic biology
+Tuesday, 19 June 2018
+Atopic dermatitis: more than skin deep
+Dampening down systemic inflammation with targeted
+therapies offers new treatment options for AD sufferers
+With much of biopharmaceutical development aimed at newsworthy high profile indications (cancer, genetic disease and spinal injury, for example) it’s easy to overlook the advances being made in treating common conditions which, while not life threatening, result in chronic discomfort for millions.
+Eczema (atopic dermatitis- AD), will be a pretty familiar topic to many parents, with up to 20% of children experiencing itchy misery. AD is an immune disorder and associated with other childhood allergic conditions. Skin bacteria and defects in skin permeability also play a part.
+AD in children is generally mild and self-limiting but can persist or reappear in later life. Around 2-5% of adults suffer from AD, of which half consider their condition to be moderate to severe.
+Self-management with emollients and vigilant skin care help, but effective relief may require topical steroid or calcineurin inhibitors (a class of potent immunosuppressant drugs) treatment, although these are not always effective or well tolerated. Oral steroids or immunosuppressant drugs such as cyclosporine are reserved for those failing other treatments and are limited to short-term use.
+Realisation that AD is essentially a systemic (and not topical) inflammatory condition has led to a shift in therapeutic development towards treatments which target key cytokines and enzymes involved in the inflammatory process.
+Two cytokines in particular, IL-13 and IL-4, are associated with AD (a third, IL-31, is thought to be responsible for the hallmark itchiness of AD) and blocking their corresponding receptors by antibody drugs can effectively damp down inflammation. The first of these, dupilumab (Dupixent®: Sanofi/Regeneron) received regulatory approval in Europe and the US in late 2017. Several other anti-cytokine antibodies are in the pipeline, including nemolizumab (Chugai/Galderma: Phase II:); tralokinumab (Leo Pharma: Phase III), and lebrikizumab (Dermira: Phase II).
+As the first systemic biologic AD treatment out of the trap, Dupixent® could set a high hurdle for later entrants, with analysts predicting peak global sales of around $3 billion as an AD treatment alone (Dupixent is also under consideration as a treatment for severe asthma). However, at an annual treatment cost of around $37,000 in the US and with UK pricing of close to £1,265 per 2 syringe pack, payers will take some convincing. The UK’s National Institute for Clinical Excellence has already queried Dupixent’s cost effectiveness.
+Small molecule non-steroidal topical and oral treatments will likely further broaden treatment options in AD. Crisaborole (Eucrisa®: Pfizer), a topically applied inhibitor of PDE4, an enzyme involved in cytokine release, was approved in the US in 2016 (and is currently under review in Europe) for the treatment of mild to moderate AD in adults and children. Questions remain over cost-effectiveness (a 60g tube costs around $580) but Eucrisa® does appear to provide some patients with a needed break from topical therapy and is a more acceptable option for facial treatment. Other topical PDE4 inhibitors are in the pipeline, including difamilast (Otsuka Pharmaceutical) and lotamilast (Dermavant). An oral PDE4 inhibitor, apremilast (Otezla®: Celgene, and already approved for the treatment of other immune disorders) has shown some efficacy in AD.
+The enzyme JAK1 (Janus kinase) is central to cytokine action and a number of JAK1 inhibitors are in clinical development as both topical and oral AD treatments, including baricitinib (Eli Lilly: Phase II, already approved as a rheumatoid arthritis treatment); PF-04965842 (Pfizer: Phase II); upadacitinib (AbbVie: Phase II), and the topically administered ruxolitinib (Incyte: Phase II, already approved for other conditions) and delgocitinib (Leo Pharma/Japan Tobacco). The oral anti-histamine ZPL-389 (Ziarco/Novartis), while ineffective in asthma studies, remains in clinical development as a potential AD treatment.
+Establishing the efficacy and safety of novel biologics and small molecules in AD still has some while to go, but it’s a safe bet that Dupixent® and Eucrisa® will eventually be joined by further treatment options for AD sufferers who do not enjoy adequate relief using current therapies. Effective oral therapies that eliminate or substantially reduce topical steroid use have the potential to transform the AD treatment market.
+Photo credit: Jean Beaufort 2017.
+Posted by Alex Yule at 14:24 No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: apremilast, Atopic dermatitis, baricitinib, crisaborole, delgocitinib, difamilast, dupilumab, Dupixent, eczema, Eucrisa, lebrikizumab, lotamilast, nemolizumab, PF-04965842, ruxolitinib, tralokinumab, upadacitinib.
+Saturday, 9 June 2018
+A century on, can phage therapy deliver in the management of multi-drug resistant bacterial infection?
+Methicillin resistant S.aureus
+As with my recent post on dendritic cell vaccines [Dendritic cell vaccines: back to the future], a news item brought to mind another therapeutic concept that’s been around for decades (tens of decades, actually) without ever finding its sweet spot.
+Bacteria, in common with more complicated organisms, are susceptible to virus infection. These viruses (bacteriophage or “phage”) either destroy the bacteria after infection and replication or incorporate their DNA into that of the bacterial host and hijack the replication machinery to continually pump out fresh phage. Phage are highly specific for their target bacteria, are self-replicating and quick to mutate to overcome resistance.
+On paper, these properties make for a potentially useful therapy, allowing the targeting of disease-causing bacteria without collateral damage among normal (and useful) bacteria. Starting in the 1920s, phage therapy gained a clinical following, although largely confined to Georgia and the rest of the Soviet Union (the pioneering laboratory, now known as the Eliava Institute, is still in operation and offering phage treatments). In the West, antibiotic discovery and development reduced phage therapy to a minor topic of academic interest.
+Fast-forward to the 21st century, where the management of multi-drug resistant (MDR) infection, often involving very frail patients, is now a regular challenge and is fostering renewed interest in phage therapy. Although no phage therapy has ever received regulatory approval, the US Food and Drug Administration have permitted use as a treatment of last resort on a case by case basis.
+There have been notable successes, including cure of a MDR infection of the pancreas; an individual with cystic fibrosis and a MDR lung infection was not so fortunate, AmpliPhi, a US company specialising in phage therapy development has treated MDR infections in two patients scheduled for lung transplantation, both resulting in successful outcomes.
+Major hurdles remain before phage therapy can be relied on as a reliable weapon against MDR infection. The exquisite specificity of phage is two-edged: phage capable of eliminating the exact strain of infecting bacteria must be identified prior to therapy. Bacterial susceptibility to phage can change as infection progresses, and a cocktail of phage offers a higher chance of eliminating infection. AmpliPhi combined 15 different phage to treat lung infection in one patient. Growing sufficient quantities of phage and removing all traces of potentially harmful bacterial components to allow safe intravenous administration is another technical challenge.
+Solutions to the “find a phage” problem are in development, from the online Phage Directory, which attempts to match patients with available phage strains, through to the use of DNA sequencing and artificial intelligence by AmpliPhi, Adaptive Phage Therapeutics and EpiBiome.
+AmpliPhi has successfully developed processes for the manufacture of pharmaceutical grade phage products and is banking that its “pre-mixed” phage cocktails for the treatment of MDR Staphylococcus aureus and MDR Pseudomonas aeurginosa infections will prove to be a practical and immediate means of delivering phage therapy. Drawing on sobering experience gained in a European study that set out to evaluate phage therapy in burns patients, Belgium has developed a legal and regulatory framework to promote timely preparation of therapeutic phage by research laboratories.
+Mainstream acceptance (and commercial success) lies someway in the future. Defined “pre-mixed” phage cocktails pose less of a regulatory challenge but their efficacy and optimal use in infection management remains to be defined. “Bespoke” phage therapy has interesting parallels with personalized cancer therapies, such as CAR-T and neoantigen vaccines, where therapy is matched to the patient and manufactured to order. As in the case of CAR-T therapy, the deep pockets and logistical expertise of one or more global pharmaceutical companies will be essential to clinical adoption.
+Photo credit: Credit: National Institute of Allergy and Infectious Diseases, National Institutes of Health.
+Read more »
+Posted by Alex Yule at 18:23 No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: Adaptive Phage Therapeutics, AmpliPhi, bacteriophage, EpiBiome, MDR, multi-drug resistance, Phage therapy
+Saturday, 2 June 2018
+Dendritic cell vaccines: back to the future
+Dendritic cell (computer generated from
+EM scan)
+Two news announcements in recent weeks sent me tripping down memory lane and musing on the number of once promising therapeutic concepts that have never lived up to their billing.
+At the turn of the century, dendritic cell vaccination was seen as the great leap forward for cancer immunotherapy. The concept is simple, although execution less so. The body’s recognition of infectious agents or cancer cells as being “foreign” starts with how antigens are presented to the immune system by specialised, wait for it, “antigen presenting cells”, of which dendritic cells (DCs) elicit the most potent T-cell responses.
+DCs can be readily harvested from bone marrow or peripheral blood, primed in the laboratory to recognise tumour antigens, expanded and matured in culture and then infused back into the patient, ready to kick-start a cancer-fighting cellular immune response. The challenge of commercialising DC vaccination proved to be as much logistical as immunological with only one company, Seattle-based Dendreon Corporation, successfully overcoming the hurdles of DC collection, processing and delivering adequate amounts of patient-specific vaccine, all in a manner satisfactory to regulatory agencies.
+Dendreon’s one and only product, Provenge®, received approval as a treatment for hormone-refractory (“castration resistant”) metastatic prostate cancer in 2010. While hailed as a milestone in cancer vaccine development, Provenge® was approved on the basis of a 4 month improvement in median survival over placebo, at a treatment cost of $93,000. Confusion over reimbursement, scepticism over benefit, competition from conventional chemotherapy, low margins and heavy corporate debt resulted in Dendreon filing for bankruptcy at the end of 2014, with Provenge® and the manufacturing assets being first acquired by Valeant in early 2015 and then by Sanpower Group, a Chinese conglomerate, in early 2017.
+Sanpower, while eyeing China and other new markets, is hoping that a new Provenge® study in men with early-stage prostate cancer might lead to an expanded label indication. Prostate cancer progression is slow is most men, and “watchful waiting” is an option to surgery and/or radiotherapy. Provenge® therapy might usefully slow progression, although proof of this is at least five years away.
+A near-neighbour of Dendreon’s, Northwest Biotherapeutics is another long-standing champion of DC vaccination, its lead product being DCVax®-L, a personalised vaccine for glioma, an aggressive form of brain cancer. DCs are primed using material from the patient’s own tumour. Northwest has a history that can reasonably be described as “colourful”, involving allegations of related party transactions, mysterious delays in the reporting data from a Phase III study first registered in 2002 (variously attributed to the Christmas holidays and a severe outbreak of flu among senior management), and a subsequent exit from NASDAQ.
+With broad, and misleadingly enthusiastic, coverage in the popular press, Northwest recently provided an update on progress in the Phase III glioma study, now in its 11th year. Well, better late than never, but as others have pointed out, it doesn’t actually say that much, being interim (and blinded) data. The data set stands at 331 subjects (DCVax®-L and placebo-treated) although interpretation is complicated by the cross-over study design, as patients with tumour recurrence (a racing certainty in glioma) were allowed to receive the vaccine.
+A breakdown of survival by factors known to influence outcome (the degree of resection, patient age and the ability to better metabolise chemotherapydrug) hints at an increase in survival , but the conclusion is no stronger than “Collectively, the blinded interim survival data suggest that the patients in this Phase 3 trial are living longer than expected”. Proof of significant benefit awaits primary outcome data (progression-free survival).
+While a treatment that improves survival in glioma is sorely needed, and a better-tolerated alternative to chemotherapy might be preferable for some prostate cancer patients, DCVax®-L or Provenge® successes are unlikely to lead to a renaissance in DC vaccine interest, as the spotlight has long since shifted to CAR-T and other cellular immunotherapies, small molecule and biologic immuno-oncology drugs that rekindle anti-tumour immune responses and neoantigen-based cancer vaccine strategies.
+Ironically, without the pioneering work of Dendreon, both in DC vaccine manufacturing logistics and establishing enhanced survival, the industry might never have embraced cancer immunotherapy development with anything like the current degree of enthusiasm.
+Photo credit: Bliss, D and Subramaniam, S. National Cancer Institute.
+Read more »
+Posted by Alex Yule at 16:02 No comments:
+Email ThisBlogThis!Share to TwitterShare to FacebookShare to Pinterest
+Labels: DCVax-L, Dendreon, Dendritic cell, glioma, Immunotherapy, Northwest Biotherapeutics, prostate cancer, Provenge
+Newer Posts Older Posts Home
+Subscribe to: Posts (Atom)
+About Me
+Alex Yule
+I'm the Principal of Alexander Yule Consulting, a pharmaceutical and life sciences business advisory, that has provided commercial and corporate support to companies of all sizes for over 25 years. I enjoy working with early-stage ventures (including pre-money businesses) to assist in value proposition development, investment proposal development and business planning. Besides the business aspects of life sciences, I'm interested in most therapeutic areas or sectors (everything from oncology to consumer healthcare). All comments on the blog or questions on specific topics or general aspects are most welcome.
+View my complete profile
+Blog Archive
+► 2019 (3)
+► April (2)
+► March (1)
+▼ 2018 (24)
+► November (2)
+► September (2)
+► August (3)
+► July (2)
+▼ June (4)
+Bugs as drugs?
+Atopic dermatitis: more than skin deep
+A century on, can phage therapy deliver in the man...
+Dendritic cell vaccines: back to the future
+► April (1)
+► March (2)
+► February (3)
+► January (5)
+► 2017 (20)
+► December (4)
+► November (1)
+► September (3)
+► August (1)
+► June (1)
+► March (4)
+► February (6)
+Follow by Email
+Search This Blog
+Worth a visit
+Big Molecule Watch
+Update on the Amgen v. Adello Filgrastim Litigation - On April 15, 2019, the parties filed their opening claim construction briefs (Amgen’s Brief; Adello’s Brief) in the Amgen v. Adello BPCIA litigation conc...
+STAT
+STAT Plus: Disappointing trial results dim hopes for a new class of pain drugs - They were supposed to be novel pain treatment and future blockbusters. Instead it appears that hopes for a class of medicines called NGF inhibitors are inc...
+IP Draughts
+Why I don’t want to be a General Counsel - IP Draughts has spent much of his career working closely with business clients. His first job was as sole in-house lawyer to a technology-based company. Si...
+Patent Docs
+Novartis Pharmaceuticals Corp. v. Par Pharmaceutical Inc. (D. Del. 2019) - By Donald Zuhn -- Last week, in Novartis Pharmaceuticals Corp. v. Par Pharmaceutical Inc., District Judge Richard G. Andrews of the U.S. District Court for...
+In the Pipeline
+Farewell to “Watson For Drug Discovery” - STAT is reporting that IBM has stopped trying to sell their “Watson for Drug Discovery” machine learning/AI tool, according to sources within the company. ...
+Google analytics
+Copyright Alexander Yule 2017. All rights reserved. Simple theme. Powered by Blogger.

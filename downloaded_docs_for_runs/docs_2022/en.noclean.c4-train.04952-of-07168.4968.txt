@@ -1,0 +1,257 @@
+8.6: Metabolic Acidosis due to Drugs and Toxins - Medicine LibreTexts
+Skip to main content
+LibreTexts and Edfinity now partners for companion online homework & testing solutions
+Biology
+Business
+Chemistry
+Engineering
+Español
+Geosciences
+Humanities
+Mathematics
+Medicine
+Physics
+Social Sciences
+Statistics
+Workforce
+Mon, 18 Feb 2019 23:34:06 GMT
+8.6: Metabolic Acidosis due to Drugs and Toxins
+10917
+{ }
+Anonymous
+2
+false
+false
+[ "article:topic", "showtoc:no", "license:ccbyncsa", "authorname:kbrandis" ]
+Search site
+Search
+Search
+Go back to previous article
+Username
+Password
+Sign in
+Sign in
+Sign in
+Registration
+Forgot password
+Expand/collapse global hierarchy
+Home
+Bookshelves
+Anatomy and Physiology
+Book: Acid-base pHysiology (Brandis)
+Chapter 8: Major Types of Metabolic Acidosis
+Expand/collapse global location
+8.6: Metabolic Acidosis due to Drugs and Toxins
+Last updated
+Save as PDF
+Page ID
+10917
+Mon, 18 Feb 2019 23:34:06 GMT
+8.6: Metabolic Acidosis due to Drugs and Toxins
+Contributed by Kerry Brandis
+Clinical Professor & Director (Anesthesiology ) at Gold Coast Hospital
+8.6.1: Methanol Poisoning
+Presentation & Diagnosis
+Pathophysiology
+Treatment
+Principles of Treatment of Methanol Poisoning
+1. Emergency Management
+2 . Methanol Removal from body
+3 . Blocking of Metabolism
+4. Intensive supportive care and monitoring
+Fomepizole Use
+8.6.2: Ethylene Glycol Poisoning
+Stages of Ethylene Glycol Toxicity
+Stage 1: Intoxication
+Stage 2: Cardiorespiratory Changes
+Stage 3: Renal Toxicity
+Principles of Treatment of Ethylene Glycol Poisoning
+1. Emergency Management
+2. Ethylene Glycol Removal from body
+3. Blocking of Metabolism
+4. Intensive supportive care & monitoring
+8.6.3: Salicylate Toxicity
+Acid-Base Disorders in Salicylate Toxicity
+Clinical Presentation
+Principles of Treatment of Salicylate Toxicity
+1. Emergency Management
+2. Salicylate Removal from body
+3. Intensive supportive care & monitoring
+8.6.4: Toluene toxicity
+8.6.5: Overview of Toxic Ingestions
+Overview of Diagnosis of Toxic Ingestions.
+Guidelines
+Important Points in Diagnosing High Anion Gap Acidosis
+Several drugs and toxins have been implicated as direct or indirect causes of a high-anion gap metabolic acidosis (HAGMA). A consideration of these drugs needs to be included in an differential diagnosis of a HAGMA. The three most common ones to consider are methanol, ethylene glycol and salicylates. Other toxins which can cause acidosis are isopropyl alcohol and butoxyethanol. Toluene also causes an acidosis and the anion gap may be normal or elevated.
+The acidosis caused by these toxins may sometimes present as a normal anion-gap hyperchloraemic acidosis so don't exclude the diagnosis in such a circumstance.
+Co-ingestion of ethanol delays the metabolism of the more toxic methanol and ethylene glycol but can also delays the diagnosis. In this situation the osmolar gap will be even more elevated than can be explained by the measured ethanol level alone.
+[See also Section 11.3: Acid-Base Disorders due to Drugs & Toxins.]
+8.6.1: Methanol Poisoning
+Presentation & Diagnosis
+Ingestion of methanol can occur accidentally, or deliberately if used as an ethanol substitute.
+Methanol itself is non-toxic. Onset of symptoms is delayed until the toxic metabolites are produced by the liver. Because the hepatic metabolism is slow, there is usually a considerable latent period (12-48 hours) before any toxic effects develop. Patients presenting early with a history of methanol ingestion have few symptoms due to the methanol (other than mild CNS depression), but may have symptoms due to other drugs or toxins (e.g. ethanol). Additionally co-ingestion of ethanol also contributes to the latent period by delaying metabolism of methanol.
+Patients presenting late are often deeply comatose and bradycardic with depressed respirations. Survivors have a high incidence of irreversible blindness. Abdominal pain is a common symptom and may be due to acute pancreatitis.
+Diagnosis may be delayed if the history is not available (e.g. obtunded patient) or because of the significant delay between ingestion and symptoms. Early diagnosis is important because prompt and effective treatment can decrease mortality and decrease the incidence of blindness. A useful screening test is determination of the osmolar gap. If the osmolar gap is greater than 10, it indicates the presence of appreciable quantities of low molecular weight substances such as methanol. This can alert you to the diagnosis before the acidosis (due to metabolites) develops. As the methanol is metabolised, the osmolar gap returns toward normal and the anion gap increases. A patient presenting late after a significant ingestion may have a normal osmolar gap and a high anion gap acidosis. The osmolar gap is more likely to be elevated in methanol ingestion than with ethylene glycol ingestions because of the lower molecular weight of methanol. Osmolar gaps of >100 have been reported.
+The ideal way to assess and monitor response to treatment is to measure methanol blood levels. This test is NOT readily available at short notice in laboratories because of infrequent need and because the test is labour intensive. Specimens often are transferred to a larger hospital where batch testing may only be done every week or two. Treatment should NOT be delayed because of delays in obtaining a blood methanol level. Methanol levels >20mg/dl are associated with severe toxicity.
+The most serious toxic manifestations are:
+metabolic acidosis
+visual impairment which can be permanent blindness
+CNS depression ('intoxication') up to coma
+death
+In patients with severe acidosis (indicating high formic acid levels), the mortality rate may be 50% or more.
+Pathophysiology
+Methanol is slowly converted to formaldehyde (by alcohol dehydrogenase), then rapidly to formic acid (by formaldehyde dehydrogenase) in the liver. Formic acid is then slowly metabolised (by 10-formyl tetrahydrofolate dehydrogenase). This particular combination of slow, fast, then slow reactions accounts for the delay in onset of toxic effects (latency), and the prolonged effect (accumulation of formic acid).
+As little as 10 mls of pure methanol can cause permanent visual disturbance, 30mls can be fatal, but 100mls is the median lethal dose in an adult. (See ref)
+Methanol is not directly toxic, but formic acid is both directly toxic (e.g. direct optic nerve toxicity) and inhibits mitochondrial cytochrome oxidase (causing a form of histotoxic hypoxia). The acidosis is due to both formic acid, and acidic metabolites (such as lactate) from the mitochondrial dysfunction. The worsening of the acidosis due to these other acids results in lower dissociation of formic acid and more diffusion of this undissociated formic acid across cell membranes to produce more intracellular effects. As methanol is converted to its metabolites, the osmolar gap falls (due less low MW uncharged methanol) and the anion gap rises (due increased charged formate anion).
+Figure 8.6.1: Metabolism of Methanol
+Some patients ingest ethanol as well as methanol and this (fortuitously) is protective as it further delays the metabolism and limits the peak levels of the toxic metabolites. Such co-ingestion of ethanol can cause diagnostic problems. Clinicians are typically alerted to the possibility of ingestion of methanol (or ethylene glycol) by the combination of an acidosis and CNS symptoms (eg intoxication). Ethanol can mislead the clinician because its further delays the onset of the acidosis, 'explains' the presence of intoxication and also explains the presence of an osmolar gap. (See here for more details).
+'Methylated spirits' is freely available in Australia from hardware stores. In addition to its high ethanol content (say 95%) this product contains other chemicals to discourage human ingestion. These additives may be toxic (e.g. methanol) or have a very disagreeable taste (e.g. pyridine). Methylated spirits in Australia and New Zealand no longer contains methanol, but the situation may be different in other countries.
+Acid-Base Disorders in Methanol Toxicity
+Initially no acid-base disorder ('latent period') while methanol is metabolised to formic acid
+Later, typically develop a high anion gap metabolic acidosis (due to formic acid and histotoxic hypoxia)
+May also develop a respiratory acidosis secondary to CNS depression (with depression of respiratory centre and/or airway obstruction)
+May occasionally present with normal anion gap acidosis with a smaller ingestion
+If patient is an alcoholic, there may other acid-base disorders present as well (eg alcoholic ketoacidosis, starvation ketoacidosis, lactic acidosis, respiratory acidosis due aspiration, respiratory alkalosis due chronic liver disease.)
+Consequently, sorting out the acid-base diagnosis in an individual can be complicated and delayed, and because of the potentially serious adverse outcome treatment often needs to commence before the definitive diagnosis of methanol toxicity has been made
+Acidosis in a patient with an elevated osmolar gap should raise clinical suspicion of methanol ingestion and lead to prompt management. The contribution of ethanol to such osmolar gap can be quickly assessed by a (readily available) blood alcohol level.
+Treatment
+This is a general guide only presented in the context of understanding acid-base disorders, and is not meant to be a practical guide to the treatment of any individual patient.
+Treatment must be individualised to individual patient circumstances. The best outcome is obtained with patients who present early, particularly during the latent period, and when clinical suspicion leads to prompt appropriate management by experienced clinicians. For details see the AACT Practice Guidelines for the Treatment of Methanol Toxicity.
+Principles of Treatment of Methanol Poisoning
+1. Emergency Management
+Resuscitation: Airway, Breathing, Circulation. Obtunded patients require intubation for airway protection and ventilation. Emergency care should commence pre-hospital.
+2 . Methanol Removal from body
+Haemodialysis is the most effective technique; it also removes ethanol so ethanol infusion rate must be increased during periods of dialysis
+3 . Blocking of Metabolism
+This involves competitive inhibition of alcohol dehydrogenase (ADH). The aim is to delay the production of the toxic metabolites (and limit their peak concentrations). The delay also increases urinary methanol excretion. Two agents are currently in use:
+Ethanol: "Ethanol blocking" treatment is the traditional treatment but has the disadvantage of causing intoxication (CNS depression). It is also irritant and should be given via a central line.
+Fomepizole (aka 4-methylpyrazole): This is currently approved for this use in some countries ( eg USA and Canada as 'Antizol'). Its advantages are effectiveness, ease of administration and absence of intoxication. Its use may obviate the need for haemodialysis in patients without visual impairment or severe acidosis.
+4. Intensive supportive care and monitoring
+Management in an Intensive Care Unit is recommended; Intubation & mechanical ventilation may be indicated if there is inadequate airway protection (eg CNS depression) or inadequate ventilation; Monitoring includes methanol levels (if available), osmolar gap, anion gap, serum creatinine, and ethanol level (if used).
+If intubated, hyperventilation should be maintained to mimic the body's compensatory response
+Fomepizole Use
+Fomepizole is preferred to ethanol if it is available. The drug is an orphan drug in some countries. It is not currently (2014) available in Australia. In 2012 an application was made to include fomepizole in the WHO list of essential drugs. IV ethanol can be used instead but may even that may not be readily available in sufficient amounts in Australian hospitals.
+A typical course of fomepizole would be:
+Initial 15mg/kg IV bolus (over 30 minutes)
+10mg/kg IV bolus at 12 hourly intervals for 4 doses
+Increase to 15mg/kg IV after 48 hours
+Continue until methanol levels are low (eg <20mg/dl)
+Fomepizole has an affinity for alcohol dehydrogenase which is 8,000 times higher than that of methanol. Its use can result in methanol levels remaining almost constant. This effectively blocks production of the toxic metabolites and methanol is slowly excreted in urine. Haemodialysis can remove methanol from the body more rapidly. Fomepizole is an extremely effective antidote to methanol poisoning if started soon after the ingestion. Fomepizole induces its own metabolism so its dose needs to be increased after 48 hrs.
+Ethanol therapy requires a blood level of 100-150 mg/dl to be effective and to maintain this level regular monitoring of blood ethanol level and adjustment of infusion rate is required. The patient is significantly intoxicated by this therapeutic ethanol level. Fomepizole does not cause any intoxication.
+Australian perspective: Methanol poisoning is now rare within Australia. Methanol produced in Australia is present in some model and racing car fuels, and may be present in toxic amounts in home-distilled alcohol beverages, but the current risk is ingestion of adulterated alcoholic drinks by locals on holiday in Bali.
+[Example Acid-base Case: Child with ingestion of Windscreen washer fluid]
+8.6.2: Ethylene Glycol Poisoning
+Ethylene glycol is a colorless sweet tasting solvent which is used in antifreeze solutions. It is nontoxic itself but is converted to toxic metabolites in the liver:
+Glycolic acid (->glycolate anion) is the major contributor to the often severe high anion gap acidosis that develops
+Oxalic acid (->oxalate anion) is one of the final metabolic products which is excreted in the urine. Precipitation of calcium oxalate crystals in the kidney causes renal failure if a sufficient dose has been ingested.
+Figure 8.6.2: Metabolism of Ethylene Glycol
+If untreated, ingestion of only 30 to 60 mls may be sufficient to cause permanent organ damage or death. The osmolar gap may be raised (to > 10) early in the course but this is variable.
+The detection of calcium oxalate crystals in the urine is often stated to be a useful guide but this is wrong. Certainly. these crystals have a characteristic appearance (lsee figure below) and a urinanalysis will easily detect them. The problem is that oxalate crystals in urine are generally very common (80% of specimens) and their presence alone means nothing for a diagnosis of ethylene glycol ingestion. Oddly, cases of ethylene glycol ingestion have also been reported without oxalate crystals in the urine. There is also no point in differentiating between the monohydrate and the dihydrate crystals.
+Figure 8.6.3: Calcium dihydrate crystals in urine - the ones with the 'folded envelope' appearance
+Toxicity is usually considered as occurring in 3 stages: intoxication, cardiorespiratory changes and renal toxicity (see below)
+Stages of Ethylene Glycol Toxicity
+Stage 1: Intoxication
+Up to 12 hours post-ingestion
+An ethanol-like intoxicated state (without an appropriate odour on the breath) progressing to CNS depression
+Fits and coma may occur
+A high anion gap metabolic acidosis develops
+Nausea, vomiting, arrhythmias and tetany (due to hypocalcaemia) may occur
+Stage 2: Cardiorespiratory Changes
+From 12 to 24 hours post-ingestion.
+Tachycardia, tachypnoea. Shock may occur in major ingestions
+Stage 3: Renal Toxicity
+At 24-72 hrs post-ingestion
+Acute anuric renal failure may occur due to precipitation of calcium oxalate crystals in the renal tubules.
+Principles of Treatment of Ethylene Glycol Poisoning
+1. Emergency Management
+R esuscitation: Airway, Breathing, Circulation. Obtunded patients require intubation for airway protection and ventilation.
+2. Ethylene Glycol Removal from body
+Haemodialysis is the most effective technique; it also removes ethanol so ethanol infusion rate must be increased during periods of dialysis
+Avoid lavage - Lavage is effective only if used within the first hour after ingestion and patients do not present within this interval.
+Avoid activated charcoal - This is NOT effective
+3. Blocking of Metabolism
+Ethanol: "Ethanol blocking" treatment is the traditional treatment but has the disadvantage of causing intoxication (CNS depression). It is also irritant and should be given via a central line.
+Fomepizole ('Antizol'): This is currently approved for this use in some countries (eg USA and Canada). Its advantages are effectiveness, ease of administration and absence of intoxication. Its use may obviate the need for haemodialysis in patients without severe acidosis.
+4. Intensive supportive care & monitoring
+Management in Intensive Care Unit is recommended; Intubation & mechanical ventilation may be indicated if there is inadequate airway protection (eg CNS depression) or inadequate ventilation.
+If intubated, hyperventilation must be maintained to mimic the body's compensatory response
+8.6.3: Salicylate Toxicity
+Salicylate overdose causes a high anion gap metabolic acidosis in both children and adults. Adults commonly develop a mixed acid-base disorder as a respiratory alkalosis due to direct respiratory centre stimulation occurs as well. This second disorder is uncommon in children.
+Acid-Base Disorders in Salicylate Toxicity
+Adults: Metabolic acidosis AND Respiratory alkalosis
+Children: Metabolic acidosis
+If fasting=>starvation ketosis may develop
+Regarding pharmacokinetics of salicylate:
+Absorption: Salicylates are readily absorbed in the unionised form from the small intestine
+Metabolism: The major route of biotransformation is conjugation with glycine in the liver
+Excretion: The amount of drug excreted unchanged in the urine is small but can be markedly increased if urine is alkaline
+Large overdoses of aspirin can cause a large tablet mass or bezoar in the stomach. This delays absorption and plasma salicylate levels continue to rise over 20 hours or more. For this reason, serial salicylate levels should be measured until the peak has been reached. Repeated oral doses of activated charcoal are indicated in this situation.
+High levels of salicylate are toxic because the drug uncouples oxidative phosphorylation as well as inhibiting some enzymes in the cell.
+Salicylates directly stimulate the respiratory center to cause hyperventilation (respiratory alkalosis) which is dose-dependent. This stimulation is much more pronounced in adults than in children.
+Metabolic acidosis is the most serious acid-base disorder and is due to increased production of endogenous acids rather than the salicylate itself. Plasma salicylate levels rarely exceed a maximum of about 5 mmol/l and the decrement in the [HCO3] is significantly higher than this in these severe cases.
+Acidosis is much more pronounced in infants as compared to adults, which is the reverse of the situation with the hyperventilation. In adults, respiratory alkalosis usually predominates. The particular organic acid anions involved in the acidosis of salicylate intoxication have not been identified.
+Ketoacidosis may also occur in children who are ill and fasted (ie starvation ketosis).
+The combination of metabolic acidosis and respiratory alkalosis can be a difficult situation to diagnose from the blood gases. The problem relates to whether the hyperventilation is primary (ie respiratory alkalosis) or is compensatory for the metabolic acidosis.
+Simple urinary alkalinisation with administration of sodium bicarbonate is used to increase urine pH to between 7.5 and 8.5. Hypokalaemia is a risk and potassium should be given at the same time. Hypokalaemia also interferes with the kidney's ability to alkalinise the urine. One recommended regime for an adult is to administer one litre of 1.26% sodium bicarbonate solution (containing 20-40mmols of K+) IV over a 3 hour period
+Clinical Presentation
+The presentation in severe overdose is a comatose patient with marked hyperventilation and possibly convulsions. Small children usually have a fever. In adults, the diagnosis of overdose or over-ingestion is usually easily made from the history.
+Clinicians should have a high index of suspicion in children with a metabolic acidosis particularly if ketoacidosis, lactic acidosis and renal failure have been excluded.
+Another clue is that salicylates greatly increase urinary uric acid excretion and plasma urate level is usually very low. If suspicious of overdose it is better to measure salicylate level urgently.
+Urine can be screened with a ferric chloride test for salicylates.
+Principles of Treatment of Salicylate Toxicity
+1. Emergency Management
+Resuscitation: Airway, Breathing, Circulation. Obtunded patients require intubation for airway protection and ventilation.
+2. Salicylate Removal from body
+Alkaline diuresis: Urinary excretion is very significantly increased by alkalisation of the urine. This may be easily achieved by giving IV sodium bicarbonate to raise urine pH to between 7.5 and 8.5; It is advisable to give K+ to avoid hypokalaemia. Plasma [K+] should be regularly monitored. ('Forced alkaline diuresis' should be avoided as it confers no advantage and can cause fluid overload.) However, IV fluid loading is generally important to assist in maintaining an adequate urine output.
+Haemodialysis is more effective and is the treatment of choice in severe poisonings. Criteria for dialysis are severe clinical features, resistant metabolic acidosis, renal failure or salicylate level >700mg/l.
+Gastic lavage is not useful unless time from ingestion is short.
+Activated charcoal - repeated doses can delay absorption; particularly indicated if tablet concretion has formed in the stomach
+3. Intensive supportive care & monitoring
+Management in Intensive Care Unit is recommended; Intubation & mechanical ventilation is indicated in comatose or significantly obtunded patients.
+If intubated, hyperventilation must be maintained to mimic the body's compensatory response
+8.6.4: Toluene toxicity
+Inhalation of toluene (eg by 'glue-sniffing') may cause either a high anion-gap or a normal anion gap acidosis. The high anion gap is probably a consequence of its metabolism to hippuric acid.
+Toluene may also cause significant renal damage especially with chronic use. A consequence of this is a toluene-induced renal tubular acidosis in some patients.
+Patients with toluene toxicity may initially be suspected of having ethylene glycol toxicity especially as the presentation may be similar (eg a patient with mental obtundation, appearance of intoxication and a metabolic acidosis). These disorders have different treatments and differentiation is important. Toluene toxicity can cause very profound hypokalaemia and often present with muscle weakness and may develop serious arrhythmias (eg ventricular tachycardia).
+8.6.5: Overview of Toxic Ingestions
+Overview of Diagnosis of Toxic Ingestions.
+As a general rule, the diagnosis of a toxic ingestion should be actively investigated in a patient with a high anion gap acidosis where a diagnosis of ketoacidosis, lactic acidosis or renal failure is not apparent. Treatment can be life-saving if diagnosis is made early.
+Key Points:
+High index of suspicion (esp if patient appears intoxicated)
+Always check the osmolar gap if you have the slightest concern (If >10 then suspect ethylene glycol, methanol or ethanol)
+Don't be put off if there is a normal anion gap or a normal osmolar gap as both these situations can occur even with life-threatening ingestions.
+Guidelines
+Always pursue a cause for a high anion gap acidosis and consider factors suggestive of toxic ingestions
+Toxic ingestions usually have predominant neurological signs and symptoms
+Routine measurement of a lactate level is useful in excluding this as the cause of the acidosis
+Important Points in Diagnosing High Anion Gap Acidosis
+Ketoacidosis
+Can be excluded if normoglycaemia & urine negative for ketones
+Lactic acidosis
+Excluded if lactate level is normal. Suggested if shock or peripheral hypoperfusion.
+Renal failure
+Excluded as cause of acidosis if urea and creatinine normal or only slightly elevated. (In chronic renal failure acidosis is uncommon if creatinine is < 0.30 mmol/l )
+Methanol
+Suggested if visual impairment and CNS depression or intoxication. Abdominal pain is common. Check the osmolar gap. Do NOT delay therapy until blood level obtained.
+Ethylene glycol
+Suggested if appear intoxicated and no visual disturbance. Check the osmolar gap but it is often normal.
+Salicylate
+Suggested if marked hyperventilation (esp in adults) and mental obtundation.
+Back to top
+8.5: Renal Tubular Acidosis
+8.7: Use of Bicarbonate in Metabolic Acidosis
+Recommended articles
+There are no recommended articles.
+Article type
+Topic
+Author
+Kerry Brandis
+License
+CC BY-NC-SA
+Show TOC
+no
+Tags
+This page has no tags.
+© Copyright 2019 Medicine LibreTexts
+Powered by MindTouch ®
+The LibreTexts libraries are Powered by MindTouch® and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Unless otherwise noted, LibreTexts content is licensed by CC BY-NC-SA 3.0. Have questions or comments? For more information contact us at info@libretexts.org or check out our status page at https://status.libretexts.org.

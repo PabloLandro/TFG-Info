@@ -1,0 +1,238 @@
+Effects of Early Combined Eccentric-Concentric Versus Concentric Resistance Training Following Total Knee Arthroplasty
+E-mail this Article
+Original Article
+Effects of Early Combined Eccentric-Concentric Versus Concentric Resistance Training Following Total Knee Arthroplasty
+Min Ji Suh, Bo Ryun Kim, Sang Rim Kim, Eun Young Han, So Young Lee
+DOI : https://doi.org/10.5535/arm.2017.41.5.816
+Your Name *
+Your E-mail *
+Recipient's E-mail *
+Message
+/500 characters
+Home
+E-submission
+Sitemap
+Contact us
+HOME
+ABOUT
+Aims and scope
+About the journal
+Editorial board
+Open access
+Subscription information
+Contact us
+ARTICLE CATEGORY
+Review article
+Original article
+Case report
+Others
+Browse all articles >
+BROWSE ARTICLES
+Current issue
+All issues
+Most view
+Most download
+Most cited
+Funded articles
+Ann Rehabil Med Search
+Author index
+AUTHOR INFORMATION
+Instructions for authors
+Research and publication ethics
+Article processing charge
+Author’s checklist
+E-submission
+Copyright transfer agreement
+Search
+Ann Rehabil Med Search
+CLOSE
+Ann Rehabil Med > Volume 41(5); 2017 > Article
+Suh, Kim, Kim, Han, and Lee: Effects of Early Combined Eccentric-Concentric Versus Concentric Resistance Training Following Total Knee Arthroplasty
+Original Article
+Annals of Rehabilitation Medicine 2017;41(5):816-827.
+Published online: October 31, 2017
+DOI: https://doi.org/10.5535/arm.2017.41.5.816
+Effects of Early Combined Eccentric-Concentric Versus Concentric Resistance Training Following Total Knee Arthroplasty
+Min Ji Suh, MD1 , Bo Ryun Kim, MD, PhD1 , Sang Rim Kim, MD, PhD2 , Eun Young Han, MD, PhD1 , So Young Lee, MD1
+1Department of Rehabilitation Medicine, Jeju National University Hospital, Jeju National University School of Medicine, Jeju, Korea.
+2Department of Orthopedic Surgery, Jeju National University Hospital, Jeju National University School of Medicine, Jeju, Korea.
+Corresponding author: Bo Ryun Kim. Department of Rehabilitation Medicine, Jeju National University Hospital, 15 Aran 13-gil, Jeju 63241, Korea.
+Tel: +82-64-717-2711, Fax: +82-64-717-1131, brkim08@gmail.com
+Received December 26, 2016 Accepted March 09, 2017
+Copyright © 2017 by Korean Academy of Rehabilitation Medicine
+Korean Academy of Rehabilitation Medicine
+(open-access, http://creativecommons.org/licenses/by-nc/4.0):
+This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0) which permits unrestricted noncommercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Abstract
+Objective
+To investigate the effects of early combined eccentric-concentric (ECC-CON) or concentric (CON) resistance training following total knee arthroplasty (TKA).
+Methods
+Patients who underwent a primary TKA were randomly assigned to an ECC-CON group (n=16) or a CON group (n=18). All patients received early, progressive resistance training with five sessions per week for 2 weeks starting 2 weeks after TKA. Isometric knee flexor and extensor strength of the surgical and non-surgical knees, instrumental gait analysis for spatiotemporal parameters, 6-Minute Walk Test (6MWT), Timed Up and Go Test (TUG), Timed Stair Climbing Test (SCT) were used to evaluate performance-based physical function. The Western Ontario McMaster Universities Osteoarthritis Index (WOMAC) and EuroQOL five dimensions (EQ-5D) questionnaire were used to evaluate self-reported physical function and self-reported quality of life. All patients underwent these evaluations before and 1 month after TKA.
+Results
+The ECC-CON group showed clinically meaningful improvements in extensor peak torque (PT) of the non-surgical knee, gait speed, and 6MWT from preoperative values. The CON group had an increase in H/Q ratio of the surgical knee and improvement in SCT-ascent postoperatively. Both groups showed significant improvements in WOMAC-Pain, function, and EQ-5D scores. Although extensor PT of the surgical knee did not reach the preoperative level in either group, the postoperative change was significantly less in the ECC-CON group than the CON group.
+Conclusion
+Early combined ECC-CON resistance training minimizes the loss in quadriceps strength of the surgical knee and improves endurance and gait speed after TKA.
+Keywords: Osteoarthritis, Knee, Arthroplasty, Replacement, Rehabilitation
+INTRODUCTION
+Knee osteoarthritis (OA) is the most common degenerative disease in elderly people, and can lead to pain, stiffness, swelling, restriction of daily living activities and a reduced quality of life [1]. Knee OA is an especially large burden in Korea because elderly people over the age of 65 years are expected to represent 37.4% of the population by 2050 [2].
+Total knee arthroplasty (TKA) is the most effective surgical procedure, as well as the treatment of choice for end-stage knee OA. Over 686,000 TKAs are performed annually for end-stage knee OA in the United States, and the number of TKAs is expected to increase markedly and reach 3.48 million by 2030 [3]. In Korea, the Health Insurance Review & Assessment Services (HIRA) reported that more than 45,000 TKAs are performed each year from 2011 to 2015 [4]. Although TKA recipients experience pain relief and improvement in self-reported physical function, the decrement of performance-based physical function, including quadriceps strength, still exists, and causes disability [5].
+Physiatrists are concerned about the postoperative deficit in quadriceps strength because quadriceps strength is strongly related to functional, physical activities, such as walking and stair climbing [6], and impairment of quadriceps may result in long-term functional deficits that decrease quality of life [7].
+Moreover, muscle wasting and weakness often put elderly individuals at high risk for serious life-threatening falls that may cause injury-related death. Thus, the recent postoperative rehabilitation approaches have been focused on intensive resistance training of quadriceps strengthening and recovery of functional ability. Most recent studies mainly focused on the effect of concentric exercise. Petterson et al. [8] demonstrated that progressive strength training after TKA yielded significantly better 12-month outcomes in terms of quadriceps strength, Timed Up and Go Test (TUG), Timed Stair-Climbing Test (SCT), and 6-Minute Walk Test (6MWT) than did the standard rehabilitation focused on progressive volitional strength training. Additionally, Moffet et al. [9] found significantly greater improvements in 6MWT and total WOMAC (Western Ontario McMaster Universities Osteoarthritis Index) scores with a new intensive functional rehabilitation program including progressive resistance training than with a control intervention.
+However, few studies of rehabilitative strategies have focused on eccentric training following TKA surgery. In a frail elderly population, muscle strength and mobility function improved more with eccentric lower-extremity resistance exercise than with concentric training [10]. In addition, individuals with type 2 diabetes mellitus and Parkinson disease who performed eccentric exercise using a recumbent ergometer demonstrated significant improvements in performance-based physical function and quality of life [11,12]. However, only two pilot studies of postoperative rehabilitation programs used an eccentrically-biased intervention following TKA, and neither had sufficient power or a control group for adequate analysis [13,14].
+Therefore, the objective of this study was to compare the effects of early combined eccentric-concentric (ECC-CON) training and concentric (CON) training on performance-based and self-reported physical function, as well as quality of life following TKA.
+MATERIALS AND METHODS
+Participants
+For this study, 34 (4 males and 30 females; mean age, 71.0±6.1 years) older adults diagnosed with end-stage primary OA of the knee who underwent a primary TKA from the Department of Orthopedic Surgery in Jeju National University Hospital between June 2014 and May 2015 were recruited. Two weeks after TKA, all patients were transferred to the Rehabilitation Department at the same hospital. All patients could walk independently with or without an ambulatory aid. Patients were excluded if they had previous neurological or orthopedic disease causing ambulatory deficits, such as previous fracture or reconstructive surgery, or unstable cardiorespiratory disease. Each patient received information about the study and provided written informed consent. The study protocol was approved by the Institutional Review Board at Jeju National University Hospital (No. 2014-05-003).
+Intervention protocol
+Patients were randomly assigned to the combined ECC-CON group (n=16) or the CON group (n=18).
+Both groups performed concentric knee extension and flexion exercises using air resistance machines (HUR Co., Kokkola, Finland) at 30% of their one-repetition maximum (1RM) for three sets of 15 repetitions (Fig. 1). The 1RM measurement test was performed with HUR air resistance weight-training machines on both legs and measured on the leg extension and leg curl. Patients performed 8–10 repetitions at a weight equivalent to 40%–60% of the individual's estimated 1RM. Then, patients carried out 3–5 repetitions at a weight equivalent to 60%–80% of the individual's estimated 1RM. After 3 minutes rest, patients completed a 1RM attempt. If this weight was lifted easily, 2–5 kg was added and patients attempted another repetition after a 3-minute rest. This process was repeated until the patient was no longer able to successfully lift the weight through a complete range of motion. The last weight lifted successfully was used as the 1RM. The 1RM was reassessed every week, and the training prescription was determined and progressed to a new resistance level until patients performed 60% of 1RM for three sets of 10 repetitions.
+The ECC-CON group performed a resistance eccentric exercise using a recumbent ergometer (Eccentron; BTE Technologies Inc., Hanover, MD, USA) on surgical and non-surgical lower extremities. Patients were seated on the recumbent ergometer, and physical therapists controlled the patient's position and the foot pedal. The knee remained at 30° of flexion during maximum knee extension to minimize the risk for knee hyperextension injury and help the patients set the exercise duration, rate and target strength through pre-training dosing tests. All patients adapted to the knee and hip movement by practicing on an eccentric ergometer before the actual training program. Patients received real-time feedback from monitors through displays of exercise state and target workload. The intensity of training was based on the participant's perception of exertion using the Borg Rating of Perceived Exertion Scale.
+The exercise was initially performed for 5 minutes at a ‘very very light’ intensity for the first 2 days. If a patient had a tolerable response to exercise (i.e., absence of increased knee pain, swelling, or excessive fatigue) after 3–5 days, the training was increased to a ‘moderate’ exertion level for 10 minutes. During week 2 (6–10 days after starting the program), therapists increased the exercise intensity gradually to a ‘somewhat hard’ intensity and duration for 30 minutes (Table 1). The monitor was used as feedback to inform the patients of the total work (measured in kJ), average power, and contribution of the operative leg during each session. During the exercise period, none of the participants had clinical joint effusion, severe knee pain, or swelling. The ECC-CON group performed eccentric exercise using a recumbent ergometer for 30 minutes per session. The CON group performed concentric exercise using a cycle ergometer for the same duration. And exercise intensity of cycle ergometer was based on Borg Rating of Perceived Exertion Scale, as protocol in the ECC-CON group (Fig. 2).
+Both groups performed concentric exercise using air resistance machines for 30 minutes per session. All rehabilitation programs were performed five times per week for a 2-week period under the supervision of physical therapists.
+Outcome measurements
+All patients completed the following assessments before surgery and 1 month after surgery. Performance-based physical function included measurement of the isometric knee extensor and flexor strength of the surgical and nonsurgical knees, instrumental gait analysis for spatiotemporal variables, 6MWT, TUG, and SCT. Self-reported physical function was evaluated using WOMAC, and self-reported quality of life was evaluated using the EuroQOL five dimensions (EQ-5D) questionnaire.
+Performance-based physical function
+(1) Measurement of the isometric strength of the knee extensors and flexors: The maximal isometric strength of the bilateral knee extensors and flexors was measured using an isokinetic dynamometer (HUMAC NORM; CSMi, Stoughton, MA, USA). All patients relaxed their muscles with light stretching before the test. Participants were seated on a specially designed chair with hip angles of approximately 85° [15]. The distal shin pad of the dynamometer was attached 2–3 cm proximal to the lateral malleolus using a strap. Additional straps were applied across the chest, pelvis, and mid-thigh to minimize inappropriate trunk movements during thigh muscle contractions. The alignment between the dynamometer rotational axis and the knee joint rotation axis (lateral femoral epicondyle) was adjusted at the beginning of each trial. Gravity effect torque was recorded for each subject and used to correct torque measurements during all tests. Patients were asked to grasp the sidebars during the testing procedure. The length of the movement arm measured from the lateral femoral epicondyle to the center of the force transducer at the shin was kept constant. Data were obtained from digitized signals. After a structured warm-up, with the knee joint fixed at 60° of flexion for maximal isometric force generation [16], patients were asked to perform maximal voluntary contractions until the torque did not increase further by more than 5% during the three successive attempts. Knee flexion and extension were performed as discrete movements in a single direction (i.e., non-reciprocal). Each contraction lasted 4–5 seconds, and the contractions were separated by 2 minutes of rest. During each attempt, the physical therapist loudly encouraged the patients to achieve their maximal performance. After a 5-minute rest, the same procedure was performed with the alternate lower limb. The variables analyzed included extensor and flexor peak torque (PT) of the surgical and nonsurgical knees, the ratio of hamstrings to quadriceps strength (H/Q ratio) of the surgical and non-surgical knees, and the difference in strength of the extensors and flexors between the surgical and non-surgical knees expressed as percentage of nonsurgical knee performance. The H/Q ratio, the ratio of knee flexor strength to knee extensor strength, has been used to examine the knee function and muscle balance, with a higher isometric H/Q ratio corresponding to relatively lower quadricep strength [17].
+(2) Gait analysis: Spatiotemporal variables of gait were measured using a validated, 24 wireless, inertial sensing device (GSensor1; BTS Bioengineering S.p.A., Italy). The semi-elastic back belt device is worn on the patient's waist and measures the acceleration values for the three anatomical axes (anteroposterior, mediolateral, and vertical). Patients were instructed to walk 8 m at a comfortable speed as naturally as possible. The gait data were collected and transmitted via Bluetooth to a personal computer. The BTS G-Walk system is a dedicated processing software that measures gait variables, such as gait speed, cadence, stride length, and duration of gait cycle, stance phase, swing phase, and double support [18].
+(3) Six-minute walk test: The 6MWT is a performance-based measure of exercise tolerance and functional walking capacity in adult populations. Patients were instructed to walk as far as possible for 6 minutes, while walking through a 50-m hallway marked with lines. They could use walking aids during the test if they were unable to walk independently. The 6MWT has high reliability in patients who have undergone primary TKA [19].
+(4) Timed up-and-go test: The TUG test is an evaluation of dynamic balance performance. Each patient sat with their back against a chair (seat height, 44 cm; depth, 45 cm; width, 49 cm; arm rest height, 64 cm) placed at the end of a marked 3-m distance. On the word “go” patients were instructed to stand up, walk at a comfortable speed past the 3-m mark, turn around, walk back, and sit down in the chair without physical assistance. Time was measured in seconds. The TUG tool is considered an acceptable method for measuring dynamic balance [20].
+(5) Stair-climbing and -descending test: The SCT was measured as the time required to ascend and descend a flight of stairs (12 steps, each was 17 cm high and 25 cm wide). Patients were asked to ascend or descend the stairs as fast as possible on the word “go”. Each trial was performed with a 5-minute rest interval and the best score was recorded [21].
+Self-reported physical function and quality of life
+(1) Western Ontario McMaster Universities Osteoarthritis Index: WOMAC is a multidimensional questionnaire that assesses pain, stiffness, physical function, and previously, self-reported disability in patients with knee OA. The questionnaire includes five pain variables, two stiffness variables, and 17 physical function variables. Each of these variables is scored using the Likert scale (0, none; 1, slight; 2, moderate; 3, very; and 4, extremely), as recommended by the Outcome Measures in Rheumatology Clinical Trials. The Likert scale is used to determine the degree of pain, stiffness, and difficulty experienced in performing each of 17 activities in the preceding 48 hours. Higher scores indicate greater levels of pain, stiffness, and difficulty [22]. The scores of pain, stiffness, and physical function variables are added to yield the WOMAC-Pain (range, 0–20), WOMAC-Stiffness (range, 0–8), and WOMAC-Function (range, 0–68) subscores.
+(2) EuroQOL five dimensions questionnaire: The EQ-5D questionnaire is used to evaluate self-reported quality of life, and the EQ-5D Index is widely used to measure general health status. The instrument comprises a questionnaire with five dimensions: mobility, self-care, usual activities, pain/discomfort, and anxiety/depression. Each dimension is represented by one question with three severity levels (no problems, some or moderate problems, and extreme problems). Scores were transformed using utility weights derived from the general Korean population and ranged from −1 to 1. Higher scores indicated better overall health status. The formula for the EQ-5D Index has been presented by Kim et al. [23].
+Statistical analysis
+Statistical analysis was performed using SPSS ver. 20.0 for Windows (IBM, Armonk, NY, USA). Baseline demographic and clinical characteristics were compared between the ECC-CON and CON groups using independent sample t-tests for continuous data and chi-square tests for categorical data. The change in a variable from pre- to post-training was evaluated in each group using the Wilcoxon signed-rank test. Changes from pre- to post-training were compared between the groups using the Mann-Whitney test. A p-value <0.05 was considered significant.
+RESULTS
+Demographic and clinical characteristics
+In total, 37 patients were enrolled, but two patients refused to consent and one patient dropped out for personal reasons. Finally, 34 patients were included in the study. Baseline demographics and clinical characteristics of the patients are summarized in Table 2. Demographic characteristics including age, gender, height, weight, and body mass index were not significantly different between the ECC-CON group and the CON group, and the results from baseline performance-based physical function, self-reported physical function and quality of life did not show any significant differences between the two groups. None of the patients experienced a serious adverse event during the study period.
+Comparison of performance-based physical function, self-reported physical function and quality of life within each group
+Relative to their preoperative values, the ECC-CON group showed significant improvements in postoperative extensor PT of the non-surgical knee (from 70.7±24.9 to 90.3±32.6 Nm/kg BW; p=0.01), gait speed (from 0.8±0.1 to 1.0±0.1 m/s; p=0.001), and 6MWT (from 281.3±66.3 to 322.9±42.0 m; p=0.02). The CON group showed significant improvements in postoperative H/Q ratio of the surgical knee (from 83.6%±22.0% to 102.5%±37.9%; p=0.03) and SCT-ascent (from 11.9±5.1 to 16.5±6.6 seconds; p=0.003), whereas the ECC-CON group did not show significant changes in these parameters.
+Both groups showed a significant decrease in extensor PT of the surgical knee from preoperative to postoperative values (ECC-CON group: from 63.6±15.8 to 56.4±15.7 Nm/kg BW; p=0.02 vs. CON group: from 63.3±20.2 to 46.9±14.5 Nm/kg BW; p<0.001). In addition, both groups had significant improvements in WOMAC-Pain, function, and EQ-5D scores (Table 3).
+Changes in performance-based physical function, self-reported physical function, and quality of life between two groups
+Although extensor PT of the surgical knee did not reach the preoperative level in either group, the change in extensor PT was significantly less in the ECC-CON group than in the CON group. No other performance-based physical function tests or self-reported measurements were different between the groups (Table 4).
+DISCUSSION
+The main finding of the present study was that early, combined ECC-CON resistance exercise after TKA resulted in a smaller decrease in quadriceps strength. Within-group analysis of this study revealed that the significant improvements in indicators of physical performance such as gait speed and endurance were shown in the ECC-CON group. This was the first study demonstrating the effects of an early eccentrically biased rehabilitation program via recumbent eccentric ergometer after TKA.
+Sarcopenia, the progressive loss of muscle mass with aging, has been a major focus of attention and contributes to disability in elderly people. Failure to activate the quadriceps muscle may contribute to muscle atrophy in patients with knee OA [24]. In addition, decreases in quadriceps strength and physical performance are unavoidable in patients who have recently undergone TKA. Previous studies show a 60% decrease in quadriceps muscle strength and 17% decrease in voluntary muscle activation from preoperative levels 1 month after TKA [25,26], that persists for years [27]. Furthermore, these conditions may lead to functional deficit. Mizner et al. [25] reported decreases of 20%–25% in functional performance from presurgical values in the first month after TKA. In addition, several studies have reported that 75% of patients have difficulty with walking and climbing stairs after TKA relative to age-matched healthy controls [5,28]. Recovery of functional and muscle strength occurs during the first 6 to 12 months following TKA, however residual deficits persist for years thereafter. Thus, to minimize deficits in physical function following TKA, rehabilitation strategies should focus on achieving quadriceps muscle strength equal to that of age-matched healthy individuals.
+Training methods for quadriceps strengthening consist of two types (concentric contraction and eccentric contraction) under the tension of an external force. Concentric exercise consists of the shortening of muscle fibers, whereas eccentric exercise consists of the active lengthening of muscle fibers. A previous study reported a 30%–40% greater improvement in muscular strength with resistance exercise performed using eccentric muscle contractions than with exercise using concentric contractions [29]. In addition, the effectiveness of eccentric exercise improves muscle strength and muscle hypertrophy more than concentric exercise at the same metabolic workload [30]. Furthermore, the cardiopulmonary oxygen demand is 20% lower during eccentric exercise, and muscular strength, along with metabolic efficiency, improves rapidly [31,32]. The systematic review reported by Roig et al. [33] shows that resistance exercise performed with eccentric muscle contraction is more effective for increasing strength than concentric exercise in healthy individuals. Since eccentric training maximizes muscle strengthening using minimum energy consumption, it may suitable for elderly patients who have low exercise tolerance [10]. In addition, training programs using concentric-eccentric training have a greater effect on the functional capacity of patients with knee OA than programs using concentric isokinetic training [29]. LaStayo et al. [14] reported that 12 weeks of eccentric exercise improve mobility levels as well as muscle size and strength in patients 1 to 4 years after TKA, and a pilot study reported by Marcus et al. [13] demonstrated that an eccentrically-biased intervention after TKA improved physical function and quadriceps strength.
+The first key observation of the present study was that the change in extensor PT of the surgical knee was significantly less in the ECC-CON group than in the CON group, although extensor PT of the surgical knee following TKA did not reach the preoperative level in either group. In within-group analysis of the present study, the quadriceps muscle strength decreased by 11.3% and 25.9% from preoperative levels in the ECC-CON group and CON groups, respectively. Considering that previous studies showed a 60% decrease in quadriceps strength from preoperative levels, our findings suggest that eccentric exercise was effective for improving quadriceps muscle strength in patients early after TKA. In addition, the CON group showed a significant increase in H/Q ratio, while the changes in the ECC-CON group were negligible. These results show that combined ECC-CON training may be more effective than concentric exercise for improving quadriceps strength. In addition, the decrease in quadriceps muscle strength may be minimized because eccentric exercise was performed intensively at a relatively early stage (starting 14 days after TKA). However, the CON group also showed a relatively small reduction in quadriceps strength (25.9%) after surgery, suggesting that early, intensive, resistance training has a significant effect on muscle strength. The association between improvements in quadriceps strength and functional ability after TKA, along with quadriceps eccentric exercise, has clinically important implications for TKA rehabilitative strategies as it demonstrates the value of eccentric exercise for enhancing functional performance by improving quadriceps strength of the surgical knee.
+In within-group analysis, the improvement in quadriceps strength of the non-surgical knee was also significantly greater postoperatively relative to preoperative values in the ECC-CON group. Patients tend to rely on the non-surgical knee while walking during the early postoperative period. Thus, improvement in the quadriceps muscle strength of the non-surgical knee may improve walking stability and daily activities after TKA. Moreover, this study revealed that the ECC-CON group showed significant improvements in gait speed postoperatively, relative to preoperative values. Quadriceps weakness has been associated with decreased gait speed in the elderly population [34]. Decreased comfortable walking speed in elderly individuals with knee OA may lead to comorbidities [35] or even death [36]. Therefore, the results of this study suggest that concentric-eccentric exercise may improve quadriceps muscle strength and therefore walking speed.
+The 6MWT measures the maximal distance a subject can walk in 6 minutes, and is a simple, clinically relevant measure of exercise tolerance. Several studies have found a modest relationship between measured ambulation and self-reported function in many different patient groups [7,8]. Moreover, the 6MWT is a moderately valid indicator of submaximal [37] and maximal aerobic capacity in patients with knee OA [38]. It was discovered in this study that the ECC-CON group showed significant improvements in postoperative 6MWT, which suggests that concentric-eccentric exercise that improves quadriceps muscle strength may enhance exercise tolerance and eventually improve postoperative functional status after TKA.
+In a previous study, impaired stair-climbing ability was associated with quadriceps weakness in elderly populations [39]. The average stair climbing speed of individuals who have undergone TKA was two times slower than that of the age-matched non-arthritic healthy population [28]. However, the present study showed that the postoperative stair climbing ability was not significantly lower than the preoperative level in the ECC-CON group, while the CON group showed a significant increase in SCT-ascent. In conclusion, concentric-eccentric exercise may improve quadriceps muscle strength and minimize the decrease in stair-climbing ability early after TKA.
+Finally, both groups showed significant improvements in WOMAC-Pain, function, and EQ-5D scores. Similarly, previous studies have shown that self-reported physical function is significantly better after TKA than preoperatively [40].
+There are several limitations to the present study. First, the sample size in this investigation was relatively small. Although some significant differences were noted, they were insufficient for monitoring the overall effects of an eccentrically biased intervention. Second, an intervention period of 2 weeks may be too short to demonstrate the additional effect of progressive eccentric exercise via recumbent ergometer relative to the control exercise program. Finally, the focus was on knee muscle strength rather than hip and ankle muscle strength because it was hypothesized that quadriceps strength would be strongly associated with physical performance in patients who have undergone TKA. Accordingly, further larger-scale studies that perform long-term follow-ups, as well as investigate various muscle factors, are warranted to demonstrate the effects of eccentrically biased rehabilitation after TKA.
+In conclusion, this study demonstrated that early combined ECC-CON resistance training was more effective at minimizing the loss of quadriceps strength in the surgical knee than concentric-only resistance training. Furthermore, within-group analysis indicated that ECC-CON training improved endurance and gait speed after TKA to a greater extent than concentric training alone. This study suggests that progressive, resistance exercise via an eccentric, recumbent ergometer could be an early, rehabilitative strategy after TKA.
+ACKNOWLEDGMENTS
+This work was supported by the research grant from Jeju National University Hospital in 2014.
+CONFLICT OF INTEREST:
+CONFLICT OF INTEREST: No potential conflict of interest relevant to this article was reported.
+References
+1. Peat G, McCarney R, Croft P. Knee pain and osteoarthritis in older adults: a review of community burden and current use of primary health care. Ann Rheum Dis 2001;60:91–97. PMID: 11156538.
+2. Min S. Aging vulnerability index of Korea. Korean J Econ 2012;19:49–80.
+3. Healthcare Cost and Utilization Project. HCUP Facts and Figures: statistical on hospital-based care in the United States, 2008 [Internet]. Rockville, MD: Healthcare Cost and Utilization Project; c2013.cited 2017 Oct 1. Available from: https://www.hcup-us.ahrq.gov/reports/factsandfigures/2008/TOC_2008.jsp.
+4. Health Insurance Review & Assessment Service. Arthroplasty and total knee joint replacement procedures analysis 2015. Wonju: Korea Heathcare Bigdata Hub; 2016.
+5. Noble PC, Gordon MJ, Weiss JM, Reddix RN, Conditt MA, Mathis KB. Does total knee replacement restore normal knee function? Clin Orthop Relat Res 2005;(431): 157–165.
+6. Lorentzen JS, Petersen MM, Brot C, Madsen OR. Early changes in muscle strength after total knee arthroplasty: a 6-month follow-up of 30 knees. Acta Orthop Scand 1999;70:176–179. PMID: 10366920.
+7. Bade MJ, Kohrt WM, Stevens-Lapsley JE. Outcomes before and after total knee arthroplasty compared to healthy adults. J Orthop Sports Phys Ther 2010;40:559–567. PMID: 20710093.
+8. Petterson SC, Mizner RL, Stevens JE, Raisis L, Bodenstab A, Newcomb W, et al. Improved function from progressive strengthening interventions after total knee arthroplasty: a randomized clinical trial with an imbedded prospective cohort. Arthritis Rheum 2009;61:174–183. PMID: 19177542.
+9. Moffet H, Collet JP, Shapiro SH, Paradis G, Marquis F, Roy L. Effectiveness of intensive rehabilitation on functional ability and quality of life after first total knee arthroplasty: a single-blind randomized controlled trial. Arch Phys Med Rehabil 2004;85:546–556. PMID: 15083429.
+10. LaStayo PC, Ewy GA, Pierotti DD, Johns RK, Lindstedt S. The positive effects of negative work: increased muscle strength and decreased fall risk in a frail elderly population. J Gerontol A Biol Sci Med Sci 2003;58:M419–M424. PMID: 12730250.
+11. Marcus RL, Smith S, Morrell G, Addison O, Dibble LE, Wahoff-Stice D, et al. Comparison of combined aerobic and high-force eccentric resistance exercise with aerobic exercise only for people with type 2 diabetes mellitus. Phys Ther 2008;88:1345–1354. PMID: 18801851.
+12. Dibble LE, Hale TF, Marcus RL, Gerber JP, LaStayo PC. High intensity eccentric resistance training decreases bradykinesia and improves quality of life in persons with Parkinson’s disease: a preliminary study. Parkinsonism Relat Disord 2009;15:752–757. PMID: 19497777.
+13. Marcus RL, Yoshida Y, Meier W, Peters C, Lastayo PC. An eccentrically biased rehabilitation program early after TKA surgery. Arthritis 2011;2011:353149PMID: 22046514.
+14. LaStayo PC, Meier W, Marcus RL, Mizner R, Dibble L, Peters C. Reversing muscle and mobility deficits 1 to 4 years after TKA: a pilot study. Clin Orthop Relat Res 2009;467:1493–1500. PMID: 19333672.
+15. Maffiuletti NA, Bizzini M, Desbrosses K, Babault N, Munzinger U. Reliability of knee extension and flexion measurements using the Con-Trex isokinetic dynamometer. Clin Physiol Funct Imaging 2007;27:346–353. PMID: 17944656.
+16. Thorstensson A, Karlsson J. Fatiguability and fibre composition of human skeletal muscle. Acta Physiol Scand 1976;98:318–322. PMID: 136865.
+17. Silva M, Shepherd EF, Jackson WO, Pratt JA, McClung CD, Schmalzried TP. Knee strength after total knee arthroplasty. J Arthroplasty 2003;18:605–611. PMID: 12934213.
+18. Bugane F, Benedetti MG, Casadio G, Attala S, Biagi F, Manca M, et al. Estimation of spatial-temporal gait parameters in level walking based on a single accelerometer: validation on normal subjects by standard gait analysis. Comput Methods Programs Biomed 2012;108:129–137. PMID: 22391334.
+19. Jakobsen TL, Kehlet H, Bandholm T. Reliability of the 6-min walk test after total knee arthroplasty. Knee Surg Sports Traumatol Arthrosc 2013;21:2625–2628. PMID: 22644072.
+20. Podsiadlo D, Richardson S. The timed “Up & Go”: a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc 1991;39:142–148. PMID: 1991946.
+21. Almeida GJ, Schroeder CA, Gil AB, Fitzgerald GK, Piva SR. Interrater reliability and validity of the stair ascend/descend test in subjects with total knee arthroplasty. Arch Phys Med Rehabil 2010;91:932–938. PMID: 20510986.
+22. Bellamy N, Buchanan WW, Goldsmith CH, Campbell J, Stitt LW. Validation study of WOMAC: a health status instrument for measuring clinically important patient relevant outcomes to antirheumatic drug therapy in patients with osteoarthritis of the hip or knee. J Rheumatol 1988;15:1833–1840. PMID: 3068365.
+23. Kim MH, Cho YS, Uhm WS, Kim S, Bae SC. Cross-cultural adaptation and validation of the Korean version of the EQ-5D in patients with rheumatic diseases. Qual Life Res 2005;14:1401–1406. PMID: 16047514.
+24. Hairi NN, Cumming RG, Naganathan V, Handelsman DJ, Le Couteur DG, Creasey H, et al. Loss of muscle strength, mass (sarcopenia), and quality (specific force) and its relationship with functional limitation and physical disability: the Concord Health and Ageing in Men Project. J Am Geriatr Soc 2010;58:2055–2062. PMID: 21054284.
+25. Mizner RL, Petterson SC, Stevens JE, Vandenborne K, Snyder-Mackler L. Early quadriceps strength loss after total knee arthroplasty. The contributions of muscle atrophy and failure of voluntary muscle activation. J Bone Joint Surg Am 2005;87:1047–1053. PMID: 15866968.
+26. Stevens JE, Mizner RL, Snyder-Mackler L. Quadriceps strength and volitional activation before and after total knee arthroplasty for osteoarthritis. J Orthop Res 2003;21:775–779. PMID: 12919862.
+27. Huang CH, Cheng CK, Lee YT, Lee KS. Muscle strength after successful total knee replacement: a 6- to 13-year followup. Clin Orthop Relat Res 1996;(328): 147–154.
+28. Walsh M, Woodhouse LJ, Thomas SG, Finch E. Physical impairments and functional limitations: a comparison of individuals 1 year after total knee arthroplasty with control subjects. Phys Ther 1998;78:248–258. PMID: 9520970.
+29. Gur H, Cakin N, Akova B, Okay E, Kucukoglu S. Concentric versus combined concentric-eccentric isokinetic training: effects on functional capacity and symptoms in patients with osteoarthrosis of the knee. Arch Phys Med Rehabil 2002;83:308–316. PMID: 11887109.
+30. LaStayo PC, Pierotti DJ, Pifer J, Hoppeler H, Lindstedt SL. Eccentric ergometry: increases in locomotor muscle size and strength at low training intensities. Am J Physiol Regul Integr Comp Physiol 2000;278:R1282–R1288. PMID: 10801298.
+31. Okamoto T, Masuhara M, Ikuta K. Cardiovascular responses induced during high-intensity eccentric and concentric isokinetic muscle contraction in healthy young adults. Clin Physiol Funct Imaging 2006;26:39–44. PMID: 16398669.
+32. Vallejo AF, Schroeder ET, Zheng L, Jensky NE, Sattler FR. Cardiopulmonary responses to eccentric and concentric resistance exercise in older adults. Age Ageing 2006;35:291–297. PMID: 16638770.
+33. Roig M, O'Brien K, Kirk G, Murray R, McKinnon P, Shadgan B, et al. The effects of eccentric versus concentric resistance training on muscle strength and mass in healthy adults: a systematic review with meta-analysis. Br J Sports Med 2009;43:556–568. PMID: 18981046.
+34. Moxley Scarborough D, Krebs DE, Harris BA. Quadriceps muscle strength and dynamic stability in elderly persons. Gait Posture 1999;10:10–20. PMID: 10469937.
+35. Cesari M, Onder G, Russo A, Zamboni V, Barillaro C, Ferrucci L, et al. Comorbidity and physical function: results from the aging and longevity study in the Sirente geographic area (ilSIRENTE study). Gerontology 2006;52:24–32. PMID: 16439821.
+36. Studenski S, Perera S, Patel K, Rosano C, Faulkner K, Inzitari M, et al. Gait speed and survival in older adults. JAMA 2011;305:50–58. PMID: 21205966.
+37. Stillwell KM, Forman DE, McElwain D, Simpson CE, Garber C. The 6 minute walk test for evaluation of functional capacity in elderly adults 907. Med Sci Sports Exerc 1996;28:152.
+38. Rejeski WJ, Ettinger WH Jr, Schumaker S, James P, Burns R, Elam JT. Assessing performance-related disability in patients with knee osteoarthritis. Osteoarthritis Cartilage 1995;3:157–167. PMID: 8581745.
+39. Altubasi IM. Is quadriceps muscle strength a determinant of the physical function of the elderly? J Phys Ther Sci 2015;27:3035–3038. PMID: 26644638.
+40. Meier W, Mizner RL, Marcus RL, Dibble LE, Peters C, Lastayo PC. Total knee arthroplasty: muscle impairments, functional limitations, and recommended rehabilitation approaches. J Orthop Sports Phys Ther 2008;38:246–256. PMID: 18448878.
+Fig. 1
+The concentric knee extension (A) and flexion (B) exercise using air resistance machines.
+Fig. 2
+The eccentric exercise using recumbent eccentric (A) and concentric (B) ergometer.
+Table 1
+Training intensity and duration of the 2-week recumbent eccentric and concentric ergometer rehabilitation protocol
+Table 2
+Demographic and disease-related characteristics of the subjects (n=34)
+Values represent mean±standard deviation or number (%) of cases.
+BMI, body mass index; K-L, Kellgren-Lawrence; TKA, total knee arthroplasty.
+Table 3
+Comparison of performance-based physical function, self-reported physical function and quality of life before and after TKA within each group
+Values are presented as mean±standard deviation.
+TKA, total knee arthroplasty; ECC-CON, eccentric-concentric; CON, concentric; PT, peak torque; BW, body weight; H/Q, hamstring/quadriceps; 6MWT, 6-Minute Walk Test; TUG, Timed Up and Go Test; SCT, Timed Stair Climbing Test; WOMAC, Western Ontario McMaster Universities Osteoarthritis Index; EQ-5D, EuroQOL five dimensions.
+*p<0.05, **p<0.01.
+Table 4
+Comparison of changes in performance-based physical function, self-reported physical function and quality of life before and after TKA between the ECC-CON and CON groups
+Values are presented as mean±standard deviation.
+TKA, total knee arthroplasty; ECC-CON, eccentric-concentric; CON, concentric; PT, peak torque; BW, body weight; H/Q, hamstring/quadriceps; 6MWT, 6-Minute Walk Test; TUG, Timed Up and Go Test; SCT, Timed Stair Climbing Test; WOMAC, Western Ontario McMaster Universities Osteoarthritis Index; EQ-5D, EuroQOL five dimensions.
+*p<0.05.
+TOOLS
+PDF Links
+PubReader
+ePub Link
+Full text via DOI
+Full text via PMC
+Download Citation
+CrossRef TDM
+E-Mail
+Share :
+METRICS
+0	Crossref
+Scopus
+1,026 View
+34	Download
+Related articles in ARM
+ABOUT
+Aims and scope
+About the journal
+Editorial board
+Open access
+Subscription information
+Contact us
+ARTICLE CATEGORY
+Review article
+Original article
+Case report
+Others
+Browse all articles >
+BROWSE ARTICLES
+Current issue
+All issues
+Most view
+Most download
+Most cited
+Funded articles
+Ann Rehabil Med Search
+Author index
+AUTHOR INFORMATION
+Instructions for authors
+Research and publication ethics
+Article processing charge
+Author’s checklist
+E-submission
+Copyright transfer agreement
+Editorial Office
+Department of Rehabilitation Medicine, Seoul National University Boramae Medical Center,
+20 Boramae-ro 5-gil, Dongjak-gu, Seoul, 07061, Korea
+Tel: +82-2-870-2679 Fax: +82-2-870-2679 E-mail: edit@e-arm.org
+Copyright © 2019 by Korean Academy of Rehabilitation Medicine. All rights reserved.

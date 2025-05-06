@@ -1,0 +1,207 @@
+Two-Hit Hypothesis and Genomic Instability - Genetics of Cancer | Coursera
+List
+Explore
+For Enterprise
+Join for Free
+Log In
+Loupe Copy
+Explore
+Arts and Humanities
+Business
+Computer Science
+Data Science
+Information Technology
+Health
+Math and Logic
+Personal Development
+Physical Science and Engineering
+Social Sciences
+Language Learning
+Degrees and Certificates
+Explore all of Coursera
+Loupe Copy
+Loupe Copy
+Browse
+Search
+For Enterprise
+Log In
+Join for Free
+Two-Hit Hypothesis and Genomic Instability
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+Loading...
+From the course by Johns Hopkins University
+Introduction to the Biology of Cancer
+1811 ratings
+Try the Course for Free
+Try the Course for Free
+This Course
+Video Transcript
+Johns Hopkins University
+Introduction to the Biology of Cancer
+1811 ratings
+Over 500,000 people in the United States and over 8 million people worldwide are dying every year from cancer. As people live longer, the incidence of cancer is rising worldwide and the disease is expected to strike over 20 million people annually by 2030. This open course is designed for people who would like to develop an understanding of cancer and how it is prevented, diagnosed, and treated. The course introduces the molecular biology of cancer (oncogenes and tumor suppressor genes) as well as the biologic hallmarks of cancer. The course also describes the risk factors for the major cancers worldwide, including lung cancer, breast cancer, colon cancer, prostate cancer, liver cancer, and stomach cancer. We explain how cancer is staged, the major ways cancer is found by imaging, and how the major cancers are treated. In addition to the core materials, this course includes two Honors lessons devoted to cancers of the liver and prostate. Upon successful completion of this course, you will be able to: - Identify the major types of cancer worldwide. (Lecture 1) - Describe how genes contribute to the risk and growth of cancer. (Lecture 2) - List and describe the ten cellular hallmarks of cancer. (Lecture 3) - Define metastasis, and identify the major steps in the metastatic process. (Lecture 4) - Describe the role of imaging in the screening, diagnosis, staging, and treatments of cancer. (Lecture 5) - Explain how cancer is treated. (Lecture 6) We hope that this course gives you a basic understanding of cancer biology and treatment. The course is not designed for patients seeking treatment guidance – but it can help you understand how cancer develops and provides a framework for understanding cancer diagnosis and treatment.
+From the lesson
+Genetics of Cancer
+Now, we'll turn our attention to the genetics of cancer, variation and mutation, two-hit hypothesis, and genomic instability.
+Genetics Overview1:18
+Basic Introduction to Genetics5:38
+Genetic Variation and Mutation3:03
+Two-Hit Hypothesis and Genomic Instability6:49
+Meet the Instructors
+Kenneth J. Pienta, M.D.
+The Donald S. Coffey Professor of Urology
+The James Buchanan Brady Urological Institute
+0:00
+Welcome back.
+In this section, we'll be talking about Two-Hit Hypothesis and
+Genomic Instability.
+And really, where those mutations come from in the first place.
+0:09
+So you can acquire mutations two different ways,
+either through somatic mutation or germide mutation.
+0:17
+Somatic mutations are acquired by somatic cells,
+which are all the cells of the body, except eggs or
+sperm and those mutations are passed on to daughter cells during cell proliferation.
+0:28
+It is important to remember that these mutations cannot be inherited by
+offspring.
+Every time a cell divides, it must replicate its DNA and
+errors just get made by chance.
+So, you'll remember what we talked about before with a lot of DNA
+packed into a very small area.
+So just by chance, about 1 mutation is made every 10 billion base pairs.
+There is an increase in DNA damage and
+subsequent replication error due to environmental carcinogens as well.
+These include UV damage, which is also shown in the cartoon to
+the right where an incoming UV photon hits the DNA and damages it.
+So that it causes nics in the DNA which you can see to the far right, which then
+have to be repaired by the cell and this can cause an increase risk to skin cancer.
+Similarly, smoking causes chemical damage to lung cells and hepatitis and
+alcohol abuse can lead to damaging cirrhosis of liver cells.
+You might remember these from another lecture that where Dr.
+Pienta discussed the risks to different cancers.
+1:36
+The other way you can get mutations is by inheriting them and
+these are called germline mutations or inherited mutations.
+In these mutations are present in the germ cell.
+So in this case, that's the egg or the sperm and are inherited by offspring.
+So, it's just the genetic variation that we're born with.
+Germline variation accounts for why offspring look similar to, but
+not identical to their parents.
+When cancer is said to run in families, it may be due to these inherited mutations.
+For example, women who inherit a BRCA 1/2 mutation are at increased risk for
+breast cancer.
+And individuals who inherit a CDH1 mutation are at increased risk for
+stomach cancer, but
+not all women who inherit a BRCA1/2 mutation develop breast cancer.
+How does that work?
+This is where it becomes important to remember that cancer is caused by
+an accumulation of detrimental variation in the genome.
+The biggest risk factor for developing cancer is aging.
+Over time, we accumulate mutations and
+this either happens by random replication error or by increase
+replication error due to carcinogens that cause DNA damage as we discussed before.
+2:49
+The Two-Hit Hypothesis describes why not all
+women with a BRCA1/2 mutation get breast cancer.
+You'll remember that humans are diploid.
+We have two copies of every gene.
+One maternal, one paternal.
+This means that even if one copy of a gene or allele is mutated,
+the other copy can allow the protein to operate normally.
+In order for a gene to be cancer inducing, both copies of the gene must be affected.
+The second so-called hit may alter the DNA directly via mutation or
+it may alter the expression of the DNA, the epigenetic mechanism.
+3:30
+So let's talk through an example of this, we'll work through the top tree first.
+On the far left, you can see a parent who with his partner pass on
+two normal copies of a gene to their child.
+Over the lifetime of this individual,
+he accumulates mutations including one hit in the gene shown here.
+Importantly, the other copy of the gene that was normal
+that did not have a mutation allowed it to be expressed normally.
+Eventually, however, this individual acquired another mutation in the same gene
+and this resulted in the gene becoming a cancer causing genetic mutant.
+In the bottom example where you see an example of inherited or
+germline mutation causing increased risk to an individual over a lifetime.
+4:18
+In this case, the parents passed on one mutated copy of the gene and
+one normal copy of the gene.
+In this case, as the individual progresses thru life,
+he only needs one additional head in order for the gene to be cancer causing.
+4:34
+Most cancer requires mutations and multiple different types of genes.
+In order to survive, a cancer cell must overcome normal regulation of
+self-proliferation, cell survival and cellular communication in other so-called
+hall marks of cancer that will be discussed by Dr. Sarif in a later lecture.
+Each of these processes are tightly regulated in a normal cells by multiple
+redundant pathways.
+This means then in order to become cancerous,
+a cell must accumulate mutations in multiple of these pathways.
+It's been described as usually a minimum of six to seven
+in multiple different genes.
+So, you can see an example of this to the far right.
+At the top, we see a normal cell where a mutation is inactivated a tumor
+suppressor gene, so we see increased proliferation.
+This cell doesn't become malignant yet, though.
+First, it undergoes mutation that inactivates DNA repair genes.
+And additionally, mutation that activates an oncogene and
+then mutations that inactivate several different tumor suppressor genes,
+that then induce it to become cancer.
+5:42
+In addition, cancer cells show a great deal of genomic instability.
+In genomic instability describes how cells can survive and
+divide with higher rates of mutation than in normal cells.
+So in a normal cell, DNA replication error results in programmed cell death or
+apoptosis, which you can see in the lighter color box over to your right.
+And a cancer cell that same DNA replication error with the same DNA
+replication error cells continue to divide and
+pass that mutation on to daughter cells.
+Over time, these mutations and this repair pathways will accumulate.
+Some cells never undergo that program cell death
+in the frequency of mutation in the cancer cell genome increases.
+This increase in mutation rate leads to tumor cell heterogeneity and
+that's one of the reason why cancer patients become resistant to treatment.
+This brings us to the end of our lecture.
+I hope this gave you a good understanding of the basics of genetics in order to
+better understand the rest of this lecture series and introduction of cancer biology.
+Try the Course for Free
+Explore our Catalog
+Join for free and get personalized recommendations, updates and offers.
+Get Started
+Coursera
+Coursera provides universal access to the world’s best education, partnering with top universities and organizations to offer courses online.
+© 2019 Coursera Inc. All rights reserved.
+Coursera
+About
+Leadership
+Careers
+Catalog
+Certificates
+Degrees
+For Enterprise
+For Government
+Community
+Learners
+Partners
+Developers
+Beta Testers
+Translators
+Connect
+Blog
+Facebook
+LinkedIn
+Twitter
+Google+
+YouTube
+Tech Blog
+More
+Terms
+Privacy
+Help
+Accessibility
+Press
+Contact
+Directory
+Affiliates

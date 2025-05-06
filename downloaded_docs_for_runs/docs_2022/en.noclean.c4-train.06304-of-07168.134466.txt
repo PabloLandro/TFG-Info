@@ -1,0 +1,1072 @@
+Cell Phone Brain Tumor Risk? | NutritionFacts.org
+<# if ( data._snippetResult['content'] ) { #> {{{ data._snippetResult['content'].value }}} <# } #>
+{{{ data._highlightResult.name.value }}}
+NutritionFacts.org
+Search
+Search
+EN
+ES
+Register
+Sign In
+Video Library
+Introductory Videos Latest Video Random Video All Videos Browse Videos by Topic Live Q&A's
+Podcast
+How Not to Die
+How Not to Die How Not to Die Cookbook Daily Dozen Challenge
+About
+About NutritionFacts.org Meet the Team Frequently Asked Questions
+Donate
+Donate Volunteer Our Supporters Donor Rewards and Recognition
+Subscribe
+E-Mail Subscriptions Volunteer Newsletter Facebook Twitter Instagram Pinterest YouTube Vimeo
+EN
+ES
+Register
+Sign In
+Cell Phone Brain Tumor Risk?
+Michael Greger M.D. FACLM October 6th, 2017 Volume 38
+Cell Phone Brain Tumor Risk?
+4.54 (90.87%) 92 votes
+What does the world’s leading authority on carcinogens have to say about mobile phones?
+Subscribe to Videos
+Discuss
+Republish
+Transcript
+Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.
+“Do mobile phones cause cancer?” That’s a question billions of people would like to have answered. And that’s why we have the World Health Organization’s IARC, the recognized authority on what is and is not carcinogenic. There are five categories. There are the Group 1 carcinogens; those we know, with the highest level of certainty, do cause cancer in human beings. Then, there are things that probably cause cancer, possibly cause cancer, we’re not sure, or probably don’t cause cancer.
+“In May 2011, 30 scientists from 14 countries met at the…IARC…to assess the carcinogenicity of” the radiation emitted from cell phones, and concluded that, given the limited amount of available evidence, cell phones are a possible human carcinogen. So, not a definite human carcinogen, not a Group 1 carcinogen known to be cancer-causing, like plutonium, or processed meat. Not a probable carcinogen, like DDT or Monsanto’s Roundup pesticide, or some regular meat, but a possible carcinogen—down around something like preserved vegetables, like kimchi.
+Now, that was more than five years ago. Evidence continues to mount, with the latest two 2017 systematic reviews showing between a 33% increased odds of brain tumors with long-term use, to 46% higher odds of tumors on the phone side of your head. And, that’s including the industry-funded studies that have been accused of being biased and flawed, underestimating the risk, as opposed to independent studies free from “financial conditioning” (how’s that for a euphemism?).
+And so, some scientists are pushing to have the IARC bump cell phones up to probable carcinogens, or even all the way up into Group 1, at least for brain cancer and acoustic neuromas, which is a type of inner ear tumor. But, the IARC classification for cell phones currently remains at possible carcinogen.
+So, what does that mean? What do we do with that information? Well, given the uncertainty, we could follow “the precautionary principle,” and use “simple personal measures to reduce [our] exposure”—like not putting the phone directly up to our head all the time. That’s the main concern about cell phones, holding it to our head, whereas there’s no evidence of finger cancer risk; so, text away. This is considered particularly important for children.
+Other potential personal recommendations: “wait[ing] a moment before putting your cell phone to your ear,” if you don’t have a headset, and don’t fall for those anti-radiation gizmos that may make things worse, actually, by forcing the phone to boost the signal.
+Not all agree with this precautionary approach, however. Employees at two cell phone industry trade organizations emphasize that “there are many aspects of human activity that are not ‘totally without adverse health effects,'” and so, we should just accept the risk as being worth it—for example, air travel and “hot showers.” What, like we might scald ourselves or something? In any case, we shouldn’t put out any recommendations—it should be left up to the judgement of the “parents on a personal basis for their own children.” If we put out some kind of guidelines or something, it might make people nervous, and we all know “anxiety…can have deleterious health consequences” itself. So, basically, the cell phone industry cares so much about your health that it doesn’t want you worrying your pretty little head.
+But, that is something openly discussed in the risk analysis literature. Yeah: “From a public health perspective, it might be reasonable to provide cell phone users with voluntary precautionary recommendations for their cell phone handling, in order to enable them to make informed decisions.” But, what if the public can’t handle the truth? We don’t want to freak people out. There’s still “scientific uncertainty”; we don’t want to “foster inappropriate fears.”
+For example, brain cancer is rare to begin with. You only have like a one in 15,000 chance of getting a brain tumor every year; so, even if cell phones double your risk, that would only take you up to a one in 7,500 chance. You may be more likely to get killed by a cell phone in the hands of some distracted driver than by cancer. So, whether health authorities want “to inform the general public about precautionary possibilities” really remains more of “a political decision.”
+Please consider volunteering to help out on the site.
+Sources
+Peres J. WHO classification sparks debate over cell phone safety. J Natl Cancer Inst. 2011 Aug 3;103(15):1146-7.
+Cousin ME, Siegrist M. Cell phones and health concerns: impact of knowledge and voluntary precautionary recommendations. Risk Anal. 2011 Feb;31(2):301-11.
+Dolan M, Rowley J. The precautionary principle in the context of mobile phone and base station radiofrequency exposures. Environ Health Perspect. 2009 Sep;117(9):1329-32.
+Sim MR, Richardson DB. Interphone, IARC and radiofrequency fields: where to next? Occup Environ Med. 2011 Sep;68(9):629-30.
+Samet JM, Straif K, Schüz J, Saracci R. Commentary: mobile phones and cancer: next steps after the 2011 IARC review. Epidemiology. 2014 Jan;25(1):23-7.
+Levis AG, Minicuci N, Ricci P, Gennaro V, Garbisa S. Mobile phones and head tumours. The discrepancies in cause-effect relationships in the epidemiological studies - how do they arise? Environ Health. 2011 Jun 17;10:59.
+Prasad M, Kathuria P, Nair P, Kumar A, Prasad K. Mobile phone use and risk of brain tumours: a systematic reviewof association between study quality, source of funding,and research outcomes. Neurol Sci. 2017 May;38(5):797-810.
+Yang M, Guo W, Yang C, Tang J, Huang Q, Feng S, Jiang A, Xu X, Jiang G. Mobile phone use and glioma risk: A systematic review and meta-analysis. PLoS One. 2017 May 4;12(5):e0175136.
+[authors unknown] IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. Preamble. World Health Organization.
+[authors unknown] Pickled Vegetables. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. Volume 56 (1993).
+Hardell L, Carlberg M. Using the Hill viewpoints from 1965 for evaluating strengths of evidence of the risk for brain tumors associated with use of mobile and cordless phones. Rev Environ Health. 2013;28(2-3):97-106.
+Carpenter DO. Human disease resulting from exposure to electromagnetic fields. Rev Environ Health. 2013;28(4):159-72.
+Acknowledgements
+Icons created by Kimmi Studio, Marco Galtarossa, and Tinashe Mugayi from The Noun Project.
+Image credit: Alon. Image has been modified.
+Motion graphics by Avocado Video.
+Topics
+animal products
+brain health
+brain tumors
+cancer
+carcinogens
+cell phones
+children
+ear health
+fermented foods
+industry influence
+kimchi
+meat
+processed meat
+radiation
+safety limits
+vegetables
+World Health Organization
+View Transcript
+Sources Cited
+Acknowledgements
+Topics
+Below is an approximation of this video’s audio content. To see any graphs, charts, graphics, images, and quotes to which Dr. Greger may be referring, watch the above video.
+“Do mobile phones cause cancer?” That’s a question billions of people would like to have answered. And that’s why we have the World Health Organization’s IARC, the recognized authority on what is and is not carcinogenic. There are five categories. There are the Group 1 carcinogens; those we know, with the highest level of certainty, do cause cancer in human beings. Then, there are things that probably cause cancer, possibly cause cancer, we’re not sure, or probably don’t cause cancer.
+“In May 2011, 30 scientists from 14 countries met at the…IARC…to assess the carcinogenicity of” the radiation emitted from cell phones, and concluded that, given the limited amount of available evidence, cell phones are a possible human carcinogen. So, not a definite human carcinogen, not a Group 1 carcinogen known to be cancer-causing, like plutonium, or processed meat. Not a probable carcinogen, like DDT or Monsanto’s Roundup pesticide, or some regular meat, but a possible carcinogen—down around something like preserved vegetables, like kimchi.
+Now, that was more than five years ago. Evidence continues to mount, with the latest two 2017 systematic reviews showing between a 33% increased odds of brain tumors with long-term use, to 46% higher odds of tumors on the phone side of your head. And, that’s including the industry-funded studies that have been accused of being biased and flawed, underestimating the risk, as opposed to independent studies free from “financial conditioning” (how’s that for a euphemism?).
+And so, some scientists are pushing to have the IARC bump cell phones up to probable carcinogens, or even all the way up into Group 1, at least for brain cancer and acoustic neuromas, which is a type of inner ear tumor. But, the IARC classification for cell phones currently remains at possible carcinogen.
+So, what does that mean? What do we do with that information? Well, given the uncertainty, we could follow “the precautionary principle,” and use “simple personal measures to reduce [our] exposure”—like not putting the phone directly up to our head all the time. That’s the main concern about cell phones, holding it to our head, whereas there’s no evidence of finger cancer risk; so, text away. This is considered particularly important for children.
+Other potential personal recommendations: “wait[ing] a moment before putting your cell phone to your ear,” if you don’t have a headset, and don’t fall for those anti-radiation gizmos that may make things worse, actually, by forcing the phone to boost the signal.
+Not all agree with this precautionary approach, however. Employees at two cell phone industry trade organizations emphasize that “there are many aspects of human activity that are not ‘totally without adverse health effects,'” and so, we should just accept the risk as being worth it—for example, air travel and “hot showers.” What, like we might scald ourselves or something? In any case, we shouldn’t put out any recommendations—it should be left up to the judgement of the “parents on a personal basis for their own children.” If we put out some kind of guidelines or something, it might make people nervous, and we all know “anxiety…can have deleterious health consequences” itself. So, basically, the cell phone industry cares so much about your health that it doesn’t want you worrying your pretty little head.
+But, that is something openly discussed in the risk analysis literature. Yeah: “From a public health perspective, it might be reasonable to provide cell phone users with voluntary precautionary recommendations for their cell phone handling, in order to enable them to make informed decisions.” But, what if the public can’t handle the truth? We don’t want to freak people out. There’s still “scientific uncertainty”; we don’t want to “foster inappropriate fears.”
+For example, brain cancer is rare to begin with. You only have like a one in 15,000 chance of getting a brain tumor every year; so, even if cell phones double your risk, that would only take you up to a one in 7,500 chance. You may be more likely to get killed by a cell phone in the hands of some distracted driver than by cancer. So, whether health authorities want “to inform the general public about precautionary possibilities” really remains more of “a political decision.”
+Please consider volunteering to help out on the site.
+Peres J. WHO classification sparks debate over cell phone safety. J Natl Cancer Inst. 2011 Aug 3;103(15):1146-7.
+Cousin ME, Siegrist M. Cell phones and health concerns: impact of knowledge and voluntary precautionary recommendations. Risk Anal. 2011 Feb;31(2):301-11.
+Dolan M, Rowley J. The precautionary principle in the context of mobile phone and base station radiofrequency exposures. Environ Health Perspect. 2009 Sep;117(9):1329-32.
+Sim MR, Richardson DB. Interphone, IARC and radiofrequency fields: where to next? Occup Environ Med. 2011 Sep;68(9):629-30.
+Samet JM, Straif K, Schüz J, Saracci R. Commentary: mobile phones and cancer: next steps after the 2011 IARC review. Epidemiology. 2014 Jan;25(1):23-7.
+Levis AG, Minicuci N, Ricci P, Gennaro V, Garbisa S. Mobile phones and head tumours. The discrepancies in cause-effect relationships in the epidemiological studies - how do they arise? Environ Health. 2011 Jun 17;10:59.
+Prasad M, Kathuria P, Nair P, Kumar A, Prasad K. Mobile phone use and risk of brain tumours: a systematic reviewof association between study quality, source of funding,and research outcomes. Neurol Sci. 2017 May;38(5):797-810.
+Yang M, Guo W, Yang C, Tang J, Huang Q, Feng S, Jiang A, Xu X, Jiang G. Mobile phone use and glioma risk: A systematic review and meta-analysis. PLoS One. 2017 May 4;12(5):e0175136.
+[authors unknown] IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. Preamble. World Health Organization.
+[authors unknown] Pickled Vegetables. IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. Volume 56 (1993).
+Hardell L, Carlberg M. Using the Hill viewpoints from 1965 for evaluating strengths of evidence of the risk for brain tumors associated with use of mobile and cordless phones. Rev Environ Health. 2013;28(2-3):97-106.
+Carpenter DO. Human disease resulting from exposure to electromagnetic fields. Rev Environ Health. 2013;28(4):159-72.
+Icons created by Kimmi Studio, Marco Galtarossa, and Tinashe Mugayi from The Noun Project.
+Image credit: Alon. Image has been modified.
+Motion graphics by Avocado Video.
+animal products
+brain health
+brain tumors
+cancer
+carcinogens
+cell phones
+children
+ear health
+fermented foods
+industry influence
+kimchi
+meat
+processed meat
+radiation
+safety limits
+vegetables
+World Health Organization
+Republishing "Cell Phone Brain Tumor Risk?"
+×
+Terms
+You may republish this material online or in print under our Creative Commons licence. You must attribute the article to NutritionFacts.org with a link back to our website in your republication.
+If any changes are made to the original text or video, you must indicate, reasonably, what has changed about the article or video.
+You may not use our material for commercial purposes.
+You may not apply legal terms or technological measures that restrict others from doing anything permitted here.
+If you have any questions, please Contact Us
+Title
+Cell Phone Brain Tumor Risk?
+License
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Content URL
+Close Republishing Help
+Doctor's Note
+If you missed my last video, it offers some background on this issue: Does Cell Phone Radiation Cause Cancer?
+2018 Update: Here are the rest of the cell phone and Wi-Fi videos so far:
+Do Cell Phones Lower Sperm Counts?
+Does Laptop Wi-Fi Lower Sperm Counts?
+Do Mobile Phones Affect Brain Function?
+The Effects of Cell Phones & Bluetooth on Nerve Function
+Is Electromagnetic Hypersensitivity Real?
+Do Cell Phones Cause Salivary Gland Tumors?
+What was that about meat and cancer? Although the IARC decision was last year, it’s old news:
+Meat Industry Reaction to New Cancer Guidelines
+The Palatability of Cancer Prevention
+How Much Cancer Does Lunch Meat Cause?
+What about cancer risk of medical diagnostic radiation? See my videos Cancer Risk from CT Scan Radiation and Do Dental X-Rays Cause Brain Tumors?
+If you haven’t yet, you can subscribe to my videos for free by clicking here.
+Previous Video
+Does Cell Phone Radiation Cause Cancer?
+Next Video
+Is it Worth Getting Annual Health Check-Ups?
+138 responses to “Cell Phone Brain Tumor Risk?”
+Leave a Comment Comment Etiquette
+Comment Etiquette
+On NutritionFacts.org, you'll find a vibrant community of nutrition enthusiasts, health professionals, and many knowledgeable users seeking to discover the healthiest diet to eat for themselves and their families. As always, our goal is to foster conversations that are insightful, engaging, and most of all, helpful – from the nutrition beginners to the experts in our community.
+To do this we need your help, so here are some basic guidelines to get you started.
+The Short List
+To help maintain and foster a welcoming atmosphere in our comments, please refrain from rude comments, name-calling, and responding to posts that break the rules (see our full Community Guidelines for more details). We will remove any posts in violation of our rules when we see it, which will, unfortunately, include any nicer comments that may have been made in response.
+Be respectful and help out our staff and volunteer health supporters by actively not replying to comments that are breaking the rules. Instead, please flag or report them by submitting a ticket to our help desk. NutritionFacts.org is made up of an incredible staff and many dedicated volunteers that work hard to ensure that the comments section runs smoothly and we spend a great deal of time reading comments from our community members.
+Have a correction or suggestion for video or blog? Please contact us to let us know. Submitting a correction this way will result in a quicker fix than commenting on a thread with a suggestion or correction.
+View the Full Community Guidelines
+Growing Young Ⓥ says:
+October 6th, 2017	at 8:38 am
+The WHO gets most, nearly 80% of its funding, from voluntary donations – ie, financial conditioning from corporate interests.
+Hardly an organisation to take seriously.
+Reply
+Ryan Hallett says:
+October 6th, 2017	at 9:35 am
+@Growing Young They’ve taken a pretty solid stance against processed meats, regular meat, and sugar for an organization supposedly beholden to corporate interests… Plus labeling cell phones as possibly carcinogenic is hardly business friendly
+Reply
+Growing Young Ⓥ says:
+October 6th, 2017	at 1:27 pm
+@Ryan Hallett… Whatever stance the WHO takes it will be biased by their concern for funding. No organisation that is 80% funded by financial conditioning is going to not consider the consequences of their statements in regards to their future funding. If you worked in an organisation that 4 out of every 5 employees only existed because of financial conditioning then you wouldn’t be doing anything to upset those who are paying the money because you could be one of the 4 made redundant when the money disappears.
+My point is, when you read the WHO’s statements, bear in mind that there will be a bias within them because there simply has to be due to the funding model.
+The WHO was supposed to be funded entirely from governments at rates set by each country’s means. This would have meant an unbiased opinion, but the lobbyists soon stopped that and insisted on allowing voluntary contributions to take over 80% of the WHO funding in order to achieve some aim. These corporate interests are not pouring millions of dollars into the WHO for no return on investment.
+Reply
+Darryl says:
+October 6th, 2017	at 8:02 pm
+The World Health Organizations’s voluntary funding list is a matter of public record. No telecoms corporation is on it, though a few pharmaceutical firms are. The leading non-member state contributors are the Bill & Melinda Gates Foundation (182 M), GAVI, the Vaccine Alliance (126 M), National Philanthropic Trust (86 M), Rotary International (56 M), UN Development Programme (47 M), European Commission (45 M), UN Central Emergency Response Fund (42 M), UN Population Fund (31 M), UN Fund for International Partnerships (19 M), African Development Bank Group (19 M), Joint UN Programme on HIV/AIDS (18 M), International Drug Purchase Facility (15 M), UN Office for Project Service (10 M), Bloomberg Family Foundation (8 M) before we see the first of a raft of pharmaceutical industry contributions (GlaxoSmithKline, Novartis, Wellcome Trust) around 7 M.
+Perhaps you think Rotarians have some secret scheme to control all health information. But I would hope you’re smarter than this.
+Reply
+TG says:
+October 6th, 2017	at 10:41 pm
+This is a strange argument for the reasons explained by Darryl. The WHO also usually contracts independent academics to form the committees that produce its scientific reports to avoid the sort of problem you describe. As Darryl has noted, the WHO has a history of publishing reports which are inimical to industry interests. As well as those listed by Darryl, the salt and livestock industries and other industies which have not been particularly pleased by WHO reports. Darryl mantioned sugar as one example and Drb G has a video on this very topic
+https://nutritionfacts.org/video/big-sugar-takes-on-the-world-health-organization/
+It is unlikely that mandating that all WHO funding should come from member governments would end criticisms such as these, I have seen a very similar argument employed to dismiss all studies funded wholly or partly by the NIH (and even all studies that are reported on PubMed) because the Government can’t be trusted. In the UK, some people say thre same thing about the excellent studies published by NICE. These same people also dismiss everything done by the WHO because it is an agency of the UN and tgherefore controlled by governments. The ironic thing is it is the people concerned also routinely rely on studies and papers, where they consider evidence at all, that are produced by people associated with the Atkins Diet empire, or the meat, dairy and egg industries. Those are often reported on PubMed too but this contradiction is ignored, It is all very odd – topsy turvy logic at its most blatant.
+Of course, you are correct that that we should always be vigilant about possible conflicts of interest. However, in this case, the report’s findings seem contrary to the interests of the industry concerned so it is unlikely to be an issue.
+Reply
+Growing Young Ⓥ says:
+October 7th, 2017	at 4:11 am
+Darryl and TG… my point still stands. When you are funded by voluntary contributions to the tune of 80% of your funding then you take care what you say about what.
+And anything coming out of the WHO should be viewed with this in mind.
+When an organisation is looking down the barrel of billions of dollars in funding, 80% of you annual budget, 4/5ths of your facilities and employees, then that organisation will most certainly pay attention to who is on the other end of that barrel.
+And as to NICE…. Spending £1.5 billion on statins every year? They have recommended medicating healthy livers so that big pharma and big food can continue to profit out of people eating unhealthy diets.
+NICE, the corporate shills who spend 1/10 of the NHS budget on type 2 diabetes so that big pharma and big food can continue to profit out of people eating unhealthy diet.
+That ain’t small change from the UK taxpayers that NICE are spending to protect the corporate interests. And that’s just a small tip of the iceberg of their corporate placation.
+Reply
+TG says:
+October 7th, 2017	at 5:36 am
+Again, this is topsy turvy logic.
+The UK Government spends billions every year subsidising drugs prescribed under the National Health Service. However, it only subsidises approved drugs. To keep costs doen, it is therefore in the UK Government’s financial interests to remove ineffective and dangetous driugs from the list of approved medicines. The drug industry and its stalkming horses regularly rail against decisions not to approve cost-ineffective drugs. Frankly, it is the critiucs of NICE who are much more likely to be shills for the pharmaceutical industy than the members of NICE who are committed to making health expenditure cost-effective. Industry, like the alternative health loons, are not fans of rigorous reviews of the scientific evidence because they remove the profits to be made from supplying unhealthy foods and ineffective, dangerous and/or (cost) inefficient treatments.
+NICE conducted an extensive review of the evidence around cholesterol lowering and statins, including a financial cost effectiveness analysis. IThe review foundd that they reduce adverse events in appropriate target populations. It also found that they are cost-effective when used in accordance with the guidelines – in other words, there would be more adverse health events and greater health expenditure if statins were not used. The only people who would benefit from disconyinuing statin use would be the private medicine system (receiving fees for an increased number of procedures and hospital stays) and the drug industry which would supply different but less effective and possibly more expensive drugs.
+The criticismin your posts is therefore illogical. It is tantamount to saying that we should dismis or ignore all WHO scientific reports (almost all of which which run contrary to industry interests) because of the possibility that they might be swayed by industry interests.. The only beneficiaries of such an attitude would be the telecommunications industry (in this case) and the sugar, salt, meat, livestock etc industries in other cases.
+If there are industry shills operating here, you appear to be looking on the wrong side of the fence.
+Reply
+Growing Young Ⓥ says:
+October 7th, 2017	at 5:55 am
+Not topsy turvy at all.
+So you are saying that doctors and scientists should recommend and promote and prescribe medicating healthy livers in order to allow people to continue to eat an unhealthy diet?
+That’s what NICE are doing at a huge cost to the UK taxpayer and subsequent shortage of services within the NHS.
+Statins and metformin use are on the rise, complications from statin use and metformin use are crippling the NHS, they are most certainly not solving the problem and saving the NHS any money whatsoever. The more these drugs have been prescribed the higher the cost to the NHS has been – FACT!
+Over 10% of the NHS budget is handed over to big pharma purely for T2 diabetes, a completely preventable and mostly reversible disease. But NICE aren’t saying anything about it being prevented or reversed, they just approve more money year after year to be handed over without question to big pharma.
+NICE should be refusing to approve these drugs. Any doctor and/or scientist who has any integrity whatsoever would be shouting from the rooftops, like Dr Greger is, that the problem is in the food supply, not just telling everyone to take statins and metformin, etc., and not to worry about what they eat – which is what NICE are actually doing.
+Reply
+alef1 says:
+October 7th, 2017	at 1:08 pm
+Link to a Nature news article (I’d rate Nature as the most preeminent and most reliable scientific journals in the world.) that has that rather astounding chart on the amazing ineffectiveness of the top highest grossing pharmaceutical drugs:
+http://www.nature.com/news/personalized-medicine-time-for-one-person-trials-1.17411
+I made a print optimized version of the rather astounding NNT (Number Needed to Treat for one person to get a beneficial effect) Chart as a jpeg file, so I can easily share a copy with others.
+In the case of many of these drugs, they have proven records of shortening life while at the same time doing a very poor job of suppressing symptoms, and no evidence at all of them actually curing a disease, something quite different than suppressing symptoms.
+The chart does seem a bit of an eye-opener. I wish every patient received a copy of this, as well as of the NNT’s and NNH’s of the drugs a doctor prescribes for them so they could make better informed decisions about whether to take them or not. (And if doctor’s had NNT’s and NNH’s, easily to hand, ethical doctors could make more informed choices about whether to prescribe them or not . . . ) And as far as ruining the placebo effect goes, even placebos work poorly or not at all for drugs that seem intrinsically harmful.
+And as far as informed consent goes, it seems fair that doctors who actually care about the well-being of their patients in fact should to tell their patients of the likelihood of a particular drug helping them, by giving them the NNT, while also giving them information on the likelihood of a drug harming them, the NNH – and in what ways – so they can make an informed choice. For an older woman who seems a potential candidate for statins, letting them know research indicates it has a 1/50 chance of it helping her, and a 1/3 chance of it giving her diabetes (http://www.medscape.com/viewarticle/877626?src=wnl_mdplsnews_170324_mscpedit_wir&uac=66042FN&impID=1315045&faf=1 ), as well as significant odds of causing cognitive impairment, memory loss, and cataracts.
+What a world.
+Reply
+TG says:
+October 7th, 2017	at 11:03 pm
+Your latest post also has it exactly the wrong way round which is why I say it too is topsy tirvy logic,
+The guidelines usually state that life style modifications are the first line of treatment and drugs are to be used where lifestyle modifications are ineffective or in serious cases to supplement lifestyle modifications. For example, the NICE guidelines on lipids and cardiovascular disease risk make it clear that physicians should provide advice on lifestyle modifications. They are also required to provide advice on absolute risk as well as relative risk (ie the NNT point).
+https://www.nice.org.uk/guidance/cg181/chapter/1-Recommendations#lifestyle-modifications-for-the-primary-and-secondary-prevention-of-cvd
+Ditto for the guidelines on eg non-alcoholic fatty liver disease
+https://www.nice.org.uk/guidance/ng49
+So, what is the NHS supposed to do in your opinion? Refuse to subsidise pharmaceuticals for all people who decline to make lifestyle modifications or for whom they are ineffective? The fact that many people refuse to stop drinking, stop smoking, stop eating bacon, and refuse to eat more healthy foods (in place of unhealthy ones) and to exercise is not evidence of a drug industry conspiracy or of the actions of “shills”. That approach of refusing to subsidise these drugs might well work in the long run of course, at a cost of millions of extra deaths in the short and medium term, but it would definitely qualify as “tough love”. Any government brave enough to bring in such reforms would be out at the next election so I really can’t see it happening. Nothing to do with drug industry conspiracies or shills.
+Simply shouting that your opinions are a FACT proves nothing. A professional cost benefit analysis needs to be conducted to determine this. NICE has done such analyses. You haven’t. Nor have the internet and YouTube althealth critics. However, since the conclusions are unwelcome to conspiracy nuts and to opinionated people uninterested in actual evidence, NICE is regularly excoriated by conspiracy websites and “alternative health” sites that don’t make money if people use evidence-based lifestyle modifications and treatments.
+I would encourage you to actually read the guidelines and offer a critical analysis instead of just making vague, general assertions which don’t accord with the facts. Relying solely on assertions made by people with dubious internet sites and YouTube videos (or sensational books to sell) is unwise. They tend not to present all the evidence and, in my experience, misrepresent much of what they do discuss.
+Reply
+Growing Young Ⓥ says:
+October 8th, 2017	at 4:09 am
+TG, do you actually think that doctors actually give lifestyle/diet advice?
+They aren’t qualified to.
+And NICE’s dietary guidelines are pathetic… telling people with atherosclerosis to bring down fat consumption to 30% of energy intake, saturated fats to 7% and cholesterol to 300mg isn’t exactly going to help, is it?
+What utter nonsense NICE have put out as dietary and lifestyle advice. Wouldn’t solve anyone’s atherosclerosis problems.
+And while NICE are telling doctors to tell people to hit those fat guidelines, big food and big pharma have literally corrupted the food labelling system in the UK through lobbyists and political bribes so that consumers cannot see how much % of calories are coming from those things anyway – food is not labelled like that in the UK because big food and big pharma do not want it labelled like that. So how are consumers supposed to do this with the current big food and big pharma approved food labelling system according to NICE?
+I know people who just take the prescriptions and do nothing to make any effective change to their lifestyle and diet – which is most people on statins.
+So they end up with T2 diabetes. Get them on metformin.
+Then they can’t get an erection because of the ongoing atherosclerosis. So get them on viagra.
+Then they get osteoarthritis because of the ongoing atherosclerosis. So get them on anti-inflamatories and pain killers and give them hip and knee replacements.
+Then they get high blood pressure because no where in the NICE guidelines on diet that you posted does it say anything about going on a salt free diet or cutting out all processed foods – especially processed meats. So then they require more and more blood pressure medication.
+Then they get dementia.
+Then they get alzheimers.
+Then they get cancer.
+Big pharma make more and more profit the more NICE approve drugs to allow people to continue their unhealthy diet and lifestyle choices. The NHS is in crisis.
+All the people i know on statins are also on high BP meds, pain killers, anti-inflammatories, memory issues, etc., They make no effort whatsoever to change their lifestyle and diet, they just go back to the their GP’s and hospital specialists again and again for more pills, potions and procedures. That’s the reality if you take your rose tinted lenses off.
+You asked for a solution.
+You mentioned smoking. I have no problem with that lot. They all die young and the tax on tobacco and their low level of claiming state pension more than covers their health care costs until they die. It’s probably not far off with alcohol as well. So, while i don’t like smoking any where near me, and i don’t drink, i will support their right to do this to themselves because the tax they pay for their vices more than covers the healthcare costs associated with them before they die young – thus saving more money on state pensions etc..
+So lets apply the same logic to all animal products, and refined food. Why not tax them to pay for the health care crisis they are causing as we do tobacco and alcohol? Why isn’t this being discussed in the national debate on the future of the NHS? Why is the future of the NHS always talked about in terms of how much more funding should the tax payer be handing over without any discussion as to why the NHS is in crisis in the first place?
+It’s very clear as to why the NHS is in crisis. It’s because people simply do not care about changing their lifestyle and diet – and NICE know this, as does everyone who cares to look. They don’t care because the NHS is free and they’ll just get more and more prescriptions in order to allow them to maintain their unhealthy diet and lifestyle for as long as possible. That’s the reality. That’s a fact.
+NICE are the cause of the NHS crisis. Prescribing statins does not save the NHS money. You cannot show any cost benefit analyses done properly that shows that.
+Reply
+TG says:
+October 8th, 2017	at 7:08 am
+Simply blaming NICE because it does what it was set up to do (and does it well) seems illogical to me.
+From what I have seen, NICE studies are rigorous and professional. Whether lifestyle choices like the ones you describe should br penalised in the way you propose is a policy decision that needs to be made by elected governments not NICE or other agencies operating according to a strict charter. Blaming NICE for political and social policies around health funding seems a trifle unfair to me.
+And your claims about cost benefit analyses are incorrect. You have done none. Neither have any other of the NICE critics. All you have done is express an opinion. NICE however has done such an analysis – it is a matter of public record. Sorry but I find the NICE analysis more convincing than your unsubstantiated opinions no matter how strongly you might express them.
+https://www.nice.org.uk/guidance/cg181/resources/lipid-modification-update-costing-report-pdf-243777565
+Kevin says:
+October 9th, 2017	at 10:08 am
+The NHS is at least trying to put some push into the lifestyle side. This is causing outrage and backlash, not surprisingly.
+We cannot have a sustainable system without properly accounting for the costs. Cheap junk food is so expensive.
+https://www.theguardian.com/society/2017/apr/22/nhs-letter-more-rations-on-operations-obese-smokers
+alef1 says:
+October 7th, 2017	at 12:38 pm
+Although important, whether the findings of the IARC – or of any other advisory organization – seem directly compromised by a conflict of interest due to their sources of funding, does not seem the main issue to me. Even if one assumes an independent organization, with an advisory board consisting of objective individuals who have no financial ties to corporate interests, who will just look through the scientific literature to come to their conclusions, you still have a major problem. The objectivity of the scientific literature has become heavily compromised, and not just through the inclusion of corporate funded studies designed to produce a specific result, but through a variety of different mechanisms.
+How compromised?
+Dr. John Ioannidis, a professor at Stanford University, summed up the situation as follows: “There is increasing concern that in modern research, false findings may be the majority or even the vast majority of published research claims. However, this should not be surprising. It can be proven that most claimed research findings are false.” (Ioannidis, J.P.A., (2005) “Why Most Published Research Findings Are False,” PLoS Medicine, 2(8), pp 0696 – 0701, August. http://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.0020124&type=printable )
+For a detailed description of how published scientific research has become compromised, read the article.
+Dr. Richard Horton, the current editor-in-chief of The Lancet, perhaps the most respected peer-reviewed medical journal in the world, agreed. He wrote: “The case against science is straightforward: much of the scientific literature, perhaps half, may simply be untrue. Afflicted by studies with small sample sizes, tiny effects, invalid exploratory analyses, and flagrant conflicts of interest, together with an obsession for pursuing fashionable trends of dubious importance, science has taken a turn towards darkness.” (Horton, R. (2015) “Offline: What is medicines’ 5 sigma?”, The Lancet 385 (9976) p 1380, April 11 http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60696-1/fulltext?rss%25253Dyes ) “
+Even if one assumes that the IARC have done the best they can with respect to sorting out the evidence for whether microwaves can cause cancer or have other harmful effects, they play with a stacked deck. Published studies, designed to show a particular result, from corporate interests that have money to burn dominate the literature, while independent researchers go begging for money, and should they happen to scrape up enough money to at least fund a small study, find their work discounted or ignored specifically because they did a small studies, and because the majority of well funded studies – funded or influenced by corporate interests – present contradictory results. And many mainstream scientists – not funded by corporate interests – fall for it, which not only results in publication bias, but in a further lack of funding for studies that go against what a majority of scientists may still believe, that non-thermal levels of microwaves can not have any biological effects, let alone cause cancer.
+And although corporate interests would have you believe otherwise, “absence of evidence,” (no studies funded or published) and “evidence of absence” (published studies demonstrating the absence of an effect) do not seem at all the same thing.
+With time, enough evidence accumulates. At this point it has become very clear that low levels of microwaves can have biological effects – including detrimental effects. The industry has begun to shift their position to the second line of defense, from “low level microwaves can not cause any biological effects. Period.” to admitting that yes “Microwaves can have harmful effects, but these effects seem so small, we can safely ignore them.”
+This strategy worked well as a delaying tactic for the tobacco industry, but I doubt it will work quite as well for the microwave industry. Not for the lack of money or influence, but because they rapidly and continuously increase everyones level of exposure way beyond the levels that any previous research has ever studied, something the tobacco industry never had to deal with. At worst they had people chain smoking 3 to 4 packs a day, imagine what kind of cover up they would have needed if smokers could have upped their habits to 30 or 40 packs a day – or to 300 to 400 packs a day? But that seems exactly the situation that takes place with regard to our microwave exposures, with no end in sight
+Reply
+TG says:
+October 7th, 2017	at 11:14 pm
+Fine but you appear to be making the assumption that these things are actually very harmful (without offering any real evidence). This is not the same thing as keeping an open mind. If you were keeping an open mind, we might expect to see a similar critical analysis of the case made by people who argue these things are in fact harmful.
+Personally, I minimise use of mobile phones and microwaves and avoid GMO foods. A convincing case has still to be made that these things present significant dangers but why take the risk if it is not necessary to do so? However, let’s at least try to be even-handed when assessing the evidence about these things and not start from a basic assumption that they are either harmful or harmless.
+Reply
+alef1 says:
+October 9th, 2017	at 1:16 pm
+Hi TG –
+You posted: “you appear to be making the assumption that these things are actually very harmful (without offering any real evidence).”
+Not really. As far as evidence goes, see my earlier October 6th post below, that includes some references and links. And although it does seem clearly established that microwaves can cause significant harm, the degree to which they can cause harm at present remains unknown.
+The industry, and our government, have made and successfully imposed the assumption that non-thermal levels of microwaves can not cause any biological effects, let alone cause harm. 40 years of peer reviewed, well controlled research studies, capped by the recent U.S. NTP study, have to my mind established beyond any reasonable doubt that low level microwaves can and do cause harm.
+How harmful? That seems the point – nobody really knows because the necessary research studies – looking not just as whether microwaves can cause cancer, but at a whole multitude of potentially harmful effects – have never taken place. And as I posted above, “absence of evidence,” (no studies funded or published) and “evidence of absence” (published studies demonstrating the absence of an effect) do not seem at all the same thing.
+And the few independent studies, not funded by corporate interests, including epidemiological studies, that have demonstrated biological effects, even harmful effects, all have become pretty much obsolete, because they looked at microwaves frequencies and exposures far lower that those we currently have today.
+As far as safety goes, with respect to chemicals we ask “What kind of chemical?” and “What level of exposure?” before deciding what seems safe and what doesn’t. A new drug has to undergo a rigorous set of safety tests before making it to market, and nothing like this takes place with regard to exposing the public to different and higher microwave frequencies and levels of exposure. All of this based on the now disproved theory promoted by the industry and accepted by the government that athermal levels of microwaves can not cause harm, and therefore we do not need to do any safety tests.
+To me it does not seem an unreasonable assumption that given the now established fact that low levels of microwave exposures at lower microwave frequencies do have biological effects, and can at least cause some degree of harm, that given how dose response works, that exponentially increasing public exposures – including higher untested frequencies – most likely will cause even even greater harm?
+And that a certain degree of caution, and the funding of a wide range of safety studies, should take place before exposing the public to this kind of potential risk?
+To me this seems a potential disaster waiting to happen, and while I hope it won’t, as far a microwave exposure goes, cell phones just seem one part of the problem. Environmental microwave exposures from a multitude of other devices and sources – such as routers, blu-tooth phones, laptops, smart meters, smart devices, etc. can easily contribute just as much or more as cell phones do.
+And it looks like limiting use of these devices as a solution has already become unworkable for any other than a few dedicated individuals.
+Check out:
+“Americans devote more than 10 hours a day to screen time, and growing” http://www.cnn.com/2016/06/30/health/americans-screen-time-nielsen/index.html
+and
+“Cell-Phone Addiction: A Review” https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5076301/
+Reply
+LHSmith says:
+October 8th, 2017	at 12:50 pm
+I think your argument jumps to an unjustified conclusion. I worked for a government science agency (operated in all 50 states) in which part of our funding came from contracts with advocates. They gave us money with the understanding that we published what we found no matter what it said. Our publication process included colleagues as well as anonymous peers, and publication decisions were based entirely on the reviews. The main criticism we got was that we were slow to publish.
+I am not defending WHO. I am willing, however, to give them the benefit of the doubt.
+Reply
+armand says:
+October 6th, 2017	at 10:12 am
+Interesting video. Am wondering if there are any similar studies out there on men who regularly use electric shavers and any harmful effects associated with their regular use.
+Reply
+Medji says:
+October 6th, 2017	at 11:55 am
+Makes sense that this might be of concern.
+Reply
+uliz says:
+October 6th, 2017	at 12:15 pm
+A Danish study found no risk for using cell phones.
+Reply
+TG says:
+October 7th, 2017	at 5:41 am
+Yes. It was funded by the telecommunications industry.
+https://ehtrust.org/science/danish-cohort-cell-phone-and-cancer-study/
+Reply
+Joe F says:
+October 6th, 2017	at 1:09 pm
+Radiation in electric shavers?
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 8:19 pm
+We are commonly exposed to radiation from many different sources. I don’t think we can avoid it. Taking care of our health can put our bodies in the proper state to heal. You might enjoy these videos Dr. Greger made about healing radiation damage:
+https://nutritionfacts.org/video/reducing-radiation-damage-with-ginger-and-lemon-balm/
+https://nutritionfacts.org/video/fruits-vegetables-boost-dna-repair/
+Kelly
+Nutritionfacts.org Moderator
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 9:21 pm
+Radiation is all around us in many different sources. I don’t think we can avoid it. Taking care of our health can put our bodies in the proper state to heal. I don’t know of any research specifically about electric razors, but you might enjoy these videos Dr. Greger made about healing radiation damage:
+https://nutritionfacts.org/video/reducing-radiation-damage-with-ginger-and-lemon-balm/
+https://nutritionfacts.org/video/fruits-vegetables-boost-dna-repair/
+Kelly
+Nutritionfacts.org Moderator
+Reply
+Mike says:
+October 6th, 2017	at 10:32 am
+What about wifi or Bluetooth signals? Any studies covering those?
+Reply
+hu says:
+October 6th, 2017	at 11:56 am
+I’ve read that they can be worse, and that wired earbuds and things like that are safer.
+Wireless electricity is here, and will likely be the norm in years to come. Oh no, that is a bit
+scary.
+Reply
+Netgogate says:
+October 7th, 2017	at 2:20 pm
+I highly doubt “that you have read” that they are worse, your cellphone might be a little carcinogenic because you are holding it directly against your head on one side, and the machine has to send a signal on the other side all the way towards the nearest cell towers which can be several kilometers away. To reach that far the signal has to be relativly intensive, not in itself, that it why at the hands it doesn’t matter but in combination with the proximity towards your brain.
+That is why the video recommends waiting for a while after you have dialed so that the connection is already set with the cell tower when you start holding it directly towards your head. That is why calling in a car is worse because the phone’s signal has to send a stronger continuous signal because of your changing location of the car.
+When you use bluetooth things will be better, the bluetooth signal is being send a couple of meters at the most. Also remember things might be more carcinogenic for one person vs the other person, someone eating a WFPB diet with lots of antioxidants guarding the DNA will have different impact on the system.
+Reply
+Wade Patton says:
+October 6th, 2017	at 12:53 pm
+RF safety (radio frequency radiation safety) is now a part of the FCC rules and licensing process for Amateur Radio operators-mostly because we use much more power and can experience unhealthy fields of radiation simply from the feedlines and antennae, depending on type and installation. We might use 5, 50, or 1,500 watts of power depending on the frequencies, mode and nature of the contact.
+Cell phones operate at a tiny fractions of these levels and are mostly on different frequencies (some hams use those frequencies too-and it’s the higher frequencies that present more risks). Microwave ovens use similar frequencies too.
+Proximity is the problem with cell phones. Slapping a transmitter and antenna right up to your head is particular to cell-phones and cordless phones(remember those?). Any time you can get the transmitter away from your face, the less exposure you’ll get. Or space is saturated with broadcast and commercial and fire/safety/ham radios, tv, gps, cell phones, and every “wireless” device extant. The lack of wires is overcome by radio signals transmitted and received.
+Keep your head away the transmitters-as much as you can to reduce cranial penetration of the micro and other waves in the RF spectrum.
+Reply
+Lonie says:
+October 6th, 2017	at 1:07 pm
+This video and your comments leave me wondering if this is somehow the way the embassy personnel in Cuba were attacked and suffered illness.
+Reply
+Darryl says:
+October 6th, 2017	at 8:18 pm
+Whatever it was, the locales (off-site hotels in wealthy by local standards residential neighborhoods) and descriptions of symptoms resemble personal problems with the local water more than any directed attack.
+One can induce GI distress and headaches with subsonic, inaudible frequencies. However, to produce these frequencies requires rather massive drivers, the sounds themselves are omnidirectional and affect any operators or bystanders equally, and are liable to cause structural cracks to masonry. We now have decades of history of certain rave sound system operators with considerable resources attempting to produce the so-called “brown notes” (frequencies so low they could make partiers s**t themselves), and they haven’t. I rather doubt an impoverished island nation could.
+Reply
+Lonie says:
+October 6th, 2017	at 8:50 pm
+I rather doubt an impoverished island nation could.
+Yeah, my understanding is they do not think Cuba is the perp, but the U.S. is holding Cuba responsible for not protecting their embassy personnel.
+I remember reading some years ago about a Frenchman back during or just prior to WWI If memory serves, who was experimenting with concentrated sound as a weapon. He quit his quest when he almost killed himself and his assistant from the explosion when they were too close to the target. So yes, one can build something of this nature, probably inexpensively.
+Reply
+Scott B says:
+October 10th, 2017	at 11:21 am
+I remember hearing Dillinja’s Valve Sound System and whilst it was intensely loud and bass heavy (96KW rig!) luckily no s**t was shed lol.
+Reply
+BH says:
+October 6th, 2017	at 10:37 am
+What about carrying it in your pocket? Has there been research on reproductive effects?
+Reply
+Wade Patton says:
+October 6th, 2017	at 1:00 pm
+The phones are much less emissive in receive mode, as in your pocket. It’s when they’re transmitting voice signals that the most RF is generated. The more you talk, the more exposure. There are all sorts of apps that may require transmissions when you’re not talking, so beware of that as well.
+Also the Bluetooth type device may decrease the RF exposure because it only has to transmit as far as your phone-letting the phone carry the bulk of the work getting signals to the tower. But it is another transmitter.
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 9:00 pm
+I don’t know of any research about where you carry the phone, but if you are worried about radiation damage, you might like some of the videos Dr. Greger has made about that:
+https://nutritionfacts.org/video/fruits-vegetables-boost-dna-repair/
+https://nutritionfacts.org/video/reducing-radiation-damage-with-ginger-and-lemon-balm/
+Kelly
+Nutritionfacts.org Moderator
+Reply
+TG says:
+October 8th, 2017	at 2:25 am
+Sorry, I didn’t see your post before. There’s a later post that I made that refers to a review of such studies. Briefly, men shouldn’t carry their phones in their trouser pockets (or anywhere else close to their genitals).
+Reply
+Medji says:
+October 6th, 2017	at 10:44 am
+I think the main concern, based on the odds of getting “C”, should be to focus our
+attention here on what other harms cell phones are causing humans, such as attention
+span reduction, blood brain barrier depletion, IQ reduction, brain cell destroying – it is reported
+by some that these are all side effects of something going on inside the cell phone phone either
+due to radiation or some unknown – unnamed reaction that is harming human brains. Research
+on this kind of stuff, DR. G?
+Reply
+David E Johnson says:
+October 6th, 2017	at 2:28 pm
+>>>other harms cell phones are causing humans, such as attention
+span reduction, blood brain barrier depletion, IQ reduction, brain cell destroying – it is reported
+by some that these are all side effects of something going on inside the cell phone phone
+Do you have any reliable sources for these claims? Blood brain barrier depletion? IQ reduction? Sorry, but I’m a tad skeptical (although I almost never use a cell phone).
+Reply
+alef1 says:
+October 6th, 2017	at 9:56 pm
+Hi David –
+For once, I feel rather disappointed in this video, as to me it misses the most important point. The fact that low level athermal microwaves can cause DNA breakage and cancer – as the recent U.S. National Toxicology Program study demonstrated in rats – seems relatively unimpressive compared to the effect that other factors – such as eating the Standard American Diet – has on cancer incidence.
+But whether microwaves can cause cancer does not seem the main issue – it simply serves to underscore the fact that microwaves at athermal levels CAN cause potentially harmful biological effects, something the industry has argued for over 40 years that they can not, based on a still widely held but now invalidtated theory, as it has allowed them to go forward full-speed ahead while exponentially increasing public exposure levels without doing any safety studies at all.
+The industry has argued that any microwave exposure that does not cause cooking seems harmless – and therefore any exposure below that level seems safe. Many research studies have disproved this, demonstrating effects at microwaves well below the level needed for heating, but the industry has stuck to this position and their lobbyists have made sure that out government policy makers have as well. This despite the recent U.S government National Toxicology Program study demonstrating that microwaves at cell phone frequencies at very low exposure levels CAN cause cancer. See this article: https://www.wsj.com/articles/debate-renews-over-health-risks-from-cellphone-use-1467829289 that came out 7/7/16 in the Wall Street Journal, of all places, and makes exactly the point I made after the NTP study came out – that I had not seen brought up in any media reports, viz, that the NTP study has confirmed that microwaves can have non-thermal toxicological effects, that this DOES open the proverbial can of worms, with respect to all of the safety studies the microwave industry has NOT done, while exponentially increasing human exposure to microwaves at a wide variety of new and untested frequencies year after year.
+As far as “the potential for more subtle, but potentially much more damaging health effects” goes I’d look to Salford’s replicated results, showing leakage in the blood-brain barrier of rats two weeks after only ONE 2 hour exposure to 915 MHz: http://www.ncbi.nlm.nih.gov/pubmed/19345073 (Incidentally, I calculated that an SAR of 0.12 mW/kg, where Salford began to detect leakage in the blood-brain barrier in rats, corresponds to about 15,000 microwatts/meter squared, well below the range of levels of exposure one would get in close proximity to most cell phones.) Rather than cancer, I would argue that it seems far more likely that microwave exposures may relate to increases cognitive dysfunctions, such as autism or early onset Alzheimers. With respect to Alzheimer’s, an article published online in Radiology using special MRI software demonstrated the presence of leaky BBB and its association with early Alzheimer’s Disease. (Link to full text and images:http://pubs.rsna.org/doi/abs/10.1148/radiol.2016152244 )
+I feel less than confident about the complete and truthful results on the NTP research ever becoming publicly available. Give the long time-delay between the completion of the NTP study, and its projected publication, the priorities of the current administration, and the clout of the cell phone industry, I think an edited and “spun” version seems much more likely.
+And also, different frequencies may have different effects, just as different chemicals have different effects. A study showing that one frequency – say 3.5 Ghz, does not have a particular effect does not say anything about whether another microwave frequency, say 5 GHz, will. Each needs to undergo testing separately.
+Does light cause sunburn and DNA breakage? Well, while infrared light does not, ultraviolet light does. Whether “light” does depends on the frequency used and the intensity of exposure. The same applies to microwaves.
+A lecture on EMF’s/microwaves by Dr. Martin L. Pall (a Professor Emeritus in Biochemistry and Medical Sciences from Washington State University) in which he summarizes relevant research: https://www.youtube.com/watch?v=w8ATQF8omdI
+Though he goes quite a bit farther than I would, He crossed his t’s and dotted his i’s. I found his EMF/Microwave pathology thesis unfortunately both plausible and well-supported by scientific research. A lecture worth watching. You can also check oout his 2016 review, “Microwave frequency electromagnetic fields (EMFs) produce widespread neuropsychiatric effects including depression”, published in the Journal of Chemical Neuroanatomy, which has plenty of references that you can check out: http://www.sciencedirect.com/science/article/pii/S0891061815000599
+Some highlights:
+Microwave EMFs activate voltage-gated Ca2+ channels (VGCCs) concentrated in the brain.
+Animal studies show such low level MWV EMFs have diverse high impacts in the brain.
+VGCC activity causes widespread neuropsychiatric effects in humans (genetic studies).
+26 studies have EMFs assoc. with neuropsychiatric effects; 5 criteria show causality.
+MWV EMFs cause at least 13 neuropsychiatric effects including depression in humans.
+Reply
+TG says:
+October 7th, 2017	at 11:24 pm
+Thanks for posting these links – very useful.
+The IARC monograph also extensively discusses these issues and provides references.
+https://monographs.iarc.fr/ENG/Monographs/vol102/mono102.pdf
+Reply
+David E Johnson says:
+October 9th, 2017	at 6:55 pm
+alef1 –
+Thanks for the info. WSJ article is behind a pay wall, but I’ll look into this topic further.
+Reply
+TG says:
+October 7th, 2017	at 6:09 am
+David. I understand that these are legitimate concerns arising from scientific studies published in peer-reviewed journals. You are probably best advised to read the IARC report to get a comprehensive overview of the issues and a balanced assessment of the evidence.
+http://monographs.iarc.fr/ENG/Monographs/vol102/mono102.pdf
+However, quick Google will bring up eg
+https://www.ncbi.nlm.nih.gov/pubmed/19345073
+Reply
+gengogakusha says:
+October 9th, 2017	at 6:53 pm
+Thanks, Tom, for the links. I’ll look into this further.
+Reply
+David Baquis says:
+October 6th, 2017	at 2:39 pm
+Kudos for raising other health related issues besides cancer. See: http://bcn.boulder.co.us/health/rmeha/rmehsmtr.htm
+Reply
+Stephanie says:
+October 6th, 2017	at 11:20 am
+Something to consider….I know many women who carry their cell phones in their bras. Could this be contributing to the breast cancer rates that are skyrocketing? Does the cell phone emit radiation only during the time it is being used? Does the Apple Watch also emit radiation, or does it work more like a bluetooth device? So many aspects to consider!
+Reply
+Jerry Lewis says:
+October 6th, 2017	at 12:28 pm
+As said in Dr G video, you cannot get cancer with EMF through your finger and so text away. I can extrapolate this to your wrist as well. But for the breast then it is soft tissue so I don’t know. Although there is no definite proof that it can cause cancer, as a precaution I will wear my phone somewhere else on my body.
+Reply
+Wade Patton says:
+October 6th, 2017	at 1:31 pm
+Keeping your phone in a power-saving mode or running minimal apps that depend on the unit “checking in” to your network will reduce the transmit activity of your phone when not talking. I love “max/ultra power saving” as it reduces down time when charging and keeps battery happier with less cycles. It should also reduce our exposure.
+Why does the phone run down faster in poor coverage areas? Because it’s using higher transmit power to attempt to connect to the towers (it reduces output when signal are strong-and you’ll see better charge life). So you might try to use it less and keep it further from your body especially in these areas.
+You might find more info in some of my other replies this thread. HTH.
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 8:34 pm
+Thanks for your great question. The research is pretty clear that breast cancer is very related to diet. I think if we want to reduce breast cancer, that needs to be our first area to target. You might like some of these videos Dr. Greger has made about breast cancer.
+https://nutritionfacts.org/video/which-dietary-factors-affect-breast-cancer-most/
+https://nutritionfacts.org/video/why-do-asian-women-have-less-breast-cancer/
+https://nutritionfacts.org/video/how-not-to-die-from-cancer/
+If you are concerned about radiation damage, you might also enjoy these videos Dr. Greger made:
+https://nutritionfacts.org/video/fruits-vegetables-boost-dna-repair/
+https://nutritionfacts.org/video/reducing-radiation-damage-with-ginger-and-lemon-balm/
+Thanks for your great question.
+Kelly
+Nutritionfacts.org Moderator
+Reply
+Alexandra Regan says:
+October 6th, 2017	at 11:32 am
+What are SAR ratings of cell phones? Should we be taking those into consideration?
+Reply
+David Baquis says:
+October 6th, 2017	at 2:31 pm
+The Federal Communications Commission publishes info on SAR: https://www.fcc.gov/general/specific-absorption-rate-sar-cellular-telephones
+Reply
+Jeff says:
+October 6th, 2017	at 11:43 am
+Opportunity for YOU to participate in nutrition research right now. This is off the topic of today’s video but I’ll bet many of you hard core NF geeks like me will want to participate in this research opportunity. Tufts University is launching the ADAPT dietary patterns research project and are still recruiting study participants. The researchers especially want to recruit more men so they have a gender balanced study. Come’on guys! I just joined today. It took me 7 minutes to read the details and decide to join. Here are the details of the study requirements for participants and the consent form. https://tufts.qualtrics.com/jfe/form/SV_2hP3fzEmLnYVhm5
+Go here for general news on the project: http://hnrca.tufts.edu/adapt/news/
+Won’t it be rewarding to know we contributed to the science when Dr. Greger references the ADAPT study findings in a future video!
+Reply
+LeeJ says:
+October 6th, 2017	at 12:29 pm
+This guy has already joined the ADAPT. I also participated in Cancer Prevention Study 3, which was low on male participation.
+Come on, fellas! :-D
+Reply
+David E Johnson says:
+October 6th, 2017	at 2:34 pm
+just joined. We need more WFPB people in such studies!
+Reply
+Rosalyn says:
+October 6th, 2017	at 12:04 pm
+I see the etiquette rules say I can post an off-topic question! Husband is going for a flu shot today and is aghast that I’m thinking of not getting one. I see there was a video here about flu vaccines, but it doesn’t come up for me. Does anyone know what Dr. Greger thinks?
+Reply
+Thea says:
+October 6th, 2017	at 12:17 pm
+Rosalyn: I don’t know what Dr. Greger thinks. However, following is a link to the Cochrane report on the flu vaccination effectiveness. The Cochrane institute is an independent organization that reviews studies across the world on various topics to try to draw some conclusions. To my knowledge, this is a well respected and truly independent group. This report may help you make a decision. http://www.cochrane.org/CD001269/ARI_vaccines-to-prevent-influenza-in-healthy-adults
+Some highlights:
+1) The preventive effect of parenteral inactivated influenza vaccine on healthy adults is small: at least 40 people would need vaccination to avoid one ILI (influenza-like illness) case (95% confidence interval (CI) 26 to 128) and 71 people would need vaccination to prevent one case of influenza (95% CI 64 to 80). Vaccination shows no appreciable effect on working days lost or hospitalization.
+2) On the other hand, they didn’t find any harms with it.
+3) And the studies were not all that good quality-wise: The real impact of biases could not be determined for about 70% of the included studies (e.g. insufficient reporting details, very different scores among the items evaluated). About 20% of the included studies (mainly cohorts) had a high risk of bias. Just under 10% had good methodological quality.
+My bottom line from this is that the data really isn’t there one way or the other. If I were around vulnerable people, I’d get the shot to error on the side of caution. Beyond that, it’s not clear to me whether getting the shot is a good idea or not. With all this in mind, what do you think now?
+Reply
+Lonie says:
+October 6th, 2017	at 12:48 pm
+Good information. Thnx.
+Reply
+Rosalyn says:
+October 6th, 2017	at 12:56 pm
+Thea, thank you for taking the time. I’m thinking it’s most likely not going to do much, but I liked the comment that not much harm was found. I suppose to keep peace in the family I’ll go ahead and get it.
+Reply
+WFPB Nancy says:
+October 6th, 2017	at 1:45 pm
+Great info, Thea. Thanks.
+Reply
+Carla says:
+October 6th, 2017	at 2:33 pm
+Hello, im new to this site and will have to search if there are any previous discussions on the matter of vaccines. I’m particularly interested in children vaccination. Found this article very informative. Thank you for your help in directing people to reliable studies. Have you by chance come across any on children vaccines. I live in Italy our legislation has changed and I’m very wary of these forced new vaccines being imposed with either school entrance denied or hefty fines. thank you.
+Reply
+Thea says:
+October 6th, 2017	at 3:04 pm
+Carla: Welcome to the site! A couple years ago, I read a really great article on this topic, but I can’t find it now. :-( I am not an expert in any way, but I can share my opinion. I’ve looked into the issue off and on for years and none of the anti-vax arguments are compelling to me. If I had young kids right now, I’d vax in a second without hesitation. The science seems to me to be pretty solid on that front. Sorry I don’t have a great reference to give you at this time. I can imagine how scary and difficult the decision is right now for parents because of all the conflicting information out there. I’d just suggest being careful about your sources. (Which I know you know based on what you asked for in the first place. :-) ) Good luck to you and your family.
+FYI: While I don’t think the following is what you were looking for, I found that the Cochrane institute (the same organization that I quoted from above) is in favor of childhood vaccinations. For example: “Childhood vaccinations can prevent illness and death, but many children do not get vaccinated. There are a number of reasons for this. One reason may be that families lack knowledge about the diseases that vaccines can prevent, how vaccinations work, or how, where or when to get their children vaccinated. People may also have concerns (or may be misinformed) about the benefits and harms of different vaccines.” from: http://www.cochrane.org/CD010232/COMMUN_interventions-aimed-at-communities-for-informing-andor-educating-about-early-childhood-vaccination
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 8:09 pm
+Thanks for your great question. There is a lot of concern about heavy metals and preservatives found in vaccines. Dr. Greger has several videos that explain that we should be far more concerned about heavy metals in fish as well as a multitude of other issues we can cause ourselves with an unhealthy diet. Here are the links to the videos.
+https://nutritionfacts.org/video/mercury-in-vaccinations-vs-tuna-2/
+https://nutritionfacts.org/video/aluminum-in-vaccines-vs-food/
+The most important thing we can do for our children may be to give them a proper diet.
+Overall, the research is very very clear that vaccines are safe and lifesaving. Thank goodness we don’t see polio anymore and can avoid measles outbreaks. Unfortunately, there is a lot of junk science out there making false claims about the dangers of vaccines and underplaying the lives they save. If you have kids, I hope you are planning on vaccinating them and giving them a whole food, plant based diet. Thanks for your great question and your interest in nutritionfacts.org
+Kelly
+Nutritionfacts.org Moderator.
+Reply
+David E Johnson says:
+October 6th, 2017	at 2:43 pm
+Thea – Thanks for the link. Seniors are at greater risk of adverse events and even death from the flu. I’ve heard that if you get vaccinated, even if you do get the flu, it is likely to be less severe. I have not verified these claims. However, as a 70 yr old, it does make me less inclined not to get a shot. I’ve gotten one each year for the past few decades and have never – not once- had the flu, even when I was working. Coincidence? Maybe, since my wife never gets a flu shot and cannot remember ever getting the flu.
+Reply
+Thea says:
+October 6th, 2017	at 2:52 pm
+David: I would think it is coincidence or that we don’t know enough to say either way, but I see your approach as error-ing on the side of caution. That seems like a reasonable way to make this (tough) decision. I hope you don’t get sick this year either!
+Reply
+WFPB-Liisa says:
+October 7th, 2017	at 10:02 pm
+Hi, Thea,
+(Anecdotal, I know….) I personally know two people who have died from the flu–one a 50-something man and the other a 40-something woman. Neither had a compromising illness otherwise. This has affected my choice as to whether I get a flu shot or not each year….
+Reply
+Thea says:
+October 8th, 2017	at 11:20 pm
+WFPB-Liisa: That’s so sad. I’ve seen the statistics on how deadly the flu can be, but I’ve never personally known someone who died from it. I can certainly understand why you would want to take action. Thanks for sharing.
+Reply
+Lonie says:
+October 6th, 2017	at 12:44 pm
+Haven’t seen the video you referenced, but I’ve seen other things (no link… sorry) saying that the shots only work in a less than adequate amount of individuals… especially those considered seniors.
+I’ve never had a flu shot and only have the flu maybe once a decade, or less. My way, personally tailored to my life, is to avoid all shots and research what to do to shorten the event should I get something.
+Reply
+Rosalyn says:
+October 6th, 2017	at 1:08 pm
+Thanks Lonie. I wish I’d qualified my question by saying I’m a senior and would be lined up to get the stronger shot. I answered Thea’s comment by saying I’d get the shot. Reading your comment gives me more courage to go against the norm, and Thea’s report does back me up as well. Maybe I won’t!
+Reply
+Lonie says:
+October 6th, 2017	at 1:21 pm
+Wish I could remember where I read it, but I do remember reading that there are methods to shorten such an event just in case it happens.
+I think it was a supplement or combination of supplements (no, not Emergen-C ‘-) that would reduce the discomfort and duration… deduced from a study as I recall.
+If I saved it and find it, I will post the link here.
+Reply
+Thea says:
+October 6th, 2017	at 1:21 pm
+Rosalyn: Some more of my thoughts: I suffer from the same indecision and angst as you. I feel that the data just isn’t there to make an good decision, and there are a several key ethical issues which pull me both ways. For example: a) Does paying for the flu shot support an industry that is preying on people’s fears and not really protecting them? b) I understand that the flu shot is developed using eggs. I don’t want to contribute to an industry that causes a giant amount of suffering, especially when the chance of helping myself may be small. c) On the other hand, am I putting children and seniors at risk since they are more likely to experience significant harms from getting the flu, and I could be a carrier?
+For the record: I’m all for vaccinations in general. I am in no way encouraging people to worry about important vaccinations which have proven benefits. The issue I have is when the benefit is questionable and the harms real/known.
+Reply
+Rosalyn says:
+October 6th, 2017	at 1:52 pm
+Sigh, I’m a healthy senior, to add to the quandary. I appreciate those extra thoughts.
+Reply
+Lonie says:
+October 6th, 2017	at 2:06 pm
+For example: a) Does paying for the flu shot support an industry that is preying on people’s fears and not really protecting them?
+Good question.
+Being an amateur at conspiracy theory, I wonder if the govt. doesn’t allow the vaccinations to go on, knowing that the data shows questionable risk/reward, in order to build a false sense of security among the populace.
+I use my own mother as an example. She had a life insurance policy that she and my dad took out back in the 1930s. The payout was something like $500. When I began looking after her financials, I suggested it was unwise to continue paying a monthly premium for so little of a return. That was back during the 1980s. She insisted on keeping the policy and lived and paid premiums for almost 30 more years. But she lived with the idea that she had life insurance even though she had been told it was a bad bargain.
+On the other hand, I’m glad the vaccinations are ongoing because it helps keep a system in place to produce new vaccines in case of a Pandemic. I believe those vaccines are very, very important.
+Just popped into my mind in re: your concern about using eggs to produce vaccines, Thea. Again, something I read but probably didn’t save claiming that before long our vaccines will be manufactured a new way that does without using eggs. If you have egg futures, better get out of that long position now while the getting is good. ‘-)
+Reply
+Rosalyn says:
+October 6th, 2017	at 3:36 pm
+Well I did it, got the flu shot. What I reasoned is the placebo affect will make me feel better. If I hadn’t gotten the shot placebo in reverse would have me worrying constantly about having made the wrong decision, probably bringing it on! Thank you all for the discussion.
+Reply
+Lonie says:
+October 6th, 2017	at 6:02 pm
+As Thea said, “On the other hand, they didn’t find any sic harms with it.”
+So I guess there is no wrong decision either way.
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 8:23 pm
+Thanks for your great question. I looked, but I didn’t see anything Dr. Greger has posted about influenza vaccines. I know he is all about what the peer reviewed science says. As a nurse, I can tell you the science is clear that influenza vaccines are safe and effective. And having taken care of influenza patients, you don’t want it.
+You might like this video about health and immunity. Influenza is mentioned.
+https://nutritionfacts.org/video/boosting-immunity-through-diet/
+Kelly
+Nutritionfacts.org Moderator.
+Reply
+susan says:
+October 7th, 2017	at 9:52 am
+I have had the flu shot four times in past years when offered (and recommended) by my family physician. Each year I received it, I got the flu within a short time, and ended up battleing illness for weeks.
+Coincidence or not, this year I’ll pass.
+Reply
+Jerry Lewis says:
+October 6th, 2017	at 12:20 pm
+Just like the doctor said, we need to take precautionary measures but not to panic with cell phone usage. This is just one more electronics and a new kid in town and source of EMF but by the physics law, all electronics and electrical devices will produce some kind of EMF emission. So unless you live in a cocoon or stay away from all modern life convenience, there is no way to avoid them all.
+https://www.defendershield.com/learn/electronics-emr/
+Reply
+Amnon Betsser says:
+October 6th, 2017	at 12:31 pm
+Dear Sirs
+This important information is very badly presented , Too fast and troubling the eyes .
+Simplicity is the name of the game . Less graphic elements
+Thank You
+Reply
+Kay says:
+October 6th, 2017	at 1:33 pm
+I don’t watch the videos. I read the transcription. The charts/graphs aren’t in the transcript but rarely does that matter. I’ve never been inclined to watch the video when a chart has been referenced in the transcription.
+That said, what’s this about kimchi being a carcinogen?
+Reply
+spring03 (Moderator) says:
+October 6th, 2017	at 3:22 pm
+Hi Kay, thanks for following Dr Greger for information on health. I am one of the volunteer dietitian on the site. He has a video which mentions the biogenic amines, like spermine and cadaverine, that can be formed in decomposing tissues. But a new review on the human toxicological effects of these substances in our diet suggests that putrescine may have carcinogenic (cancer-causing) effects.
+Putrescine is a chemical compound of decay that contributes to the smell of putrefying flesh, and the fishy odor of certain vaginal infections. But it’s found even in non-spoiled fish, meat, cheese, and fermented foods. We can’t stay away from it, though, unless we know which foods have the most.
+Carcinogenic Putrescine
+Reply
+TG says:
+October 6th, 2017	at 11:08 pm
+There has been a number of studies which have found a link between consumption of pickled or fermented vegetables and gastric cancer. Salt is suspected to be the culprit.
+But re kimchi specifically, see this article: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4316045/
+Reply
+Lonie says:
+October 6th, 2017	at 12:32 pm
+With 5G wireless on the horizon, I wish the video would have addressed any difference in danger from a 2G, 3G, or 5G wireless signal.
+Reply
+Jerry Lewis says:
+October 6th, 2017	at 1:18 pm
+As the G increases, they will transmit at higher frequencies. For 5G then it is the millimeter wave (mmWave) band.
+By the law of physics then the higher the frequency and the more data you send then the more magnetic field you will create and so 5G should create more EMF than 4G than 3G and so on. At which point will it cause cancer, or never, I don’t know. We will deal with it when it comes to market, like 5 years from now, or we can choose not to follow the technology.
+https://www.defendershield.com/learn/electronics-emr/
+Reply
+Lonie says:
+October 6th, 2017	at 1:47 pm
+Thnx Jerry,
+Maybe 5 years before saturation, but I’m pretty sure it will be out there in a couple of years in some markets… just depends on when the final standards are set.
+It will be a big part of my business (shooting with RED Hydrogen holographic phones) if my guess is correct… that the Hydrogen phone will be capable of streaming high resolution footage.
+But at least while recording as a camera the phone probably will be safe, and if streaming over 5G, then it shouldn’t be in close proximity to a body part. Still, I’m sure they won’t certify 5G standards until they are convinced it will be (somewhat) safe.
+Reply
+Todd S. says:
+October 6th, 2017	at 1:17 pm
+I would certainly be interested in finding out if there has been any peer reviewed scientific studies on the use of bluetooth ear pieces. Might they also contribute to some form of cancer? Are the bluetooth signals themselves considered carcinogenic? I intentionally use my airpods only now so as to avoid putting the dreaded phone to my head. Are corded earphones safer? Very curious!
+Reply
+Jerry Lewis says:
+October 6th, 2017	at 1:29 pm
+Bluetooth is considered relatively safe because it is in the low frequency range and also low power. You need 2 things to have strong EMF, frequency + power.
+https://www.rfsafe.com/bluetooth-radiation-dangerous-cell-phone-radiation/
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 8:15 pm
+That’s a very interesting thought. If you are concerned about radiation damage, you might enjoy this video Dr. Greger made about reducing radiation damage. https://nutritionfacts.org/video/reducing-radiation-damage-with-ginger-and-lemon-balm/
+Kelly
+Nutritionfacts.org Moderator
+Reply
+coachmitch says:
+October 6th, 2017	at 1:20 pm
+Off this topic, but just a thought…..are Asian or for that matter, any country of people who eat rice as such a staple food, more likely to suffer from ill effects of arsenic in rice. Like to see a study on that!!
+Reply
+susan says:
+October 6th, 2017	at 3:47 pm
+coachmitch, Dr Greger posted a long series of videos about arsenic and rice this past summer. This video was fairly recent, and should interest you https://nutritionfacts.org/video/benefits-of-turmeric-for-arsenic-exposure/
+It speaks about the Bangladesh disaster of tube wells and arsenic in the drinking water. The problem isnt with the rice, it’s with the water that the growing rice soaks up. This link from the world health organization speaks about the implications http://www.who.int/bulletin/volumes/90/11/11-101253/en/
+Reply
+Donald Wieneke says:
+October 6th, 2017	at 1:32 pm
+INDUCTION COOKTOPS
+If there’s some concern about cell phones how about taking a look at Induction Cooktops?
+Must be massively more radiation with a device like this.
+Sales literature say the radiation falls to zero at one foot. But what about all the people who cook closer to the burner than one foot like most people.
+Keep up the great work.
+Thanks
+Reply
+Lonie says:
+October 6th, 2017	at 2:24 pm
+Thnx for bringing that up. I have two of those that I use on occasion, but I set the timer and go do something else… like getting radiated by my laptop. ‘-)
+Reply
+NurseKelly (Moderator) says:
+October 6th, 2017	at 8:13 pm
+That’s a great thought. Thanks for the suggestion. If you are concerned about radiation, you might like this video Dr. Greger made about reducing radiation damage.
+https://nutritionfacts.org/video/reducing-radiation-damage-with-ginger-and-lemon-balm/
+Kelly
+Nutritionfacts.org Moderator
+Reply
+Ignatius says:
+October 7th, 2017	at 6:17 am
+nurse kelly
+thanks for the reminder , there is a gold mine of info in the old videos on this site .
+just last week someone i know asked me what she could do about severe chronic upper back ache , she had this for over a year , she gone to a doctor and they did tests including xrays , they prescribed a powerful pain killer and a sleep aid , the percocet i think it was sent her to the ER within 2 hours and they had to put her on a IV and flush the med back out , she was very close to stopping to breathing . the sleep aid worked for sleep the next day but left her feeling exhausted all day .
+we started looking on here and i ran across sweet cherries for pain , 2 cups a day . i asked why not try? she did and by the second day she noticed a marked improvement, and now a week later , she has almost no pain whatsoever and sleeps at night! BTW with no sleep aid. this is one of the biggest success stories i have run across. now she is watching videos on here and wants to go completely WFPB too.
+Reply
+R.Lauren Burger says:
+October 9th, 2017	at 7:52 am
+Your analogy of cell phones and induction cooktops is interesting, but not accurate. The problem is not the amount of energy used but it has to do with the Frequency of the energy. The power of the induction Cooktops interfere more with the schumann resonance (7-8hz). This gets into theories that our DNA and all of life is powered by the small changes in geomagnetic fluctuations. At that level, any metal around our neck would also interfere with those energies. As a whole, the induction cooking is minimal as the RF from just the 60 hz already permeates the environment and is present in most electronics as noise that is filtered out. If you are truly worried about RF issues, look into the energies and frequencies surrounding radio towers. 50,000 watts, vs 1500 watts for an induction top. More power at a higher frequency. The Frequency is what causes the issue. The higher you go, the more damage can be caused by the EM energies. Google :: Frequency Chart x ray – http://images.tutorvista.com/cms/images/81/Visible-spectrum-chart1.PNG
+We take the good with the bad in everything we do. With everything we eat we make decisions. Dr. Greger is allowing us to make informed decisions about the radiation surrounding Cell Phones. What he didn’t cover is that most of the studies done for penetration testing were done on adult males in the military and that woman do not have as thick as skull as their male counterpart. We make decisions for our children who have even less protection and because of social pressures spend more time on the phone than most adults and as such are at more risk. Since Cell Phones are a NEW technology we don’t really have any data on the possible side effects. Yes, Cell phones have been around since the 70’s, but the life of the cell phone battery and power reduction is because of the frequency shift of the transmitters. It has gone up, and up – and the NEW Cell phones use a different frequency and technology. That frequency usage at the distance that it is being used is the problem, which gets back to your question on induction cooktops and 60 hz is not all that dangerous a frequency for disruption of chemical or molecular bonds. Even at close range. If you need more evidence, check out Induction Furnace and research if those in those industries having more exposure in 10 minutes then you have in a year should be showing some kind of alterations to their genes. Or those in the Power Generation facilities. Since neither are showing any ‘ reported ‘ impacts, I would conclude that the potential for this being a problem are approaching zero, where the energies of Cell Phones although 1/10000 less are in fact causing heating issues and oxidative stress on the body. Cell Phones are more important in the risk analysis. Just as when you compare eating meat to eating organic vs ‘conventional’, the risk analysis points to getting rid of meat, because the fat bio-accumulates the toxins in the environment. And the cost analysis that is being done, means that we are creating meat that not only contains toxins, but prions. In an order of importance and weighing the factors, the microwave energies frying our skulls is more important to me than the induction current cooking my meal. I so wanted to say frying my meat, creating Heterocyclic Amines (HCAs) but that would just be a play on words and not addressing your concern.
+And by the way – the induction top produces less EM than resistive heating. But that is a different story.
+Reply
+James says:
+October 15th, 2017	at 5:21 pm
+Induction cook tops use a drastically lower frequency ~60 Hz compared to ~ 2100 MHz (2,100,000,000 Hz), my guess would be it’s nothing to worry about.
+Reply
+Penny says:
+October 6th, 2017	at 2:17 pm
+I use a wired headset. I am hoping this is sufficient to reduce the risk significantly.
+Reply
+David Baquis says:
+October 6th, 2017	at 2:25 pm
+HI Dr. G: I think you have overlooked a much more frequent health issue related to wireless communication and that is radio frequency sickness that may be related to wifi signals, cell phone signals, etc. See: http://www.electronicsilentspring.com/
+Reply
+spring03 (Moderator) says:
+October 6th, 2017	at 3:04 pm
+Hi Penny, thanks for your question. I am one of the volunteers on the site. As this review points out recent use of hands-free accessories might decrease radiation exposure to the human head [99].
+Pathophysiology of cell phone radiation: oxidative stress and carcinogenesis with focus on male reproductive system
+Reply
+Ellen Vanderstarre says:
+October 6th, 2017	at 3:39 pm
+I have a cerebral menigioma. I have no idea if it is caused by cell phone use but I follow the protocol for Dt Greger. I have been told my tumor is not getting larger and I have no other issues related to the tumor.
+Reply
+Spring03 says:
+October 6th, 2017	at 4:14 pm
+Hi Ellen Vanderstarre, Thanks for your comment. I am one of the volunteer at the website. Firstly I wish you good health and great job that you follow Dr Greger for sound health advice.
+I also was curious to find what this cerebral meningioma is ? In the literature it mentions a majority of them are benign which is good to know. I shall include the reference for your information.
+MENINGIOMAS
+Reply
+Patricia says:
+October 7th, 2017	at 3:02 am
+Hi. What is the protocol (or where do I find it?) Thanks
+Reply
+Anna says:
+October 6th, 2017	at 4:58 pm
+What about Fit Bit and Apple iwatch. Also another subject I’m interested if anyone has info on microwaves and their effects on humans and the food (proximity while heating food and the effects on food?) I will once in a while cook oats or steam veggies in the microwave.
+Reply
+Melvin Swirl says:
+October 6th, 2017	at 8:03 pm
+I have alopecia and I was just wondering if a whole food plant based diet would help me?
+Reply
+AdamP (Moderator) says:
+October 7th, 2017	at 1:17 pm
+Melvin,
+I’m not aware of any study suggesting that plant-based diet could help you. But a healthy plant-based certainly can’t hurt you!
+So why don’t give it a try ;)?
+Moderator Adam P.
+Reply
+Alice says:
+October 7th, 2017	at 2:09 am
+Hello;) I have a question about nutrition and I would be really grateful for your help. A few months ago I was diagnosed with ulcerative coltis. The diet recommendations with this disease are not very clear but the doctors recommend not to eat too much fibre (not too much fruit and vegies) and a lot of protein (mainly from meat). I’m so confused cause you read how healthy is the plant based diet… What should I do? I still have a lot of blood when I go to bathroom. Maybe I should cure my gut now with the typical diet and slowly try to apply more vegies and fruit? But I’m scared it will harm my gut again. Any help? You talk a lot about diabetes and obesity but not too much info for people with the disease like mine.
+Thanks for help in advance.
+Reply
+Tim Gamage says:
+October 7th, 2017	at 5:23 am
+Hi Alice, this link may help you.
+https://nutritionfacts.org/video/treating-ulcerative-colitis-with-diet/
+Reply
+AdamP (Moderator) says:
+October 7th, 2017	at 1:12 pm
+Alice,
+please take a look at this:
+https://nutritionfacts.org/video/treating-ulcerative-colitis-with-diet/
+https://nutritionfacts.org/video/striking-root-turmeric-curcumin-ulcerative-colitis/
+https://nutritionfacts.org/video/wheatgrass-juice-ulcerative-colitis/
+https://nutritionfacts.org/video/bowel-wars-hydrogen-sulfide-vs-butyrate/
+https://nutritionfacts.org/video/effect-of-sucralose-splenda-on-the-microbiome/
+https://nutritionfacts.org/video/vitamin-d-for-inflammatory-bowel-disease/
+https://nutritionfacts.org/video/how-to-change-your-enterotype/
+https://nutritionfacts.org/video/titanium-dioxide-inflammatory-bowel-disease/
+Yes, that’s pretty much standard dr’s recommendation. But that doesn’t mean it’s best and based on best science. They recommend it because most people usually don’t eat much fiber and sudden higher intake could cause them to have a relapse. So what should you do then? Try for your self and see what works best for you. I think you should gradually move to plant based diet.
+Hope this helps and please, let us know if it did,
+Moderator Adam P.
+Reply
+carra3 says:
+October 7th, 2017	at 5:22 am
+I would love to see videos on feminine hygiene. For instance, I’ve heard if you eat a lot of fruits, it will cause the v-area to smell fruity? :) Is this true? What does science say regarding this?
+Also, a video on silicones, parabens in hair products? What does science say?
+Thank you.
+Reply
+S says:
+January 14th, 2018	at 11:23 pm
+That is absolutely not true about eating a lot of fruit, carra3, I have no idea where you heard that but it’s nonsense. Actually those who eat a plant based diet with lots of fruits and other whole plant foods have better overall hygiene and in my experience as well as what I’ve heard, don’t even get body odor. The foods that actually cause body odor are animal products. It’s kind of explicit but there’s a saying in the vegan community that “vegans taste better.” Not one that I use, I don’t really talk that way, but it’s been said.
+Reply
+S says:
+January 14th, 2018	at 11:27 pm
+Oh and I also wanted to say good question on chemicals in products, I would LOVE to see Dr. Greger get into this more! I have learned through my research that silicones, such as dimethicone, in skin care products are best to be avoided. I don’t know if they’re carcinogenic, but what I HAD learned is that they actually sit on top of the skin and prevent the product from avoiding. Nothing can get through, neither in nor out so it can clog pores. They use it in a lot of products because it makes the product feel very silky and gives the illusion that it’s making your skin soft… and it does make your skin feel soft, until you wash it off.
+Reply
+S says:
+January 14th, 2018	at 11:28 pm
+*absorbing, not avoiding, sorry… auto correct.
+Reply
+TG says:
+October 8th, 2017	at 1:05 am
+Men are often accused of thinking with another organ than their brain. This post may therefore not be entirely off topic.
+An Australian study has linked mobile phone use with sperm damage. We are advised not to carry oiur phones in our trouser pockets – I am going to have to start carrying a manbag.
+http://www.reproduction-online.org/content/152/6/R263.long
+http://www.dailymail.co.uk/health/article-3781953/Why-men-NEVER-phone-pocket-Study-shows-prolonged-exposure-radiation-steadily-destroys-sperm.html
+Reply
+Ej says:
+October 8th, 2017	at 2:54 am
+How do tablets and laptops fit in to this? Do they have similar issues using WiFi, or are they preferable to using a mobile phone?
+Obviously you don’t hold them to your head so that’s already a plus, but besides that? Do they work with a similar signal?
+Thanks!
+Reply
+TG says:
+October 8th, 2017	at 7:40 am
+Good question. There is apparently a risk to male reproductive health from prolonged laptop use. I am not normally a fan of Mercola but he appears to have tracked down the few relevant papers on this topic.
+https://articles.mercola.com/sites/articles/archive/2012/03/05/avoiding-emf-exposure-on-laptops.aspx
+Reply
+Ej says:
+October 8th, 2017	at 7:47 am
+Wow OK! That’s scary stuff… funny how we put so much thought into what we eat and yet I never considered the technology in front of me Thank you for the link!
+Reply
+S says:
+January 14th, 2018	at 11:17 pm
+But a plant based diet can help protect us from the things we live among in the modern world.
+Reply
+Jerry Lewis says:
+October 8th, 2017	at 3:23 pm
+The following video from CBC Canada makes me think.
+https://www.youtube.com/watch?v=Wm69ik_Qdb8
+I have seen the warnings about EMF for a long time from people such as Dr Mercola and I dismissed them because I think that Dr Mercola is over-alarmist sometimes. Just as a side note, Dr Mercola is always in the forefront to alarm us about the pollution in the environment and products that we use, such as he is one of the first to alert about GMO, vaccines, Triclosan, SLS in toothpaste, EMF, etc. and it takes a while for me to sink in sometimes because we cannot live and worry about everything all the time.
+Anyway, according to the CBC video, we are supposed to have our cell phone at least 5mm from our body. In the winter, I usually do because I put my phone in my jacket and answer phone calls with the speakerphone or headphone. But in the summer, I usually put it in my pant pocket which is less than 5mm from my body. And the CBC video also said that if you live in an area with poor cellphone reception then the phone has to put more power and therefore increases the EMF level.
+Cell phone is probably the worse EMF polluter because you usually keep it next to your body. But you have EMF all over place in your house or at work, from electrical wiring to WIFI to electrical appliances. If you are an alarmist like Dr Mercola then you need to shield your house or bedroom. But I probably buy a geomagnetometer at some point to see what kind of EMF there are in my house first before worrying to much.
+And for those who hate and like to trash Dr Mercola, you can put your head in the sand and don’t read the following links, if NF let me post.
+https://articles.mercola.com/sites/articles/archive/2009/08/25/simple-inexpensive-solution-to-radically-lower-emf-exposure.aspx
+https://articles.mercola.com/sites/articles/archive/2016/01/20/emf-controversy-exposed.aspx
+http://search.mercola.com/results.aspx?q=emf
+http://www.slt.co/Products/RFShieldingFabrics/
+https://www.amazon.com/Trifield-100XE-EMF-Meter/dp/B00050WQ1G/ref=sr_1_1?ie=UTF8&qid=1507489120&sr=8-1&keywords=geomagnetometer
+Reply
+gee says:
+October 8th, 2017	at 5:13 pm
+What is this article actually saying? There is no scientific research quoted, just lots of spin implying that authorities don’t come clean with the ‘truth’; Still sounds like people don’t really know what causes problems, when, why and for whom… maybe those poor people who use phones and get problems don’t eat enough carrots…. surprised you haven’t speculated that…..(and there are those ever annoying unnecessary vegan-biased snippets eg known carcinogen like processed meat.. we get the picture .. known carcinogen says it all….)
+Reply
+TG says:
+October 9th, 2017	at 1:23 am
+“annoying unnecessary vegan-biased snippets eg known carcinogen like processed meat.. we get the picture .. known carcinogen says it all….)”
+Yes, the World Health Organization and IARC are vegan front organisations. Let’s just rely on the telecommunications, salt, food processing and livestock industries for safety information. They couldn’t possibly be biased,could they?
+Reply
+Tim Gamage says:
+October 9th, 2017	at 4:18 am
+Hi gee,
+The Sources Cited are available via the tab second from the left below the clip.
+Reply
+Nutrimed61 (Moderator) says:
+October 16th, 2017	at 6:25 pm
+Hey gee, thanks for writing! The conclusions of some scientific literature can frustrate many of us; everything seems to cause SOME degree of risk. When I lived in Lake County (FL) I was told it was the ‘lightning capital of the USA’ and one time, my family and I came close to being struck repeatedly during a lightning storm when we were on a lake. Driving is a risk, breathing is a risk because of air quality…what this article is saying is that, to mitigate your risk, don’t put the phone next to your ear while it’s connecting a call, and you should be okay. Not such a bad trade-off, is it?
+Reply
+S says:
+January 14th, 2018	at 11:15 pm
+Wow, gee… can’t really elaborate on TG’s response, cause he pretty much said it all. But umm… wow. Are you sure you aren’t Jerry?
+Reply
+Steve says:
+October 8th, 2017	at 10:10 pm
+For those who are interested in investigating further on what the science on EMF and biological effects is showing I would thoroughly recommend a visit to the ORSAA database . It contains over 2600 scientific papers from 1990’s to present time looking at ELF to RF exposures, with the majority of papers being in the RF/Microwave range. Studies are categorised as Effect, No Effect, Uncertain Effect and Non Experimental Supporting Studies (NESS). Studies that find effects are further categorized into type(s) of bio effects. An interesting picture develops when summarizing all the effects found and in many respects reflects and extends what was already known from early military research (NASA, NMRI, DIA and USAF review papers) in the 60’s and 70’s before wireless devices became heavily commercialized. The ORSAA database is fully searchable and allows users to search on specific topics of interest. For example a search can be performed to identify all papers that have Brain Tumours as topic (133 papers)
+ORSAA or Oceania Radiofrequency Scientific Advisory Society – was established 2 years ago to provide an independent viewpoint on the science. ORSAA and its members are not aligned with Government or Industry. The ORSAA database is being updated and classified on a regular basis with current research as it becomes available. Study selection for inclusion into the database is not restricted to effect papers only. New members are always welcome.
+Reply
+Steve says:
+October 8th, 2017	at 10:13 pm
+Hyperlink is messed up in the above comment
+ORSAA database can be found here https://n432.fmphost.com/fmi/webd#Research_Review_V4
+ORSAA landing page is http://www.orsaa.org
+Reply
+Pat says:
+October 9th, 2017	at 4:05 am
+Off topic. Please do a vid on colloidal silver. I have used it for a long time, but mostly dermatologically. Living in the tropics we have more BO and use it with “safe” deodorant. It brought a neophyte boil to a head within 24 hours. But is it as safe as they claim? Many of my friends are recommending it to me so I think it is important to know the science.
+Reply
+AdamP (Moderator) says:
+October 14th, 2017	at 1:45 pm
+Pat,
+I passed this information Dr. Greger, so maybe he’ll look into it.
+Thanks for your suggestion,
+Moderator Adam P.
+Reply
+S says:
+January 14th, 2018	at 11:12 pm
+Pat, that would be an awesome subject to get more insight on! I know it can work extremely well at healing wounds and keeping infections at bay including staph infections. I used it for a time to heal wounds quicker but then got worried when I read that some studies showed it could mutate skin cells while others (if I’m remembering correctly) showed that it healed better. I also read about it as an alternative to taking antibiotics, and while it looks like it would work well in that regard (don’t know how safe), it can actually change your coloring to a blue shade which may be permanent. To be honest, I don’t remember everything I read in detail, just these basic highlights and I didn’t save sources. Anyways, it’s a really useful product and would be great to learn more about its safety and appropriate uses.
+Reply
+Elisa Beck says:
+October 10th, 2017	at 8:09 am
+Hi Dr. Greger, I’m wondering if you’]ve looked at the work of Devra Davis and her book on the subject, Disconnect? Blessings for all of your outstanding work! Elisa Beck :)
+Reply
+Nutrimed61 (Moderator) says:
+October 24th, 2017	at 6:02 pm
+Hey Elisa,with few exceptions, Dr. G spends his reading time on emerging scientific papers (and sometimes, others that are important and have been forgotten) rather than popular books. These include books that try to cast doubt on the health aspects of eating a WFPB diet. Thanks again and keep well!
+Reply
+John says:
+October 15th, 2017	at 8:52 am
+Is there a difference in RF radiation between smartphones and “dumb phones”, the old mobiles without internet? Thanks
+Reply
+drkadish says:
+October 15th, 2017	at 12:18 pm
+John,
+You can take a look at the SAR levels at this site and compare phones…..both dumb and smart ones….
+Dr. Alan Kadish moderator for Dr. Greger http://www.Centerofhealth.com
+Reply
+John says:
+October 15th, 2017	at 8:53 am
+Is there a difference in RF radiation between smartphones and “dumb phones”, the old mobiles without internet? Thanks
+Reply
+S says:
+January 14th, 2018	at 11:05 pm
+I believe there is John. I’ve read that iPhones have the most radiation, but I’m not sure… I don’t really see why they’d have more than other smart phones but I am far from an expert on this subject. Would be good to know the difference in radiation though. Hopefully someone more qualified will answer.
+Reply
+Dr. Maryam Mermey says:
+November 21st, 2017	at 2:35 pm
+Does regularly carrying an iPhone in your hip pocket place you at risk for hip or other kinds of cancer due to the radiation?
+Reply
+Deadbeef says:
+November 23rd, 2017	at 8:20 pm
+How about fitbits? I see a few things floating on the internet regarding cancer caused by these devices.
+Reply
+Deb says:
+January 12th, 2018	at 4:12 pm
+Now, I am grateful that almost everyone around me texts.
+Reply
+S says:
+January 14th, 2018	at 10:58 pm
+Unless they’re driving.
+Reply
+S says:
+January 14th, 2018	at 10:57 pm
+Awesome videos on cell phones! This was extremely helpful, so glad you made this!
+Reply
+S says:
+January 14th, 2018	at 11:03 pm
+It might be worth talking about eye health though. I’ve read that kids growing up staring at computer screens, cell phone screens, iPads, etc., are more likely to need glasses. I have one of those light blocker thingies (that’s the technical term, right? lol) on my computer and I have to say that it’s made a huge difference in eye comfort. My eyes used to get irritated after long periods of time staring at the computer screen and even begin to feel dry, but that doesn’t happen anymore since getting the light filtering screen.
+On a totally separate note, I think there are a lot of negative social impacts on kids (and even adults) constantly being plugged into a screen, but that’s a sociological issue.
+Reply
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Comment
+Name *
+Email *
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Participate in this discussion via e-mail!
+Subscribe to NutritionFacts.org Videos
+×
+By subscribing, you will automatically receive the latest videos emailed to you or downloaded to your computer or portable device. Select the subscription method below that best fits your lifestyle.
+Subscribe on iTunes Subscribe on Android Subscribe via RSS Subscribe via E-Mail
+Or subscribe with your favorite app by using the address below:
+iOS (iPhone, iPad, and iPod)
+For Podcasts
+To subscribe, select the "Subscribe on iTunes" button above.
+For E-mail Subscriptions
+To subscribe, select the "Subscribe via E-Mail" button above.
+Mac and Windows
+For Podcasts
+To subscribe, select the "Subscribe on iTunes" button above.
+For E-mail Subscriptions
+To subscribe, select the "Subscribe via E-Mail" button above.
+Android and Amazon Fire
+For Podcasts
+To subscribe, select the "Subscribe on Android" button above.
+For E-mail Subscriptions
+To subscribe, select the "Subscribe via E-Mail" button above.
+Using Your Favorite Application
+Copy the address found in the box above and paste into your favorite podcast application or news reader.
+Bookmarking NutritionFacts.org
+To bookmark this site, press the Ctrl + D keys on your Windows keyboard, or Command + D for Mac.
+Close Subscription Help
+English
+Spanish
+Nutrition Videos
+Browse Topics
+Latest Videos
+How Not to Die
+Foods for Dreaded Diseases
+Foods for Disabling Diseases
+Foods for Common Diseases
+Foods for Killer Diseases
+Blog and Resources
+Dr. Greger's Medical Nutrition Blog
+Evidence-Based Eating Guide
+Nutrition FAQs
+Optimum Nutrition Recommendations
+Get the Books
+How Not to Die
+The How Not to Die Cookbook
+Get the App
+Daily Dozen iOS
+Daily Dozen Android
+Daily Dozen Challenge
+Support Us
+Donate
+Our Supporters
+Donor Rewards & Recognition
+Get Involved
+Volunteer Opportunities
+Internship Opportunities
+Employment Opportunities
+Open Source Initiative
+Submit a Testimonial
+Get Social
+Facebook
+Twitter
+Pinterest
+Instagram
+YouTube
+Vimeo
+NutritionFacts.org in China
+Subscribe
+E-Mail Subscriptions
+Volunteer Newsletter
+Video RSS Feed
+Blog RSS Feed
+Help
+About NutritionFacts.org
+Help Center
+FAQ
+Copyright Guidelines
+Privacy Policy
+Terms of Service
+Get in Touch
+Contact Us
+Press
+Speaking Inquiries
+Interview Inquiries
+We our volunteers!	Apply Now!
+Pin It on Pinterest
+Share This
+Facebook
+Twitter
+Mail

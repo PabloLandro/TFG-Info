@@ -1,0 +1,405 @@
+Statin therapy and risk of dementia in the elderly | Neurology
+Skip to main content
+Advertisement
+Neurology.org
+Journals
+Neurology
+Clinical Practice
+Genetics
+Neuroimmunology & Neuroinflammation
+Collections
+Subjects A-Z
+Residents & Fellows
+Patient Pages
+Translations
+Podcast
+CME
+Article CME
+Podcast CME
+About
+About the Journals
+Contact Us
+Authors
+Submit a Manuscript
+Author Center
+Search for this keyword
+Advanced Search
+Main menu
+Neurology.org
+Journals
+Neurology
+Clinical Practice
+Genetics
+Neuroimmunology & Neuroinflammation
+Collections
+Subjects A-Z
+Residents & Fellows
+Patient Pages
+Translations
+Podcast
+CME
+Article CME
+Podcast CME
+About
+About the Journals
+Contact Us
+Authors
+Submit a Manuscript
+Author Center
+Home
+Latest Articles
+Current Issue
+Past Issues
+Residents & Fellows
+User menu
+Subscribe
+My alerts
+Log in
+Log out
+Search
+Search for this keyword
+Advanced search
+The most widely read and highly cited peer-reviewed neurology journal
+Subscribe
+My alerts
+Log in
+Log out
+Home
+Latest Articles
+Current Issue
+Past Issues
+Residents & Fellows
+Share
+November 09, 2004; 63 (9) Articles
+Statin therapy and risk of dementia in the elderly
+A community-based prospective cohort study
+G. Li, R. Higdon, W. A. Kukull, E. Peskind, K. Van Valen Moore, D. Tsuang, G. van Belle, W. McCormick, J. D. Bowen, L. Teri, G. D. Schellenberg, E. B. Larson
+First published November 8, 2004, DOI: https://doi.org/10.1212/01.WNL.0000142963.90204.58
+G. Li
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+R. Higdon
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+W. A. Kukull
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+E. Peskind
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+K. Van Valen Moore
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+D. Tsuang
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+G. van Belle
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+W. McCormick
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+J. D. Bowen
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+L. Teri
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+G. D. Schellenberg
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+E. B. Larson
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+Full PDF
+Citation
+Statin therapy and risk of dementia in the elderly
+G. Li, R. Higdon, W. A. Kukull, E. Peskind, K. Van Valen Moore, D. Tsuang, G. van Belle, W. McCormick, J. D. Bowen, L. Teri, G. D. Schellenberg, E. B. Larson
+Neurology Nov 2004, 63 (9) 1624-1628; DOI: 10.1212/01.WNL.0000142963.90204.58
+Citation Manager Formats
+BibTeX
+Bookends
+EasyBib
+EndNote (tagged)
+EndNote 8 (xml)
+Medlars
+Mendeley
+Papers
+RefWorks Tagged
+Ref Manager
+RIS
+Zotero
+Permissions
+Make Comment
+See Comments
+Downloads
+1159
+Share
+Article
+Figures & Data
+Info & Disclosures
+Abstract
+Objective: To assess the association between statin therapy and risk of Alzheimer disease (AD) in a prospective cohort study with documented statin exposure and incident dementia.
+Methods: This is a prospective, cohort study of statin use and incident dementia and probable AD. A cohort of 2,356 cognitively intact persons, aged 65 and older, were randomly selected from a health maintenance organization (HMO), and were assessed biennially for dementia. Statin use was identified using the HMO pharmacy database. A proportional hazards model with statin use as a time-dependent covariate was used to assess the statin–dementia/AD association.
+Results: Among 312 participants with incident dementia, 168 had probable AD. The unadjusted hazard ratios (HRs) with statin use were 1.33 (95% CI 0.95 to 1.85) for all-cause dementia and 0.90 (CI 0.54 to 1.51) for probable AD. Adjusted corresponding HRs were 1.19 (CI 0.82 to 1.75) and 0.82 (CI 0.46 to 1.46). A subgroup analysis of participants with at least one APOE-ε4 allele who entered the study before age 80 produced an adjusted HR of 0.33 (CI 0.10 to 1.04).
+Conclusion: Employing time-dependent proportional hazards modeling, the authors found no significant association between statin use and incident dementia or probable AD. In contrast, when the data were analyzed, inappropriately, as a case-control study, the authors found an OR of 0.55 for probable AD, falsely indicating a protective effect of statins. Study design and analytic methods may explain the discrepancy between the current null findings and earlier findings.
+The 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase inhibitors known as statins decrease mortality from coronary heart disease1,2⇓ and stroke.3,4⇓ Statins inhibit cholesterol synthesis, and recent studies have suggested several mechanisms by which cholesterol might modulate Alzheimer disease (AD) pathology through inhibition of Aβ42 and Aβ40 production in vitro and in vivo,5 or by increasing amyloid precursor protein (APP) trafficking through the non-amyloidogenic APPsα pathway.6 In addition to lowering lipids, statins may also protect against AD by direct anti-atherosclerotic effects,7 neuroprotective effects, or antioxidative properties.7–9⇓⇓
+In a cross-sectional pharmacy data analysis, the prevalence of AD in patients who had or had not received statins was compared, using data from a computerized pharmacy database.10 It was found that the prevalence of probable AD in patients taking statins during the study was 60% lower than in the total patient population and 73% lower than among those taking other cardiovascular medications. However, the prevalence of statin use could have been influenced by AD itself. In a nested case-control study conducted in the United Kingdom, subjects who were prescribed statins had a 70% lower risk for dementia (OR = 0.29) than those who did not have hyperlipidemia or who were not on a lipid lowering agent.11 Two other studies also reported that statin use was associated with lower risk of dementia12 and cognitive impairment.13 However, two recent large randomized placebo-controlled clinical trials of statins did not confirm associations between statin use and cognitive change.14,15⇓ The lack of consistent findings in current epidemiologic and clinical studies motivates ongoing research concerning the relationship between statin therapy and occurrence of dementia. Here we report results from a prospective cohort study of statin use and incident dementia and probable AD using a pharmacy database to identify statin use prior to dementia.
+Methods.
+Participants.
+The Adult Changes in Thought (ACT) study has been described elsewhere.16 Briefly, this community-based prospective cohort study drew participants from Seattle area members of the Group Health Cooperative (GHC), a large health maintenance organization, who were aged 65 years and older when the study began in 1994–96. Out of 6,782 such individuals randomly sampled, 4,201 were ineligible (because of dementia or otherwise) or declined participation. The age, sex, and ethnicity of the remaining 2,581 participants did not differ significantly from those excluded.16 Participants were interviewed with questions on demographics, medical history, family history, psychosocial characteristics, and known or suspected AD risk factors. They were also given the Cognitive Abilities Screening Instrument (CASI),17,18⇓ a brief comprehensive screening instrument for cognitive impairment, and individuals scoring 86 out of 100 or higher or without evidence of dementia based on additional review and examination were enrolled in the cohort. APOE genotyping was completed on 2,124 participants.19,20⇓ Of the original cohort, 2,356 had at least one follow-up examination and therefore contributed to the present analyses. Of these, 312 subjects developed dementia or probable AD, 362 subjects died, and 186 subsequently refused participation, leaving 1,496 cognitively normal subjects under observation at the end of the study on December 31, 2002.
+Exposure measurement.
+GHC patients have prescriptions dispensed through the GHC pharmacy at nominal cost. The GHC pharmacy database was established in January 1977. Its data files contain information on drug, dosage, quantity dispensed, and prescription date and instructions. From these data we estimated duration, cumulative dose, and average daily dose of statins (simvastatin, lovastatin, pravastatin, and atorvastatin in the GHC formulary). Use of other lipid lowering agents (LLAs), including niacin, cholestyramine, colestipol, gemfibrozil, and clofibrate, was also included as a covariate in the analyses. To measure the magnitude of exposure, we defined an approximation of one statin equivalent as 10 mg of simvastatin, 20 mg of lovastatin or pravastatin, or 5 mg of atorvastatin prospectively, based on the dosages used in the large double blind placebo-controlled clinical trials of statin for prevention of coronary artery disease1,2,21⇓⇓ and consultation with an endocrinologist, internist, and cardiovascular epidemiologist. We defined statin or other LLA use as at least two consecutive fills of a statin within a 6-month period. In the analyses, exposures were censored at the estimated onset date of dementia (see below).
+Outcome measurement.
+After enrollment, participants were re-screened every 2 years with the CASI. Those whose CASI scores fell below 86 underwent a standardized dementia diagnostic evaluation, including a physical and neurologic examination by a study neurologist, geriatrician, or internist, and a 1-hour battery of neuropsychological testing. Relevant laboratory tests and brain CT or MRI studies were performed or results were obtained from GHC records. Diagnoses were assigned at consensus diagnostic conferences using Diagnostic and Statistical Manual of Mental Disorders–IV criteria for dementia22 and using criteria of the National Institute of Neurologic and Communicative Disorders and Stroke–AD and Related Disorders Association (NINCDS-ADRDA) for AD.23 Those with new onset dementia underwent at least one annual follow-up examination for verification of dementia status and assessment of cognitive decline. Dementia onset was defined by convention as halfway between the date of diagnosis and the date of the prior screening or examination that showed no dementia. Participants without dementia were re-screened every 2 years.
+Statistical analyses.
+Cox proportional hazards regression models were used to examine the association between statins, other LLAs, and risk of dementia or probable AD.24 The time axis was participant age. Participants were considered at risk for dementia in the analysis beginning with their age at entry. This type of analysis adjusts for age without assuming a functional form for the age-specific incidence rates and provides a relevant time scale.25 All-cause dementia and probable AD were the two outcomes of interest. The Cox models included both fixed and time-dependent variables. The use of statins and of other LLAs was modeled as time-dependent variables, with values of zero at times prior to the exposure and one after the exposure began. Potential confounders such as sex, years of education, age at entry, presence of at least one APOE-ε4 allele, and presence of medical comorbidities at baseline were tested as fixed covariates in the models. Models were checked for the proportional hazards assumption, which in this case is equivalent to interactions with age by residual plots and statistical tests.26 All statistical analyses were performed using SAS version 8.2.27
+Role of the funding source.
+The sponsors of the study had no role in study design, data collection, data analysis, data interpretation, writing of the report, or in the decision to submit for publication.
+Results.
+During the study period 312 participants were diagnosed with all-cause dementia, 168 subjects with probable AD, and 48 with possible AD. The mean age of dementia onset was 82.7 years with SD 6.2 years. Mean onset of probable AD was 82.5 (SD 5.4) years.
+Table 1 presents demographic information and baseline characteristics of the cohort. We used the Cox proportional hazards model to examine the relationship of each of these baseline characteristics (as fixed variables) and risk of dementia or probable AD (outcome) by using participant age as the time axis. Age at entry was inversely associated with risk of dementia with a hazard ratio (HR) of 0.88 (95% CI 0.84 to 0.94). The corresponding HR for probable AD was 0.91 (95% CI 0.84 to 0.98). These indicate that a 1-year increase in age at entry is associated with a 12% decline in relative risk for dementia and a 9% decline in relative risk for probable AD. Because age is the time axis and the year when most subjects were entered into the study was similar (between 1994 and 1996), age at entry is confounded with several other potential effects including time in the study, calendar time, and birth year. Therefore, effects such as sampling bias due to age at entry, calendar time effects (such as changes in diagnosis or treatment), cohort effects, and follow-up time effects (increased diagnostic ability) may all be represented by the age at entry term, which was adjusted for in the Cox model when we examined the association between statin use and risk of dementia. Each additional year of education was also inversely associated with risk of dementia (HR 0.95, 95% CI 0.92 to 0.99) and probable AD (HR 0.92, 95% CI 0.87 to 0.97). As expected, presence of the APOE-ε4 allele was associated with increased risk of dementia (HR = 2.24, 95% CI 1.75 to 2.85) and probable AD (HR = 2.57, 95% CI 1.85 to 3.56). Past history of cerebrovascular disease was associated with risk of all dementia (HR 1.66, 95% CI 1.21 to 2.28) but not probable AD (HR 1.07, 95% CI 0.15 to 1.77). Sex, race, body mass index (BMI), and other vascular comorbidity at baseline were not significantly associated with either dementia or probable AD (data not shown).
+View this table:
+View inline
+View popup
+Table 1 Baseline characteristics and other attributes of 2,356 study participants contributing 13,110 person-years
+Of the 2,356 participants, 392 had used statins, with a total of 9,638 prescriptions for these drugs, and 278 had used at least one other LLA (niacin being the most common other LLA) (table 2). Among the statin users, 154 (39.3%) had used other LLAs either concurrently (14.0%) or previously (25.3%). Simvastatin was the most commonly prescribed statin (69.4%), followed by pravastatin (20.8%), lovastatin (7.2%), and atorvastatin (2.6%). Predictably, age at first use of statins was greater than the age at initial use of other LLAs. We used the proportional hazards model to examine the relationship between statin use or other LLA use (as outcome), and baseline demographic characteristics and comorbidities included in table 1. Statins were prescribed more frequently to men, to non-whites, and to those with an APOE-ε4 allele or a history of coronary artery disease, cerebrovascular disease, hypertension, or diabetes. Users of statins and other LLAs also had a higher BMI at baseline (data not shown). Only age at entry, APOE status, and education were associated with both LLA exposure and dementia and thus posed a risk of confounding.
+View this table:
+View inline
+View popup
+Table 2 Characteristics of statin and other LLA users
+Table 3 shows the association between LLA use and dementia and probable AD. In simple bivariate analyses, the unadjusted HRs for statin users were 1.33 for dementia and 0.90 for probable AD, with associated confidence intervals that included the null value of 1.0. Models that included the potential confounders of age at entry, APOE status, and education yielded essentially unchanged estimates. There was no evident dose-response relationship between statin use and dementia or probable AD using cumulative equivalent dose, duration, or average daily dose. In addition to use of the stringent definition of onset by our study, introduction of a 1-year time lag between last statin use and dementia onset (i.e., ignoring exposures in the year prior to onset) did not alter the results. The table also shows null relationships between use of other LLAs and dementia or probable AD.
+View this table:
+View inline
+View popup
+Table 3 Hazard ratios (HR) of statin and other lipid lowering agents (LLA) use for all-cause dementia and probable Alzheimer disease (AD)
+APOE-ε4 allele is a major genetic risk factor for AD. It is possible that APOE, as a cholesterol transport protein, may alter the effects of statin on risk of AD. Compared to middle-aged adults, older persons were less likely to receive statins, particularly during the initial stages of statin diffusion into practice. To examine a potential differential effect of statins in different age or genetic groups, we performed a post hoc comparison by dividing participants into four subgroups according to age at entry (<80 vs ≥80 years) and presence of an APOE-ε4 allele (table 4). The association between statin use and risk of probable AD in the subjects <80 years old at entry who had at least one APOE-ε4 allele was HR 0.33, 95% CI 0.10 to 1.04 (p = 0.06 unadjusted for multiple comparisons). None of the other subgroups suggested a significant association.
+View this table:
+View inline
+View popup
+Table 4 Hazard ratios (95% CI) of statin use associated with probable Alzheimer disease in subgroups divided by APOE-ε4 status and age at entry
+Discussion.
+We did not find a significant association between use of statins or other LLAs and reduced (or increased) risk of dementia or probable AD. This result appears to conflict with prior reports.10–12,28⇓⇓⇓ We suggest that this discrepancy reflects differences in study designs, analytic methods, and the potential effects of indication bias or prevalent case bias in previous studies. Most of the prior studies10,12,28⇓⇓ used either cross-sectional or case-control analyses. Different length of exposure periods for cases and controls in some studies could have resulted in biased estimates of the association between statin use and dementia or AD, if compared to cases, control subjects were observed longer and thereby experienced a greater probability of being prescribed statins. For example, in the conventional retrospective case-control study, the relevant case exposure period is usually truncated at an arbitrary “reference” time prior to symptom onset or time of diagnosis. Unless the exposure period for controls is also limited at a similar reference time period as used in the nested case-control design, controls may have a greater probability of exposure. This would cause an observed OR to be biased away from the null and give the appearance of a protective effect. To demonstrate the notion that the previously reported “protective” effects of statins may actually reflect the methodologic shortcomings described above, we performed an analysis of the association between use of statins and risk of probable AD. We counted all case exposures up until dementia onset and chose controls from all those subjects who remained unaffected at the end of the study period, also counting any exposures prior to the end of the study period in the controls. Using logistic regression analysis to estimate the association between statin use and dementia, we observed a crude OR of 0.51 (95% CI, 0.30 to 0.86) and an age-adjusted OR of 0.55 (95% CI, 0.32 to 0.93), closer to results reported by others.11,12,28⇓⇓ Adjusting for other potential confounding by education and APOE-ε4 status did not materially alter this estimate.
+The nested case-control study11 with conditional logistic regression analysis may be free of bias mentioned above. However, indication bias29 in this study poses a risk of bias that could have resulted in a spurious protective effect. In this study, cases of dementia were identified as a first-time diagnosis of dementia or AD by general practitioners.11,30⇓ In general practice, dementia or AD is commonly first recognized or diagnosed several years after symptom onset and sometimes even in a fairly late stage. Statins have been used mainly for primary and secondary prevention of coronary artery disease, require time to have a beneficial effect, and may be expensive. If an individual has early signs or symptoms of dementia, physicians might be less willing to prescribe a statin. This would induce an indication bias in which an individual with prevalent or even so-called prodromal (mild cognitive impairment) or early dementia had less chance of receiving statins than the controls.
+In the present cohort study, censored observation time for new cases was set at a point halfway between date of the follow-up visit where the diagnosis was made and the previous follow-up examination when the individual was cognitively normal. Using this strategy, whether an individual received statin therapy was thus less likely to be influenced by presence or absence of dementia. Furthermore, as a check against the latter form of bias, we performed an analysis that ignored statin exposures during the year preceding the onset of dementia (or last follow-up visit for nondemented subjects), but noted only minimal change in the resulting measure of association (see table 3).
+Our observation of no overall protective effect of statins on cognitive function is further supported by the null findings from two placebo-controlled randomized trials of statins.14,15⇓ Although these studies were not designed to identify dementia or AD as a major outcome, the placebo-controlled randomized trials design ultimately avoids previously mentioned potential biases, since statin or placebo was started at the same time for all subjects. In the recent Heart Protection Study,14 20,536 individuals aged 40 to 80 at high risk for coronary heart disease were randomized to simvastatin treatment or placebo. After 5 years of treatment with simvastatin, the rate of cognitive impairment or dementia did not differ between the treatment and placebo groups.14 Similarly, in the PROSPER study, pravastatin had no significant effect on cognitive function in 5,804 elderly subjects aged 70 to 82 at risk of vascular disease after 3 years of treatment.15
+A notable strength of this study is its use of a computerized pharmacy database for exposure classification, thus avoiding potential difficulties with recall bias. The available prescription records were particularly helpful to the time-dependent analytic methods employed here. We must, however, also consider several potential limitations of this and all observational studies producing null results. First, we may have lacked adequate statistical power to detect a small protective effect of statins. However, the 95% CI for all-cause dementia of 0.82 to 1.75 suggests that statins do not reduce the risk of dementia by more than 18%, a far weaker effect than the risk reduction of 61% to 74% (OR of 0.26 to 0.39) reported from previous studies.11,12,28⇓⇓
+Second, this cohort consists of subjects aged 65 and older with mean age at entry of 75 years. Our study began almost concurrently with the widespread use of statins. We cannot comment, therefore, on any possible neuroprotective effect of statins occurring before age 65, or taken many years before persons would be likely to develop dementia. Our observation that statin use may provide some neuroprotective benefit for younger individuals (especially those with an APOE-ε4 allele) is similar to the findings reported from the Canadian Study of Health and Aging.12 We believe the possible interaction of statin effect, age, and APOE genotype is potentially of great interest and should be explored further.
+Finally, like all observational studies, this investigation may be vulnerable to effects of unsuspected or unmeasured confounding that might, in this instance, bias a “real” result toward the null. However, the most common concerns about confounding in relation to exposure classification appear to be reduced here. We suggest that it is more likely that earlier results are biased by this or the other, above-noted concerns. Our results argue against the general premise that statins used for prevention of coronary heart disease will result in prevention of dementia or AD, except perhaps in subgroups at high risk for early onset AD or in persons starting statins at a younger age and taking them for longer periods of time.
+Acknowledgments
+Supported in part by grants AG20020, AG06781, AG16976, and AG05136 from the National Institute of Aging, National Institutes of Health, Bethesda, MD.
+The authors thank Andrea LaCroix, PhD, Darlene White, BA, Meredith L Pfanschmidt, RN, Sheila O’Connell, MS, Duane L Beekly, BS, Lisa Bancroft, MS, Duryah Mohamath, and Mary Jacka, and the rest of the faculty and staff members who helped with this study.
+Received April 7, 2004.
+Accepted June 22, 2004.
+References
+↵
+Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S). Lancet. 1994; 344: 1383–1389.
+OpenUrlCrossRefPubMed
+↵
+Prevention of cardiovascular events and death with pravastatin in patients with coronary heart disease and a broad range of initial cholesterol levels. The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. N Engl J Med. 1998; 339: 1349–1357.
+OpenUrlCrossRefPubMed
+↵
+Blauw GJ, Lagaay AM, Smelt AH, Westendorp RG. Stroke, statins, and cholesterol. A meta-analysis of randomized, placebo-controlled, double-blind trials with HMG-CoA reductase inhibitors. Stroke. 1997; 28: 946–950.
+OpenUrlAbstract/FREE Full Text
+↵
+Crouse JR, 3rd, Byington RP, Hoen HM, Furberg CD. Reductase inhibitor monotherapy and stroke prevention. Arch Intern Med. 1997; 157: 1305–1310.
+OpenUrlCrossRefPubMed
+↵
+Fassbender K, Simons M, Bergmann C, et al. Simvastatin strongly reduces levels of Alzheimer’s disease beta-amyloid peptides Abeta 42 and Abeta 40 in vitro and in vivo. Proc Natl Acad Sci USA. 2001; 98: 5856–5861.
+OpenUrlAbstract/FREE Full Text
+↵
+Kojro E, Gimpl G, Lammich S, Marz W, Fahrenholz F. Low cholesterol stimulates the nonamyloidogenic pathway by its effect on the alpha-secretase ADAM 10. Proc Natl Acad Sci USA. 2001; 98: 5815–5820.
+OpenUrlAbstract/FREE Full Text
+↵
+Bellosta S, Ferri N, Bernini F, Paoletti R, Corsini A. Non-lipid-related effects of statins. Ann Med. 2000; 32: 164–176.
+OpenUrlCrossRefPubMed
+↵
+Wang PS, Solomon DH, Mogun H, Avorn J. HMG-CoA reductase inhibitors and the risk of hip fractures in elderly patients. JAMA. 2000; 283: 3211–3216.
+OpenUrlCrossRefPubMed
+↵
+Vaughan CJ, Delanty N. Neuroprotective properties of statins in cerebral ischemia and stroke. Stroke. 1999; 30: 1969–1973.
+OpenUrlAbstract/FREE Full Text
+↵
+Wolozin B, Kellman W, Ruosseau P, Celesia GG, Siegel G. Decreased prevalence of Alzheimer disease associated with 3-hydroxy-3-methyglutaryl coenzyme A reductase inhibitors. Arch Neurol. 2000; 57: 1439–1443.
+OpenUrlCrossRefPubMed
+↵
+Jick H, Zornberg GL, Jick SS, Seshadri S, Drachman DA. Statins and the risk of dementia. Lancet. 2000; 356: 1627–1631.
+OpenUrlCrossRefPubMed
+↵
+Rockwood K, Kirkland S, Hogan DB, et al. Use of lipid-lowering agents, indication bias, and the risk of dementia in community-dwelling elderly people. Arch Neurol. 2002; 59: 223–227.
+OpenUrlCrossRefPubMed
+↵
+Yaffe K, Barrett-Connor E, Lin F, Grady D. Serum lipoprotein levels, statin use, and cognitive function in older women. Arch Neurol. 2002; 59: 378–384.
+OpenUrlCrossRefPubMed
+↵
+Heart Protection Study Collaborative Group. MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trial. Lancet. 2002; 360: 7–22.
+OpenUrlCrossRefPubMed
+↵
+Shepherd J, Blauw GJ, Murphy MB, et al. Pravastatin in elderly individuals at risk of vascular disease (PROSPER): a randomised controlled trial. Lancet. 2002; 360: 1623–1630.
+OpenUrlCrossRefPubMed
+↵
+Kukull WA, Higdon R, Bowen JD, et al. Dementia and Alzheimer disease incidence: a prospective cohort study. Arch Neurol. 2002; 59: 1737–1746.
+OpenUrlCrossRefPubMed
+↵
+Teng E, Chiu H, Saperia D. Senile dementia; performance on a neuropsychologic test battery. Recent Adv Cardiovasc Dis. 1990; 11 (Suppl 1): 27–34.
+↵
+Teng EL, Hasegawa K, Homma A, et al. The Cognitive Abilities Screening Instrument (CASI): a practical test for cross-cultural epidemiological studies of dementia. Int Psychogeriatr. 1994; 6: 45–62.
+OpenUrlCrossRefPubMed
+↵
+Hixson JE, Vernier DT. Restriction isotyping of human apolipoprotein E by gene amplification and cleavage with HhaI. J Lipid Res. 1990; 31: 545–548.
+OpenUrlAbstract
+↵
+Emi M, Wu LL, Robertson MA, Myers RL, Hegele RA, Williams RR, et al. Genotyping and sequence analysis of apolipoprotein E isoforms. Genomics. 1988; 3: 373–379.
+OpenUrlCrossRefPubMed
+↵
+Waters D, Higginson L, Gladstone P, et al. Effects of monotherapy with an HMG-CoA reductase inhibitor on the progression of coronary atherosclerosis as assessed by serial quantitative arteriography. The Canadian Coronary Atherosclerosis Intervention Trial. Circulation. 1994; 89: 959–968.
+OpenUrlAbstract/FREE Full Text
+↵
+American Psychiatric Association. Diagnostic and statistical manual of mental disorders: DSM-IV. Washington, DC: American Psychiatric Association, 1994.
+↵
+McKhann G, Drachman D, Folstein M, Katzman R, Price D, Stadlan EM. Clinical diagnosis of Alzheimer’s disease: report of the NINCDS-ADRDA Work Group under the auspices of Department of Health and Human Services Task Force on Alzheimer’s Disease. Neurology. 1984; 34: 939–944.
+OpenUrlAbstract/FREE Full Text
+↵
+Fisher LD, Lin DY. Time-dependent covariates in the Cox proportional-hazards regression model. Annu Rev Public Health. 1999; 20: 145–157.
+OpenUrlCrossRefPubMed
+↵
+Commenges D, Letenneur L, Joly P, Ahamadou A, Dartigue JF. Modelling age-specific risk: application to dementia. Stat Med. 1998; 17: 1973–1988.
+OpenUrlCrossRefPubMed
+↵
+Therneau TM, Grambsch PM. Modelling survival data: extending the Cox Model. New York: Springer, 2000.
+↵
+SAS [program]. 8.2 version. Cary, NC: SAS Institute Inc., 2001.
+↵
+Rodriguez EG, Dodge HH, Birzescu MA, Stoehr GP, Ganguli M. Use of lipid-lowering drugs in older adults with and without dementia: a community-based epidemiological study. J Am Geriatr Soc. 2002; 50: 1852–1856.
+OpenUrlCrossRefPubMed
+↵
+Psaty BM, Koepsell TD, Lin D, et al. Assessment and control for confounding by indication in observational studies. J Am Geriatr Soc. 1999; 47: 749–754.
+OpenUrlPubMed
+↵
+Garcia Rodriguez LA, Perez Gutthann S. Use of the UK General Practice Research Database for pharmacoepidemiology. Br J Clin Pharmacol. 1998; 45: 419–425.
+OpenUrlCrossRefPubMed
+View Abstract
+Disputes & Debates: Rapid online correspondence
+Statin therapy and risk of dementia in the elderly: A community-based prospective cohort study
+Mahyar Etminan
+Published December 02, 2004
+Reply to Etminan et al
+Gail Li
+Published December 02, 2004
+Comment
+NOTE: All authors' disclosures must be entered and current in our database before comments can be posted. Enter and update disclosures at http://submit.neurology.org. Exception: replies to comments concerning an article you originally authored do not require updated disclosures.
+Stay timely. Submit only on articles published within the last 8 weeks.
+Do not be redundant. Read any comments already posted on the article prior to submission.
+200 words maximum.
+5 references maximum. Reference 1 must be the article on which you are commenting.
+5 authors maximum. Exception: replies can include all original authors of the article.
+Submitted comments are subject to editing and editor review prior to posting.
+More guidelines and information on Disputes & Debates
+Compose Comment
+Title *
+Contents
+More information about text formats
+Plain text
+No HTML tags allowed.
+Web page addresses and e-mail addresses turn into links automatically.
+Lines and paragraphs break automatically.
+Author Information
+NOTE: The first author must also be the corresponding author of the comment.
+Authors
+First Name and Middle Initial *
+First or given name, e.g. 'Peter'.
+Last Name *
+Your last, or family, name, e.g. 'MacMoody'.
+Email Address *
+Your email address, e.g. higgs-boson@gmail.com
+Occupation *
+Your role and/or occupation, e.g. 'Orthopedic Surgeon'.
+Affiliation *
+Your organization or institution (if applicable), e.g. 'Royal Free Hospital'.
+Publishing Agreement
+I, the first and corresponding author, verify that I have read the contents of the PUBLISHING AGREEMENT form. *
+I, the first and corresponding author, verify my disclosures and those of my co-authors are up to date at http://submit.neurology.org. *
+Select only one of the three options below: *
+I am an Author of this Work, and the Work was prepared on my own time - not as part of my duties as an employee.
+I prepared (or cooperated in the preparation of) the Work as part of my duties as an employee, and the Work is, therefore, a "work made for hire", as defined by the United States Copyright Act of 1976, as amended.
+I prepared (or participated in the preparation of) the Work as part of my official duties as an officer or employee of the United States Government.
+NOTE: All authors, besides the first/corresponding author, must complete a separate Disputes & Debates Submission Form and provide via email to the editorial office before comments can be posted.
+CAPTCHA
+This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
+Vertical Tabs
+You May Also be Interested in
+Back to top
+Article
+Abstract
+Methods.
+Results.
+Discussion.
+Acknowledgments
+References
+Figures & Data
+Info & Disclosures
+Related Articles
+No related articles found.
+Topics Discussed
+All Cognitive Disorders/Dementia
+Alzheimer's disease
+Cohort studies
+Risk factors in epidemiology
+Alert Me
+Alert me when this article is cited
+Alert me if a correction is posted
+Alert me when eletters are published
+Advertisement
+Articles
+Ahead of Print
+Current Issue
+Past Issues
+Popular Articles
+Translations
+About
+About the Journals
+Ethics Policies
+Editors & Editorial Board
+Contact Us
+Advertise
+Submit
+Author Center
+Submit a Manuscript
+Information for Reviewers
+AAN Guidelines
+Permissions
+Subscribers
+Subscribe
+Activate a Subscription
+Sign up for eAlerts
+RSS Feed
+Visit neurology Template on Facebook
+Follow neurology Template on Twitter
+Visit Neurology on YouTube
+Neurology
+Neurology: Clinical Practice
+Neurology: Genetics
+Neurology: Neuroimmunology & Neuroinflammation
+AAN.com
+AANnews
+Continuum
+Brain & Life
+Neurology Today
+Neurology | Print ISSN:0028-3878
+Online ISSN:1526-632X
+© 2019 American Academy of Neurology
+Privacy Policy
+Feedback
+Advertise

@@ -1,0 +1,476 @@
+Serum selenium levels and the risk of progression of laryngeal cancer
+Advertisement
+plos.org
+create account
+sign in
+PLOS ONE
+Publish
+Submissions
+Getting Started
+Submission Guidelines
+Figures
+Tables
+Supporting Information
+LaTeX
+Preprints
+Revising Your Manuscript
+Submit Now
+Policies
+Best Practices in Research Reporting
+Human Subjects Research
+Animal Research
+Competing Interests
+Disclosure of Funding Sources
+Licenses and Copyright
+Data Availability
+Materials and Software Sharing
+Ethical Publishing Practice
+Authorship
+Downloads and Translations
+Manuscript Review and Publication
+Criteria for Publication
+Editorial and Peer Review Process
+Guidelines for Reviewers
+Accepted Manuscripts
+Corrections and Retractions
+Comments
+Article-Level Metrics
+Submit Your Manuscript
+Discover a faster, simpler path to publishing in a high-quality journal. PLOS ONE promises fair, rigorous peer review, broad scope, and wide readership – a perfect fit for your research every time.
+Learn More Submit Now
+About
+Why Publish with PLOS ONE
+Journal Information
+Staff Editors
+Editorial Board
+Section Editors
+Advisory Groups
+Find and Read Articles
+Publishing Information
+Publication Fees
+Press and Media
+Contact
+Browse
+Search Search
+advanced search
+Browse Subject Areas
+?
+Click through the PLOS taxonomy to find articles in your field.
+For more information about PLOS Subject Areas, click here.
+Loading metrics
+Article metrics are unavailable for recently published articles.
+Total Mendeley and CiteULike bookmarks.
+Citation
+Paper's citation count computed by Scopus.
+View
+Sum of PLOS and PubMed Central page views and downloads.
+Share
+Sum of Facebook and Twitter activity.
+Open Access
+Peer-reviewed
+Research Article
+Serum selenium levels and the risk of progression of laryngeal cancer
+Jan Lubiński,
+Roles Conceptualization, Funding acquisition, Investigation, Methodology, Project administration, Resources, Supervision, Validation, Writing – original draft, Writing – review & editing
+Affiliations Clinic of Otolaryngology, Pomeranian Medical University, Szczecin, Poland, ReadGene, Grzepnica, Poland
+⨯
+Wojciech Marciniak,
+Roles Investigation, Resources, Validation
+Affiliations ReadGene, Grzepnica, Poland, Department of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Szczecin, Poland
+⨯
+Magdalena Muszynska,
+Roles Investigation, Resources, Validation
+Affiliations ReadGene, Grzepnica, Poland, Department of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Szczecin, Poland
+⨯
+Ewa Jaworowska,
+Roles Investigation, Resources, Validation
+Affiliation Clinic of Otolaryngology, Pomeranian Medical University, Szczecin, Poland
+⨯
+Mieczyslaw Sulikowski,
+Roles Investigation, Resources, Validation
+Affiliation Clinic of Otolaryngology, Pomeranian Medical University, Szczecin, Poland
+⨯
+Anna Jakubowska,
+Roles Investigation, Resources, Validation
+Affiliations ReadGene, Grzepnica, Poland, Department of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Szczecin, Poland
+⨯
+Katarzyna Kaczmarek,
+Roles Investigation, Resources, Validation
+Affiliations ReadGene, Grzepnica, Poland, Department of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Szczecin, Poland
+⨯
+Grzegorz Sukiennicki,
+Roles Investigation, Resources, Validation
+Affiliation Department of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Szczecin, Poland
+⨯
+Michal Falco,
+Roles Investigation, Resources, Validation
+Affiliation Regional Oncology Centre Szczecin, Szczecin, Poland
+⨯
+Piotr Baszuk,
+Roles Investigation, Resources, Validation
+Affiliations ReadGene, Grzepnica, Poland, Department of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Szczecin, Poland
+⨯
+Magdalena Mojsiewicz,
+Roles Investigation, Resources, Validation
+Affiliation Institute of Econometric and Statistics, University of Szczecin, Szczecin, Poland
+⨯
+Joanne Kotsopoulos,
+Roles Investigation, Resources, Validation, Visualization, Writing – original draft, Writing – review & editing
+Affiliations Women’s College Research Institute, Toronto, Canada, Dalla Lana School of Public Health, University of Toronto, Toronto, Canada
+⨯
+Ping Sun,
+Roles Data curation, Formal analysis, Investigation, Resources, Software, Validation
+Affiliation Women’s College Research Institute, Toronto, Canada
+⨯
+Steven A. Narod ,
+Roles Conceptualization, Investigation, Methodology, Resources, Supervision, Validation, Visualization, Writing – original draft, Writing – review & editing
+* E-mail: steven.narod@wchospital.ca (SN); lubinski@pum.edu.pl (JAL)
+Affiliations Women’s College Research Institute, Toronto, Canada, Dalla Lana School of Public Health, University of Toronto, Toronto, Canada
+http://orcid.org/0000-0001-5798-0626
+⨯
+Jan A. Lubiński
+Roles Conceptualization, Data curation, Funding acquisition, Investigation, Methodology, Project administration, Resources, Supervision, Validation, Writing – original draft, Writing – review & editing
+* E-mail: steven.narod@wchospital.ca (SN); lubinski@pum.edu.pl (JAL)
+Affiliations ReadGene, Grzepnica, Poland, Department of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Szczecin, Poland
+⨯
+Serum selenium levels and the risk of progression of laryngeal cancer
+Jan Lubiński,
+Wojciech Marciniak,
+Magdalena Muszynska,
+Ewa Jaworowska,
+Mieczyslaw Sulikowski,
+Anna Jakubowska,
+Katarzyna Kaczmarek,
+Grzegorz Sukiennicki,
+Michal Falco,
+Piotr Baszuk
+x
+Published: January 5, 2018
+https://doi.org/10.1371/journal.pone.0184873
+Article
+Authors
+Metrics
+Comments
+Media Coverage
+Reader Comments (0)
+Media Coverage
+Figures
+Jan Lubiński Wojciech Marciniak ... Jan A. Lubiński
+Reset zoom
+<% if(figureList.length > 1) { %>
+All Figures Next Previous
+show more
+show less
+Show in Context
+Download:
+TIFF
+PNG
+PPT
+Correction
+12 Mar 2018: Lubiński J, Marciniak W, Muszynska M, Jaworowska E, Sulikowski M, et al. (2018) Correction: Serum selenium levels and the risk of progression of laryngeal cancer. PLOS ONE 13(3): e0194469. https://doi.org/10.1371/journal.pone.0194469 View correction
+Figures
+Abstract
+Background
+Observational studies have reported an inverse relationship between selenium status (blood or toenail) and the risk of laryngeal cancer; however, the impact of low serum selenium level on survival has not been evaluated.
+Methods
+We conducted a prospective study of 296 patients diagnosed with laryngeal cancer in Szczecin, Poland. Serum selenium was measured at diagnosis and prior to treatment. Patients were followed from the date of diagnosis to death at five years. Vital status was obtained by linkage to the Polish National Death Registry.
+Results
+The five-year survival after diagnosis was 82.0% (95% CI: 68% to 91%) for individuals in the highest quartile of serum selenium (> 66.8 μg/L) and was 28.6% (95% CI 19% to 42%) for individuals in the lowest quartile (<50.0 μg/L). In an age- and sex-adjusted analysis, the hazard ratio (HR) for death from all causes was 7.01 (95% CI 3.81 to 12.9) for patients in the lowest quartile of serum selenium, compared to those in the highest quartile. The corresponding multivariate HR was 3.07 (95% CI 1.59 to 5.94).
+Conclusions
+This study suggests that a selenium level in excess of 70 μg/L is associated with improved outcome among patients undergoing treatment for laryngeal cancer. Further studies are needed to evaluate if selenium supplementation to achieve this level might improve overall prognosis.
+Citation: Lubiński J, Marciniak W, Muszynska M, Jaworowska E, Sulikowski M, Jakubowska A, et al. (2018) Serum selenium levels and the risk of progression of laryngeal cancer. PLoS ONE 13(1): e0184873. https://doi.org/10.1371/journal.pone.0184873
+Editor: Dajun Deng, Beijing Cancer Hospital, CHINA
+Received: April 27, 2017; Accepted: September 3, 2017; Published: January 5, 2018
+Copyright: © 2018 Lubiński et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Data Availability: Our data contain potentially sensitive information therefore we have not included it with our manuscript. Those who would like to request access to data may contact Melissa Sidhu at the Research Ethics Board of Women’s College Hospital by calling (416) 351-3732 x2723 or email melissa.sidhu@wchospital.ca. The Pomeranian University of Medicine Ethics Committee will grant access to all researchers who meet the criteria for access to confidential data.
+Funding: This study was funded by ReadGene to JAL. These authors are employees of ReadGene: JAL, WM, M. Muszynska, AJ, PB, KK, GS. The specific roles of these authors are articulated in the ‘author contributions’ section. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing interests: JAL is CEO of ReadGene which is a distributor of selenium supplements and offers measurement of selenium level. These authors are employees of ReadGene: WM, M. Muszynska, AJ, PB, KK, GS, JL (first author). EJ, MS, MF, M. Mojsiewicz, SAN, JK, and PS declare no conflict of interest. This study has been conducted at Pomeranian Medical University. Selenium measurements have been funded by ReadGene. Discovery described in this paper has been covered by Polish patent application owned by Pomeranian Medical University. This does not alter our adherence to PLOS ONE policies on sharing data and materials.
+Introduction
+Selenium is an essential trace element which is a cofactor for several antioxidant enzymes, and as a result, there has been much interest in the potential health benefits of adequate selenium status [1]. Epidemiologic evidence is still emerging with respect to the full spectrum of the health benefits associated with (high or adequate) selenium status [2, 3]. Collectively, observational studies have generally reported an inverse relationship between selenium status (circulating or toenail levels) and cancer risk[3,4]. In contrast, findings from randomized controlled trials have failed to demonstrate that selenium supplementation reduces overall cancer risk or cancer-related mortality [5,6]; some studies have even indicated an excess risk of prostate, melanoma and non-melanoma skin cancer, lymphoid cancers as well as of type 2 diabetes, thyroid disorders and nervous system disturbances [2,3,6,7].
+With respect to smoking-related cancers, several studies have demonstrated the chemopreventive properties of selenium on the risk of the lung and bladder cancer [1, 4–8,9]. Our group has previously shown that low selenium is associated with an increased risk of laryngeal cancer in Poland, a geographic area with endemically low levels of soil selenium[10]. The role of selenium status on cancer risk for head and neck cancers remains uncertain [11–14]. To our knowledge, there have been no studies specifically evaluating the role of low circulating selenium levels and prognosis specifically following a diagnosis of laryngeal cancer. Thus, the effect on progression from laryngeal cancer remains unknown.
+Laryngeal cancer patients have poor survival rates and primary treatment involves surgical resection of the tumour [15]. Adjuvant treatment includes radiotherapy and chemotherapy, but is primarily employed to achieve local control and have little impact on survival. It is of interest to identify modifiable factors, including diet and lifestyle, that impact prognosis of this fatal disease. Thus, the goal of the current study was to evaluate whether circulating selenium levels at time of diagnosis was associated with outcome among a cohort of laryngeal cancer patients residing in Szczecin, Poland.
+Materials and methods
+Study population
+The current study included 296 patients diagnosed with laryngeal cancer who were treated at one university hospital in Szczecin, Poland within the Pomeranian Medical University between 2009 and 2013. This centre treats more than 90% of patients diagnosed with laryngeal cancer in the West Pomerania region of Poland. Pathologic diagnosis of squamous cell laryngeal cancer was confirmed by review of biopsies at a single central pathology laboratory in Szczecin, Poland. Patients were all treated at the same otolaryngology clinic and were approached to participate in the study at the time of an outpatient visit. The study was approved by the Ethics Committee of the Pomeranian University of Medicine in Szczecin. All eligible patients provided written informed consent for a blood draw specifically for research purposes and for storage of the blood sample in an existing research biobank. Consenting patients were asked to fast for at least four hours prior to blood collection. A blood sample (10 cc) was obtained during the diagnostic workup and was collected into tubes certified for quantification of trace metals (Vacutainer® System, royal blue cap). Blood samples were taken between 8am and 2 pm and were centrifuged within 30 and 120 minutes of collection to separate the serum from the cellular fraction. The serum samples were stored at -80°C until required for the selenium assay.
+Selenium assay
+Serum selenium levels were quantified by inductively coupled mass spectroscopy (ICP-MS NexION 350D, Perkin Elmer) using methane for reduction of polyatomic interferences. Calibration standards were prepared by dilution of 10 mg/l Multi-Element Calibration Standard 3 (PerkinElmer Pure Plus, PerkinElmer Life and Analytical Sciences, USA) with reagent blank consisting of 0.65% solution of nitric acid (Merck, Germany) and 0.002% Tryton X-100 (PerkinElmer, USA). Calibration curves were created using four different concentrations: 0.1 μg/l, 0.5 μg/l, 1 μg/l, 2 μg/l. Germanium (PerkinElmer Pure, PerkinElmer Life and Analytical Sciences, USA) was used as an internal standard and ClinChek® Plasma Control Level I (Recipe, Germany) was used as a reference material. Reference material was measured after each of the six samples. If the difference of the reference material measurements was greater than 5%, the entire series was repeated. Each sample was measured in duplicates in different analytical runs. Prior to analysis, all samples were centrifuged (6000 rpm, 15 min) and the supernatant was diluted 100 times with the reagent blank. Technical details, plasma operating settings and mass-spectrometer acquisition parameters are available on request.
+Statistical analysis
+We assigned patients to one of four categories of serum selenium levels (quartiles—each quartile consisted of 74 patients) based on the distribution of selenium levels in the entire patient sample. The ranges for the quartiles were lower than previously reported for the general non-cancer population of the region (≤70 μg/L, < 70–80 μg/L, ≥80–90 μg/L, >90 μg/L). This is as expected because low selenium is a risk factor for laryngeal cancer in Poland [7]. We selected the highest quartile as the reference level. We followed the study population from date of diagnosis until date of death or June 9th, 2016. Death was established by linkage to the Polish Vital statistics registry. Subjects in the study were linked to the records of the vital statistics Poland using a using a unique eleven digit identification number (PESEL). Death was all-cause mortality because the specific cause of death was not available. The actuarial survival rates were calculated using the Kaplan-Meier method. We modeled the relationship between serum selenium levels on overall survival using a Cox proportional hazards model. The analysis was adjusted for age (continuous), sex, stage (0, I, II, III, IV), radiotherapy (yes/no); chemotherapy (yes/no) and surgery (yes/no). All analyses were conducted using SAS version 9.4 software (SAS Institute, Cary, NC). All P values were 2-sided and were considered statistically significant if P ≤0.05.
+Results
+The characteristics of the 296 laryngeal cancer patients are presented in Table 1. The mean age of diagnosis was 61 years (range 41 to 81 years). The majority of patients were male (86%), 96% had a history of smoking and 41% were diagnosed at stage IV. The majority had surgery (81%), 55% received radiotherapy and 12% received chemotherapy. The overall five-year actuarial survival rate was 56.7% (95% CI 51% to 63%) for the entire cohort.
+Download:
+PPT
+PowerPoint slide
+PNG
+larger image
+TIFF
+original image
+Table 1. Characteristics of the study population (n = 296).
+https://doi.org/10.1371/journal.pone.0184873.t001
+In the entire cohort, the mean serum selenium level was 58.6 μg/L (range 30.3 μg/L to 103.1 μg/L) and the median level was 58.0 μg/L. The mean selenium levels, according to age, sex, stage and various treatments are presented in Table 2. Crude five-year survival rates by serum selenium quartile were 28.6% (quartile 1), 55.0% (quartile 2), 63.4% (quartile 3) and 82.0% (quartile 4). Table 3 summarizes the age- and sex- adjusted hazard ratios (HR) and associated 95% confidence intervals as well as the multivariate HRs, for various factors on overall survival. In the age- and sex-adjusted analysis, stage, radiotherapy, chemotherapy, surgery and selenium were all significant predictors of survival (P ≤ 0.002); however, only the relationship between tumour stage (P<0.0001), surgery (P < 0.0001), and selenium levels (P–trend = <0.0001) remained significant in the multivariate model. Compared to quartile 4 (reference), the HRs adjusted for age- and sex- were 7.01 (95% CI: 3.81–12.9) for quartile 1 vs. 4, 2.95 (95% CI: 1.55–5.62) for quartile 2 vs. 4 and 2.15 (95% CI: 1.10–4.20) for quartile 3 vs. 4. The corresponding multivariate HRs were 3.07 (1.59–5.94) for quartile 1, 2.01 (95%CI 1.04–3.87) for quartile 2 and 1.51 (95%CI 0.76–2.98) for quartile, 3 relative to quartile 4.
+Download:
+PPT
+PowerPoint slide
+PNG
+larger image
+TIFF
+original image
+Table 2. Mean selenium levels by subgroup.
+https://doi.org/10.1371/journal.pone.0184873.t002
+Download:
+PPT
+PowerPoint slide
+PNG
+larger image
+TIFF
+original image
+Table 3. Hazard ratios and 95% confidence intervals for various factors on survival from laryngeal cancer.
+https://doi.org/10.1371/journal.pone.0184873.t003
+The actuarial survival rates, according to quartile of serum selenium, are presented graphically in Fig 1. The effect was present in men (HR = 6.50; 95% CI 3.43 to 12.3) and in women (HR = 13.2; 95% CI 1.61 to 109.2) and in patients with radiotherapy (HR = 6.60; 95% CI 2.61 to 16.7) and in patients without radiotherapy (HR = 2.67; 95% CI 0.87 to 8.25). The hazard ratios for all subgroups are presented in Table 4.
+Download:
+PPT
+PowerPoint slide
+PNG
+larger image
+TIFF
+original image
+Fig 1. Five-year overall survival among laryngeal patients by serum selenium levels.
+https://doi.org/10.1371/journal.pone.0184873.g001
+Download:
+PPT
+PowerPoint slide
+PNG
+larger image
+TIFF
+original image
+Table 4. Age- and sex-adjusted hazard ratios and 95% confidence intervals for low (quartile 1) versus high (quartile 4) serum selenium levels on survival from laryngeal cancer.
+https://doi.org/10.1371/journal.pone.0184873.t004
+Discussion
+The results from this study suggest that low serum selenium levels at the time of diagnosis (prior to treatment) are associated with a significantly increased risk of death among laryngeal cancer patients who reside in Szczecin, Poland. The effect appeared to be continuous; that is, the risk of death declined continuously with increasing circulating levels of selenium and there was no apparent threshold value. Individuals in the lowest quartile of selenium had a three-fold increased risk of death during five years of follow-up. We observed a stronger prognostic role of low selenium status on mortality among those with advanced stage disease (stage III/IV). Together with our earlier observations [10], these findings collectively suggest that low selenium levels are both a risk factor for laryngeal cancer and a prognostic factor in Poland. Selenium supplementation may benefit individuals living in geographical areas with low selenium levels.
+Until now, there has been very limited evidence for a role of selenium status on laryngeal cancer progression or outcome. An earlier hospital-based report of 30 head and neck cancer patients reported that patients with serum selenium levels returning to the normal range after one-year of follow-up were more likely to have evident disease compared to those who had persistently lower serum selenium [16]. To our knowledge, there are no other studies that have specifically evaluated the relationship between selenium levels and prognosis from laryngeal cancer; however, based on our findings, further studies are indicated.
+In contrast, several studies have examined selenium status and cancer incidence and (overall) cancer mortality. In one study using data from the National Health and Nutritional Examination Survey (NHANES), Goyal et al., reported a significant inverse relationship between increasing quintiles of serum selenium levels and all-cause mortality (P–trend = 0.03); however, this relationship did not achieve statistical significance in the [17]. Others have reported on the mortality experience of participants in randomized-controlled trials of antioxidant supplements (including selenium), but none specifically reported on head and neck cancers (reviewed in [18]). In a meta-analysis of 68 randomized trials with 23,606 participants, Bjelakovic et al., found no clear relationship between selenium supplementation alone or in combination with other antioxidants on overall mortality [18]. In a review of 55 prospective studies and eight randomized controlled trials, Vinceti et al., published a significant inverse relationship between high selenium exposure and mortality in the observational studies (summary odds ratio = 0.60; 95%CI 0.39–0.93) but no impact on outcome among randomised trials (summary RR = 0.81; 95%CI 0.49–1.32) [3]. In a meta-analysis of 47 trials of which 8 considered selenium given singly or in combination with others dietary supplements, Schwingshackl et al. reported inverse association for selenium and all-cause mortality (RR: 0,93), with no important effect on cancer mortality [19].
+Many of the recent trials have shown that selenium does not modify risk of overall and site specific cancer [9, 20–25]. In the most recent review Vinceti et al. concludes that hypothesis of an effect of low environmental selenium exposure in increasing cancer risk may now be ruled out [6]. However the fact remains that serum selenium level differs depending on geographic region. Because of variability in soil selenium levels, dietary intake in Europe tends to be lower than in the United States and this is reflected in serum levels at the population level [26,27]. Using data from the National Health and Nutritional Examination Survey (NHANES) conducted in the United States, the mean serum selenium levels for adults 40 years of age or older was 135.9 μg/L for women and 138.6 μg/L for men [28]. Selenium deficiency, characterized as serum levels of < 70 μg/L, is very rare in countries such as the United States and Canada [29]. In the meantime in Poland there are many regions where concentration of selenium in blood plasma reaches levels of 50–55 μg/L[30]. In our study the mean serum selenium level was 58 μg/L, what confirmed our previous findings in the study concerning serum selenium and risk of laryngeal (lung) cancer [10]. Thus, the results from the current analysis are likely not generalizeable to patients residing in countries with ubiquitously high selenium levels.
+Selenium is an essential trace element and 25 selenium containing proteins have been identified in humans [31]. Approximately half of the human selenoproteins encode oxido-reductases and thus are critical for cellular redox homeostasis, while the function of the remaining selenoproteins is unknown [31]. The cancer preventive effects, as well as other health benefits, of this micronutrient have primarily been linked to the oxidoreductase function of these selenoproteins, particularly thioredoxin reductase 1 (TR1), 15 kDa selenoprotein (Sep15) and glutathione peroxidase 2 (GPx2) [32]. The daily recommended intake of selenium is based on the amount needed to maximize synthesis of the selenoprotein glutathione peroxidase [29]. It is not clear which physiological function of selenium is related to laryngeal cancer however it is highly possible that selenium can modify cancer progression. Jönsson-Videsäter et al. reported the effect of sodium selenite on the induction of apoptosis in lung cancer cell lines [33]. Studies presented by Heras et al. have shown that selenium plays a significant role in preventing high grade tumours [34]. Zhang et al. reported inverse correlation between serum selenium levels and advanced clinical stages of cervical cancer before treatment [35]. In contrast the studies presented by Kenfield et al. have showed that selenium supplementation at dose of 140 μg/day or more may worsen the prognosis in cases of metastatic prostate cancer [36].
+There currently are no specific therapeutic agents that are able to modify the survival experience of laryngeal cancer patient to the extent that we observe in Fig 1. In our study, we observed hazard ratios below unity for use of chemotherapy and surgery, but this was not a randomized study and the observed effects may be attributed to patient selection for treatment. The association with selenium level and survival was strong and statistically significant for with stage IV disease. This suggests that there may be a possibility of delaying time to death using selenium in individuals with advanced laryngeal cancers. However, it is too early to tell from these observations that the association between serum selenium and survival is causal or if the effect of low selenium can be mitigated by selenium supplementation and future studies are required to determine if selenium has therapeutic benefit in this setting.
+The strengths of our study include the large number of patients identified from one institution and the use of fasting blood samples for selenium measurement. We controlled for predictors of selenium levels as well as risk of laryngeal cancer such as age and smoking status. Despite this, our study was not without limitations. Selenium level was taken after diagnosis (but before treatment) and it is possible that the cancer might have influenced the level. Selenium was measured only once and serum levels tends to fluctuate. Because of limitations in the data in the Polish vital statistics data base we used all-cause mortality as an endpoint. We expect the majority of the deaths (but not all) in this study are due to laryngeal cancer. By using all-cause mortality, we may have underestimated the effect on laryngeal cancer specific mortality. The individual subgroups were small and it is difficult to compare the effects of selenium in various subgroups.
+In summary, the results of the current study suggest that the optimum level of selenium that corresponds with improved outcome from laryngeal cancer is above 70 μg/L. Through selenium supplementation, we can expect to achieve a selenium level within in this range. Future studies are needed to evaluate the potential impact of supplementation to this level on mortality from laryngeal cancer.
+Acknowledgments
+We thank E. Putresza and K. Lachowska for their technical support. JK is the recipient of a Cancer Care Ontario Research Chair in Population Studies and a Canadian Cancer Society Career Development Award in Prevention. SAN is the recipient of a Canada Research Chair tier I.
+References
+1. Rayman MP. Selenium and human health. Lancet 2012;379:1256–68. pmid:22381456
+View Article
+PubMed/NCBI
+Google Scholar
+2. Jablonska E, Vinceti M. Selenium and Human Health: Witnessing a Copernican Revolution? Journal of environmental science and health. Part C, Environmental carcinogenesis & ecotoxicology reviews 2015;33:328–68.
+View Article
+Google Scholar
+3. Vinceti M, Dennert G, Crespi CM, Zwahlen M, Brinkman M, Zeegers MP, et al. Selenium for preventing cancer. Cochrane Database Syst Rev 2014:CD005195. pmid:24683040
+View Article
+PubMed/NCBI
+Google Scholar
+4. He D, Wang Z, Huang C, Fang X, Chen D. Serum Selenium Levels and Cervical Cancer: Systematic Review and Meta-Analysis. Biol Trace Elem Res. 2017 Mar 2.
+View Article
+Google Scholar
+5. Scientific Advisory Committee on Nutrition Position Statement on Selenium and Health. https://www.gov.uk/government/publications/sacn-statement-on-selenium-and-health-2013. Accessed 23 Nov 2015
+6. Vinceti M, Filippini T, Cilloni S, Bargellini A, Vergoni AV, Tsatsakis A, et al. Health risk assessment of environmental selenium: Emerging evidence and challenges (Review). Mol Med Rep. 2017 May;15(5): 3323–3335.
+View Article
+Google Scholar
+7. Kieliszek M, Błażejak S. Current Knowledge on the Importance of Selenium in Food for Living Organisms: A Review. Molecules. 2016 May 10;21(5).
+View Article
+Google Scholar
+8. Clark LC, Combs GF Jr., Turnbull BW, Slate EH, Chalker DK, Chow J, et al. Effects of selenium supplementation for cancer prevention in patients with carcinoma of the skin. A randomized controlled trial. Nutritional Prevention of Cancer Study Group. JAMA 1996;276:1957–63. pmid:8971064
+View Article
+PubMed/NCBI
+Google Scholar
+9. Duffield-Lillico AJ, Reid ME, Turnbull BW, Combs GF Jr., Slate EH, Fischbach LA, et al. Baseline characteristics and the effect of selenium supplementation on cancer incidence in a randomized clinical trial: a summary report of the Nutritional Prevention of Cancer Trial. Cancer epidemiology, biomarkers & prevention: a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology 2002;11:630–9.
+View Article
+Google Scholar
+10. Jaworska K, Gupta S, Durda K, Muszynska M, Sukiennicki G, Jaworowska E, et al. A low selenium level is associated with lung and laryngeal cancers. PloS one 2013;8:e59051. pmid:23516596
+View Article
+PubMed/NCBI
+Google Scholar
+11. Maasland DH, Schouten LJ, Kremer B, van den Brandt PA. Toenail selenium status and risk of subtypes of head-neck cancer: The Netherlands Cohort Study. European journal of cancer 2016;60:83–92. pmid:27082137
+View Article
+PubMed/NCBI
+Google Scholar
+12. Rogers MA, Thomas DB, Davis S, Weiss NS, Vaughan TL, Nevissi AE. A case-control study of oral cancer and pre-diagnostic concentrations of selenium and zinc in nail tissue. International journal of cancer. Journal international du cancer 1991;48:182–8. pmid:2019465
+View Article
+PubMed/NCBI
+Google Scholar
+13. Knekt P, Aromaa A, Maatela J, Alfthan G, Aaran RK, Nikkari T, et al. Serum micronutrients and risk of cancers of low incidence in Finland. American journal of epidemiology 1991;134:356–61. pmid:1877596
+View Article
+PubMed/NCBI
+Google Scholar
+14. Zheng W, Blot WJ, Diamond EL, Norkus EP, Spate V, Morris JS, et al. Serum micronutrients and the subsequent risk of oral and pharyngeal cancer. Cancer Res 1993;53:795–8. pmid:8428360
+View Article
+PubMed/NCBI
+Google Scholar
+15. Winn DM, Lee YC, Hashibe M, Boffetta P, consortium I. The INHANCE consortium: toward a better understanding of the causes and mechanisms of head and neck cancer. Oral diseases 2015;21:685–93. pmid:25809224
+View Article
+PubMed/NCBI
+Google Scholar
+16. Yadav SP, Gera A, Singh I, Chanda R. Serum selenium levels in patients with head and neck cancer. The Journal of otolaryngology 2002;31:216–9. pmid:12240756
+View Article
+PubMed/NCBI
+Google Scholar
+17. Goyal A, Terry MB, Siegel AB. Serum antioxidant nutrients, vitamin A, and mortality in U.S. Adults. Cancer epidemiology, biomarkers & prevention: a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology 2013;22:2202–11.
+View Article
+Google Scholar
+18. Bjelakovic G, Nikolova D, Gluud LL, Simonetti RG, Gluud C. Mortality in randomized trials of antioxidant supplements for primary and secondary prevention: systematic review and meta-analysis. JAMA 2007;297:842–57. pmid:17327526
+View Article
+PubMed/NCBI
+Google Scholar
+19. Schwingshackl L, Boeing H, Stelmach-Mardas M, Gottschald M, Dietrich S, Hoffmann G, et al. Dietary Supplements and Risk of Cause-Specific Death, Cardiovascular Disease, and Cancer: A Systematic Review and Meta-Analysis of Primary Prevention Trials. Adv Nutr. 2017 Jan 17;8(1):27–39 pmid:28096125
+View Article
+PubMed/NCBI
+Google Scholar
+20. Lippman SM, Klein EA, Goodman PJ, Lucia MS, Thompson IM, Ford LG, et al. Effect of selenium and vitamin E on risk of prostate cancer and other cancers: the Selenium and Vitamin E Cancer Prevention Trial (SELECT). JAMA 2009;301:39–51. pmid:19066370
+View Article
+PubMed/NCBI
+Google Scholar
+21. Lance P, Alberts DS, Thompson PA, Fales L, Wang F, San Jose J, Jacobs ET, et al. Colorectal adenomas in participants of the SELECT randomized trial of selenium and vitamin E for prostate cancer prevention. Cancer Prev Res (Phila) 10: 45–54, 2017.
+View Article
+Google Scholar
+22. Thompson PA, Ashbeck EL, Roe DJ, Fales L, Buckmeier J, Wang F, et al. Selenium supplementation for prevention of colorectal adenomas and risk of associated type 2 diabetes. J Natl Cancer Inst 108.
+View Article
+Google Scholar
+23. Stratton MS, Reid ME, Schwartzberg G, Minter FE, Monroe BK, Alberts DS, et al. Selenium and prevention of prostate cancer in high-risk men: The Negative Biopsy Study. Anticancer Drugs 14: 589–594, 2003.
+View Article
+Google Scholar
+24. Algotar AM, Stratton MS, Ahmann FR, Ranger-Moore J, Nagle RB, Thompson PA, et al. Phase 3 clinical trial investigating the effect of selenium supplementation in men at high-risk for prostate cancer. Prostate 73: 328–335, 2013. pmid:22887343
+View Article
+PubMed/NCBI
+Google Scholar
+25. Karp DD, Lee SJ, Keller SM, Wright GS, Aisner S, Belinsky SA, J et al. Randomized, double-blind, placebo-controlled, phase III chemoprevention trial of selenium supplementation in patients with resected stage I non-small-cell lung cancer: ECOG 5597. J Clin Oncol 31: 4179–4187, 2013. pmid:24002495
+View Article
+PubMed/NCBI
+Google Scholar
+26. Rayman MP. Food-chain selenium and human health: emphasis on intake. The British journal of nutrition 2008;100:254–68. pmid:18346308
+View Article
+PubMed/NCBI
+Google Scholar
+27. Johnson CC, Fordyce FM, Rayman MP. Symposium on 'Geographical and geological influences on nutrition': Factors controlling the distribution of selenium in the environment and their impact on health and nutrition. Proc Nutr Soc 2010;69:119–32. pmid:19968907
+View Article
+PubMed/NCBI
+Google Scholar
+28. Laclaustra M, Stranges S, Navas-Acien A, Ordovas JM, Guallar E. Serum selenium and serum lipids in US adults: National Health and Nutrition Examination Survey (NHANES) 2003–2004. Atherosclerosis 2010;210:643–8. pmid:20102763
+View Article
+PubMed/NCBI
+Google Scholar
+29. Medicine Io. Selenium Dietary Reference Intakes for Vitamin C, Vitamin E, Selenium, and Carotenoidsed. Washington, DC: The National Academies Press, 2000.
+30. Wasowicz W, Gromadzinska J, Rydzynski K, Tomczak J. Selenium status of low-selenium area residents: Polish experience. Toxicol Lett. 2003 Jan 31;137(1–2):95–101. pmid:12505435
+View Article
+PubMed/NCBI
+Google Scholar
+31. Hatfield DL, Tsuji PA, Carlson BA, Gladyshev VN. Selenium and selenocysteine: roles in cancer, health, and development. Trends Biochem Sci 2014;39:112–20. pmid:24485058
+View Article
+PubMed/NCBI
+Google Scholar
+32. Lobanov AV, Hatfield DL, Gladyshev VN. Eukaryotic selenoproteins and selenoproteomes. Biochim Biophys Acta 2009;1790:1424–8. pmid:19477234
+View Article
+PubMed/NCBI
+Google Scholar
+33. Jönsson-Videsäter K, Björkhem-Bergman L, Hossain A, Söderberg A, Eriksson LC, Paul C, et al. Selenite-induced apoptosis in doxorubicin-resistant cells and effects on the thioredoxin system. Biochem. Pharmacol. 2004, 67, 513–522. pmid:15037203
+View Article
+PubMed/NCBI
+Google Scholar
+34. Heras IL, Palomo M, Madrid Y. Selenoproteins: The key factor in selenium essentiality. State of the art analytical techniques for selenoprotein studies. Anal. Bioanal. Chem. 2011, 400, 1717–1727. pmid:21455649
+View Article
+PubMed/NCBI
+Google Scholar
+35. Zhang H, Wang EZ, Gao YM, Shi F. The concentrations of serum zinc, copper, manganese and selenium in the patients of cervical cancer in Gansu Province. Journal of Lanzhou University Natural Sciences. 1996; 32(2):95–98
+View Article
+Google Scholar
+36. Kenfield SA, Van Blarigan EL, DuPre N, Stampfer MJ, Giovannucci EL, Chan JM. Selenium supplementation and prostate cancer mortality. J Natl Cancer Inst. 2014 Dec 12;107(1):360. pmid:25505227
+View Article
+PubMed/NCBI
+Google Scholar
+Download PDF
+Citation
+XML
+Print
+Print article
+EzReprint
+Share
+Reddit
+Google+
+Facebook
+LinkedIn
+CiteULike
+Mendeley
+PubChase
+Twitter
+Email
+Related PLOS Articles
+Correction: Serum selenium levels and the risk of progression of laryngeal cancer
+Advertisement
+Subject Areas
+?
+For more information about PLOS Subject Areas, click here.
+We want your feedback. Do these Subject Areas make sense for this article? Click the target next to the incorrect Subject Area and let us know. Thanks for your help!
+Selenium
+Is the Subject Area "Selenium" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Cancer detection and diagnosis
+Is the Subject Area "Cancer detection and diagnosis" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Cancer treatment
+Is the Subject Area "Cancer treatment" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Poland
+Is the Subject Area "Poland" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Radiation therapy
+Is the Subject Area "Radiation therapy" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Cancer chemotherapy
+Is the Subject Area "Cancer chemotherapy" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Cancer risk factors
+Is the Subject Area "Cancer risk factors" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Prognosis
+Is the Subject Area "Prognosis" applicable to this article?
+Yes
+No
+Thanks for your feedback.
+Archived Tweets
+Load more
+View all tweets
+@
+Reply
+Retweet
+Favorite
+Publications
+PLOS Biology
+PLOS Medicine
+PLOS Computational Biology
+PLOS Genetics
+PLOS Pathogens
+PLOS ONE
+PLOS Neglected Tropical Diseases
+Home
+Blogs
+Collections
+Give feedback
+LOCKSS
+Privacy Policy
+Terms of Use
+Advertise
+Media Inquiries
+Contact
+PLOS is a nonprofit 501(c)(3) corporation, #C2354500, based in San Francisco, California, US

@@ -1,0 +1,93 @@
+Seeking of First Approval for Bio Med Treating CRSwNP
+Home
+News
+Articles
+Media
+Events
+Surveys
+Magazine
+Partners
+Contacts
+Russian
+Search
+Contract manufacturing
+API
+Pharmaceutical Technologies
+Pharmaceutical Engineering
+Sign in
+Welcome! Log into your account
+your username
+your password
+Forgot your password? Get help
+Password recovery
+Recover your password
+your email
+A password will be e-mailed to you.
+Home
+News
+Articles
+Media
+Events
+Surveys
+Magazine
+Partners
+Contacts
+Russian
+Seeking of First Approval for Bio Med Treating CRSwNP
+13.03.2019 | By GMP news | BLA, FDA, Sanofi
+0
+77
+The U.S. Food and Drug Administration (FDA) has accepted for Priority Review the supplemental Biologics License Application (sBLA) for Dupixent® (dupilumab) as an add-on maintenance treatment for adults with inadequately controlled severe chronic rhinosinusitis with nasal polyps (CRSwNP). Patients with severe CRSwNP often experience recurrence despite previous treatment with surgery and/or systemic corticosteroids. The target action date for the FDA decision is June 26, 2019.
+Currently, there are no FDA-approved biologic medicines to treat CRSwNP, a chronic disease of the upper airway predominantly driven by type 2 inflammation and characterized by polyps that obstruct the sinuses and nasal passages. Patients may experience severe nasal obstruction with breathing difficulties, nasal discharge, reduction or loss of sense of smell and taste, and facial pain or pressure. Persistent symptoms of CRSwNP have a substantial adverse impact on patients’ health-related quality of life, which can be measured by a composite endpoint that includes reduced productivity and activities of daily living, inablility to enjoy food, lack of sleep and fatigue. People with co-morbid asthma and CRSwNP tend to have more severe disease and are often more difficult to treat.
+The sBLA is supported by data from two pivotal Phase 3 trials evaluating the efficacy and safety of Dupixent when combined with standard-of-care corticosteroid nasal spray in patients with recurring severe CRSwNP despite previous treatment with surgery and/or systemic corticosteroids. About 60% of patients in the trials had co-morbid asthma. Data from these trials were presented at the Annual Meeting of the American Academy of Allergy, Asthma & Immunology (AAAAI) in February 2019. In addition to moderate-tosevere atopic dermatitis and moderate-to-severe asthma, this is the third type 2 allergic inflammatory disease in which Dupixent has demonstrated positive Phase 3 results.
+Dupixent is a targeted biologic therapy that inhibits signaling of interleukin-4 (IL-4) and interleukin-13 (IL-13), two key proteins that may play a central role in type 2 inflammation, which seem to underlie CRSwNP as well as several other allergic diseases.
+In the U.S., Dupixent is approved for the treatment of adults with moderate-to-severe atopic dermatitis (eczema) that is not well controlled with prescription therapies used on the skin (topical), or who cannot use topical therapies; Dupixent is also approved for use with other asthma medicines for the maintenance treatment of moderate-to-severe asthma in people aged 12 years and older whose asthma is not controlled on their current asthma medicines. Dupixent is also approved for use in certain adult patients with moderate-tosevere atopic dermatitis in countries of the European Union (EU), and other countries including Canada and Japan.
+On March 1, 2019, the European Medicines Agency’s (EMA) Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion for the application for Dupixent, recommending its approval in the EU as add-on maintenance treatment for adult and adolescent (12 years and older) severe asthma patients with type 2 inflammation characterized by increased blood eosinophils and/or raised exhaled nitric oxide measured by FeNO test and inadequately controlled by inhaled high dose corticosteroids plus another asthma medicinal product. This indication remains investigational in the EU, pending the adoption of the CHMP opinion by the European Commission. Other potential uses for Dupixent, including in CRSwNP, are investigational and the safety and efficacy have not been evaluated by the U.S. Food and Drug Administration, the EMA or any other regulatory authority. Dupilumab is being developed jointly by Sanofi and Regeneron as part of a global collaboration agreement.
+SOURCE: sanofi
+SHARE
+Facebook
+Twitter
+GMP news
+Pharmaceutical industry News and events. Technology transfer and contract manufacturing of medicines.
+RELATED ARTICLES
+Studies Confirm Positive Long-Term Safety Profile of CIMZIA
+Forge and Basilea Announced a Research Collaboration To Discover And Develop Novel Antibiotics
+Kite to Expand Cell Therapy Production Capabilities
+The Russian and the Chinese GMP Inspectorates discussed the prospects for cooperation
+First Results of EAEU Member Countries’ Pharmaceutical Inspectorates Cooperation
+Gene Editing Platform Developer Emendo Inks Licensing Option Agreement with Takeda
+Contract manufacturing
+Rafarma – a full cycle pharmaceutical enterprise
+Binnopharm – full-cycle biopharmaceutical faciliti...
+Pharmacor Production Ltd.
+R-Pharm – Russian High-Tech Pharmaceutical Enterprise
+Canonpharma Production
+PIQ-PHARMA Group of Companies
+OUR PARTNERS:
+Join our newsletter!
+Join over 8,000 pharmaceutical professionals who get free, fresh news from the field delivered to their mailbox every day!
+* Fields are required
+TOP NEWS
+Top 30 pharmaceutical contract manufacturing organisations
+GMP Inspection practice: a case for global benchmarking, con...
+Merck KGaA will lead Global Oncology Big Data Alliance
+POPULAR ARTICLES
+Key Factors in Choice and Development of Cleaning Strategy, ...
+New Track-and-Trace System in Russia
+Benefits of Risk-Share Arrangements
+PHARMA COMPANIES
+V.P. Filatov Pharmaceutical Plant Nanolek Pharmacor R-PharmBiocad Geropharm GE Healthcare PIQ Farma Canonpharma Aktivny Komponent AkrikhinPetrovax Egis Evalar Pharmsyntez Polysan Abolmed Astrazeneca Binnopharm Canonpharma Dobrolek Fort Grindeks Chemrar Nativa Microgen Niarmedic Plus NovaMedica
+ABOUT US
+GMP news is a portal about international GMP Standard for pharmaceutical professionals and specialists, managers, and students. We provide coverage of the most important news in the pharmaceutical trade accompanied by topical articles and press releases from the forerunners of the pharmaceutical industry.
+More about GMP news
+FOLLOW US
+Subscribe to Newsletter!
+Glossary
+Privacy Policy
+Contacts
+© GMP news
+MORE STORIES
+Studies Confirm Positive Long-Term Safety Profile of CIMZIA
+Forge and Basilea Announced a Research Collaboration To Disc...
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.OK

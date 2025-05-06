@@ -1,0 +1,111 @@
+Just the Facts: Radiation, Cell Phones, Wi-Fi, and Cancer. - Relatively Interesting
+Space
+Environment
+Health
+History
+Science
+Submit
+Contribution
+Editorial Policy
+Advertise With Us
+Search for:
+Just the Facts: Radiation, Cell Phones, Wi-Fi, and Cancer.
+September 21, 2018	By alberto
+Electromagnetic fields (EMF) are just about everywhere as our society becomes more and more technological. Sources of EMF include WiFi, lighting, microwaves, radio, television, cell phones, among many. Increasingly, there are a number of individuals and activist groups who believe that these electromagnetic fields pose a health risk. Perhaps the two most controversial sources are WiFi and cell phones. Some schools have gone so far as to ban WiFi. Websites like Natural News highlight the supposed link between cell phone usage and brain cancer.
+Why is ionizing radiation dangerous?
+Ionizing radiation is any type of particle or electromagnetic wave that carries enough energy to “ionize” or remove electrons from an atom. When atoms in living cells become ionized, one of three things usually happen – the cell dies, the cell repairs itself, or the cell mutates incorrectly and can become cancerous. Not all cells are affected by ionizing radiation in the same way. The cells that reproduce the most and are the least specialized are the most likely to be affected by ionizing radiation, for example those in a forming fetus.
+This is a chart of the ionizing radiation dose a person can absorb from various sources both naturally and artificially. The unit for absorbed does is the “sievert” (Sv), and measures the effect a dose of radiation will have on the cells of the body. One sievert (all at once) will make you sick, and too many more will kill you, but we safely absorb small amounts of natural radiation daily. Note that that same number of sieverts absorbed in a shorter time will generally cause more damage, but your cumulative long-term dose plays a role in things like cancer risk.
+Click the Radiation Dose Chart to see a legible version.
+The chart was created by Randall Munroe, with help from Ellen, Senior Reactor Operator at the Reed Research Reactor, who suggested the idea and provided many of the sources. This is in the public domain, so share, share away.
+The Canadian Nuclear Safety Commission provides a similar, yet simpler and more graphical chart to visualize the radiation doses from various sources.
+Notice what’s not on the list.
+Cell phones. Wi-Fi.
+Why not?
+Because they emit non-ionizing radiation.
+Radiation is energy that is transmitted in the form of waves or streams of particles. It is present everywhere in our environment and can be described based on the effect it has on things. Usually, it is divided into two types of radiation: ionizing and non-ionizing.
+Ionizing radiation includes the radiation that comes from both natural and human-made radioactive materials such as cosmic rays, nuclear power plants, and X-ray machines. The stuff you see in the charts above.
+Non-ionizing radiation is a lower energy radiation such as radio waves, ultraviolet rays, microwaves, and sunlight.
+Cell phones work by sending signals to (and receiving them from) nearby cell towers (base stations) using RF waves. This is a form of electromagnetic energy that falls between FM radio waves and microwaves. Like FM radio waves, microwaves, visible light, and heat, RF waves are a form of non–ionizing radiation.
+Do cell phones cause cancer?
+The American Cancer Society has collected the results many studies. Here are the results from a few:
+According to the Food and Drug Administration (FDA), which regulates the safety of radiation-emitting devices such as cell phones in the United States:
+“The majority of studies published have failed to show an association between exposure to radiofrequency from a cell phone and health problems.”
+According to the Federal Communications Commission (FCC):
+“There is no scientific evidence that proves that wireless phone usage can lead to cancer or a variety of other problems, including headaches, dizziness or memory loss. However, organizations in the United States and overseas are sponsoring research and investigating claims of possible health effects related to the use of wireless telephones.”
+According to the Centers for Disease Control and Prevention (CDC):
+“At this time we do not have the science to link health problems to cell phone use. Scientific studies are underway to determine whether cell phone use may cause health effects.”
+According to the National Institute of Environmental Health Sciences (NIEHS), which is conducting studies of the possible health effects of cell phones:
+“Current scientific evidence has not conclusively linked cell phone use with any adverse health problems, but more research is needed.”
+According to the National Cancer Institute (NCI):
+“Studies thus far have not shown a consistent link between cell phone use and cancers of the brain, nerves, or other tissues of the head or neck. More research is needed because cell phone technology and how people use cell phones have been changing rapidly.”
+The short answer is… there’s no real evidence to suggest that cell phones cause cancer… but more studies are required to be even more sure.
+via XKCD: https://xkcd.com/925/
+Does WI-FI cause cancer?
+Wifi signals, which are in the 2.4 to 5.x GHz range are also non-ionizing. The folks over at IFLS summarize as follows:
+Is there any evidence to suggest that the radiation used in Wi-Fi networks – known as radiofrequency radiation – also causes these types of harm? The International Agency for Research on Cancer (IARC) decided that radiofrequency radiation could possibly be harmful, perhaps inducing cancer. It is classified as a Class 2B possible human carcinogen, but this is by no means evidence of actual danger.
+Wi-Fi actually shares this category with coffee, carpentry, Styrofoam cups and pickled vegetables – all “possible” human carcinogens. Inclusion in this category means that the possibility that they cause cancer hasn’t been ruled out, but the link hasn’t been demonstrated.
+As discussed above, cell phones use radiofrequency radiation. This radiation is similarly energetic to that used by Wi-Fi. There have been a plethora of studies investigating links between mobile phone usage and health problems, including brain tumors. Although some have suggested that the most frequent users are more likely to develop tumors, this could be explained by problems with the way the study was carried out.
+In fact, the studies that seem to show a link between brain cancer and radiofrequency radiation exposure are often found to be poor or flawed studies. The evidence is, at the very least, massively inconsistent, and far larger studies that have analyzed the results of multiple smaller ones have concluded there is no such link between cell phone or Wi-Fi exposure and the disease in adults, children and even animals.
+The radiation emitted is simply not energetic enough to be dangerous. A small number of medical researchers may be wary of this “sea of radiation” produced by cell phone and Wi-Fi networks, but even they admit that there is literally no evidence to suggest that they are harmful.
+Some people may claim to be hypersensitive to Wi-Fi, in that being exposed to these networks induces headaches, nausea, and fatigue. The WHO, as does every other major health collective around the world, concludes that this hypersensitivity isn’t a real phenomenon.
+It’s not just the dose, it’s the dollar.
+At this time, the evidence is clear. Bad Science Watch, a consumer protection watchdog and science advocacy organization investigated the issue in depth. Here’s their conclusion, based on their report:
+Bad Science Watch was unable to locate any compelling evidence of legitimate scientific debate about WiFi induced illness, or the safety of low-level EMF exposure in general. While fringe groups continue to present flawed arguments and promote poorly designed experiments, the preponderance of research on the matter robustly dispels the connection between WiFi and IEI-EMF. For those tasked with making decisions about the inclusion of WiFi technology in their organization, school, or home, we can find no reason to ignore the advice of health organizations worldwide. The benefits of WiFi are numerous and varied, and there is no compelling evidence that any health effects arise as a result of this technology.
+Evidence aside, one should always ask what the ultimate goal of activist organizations and individuals might be. Is it to make the world a safer, better place? Or is it about money and fame?
+Bad Science Watch’s report also discovered several damning conflicts of interest (five, actually). For example, activist/entrepreneur Kevin Byrne, who not only runs the activist website DirtyElectricity.ca is also the president of EMF Solutions Canada, the largest Canadian distributor of EMF home inspections and abatement equipment.
+Ah – so in this case, it’s money.
+The TLDR;
+So here’s the TLDR; Cell phones and WIFI use non-ionizing radiation. This form of radiation does not carry enough energy to harm cells. When we look at the results from large studies, the general consensus is that there insufficient evidence to suggest that the radiation emitted from these devices cause cancer.
+Continue Reading
+CategoryBiology & Evolution Environment Health/Medicine/Quackery Physics, Math & Chemistry Space
+Tagsatomic bomb cancer cell phones medicine original radiation wifi
+Popular posts
+He Thought It Was Just An Old Uniform Until He Saw The Badges On It
+April 19, 2019	By jade
+Why is the sky blue in the day and black at night?
+February 9, 2018	By alberto
+2 of the most dangerous misconceptions about the Bible
+August 1, 2018	By alberto
+A Rational Look at GMOs: Facts, Fiction, and Fear Mongering
+August 1, 2018	By alberto
+An explanation of the creation/evolution continuum: from flat earthers to atheistic evolution
+August 1, 2018	By alberto
+Recent Posts
+He Thought It Was Just An Old Uniform Until He Saw The Badges On It
+April 19, 2019	By jade
+Worried Man Spots Jeep At Walmart For Weeks, Decides To Approach Driver
+April 18, 2019	By jade
+She Didn’t Know What Hubby Really Thought Of Her, Until She Looks Under Workbench
+April 4, 2019	By jade
+After Hearing This Conversation, Off-Duty Policeman Interrupts Their Date
+April 4, 2019	By ashleigh
+Featured Videos
+View All
+October 24, 2018	By alberto
+The Solar Dynamics Observatory: Year One Video Collage
+NASA has recently released a video collage from the Solar Dynamics Observatory (SDO). In the last year, the sun has...
+September 12, 2018	By alberto
+Face In The Clouds – A Great Example of Pareidolia
+YouTube user “denisfarmer” took a fantastic video of a rapidly approaching storm front in Grand Falls, New Brunswick, Canada. As...
+September 5, 2018	By alberto
+The Moon Landing Hoax Debunked (again)
+To The Moon! American President Barack Obama’s presented to the National Academy of Sciences on April 27th, 2009. Here is...
+Like Us On Facebook
+About Us
+Relatively Interesting promotes science, reason, critical thinking, and the magic of reality. We point the skeptical eye at pseudoscience, quackery, religion, and the paranormal. Nothing is off limits, and everything is up for discussion. We also curate and share the many amazing things that exist in the natural world, the feats and accomplishments that humanity has achieved, and the incredible discoveries our universe has to offer. Subjects include (but are not limited to!) space, history, geography, geology, biology, chemistry, physics, economics, psychology, language, and how stuff works.
+Latest Posts
+He Thought It Was Just An Old Uniform Until He Saw The Badges On It
+April 19, 2019	By jade
+Worried Man Spots Jeep At Walmart For Weeks, Decides To Approach Driver
+April 18, 2019	By jade
+She Didn’t Know What Hubby Really Thought Of Her, Until She Looks Under Workbench
+April 4, 2019	By jade
+MENU
+About
+Resources
+Terms
+Advertise With Us
+Contact
+Contribution
+Privacy Policy
+Copyright © 2019 Relatively Interesting. All Rights Reserved

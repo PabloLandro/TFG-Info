@@ -1,0 +1,103 @@
+Molecular Link Between Selenocysteine, Selenium and Cancer – BiochemPages | Pages about Biochemistry
+BiochemPages | Pages about Biochemistry
+BiochemPages is an online publisher of the news and articles about Biochemistry
+Menu
+Home
+Biomolecules
+Carbohydrates
+Enzymes
+Lipids
+Glycoconjugates
+Nucleic Acids
+Proteins
+Other Biomolecules
+Biochemical Techniques
+Chromatography
+Electrophoresis
+Other Techniques
+Cell Signaling
+Enzyme-Linked
+G-Protein Linked
+Health
+Cancer
+Diabetes
+Gastrointestinal disorder
+Inflammation
+Metal Poisoning
+Oxidative Stress
+Job
+Q/A
+Home
+Health
+Cancer
+Molecular Link Between Selenocysteine, Selenium and Cancer
+Molecular Link Between Selenocysteine, Selenium and Cancer
+Biochempages May 8, 2015 No Comments
+Ad Blocker Detected
+Our website is made possible by displaying online advertisements to our visitors. Please consider supporting us by disabling your ad blocker.
+Refresh
+VIEWS: 423
+(Last Updated On: October 21, 2017)
+Researchers have found a molecular link between selenium and cancer before that selenium was considered as a toxin many years ago. According to these findings, Selenium has some of the most important roles in human and other animals. Selenium acts through the formation of Selenoproteins. Selenocysteine is a Selenium-containing Cysteine residue that is found in some proteins of eukaryotes, Archaea, bacteria and some viruses. Proteins, like Glutathione Peroxidase, bacterial Selenoprotein A, contain Selenocysteine and the sequencing of Selenoproteins reveal that UGA codon corresponded to the location of Selenocysteine.
+ADVERTISEMENTS
+Selenocysteine and proteins containing Selenocysteine
+Human Selenoproteins are encoded by 25 genes and half of them are Oxidoreductase while functions of others are still unclear. Examples of human Selenoproteins include Glutathione Peroxidases, Thioredoxin Reductases, Thyroid Hormone Deiodinases and Methionine-R-Sulfoxide Reductase. In addition to these enzymes, Selenocysteine Synthetase 2 is a Selenoenzyme that catalyzes the ATP-dependent synthesis of Selenophosphate. Some other properties of Selenoproteins are pro- and anticancer activities, roles in the immune system etc.
+Selenocysteine tRNA and Biosynthesis of Selenocysteine
+Hatfield, Dolph L., et al. “Selenium and selenocysteine: roles in cancer, health, and development.” Trends in biochemical sciences 39.3 (2014): 112-120.
+In genetic codon, UGA represents the codon of 21th amino acid Selenocysteine. Therefore, Selenocysteine has its own tRNA, playing a major role incorporating Selenocysteine into the polypeptide. Initially, this tRNA is aminoacylated with Serine and therefore, it is designated as tRNA[Ser]Sec. It has two isoforms Mcm5U which are involved in the expression of housekeeping Selenoproteins and mcm5Um which involves in the expression of both housekeeping and stress-related Selenoproteins.
+Seryl-tRNA[ser]sec is converted to Phosphoseryl-tRNA[ser]sec catalyzed by Phosphoseryl-tRNA[ser]sec Kinase (PSTK) and ATP-dependent Selenophosphate Synthetase 2 catalyzes the conversion of Selenide to Selenophosphate. Thus formed Selenophosphate reacts with Phosphoseryl-tRNA[ser]sec catalyzed by Selenocysteine Synthase (secS) to form Selenocysteyl-tRNA[ser]sec. However, is some cases, Cysteine can also be found in place of the Selenocysteine which is incorporated in the same way as Selenocysteine.
+Sulfide is converted into the Thiophosphate catalyzed by the Selenophosphate Synthetase 2. Thus formed Thiophosphate reacts with Phosphoseryl-tRNA[ser]sec, catalyzed by Selenocysteine Synthase to form cys-tRNA[ser]sec that inserts Cys at UGA codon of Selenoprotein mRNA.
+Translation of Selenoprotein mRNA
+Hatfield, Dolph L., et al. “Selenium and selenocysteine: roles in cancer, health, and development.” Trends in biochemical sciences 39.3 (2014): 112-120.
+Sec insertion sequence (SECIS) element, present in 3′-Untranslated Region (UTR) of the Selenoprotein mRNA plays an important role in inserting Selenocysteine into then stop codon UGA. It reads the stop codon UGA as a Selenocysteine codon. It serves as an attachment site for the elongation factor, SelB which is brought to the ribosome in a complex with sec-tRNA[ser]sec.
+While, in the case of Archaea and eukaryotes, additional factors are involved like specific Elongation Factor (EFsec) which forms a complex with Sec-tRNA[Ser]Sec (EFsec-Sec-tRNA[Ser]Sec) that binds to the SECIS Binding Protein-2 (SBP2)-SECIS complex and the ribosome. There are three more factors and these are Ribosomal Protein L30 which serves as part of the basic machinery responsible for Sec insertion, Nucleolin, and Eukaryotic Initiation Factor eIF4a3. Nucleolin and eIF4a3 have regulatory roles tempering Selenoprotein synthesis.
+Reference: Hatfield, Dolph L., et al. “Selenium and selenocysteine: roles in cancer, health, and development.” Trends in biochemical sciences 39.3 (2014): 112-120.
+Article doi: 10.1016/j.tibs.2013.12.007
+Related Posts
+Share
+Tweet
+Google+
+Linkedin
+Email
+Pinterest
+Prev Article
+Next Article
+Tags:Antioxidants Selenium Selenocysteine
+About The Author
+Biochempages
+As an owner of this site, I want to contribute a little support to the users by providing relevant information about biochemistry and related fields with relevant reference. Please donate us if you find our articles informative.
+Leave a Reply
+Cancel reply
+By using this form you agree with the storage and handling of your data by this website. *
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+Social Connect
+Sponsored Links
+Find us on Facebook
+Related links
+Featured Posts
+BiochemPages | Pages about Biochemistry
+BiochemPages is an online publisher of the news and articles about Biochemistry
+Recent Posts
+Failed motivation letter for the PhD cancer …
+January 26, 2018 2
+Molarity calculator using percentage purity and density …
+August 4, 2017 0
+Online molarity calculator and inter conversion of …
+August 1, 2017 0
+Trending Posts
+Use of the APS and TEMED in SDS-PAGE (21,498)
+How to memorize structures of all 20 amino acids in a simple way? (17,636)
+Defective Mitochondrial Metabolism Associated with Cancer (13,454)
+How to prepare 100 ml of 50 mM Phosphate buffer of pH 6.8? (10,891)
+How to prepare Salkowski reagent for the quantification of indole-3-acetic acid? (10,453)
+One of the best online phosphate buffer calculator (10,013)
+Partition chromatography principle and applications (9,309)
+Archives
+2018: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+2017: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+2016: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+2015: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+2014: Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Copyright © 2019 BiochemPages | Pages about Biochemistry
+ABOUT | CONTACT | PRIVACY POLICIES | COPYRIGHT | SITEMAP| TERMS OF SERVICES| TEAM
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.OkNoRead more

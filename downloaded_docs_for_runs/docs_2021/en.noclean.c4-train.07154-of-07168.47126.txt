@@ -1,0 +1,108 @@
+Benefits of Selenium to Prevent Bladder Cancer Symptoms - Online Cancer Blog
+CANCER INFO
+CANCER NEWS
+CANCER TREATMENT
+CANCERS
+Breast Cancer
+Prostate Cancer
+Lung Cancer
+Colon Cancer
+Cervical Cancer
+Skin Cancer
+Colon Cancer
+Brain Cancer
+Kidney Cancer
+Search
+Bladder Cancer
+Bone Cancer
+Brain Cancer
+Breast Cancer
+Heart Cancer
+Kidney Cancer
+Blood Cancer
+Lip Cancer
+Liver Cancer
+Lung Cancer
+Vulvar Cancer
+Tongue Cancer
+Online Cancer Blog
+CANCER INFO
+CANCER NEWS
+CANCER TREATMENT
+CANCERS
+Breast Cancer
+Prostate Cancer
+Lung Cancer
+Colon Cancer
+Cervical Cancer
+Skin Cancer
+Colon Cancer
+Brain Cancer
+Kidney Cancer
+Home Bladder Cancer Benefits of Selenium to Prevent Bladder Cancer Symptoms
+Benefits of Selenium to Prevent Bladder Cancer Symptoms
+Share on Facebook
+Tweet on Twitter
+Selenium is an important nutrient which is known to be important for many body functions and to prevent several diseases and medical conditions. It has been observed that selenium can play a great role in the prevention of the symptoms of bladder cancer.
+The intake of this nutrient is often associated with decrease in the risk of bladder cancer. This essential micronutrient is found in about 25 proteins and these selenoproteins are basically those enzymes that have antioxidant benefits and properties.
+In order to increase the intake of selenium through food, one can concentrate on having selenium rich soils and those animals who graze on such plants. The following are the main benefits of selenium to prevent bladder cancer symptoms:
+According to certain research work and findings, it has been found that people who consumed more of selenium had a 39% decreased risk of bladder cancer. Infact this increase in selenium rich foods can also decrease the risk of other forms of cancer like skin cancer, lung cancer, prostate cancer, breast cancer and colorectal cancer as well.
+According to another research in which 1300 older people were tested, the occurrence of bladder cancer among those individuals who consumed 200 milligrams of selenium everyday for a period of 7 years was reduced by as much as 42%! This was done in comparison to placebo.
+Those who consumed selenium were 50% less likely to die due to bladder cancer and this fact too stresses on the importance of selenium for preventing bladder cancer and its symptoms.
+What selenium does is that it provides an increased anti- oxidant protection and also has a better effect on the immune system due to which the symptoms of bladder cancer are reduced.
+Another benefit of selenium is that it provides better regulation of cell proliferation and apoptosis.
+Selenium also helps in the suppression of growth of those blood vessels which are capable of supplying the nutrientsto the cancer.
+Another benefit of selenium for preventing bladder cancer symptoms is that it aids inhibition of the tumor cell invasion. This helps to reduce the signs and effects of the cancer.
+Having selenium on a regular basis can help to trigger the DNA repair in those cells that have been damaged due to invasion of the bladder cancer.
+Selenium also plays an important role in activating the glutathione peroxidase which helps to detoxify the harmful substances in the body.
+TAGS
+Benefits of Selenium
+Bladder Cancer Symptoms
+Prevent Bladder Cancer Symptoms
+SHARE
+Facebook
+Twitter
+tweet
+Previous article6 Major Risk Factors for Small Cell Lung Cancer
+Next articleThe Link Between Hypertension and Thyroid Cancer
+admin4
+RELATED ARTICLESMORE FROM AUTHOR
+Bladder Cancer
+How to Treat Bladder Cancer Naturally?
+Bladder Cancer
+BCG Therapy for Bladder Cancer
+Bladder Cancer
+Diagnosis And Treatments For Invasive Bladder Cancer
+Bladder Cancer
+Cold Cuts Increase Bladder Cancer Risk
+Bladder Cancer
+Bladder Cancer Survival Rates: Getting Lower Or Higher?
+Bladder Cancer
+Bladder Cancer Risk Doubles With Well Done Meat
+Bladder Cancer
+Bladder Cancer – Symptoms To Watch Out For
+Bladder Cancer
+The Importance Of Screening In Bladder Cancer
+Bladder Cancer
+Aggressive Treatment Not Beneficial In Early Bladder Cancer
+Latest
+Lung Cancer
+The Survival Rate of Each Lung Cancer Stage
+Cancer Info
+Chocolates Help Fight Cancer- Myth or Truth?
+Breast Cancer
+Top 6 Symptoms That Indicate Breast Cancer
+Brain Cancer
+Signs and Signals Indicating Brain Cancer
+Kidney Cancer
+5 Symptoms Not to Ignore for Kidney Cancer
+Bone Cancer
+5 Common Reasons for Bone Cancer
+Contact
+Sitemap
+Privacy Policy
+Terms of Use
+© Online Cancer Guide 2018 • All rights reserved.
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();
+Edit with Live CSS
+.wpb_wrapper ul li{ font-family: "Roboto Condensed"; font-size: 17px; line-height: 22px; font-weight: normal; }

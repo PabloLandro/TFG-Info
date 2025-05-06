@@ -1,0 +1,254 @@
+Vitamin D supplements offer protection for asthma patients
+Close
+Sample Product Name...
+Quantity
+Update
+Close
+Sample Item Name...
+has been updated in your cart
+Sign Up for Savings! Click Here
+By Signing up for our emails, you'll be the first to receive the best discounts InVite Health has to offer.
+Sign Up
+Connect with us
+Go
+Account
+If you do not have an account, click here.
+Support
+Stores
+Cart 0 items
+Health and
+Beauty
+Health and Beauty
+Anti Aging
+Baby Care
+Body Care
+Core Nutrition
+DNA Tests
+Foot Care
+Hair Vitamins
+Herbal Foot Care
+Invite Fitness
+Periodental
+Skin Cosmeceticals
+Weight Management Supplements
+Gift Cards
+New Products
+Hair, Skin & Nails
+Shop Now
+Super Foods
+& Digestion
+Super Foods & Digestion
+Antioxidant Supplements
+Digestive Supplements
+Herbal Health Supplements
+Liver Detoxifers
+Superfoods
+Gift Cards
+New Products
+Greens Hx
+Shop Now
+Vitamins &
+Supplements
+Vitamins & Supplements
+Invite Core Nutritional Program
+Multivitamins
+Tinctures
+Womens Health
+Mens Health
+Childrens Vitamins
+Anti Aging
+Blood Sugar Health
+Bone Health
+Brain Health
+Cholesterol Supplements
+Dietary Blood Sugar Health
+Digestive Health
+Energy Supplements
+Eye Health Vitamins
+Heart Health supplements
+Herbal Health Vitamins
+His and Hers Multi-Vitamins
+Immune System Vitamins
+Joint Health Supplements
+Liver Health
+Mineral Supplements
+Muscle Recovery Supplements
+Respiratory Health
+Stress Management
+Weight Management Supplements
+Women's Vitamins
+Gift Cards
+New Products
+InVite Core Multi
+Shop Now
+Dr Pressman
+Dr Pressman
+Brain Health
+Bone Health
+Digestive Health
+Energy
+Heart Health
+Joint Health
+Liver and Detox
+Radio Specials
+Superfoods
+Gift Cards
+New Products
+Multi Energy Powder
+Shop Now
+True
+Collection
+True Collection
+Health and Beauty
+Multivitamin
+Superfoods - Packets
+Superfoods - Powders
+Gift Cards
+New Products
+True Beauty
+Shop Now
+Home &
+Lifestyle
+Home & Lifestyle
+DNA Tests
+Garmin
+Fitness Trackers
+Health Management
+Healthy Home
+Healthy Kitchen
+Healthy Office
+Invite Fitness
+Power Plant Muscle Fitness Supplements
+Gift Cards
+New Products
+Garmin activity tracker
+Shop Now
+Brands
+& CBD
+Brands & CBD
+Boiron Vitamins
+Heel Homepathic
+Integrative Theapeutics
+PhytoPharmica Vitamins
+Pure Vitamins
+Thorne Vitamins
+Topicals
+Tinctures
+Capsules
+Pet
+Edibles
+Gift Cards
+New Products
+CBD oil
+Shop Now
+New!
+Listen
+Listen
+Radio Offers
+Radio Shows
+Radio Studies
+Learn
+Learn
+Assess Your Health
+Dr. Pressman's Acid Reflux Diet Plan
+Drug-Induced Nutrient Depletion
+Independent Research Studies
+InVite® Health Blog
+Nutrition Articles
+Recipes
+Rewards
+Home
+»
+Radio
+»
+September 2016
+»
+Vitamin D supplements offer protection for asthma patients
+Vitamin D Supplements Offer Protection for Asthma Patients
+Tweet
+Sep 09, 2016
+9.9.16
+Vitamin D supplements offer protection for asthma patients
+According to a recent review of existing studies Vitamin D may make asthma less dangerous. The researchers led by Professor Adrian Martineau from Asthma UK Centre for Applied Research at Queen Mary University of London write that previous research has linked low blood levels of Vitamin D to a heightened risk of asthma attacks. The researchers, part of Cochrane, analyzed data from nine studies lasting from six to twelve months that included children and adults. Those who took Vitamin D supplements cut the incidence of asthma attacks severe enough to require hospitalization in half, from 6% of all attacks down to 3% in Vitamin D users. Also, the use of Vitamin D supplements was safe. The supplements did not improve lung function nor everyday symptoms but reduced the need for steroid drugs (and kept people out of emergency rooms). Steroid drugs are used to reduce inflammation in the lungs.
+Note: Cochrane is a global independent network of researchers, professionals, patients, and people interested in health. Their contributors are leaders in their fields - medicine, health policy, research methodology, or consumer advocacy - and groups are often situated in well respected academic and medical institutions. With 37,000 contributors from 130 countries, Cochrane groups systematically review evidence from randomized controlled trials combining the results for a greater level of evidence for the use of drugs, medical procedures, surgeries, diets, nutritional supplements and other health-care interventions and diagnostic tests. The results of the reviews are then published in the Cochrane Library.
+Sales: (800) 632-0541
+Customer Service:
+9AM - 5PM
+(800) 349-0929
+SHOP
+Getting Started InVite® Core Program InVite® Multivitamins Shop Dr. Pressman Products Specials / Radio Offers New Products All Categories All InVite® Health products Rewards FAQ's Shopping Cart
+Getting Started
+InVite® Core Program
+InVite® Multivitamins
+Shop Dr. Pressman Products
+Specials / Radio Offers
+New Products
+All Categories
+All InVite® Health products
+Rewards FAQ's
+Shopping Cart
+SITEMAP
+Home Sign In / Create Account About Us Affiliate Program Franchise Opportunities Catalog Request Privacy Statement InVite® Health Blog Contact Us Find A Store
+Home
+Sign In / Create Account
+About Us
+Affiliate Program
+Franchise Opportunities
+Catalog Request
+Privacy Statement
+InVite® Health Blog
+Contact Us
+Find A Store
+SIGN UP FOR SAVINGS
+By signing up for our emails, you'll be the first to receive the best discounts InVite® Health has to offer.
+© 2019 InVite Health. All Rights Reserved.
+*These statements have not been evaluated by the Food and Drug Administration. These products are not intended to treat, diagnose, cure, or prevent any disease.
+All customer information is kept confidential. We do not give, rent or sell our customer information. Customer information is kept for company records only.
+Home
+Shop
+Shop
+back
+All Categories
+Dr. Pressman Products
+Getting Started
+InVite® Order FAQs
+Rewards Program
+Specials & Radio Offers
+Listen
+Listen
+back
+Radio Offers
+Radio Shows
+Radio Studies
+Visit
+Visit
+back
+Meet the Experts
+Store Locations
+Learn
+Learn
+back
+Assess Your Health
+Dr. Pressman’s Acid Reflux Diet Plan
+Drug-Induced Nutrient Depletion
+Independent Research Studies
+InVite® Health Blog
+Nutrition Articles
+Recipes
+Walking Challenge
+Account
+Support
+Stores
+Cart
+Go
+Customer Service 9am-5pm
+(800) 349-0929
+Sales (800) 632-0541
+', //	nextArrow: '
+' //}); $("#popular-products ul").slick({ infinite: true, prevArrow: '
+', nextArrow: '
+', slidesToShow: 5, slidesToScroll: 5, slide: 'li', responsive: [{ breakpoint: 1024, settings: { slidesToShow: 4, slidesToScroll: 4 } },{ breakpoint: 900, settings: { slidesToShow: 3, slidesToScroll: 3 } },{ breakpoint: 640, settings: { slidesToShow: 2, slidesToScroll: 2 } },{ breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }] }); } // Category page banner if( $("body").hasClass('category') ){ var catTitle = $(".category-content header h1").text(); $(".category-content header").remove(); if( $(".banner-image").length ){ var catImage = $(".banner-image").attr('src'), catBanner = '
+' + catTitle + '
+'; $("#header").after(catBanner); $(".category-header").hide(); } } // Product carousel if( $("body").hasClass('product') ){ $(".related-products ul").slick({ infinite: true, prevArrow: '
+', nextArrow: '
+', slidesToShow: 5, slidesToScroll: 5, slide: 'li', responsive: [{ breakpoint: 1024, settings: { slidesToShow: 4, slidesToScroll: 4 } },{ breakpoint: 900, settings: { slidesToShow: 3, slidesToScroll: 3 } },{ breakpoint: 700, settings: { slidesToShow: 2, slidesToScroll: 2 } },{ breakpoint: 480, settings: { slidesToShow: 1, slidesToScroll: 1 } }] }); } // Dropdown links $("#footer select.mobile").on('change', function () { var url = $(this).val(); if( url ){ window.location = url; } return false; }); });

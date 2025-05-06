@@ -1,0 +1,67 @@
+Selenium Supplements—Why Selenate Rates (and Selenite Bites)
+Menu
+home
+products
+YOUR CART
+become our affiliate
+sign in
+registration
+user home
+NEWS
+Supplements in the News
+Health Monographs
+Research
+Ask Dr. Zarkov
+about us
+Selenium Supplements—Why Selenate Rates (and Selenite Bites)
+07.28.2010 23:42
+Since selenium (Se) was first identified as an essential trace mineral by Schwarz and Foltz in 1957 1, researchers have discovered that getting enough selenium in the diet just might protect against cardiovascular disease 2, viral infections including influenza 3 and HIV 4, rheumatoid arthritis 5, liver disease 6, and some forms of cancer as well 7.
+Selenium is now recognized as essential for a variety of bodily functions, of which perhaps the most important and certainly the best known is antioxidant defense. Selenium-binding enzymes known as glutathione peroxidases are responsible for mopping up such harmful oxidants as hydrogen peroxide and lipid peroxides. Other selenoproteins—proteins which store, carry, or utilize Se—are involved in thyroid hormone metabolism, muscle function, male fertility, and immune regulation 2,8.
+A deficiency of active, Se-bound glutathione peroxidase (GPx) appears to play a crucial role in the pathology of many conditions associated with selenium deficiency 3,9,10. In the case of cancer, however, the story is a bit more complicated. In fact Se appears to have multiple anticancer effects 11, only some of them involving GPx (which can protect DNA from cancer-causing mutations). Other evidence points to an anticancer mechanism independent of enzyme-bound Se 12,13, whereby ingested Se gets rapidly converted into molecular forms toxic to cancer cells and subsequently excreted rather than stored 13,14.
+In view of selenium’s multiple metabolic pathways, it’s important to recognize that all forms of Se are not equal. Selenium supplements come in two basic varieties—inorganic salts like selenate (SeO4--) and selenite (SeO3--) and newer, organic compounds like selenomethionine (SeMet). In recent years SeMet has gotten most of the press because it’s supposedly more “bioavailable” than either of the inorganic salts, in the sense that it’s better retained in the body. But is tissue retention really the best yardstick for gauging the superiority of one supplement over another? In the case of selenium, the answer is definitely no.
+In one experiment, for example, rats fed high doses of either SeMet or selenite were shown to accumulate more Se from SeMet 15. Despite the higher tissue levels achieved with SeMet, other experiments have found SeMet to be relatively ineffective for suppressing chemically induced colon cancer 16,17. Both selenite and selenate, but not SeMet, significantly decreased the numbers of preneoplastic lesions (precursors to colon cancer) caused by feeding rats a chemical carcinogen16. In a related experiment, both selenite and selenate—but not SeMet—significantly reduced the binding of the same carcinogen to DNA in rat colon.17 In the latter study, rats supplemented with SeMet had greater plasma and liver Se concentrations and GPx activity than those supplemented with selenite or selenate .17 Thus, the most “bioavailable” form of Se was the one that was least effective in preventing colon cancer.
+There are clear differences between selenate and selenite as well, the most important of which is that selenite is much more toxic than selenate both in vivo and in vitro. 18,19. In addition, for relatively low doses of Se fed to humans, the absorption of selenate was observed to be greater and the urinary excretion faster than that of selenite, although retention was about the same.20 The enhanced uptake of selenate over selenite is mediated by an active transport mechanism in the small intestine, presumably involving the same transporter protein that carries sulfate21; sulfate is a close chemical cousin of selenate but not of selenite.
+The increased absorption and excretion of selenate may contribute to its lower toxicity compared to selenite. On the other hand, the similar extent to which low doses of either compound are retained20 suggests that once absorbed, both selenate and selenite can be utilized effectively for replenishing Se stores, in agreement with previous findings.16
+There are further problems associated with selenite, however, “antinutritive” activities not encountered with selenate. In the presence of stomach acid, selenite is converted to selenious acid and is further converted to inactive, elemental selenium if vitamin C is taken at the same time.22. In addition, nutritionally important minerals such as copper are capable of forming complexes with selenide, a metabolite of selenite; the resulting mineral complexes can tie up Se and its mineral partner in a form in which both remain metabolically unavailable.23.
+Copper and zinc have likewise been shown to inhibit the generation of DNA-damaging oxygen radicals produced when selenite interacts with the body’s natural antioxidant glutathione.24 The likeliest explanation for the inhibitory effect is that both copper and zinc are inactivating selenite by forming complexes with selenide, as mentioned earlier.23 Unlike selenite, selenate does not interact with glutathione25 and therefore does not directly generate toxic oxygen radicals or tie up useful minerals such as copper and zinc.
+In defense of selenite, however, it should be noted that its metal-complexing ability does have a useful side. Selenite can counteract heavy metal toxicity by tying up mercury, cadmium, and silver in a metabolically inactive form26,27 in the same way it does with copper.23 This beneficial effect of selenite occurs after its reduction to selenide by interacting with glutathione within the body. Selenate, on the other hand, cannot generate selenide directly and so does not directly participate in heavy metal detoxification.
+To summarize, selenate has been shown to be an effective anticarcinogen while still retaining an ability to replenish Se stores16. Other Se compounds that are effective anticancer agents—whether synthetic chemicals such as triphenylselenonium chloride13 or organic products such as Se-rich broccoli28—cannot build up the body’s reserves of Se or increase the activity of GPx. Only selenate or selenite can perform both sets of functions (anticancer activity and capacity for being stored), and of the two selenate is clearly superior because of its lower toxicity18,19 and lack of interference with metabolism of other nutrients. In other words, selenate is the one form of Se to take if you’re taking only one.
+A note on dosing: The RDI (Reference Daily Intake) for selenium in this country is 70 mcg for adult males and 55 mcg for females, although other countries have set the upper limit higher. The minimum daily dose of Se that has been administered in cancer prevention studies is 200 mcg. Anecdotal reports indicate that some people have received benefit from consuming larger doses, 1000 mcg or even higher per day, with no ill effects. Although the toxicity of selenate is considerably less than that of selenite, I don’t recommend consumption of doses higher than about 10 times the RDI (let’s say higher than 800 mcg) without first consulting a health care professional.
+Consuming selenate in large daily doses can also result in a transient decline in blood sugar (hypoglycemia) because selenate has insulin-like effects.29 The irritability, lightheadedness, and fatigue that ensue are temporary and can be counteracted by eating some carbohydrate-rich food. However, diabetics and anyone with a tendency toward hypoglycemia should monitor their Se intake and blood sugar levels carefully.
+References.
+[1] Schwarz K, Foltz CM. Selenium as an integral part of factor 3 against dietary liver necrotic degeneration. J Am Chem Soc. 1957;79:3292-3.
+[2] Brown KM, Arthur JR. Selenium, selenoproteins and human health: a review. Public Health Nutr. 2001;4(2B):593-9.
+[3] Beck MA. Antioxidants and viral infections: host immune response and viral pathogenicity. J Am Coll Nutr. 2001;20(5 Suppl):384S-388S.
+[4] Schrauzer GN, Sacher J. Selenium in the maintenance and therapy of HIV-infected patients. Chem Biol Interact. 1994;91(2-3):199-205.
+[5] Aaseth J, Haugen M, Forre O. Rheumatoid arthritis and metal compounds—perspectives on the role of oxygen radical detoxification. Analyst. 1998;123(1):3-6.
+[6] Aaseth J, Alexander J, Thomassen Y, Blomhoff JP, Skrede S. Serum selenium levels in liver diseases. Clin Biochem. 1982;15(6):281-3.
+[7] Clark LC, Dalkin B, Krongrad A, Combs GF Jr, Turnbull BW, et al. Decreased incidence of prostate cancer with selenium supplementation: results of a double-blind cancer prevention trial. Br J Urol.1998;81(5):730-4.
+[8] Rayman MP. The importance of selenium to human health. Lancet. 2000;356(9225):233-41.
+[9] Dworkin BM. Selenium deficiency in HIV infection and the acquired immunodeficiency syndrome (AIDS). Chem Biol Interact. 1994;91(2-3):181-6.
+[10] Tarp U. Selenium and the selenium-dependent glutathione peroxidase in rheumatoid arthritis. Dan Med Bull. 1994;41(3):264-74.
+[11] Schrauzer GN. Anticarcinogenic effects of selenium. Cell Mol Life Sci. 2000;57(13-14):1864-73.
+[12] Stewart MS, Spallholz JE, Neldner KH, Pence BC. Selenium compounds have disparate abilities to impose oxidative stress and induce apoptosis. Free Radic Biol Med. 1999;26(1-2):42-8.
+[13] Ip C, Lisk DJ, Ganther HE. Chemoprevention with triphenylselenonium chloride in selenium-deficient rats. Anticancer Res. 2000;20(6B):4179-82.
+[14] Vadhanavikit S, Ip C, Ganther HE. Metabolites of sodium selenite and methylated selenium compounds administered at cancer chemoprevention levels in the rat. Xenobiotica. 1993;23(7):731-45.
+[15] Whanger PD, Butler JA. Effects of various dietary levels of selenium as selenite or selenomethionine on tissue selenium levels and glutathione peroxidase activity in rats. J Nutr. 1988;118(7):846-852.
+[16] Feng Y, Finley JW, Davis CD, Becker WK, Fretland AJ, et al. Dietary selenium reduces the formation of aberrant crypts in rats administered 3,2'-dimethyl-4-aminobiphenyl. Toxicol Appl Pharmacol. 1999;157(1):36-42.
+[17] Davis CD, Feng Y, Hein DW, Finley JW. The chemical form of selenium influences 3,2'-dimethyl-4-aminobiphenyl-DNA adduct formation in rat colon. J Nutr. 1999;129(1):63-9.
+[18] Biswas S, Talukder G, Sharma A. Comparison of clastogenic effects of inorganic selenium salts in mice in vivo as related to concentrations and duration of exposure. Biometals. 1999;12(4):361-8.
+[19] Biswas S, Talukder G, Sharma A. Chromosome damage induced by selenium salts in human peripheral lymphocytes. Toxicol In Vitro. 2000;14(5):405-8.
+[20] Van Dael P, Davidsson L, Munoz-Box R, Fay LB, Barclay D. Selenium absorption and retention from a selenite- or selenate-fortified milk-based formula in men measured by a stable-isotope technique. Br J Nutr. 2001;85(2):157-63.
+[21] Arduser F, Wolffram S, Scharrer E. Active absorption of selenate by rat ileum. J Nutr. 1985;115(9):1203-8.
+[22] Ganther HE, Kraus RJ. Chemical stability of selenious acid in total parenteral nutrition solutions containing ascorbic acid. JPEN J Parenter Enteral Nutr. 1989;13(2):185-8.
+[23] Tatum L, Shankar P, Boylan LM, Spallholz JE. Effect of dietary copper on selenium toxicity in Fischer 344 rats. Biol Trace Elem Res. 2000;77(3):241-9.
+[24] Davis RL, Spallholz JE. Inhibition of selenite-catalyzed superoxide generation and formation of elemental selenium (Se(0)) by copper, zinc, and aurintricarboxylic acid (ATA). Biochem Pharmacol. 1996;51(8):1015-20.
+[25] Terada A, Yoshida M, Seko Y, Kobayashi T, Yoshida K, et al. Active oxygen species generation and cellular damage by additives of parenteral preparations: selenium and sulfhydryl compounds. Nutrition. 1999;15(9):651-5.
+[26] Yoneda S, Suzuki KT. Detoxification of mercury by selenium by binding of equimolar Hg-Se complex to a specific plasma protein. Toxicol Appl Pharmacol. 1997;143(2):274-80.
+[27] Sasakura C, Suzuki KT. Biological interaction between transition metals (Ag, Cd and Hg), selenide/sulfide and selenoprotein P. J Inorg Biochem. 1998;71(3-4):159-62.
+[28] Finley JW, Davis CD, Feng Y. Selenium from high selenium broccoli protects rats from colon cancer. J Nutr. 2000;130(9):2384-9.
+[29] Battell ML, Delgatty HL, McNeill JH. Sodium selenate corrects glucose tolerance and heart function in STZ diabetic rats. Mol Cell Biochem. 1998;179(1-2):27-34.
+Subscribe
+To get our newsletter please enter your email address in the box below and press 'Subscribe' button.
+News
+Frequently Asked Questions
+Terms & Conditions
+Privacy Policy
+Site Map

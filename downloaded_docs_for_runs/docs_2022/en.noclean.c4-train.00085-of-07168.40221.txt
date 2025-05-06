@@ -1,0 +1,390 @@
+Is WiFi safe for your health and at home
+The Windows Club
+Home
+News
+Windows
+Downloads
+Security
+Office
+Phone
+General
+Reviews
+Forum
+About & Privacy
+Is WiFi safe for your health, children and at home
+RECOMMENDED: Click here to repair Windows problems & optimize system performance
+Radio waves have always been a subject of study as they help in many ways, such as communications and GPS. The same radio waves allow you to work wirelessly in computer technology. WiFi too is based on radio waves. WiFi is so common today that you are immersed in WiFi waves all day and night. Can your body sustain damages due to WiFi signals, if any? Let’s check if WiFi is really dangerous and what are the health hazards of WiFi signals.
+Is WiFi safe for your health? Image: Safe In Schools Organization
+Is WiFi safe for your health or harmful
+I need not tell you how WiFi works. You know that WiFi signals start from the router and end up at the reception point of your WiFi enabled device. It’s the same case with Bluetooth, cellphones, etc. However, unlike cellphones and Bluetooth, WiFi signals do not accumulate at a certain part of your body. Incase of cellphones, it is the ear where you place the phone, and it is always either right or left – which is repeated per call. The more you talk, the more exposure at a certain point of your brain.
+The point here is, WiFi is radio waves that may cause problems, but since there is no fixed point of your body, touching the devices all the time, the risk is quite low. If you carry your smartphone to your bed and keep it near your head at night, it may create problems due to cellular signals. But when there is some distance between your body and device, the risk becomes lesser.
+Read: How to create a Mobile Hotspot in Windows 10, via its Settings.
+Dangers and Health Hazards Of WiFi Signals
+I will not say WiFi is completely safe, as it does employ harmful radio waves. But it is safer compared to cellphone signals that are more powerful and tend to affect the same body part again and again. Science has conducted several researches on WiFi waves and concluded that WiFi waves may potentially cause cancer. In 2011, the International Agency for Research on Cancer (IARC) classified WiFi as “possibly carcinogenic to humans”.
+There are certain factors that make it dangerous and it is not easy to get out of the RF signal range. As said earlier, WiFi signals are everywhere. If you switched off your WiFi at night, you are still exposed to the WiFi signals coming in from neighbors. To see how many such networks are active just click on the connectivity icon in the system taskbar. The more the networks, the more vulnerable you are.
+Kids are at greater risk of possessing mental (brain) disorders as they grow up in WiFi environment. You can reduce the risk by turning off your WiFi at nights and by discouraging kids from clinging to the device for long durations. Make sure that they do not take it to bed. You also educate them that the waves are harmful so keep devices as far as possible (from the body).
+WiFi safety tips
+There is little you can do to keep yourself safe from the WiFi signals. As mentioned above, even if you close down your WiFi system, you are still exposed to those, coming from neighboring houses. The only solace here is that, since WiFi signals are coming from a longer distance, their effect would be lesser – just as the FM waves which aren’t that harmful.
+I will not ask you to go wired even though it is safer than WiFi. Rather, try to keep away from the WiFi originating points and repeaters where the signals are strong enough to damage your brain over an extended period of time. If possible turn off your WiFi at nights or when you are not using them for longer durations.
+Another important thing is to reduce the duration you use WiFi. Your own WiFi is stronger in your home compared to the WiFi networks around your building. Make sure you are not spending time on the same table where the router is installed. Do not sit under repeaters for long. On devices, turn off WiFi when not using it. It will not only reduce exposure, but it will save your battery also.
+Remember to switch off your WiFi at night when your family sleeps.
+NOTE: There are websites I’ve seen that show you that WiFi is fatal. But they are endorsing some kind of products that say “safe WiFi products” or “products that nullify the effects of WiFi”. They are trying to scare you into buying their products. Stay away from such claims. Excessive exposure to WiFi signals is a health hazard, but it is not as dangerous as shown by some websites.
+Go here if you need to know how you can Increase WiFi Speed.
+References
+Health Canada
+The Guardian
+Safe In School Organization.
+TIP: Download this tool to quickly find & fix Windows errors automatically
+Related Posts:
+Mobile Phones Health Hazards, Risks and Dangers
+Turn Windows PC into a WiFi Hotspot using Internet Connection Sharing
+Best Free WiFi Hotspot software for Windows 10/8/7
+Is Bluetooth Radiation harmful to humans or is it safe?
+Create Mobile Hotspot; Change Hotspot Name & Password in Windows 10
+Download this VPN to secure all your Windows devices and browse anonymously
+Posted by ArunKumar@TWC on June 17, 2014 , in Category General with Tags Health, Wi-Fi
+Arun Kumar is a Microsoft MVP alumnus, obsessed with technology, especially the Internet. He deals with the multimedia content needs of training and corporate houses. Follow him on Twitter @PowercutIN
+70 Comments
+Ian Crick
+June 17, 2014 at 11:42 PM
+I watched a programme on TV the other day, where they have found a way to use lighting to transmit data. As shown they had a table lamp, a sensor on the table and where transmitting HD video’s. They said all kinds of lighting (think it was LED) could be used including street lighting and home lighting and even traffic signals and cars could talk to each other through the LED lighting used these days. If this was the case, nobody would have to worry about WIFI signals anymore. In our house all the kids are linked to the WIFI for both their mobile and games consoles, also we have cordless phones (5 of them) which also work on RF.
+Arun Kumar
+June 18, 2014 at 2:17 PM
+Great. I too think optics can be used for transmission instead of RF. Science should look further into this. Also, thank you for sharing that.
+Rita Lynn
+June 18, 2014 at 5:48 PM
+In our house we don’t use WiFi. If my kids want to go online wireless they ask me to turn on the wifi. After they’re finished i turn it of. We actually need a router with a switch for the wifi. Why isn’t it invented? Or it already is invented but ….?
+WiFi at school is damaging the kids an some kids are really sick of it. The biggest problem for the kids is concentration.
+Robyn Urback, the former Microsoft Canada head joins the fight to protect schoolchildren from Wi-Fi. He knows probably more than we do.
+nancy
+June 21, 2014 at 11:55 AM
+yes its harmful better to use wired
+Gary
+June 29, 2014 at 9:14 AM
+Good article Arun and I would add that If you work with a laptop on your lap, you are being exposed to the outgoing radiation from the pc as well as the incoming radiation the router.
+Arun Kumar
+June 29, 2014 at 2:49 PM
+Thank you. This information should be taken seriously as well. There could be options other than radiation emitting radio waves. Would’ve been good if it were possible to modulate info on photons or something harmless. Dunno. Am not good at Physics.
+Jahangir
+August 1, 2014 at 7:24 PM
+I have WiMax router at home (placed on my computer table), if I turn its WiFi option and use the LAN to access internet, is it safe?
+Or the WiMax signals still affect me?
+Arun Kumar
+August 1, 2014 at 9:16 PM
+They won’t affect you much if you turn off the WiFi option. Since it is on your computer table, intensity would be high if you keep the WiFi option on. Turn it on only when required.
+Passi
+October 3, 2014 at 9:50 PM
+Hello,
+I would like to ask if you think it’s ok if the computer is about 5-7meters from the router and we use about 150gb per month. Does that seem reasonable to you Arun Kumar?
+Thank you.
+Arun Kumar
+October 3, 2014 at 10:29 PM
+Assuming you take breaks while computing, it should be fine.
+Passi
+October 3, 2014 at 10:48 PM
+Okay thank you very much
+Blue
+October 8, 2014 at 11:11 PM
+It’s total fear mongering to pick on Wifi. 50 years ago it was power lines and it had (and still has an effect) on home sales, then it was radio/TV signals, then in the 90s it was cellular, now wifi. Yet people have lived in their homes with TV, radio, power, microwave ovens (which do emit outside the enclosure no matter how tight the seal), baby monitors, home and car alarms, RF remote controlled toys, wireless speakers, and more recently Wifi enabled TVs and bluetooth devices, and many other EMF devices, not to mention anything with a motor and the general lighting and power around a house. And we’ve lived with it wherever we go, radio/TV in the air, satellite signals, background radiation, cell towers, and more recently any public place you go into that has Wifi, alarm systems, wireless PA systems, etc. If there were issues, we’d have an epidemic of it already. Wifi isn’t special, it’s in the same ISM band as many of the aforementioned things. The others are in lower or higher frequency bands and some transmit with much higher power like cell phones to get to cell towers miles away (and the return signals you are getting from the towers.) Even if you turn your house into a log cabin, you can’t turn off your neighbors or the general public. Even living on a desert island doesn’t completely isolate you.
+One thing that is amusing is how blame is placed on Wifi for incredibly common health symptoms like headaches, insomnia or nausea that could be caused by a million other things. Worse yet, blaming your kid’s lack of concentration or (alleged) ADHD on Wifi? Really? I think we are just looking for an excuse there to what is a much different and more obvious problem.
+CarlPheneger
+November 11, 2014 at 10:54 PM
+There is a formula that states the energy is inversely proportional to the square of the distance from the source. The energy level at 4 feet is one quarter the energy level at two feet. So put the device in a far corner and turn it off when not using.
+John Walker
+November 25, 2014 at 3:13 AM
+I’d like to join in (I know I’m a bit late) and add some important information.
+While this article does mention some key points, it leaves out the fact that there are some devices that output significantly more or less radiation than others. For example, 4G devices are using multiple concurrent connections to speed up data usage. Those devices output much higher amounts of radiation than older phones do. Switching off your phone’s wifi isn’t a good option either, because short-range wifi involves much less radiation than a 4G LTE connection does.
+As well, typical wifi devices can easily put out a lot more radiation than mentioned in this article. For example, a company called Alfa makes a wide range of wireless devices that use up to 5 Watts of transmit power, whereas older routers use on average 21 mW (one Watt is equal to one-thousand Milliwatts). Stated hazard levels start at around 3 Watts of continued exposure.
+Even typical routers and modems are starting to increase their transmit outputs to keep up with newer technologies. Router that use wireless AC typically don’t just output that alone, but in fact output AC/N/G/B for backwards compatibility, and to avoid reduction in signal strength they increase the transmit power, resulting in much higher amounts of overall radiation.
+Right now my apartment, which resides in a large apartment complex, has 80+ wireless access points within my vicinity, connectable from my living room. While the radiation from each individually isn’t much, the combined radiation “soup” of nearby wireless, as well as the wireless from my own router, modem, and any devices connected to any of these, amounts to a significantly higher concentration than most would care to consider.
+As far as “wifi protection” goes, most of the products out there consist of various devices or stickers that have some copper material in them. That’s all it is. Copper absorbs the radiation (and signal) from wireless devices, and a lot of these companies are selling various odds-and-ends that contain a little copper for hundreds when it’s only worth a couple dollars at best.
+Amit Singh
+December 16, 2014 at 1:02 PM
+Great post Arun!.. Really it needs to be revealed the other side of WI-fI RADIATION. Check out this link
+http://anotation.com/evil-side-of-wifi-radiation/
+Amit Singh
+December 27, 2014 at 9:33 PM
+Hey Everybody,,Very nice article on the unseen aspects of Wi-Fi. Please check this out..
+http://anotation.com/evil-side-of-wifi-radiation/
+Schmendrick
+December 30, 2014 at 1:11 AM
+This is one of the most poorly written and unscientific articles I’ve ever read on this topic. Its lack of credibility makes it impossible to believe. You also might want to run it by a native English speaking editor as the wording, spelling and punctuation are pretty bad.
+Anand Khanse
+December 30, 2014 at 10:29 AM
+1] Please clarify as to why you think this article is unscientific. This would help us update the article.
+2] This post has not been written by a native English speaking author, so you have to accept it as it is. I am sure you would not be able to write with the same fluency, if you were to ever use or learn his mother tongue. So lets be understanding on this part.
+smeezekitty
+December 30, 2014 at 12:06 PM
+The claim that RF energy at these power levels are damaging in any way is a sign of believing
+FUD. Sorry but it is severely misinformed. There is nothing to support that idea
+smeezekitty
+December 30, 2014 at 12:08 PM
+The entire premise is faulty because of the low power level of WiFi signals.
+Low power radiation in the 2400MHz range is not shown to be damaging to
+living things.
+Keep in mind that microwave ovens operate in a similar frequency range with
+power levels 5000x to 20000x higher
+Arun Kumar
+December 30, 2014 at 1:40 PM
+Even schools are turning to wired Internet. Check out this:
+United Federation of Teachers – 200,000 teachers and educational professionals in New York City (2014)
+Advisory:
+Wireless radiation is emitted by the myriad of wireless devices we
+encounter every day. It was once thought to be relatively harmless.
+However, we now know that wireless radiation can cause non-thermal
+biological effects as well, including damage to cells and DNA, even at
+low levels.
+Check out their videos, as well, at: http://www.safeinschool.org/
+Arun Kumar
+December 30, 2014 at 1:46 PM
+You might also want to check out sites that claim research has been done to find out there ‘could be’ dangers out of using WiFi. One such site is http://www.earthcalm.com/the-dangers-of-wi-fi/ that I think you’ll find interesting.
+smeezekitty
+December 31, 2014 at 12:45 AM
+Those websites have dubious credibility. Anybody can create a website
+that says anything they want. And they are full of weasel words
+smeezekitty
+December 31, 2014 at 12:48 AM
+There are distinct advantages of wired internet. It is faster, unjammable,
+more reliable, more secure and has lower latency. It would not surprise me for schools
+and businesses to primarily use wired connections because — well — they are better.
+“Doctors and Scientists around the world have warned against unnecessary exposure of children”
+More weasel words. What scientists and doctors?
+smeezekitty
+December 31, 2014 at 12:51 AM
+Here is a more rational look at the risks of low power RF radiation: http://www.theguardian.com/technology/askjack/2012/sep/27/wi-fi-health-risks
+In any case, if you are worried about WIFI, hopefully you don’t use a cellphone
+cristina
+February 19, 2015 at 3:27 AM
+Write this article in another language that is not your native one and then rethink about what you wrote!
+Nehanu. S
+February 21, 2015 at 4:55 PM
+Wi-Fi is certainly less harmful than using cell phones repeatedly on the same part of brain for hundred times. However it is best in everyone interest to limit their access to wifi when they are not using wifi , if possible. One the other hand, I saw in newspaper, about a certain lady who has allergy of electromagnetic radiations to the great extent that she was forced to isolate her house. She often reported falling ill many a times, and it has got me thinking that radiation is something one need to focus their attention. It will go in long way in making us happier , and more fulfilling lives. As the poet correctly said ” Preventation is much certainly better than cure”
+Mise Colopix
+February 26, 2015 at 3:12 AM
+I sleep 30cm from my wifi router(its up my head) and 2x smartphone also for years….now should i turn off my router or not ? I had some problems while sleeping but now i dont have it.Im 14year old
+Arun Kumar
+February 26, 2015 at 2:44 PM
+It would be good if you can turn it off before sleeping. I too turn my WiFi router off before going to sleep. Precautions are good. I have also configured my phone to go into airplane mode when I am sleeping because I too keep it with me all night. If nothing, it will save battery 🙂
+deena
+June 14, 2015 at 12:55 PM
+Arun, thank you for this article. Would you say that a repeater is just as potentially harmful to health as WiFi? My son is begging to add a repeater but interestingly the WiFi install man said not to do it because of health issues. What is your opinion?
+Arun Kumar
+June 14, 2015 at 1:35 PM
+As it picks up weaker signals and boosts them, repeater is also a health issue.
+deena
+June 15, 2015 at 5:04 PM
+thank you, Arun
+Alex Perez
+June 19, 2015 at 11:09 PM
+can i use copper to block these waves? lol
+Fastbikkel
+July 9, 2015 at 11:32 PM
+Wether WIFI is bad or not isn’t really the issue here is it?
+It is about intrusion for me. I did not ask to get the neighbours WIFI into our house, so why should i have to accept that?
+I made a clear choice, no WIFI in our house. Only to discover 12 signals from others that penetrate our walls.
+Why is there no law for that? Some people believe, like me, that radiation is not good for you.
+If we can keep the radiation a matter of choice, it would be much better.
+I do not want the neighbours WIFI, but they can just ignore me.
+So i turned to another option, to look for ways to either render their signal useless or “hack” their system and disable it.
+Fastbikkel
+July 9, 2015 at 11:38 PM
+I also want to know a way to block my neighbours wifi.
+I totally realise there is no way to fully escape radiation and all, but being able to minimise it in our home should be a legal option.
+By legal i mean the neighbours should keep the other neighbours in mind when they turn on their wifi.
+David Gonzalez
+August 29, 2015 at 7:13 AM
+Hello,
+At my
+house, I setup my WiFi router to completely turn off one of the two bands (2.4
+and 5 GHz), and the one that is still working (2.4 GHz), it was reduced the
+power from 100% to 50%, and still have the covering off almost all the house.
+imagine all the radiation we are receiving in excess. Please try this setting according
+to every case. @merpoeste
+Arun Kumar
+August 29, 2015 at 2:31 PM
+Good idea. I have my WiFi at full and the signals are available even when I cross the road. We don’t need that powerful signals. Thanks
+kritikosman
+September 26, 2015 at 3:44 AM
+Nice n4 here.
+Michelle Solfleur
+October 31, 2015 at 4:23 AM
+@Schmendrick What did you think BEFORE you saw his photo?
+Honestly, must the knee jerk teabillies add their xenophobic rants and “me too!” up votes EVERY conversation, no matter the subject?
+The topic was clear and concise and well supported. That is better than most high school grads in the U. S. can manage these days.
+Your personal attack on the author is unacceptable.
+Michelle Solfleur
+October 31, 2015 at 4:56 AM
+Weasel words–very scientific, @smeezekitty. As you consider yourself such an expert, I look forward on your behalf to a day when you are able and perhaps even willing to take a research and statistics 101 class at your local community college.
+In the meantime it is never harmful to assume the person speaking or writing more fluently than you are in a language native only to you deserves to be addressed in a respectful tone, as do most humans.
+Science and statistics are not the absolutes you appear to presume them to be. It is all open to opinion and debate. All of it. This is most true in human bio-physiology and obviously in psychology. As far as Wi-Fi goes, given my training and experience in both disciplines, I will say that I shall never live in a large apartment complex or large city until we know (as much as our infant sciences allow) precisely what is and is not safe.
+We could find out someday that the hideous pandemic of childhood obesity is caused by pituitary or other damage related to “being wireless” from conception forward.
+Michelle Solfleur
+October 31, 2015 at 5:01 AM
+Thank you. Sir, for this excellent article and the good advice you are sharing with us.
+Leslie
+October 31, 2015 at 6:03 AM
+Arun, I am hoping you can help me understand something: am I better off using a wi-fi connection to connect to the internet or a 3G connection? Which one is safer?
+Also, is it safe to live in a place where the WI-FI router is 15 feet away from me? Or is this considered way-to-close-for-comfort (health) safe distance? Thanks so much for any help on this.
+Arun Kumar
+October 31, 2015 at 2:34 PM
+Both WiFi and 3G are based on radio signals and use almost same cellphone towers. It is difficult to say which one is more dangerous. If you use 3G or WiFi on your phone that lies next to you all night, it is a danger. In that case, turn off the WiFi or 3G for the night – on your phone.
+The distance between router and you is good. It won’t harm you. But the computer you are using is with you so it attracts the signals. If not using Internet, it is better to turn off the WiFi on computer.
+Leslie
+October 31, 2015 at 6:20 PM
+Thank you so much. My thinking on this is that 3G and 4G via cell phone towers in the area are a better option, as this way one does not have a WI-FI router close to them in the house. So i’d think that WI-FI is doubly bad, as you have the router within your inhabitants, as well as the street tower it feeds off of, but with 3G/4G just the street tower. Make any sense to you?
+Arun Kumar
+November 1, 2015 at 3:35 PM
+This sounds logical – one extra exposure point is eliminated as you say. Thanks for sharing it.
+Leslie
+November 1, 2015 at 8:10 PM
+Regardless of the radiation/cancer potential as result of cell phone exposure, how credible do you feel the claims are that these EMF’s, cell signals, 3G and 4G services are potentially disrupting cortisol and adrenal levels, attention spans, as well as the integrity of the blood brain barrier?
+smeezekitty
+November 2, 2015 at 12:52 PM
+I love how you make assumptions about my intelligence. I haven’t studied statistics (yet) but I have done quite a bit of self study in electronics in including RF theory. I will probably be taking college courses very soon.
+I never said they were absolute. But the fact is that any credible research shows there is no detrimental effects on humans. I can only go by what most mainstream research indicates over borderline paranoid theories.
+“I will say that I shall never live in a large apartment complex or large
+city until we know (as much as our infant sciences allow) precisely
+what is and is not safe.”
+Then surely you never will since almost nothing is ever proven to be absolutely safe. You are probably better off away from a large city though – the pollutants are definitely not good for humans.
+“We could find out someday that the hideous pandemic of childhood obesity
+is caused by pituitary or other damage related to “being wireless” from
+conception forward.”
+Again, this is highly unlikely. If anything, it is probably chemical in origin (whether our enviroment or our food and drinks)
+Arun Kumar
+November 2, 2015 at 4:13 PM
+Based on research I’ve done on the topic, the equipment that enhances the strength of RF – be if WiFi or cellphone towers – are indeed dangerous to brain and thereby lead to different physical disorders as well. Most exposed people are the ones living directly under cellphone towers. I don’t know how it is in rest of the world but in India, even though there are proven cases of cancers and brain damage, apartment builders often lease out space to cellphone operators for installing their towers. Anyone living in that vicinity is exposed. These people even neglect court orders that no cellphone towers should be placed in residential areas. Distorted sleep, memory retention, attention spans are just few of the negative effects. These, in turn, give rise to physical disorders like tumors and cancers.
+Based on my own study and what I saw, I’d say these are pretty harmful and there should be proper ‘enforceable’ regulations. If you are asking me about the credibility of these claims, I believe in them as I’ve seen direct results of using too much of wireless networks and it is scary to see what a cellphone tower in your residential area can do – especially when regulations are simply ignored. There is a max amplification limit on papers, but it is not implemented. People don’t take the issue seriously as they still doubt it.
+RF is everywhere – in form of cellphone signals, GPS (which in my opinion is least destructive) and simple TV/radio communications. There is no way we can avoid it. But in my opinion, rule makers can do something to reduce long term effects of these harmful waves.
+Leslie
+November 2, 2015 at 6:50 PM
+Well said, and I trust your experience and observations.
+How about listening to the radio while driving? Is this on par with using a cell phone, or not near as bad, in your opinion?
+I may switch to a flip-phone/basic cell phone, that does not use 3G/4G, but I also get the sense from others that this is not even that much safer than these 3G and 4G (iPhone, etc,) devices. Thoughts?
+Ayush Tiwari
+November 3, 2015 at 11:51 PM
+Sir a wifi tower is setup on my roof.there is any risk of any type of cancer
+Arun Kumar
+November 4, 2015 at 2:37 PM
+Towers amplify the signal strength many times and are definitely harmful. I would ask you to talk to the building manager to get it removed.
+Arun Kumar
+November 4, 2015 at 2:42 PM
+Listening to radio is a different thing. As I said, the radio signals are everywhere. We can’t escape. But the strength of radio signals matter. Since the car radio player does not increase the strength of signals, I don’t have problems with them. Same with GPS – except at ground stations but we don’t usually even visit one. They might be of concern to people working at such stations but a general user is unaffected.
+Regarding older models, I’d agree that they do not conform to security standards that came into being later as research on the subject evolved. It might be the same or even more exposure to RF so I’d avoid the older models.
+Ayush Tiwari
+November 4, 2015 at 3:50 PM
+We are living in the same building for two hours.same time about wifi
+Ayush Tiwari
+November 4, 2015 at 5:23 PM
+Sir we are living in same building with2 years.and same about wifi tower
+Arun Kumar
+November 4, 2015 at 7:37 PM
+It is not good. You should talk to the building committee or something that takes care of maintenance there.
+Ayush Tiwari
+November 4, 2015 at 7:49 PM
+I put same question of wifi tower in front of wifi tower’s head.He says that he also set up tower on his roof which contains 20 router(transmitter)
+TWATS
+November 4, 2015 at 8:23 PM
+We shall all die by Wi-Fi….oh well better download as much as we can before we die
+AzKat
+November 23, 2015 at 8:29 PM
+Let’s not forget people:
+1. Wifi’s cancerous rating is b2
+2. Coffee / pickled cucumbers are also b2
+So before you go on a crusade on all wifi / cellphone users, first of all go after the pickled foods and coffee.
+AzKat
+November 23, 2015 at 8:37 PM
+do you drink coffee / eat pickled foods (pickled cucumber / hot pepper) because those are on the exact same cancerous rating as a 5.0ghz wifi, and normally, wifi is broadcasted on 2.4ghz, which is half the danger.
+AzKat
+November 23, 2015 at 8:39 PM
+do you drink coffee / eat pickled foods (pickled cucumber / hot pepper) because those are on the exact same cancerous rating as a 5.0ghz wifi, and normally, wifi is broadcasted on 2.4ghz, which is half the danger. z
+AzKat
+November 23, 2015 at 8:39 PM
+do you drink coffee / eat pickled foods (pickled cucumber / hot pepper) because those are on the exact same cancerous rating as a 5.0ghz wifi, and normally, wifi is broadcasted on 2.4ghz, which is hlf the danger.
+AzKat
+November 23, 2015 at 8:41 PM
+if you are so bent on going on a holy crusade against the vile wifi empire, do bring your crusade to the coffee that you drink each morning, or to the pickled foods you eat, because those are on the same “danger” (it’s not even a danger rating) as the wifi that “intrude” in your house.
+But still, ‘MURICA will be ‘MURICA, so if your feminine instincts still get triggered upon the sight of having 3 available wifi connections in your home, then start putting mirrors all around your house. That or aluminium foil. This, however, will make you look like a total retard / dumbass (you pick, because you’re a citizen and you have rights),
+AzKat
+November 23, 2015 at 8:46 PM
+that just means those schools are run by idiots.
+Fastbikkel
+November 23, 2015 at 11:03 PM
+I could not reply to the thing you sent me, so i will do it here.
+I never used the words vile and crusade at all so please do not try and put words in my mouth.
+It is all about personal preferences here.
+You mentioned coffee as being bad, fine. But i do not force my coffee down your throat do i? THat is my point.
+So please read well next time.
+Thanks, have a great day.
+AzKat
+November 23, 2015 at 11:36 PM
+I didn’t mention coffee as being bad, I said coffee is as dangerous as wifi, if you consider wifi dangerous then you shouldn’t drink coffee.
+As to why my previous post got removed, well it might have to do with the part where I asked you to wrap your house in aluminium foil to not let wifi in, but that would make you look “special”
+Fastbikkel
+November 24, 2015 at 12:52 AM
+😉
+anonymous
+October 11, 2016 at 3:06 PM
+That’s ridiculous.
+There are plenty of laws controlling Wi-Fi and the
+allowed frequency ranges and bandwidths. All of these ensure that only
+Wi-Fi devices that don’t pose a risk to humans and animals are produced
+and used. By trying to “hack” your neighbors’ Wi-Fi routers or interfere
+with their ability to use their network, you are committing a criminal
+offense.
+You said you wanted to keep radiation a matter of choice,
+but is that really what you want? No television, radio, GPS or anything
+else that allows the modern world to function the way it does, simply
+because you are scared of the ridiculously low amounts of radiation that
+have not a single time been proven to have even the slightest effect on
+human health? Have you ever considered police radio, life-critical
+systems, flash flood and tornado warning systems? Have you ever
+considered how many lives these systems save each day? And you want to
+ban them because some of these waves in the air traverse your property?
+Would you also
+ban sound waves? Sure, loud, high-amplitude sounds can be disruptive,
+just like Wi-Fi signals with high amplitudes; but unlike with sounds and
+thanks to our extremely stringent regulations, you won’t be able to
+find these signals anywhere remotely close to your house. Maybe it has
+occurred to you that light is also electromagnetic radiation. How long
+should your neighbors go to prison for if they leave on their lights at
+night, and the light disturbs your sleep? Every sane person would close
+their blinds; would you ban your neighbors from using light?
+I won’t even start talking about natural background radiation; radiation from air, cosmic and terrestrial radiation and the earth’s magnetic field. Maybe you’re only worried when radiation is produced by humans, but, whether natural or not, radiation is not always inherently harmful. Trying to keep all forms of radiation, harmful or not, off your property is completely ridiculous and only demonstrates how out of touch with reality you are.
+anonymous
+October 11, 2016 at 3:20 PM
+Whether it’s faster or more reliable depends on the setup. “More secure” is nonsense for WPA2 Enterprise networks, especially as LAN usually replaces WLAN authentication completely. LAN is certainly not “unjammable” and, trust me, most schools and businesses don’t need the lowest possible latencies to every computer because most people in these organizations will be working, not playing real-time multiplayer games where every millisecond matters, especially if this slightly lower latency comes at the cost of convenience and having to install LAN ports in every imaginable location.
+runningshoes66
+December 21, 2016 at 3:11 AM
+You have to find a way to block it, not disable it.
+Marek
+May 23, 2017 at 7:44 AM
+Is the WiFi Hotspot that you can set up on the mobile phone equally harmful to health as the proper WiFi from a router?
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Comment
+Name *
+Email *
+Website
+Pass the test :)
+2 + 8 =
+Recent Comments
+News Posts on TWCN
+Report says Microsoft Office is the top target for attackers
+Microsoft announces the Xbox One S ‘All-Digital Edition’
+Microsoft announces the availibility of Surface Hub 2S
+CryptoPokemon ransomware decryption tool released
+Microsoft Edge powered by Chromium in Public Preview available for download
+Reviews on TWCR
+PawEditor Review: Easy to use video editing software for Windows PC
+Taskade is a Task Management tool for tasks, notes, and communication
+VeePN VPN Service Review – 10 Devices Under a Single Plan, Affordable Prices
+Movavi Video Editor Plus Review: It will cater to all your video editing needs!
+iLovePDF offers every tool you need to work with PDFs
+Useful Links
+Free Windows Software
+Ransomware Decryption Tools
+The Geeks Club
+TWC Freeware releases
+Windows 10 Problems & Solutions
+Windows 10 Tips and Tricks
+© 2018 The Windows Club All Rights Reserved

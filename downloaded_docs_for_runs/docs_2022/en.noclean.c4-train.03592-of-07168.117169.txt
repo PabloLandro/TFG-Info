@@ -1,0 +1,676 @@
+Methanol (HSG 105, 1997)
+IPCS INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY
+Health and Safety Guide No. 105
+METHANOL
+HEALTH AND SAFETY GUIDE
+UNITED NATIONS ENVIRONMENT PROGRAMME
+INTERNATIONAL LABOUR ORGANISATION
+WORLD HEALTH ORGANIZATION
+WORLD HEALTH ORGANIZATION, GENEVA 1997
+This is a companion volume to
+Environmental Health Criteria 196: Methanol
+Published by the World Health Organization for the International
+Programme on Chemical Safety (a collaborative programme of the United
+Nations Environment Programme, the International Labour Organisation,
+and the World Health Organization) and produced within the framework
+of the Inter-Organization Programme for the Sound Management of
+Chemicals
+WORLD HEALTH ORGANIZATION, GENEVA 1997
+This report contains the collective views of an international group of
+experts and does not necessarily represent the decisions or the stated
+policy of the United Nations Environment Programme, the International
+Labour Organisation, or the World Health Organization.
+WHO Library Cataloguing in Publication Data
+Methanol: health and safety guide.
+(Health and safety guide ; no. 105)
+1.Alcohol, Methyl - toxicity    2.Environmental exposure
+I.Series
+ISBN 92 4 151105 2    (NLM Classification: QV 83)
+ISSN 0259-7268
+The World Health Organization welcomes requests for permission to
+reproduce or translate its publications, in part or in full.
+Applications and enquiries should be addressed to the Office of
+Publications, World Health Organization, Geneva, Switzerland, which
+will be glad to provide the latest information on any changes made to
+the text, plans for new editions, and reprints and translations
+already available.
+(c) World Health Organization 1997
+Publications of the World Health Organization enjoy copyright
+protection in accordance with the provisions of Protocol 2 of the
+Universal Copyright Convention. All rights reserved.
+The designations employed and the presentation of the material in this
+publication do not imply the expression of any opinion whatsoever on
+the part of the Secretariat of the World Health Organization
+concerning the legal status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or
+boundaries.
+The mention of specific companies or of certain manufacturers'
+products does not imply that they are endorsed or recommended by the
+World Health Organization in preference to others of a similar nature
+that are not mentioned. Errors and omissions excepted, the names of
+proprietary products are distinguished by initial capital letters.
+CONTENTS
+INTRODUCTION
+1. PRODUCT IDENTITY AND USES
+1.1. Identity
+1.2. Physical and chemical properties
+1.2.1. Physical properties
+1.3. Analytical methods
+1.4. Production and uses
+2. SUMMARY AND EVALUATION
+2.1. Human exposure to methanol
+2.2. Uptake, metabolism and excretion
+2.3. Effects on organisms in the environment
+2.4. Effects on laboratory animals and  in vitro test systems
+2.5. Effects on humans
+3. CONCLUSIONS
+4. HUMAN HEALTH HAZARDS, PREVENTION AND PROTECTION, EMERGENCY ACTION
+4.1. Human health hazards, prevention and protection, first aid
+4.2. Information for physicians
+4.3. Health surveillance advice
+4.4. Explosion and fire hazards
+4.4.1. Explosion hazards
+4.4.2. Fire hazards
+4.4.3. Prevention
+4.4.4. Fire-extinguishing agents
+4.5. Storage
+4.6. Transport
+4.7. Spillage and disposal
+5. HAZARDS FOR THE ENVIRONMENT AND THEIR PREVENTION
+6. SUMMARY OF CHEMICAL SAFETY INFORMATION
+7. CURRENT REGULATIONS, GUIDELINES AND STANDARDS
+7.1. Exposure limit values
+7.2. Labelling, packaging and transport
+BIBLIOGRAPHY
+INTRODUCTION
+The Environmental Health Criteria (EHC) monographs produced by the
+International Programme on Chemical Safety include an assessment of
+the effects on the environment and on human health of exposure to a
+chemical or combination of chemicals, or physical or biological
+agents. They also provide guidelines for setting exposure limits.
+The purpose of a Health and Safety Guide is to facilitate the
+application of these guidelines in national chemical safety
+programmes. The first three sections of a Health and Safety Guide
+highlight the relevant technical information in the corresponding EHC.
+Section 4 includes advice on preventive and protective measures and
+emergency action; health workers should be thoroughly familiar with
+the medical information to ensure that they can act efficiently in an
+emergency. Within the Guide is a Summary of Chemical Safety
+Information which should be readily available, and should be clearly
+explained, to all who could come into contact with the chemical. The
+section on regulatory information has been extracted from the legal
+file of the International Register of Potentially Toxic Chemicals
+(IRPTC) and from other United Nations sources.
+The target readership includes occupational health services, those in
+ministries, governmental agencies, industry, and trade unions who are
+involved in the safe use of chemicals and the avoidance of
+environmental health hazards, and those wanting more information on
+this topic. An attempt has been made to use only terms that will be
+familiar to the intended user. However, sections 1 and 2 inevitably
+contain some technical terms. A bibliography has been included for
+readers who require further background information.
+Revision of the information in this Guide will take place in due
+course, and the eventual aim is to use standardized terminology.
+Comments on any difficulties encountered in using the Guide would be
+very helpful and should be addressed to:
+The Director
+International Programme on Chemical Safety
+World Health Organization
+1211 Geneva 27
+Switzerland
+THE INFORMATION IN THIS GUIDE
+SHOULD BE CONSIDERED AS A
+STARTING POINT TO A COMPREHENSIVE
+HEALTH AND SAFETY PROGRAMME
+1.  PRODUCT IDENTITY AND USES
+1.1  Identity
+Common name:                  methanol
+Chemical formula:             CH3OH
+Chemical structure:
+H
+'
+H - C - OH
+'
+H
+Relative molecular mass:      32.04
+Common synonyms:              methyl alcohol; methyl carbinol;
+carbinol;  wood alcohol; wood spirits;
+wood naphtha; Columbian spirits;
+Manhattan spirits
+Abbreviations:                None
+CAS registry number:          67-56-1
+RTECS number:                 PC 1400000
+United Nations number:        1230
+EC number:                    603-001-00-X
+Conversion factors:           1 ppm = 1.31 mg/m3;
+1 mg/m3 = 0.763 ppm at 25°C and
+101.4 kPa (760 mmHg)
+1.2  Physical and chemical properties
+Methanol is a colourless, polar, volatile, flammable liquid with
+a mild alcoholic odour when pure. It decomposes on heating producing
+carbon monoxide and formaldehyde. Methanol reacts violently with
+oxidizing materials such as perchlorates, chromium trioxide, bromine,
+sodium hypochlorite, chlorine and hydrogen peroxide resulting in fire
+and explosive mixtures.
+Methanol mixes well with air, easily forming explosive mixtures.
+It is miscible with water, alcohols, esters, ketones and most organic
+solvents and forms many azeotropic mixtures.
+Methanol for laboratory use is available in various purity grades
+for fine chemicals: 1) "synthesis" quality corresponding to normal
+commercial methanol; 2) certified analytical quality and 3) extremely
+pure quality for semiconductor manufacture. In addition to laboratory
+grades, commercial methanol is generally classified according to ASTM
+purity grades A and AA. The composition of methanol varies according
+to synthesis conditions. In addition to water, typical impurities
+include acetone, acetaldehyde, ethanol and higher alcohols, methyl
+formate and higher esters.
+1.2.1  Physical properties
+Melting  point (°C)                -97.8
+Boiling point (°C)                 64.7
+Refractive index n20               1.3284
+Solubility in water                miscible
+Relative density (d 20/4)          0.7915
+Relative vapour density            1.1
+(air= 1)
+Vapour pressure (kPa at 20°C)      12.3
+Ignition temperature (°C)          470
+Explosive limits in air            lower 5.5
+(% by volume)                      upper 44
+Flash-point (°C)
+(open cup)                      15.60
+(closed cup)                    12.20
+1.3  Analytical methods
+For the analysis of production batches of methanol, comparative
+ultraviolet spectroscopy has proved to be a convenient rapid test
+method. Further tests for establishing the quality of methanol include
+measurements of boiling point range, permanganate number, turbidity
+colour index and acid number.
+More comprehensive tests include water determination according to
+the Karl Fischer method and gas chromatographic determination of
+by-products of synthesis. The most important standardized test methods
+for methanol are: ASTM D1078, boiling range; ASTM D1209, colour index;
+ASTM D1353, dry residue; ASTM D1363, permanganate number; ASTM D1364,
+water content; ASTM D1612, acetone content; ASTM D1613, acid content;
+and ASTM D941, density.
+1.4  Production and uses
+Modern industrial-scale methanol production is based exclusively
+on the catalytic conversion of pressurized synthesis gas (hydrogen,
+carbon monoxide and carbon dioxide) in the presence of metallic
+heterogenous catalysts. All carbonaceous materials such as coal, coke,
+natural gas, petroleum and fractions obtained from petroleum (asphalt,
+gasoline and gaseous compounds) can be employed as starting material
+for synthesis gas production.
+The required synthesis pressure is dependent upon the activity of
+the particular metallic catalyst employed with copper-containing zinc
+oxide-alumina catalysts, the most effective employed with low pressure
+processes (50-100 atm) in modern methanol plants. Methanol is purified
+by distillation.
+Prior to 1930, the earliest important source of methanol (wood
+alcohol) was the dry distillation of wood at about 350°C.
+Approximately 70% of the methanol produced worldwide is used in
+chemical synthesis.  The products, in order of importance, are: methyl
+tertiary-butyl ether (MTBE), formaldehyde, acetic acid, methyl
+methacrylate and dimethyl terephthalate.
+Methanol is widely used as an industrial and laboratory solvent
+for extracting, washing, drying and recrystallization.
+Methanol is present in a broad variety of commercial and consumer
+products, including paints, varnishes, shellacs, antifreeze and
+gasoline deicers, windshield washer fluids, cleansing solutions, mixed
+solvents in duplicating machines, and hobby glues and adhesives.
+Only a small proportion of methanol is currently used for energy
+production. There is a potential for its use as an oxygenate for
+alternative fuel or in fuel blends with gasolines.
+2.  SUMMARY AND EVALUATION
+2.1  Human exposure to methanol
+Methanol occurs naturally. It is a natural constituent in blood,
+urine, saliva and expired air. Mean blood methanol levels of about
+0.73 mg/litre in unexposed individuals have been reported. A mean
+level of 0.25 µg methanol/litre is expired by unexposed humans. The
+two most important sources of background body burdens of methanol (and
+its metabolite formate) are diet and metabolic processes.
+Methanol is available in the diet principally from fresh citrus
+fruits and juices, vegetables, fermented beverages and diet foods
+(principally soft drinks) containing the artificial sweetener
+aspartame (which on hydrolysis yields 10% by weight of the molecule to
+free methanol that is available for absorption).
+The general population may be exposed to methanol principally
+from air emissions from miscellaneous industrial and domestic solvent
+use, methanol production, end-product manufacturing and bulk storage
+and handling losses. General population exposures through air are
+currently typically 10 000 times lower than occupational limits.
+Occupational exposure to methanol via inhalation is generally low
+but may be greater in less controlled conditions.  Accidental or
+intentional ingestion of methanol-containing products occurs less
+frequently and is associated with high morbidity and mortality.
+2.2  Uptake, metabolism and excretion
+Methanol is readily absorbed by inhalation, ingestion and dermal
+exposure and is rapidly distributed to tissues according to the
+distribution of body water. A small amount of methanol is excreted
+unchanged by the lungs and kidneys.
+Metabolism of methanol occurs in a three-step process initially
+involving oxidation to formaldehyde by hepatic alcohol dehydrogenase,
+which is a saturable rate-limiting process. In the second step,
+formaldehyde is oxidized by aldehyde dehydrogenase to formic acid or
+formate depending on the pH. In the third step, formic acid is
+detoxified by a folate-dependent pathway to carbon dioxide.
+Elimination of methanol from the blood appears to be slow in all
+species, especially when compared to ethanol. In humans, urinary
+methanol concentrations have been found to be proportional to the
+concentration of methanol in blood.
+Formate clearance from the blood of exposed primates is at least
+50% slower than for rodents.
+2.3  Effects on organisms in the environment
+Methanol is readily degraded in the environment by photooxidation
+and by biodegradation processes. Many genera and strains of
+microorganisms are capable of using methanol as a growth substrate.
+Methanol is readily degradable under both aerobic and anaerobic
+conditions in a broad spectrum of environmental media including fresh
+and salt water, sediments and soils, ground water, aquifer material
+and industrial wastewater.
+Methanol is a normal growth substrate for many soil
+microorganisms, which are capable of completely degrading methanol to
+carbon dioxide and water.
+LC50 values in aquatic organisms range from 1300 to
+15 900 mg/litre for invertebrates (48- and 96-h exposures), and
+13 000 to 29 000 mg/litre for fish (96-h exposure).
+LC50 values in aquatic organisms range from 1300 to
+15 900 mg/litre for invertebrates (48-h and 96-h exposures), and
+13 000 to 29 000 mg/litre for fish (96-h exposures).
+Methanol is of low toxicity to aquatic and terrestrial organisms
+and effects due to environmental exposure to methanol are unlikely to
+be observed, except in the case of spillage.
+2.4  Effects on laboratory animals and in vitro test systems
+Methanol has a low acute toxicity to non-primate animals. The
+LD50 values after oral exposure in the rat, mouse, rabbit and dog
+range from 6200 to 13 000 mg/kg and the MLD value is 2000-7000 mg/kg
+for the monkey.
+Methanol causes profound species-specific toxicity, dependent on
+the extent to which formate accumulates in the body following methanol
+exposure. Sensitive primate species develop increased blood formate
+concentrations following methanol exposure while resistant rodents,
+rabbits and dogs do not.
+Exposure of non-primate laboratory mammals to high methanol doses
+results in CNS depression. Toxic effects found in methanol-exposed
+primates include metabolic acidosis and ocular toxicity, effects not
+normally found in methanol-exposed lower animals.
+Monkeys exposed by inhalation to up to 6550 mg/m3 (5000 ppm)
+methanol 6 h/day, 5 days/week for 4 weeks, showed no treatment-related
+effects. Twenty repeated exposures to 6550 mg/m3 failed to elicit
+optic effects in exposed monkeys.
+The inhalation of methanol by pregnant rodents throughout the
+period of embryogenesis induces a wide range of concentration-
+dependent teratogenic and embryolethal effects.
+Negative findings have been reported in studies investigating
+the ability of methanol to produce gene mutations in bacteria
+( Salmonella typhimurium and E.coli) and yeast ( Saccharomyces
+pombe).  It  induces chromosomal malsegragation in  Aspergillus
+nidulans.
+Methanol does not induce sister chromatid exchanges in Chinese
+hamster cells  in vitro but caused significant increases in mutation
+frequencies in L5178Y mouse lymphoma cells.  Administration by
+inhalation does not induce chromosomal damage in mice, but there is
+some evidence that oral or intraperitoneal administration does.
+There are no adequate studies to assess carcinogenicity.
+2.5  Effects on humans
+Methanol is irritating to the eyes, skin and respiratory tract.
+A broad range of ocular effects have been associated with longer-term
+occupational exposure to lower levels of methanol.  Acute oral and
+inhalation exposures and, to a lesser extent, percutaneous absorption
+of high concentrations of methanol have resulted in central nervous
+system depression, blindness, coma and death.
+Repeated or prolonged contact of methanol with skin may result in
+dermatitis. Liquid methanol defats the skin. It is also an effective
+extracting solvent and may damage the skin permeability barrier.
+Nearly all the information on methanol toxicity in humans relates
+to the consequences of acute rather than chronic exposure and the vast
+majority of poisonings result from the consumption of adulterated
+beverages or methanol-containing products. Although oral ingestion is
+the most frequent route of poisoning, in severe and exceptional
+conditions inhalation of methanol vapour and percutaneous absorption
+of methanolic liquids are also effective in producing acute toxic
+syndrome characterized by metabolic acidosis, central nervous system
+depression, blindness, coma and death.
+The severity of the metabolic acidosis is variable and may not
+correlate well with the amount of methanol ingested. The variability
+of the toxic dose is a prominent feature in methanol toxicity.
+The symptoms of methanol poisoning, which may not appear for 12
+to 24 h, include visual disturbances, nausea, abdominal and muscle
+pain, dizziness, weakness and disturbances of consciousness ranging
+from coma to clonic seizures.
+The lethal dose of methanol for humans is not known for certain,
+but is reported to range from 0.3 to 1 g/kg.  Autopsies from victims
+of lethal methanol poisoning reveal retinal and optic nerve
+degeneration and gross pathology in the visceral organs, lungs and
+central nervous system, involving a variety of oedematous,
+haemorrhagic and degenerative changes.
+Visual disturbances of several types (blurring, constriction of
+the visual field, changes in colour perception and temporary or
+permanent blindness) have been reported in workers exposed to methanol
+air levels in excess of occupational exposure limits.
+No epidemiological data are available to evaluate the
+carcinogenicity of methanol for humans.  Folate-deficient individuals
+might be at greater risk of methanol toxicity compared to normal
+individuals.  Human populations that are potentially at risk of folate
+deficiency include pregnant women, the elderly, alcoholics,
+individuals with poor quality diets and individuals on certain
+medication.
+3. CONCLUSIONS
+The general population may be exposed to very low levels of
+methanol due to emissions in air from its production, end-uses,
+storage and handling, and the broad range of methanol-containing
+products.
+Occupational exposure may occur during the production of methanol
+and its storage and handling, as well as in end-use product synthesis.
+Although the individual responses of humans to methanol may vary
+considerably, industrial exposures are not considered hazardous if
+concentrations are maintained within prescribed occupational exposure
+limits.
+Methanol occurs naturally and is present in the diet.  It can be
+absorbed rapidly by the inhalation, oral and dermal routes and
+distributed in the body, but it is only slowly metabolized to formate
+(which is believed to be the cause of visual damage) and then
+excreted.  Methanol is rapidly degraded in the environment with no
+evidence of bioaccumulation. The available data do not indicate that
+there are any significant effects in the environment.
+4.  HUMAN HEALTH HAZARDS, PREVENTION AND PROTECTION, EMERGENCY ACTION
+4.1  Human health hazards, prevention and protection, first aid
+Methanol vapour and solutions are irritating to the skin and
+eyes. Prolonged or repetitive skin contact can cause dryness, cracking
+and dermatitis.
+Methanol is well absorbed by the inhalation, oral and
+percutaneous routes and can cause metabolic acidosis and damage to the
+central nervous system, optic nerve, retina and liver. The onset of
+symptoms may be delayed following exposure (see Summary of Chemical
+Safety Information, section 6).
+4.2  Information for physicians
+Full information on the diagnosis and treatment of methanol
+poisoning is contained in the IPCS Poisons Information Monograph
+No. 335.
+Thorough and vigorous washing of the skin with water will
+minimize systemic absorption following skin contamination. Gastric
+decontamination should be considered if the patient is seen relatively
+early (e.g., within one hour after ingestion).
+Following ingestion, effects may be delayed and it is important
+to keep the patient under observation. The treatment of poisoning is
+based upon the use of ethanol as antidote, haemodialysis and
+correction of acidosis (by bicarbonate administration). It is
+recommended to contact urgently the nearest poisons information
+centre.
+4.3  Health surveillance advice
+Control of exposure by containment and good working conditions
+and hygiene is most important.
+A complete medical and occupational pre-employment history should
+be taken and a physical examination performed with particular
+attention to the skin, eyes, liver and kidneys.  Pre-existing skin
+disease and a history of alcoholism require a decision as to fitness
+for employment.
+Because the recognized toxic effects of methanol include retinal
+toxicity, optic atrophy and blindness, pre-existing eye disease and
+folic acid deficiency should be identified and used as a baseline for
+future health assessments.
+Subsequent medical examination should be on a regular basis, and
+should also be performed in the event of excessive exposure, splashes
+in the eye or for any employee who develops ocular symptoms while
+working with methanol.
+4.4  Explosion and fire hazards
+4.4.1  Explosion hazards
+Methanol vapour/air mixtures are explosive. Violent reactions of
+methanol can occur with oxidizing agents (see section 1.2).
+4.4.2  Fire hazards
+Methanol is highly flammable and burns with an invisible or light
+blue flame. Methanol may be ignited by heat, sparks or flames and
+vapour may travel to a source of ignition and flash back.
+4.4.3  Prevention
+There should be no ignition sources such as open flames, sparks
+or smoking in the vicinity of methanol storage or use. Contact of
+methanol with oxidants should be avoided. Methanol must be used and
+stored in cool closed systems with adequate ventilation and explosion-
+proof electrical equipment and lighting.
+4.4.4  Fire-extinguishing agents
+Small fires can be fought with dry chemical, carbon dioxide,
+water spray, alcohol-resistant foam or, if these are not available, by
+dilution with plenty of water.
+Large fires can be attacked with water spray, fog or alcohol-
+resistant foam.
+Water spray should be used to cool down containers in fire area.
+4.5  Storage
+Methanol should be stored in clean containers made from either
+mild steel, stainless steel, high density polyethylene or vulcanized
+natural rubber.  Unsuitable container materials include zinc,
+aluminium, magnesium, magnesium alloys, lead, tin, titanium,
+plasticised PVC, polystyrene or polymethyl-methacrylate.  Storage
+tanks should be constructed with an internal floating roof and an
+inert gas pad to minimize vapour emissions.
+Methanol should be stored in well-ventilated areas away from
+direct sunlight and moisture.  It should not be stored with oxidizing
+materials such as perchlorates, chromium trioxide, bromine, sodium
+hypochlorite, chlorine or hydrogen peroxide, owing to fire and
+explosive dangers.
+Because of the flammability of methanol, storage tanks should be
+enclosed by a dike and protected by a foam-type (either carbon dioxide
+or dry chemical) fire-extinguishing system.
+4.6  Transport
+All shipping containers (tank cars, tank trucks, barges, drums
+and barrels) should be of carbon steel and in a clean and dry
+condition prior to loading.
+Air pressure should never be used to load or unload methanol.
+Pumping is preferred but inert gas should be used when pressure
+loading or unloading.
+In case of an accident involving tank trucks or transport
+carrying drums or barrels of methanol, the vehicle should be
+immediately stopped, and all sources of ignition rapidly removed.  In
+case of spillage or fire, methods advised in sections 4.7 and 4.4,
+respectively, should be used.
+4.7  Spillage and disposal
+Evacuate danger area, collect leaking liquid in sealable
+containers, or dike far ahead of liquid spill for later disposal.
+Flush spilled liquids with copious amounts of water and prevent direct
+access of run-off to water courses.
+For relatively small spillages (about 25 litres), the liquid may
+be absorbed onto sand or vermiculite and transferred into suitable
+containers. The site of the spillage should be washed thoroughly with
+water.
+Protective wear, appropriate to the degree of spillage, should
+be worn, and personnel allowed to enter the hazard area only when
+necessary.  Extra personal protection can be achieved by using
+complete protective clothing, including self-contained breathing
+apparatus.
+5.  HAZARDS FOR THE ENVIRONMENT AND THEIR PREVENTION
+Methanol does not pose a significant hazard for aquatic or
+terrestrial life, except in the case of a spillage.  Contamination of
+soil, water and the atmosphere can be avoided by proper methods of
+storage, handling, transport and waste disposal.
+6.  SUMMARY OF CHEMICAL SAFETY INFORMATION
+This summary should be easily available to all health workers
+concerned with, and users of methanol. It should be displayed at or
+near entrances to areas where there is potential exposure to
+methanol, and on processing equipment and containers. The summary
+should be translated into the appropriate language(s). All persons
+potentially exposed to the chemical should also have the
+instructions in the summary clearly explained.
+The National Occupational Exposure Limit, the address and
+telephone number of the nearest Poison Information Centre, and
+local trade names should be added to the summary.
+SUMMARY OF CHEMICAL SAFETY INFORMATION
+METHANOL
+CH3OH
+PHYSICAL PROPERTIES                                                                       OTHER CHARACTERISTICS
+Relative molecular mass                 32.04                                             Flammable liquid; slight alcoholic odour
+Melting point (°C)                      -97.8                                             when pure; crude material may have a
+Boiling point (°C) (760 mmHg)           64.7                                              repulsive pungent odour; burns with
+Flash point (closed up) (°C)            12.2                                              non-luminous blue flame; miscible with
+Ignition temperature (°C)               470                                               water, ethanol, ether, benzene, ketones
+Relative density (20°C)                 0.792                                             and most other organic solvents
+Relative vapour density                 1.1
+Vapour pressure (kPa at 20°C)           12.3
+HAZARDS/SYMPTOMS                        PREVENTION AND PROTECTION                         FIRST AID
+SKIN: Vapour and solutions are          Wear protective gloves and protective clothing    Remove contaminated clothing immediately,
+irritant; irritation, redness                                                             wash contaminated skin thoroughly with
+clear running water and refer for medical
+attention
+EYES: irritation, redness, pain         Ensure vapour concentrations are below            Rinse eyes with plenty of water for at least
+occupational exposure limits; wear chemical       15 min, then obtain medical advice
+safety goggles; use face visor when handling
+solutions
+SUMMARY OF CHEMICAL SAFETY INFORMATION (Con't)
+METHANOL
+CH3OH
+PHYSICAL PROPERTIES                                                                       OTHER CHARACTERISTICS
+INGESTION AND SYSTEMIC                  Do not eat, drink or smoke during work            Do not induce vomiting; obtain medical
+ABSORPTION BY OTHER ROUTES:                                                               attention immediately; the possibility of
+Possibility of delayed CNS, optic                                                         alcohol administration should be considered
+nerve, retina and liver damage
+SPILLAGE                                STORAGE                                           FIRE AND EXPLOSION
+SOLUTIONS:  Evacuate danger area,       Store in cool, fireproof area separated from
+collect leaking liquid in sealable      strong oxidants
+containers, wash away spilled liquid
+with plenty of water
+WASTE DISPOSAL                                                                            LABELLING
+Collect in sealable containers                                                            United Nations Hazard Class; 3
+Subsidiary risks; 6.1
+Packing group; 11
+7.  CURRENT REGULATIONS, GUIDELINES AND STANDARDS
+7.1  Exposure limit values
+Some exposure limit values are given in the accompanying table.
+7.2  Labelling, packaging and transport
+UN:  UN Hazard Class: 3
+UN Subsidiary Risks: 6.1
+UN Packing Group: 11
+EU:  The European Union legislation requires labelling as a
+dangerous substance, using the designated symbols.
+The following standard risk phrases should be used:
+F symbol, T symbol
+R: 11-23/25
+S: 2-7-16-24
+CURRENT REGULATIONS, GUIDELINES AND STANDARDS
+Exposure Limit Values
+Medium    Specification  Country/organization     Exposure limit description              Value        Effective date
+(mg/m3)
+AIR       Occupational   Australia                Time-weighted  average (TWA)            260
+(skin absorption)
+Short-term exposure limit (STEL)        310
+(Skin absorption)
+Belgium                  Time-weighted average (TWA)             262
+(Skin absorption)
+Short-term exposure limit (STEL)        328
+(skin absorption)
+Czech                    Time-weighted average (TWA)             100
+Republic                 Short-term exposure limit (STEL)        500
+Denmark                  Time-weighted average (TWA)             260            1988
+(skin absorption)
+Finland                  Time-weighted average (TWA)             260
+(skin absorption)
+Short-term exposure limit (STEL)        325
+France                   Time-weighted average (TWA)             260            1982-1989
+Short-term exposure limit (STEL)        1300
+Germany                  Time-weighted average (TWA)             260            1990
+(skin absorption)
+CURRENT REGULATIONS, GUIDELINES AND STANDARDS (Con't)
+Exposure Limit Values
+Medium    Specification  Country/organization     Exposure limit description              Value        Effective date
+(mg/m3)
+Hungary                  Time-weighted average (TWA)             50
+(skin absorption)
+Short-term exposure limit (STEL)        100
+(skin absorption)
+Ireland                  Time-weighted average (TWA)             262
+(skin absorption)
+Short-term exposure limit (STEL)        328
+(skin absorption)
+Italy                    Time-weighted average limit (STEL)      262
+(skin absorption)
+Short-term exposure limit (STEL)        328
+(skin absorption)
+Japan                    Time-weighted average (TWA)             260
+(skin absorption)
+Luxembourg               Time-weighted average (TWA)             262
+(skin absorption)
+Short-term exposure limit (STEL)        328
+(skin absorption)
+Netherlands              Time-weighted average (TWA)             260            1989
+CURRENT REGULATIONS, GUIDELINES AND STANDARDS (Con't)
+Exposure Limit Values
+Medium    Specification  Country/organization     Exposure limit description              Value        Effective date
+(mg/m3)
+Poland                   Time-weighted average (TWA)             100
+Portugal                 Time-weighted average (TWA)             262
+(skin absorption)
+Short-term exposure limit (STEL)        328
+(skin absorption)
+Spain                    Time-weighted average (TWA)             262
+(skin absorption)
+Short-term exposure limit (STEL)        328
+(skin absorption)
+Sweden                   Time-weighted average (TWA)             250
+(skin absorption)
+Short-term exposure limit (STEL)        350
+(skin absorption)
+Switzerland              Time-weighted average (TWA)             260
+(skin absorption)
+Short-term exposure limit (STEL)
+(skin absorption)                       520
+United                   Time-weighted average (TWA)             260            1990
+Kingdom                  (skin absorption)
+Short-term exposure limit (STEL)        310
+(skin absorption)
+CURRENT REGULATIONS, GUIDELINES AND STANDARDS (Con't)
+Exposure Limit Values
+Medium    Specification  Country/organization     Exposure limit description              Value        Effective date
+(mg/m3)
+USA                      Time-weighted average (TWA)             262            1989-
+(ACGIH)                  (skin absorption)                                      1990
+Short-term exposure limit (STEL)        328
+(skin absorption)
+USA                      Time-weighted average (TWA)             260
+(NIOSH/OSHA)             (skin absorption)
+Short-term exposure limit (STEL)        310
+(skin absorption)
+Former                   Time-weighted average (TWA)
+USSR                     (skin absorption)
+Short-term exposure limit (STEL)        5
+(skin absorption)
+BIBLIOGRAPHY
+ACGIH (1993-1994) Threshold limit values for chemical substances and
+physical agents and biological exposure indices. Cincinnati, American
+Conference of Governmental Industrial Hygienists.
+CEC (1983) Occupational Health Guidelines for Chemical Risk, Publ.
+No. EUR 8513. Luxembourg, Commission of the European Communities,
+pp 88-89.
+CEC (1988) Solvents in common use. Health risks to workers. Commission
+of the European Communities. Cambridge, Royal Society of Chemistry,
+Publ. No. EUR 11553, pp 1-7, 157-186.
+CEC/IPCS (1990) International Chemical Safety Card 57: Methanol.
+Luxembourg, Commission of the European Communities.
+Clayton GD & Clayton FE (1994) Patty's industrial hygiene and
+toxicology. 4th ed., Vol.II, Part D., New York, Wiley-Interscience,
+John Wiley & Sons.
+Elvers B, Hawkins S & Schulz G eds. (1990) Ullmann's Encyclopedia of
+industrial chemistry. 5th ed., Vol. A16. Weinheim, VCH, pp 465-486.
+Grayson M ed. (1981) Kirk Othmer Encyclopedia of chemical technology,
+3rd ed., Vol. 15. New York, John Wiley & Sons, pp 398-405.
+Kavet R & Nauss KM (1990) The toxicology of inhaled methanol vapours.
+CRC Crit Revs Toxicol, 21: 21-52.
+Klassen CD, Amdur MO, & Doull J ed. (1986) Casarett and Doull's
+Toxicology. 3rd ed., New York, Macmillan Publishing Company.
+pp 503-504, 652-654.
+ILO (1983) Parmeggiani L ed., Encylopedia of occupational health and
+safety. 3rd revised ed., Vol. 2, (L-Z). Geneva, International Labour
+Office, pp 1356-1358.
+ILO (1991) Occupational exposure limits for airborne toxic substances.
+3rd ed., Geneva, International Labour Office, pp 256-258.
+IPCS (1995) Methanol: Poisons Information Monograph No. 335. Geneva,
+International Programme on Chemical Safety.
+IPCS (1997) Environmental Health Criteria:  Methanol. Geneva, World
+Health Organization.
+Sax NI (1984) Dangerous properties of industrial materials, 6th
+edition. New York, Van Nostrand Reinhold Company, Inc, pp 1764-1765.
+US NIOSH/OSHA (1985) Pocket guide to chemical hazards. Washington DC,
+US Department of Health and Human Services, US Department of Labor
+(Publication No. 85.114).
+See Also:
+Toxicological Abbreviations
+Methanol (EHC 196, 1997)
+Methanol (ICSC)
+Methanol (FAO Nutrition Meetings Report Series 48a)
+METHANOL (JECFA Evaluation)
+Methanol (PIM 335)

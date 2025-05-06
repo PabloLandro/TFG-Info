@@ -1,0 +1,98 @@
+7 Facts about Grapefruits That You Should Know ...
+7 Facts about Grapefruits That You Should Know ...
+By Eliza Martinez
+Jan 25, 2014 {{#likes_count}}
+{{likes_count}} likes
+{{/likes_count}} {{#comments_count}}
+{{comments_count}} comments
+{{/comments_count}}
+¢erdot; 163 likes
+6 comments
+There are a lot of facts about grapefruits that you should know before adding them to your diet. Granted, they’re great for a weight loss diet, but these little citrus fruits have a lot of information surrounding them too. Understanding everything there is to know about the fruit is a great way to be sure they’re the right choice for your meal plan. Check out the following facts about grapefruits and you’ll know everything there is to know.
+1. They Come in Lots of Colors
+The most common color of grapefruits you find in supermarkets is pink, but that’s not the only hue they come in. There is such a thing as yellow, white and red grapefruits too. Their flavors aren’t too different – they’re all tangy and sweet – so don’t be afraid to try these too, if that’s all there is on store shelves. Read on to find more interesting facts about grapefruits.
+2. They’re Loaded with Vitamin C
+Imagine getting all the vitamin C you need before your day even gets going. Half a grapefruit contains all the vitamin C you need for an entire 24-hour period, so it really pays to add them to your morning routine now and then. Simply slice the fruit in half and use a spoon to scoop out the sections. You can also broil the fruit with a bit of brown sugar for a sweet dessert to round out your day.
+3. They’ve Got Fiber
+Fiber is what fills you up and helps keep you from getting hungry between meals. That makes grapefruit a great choice for any meal. It has some fiber to help satisfy your appetite and keep you from reaching for junky snacks because you get hungry. Add a half grapefruit to breakfast, for sure, but don’t write it off as a healthy addition to your lunch or dinner meal either. You can segment the fruit and toss it into a salad. Yum!
+4. The Juice Can Interfere with Medications
+This is probably a fact you hadn’t heard before. Drinking grapefruit juice can alter the potency of some medications, increasing the risk of an overdose. In some cases, the juice can also make medications less effective. If you’re on any prescribed medications, it’s a good idea to talk to your doctor about whether grapefruit is a healthy choice for you.
+5. It’s Very Low in Calories
+You know calories – those pesky things that can make it hard to shed unwanted pounds and might even have you piling them on if you eat too many. If you’re watching your calorie intake, grapefruits are the perfect choice for your diet. They contain under 40 calories per half. Combined with the fiber in grapefruits, this sweet little fruit is the perfect meal choice.
+6. They’re Fat Free
+When it comes to weight loss, calories play a huge role, but so does fat. Fat contains 9 calories per gram, so eat too much of it and the chances of gaining weight go up. Grapefruits are fat free, so you can go ahead and eat them without any guilt!
+7. They’ve Also Got Vitamin a
+Vitamin A is vital for your immune system and it’s also an antioxidant that fights the free radical damage that can lead to a range of health problems, including cancer. Each half contains over 300 IU of this nutrient, so you can really add to your daily intake totals when you eat.
+Did you learn something new about grapefruits? They taste so good in the morning – I could eat one every day. Will you try one now?
+{{#comments_count}} Show Commnents ({{comments_count}}) {{/comments_count}}
+Show Commnents (6)
+free radical damage
+weight loss diet
+Read More
+7 Essential Principles of Kwanzaa That You Should Know about ...
+A Mother's Guide to a Good Meal-prepped Breakfast ...
+Why Your Salad Isn't as Healthy as It Could Be ...
+Which Are the Healthiest Nuts?
+7 Fabulous Ways to Fight Fat with Food ...
+7 Celebrity Weight Loss Tips We Can All Benefit from ...
+Cash-strapped Girls Rejoice for This Easter Dinner for 6 for under $30 ...
+Why You Should Eat Sea Salt Instead of Table Salt ...
+7 Reasons to Cut out Soda ...
+7 Soft Summery Scents for Evening ...
+Trending
+{{#posts}}
+{{n}}
+{{title}}
+{{/posts}}
+Follow
+Love
+Hair
+Makeup
+Beauty
+Skincare
+Weightloss
+Love
+Hair
+Makeup
+Beauty
+Skincare
+Weightloss
+Fashion
+Lifestyle
+Health
+Fitness
+DIY
+Inspiration
+Food
+Diet
+Funny
+Music
+Cooking
+Nails
+Apps
+Money
+Travel
+Shoes
+Movies
+Books
+Streetstyle
+Bags
+Celebs
+Running
+Jewelry
+Perfumes
+Wedding
+Parenting
+Gardening
+Teen
+Type keyword(s) to search
+allwomenstalk
+Privacy Policy
+Terms of Use
+Site Map
+©2019 Allwomenstalk.com, Inc. All Rights Reserved.
+Comments:
+{{#comments}}
+{{{content}}}
+{{{user.display_name}}}
+{{/comments}}

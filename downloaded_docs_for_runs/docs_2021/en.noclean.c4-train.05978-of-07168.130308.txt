@@ -1,0 +1,178 @@
+Zinc - wikidoc
+Zinc
+Jump to:	navigation, search
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1]
+30 copper ← zinc → gallium
+-
+↑
+Zn
+↓
+Cd
+Periodic table - Extended periodic table
+General
+Name, symbol, number zinc, Zn, 30
+Chemical series transition metals
+Group, period, block 12, 4, d
+Appearance bluish pale gray
+Standard atomic weight 65.409(4) g·mol−1
+Electron configuration [Ar] 3d10 4s2
+Electrons per shell 2, 8, 18, 2
+Physical properties
+Phase solid
+Density (near r.t.) 7.14 g·cm−3
+Liquid density at m.p. 6.57 g·cm−3
+Melting point 692.68 K
+(419.53 °C, 787.15 °F)
+Boiling point 1180 K
+(907 °C, 1665 °F)
+Heat of fusion 7.32 kJ·mol−1
+Heat of vaporization 123.6 kJ·mol−1
+Heat capacity (25 °C) 25.390 J·mol−1·K−1
+Vapor pressure
+P/Pa 1 10 100 1 k 10 k 100 k
+at T/K 610 670 750 852 990 (1185)
+Atomic properties
+Crystal structure hexagonal
+Oxidation states 2
+(amphoteric oxide)
+Electronegativity 1.65 (Pauling scale)
+Ionization energies
+(more) 1st: 906.4 kJ·mol−1
+2nd: 1733.3 kJ·mol−1
+3rd: 3833 kJ·mol−1
+Atomic radius 135 pm
+Atomic radius (calc.) 142 pm
+Covalent radius 131 pm
+Van der Waals radius 139 pm
+Miscellaneous
+Magnetic ordering diamagnetic
+Electrical resistivity (20 °C) 59.0 nΩ·m
+Thermal conductivity (300 K) 116 W·m−1·K−1
+Thermal expansion (25 °C) 30.2 µm·m−1·K−1
+Speed of sound (thin rod) (r.t.) (rolled) 3850 m·s−1
+Young's modulus 108 GPa
+Shear modulus 43 GPa
+Bulk modulus 70 GPa
+Poisson ratio 0.25
+Mohs hardness 2.5
+Brinell hardness 412 MPa
+CAS registry number 7440-66-6
+Selected isotopes
+Main article: Isotopes of zinc
+iso
+NA
+half-life
+DM
+DE (MeV)
+DP
+64Zn 48.6% Zn is stable with 34 neutrons
+65Zn syn 244.26 d ε - 65Cu
+γ 1.1155 -
+66Zn 27.9% Zn is stable with 36 neutrons
+67Zn 4.1% Zn is stable with 37 neutrons
+68Zn 18.8% Zn is stable with 38 neutrons
+69Zn syn 56.4 min β− 0.906 69Ga
+70Zn 0.6% Zn is stable with 40 neutrons
+References
+This box: view • talk • edit
+Overview
+Zinc (pronounced /ˈzɪŋk/) is a metallic chemical element with the symbol Zn and atomic number 30. In some historical and sculptural contexts, it is (or was) known as spelter.
+Notable characteristics
+Zinc is a moderately reactive, blue gray metal that tarnishes in moist air and burns in air with a bright bluish-green flame, giving off plumes of zinc oxide. It reacts with acids, alkalis and other non-metals. If not completely pure, zinc reacts with dilute acids to release hydrogen. The one common oxidation state of zinc is +2. From 100 °C to 210 °C (212 °F to 410 °F) zinc metal is malleable and can easily be beaten into various shapes. Above 210 °C (410 °F), the metal becomes brittle and will be pulverized by beating. Zinc is nonmagnetic.
+Biological role
+Zinc is an essential element, necessary for sustaining all life. It is estimated that 3,000 of the hundreds of thousands of proteins in the human body contain zinc prosthetic groups, one type of which is the so-called zinc finger. In addition, there are over a dozen types of cells in the human body that secrete zinc ions, and the roles of these secreted zinc signals in medicine and health are now being actively studied. Zinc ions are now considered neurotransmitters. Cells in the salivary gland, prostate, immune system and intestine are other types that secrete zinc.
+Zinc is an activator of certain enzymes, such as carbonic anhydrase. Carbonic anhydrase is important in the transport of carbon dioxide in vertebrate blood. It is also required in plants for leaf formation, the synthesis of indole acetic acid (auxin) and anaerobic respiration (alcoholic fermentation).
+Food sources
+Zinc is found in oysters, and to a far lesser degree in most animal proteins, beans, nuts, almonds, whole grains, pumpkin seeds and sunflower seeds.[1] A turkey's neck and beef's chuck or shank also contain good amounts of zinc. Phytates, which are found in whole grain breads, cereals, legumes and other products, have been known to decrease zinc absorption. Clinical studies have found that zinc, combined with antioxidants, may delay progression of age-related macular degeneration.[2] Significant dietary intake of zinc has also recently been shown to impede the onset of flu. Soil conservation analyzes the vegetative uptake of naturally occurring zinc in many soil types.
+The (US) recommended dietary allowance of zinc from puberty on is 11mg for males and 8mg for females, with higher amounts recommended during pregnancy and lactation.
+Zinc deficiency
+Zinc deficiency results from inadequate intake of zinc, or inadequate absorption of zinc into the body. Signs of zinc deficiency include hair loss, skin lesions, diarrhea, and wasting of body tissues. Eyesight, taste, smell and memory are also connected with zinc. A deficiency in zinc can cause malfunctions of these organs and functions. Congenital abnormalities causing zinc deficiency may lead to a disease called Acrodermatitis enteropathica.
+Obtaining a sufficient zinc intake during pregnancy and in young children is a very real problem, especially among those who cannot afford a good and varied diet. Brain development is stunted by zinc insufficiency in utero and in youth.
+It is rarely recognised that lack of zinc can contribute to acne. Leukonychia, purple spots on the fingernails, are often seen as an indication of zinc deficiency.
+Zinc deficiency as a cause of anorexia nervosa
+Main article: Anorexia nervosa
+Zinc deficiency causes a decrease in appetite -- which could degenerate in anorexia nervosa (AN). Appetite disorders, in turn, cause malnutrition and, notably, inadequate zinc intake. The use of zinc in the treatment of anorexia nervosa has been advocated since 1979 by Bakan. At least 15 trials showed that zinc improved weight gain in anorexia. A 1994 randomized, double-blind, placebo-controlled trial showed that zinc (14 mg per day) doubled the rate of body mass increase in the treatment of anorexia nervosa (AN). Deficiency of other nutrients such as tyrosine and tryptophan (precursors of the monoamine neurotransmitters norepinephrine and serotonin, respectively), as well as vitamin B1 (thiamine) could contribute to this phenomenon of malnutrition-induced malnutrition.[3]
+Zinc toxicity
+Even though zinc is an essential requirement for a healthy body, too much zinc can be harmful. Excessive absorption of zinc can also suppress copper and iron absorption. The free zinc ion in solution is highly toxic to plants, invertebrates, and even vertebrate fish. The Free Ion Activity Model (FIAM) is well-established in the literature, and shows that just micromolar amounts of the free ion kills some organisms. A recent example showed 6 micromolar killing 93% of all daphnia in water.[4] Swallowing a post 1982 American one cent piece (97.5% zinc) can also cause damage to the stomach lining due to the high solubility of the zinc ion in the acidic stomach.[5] Zinc toxicity, mostly in the form of the ingestion of US pennies minted after 1982, is commonly fatal in dogs where it causes a severe hemolytic anemia.[6] In pet parrots zinc is highly toxic and poisoning can often be fatal[7].
+There is evidence of induced copper deficiency at low intakes of 100–300 mg Zn/d. The USDA RDA is 15 mg Zn/d. Even lower levels, closer to the RDA, may interfere with the utilization of copper and iron or to adversely affect cholesterol.[8].
+Immune system
+See also: Zinc gluconate
+Zinc salts are effective against pathogens in direct application. Gastroenteritis is strongly attenuated by ingestion of zinc, and this effect could be due to direct antimicrobial action of the zinc ions in the GI tract, or to absorption of the zinc and re-release from immune cells (all granulocytes secrete zinc), or both.[9][10]
+In clinical trials, both zinc gluconate and zinc gluconate glycine (the formulation used in lozenges) have been shown to shorten the duration of symptoms of the common cold.[11] The amount of glycine can vary from two to twenty moles per mole of zinc gluconate.
+Compounds
+Zinc oxide is perhaps the best known and most widely used zinc compound, as it makes a good base for white pigments in paint. It also finds industrial use in the rubber industry, and is sold as opaque sunscreen. A variety of other zinc compounds find use industrially, such as zinc chloride (in deodorants), zinc pyrithione (anti-dandruff shampoos), zinc sulfide (in luminescent paints), and zinc methyl or zinc diethyl in the organic laboratory. Roughly one quarter of all zinc output is consumed in the form of zinc compounds.
+Precautions
+Metallic zinc is not considered to be toxic, but free zinc ions in solution (like copper or iron ions) are highly toxic. There is also a condition called zinc shakes or zinc chills (see metal fume fever) that can be induced by the inhalation of freshly formed zinc oxide formed during the welding of galvanized materials. Excessive intake of zinc can promote deficiency in other dietary minerals.
+References
+Los Alamos National Laboratory - Zinc
+WebElements.com – Zinc
+↑ "Zinc content of selected foods per common measure" (pdf). USDA National Nutrient Database for Standard Reference, Release 20. USDA. Retrieved 2007-12-06.
+↑ "Age-Related Eye Disease Study Research Group". www.pubmed.gov. Retrieved 2007-11-13.
+↑ "Neurobiology of Zinc-Influenced Eating Behavior". Retrieved 2007-07-19.
+↑ Muyssen et al., (Aquat Toxicol. 2006)
+↑ Bothwell and Mair, PEDIATRICS 2003
+↑ Stowe CM, Nelson R, Werdin R, et al: Zinc phosphide poisoning in dogs. JAVMA 173:270, 1978
+↑ See, for example, this list of common parrot illnesses and their causes.
+↑ Zinc toxicity by GJ Fosmire, American Journal of Clinical Nutrition.
+↑ Aydemir, T, B.; Blanchard, R.K.; Cousins, R.J (2006). "Zinc Supplementation of Young Men Alters Metallothionein, Zinc Transporter, and Cytokine Gene Expression in Leucocyte Populations". PNS. 103 (3): 1699–1704. CS1 maint: Multiple names: authors list (link)
+↑ Valko, M; Morris, H.; Cronin, MTD (2005). "Metals, Toxicity and Oxidative stress". Current Medicinal Chemistry (12): 1161–1208. CS1 maint: Multiple names: authors list (link)
+↑ Godfrey JC, Godfrey NJ, Novick SG. (1996). "Zinc for treating the common cold: Review of all clinical trials since 1984". PMID 8942045. CS1 maint: Multiple names: authors list (link)
+External links
+Reducing Agents > Zinc
+Outline safety data for zinc
+af:Sink ar:خارصين ast:Cinc az:Sink zh-min-nan:Zn (goân-sò͘) be:Цынк bs:Cink bg:Цинк ca:Zinc cs:Zinek co:Zingu cy:Sinc da:Zink de:Zink et:Tsink el:Ψευδάργυρος eo:Zinko fa:روی fur:Zinc ga:Sinc gl:Cinc ko:아연 hy:Ցինկ hi:वङ्गम् hr:Cink io:Zinko id:Seng is:Sink it:Zinco he:אבץ sw:Zinki ht:Zenk ku:Çînko la:Zincum lv:Cinks lt:Cinkas jbo:zinki hu:Cink mk:Цинк ml:നാകം mi:Konutea mr:झिंक mn:Цайр nl:Zink (element) new:जिन्क no:Sink nn:Sink oc:Zinc uz:Rux nds:Zink qu:Tsinku scn:Zincu simple:Zinc sk:Zinok sl:Cink sr:Цинк sh:Cink fi:Sinkki sv:Zink th:สังกะสี (ธาตุ) tg:Руҳ uk:Цинк ur:خارصین zh-yue:鋅
+Retrieved from "https://www.wikidoc.org/index.php?title=Zinc&oldid=728479"
+Categories:
+CS1 maint: Multiple names: authors list
+Chemical elements
+Dietary minerals
+Reducing agents
+Zinc
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms | Physical Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Create a Page | Edit a Page | Upload a Picture or File | Printable version | Maintain Pages | What Pages Link Here | Quality Improvement
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance | Licensing | Disclaimers | Avoid Plagiarism | Policies
+Tweet Follow @wikidoc
+Navigation menu
+Personal tools
+Talk
+Contributions
+Log in
+Request account
+Namespaces
+Home
+Page
+Discussion
+Variants
+Views
+Read
+View source
+View history
+Help
+More
+Search
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Browse properties
+In other languages
+Español
+Français
+日本語
+Polski
+Português
+Română
+Русский
+Tiếng Việt
+Türkçe
+中文
+This page was last edited 16:04, 6 September 2012 by wikidoc user WikiBot. Based on work by Cafer Zorkun, Jacki Buros (bot), Scott Williams, Alexandra Almonacid and Heather Mangan and wikidoc anonymous users Van helsing, ClueBot and Ctjf83.
+Content is available under Creative Commons Attribution/Share-Alike License unless otherwise noted; All rights reserved on Board Review content.
+Privacy policy
+About wikidoc
+Disclaimers
+Mobile view

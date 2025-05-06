@@ -1,0 +1,517 @@
+HIV’s unusual family tree
+Home
+Hutch News
+HIV’s unusual family tree
+Share Hutch News
+HIV’s unusual family tree
+How the virus leapt from monkeys to chimps to humans, and why it doesn’t happen more often
+Sept. 25, 2015
+|
+By Dr. Rachel Tompa / Fred Hutch News Service
+A new study on the evolutionary biology of HIV, SIV and chimp genes by Fred Hutch virologist Dr. Michael Emerman sheds light on how a critical immune blockade may have been breached, just once, to allow the HIV precursor to leap from monkeys to chimps.
+Photo courtesy of FeaturePics
+When epidemiologists talk about HIV, the numbers are staggering. An estimated 34 million people around the world were living with HIV in 2011, according to a report from the United Nations.
+But evolutionary biologists are concerned with smaller figures.
+Two: the number of HIV precursor strains that merged their genetic material inside a chimpanzee to create a much more virulent bug, deadly to chimps — and which ultimately spawned HIV.
+One: the unfortunate chimp first infected with that new virus, known as simian immunodeficiency virus cpz, or SIVcpz.
+Four: the number of times HIV jumped from chimp to human. HIV likely arose from blood contact when humans handled bushmeat from SIV-infected apes.
+In some ways it’s surprising that HIV’s chimp precursor hasn’t cropped up more often, said Fred Hutchinson Cancer Research Center virologist Dr. Michael Emerman.
+The birth of SIVcpz “was a very unusual event, because it only happened one time that we know of in evolutionary history,” said Emerman, who studies the viral, chimp and human evolutionary steps that ultimately allowed HIV to come into the world. “And we know that there are lots of exposures, because chimpanzees eat a lot of monkeys and a lot of these monkeys have their own version of these SIVs.”
+In a study published Tuesday in the journal PLOS Pathogens, Emerman and his colleagues describe their findings on the chimp genes that may normally protect chimps from monkey-borne SIVs — and could be the critical immune blockade that was breached only once, when SIVcpz arose. Emerman led the study along with Dr. Lucie Etienne, a former Fred Hutch postdoctoral fellow who now leads a virology research team at the International Center for Infectiology Research in Lyon, France.
+Fred Hutch's Dr. Michael Emerman studies the viral, chimp and human evolutionary steps that ultimately allowed HIV to come into the world.
+Fred Hutch file photo
+It’s important to understand the protection these genes provide — and why it failed one fateful time — because chimps are our closest relatives and because SIVcpz is very similar to HIV. Once chimps were infected, it was a short hop, evolutionarily speaking, to HIV in humans.
+Identifying the chimp genes that protect those animals from contracting other HIV-like viruses will help us understand humans’ strengths and weaknesses against HIV — and which natural monkey viruses may have the potential to spawn new human epidemics, Emerman said.
+Of viruses old and new
+Chimps naturally prey on a variety of monkeys, and there are several other kinds of monkey viruses (such as simian foamy virus) which easily pass from prey to predator. So there must be something special about SIV — or, more specifically, about chimps’ immune response to SIV — that makes that virus less likely to jump from monkey to ape.
+At least 40 species of African monkeys are infected with their own, specialized strains of SIV — and have been for upwards of 10 million years, Emerman said.
+SIVcpz and HIV are much newer. The chimp virus arose somewhere between 1,000 and 20,000 years ago. HIV is only about 100 years old — a mere bud on the viral family tree compared to its predecessors.
+Viruses’ age tells us something about how pathogenic, or disease-causing, they are. Monkeys and their SIVs have had millions of years of co-existence and live in relative harmony.
+SIVs "have been in the monkeys long enough that the hosts have now adapted to tolerate those viruses,” Emerman said. “They don’t cause disease like (HIV does) in humans.”
+HIV’s very young age may explain why it’s so virulent in humans: We’re in the rocky phase of our evolutionary relationship with the virus. However, chimps also get sick from their version of SIV, so even another several thousand years’ time won’t fix our relationship problems.
+Attack and counterattack
+To better understand why chimps were infected only once with SIV, the researchers concentrated on a pair of genes — one viral, one chimp. Emerman and Etienne teamed up with the University of Pennsylvania’s Dr. Beatrice Hahn, the virologist responsible for originally uncovering HIV’s chimpanzee origins. In a previous study, the team found that mutations in one SIV gene, known as vif, were the key that allowed the virus to slip through chimps’ immune defenses.
+In their current study, the group looked at the chimpanzee immune defense genes known as the APOBEC3 gene family, the genes that vif evolved to target. Proteins encoded by APOBEC3 genes are able to protect human (or chimpanzee) cells from some viruses, but viruses such as HIV and SIV use the Vif protein to counterattack, causing the host’s cells to destroy their own APOBEC3 proteins and rendering them more susceptible to infection.
+Vif from HIV, of course, is able to overcome our own defenses. And SIVcpz Vif can bypass chimpanzee blockades. The researchers engineered HIV to contain a variety of vif genes and then looked at the virus’ ability to infect human or chimpanzee cells containing different chimp APOBEC3 proteins.
+They found that the chimp APOBEC3 family could block infection from HIV containing vifs from 10 different monkey species, including those the chimp feeds on in the wild, but not vif from SIVcpz — the virus that naturally infects chimpanzees. One of the chimp proteins, APOBEC3G, had the strongest antiviral powers, but some of the other APOBEC3 proteins also blocked infection.
+Those findings suggest that this family of potent antiviral genes is likely the reason that SIV has not made the leap from monkey to chimp more than once, the researchers wrote.
+Having several different APOBEC3 genes in this large antiviral family “contributes to a better protection of the host, as the incoming virus would need to adapt and counteract diverse opponents,” Etienne said.
+Understanding the interplay between vif and APOBEC3 “helps us better understand which viruses may be more prone to cross the species barrier to humans,” Etienne said. With the knowledge uncovered by this study, researchers could test vif genes from more African monkeys to understand whether any of those SIVs may be close to broaching our immune defenses. And knowing more about our natural defenses to HIV and other viruses could help researchers design better antiviral drugs to help our bodies combat them, she said.
+Rachel Tompa is a former staff writer at Fred Hutchinson Cancer Research Center. She has a Ph.D. in molecular biology from the University of California, San Francisco and a certificate in science writing from the University of California, Santa Cruz. Follow her on Twitter @Rachel_Tompa.
+Are you interested in reprinting or republishing this story? Be our guest! We want to help connect people with the information they need. We just ask that you link back to the original article, preserve the author’s byline and refrain from making edits that alter the original context. Questions? Email us at communications@fredhutch.org
+Share
+Tags: Basic Sciences, evolution, Evolutionary Genetics, hiv, HIV AIDS, Human Biology, simian immunodeficiency virus, viral evolution, Viruses
+Similar stories
+Science looks before viruses leap
+What a semi-nomadic ethnic group — and their performing monkeys — can teach us about how viruses jump from animals to humans
+June 15, 2015
+How babies may help researchers build a better HIV vaccine
+Data from a study done 20 years ago on maternal-infant HIV transmission give clues that could lead to better HIV vaccine design
+April 9, 2015
+News releases
+Media coverage
+Find a researcher
+Contact us
+Subscribe to RSS
+(RSS feeds are best viewed in browsers other than Chrome)
+Editor's Picks
+Is it possible to prevent breast cancer metastasis?
+Could a simple blood test replace the invasive tissue biopsy?
+Q&A: A new focus on small cell lung cancer
+GIVE NOW &
+SAVE LIVES
+Support our quest for cures
+Story Archive
+▲
+2019
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2018
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2017
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2016
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2015
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2014
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2013
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2012
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2011
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2010
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2009
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2008
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2007
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2006
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2005
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2004
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2003
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2002
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2001
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+2000
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+1999
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+1998
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+1997
+Jan
+Feb
+March
+April
+May
+June
+July
+Aug
+Sept
+Oct
+Nov
+Dec
+▼
+Publications
+Magazine Archive
+Back issues of Hutch Magazine
+Financial Reporting
+Fiscal highlights & Annual Reports
+Science Spotlight
+Monthly review of Center-authored papers
+Fred Hutch News
+Get updates via email.
+Diseases / Research
+Overview
+Diseases We Research
+Faculty
+Featured Researchers
+Labs and Projects
+Research Highlights
+News
+License Our Discoveries
+Business Development & Strategy
+Treatment / Support
+Overview
+Clinical Trials
+Share Your Story
+Treatment Research
+Volunteer for a Study
+Support
+Long-Term Follow-Up Program
+Mpower Prostate Cancer Registry
+Survivorship Program
+Resources
+Become a Patient
+Housing and Education
+About Us
+Overview
+About Fred Hutch
+Accountability & Impact
+Business Development & Strategy
+Careers
+Data Science Collaborations
+Education & Training
+Leadership / Board
+Patients / Caregivers
+Become A Patient
+Share Your Story
+Resources
+News / Publications
+News / For the Media
+Visitor Center
+Labs / Projects
+Overview
+Education & Training
+Faculty
+Labs, Programs & Projects
+Scientific Seminars
+Divisions
+Basic Sciences
+Clinical Research
+Human Biology
+Public Health Sciences
+Vaccine and Infectious Disease
+Integrated Research Centers
+Immunotherapy
+Pathogen-Associated Malignancies
+Translational Data Science
+Initiatives
+Global Oncology
+HICOR - Hutchinson Institute for Cancer Outcomes Research
+HVTN - HIV Vaccine Trials Network
+Project Violet
+STTR - Seattle Translational Tumor Research
+Events / Programs
+Overview
+Calendar of Events
+Scientific Seminars
+Community
+Community Partner Events
+Cancer in our Communities
+Health / Fitness
+Education
+Education & Training
+Internship Program
+Science Education Partnership
+Ways To Give
+Overview
+Donate Now
+Events
+Fred Hutch Store
+Fundraise for Fred Hutch
+Host an Event
+How Your Donation Helps
+Volunteer for a Study
+Gifts
+Corporate Gifts
+Directed Gifts
+Endowment Gifts
+Honor / Memorial Gifts
+Planned Gifts /
+Estate Planning
+Clubs
+Innovators Network
+Cure Starters Circle
+President's Circle
+Thomas Legacy Society
+Quick Links
+About Us
+Business Development & Strategy
+Cancer Consortium
+Clinical Trials
+Contact Us
+Education & Training
+Extranet
+Fred Hutch Store
+Information Security Statement
+Programs & Projects
+Lab Sites
+Office of Sponsored Research
+Shared Resources
+Share Your Story
+Visitor Center
+Information For
+Community
+Donors & Volunteers
+Educators & Students
+Employees
+Industry Partnerships
+News Media
+Patients & Families
+Physicians & Health Professionals
+Postdoctoral Fellows
+Science Professionals
+Employee Links
+CenterNet
+Check Email
+Employee Page
+WebVPN & Remote Access
+Accredited by the Association for the Accreditation of Human Research Protection Programs
+Recognized by Forbes as one of America's Best Mid-Size Employers
+Follow Us
+Fundraise
+Donate
+Fred Hutch is proud to be an Equal Opportunity and VEVRAA Employer. We are committed to cultivating a workplace in which diverse perspectives and experiences are welcomed and respected. We do not discriminate on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability, marital or veteran status, sexual orientation, gender identity, political ideology, or membership in any other legally protected class. We are an Affirmative Action employer. We encourage individuals with diverse backgrounds to apply and desire priority referrals of protected veterans. Read the EEO is the Law poster here.
+Fred Hutchinson Cancer Research Center
+1100 Fairview Ave. N., Seattle, WA 98109
+© 2019 Fred Hutchinson Cancer Research Center, a 501(c)(3) nonprofit organization.
+Terms of use & privacy policy | Conflict of
+interest | Accountability & impact
+Careers
+News
+Contact Us
+Search
+Fundraise
+Donate

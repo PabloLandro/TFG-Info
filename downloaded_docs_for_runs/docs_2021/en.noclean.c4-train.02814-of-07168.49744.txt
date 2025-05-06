@@ -1,0 +1,131 @@
+Exercise – TARG Blog
+Skip to content
+TARG Blog
+The Tobacco and Alcohol Research Group blog
+Menu
+About
+Tag: Exercise
+Exercise for the prevention and treatment of antenatal depression
+Posted on October 20, 2014 by oliviamaynard
+By Meg Fluharty
+This blog originally appeared on the Mental Elf blog on 19th September 2014
+Depression occurring during pregnancy, known as antenatal depression, is very common; affecting 10-13% of women (Gavin et al, 2005), which can result in premature labour, low birth weight, and a compromised mother-child relationship (Li et al, 2009; Mancuso et al 2004).
+The current treatments include antidepressants and psychotherapy (Field et al, 2009; Rethorst et al 2009). However, antidepressant use may result in adverse effects during pregnancy and psychotherapy often has lengthy waiting lists (Einerson et al 2010, Parker et al; 2008).
+Exercise is also recommended as a treatment option for mental and physical health during pregnancy, by NICE (NICE, 2006), the Royal College of Obstetricians and Gynaecologists (RCOG, 2006) and the American College of Obstetricians and Gynaecologists (Artal & O’Tool, 2006).
+This study is the first systematic review and meta-analysis of randomised controlled trials (RCTs) investigating the effectiveness of exercise as a treatment option in antenatal depression (Daley et al, 2014).
+“Balls to exercise” Insert exclamation mark or question mark as you see fit.
+Methods
+The authors conducted a literature search of multiple electronic databases, and studies were selected for inclusion if they were RCTs which compared exercise with usual care, a control group or another comparator. Studies were also included which recruited non-depressed, at risk, and depressed participants as the review focused on both prevention and treatment of antenatal depression. Studies were excluded if the intervention was less than 6 weeks (Daley et al, 2014).
+The primary outcome was change in depression score between baseline and final antenatal follow-up. The means and standard deviations of the different depression scores were extracted, or calculated if necessary. The standardised mean different (SMD) was calculated in order to summarise the effects across the trials. For the meta-analysis, a random effects model was used, with subgroup analyses in depressed vs. non-depressed patients and aerobic vs. non-aerobic exercise conditions (Daley et al, 2014).
+Results
+Included studies
+Six out of a total of 919 papers were chosen for inclusion in the review and analysis. Studies were primarily excluded if they were not RCTs, did not measure depression, or compared exercise interventions.
+All six studies investigated exercise as an intervention versus a control:
+2 studies used standard prenatal care
+2 used a waiting list
+1 used social support
+1 used parent education sessions as the control groups
+The interventions ranged from 8-12 weeks and were categorised as either aerobic exercise or non aerobic.
+In total, there were 406 pregnant women, whose ages ranged from 14-38 and were recruited from 16 weeks gestation.
+One study included non-depressed women, and 5 studies included either at risk or participants depressed at baseline (Daley et al, 2014).
+Meta-analysis results
+There was a reduction in depression scores in the exercise groups versus the comparator groups (SMD -0.46, 95%CI -0.87 to 0.05, p=0.03, I2= 68%)
+There was no difference between women who were:
+Non-depressed at baseline (SMD -0.74; 95% CI -1.22 to -0.27, p=0.002)
+Depressed at baseline (SMD -0.41; 95% CI -0.88 to 0.07, p=0.09, I2=70%)
+There was no difference between:
+Aerobic exercise interventions (SMD -0.74: 95% CI -1.22 to -0.27 p=0.002)
+Non-aerobic exercise interventions (SMD -0.41; 95% CI -0.88 to 0.07, p=0.09, I2 =70%)
+Exercise during pregnancy may be effective at reducing depression, but bigger and better RCTs are needed before we can be sure of this finding.
+Discussion
+Daley et al (2014) present the first meta-analysis of trials investigating the effectiveness as a treatment for antenatal depression. NICE (NICE, 2006), Royal College of Obstetricians and Gynaecologists (RCOG, 2006), and the American College of Obstetricians and Gynaecologists (Artal & O’Tool, 2006) have all stated that women should consider exercise during pregnancy for mental health benefits, and this review provides evidence to support those guidelines.
+However, there are a number of limitations that should be considered:
+The results show a small to moderate effect size, based on a small number of low to moderate quality studies
+The studies varied greatly and contained large confidence intervals, which may result in imprecise estimates
+5 of the 6 studies were based on women with depression, so the authors cannot conclude whether exercise can be used to prevent depression in pregnancy
+Tests of subgroup differences in exercise category were based on a single trial, therefore future studies should examine a larger range of exercises (aerobic and non-aerobic)
+No studies reported on adverse events
+Publication bias was not investigated due to the small number of trials
+Future research should be based on a larger sample, include a wider range of exercise categories, investigate possible adverse events, and include non-depressed women.
+While we’re waiting for new research to be published, don’t forget that exercise in pregnancy does of course have all kinds of other undeniable benefits.
+Links
+Daley AJ, Foser L, Long G, Paler C, Robinson O, Walmsley H, Ward R. The effectiveness of exercise for the prevention and treatment of antenatal depression: a systematic review with meta-analysis. BJOG 2014; DOI: 10.1111/1471-0528.12909 [PubMed abstract]
+Gavin NI, Gaynes BN, Lohr KN, Meltzer-Brody S, Gartlehner G, Swinson T. Perinatal depression: a systematic review of prevalence and incidence. Obstet Gynecol 2005;106:1071–83. [PubMed abstract]
+Li D, Liu L, Odouli R. Presence of depressive symptoms during early pregnancy and the risk of preterm delivery: a prospective cohort study. Hum Reprod 2009;24:146–53.
+Mancuso RA, Schetter CD, Rini CM, Roesch SC, Hobel CJ. Maternal prenatal anxiety and corticotropin-releasing hormone associated with timing of delivery. Psychosom Med 2004;66:762–9. [PubMed abstract]
+Field T, Deeds O, Diego M, Hernandez-Reif M, Gauler A, Sullivan S, et al. Benefits of combining massage therapy with group interpersonal psychotherapy in prenatally depressed women. J Body Mov Ther 2009;13:297–303. [PubMed abstract]
+Rethorst CD, Wipfli BM, Landers DM. The antidepressive effects of exercise: a meta-analysis of randomized trials. Sports Med 2009;39:491–511. [PubMed abstract]
+Einerson A, Choi J, Einerson TR, Koren G. Adverse effects of antidepressant use in pregnancy: an evaluation of fetal growth and preterm birth. Depress Anxiety 2010;27:35–8 [PubMed abstract]
+Parker GB, Crawford J, Hadzi-Pavlovic D. Quantified superiority of cognitive behavioural therapy to antidepressant drugs: a challenge to an earlier meta-analysis. Acta Psychiatr Scand 2008;118:91–7 [PubMed abstract]
+Royal College of Obstetricians and Gynaecologists. Exercise in Pregnancy. Statement No. 4. London: RCOG, 2006.
+Antenatal and postnatal mental health: Clinical management and service guidance. NICE CG45, Feb 2007.
+Artal R, O’Toole M. Guidelines of the American College of Obstetricians and Gynecologists for exercise during pregnancy and the postpartum period. Br J Sports Med 2003;37:6–12. [PubMed abstract]
+– See more at: http://www.thementalelf.net/mental-health-conditions/depression/exercise-for-the-prevention-and-treatment-of-antenatal-depression/#sthash.oDvrzRsY.dpuf
+Posted in Mental elf, ResearchTagged Depression, Exercise, Meg Fluharty, PregnancyLeave a Comment on Exercise for the prevention and treatment of antenatal depression
+More about TARG
+Our homepage
+Who are we?
+Our research
+Participate in our studies
+Follow us on Twitter
+Follow us on Facebook
+Recent Posts
+Improving the way research is done: the UK Reproducibility Network
+Understanding Anorexia – Promoting Life through Prevention
+Does schizophrenia influence cannabis use? How to report the influence of disease liability on outcomes in Mendelian randomization studies
+The House of Commons Science and Technology Committee reports on e-cigarettes
+Why I took part in the “Preregistration Challenge”
+Categories
+Comment
+Conferences
+Educational
+intervention
+Mental elf
+Mental health
+Research
+TARG people
+Uncategorized
+Tags
+Adolescents Alcohol Anxiety Behavioural Insights Team Cannabis Careers Cochrane Collaboration Conduct disorder Conferences Dave Troy Depression E-cigarette Effect sizes Eleanor Kennedey International Jen Ware Marcus Munafo Meg Fluharty Mental health Meryem Grabski meta analysis methods Michael Dalili Michelle Taylor Olivia Maynard PhD Policy Pregnancy Psychosis Public Engagement p values Sally Adams schizophrenia significance testing Smoking Smoking cessation SMS Standardised packaging statistics Systematic Review TARG Tina Kretschmer Tobacco industry Travel
+Archives
+March 2019
+January 2019
+August 2018
+January 2018
+December 2017
+September 2017
+July 2017
+May 2017
+November 2016
+October 2016
+August 2016
+July 2016
+June 2016
+May 2016
+March 2016
+February 2016
+January 2016
+December 2015
+October 2015
+September 2015
+August 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+November 2014
+October 2014
+August 2014
+June 2014
+April 2014
+January 2014
+December 2013
+November 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+© 2019 University of Bristol | Terms of use

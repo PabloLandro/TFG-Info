@@ -1,0 +1,373 @@
+Oh no! My cell phone's going to kill me! (The revenge) | ScienceBlogs
+Skip to main content
+Advertisment
+Search
+Search
+Toggle navigation
+Main navigation
+Life Sciences
+Physical Sciences
+Environment
+Social Sciences
+Education
+Policy
+Medicine
+Brain & Behavior
+Technology
+Free Thought
+Oh no! My cell phone's going to kill me! (The revenge)
+facebook
+twitter
+reddit
+linkedin
+email
+print
+By oracknows on May 19, 2010.
+Here we go again.
+I've written a few times before about the controversy over whether cell phones (a.k.a. mobile phones in most of the rest of the world) cause brain cancer, concluding on more than one occasion that the evidence does not support a link. For example, there has not been a large increase in brain cancer or other cancers claimed to be due to cell phone radiation in the 15 to 20 years since the use of cell phones took off back in the 1990s, nor has any study shown a convincing correlation between cell phone use and brain cancer.
+Of course, one would not expect a priori, based on what is known about basic science, that cell phone radiation would cause cancer. After all, the development of cancer in general ultimately requires mutations in critical genes regulating cell growth and development. For an outside treatment to cause such mutations, as far as we know, requires the ability to cause DNA damage through the breaking of chemical bonds. Ionizing radiation can do this, as can certain cehmicals and chemotherapeutic agents. Indeed, that's how these agents work against cancer because cancer cells tend to be more sensitive to DNA damaging agents than normal cells due to defective DNA repair mechanisms. Thus, it is highly implausible based on basic science that cell phone radiation could cause cancer. It's not homeopathy level-implausible, but it's pretty implausible. Nor is it impossible, as has been claimed, because there may be biological mechanisms behind cancer that we do not yet understand, and it's almost always physicists with little knowledge of epigenetics and other mechanisms of cancer development who make such dogmatic claims. Still, such physicists are not too far off; if cell phones could cause cancer, it would have to be through a previously unknown physiological or genetic mechanism. Absent compelling evidence of a link between cell phones and cancer, then, it is not unreasonable to rely on the basic science and consider the possibility of such a link to be remote.
+Still, anything having to do with "radiation" causes fear, because most people don't understand the different wavelengths and varieties of radiation. There's also a cottage industry that's sprung up to take advantage of people's lack of knowledge about basic physics and chemistry by selling useless "cell phone radiation shields." Much like research into various highly implausible forms of "alternative medicine," though, research into a possible link between cell phone use and brain cancer continues unaffected by considerations of prior plausibility. So does the hysteria, sometimes even infecting prominent, high-ranking cancer researchers who really, really should know better.
+The latest volley in this fray was released yesterday in the form of a new report of the results of an ongoing study examining whether there is a correlation between cell phone use and cancer. For once, news reports seem to be getting it right in that the results are "inconclusive." Of course, I would have been shocked if the results had been conclusive. Based on this study, there are two things I can say with confidence. First, it will settle nothing, and, second, it will be attacked by those who, despite all the evidence against it and the incredible implausibility of a link between cell phones and cancer, deeply believe that there is just such a link. No doubt such attacks will include a mention that part of the funding for the study came from the Mobile Manufacturers' Forum (MMF) and the GSM Association, both industry groups. True, the funding from these organizations went first through a "firewall mechanism," but that won't stop the criticisms.
+The study was the INTERPHONE study, which involves 13 countries looking for any sort of link between cell phones and two types of brain cancer, glioblastoma and meningioma. Partial results from the study have already been published, but the current study1 represents the first time that results from all 13 countries have been reported. The study itself is a case control study including 2,708 glioma patients and 2,409 meningioma patients, along with matched controls. I'll basically cut to the chase here (unusual for me) and reveal the outcome: There was no compelling evidence of an association between cell phone use and either of these cancers. Surprise, surprise.
+There were, however, a couple of rather interesting findings in subgroups. Now I'll say one thing about subgroup analysis. Basically, subgroup analysis is something that researchers do when their overall results are negative to try to salvage a "positive" result out of a study. For instance, if a study shows that, for example, factor X is not associated with an increased risk of developing breast cancer, the next thing to do is to see if X is associated with breast cancer in women under 40, in smokers, in drinkers, or in any subgroup the investigators can think of. The problem is, when you slice and dice the subject group into ever smaller groups looking for subgroup effects, you will almost always find one. Whether the result is spurious or not is impossible to tell without a further study, which is why positive results from subgroup analysis should almost always be considered as hypothesis generating rather than hypothesis confirming. The one major exception is when these subgroup analyses were built into the research plan and explicitly included in the statistical power analysis performed before the study begins.
+So what were these seemingly "positive" results? The first was actually counter to the hypothesis of the study. The odds ratio related to ever having been a regular cell phone user was seen for glioma (OR 0.81; 95% confidence interval (CI) 0.70-0.94) and meningioma (OR 0.79; 95% CI 0.68-0.91). This is a rather puzzling result because, if it's incredibly implausible that cell phone radiation causes cancer, it's even more implausible that it protects against cancer somehow. The second was that in the highest 10% of recalled cumulative call time, the OR was 1.40 (95% CI 1.03-1.89) for glioma, and 1.15 (95% CI 0.81-1.62) for meningioma; but there are implausible values of reported use in this group. In othe words, if these results were to be believed, the heaviest users of cell phones had a barely statistically significant increase in glioma incidence (a 40$ increased risk with wide error bars) and a non-statistically significant increase in meningioma. In other words, none of these subgroup analyses are convincing, as one of the epidemiologists involved in the study explains:
+On completing their analysis, the researchers found that being a regular user of a mobile phone seemed to reduce the risk of glioma or meningioma by around 20%. But Anthony Swerdlow, an epidemiologist at the Institute of Cancer Research in London who was involved in the UK arm of the study, says that this result is highly likely to be down to problems that were inherent in the study design.
+"We have evidence that the people who refused to be controls are people who didn't use phones," says Swerdlow. This meant that the control group, consisting of people without cancer, was rather skewed, appearing to have more mobile-phone use than would be found in a representative sample from the general population. "The controls were over-represented with phone users," he adds.
+Equally, some of those individuals in the top 10% of reported phone usage gave what Swerdlow calls "incredibly implausible values", such as an average of 12 hours of mobile use per day, every day.
+Studies to validate the data-collection methods used in INTERPHONE found that asking participants about the number of calls they had made provided more accurate information than asking about how much time participants spent on the phone. When researchers analysed the number of calls made, the top 10% of participants showed no increased risk of cancer.
+Such are the problems with using recall of cell phone usage to measure extent of exposure to radio waves. I would also point out that the results of this study appear to be consistent with random noise, where different measures appear positive or negative at random due to random chance alone.
+Obviously, this current study has many limitations. There is no data about exposures longer than 15 years, and, as has been pointed out before, using recall to estimate cell phone use is prone to biases and other problems. Even so, it is yet another study adding to the accumulation of evidence that is failing to find an association between cell phone use and cancer. Given the extreme biological implausibility of the hypothesis that cell phones cause cancer, this result is not at all surprising. In fact, I'll go beyond that and predict that future updates of the INTERPHONE study will fail to find any evidence of a significant correlation between cell phone use and cancer. I'll also predict that those who believe in such a link will dismiss the results.
+Now where can I pick up my "big mobile" check to go along with my big pharma check?
+REFERENCE:
+1 . (2010). Brain tumour risk in relation to mobile telephone use: results of the INTERPHONE international case-control study International Journal of Epidemiology DOI: 10.1093/ije/dyq079
+Tags
+cancer
+Clinical trials
+medicine
+Categories
+Physical Sciences
+Log in to post comments
+More like this
+The revenge of cell phones and cancer strikes back yet again in the never-ending controversy...
+The bride of the son of the revenge of cell phones and cancer rises from the grave...again
+Is your cell phone cooking your brain?
+How is the cell phone-cancer myth like Jason Voorhees from the Friday the 13th slasher flicks?
+This is a rather puzzling result because, if it's incredibly implausible that cell phone radiation causes cancer, it's even more implausible that it protects against cancer somehow.
+I'll ask the same question that I asked on the other blog: why is cancer protection less plausible than cancer promotion?
+I agree they're both highly implausible, since there's no known mechanism by which cell phones can impact the processes known to play a role in cancer. However, if we're going to ignore that and assume a possible impact anyway, how can we say that a negative impact is much more likely than a positive impact?
+Based on the epidemiological data, any impact must be quite small. Based on the biology, any impact must also be indirect. If some sort of indirect impact could somehow alter DNA repair pathways to slightly reduce their overall effectiveness, for example, why isn't the opposite effect also a reasonable possibility?
+For the record, I highly doubt that cell phones have any effect on brain tumors, positive or negative. I just don't the logic that small negative effects are (barely) possible, but small positive ones are not.
+Log in to post comments
+By qetzal (not verified) on 19 May 2010 #permalink
+Itâs not hard!
+Secrecy is always wrong.
+Science asymptotes truth.
+No other form of thought comes close.
+Log in to post comments
+By harbo (not verified) on 19 May 2010 #permalink
+As far as cancer 'protection' from cell phone use, did this include age controls - it seems to me that those most comfortable and most likely to spend lots of time on cell phones are younger/healthier, rather than older, folks. Could this be why, or was that accounted for?
+Log in to post comments
+By Steve Wood (not verified) on 19 May 2010 #permalink
+Although the "science" may be whimsy-based,it hasn't stopped creative entrepreneurs from marketing radiation shields for cell phones(e.g. google up,"cell phone radiation shileds"), including woo-meister general, Gary Null(who should have thought up a "vitamin overdose protector" instead).
+Log in to post comments
+By Denice Walter (not verified) on 19 May 2010 #permalink
+Aha!
+I didn't realize the full text was available free online. The focus was only on people between 30-59 years old and matched variables included age (to within 5 yrs.)
+Question answered, thanks!
+Log in to post comments
+By Steve Wood (not verified) on 19 May 2010 #permalink
+Cancer protection is less plausible than cancer promotion because there are almost more ways to break something than to fix it. Cancer is a disease in which the biological protections against unrestrained cell division (and often, migration) have become damaged. There are many ways in which this can happen: many different types of mutation in the genes for the proteins that regulate cell division, mutations in their signal transduction mechanisms, mutations in genetic regulatory factors that control their production, mutations in epigenetic mechanisms that control the activity of particular genes etc., etc. So to cause cancer, something doesn't have to be specifically targeted to a particular biological mechanism--just random damage will do it: eventually, one cell will purely by chance get the particular combination of defects that frees it to become a cancer. (Of course, the reason why scientists are skeptical of cell phone induced cancer is that there is no direct mechanism whereby cell phones can produce that kind of random damage; there would have to be some biological mechanism for amplifying the very weak energy of cell phones and activating some other process that damages cells).
+On the other hand, to stop cancer, cell phone radiation would somehow have to manage to repair or compensate for the damage that causes a cell to become cancerous. Moreover, it doesn't need to do it only in a single cell--it has to do it in many, many cells. And for the reasons described above, cancers aren't all the same, because there are many ways in which a cell can be "broken" such that it becomes a cancer. So a protective effect would not have to fix just one kind of defect; to have a significant statistical impact on cancer, it would have to counteract multiple kinds of cancer-causing defects. Cancer researchers have been looking for a way to do this for decades, without great success. So the chance that it would happen just fortuitously (and through some novel mechanism, to boot) seems very, very remote.
+Log in to post comments
+By trrll (not verified) on 19 May 2010 #permalink
+I read about this in the NYTimes and wondered if you'd take it on. The interesting thing to me was the comments section that followed the column. It was just as you said: most of them pointed to the cell phone industry as a sponsor and simply dismissed the entire study outright for this reason. There were also anecdotes about "my sister got brain cancer and it was on the same side she held the phone!" sort of thing. Only a few people seemed to think that just possibly, the study's results were valid. Science seemed to have little to do with it for the majority--just their own "belief".
+Log in to post comments
+By Anthro (not verified) on 19 May 2010 #permalink
+So a protective effect would not have to fix just one kind of defect; to have a significant statistical impact on cancer, it would have to counteract multiple kinds of cancer-causing defects.
+I don't agree with this. If there were a protective effect that DID only fix one kind of defect, what you would expect is that the net effect is going to be small, depending on the extent of the mechanism that it is affecting, but it doesn't have to be negligible.
+Moreover, it doesn't have to "repair" cancer to show this effect, but to disrupt the mechanism(s) that cause cancer. For example, wearing a proper ventilation unit can protect asbestos workers from asbestos-caused cancer, but that doesn't mean that said ventilation unit fixes any cancer damage that occurs.
+Cancer prevention is not the same as cancer healing.
+Log in to post comments
+By Pablo (not verified) on 19 May 2010 #permalink
+Looks like the results may be from a sampling bias. Their control volunteers tended to be cell-phone users. So, you can't make any conclusions from this study (although, that didn't stop ScienceNews from saying that high-cell phone usage increases cancer rates).
+Log in to post comments
+By mxh (not verified) on 19 May 2010 #permalink
+So, you can't make any conclusions from this study
+That depends on whether they can provide an estimate of the effect of the sampling bias. However, unless there is some independent estimate of the effect of the bias, then we can't make any conclusions.
+Log in to post comments
+By Pablo (not verified) on 19 May 2010 #permalink
+So, you can't make any conclusions from this study.
+reduce mutation rates slightly, apparently because they induce expression of the repair pathways so that repair is better than in unirradiated cells. Obviously this wouldn't directly apply to cell phones, since they don't emit ionizing radiation. But it is an example where a small effect can actually be protective, even though large effects are almost certain to be deleterious.
+Log in to post comments
+By qetzal (not verified) on 19 May 2010 #permalink
+Unless one is willing to discard the concept of photons, Planckâs law, and the interaction between photons and atomsâand thus the entire body of quantum physicsâit is simply not possible for the photons associated with either a power line or a cell phone to cause cancer.
+So, Orac, are you saying that this is wrong? That it is indeed possible for the photons associated with cell phones (and I guess power lines!) to cause cancer? Specifically then, where did this dogmatic physicist go wrong?
+Log in to post comments
+By mk (not verified) on 19 May 2010 #permalink
+Yes, your cell phone is going to kill you. Not because you'll get cancer but because it will distract you while driving and you'll die in a fiery crash. Hang up and drive! (End semi-off topic PSA)
+Log in to post comments
+By Dianne (not verified) on 19 May 2010 #permalink
+Yes you can. You can at least conclude that cell phones show no evidence of significantly increasing brain cancer risk. At least, not to the point of being detectable above the noise and residual bias of the study.
+Well, you can conclude that this study does not provide any evidence, but then again, this study is flawed, so it does not say anything about the general question of whether cell phones cause cancer.
+I've pointed this out before, and here is another example. This study found that cell phone usage prevents cancer. That is what the data show.
+Now, there are either two conclusions:
+1) The data are evidence that cell phones prevent cancer, or
+2) There are confounders that make the data unreliable so that we can't conclude that cell phones prevent cancer from this study
+You cannot make the jump to, "There are confounders that make the data unreliable, but we can conclude that this study shows no evidence that cell phones cause cancer" unless you have an estimate of the effect of the sampling bias.
+Confounders make it so that you cannot necessarily conclude what the data indicates, they do not tell you what you CAN conclude based on the data.
+Log in to post comments
+By Pablo (not verified) on 19 May 2010 #permalink
+So, Orac, are you saying that this is wrong? That it is indeed possible for the photons associated with cell phones (and I guess power lines!) to cause cancer? Specifically then, where did this dogmatic physicist go wrong?
+If I can take a crack at it... I believe Orac is agreeing with the physicist's assertion that the photons associated with cell phones could not possibly cause the DNA damage that we currently believe to be associated with the onset of cancer -- but Orac is not ruling out the remote possibility that there is a separate hitherto-unknown physiological mechanism that can trigger cancer, and that this mechanism can be invoked by cell phone use.
+Personally, while I technically agree with this contention, I think Orac is maybe being a little too harsh on the physicists here. Clearly, those who suspect cellphones are causing cancer are basing it on the erroneous idea that any and all radiation regularly causes DNA damage. I think we over-parse a bit when we insist on differentiating between "the assertions of those who believe cellphones cause cancer are physically impossible" vs. "it is physically impossible for cellphones to cause cancer."
+Log in to post comments
+By James Sweet (not verified) on 19 May 2010 #permalink
+If there were a protective effect that DID only fix one kind of defect, what you would expect is that the net effect is going to be small, depending on the extent of the mechanism that it is affecting, but it doesn't have to be negligible.
+However, we are talking relative probabilities here. Even cancers that are clinically similar are likely to be different on a molecular scale. So the likelihood that low energy photons would somehow activate a biological amplification mechanism that compensated for enough causes of unrestrained cell division in enough cells to produce an impact on cancer statistics seems small--certainly smaller than producing random damage to DNA or epigenetic regulatory mechanisms controlling cell division in one cell out of many.
+Moreover, it doesn't have to "repair" cancer to show this effect, but to disrupt the mechanism(s) that cause cancer.
+Actually, I said "repair or compensate for."
+Log in to post comments
+By trrll (not verified) on 19 May 2010 #permalink
+@James Sweet...
+I agree. To me, it seems too much like, "Well, I have to take a swipe at physicists to show how fair and balanced I am." He could have left out that whole "dogmatic" bit and the post would still remain strong.
+But I'd still like to hear from Orac.
+Log in to post comments
+By mk (not verified) on 19 May 2010 #permalink
+So, Orac, are you saying that this is wrong? That it is indeed possible for the photons associated with cell phones (and I guess power lines!) to cause cancer? Specifically then, where did this dogmatic physicist go wrong?
+Very specifically, Lakshmikumar apparently considers it "simply not possible" that the diffuse heating from a cell phone can cause cancer. A more proper conclusion is indeed that it is vanishingly unlikely.
+He also disregards the possibility that there is something else associated with cell phone use, aside from the EM, which causes cancer.
+Log in to post comments
+By Scott (not verified) on 19 May 2010 #permalink
+@Scott...
+My apologies. I should have been more precise. What I meant was... Where did this "dogmatic" physicist go wrong with his physics? His entire piece was about the physics that supposedly underly the connection to cancer.
+Log in to post comments
+By mk (not verified) on 19 May 2010 #permalink
+you know, if it were melanomas being seen in cell phone users I could almost believe that, but brain tumors ?
+the electromagnetic flux thrown by a typical cell phone wouldn't penetrate the skin, let alone the the thick calcified skull of the average businessman.
+Log in to post comments
+By DLC (not verified) on 19 May 2010 #permalink
+Very specifically, Lakshmikumar apparently considers it "simply not possible" that the diffuse heating from a cell phone can cause cancer. A more proper conclusion is indeed that it is vanishingly unlikely.
+Exactly. Lakshmikumar proceeds from a very simplistic view of the causes of cancer that assumes that any agent (chemical, radiation, etc.) that causes or predisposes to cancer must directly damage DNA. This view predominated about 10-20 years old but today is a very naive view of cancer causation, as the last three meetings of the American Association for Cancer Research (AACR) meetings have shown me. There are epigenetic mechanisms, metabolic mechanisms, stromal mechanisms, and probably mechanisms that we haven't figured out yet. Over long periods of time, it doesn't take a high level insult. Chronic low level insults can result in cancer.
+I hate to be this harsh, but Lakshmikumar dogmatically and ignorantly dismisses these possibilities. His attitude is consistent with my admittedly my small anecdotal experience that physicists who make a blanket statement that based on physics alone it is "simply not possible" for cell phone radiation to cause brain cancer are doing so out of an outdated and simplistic view of cancer causation. They are being dogmatic and lack the detailed knowledge of cancer causation that would allow them to see other possibilities that, however remote, are not impossible. At least, I haven't seen one yet who wasn't being dogmatic. I'd be more than happy to be proven wrong on this score.
+None of this is to imply that I consider it particularly likely that cell phone radiation can cause cancer. I don't; it's still an incredibly implausible hypothesis. Even so, the hypothesis that cell phone radiation can cause or, with other factors, somehow predispose to cancer is not homeopathy-level implausible, not by a long shot, and it's certainly not impossible. Consequently, I leave the door open to the possibility, even though I consider the likelihood that any compelling scientific or epidemiological evidence will be found in my lifetime--or ever--to support a cell phone radiation-brain cancer link.
+Log in to post comments
+By Orac (not verified) on 19 May 2010 #permalink
+My apologies. I should have been more precise. What I meant was... Where did this "dogmatic" physicist go wrong with his physics? His entire piece was about the physics that supposedly underly the connection to cancer.
+And there's the straw man. My criticism was meant as a slap at Lakshmikumar's apparent lack of understanding of cancer biology, not his physics.
+Log in to post comments
+By Orac (not verified) on 19 May 2010 #permalink
+So going back to my original... The photons associated with cell phones can cause cancer, in your estimation?
+Log in to post comments
+By mk (not verified) on 19 May 2010 #permalink
+Diffuse heating is far from the only way in which non-ionizing energy can interact with biological systems. It doesn't take a lot of energy to shift a biochemical equilibrium or accelerate a chemical reaction, and biological systems can produce huge degrees of amplification (the visual system can detect light at the level of single photons). In principle, anything that an animal can sense could be a trigger for a pathological process. There are biological reasons for thinking that highly-amplified pathological responses are unlikely--carrying a hair-trigger weapon pointed at yourself is not something that is likely to be favored by evolution. But biologists are far less likely than physicists to make blanket assertions as to what biological systems are incapable of doing.
+Log in to post comments
+By trrll (not verified) on 19 May 2010 #permalink
+Which epigenetic mechanisms or metabolic mechanisms, interacting with cell phone photons, could possibly cause cancer?
+Log in to post comments
+By mk (not verified) on 19 May 2010 #permalink
+Which epigenetic mechanisms or metabolic mechanisms, interacting with cell phone photons, could possibly cause cancer?
+That's the point, though, is that Orac and others are leaving open the theoretical possibility that there is a hiterto-unknown mechanism. I think we all agree that no known epigenetic/metabolic/etc. mechanism could explain how cellphones could cause cancer. But there is no oncological equivalent of Bell's Theorem that we can use to rule out the possibility of unknown mechanisms.
+Although I agreed with your initial suggestion that Orac was being a bit harsh on the physicist in question, I think you're getting a bit strawmanny at this point. Orac has made it clear he thinks that the lack of a known plausible mechanism, together with an absence of any decent correlative data, is pretty damning evidence against there being any causation here. In light of that, I don't see how you could have said this:
+The photons associated with cell phones can cause cancer, in your estimation?
+You are creating a false dichotomy. The choices are not restricted to a) "I assert that the photons can't cause cancer" and b) "I assert that the photons can cause cancer." How about "It seems highly unlikely that the photons could cause cancer"?
+Log in to post comments
+By James Sweet (not verified) on 19 May 2010 #permalink
+What I meant was... Where did this "dogmatic" physicist go wrong with his physics?
+Essentially he oversimplifies all molecules in the body into one- or two-atom systems. Larger molecules have many more interactions possible; photoisomerization is one example.
+Log in to post comments
+By Scott (not verified) on 19 May 2010 #permalink
+And BTW, Orac's distinguishing between "implausible" and "homeopathy-grade implausible" makes a lot of sense. In the case of the photons from cell phones causing cancer, while it's biologically implausible, it would not violate any fundamental laws of physics -- energy is being emitted by the cell phone and absorbed by the cells. Which makes it possible -- though not necessarily plausible -- that there could be an effect. (Perhaps Jeebus intelligently designed us to have a tiny RF receiver in each of our cells, which causes the release of mutagenic chemicals if a valid CDMA signal is decoded...?)
+OTOH, unless huge swaths of physics are wrong, it is a physical impossibility for a homeopathic "solution" to be any different from the water that was used in the dilution process. This is an entirely different realm of plausibility.
+If cell phones were found to cause cancer, it would require significant revisions/additions to the field of oncology. But -- at the risk of dissing our blog host -- I would be far less disturbed to find out that our modern understanding of oncology was seriously flawed than I would be to find out that our modern understanding of physics was seriously flawed...!
+Log in to post comments
+By James Sweet (not verified) on 19 May 2010 #permalink
+Oh for fucks sake! I'm not trying to be "strawmanny."
+I think Orac is being a douchebag for calling this physicist "dogmatic." He addressed the physics of cell phones and cancer. He was clear and concise. Not dogmatic. If Orac wants to continue with his wishy-washy-oh-golly-gee-I-could-be-wrong crap... that's fine. But not everybody cares to go that route.
+Log in to post comments
+By mk (not verified) on 19 May 2010 #permalink
+My goodness, it seems so obvious. The study relies upon user recall of usage, and the results seem to show an inverted relationship between use and cancer.
+There is only one answer: higher cell phone use does indeed cause brain damage, specifically that part of the brain which is used to recall cellphone usage.
+This may also explain why some people are surprised by the size of their cellphone bills.
+Log in to post comments
+By Mark (not verified) on 19 May 2010 #permalink
+Hey there, Orac - Not to change the subject here, but I recall last year at this time you blogged very comprehensively about the Daniel Hauser case and I thought you might want to see this:
+http://www.startribune.com/local/94252994.html?elr=KArksLckD8EQDUoaEyqy…
+All I can say is: dear lord.
+Log in to post comments
+By goatgirl (not verified) on 19 May 2010 #permalink
+Orac: I've never read an article that attempted to include a proper power analysis on post-hoc subgroups or outcomes. I.e., admitting that they decided to measure 5 new subgroups or 5 new outcomes after the trial was concluded, and then honestly attempted to calculate the P values accordingly.
+Anyone ever see one?
+Log in to post comments
+By hibob (not verified) on 19 May 2010 #permalink
+@goatgirl
+Interesting. So blood transfusions are natural? I suppose one man's medical treatment is another man's heretical insult to God.
+Log in to post comments
+By The Gregarious… (not verified) on 19 May 2010 #permalink
+heh, Big Cell Phone funded the study.
+my cell phone turned me into a newt! but, i, uh, got...nevermind.
+Log in to post comments
+By rob (not verified) on 19 May 2010 #permalink
+There may be other plausible (though not necessarily probable) mechanisms by which cell phone use can affect cancer risk. It's worth remembering that the formation of tumors involves several steps other than just errors in the DNA. For instance, in some cases cancer cells can trigger an immunological response (which may be why small tumors can sometimes spontaneously regress). If cellphone use somehow has an immunomodulating effect, it's plausible that this could result in an increased or decreased risk of cancer.
+But in any case, studies to date have not showed any substantial effects - and many of the cancers studied are quite rare to begin with. A HR of 1.40 for risk of glioma is not nearly as catastrophic as a HR of 1.40 for breast cancer risk or colorectal cancer risk.
+Log in to post comments
+By NP (not verified) on 19 May 2010 #permalink
+This is a little irrelevant, but I was holding my cell phone on top of my crotch yesterday and my coworker shouted to me that I was giving my balls cancer. I thought that was funny.
+Log in to post comments
+By djfiredup (not verified) on 19 May 2010 #permalink
+So do the people who worry about "diffuse heating" causing brain cancer live in a cave?
+You'll get far more localized heating from simply walking out into the sunshine than from any RF coming off a cellphone.
+Log in to post comments
+By Bill in NC (not verified) on 19 May 2010 #permalink
+The real risk associated with cell phone use is all the idjits who use them while driving.
+A couple of weeks back I saw a guy steering with one foot on the wheel while he used both hands to text or dial or whatever. This was while he was merging into heavy traffic on the 210 freeway just east of Pasadena.
+I really wish I was making this up. It made me want to go home and hide in a closet.
+Log in to post comments
+By BoxNDox (not verified) on 19 May 2010 #permalink
+This Just In!
+50% of people with brain cancer got it "on the side they hold their cell phone"!
+OMG !!!11!!1!!!!!
+Log in to post comments
+By Amenhotepstein (not verified) on 19 May 2010 #permalink
+Diffuse heating effects cause cancer? So why don't we get brain cancer from our heads getting warm when we lie on the pillow at night? Or when we wear hats?
+Log in to post comments
+By Toxicology Kat (not verified) on 19 May 2010 #permalink
+As for the "protective effect" illusion: wouldn't high cell phone use often correlate to higher income? Money often means better health, sometimes because the wealthy usually live in less polluted areas. Or what if the people who use cell phones most also walk most, and we're seeing an exercise effect? Correlation doesn't equal causation, but it might be an indicator of factors that should be looked at.
+Log in to post comments
+By Samantha Vimes (not verified) on 19 May 2010 #permalink
+Coincidentally, I just saw this article on Popular Science's website:
+Warning signals: Mobile phones, radiation and the human brain
+In short, the story describes a "condition" called electro-hypersensitivity (EHS), in which any form of electromagnetic radiation (e.g., microwaves, radio signals) cause immediate physical symptoms (headaches, nausea, memory loss). Sweden is the only country in the world to recognize EHS as a condition - and it supposedly affects 3% of the population (!).
+The article mentions the possibility that the condition is psychosomatic, but frustratingly mentions no attempts to test this. There's apparently a longer version of the story in print, but I would like to know if any clinical research has been done on this.
+Log in to post comments
+By V. infernalis (not verified) on 20 May 2010 #permalink
+The article mentions the possibility that the condition is psychosomatic, but frustratingly mentions no attempts to test this. There's apparently a longer version of the story in print, but I would like to know if any clinical research has been done on this.
+See Rubin GJ, Das Munshi J, Wessely S. Electromagnetic Hypersensitivity: A Systematic Review of Provocation Studies. Psychosom Med. 2005 Mar-Apr;67(2):224-32.
+Updated here: Rubin GJ, Nieto-Hernandez R, Wessely S. Idiopathic environmental intolerance attributed to electromagnetic fields (formerly 'electromagnetic hypersensitivity'): An updated systematic review of provocation studies. Bioelectromagnetics. 2010 Jan;31(1):1-11.
+Log in to post comments
+By Mojo (not verified) on 20 May 2010 #permalink
+Studies have linked cell phone radiation to health problems such as headaches, high blood pressure, brain tumors, cancer, Alzheimer's, and more. There is a latency period for most diseases and it may take years and more studies before the required weight of evidence is established. But the effects are cumulative and precautions should be taken now before it is too late. There is lot's of more information at http://www.radiation.uphero.com
+Log in to post comments
+By Mark Tinger (not verified) on 20 May 2010 #permalink
+When the body detects an injury or invasion, the innate immune system raises the bodyâs temperature. If it does so locally, it is inflammation. If it does so globally, it is fever. Microwave radiation absorbed by the body raises the bodyâs temperature. The living body has powerful mechanisms to control its temperature, which give the body a very high effective heat capacity. This means that you can do a lot of heating without changing the temperature much. If you seek a plausible mechanism by which microwave radiation might reduce the risk of cancer, look here, not in some complicated repair to DNA damage. The innate immune system thinks warmth is good.
+Our teacher, Orac, is correct to emphasize that it is unlikely which cell phone radiation cause cancer, and I applaud him for this. I wish to strengthen this idea.
+Physicists know exactly what happens to microwave radiation that the body or any other material absorbs. The radiationâs electric field tries to grab molecules and shake them. The various wiggles, jiggles, and bumps of thermal random motion occur a thousand or ten thousand times more often than the frequency of cell phone radiation. The energy absorbed by the bodyâs molecules is distributed by these bumps, wiggles, and jiggles throughout the tissue that absorbs it. The bloodâs flow distributes this energy throughout the body. The energy leaves mostly through the skin. The evaporation of sweat is powerful and effective.
+The problem with trying to be open-minded about some possible unknown mechanism by which cell phone radiation might cause cancer is that we know of many other things that do the exact same thing to the body and to a much greater extent, and none of them cause cancer. I have in mind the heating of the body by exercise, for example, which may be place a thousand times more power within the body than any cell phone. Therefore, any putative mechanism by which cell phone radiation might cause cancer would explain too much unless it also explained why much more of the same effect did not cause cancer.
+Please see the article Do Cell Phones Cause Cancer? in the next issue of The Skeptic, vol. 15, no. 4.
+Log in to post comments
+By Bernard Leikind (not verified) on 20 May 2010 #permalink
+"Now where can I pick up my "big mobile" check to go along with my big pharma check?"
+From the same folks that the FDA says need a warning not to drink the topical anti-itch gel:
+Stop drinking your lotion, people!, Wed., May 12, 2010 by JoNel Aleccia http://bodyodd.msnbc.msn.com/archive/2010/05/12/2312424.aspx
+Log in to post comments
+By wfjag (not verified) on 20 May 2010 #permalink
+@43 - Thanks for that. I commented on the Pop Sci story and left links to those studies.
+Log in to post comments
+By V. infernalis (not verified) on 20 May 2010 #permalink
+I had brain surgery for an acoustic neuroma three months ago, and no longer tell people that it was for a tumor. I've had a few too many people tell me about how my cell phone caused the problem.
+So I just tell them I had a hole drilled in my head to let the demons out. Then I wait a moment and tell them the surgery failed.
+Log in to post comments
+By Gopherus Agassizii (not verified) on 20 May 2010 #permalink
+mk -
+So going back to my original... The photons associated with cell phones can cause cancer, in your estimation?
+Perhaps you could use your reading comprehension fu and point out where anyone on this thread (not including trolls who apparently didn't read the post) said that.
+Oh for fucks sake! I'm not trying to be "strawmanny."
+Trying or not, that is exactly what you are doing. Maybe you are simply too ignorant to clearly state the question above, but as worded that is total strawman.
+I think Orac is being a douchebag for calling this physicist "dogmatic." He addressed the physics of cell phones and cancer. He was clear and concise. Not dogmatic.
+Making absolute claims when it is possible you are wrong is dogmatic. It is especially dogmatic when we are talking about a scientist.
+If Orac wants to continue with his wishy-washy-oh-golly-gee-I-could-be-wrong crap... that's fine. But not everybody cares to go that route.
+This is a science blog. Orac is a scientist. If you are uninterested in accuracy, then maybe science just isn't for you. If you actually are interested in science, then you need to seriously rethink your attitude about accuracy.
+As a scientist in training, I am regularly pounded over the head with the importance of specificity and accuracy. When conducting research, I need to look at the weaknesses as well as the strengths of my operational definitions and my methodology. When I write about it, I need to clarify those issues and make it clear that my results are not an absolute, but rather reflect the evidence garnered in the context of those strengths and weaknesses.
+So when I write about most anything, I do my best to be clear about my biases, clear about whether I am stating an opinion or a fact and clear about the possibility that my objective statements may be based on erroneous information. That is how one can be sure that what they are saying is accurate. By accepting limitations, no matter how strong the best evidence might be, we better able to make reasonably well educated choices.
+Screaming about minutiae, as if that minutiae doesn't matter is ignorant. A lot of well accepted notions ultimately break down in the face of such minutiae. By pointing this out and calling someone to task for ignoring it is not a failing on Orac's part. It is one of the reasons that I have the respect for him that I do. It is how science is done and it is how critical thinking is done.
+Log in to post comments
+By DuWayne (not verified) on 21 May 2010 #permalink
+Indeed. It's amazing how a commenter can focus in on one sentence and then threadjack the whole discussion based on, in essence, one word. I've seen it time and time again over the five years I've been blogging, and I can never seem to predict what little offhand remark will set off a threadjacking of this sort.
+I also suspect that, despite all the arguments in this thread, we're probably closer to agreement than is obvious. The main problem is that it drives me nuts to see physicists who obviously have little understanding of cancer biology (or who, if they do have more understanding, sure don't show it in their writing) pontificate on the "impossibility" of a cell phone-cancer link based on an outdated and simplistic understanding of carcinogenesis. If physicists at least acknowledged that carcinogenesis is a lot more complex than simple mutation due to breaking chemical bonds in DNA and that it doesn't even require that DNA bonds be broken (at least not directly by an inciting agent), then even if they still argued that a cell phone-cancer link is impossible based on physics alone at least they would show a bit of sophistication with respect to my field. They'd at least show evidence of knowing something more about it than freshman level, and at least I would know that they understand a bit about the complexities involved. As it is, what I see from physicists is very black-and-white thinking based on simplistic models. They may be right when they say a cell phone-cancer link is "impossible" from a physics standpoint, but from a biological standpoint they're right for the wrong reasons.
+Now, back to the impossibility part. I refer to "homeopathy-level" implausible because the concepts of homeopathy break the known laws of physics and chemistry--not just break them but extravagantly and flagrantly break them. For homeopathy to be true, much of what we know about physics, chemistry, and biology would have to be wrong. In contrast, for a cell phone-cancer link to be true, we don't necessarily have to break or overturn well-established laws of physics and science. All that's required is a previously uncharacterized response to radiation or heating that hadn't been discovered before. Admittedly, the likelihood of that happening is quite small, but it's nowhere near as small as our suddenly discovering that water has memory and can transmit that memory to biological systems--and that it takes dilution and succussion to imprint the memory of the curative substance onto the water.
+Log in to post comments
+By Orac (not verified) on 21 May 2010 #permalink
+Please see the article Do Cell Phones Cause Cancer? in the next issue of The Skeptic, vol. 15, no. 4.
+I'll be interested in seeing if the understanding of cancer biology in the upcoming article goes beyond freshman-level.
+Log in to post comments
+By Orac (not verified) on 21 May 2010 #permalink
+I'm a member of the Health Physics Society. Health physics is the science of radiation safety. It incorporates the physics with the biology.
+Here is the Society's Fact Sheet on mobile phones:
+http://hps.org/documents/mobiletelephonefactsheet.pdf
+Log in to post comments
+By healthphysicist (not verified) on 22 May 2010 #permalink
+Agree that it's doubtful modern cell phones directly cause cancer. However, in observing thoroughly cellphone addicted colleagues, friends and the public, it does raise questions of whether cell phone use correlates (but not causally) with impaired cellular repair mechanisms. Not just nick damage/repair within the nucleus, but oxidatively active mitchondria, the organelle that is central to metabolic energy production and known to carry potent cellular self-destruct mechanisms when ROS-induced damage significantly impairs function.
+The brain is the most energy-demanding organ with the body. When we chronically push the envelope of excitatory signal processing and response activity, and couple that with less-than-stellar lifestyle choices that may impair free radical scavenging and oxidative repair processes, it may not be such a stretch to observe an increase in failed repair and apoptosis processes.
+Log in to post comments
+By Passerby (not verified) on 23 May 2010 #permalink
+Physicists are very good at thinking they know all the relevant biology when they really don't. (I know this, because I am one.) Now, once we hear about some other carcingogenesis pathway, we can calculate whether EM waves could have an effect via that route. Sometimes, you just have to proceed by successive approximations: knock down the obvious candidate, then proceed to the possibilities which are more obscure, or harder to analyse, or less frequently arising. We're used to working in this way, but if we don't know enough biology to consider alternate mechanisms, we never get past step zero.
+Log in to post comments
+By Blake Stacey (not verified) on 23 May 2010 #permalink
+Just to play devils advocate: those of us who are familiar with EPR biophysics might give pause, when considering microwave energy promotion of reactions at bimetallic active sites like porphorins, that could result in unstable adduct formation (donation to nearby reactive addition sites).
+Examples in peroxide promoting hangman porphyrin complexes:
+Efficient Synthesis of Hangman Porphyrins. Org. Letters Feb 2010, 12(5):1036â1039.
+pubs.acs.org/doi/abs/10.1021/ol902947h
+Proton-coupled electron transfer: the mechanistic underpinning for radical transport and catalysis in biology. (2006) Phil. Trans R Soc London-B Biol Sci. 361(1472): 1351â1364.
+www.ncbi.nlm.nih.gov/pmc/articles/PMC1647304/
+Log in to post comments
+By Passerby (not verified) on 23 May 2010 #permalink
+Yeah, that was the biggest non-story of the week. Naturally the press ran headlines that read "mobile phones cause cancer" and used words like "scientists do not discard the possibility that mobile phones can cause cancer" - quite the opposite of what the investigators were actually saying. I think Motorola sold the original gizmos as "mobile phones" and the "cell phones" was a name picked up later (and owing to the cellular networked infrastructure).
+Log in to post comments
+By MadScientist (not verified) on 24 May 2010 #permalink
+1. On the possibility of non-ionizing radiation causing cancer: As Orac said, there are many mechanisms by which it could. I do find heat to be a very unlikely mechanism, since the brain has a very good system for absorbing extra heat - namely, blood. *But*: non Ionizing radiation can change the geometric folding of large molecules. Most biological processes involve large proteins. You don't have to break them up to interfere with their activity. Folding them would be sufficient.
+2. All that the study shows is that the danger of brain tumours is not severe. We don't know if it's real, but at least we know that even if there was an increased risk, it is not substantial. This IS important information.
+Log in to post comments
+By Omer Moussaffi (not verified) on 25 May 2010 #permalink
+I had a friend of the family call me and ask me if she should take her wi-fi out of her house because it causes cancer.
+I told her she should and then immediately line the walls with tin foil to block her neighbors wi-fi.
+I don't think she found it as funny as I did.
+Log in to post comments
+By Rev. BigDumbChimp (not verified) on 07 Jun 2010 #permalink
+@Mark Tinger: I'm putting this in all caps just for you: PLEASE READ THE ARTICLE BEFORE POSTING A COMMENT.
+Otherwise you look like a spambotting idjit.
+@Rev BDC- lol. Does this woman not know you at all? Because if she does, she should have seen that coming.
+Log in to post comments
+By redrabbitslife (not verified) on 12 Jun 2010 #permalink
+The research is definitely lacking on cancer and cell phone usage. But I am still hesitant to continually use my cell phone, due to the interference it causes on my land line. When I pick up my land line at home or my office and there is this constant static or squelch in the background, I know my cell phone is near. When I move my cell phone away from my land line, the static and squelch go away. I'm having a hard time believing something that can mess up my land line ,sometimes separated by up to two feet, couldn't possibly be affecting my brain.
+Source: Houston Chiropractor
+Log in to post comments
+By Dr. Vanderloop, D.C. (not verified) on 05 Feb 2011 #permalink
+Advertisment
+Donate
+ScienceBlogs is where scientists communicate directly with the public. We are part of Science 2.0, a science education nonprofit operating under Section 501(c)(3) of the Internal Revenue Code. Please make a tax-deductible donation if you value independent science communication, collaboration, participation, and open access.
+You can also shop using Amazon Smile and though you pay nothing more we get a tiny something.
+More by this author
+Turning out the lights and moving on: Goodbye, old ScienceBlogs blog, hello new blog
+October 30, 2017
+Today is the last day that ScienceBlogs will exist. Sometime today the site will go into read-only mode. A few days later, it will disappear completely from the Internet. It's a sad thing to contemplate after all these years. Whatever happened later, I will always be grateful for the start in…
+A quick update on the migration to a new domain
+October 23, 2017
+Here's a brief update on the move, announced last week. Things are progressing, and most of my old material has been transferred to the new blog, which is located at respectfulinsolence.com. Of course, there are still some things to tweak and fix, which is why, given how insanely busy this week is…
+A change is gonna come. Respectful Insolence is moving.
+October 16, 2017
+Well, QEDCon is over, and this box of blinky lights is on its way back across the pond to its home in the US, having had an excellent time imbibing skepticism from its (mostly) British and European partners in skepticism. Before I left, I made a somewhat cryptic remark about "major changes" to this…
+And the box of blinky lights has arrived in Manchester for QEDCon
+October 13, 2017
+As you probably noticed, I didn't manage a post yesterday. Nor did I manage one today, other than this. That's because I was busy preparing for QEDCon, where I will be on a panel and giving a talk, and, of course, putting together my talk. As I write this, I'm horrendously jet lagged; so I probably…
+On the "integration" of quackery into the medical school curriculum
+October 11, 2017
+QEDCon is fast approaching (indeed, I can't believe I have to leave for Manchester tomorrow night), and because my talk there will be about the phenomenon of "integrative medicine," I've been thinking a lot about it. As I put together my slides, I can't help but see my talk evolving to encompass…
+Science 2.0
+Earth Day Tequila: Toxic Carcinogen Maker Casa Herradura Is The Way To Go
+Positive Side Of Climate Change Facts - After Two Years Of Climate Change Action, Heading For 3°C With 1.5°C Well Within Reach
+What Is A Normal Testosterone Level? The Answer Is Difficult
+Julian Assange Is Not A Journalist, So Journalists Should Not Make Him A Fourth Estate Martyr
+Godly Kings: How War, Politics And Propaganda Helped Bring Down The Mayans
+Science Codex
+A universal framework combining genome annotation and undergraduate education
+Researchers report high performance solid-state sodium-ion battery
+Commentary: Modifications to Medicare rules could support care innovation for dialysis
+Airbnb's explosive growth jolts hotel industry's bottom line
+Thermodynamic magic enables cooling without energy consumption
+More reads
+There are two Sochis
+The Winter Olympics are just around the corner. They will be held in "Sochi," Russia. But as is the case with so many things in life, it is not that simple. When we refer to the venue, we tend to mention Sochi in part because some of the events will be held there and in part because it is on most maps. But the Olympics will be held at more than one location, as is often the case. The 2014…
+Everything you ever wanted to know about nothing (Synopsis)
+Have you ever thought about what "nothing" truly is? We used to think about it in terms of simply removing all the particles from a given region of space, which is a pretty intuitive definition of nothing. But quantum physics is notorious for defying our intuition. Public domain image. When we take a look at this "empty" space, we find it's not so empty at all. Not in terms of energy, and not…
+How would you figure out whether Global Warming is real? Part 1.
+"There is no question that climate change is happening; the only arguable point is what part humans are playing in it." -David Attenborough It's been a long time since I've written anything on this blog about global warming, climate change, or most Earth-based environmental topics in general. After all, I'm a physicist -- an astrophysicist in particular -- and although I'm well-versed in the…
+© 2006-2019 Science 2.0. All rights reserved. Privacy statement. ScienceBlogs is a registered trademark of Science 2.0, a science media nonprofit operating under Section 501(c)(3) of the Internal Revenue Code. Contributions are fully tax-deductible.

@@ -1,0 +1,329 @@
+The Sale of Skin Lightening Creams Continues in Countries Where it’s Banned - Scribershive
+Home
+Topics
+Health & Well-being
+Sports & Games
+Culture
+Entertainment
+Politics
+Crime
+Art Work
+Podcasts
+Students
+Other
+ScribersHive Europe
+Writing Submissions
+Photography submissions
+Login
+Search
+Menu
+Twitter
+Facebook
+Instagram
+Blog
+You are here: Home / Blog / Health & Well-being / The Sale of Skin Lightening Creams Continues in Countries Where it’s B...
+Health & Well-being
+The Sale of Skin Lightening Creams Continues in Countries Where it’s Banned2 min read
+Skin lightening is a cosmetic procedure that aims to lighten dark areas of skin or achieve a generally paler tone that is practiced disproportionately amongst people of colour.
+Hydroquinone is an aromatic organic compound and a well-known molecule used in the treatment of pigmentation disorders and as a common ingredient in skin lightening creams.
+It works by targeting the Tyrosinase Enzyme, which is responsible for the synthesis of Melanin, the pigment that gives skin its colour.
+Research conducted in 1992 showed that the compound induced mononuclear cell leukaemia, renal tubular cell tumours and liver cancer in rodents.
+These effects have not since been observed in humans; however the compound has been associated with many adverse health effects.
+These include Dermatitis (acne) and exogenous Ochronosis, a rare disease (that affects 1 in 100,000 people) characterised by banana-shaped ochre coloured deposits in the skin.
+This occurs when the compound is used in concentrations of 2% or greater according to the American Academy of Dermatology.
+The use of the compound in products that haven’t been prescribed by a doctor are banned in the UK and Ghana, though citizens still sell and use skin lightening creams with the ingredient appearing in prominent amounts.
+A study conducted in 2017 with 410 high school students in Ghana found that over 60% of female students were engaged in skin bleaching and between 22% and 44% of students knew female teachers who practice skin bleaching.
+The researchers concluded that the practice of skin bleaching is well entrenched in Ghana as the occurrence of skin lightening in the high school was about the same as reported among adults in Ghana and other parts of Sub-Saharan Africa.
+Similarly, the practice of skin bleaching has been prevalent amongst women of African, Afro-Caribbean and Asian descent in the UK.
+Shop owners such as Banaras Hussain based in Peckham, South London and Meg Chucks based in Moston, Greater Manchester have been repeatedly fined for illegally selling skin lightening creams.
+Chucks, who is of African descent herself, claimed that she regularly uses and sells creams such as ‘Funbeaut’ a Nigerian-Manufactured product, which contains over 3% Hydroquinone.
+So why do these products continue to be purchased? The global market for skin lighteners is projected to be worth $31.2 billion by the year 2024.
+Yaba Amgborale Blay, PHD, whose research includes transnational skin bleaching, argues that colonialism continues to impact perceptions of and attitudes about skin colour and subsequently contribute to decisions to bleach one’s skin.
+As such, skin bleaching has and continues to be a global phenomenon and a growing public health concern which countries will have to take greater care of in the future.
+9th August 2018 /0 Comments/by Temi Dawodu
+Tags: Ghana, health, Hydroquinone, Skin Care, UK
+Share this entry
+Share on Facebook
+Share on Twitter
+Share on Google+
+Share on Pinterest
+Share on Linkedin
+Share on Reddit
+https://i2.wp.com/scribershive.com/wp-content/uploads/2018/08/actionvance-701055-unsplash.jpg?fit=5472%2C3648&ssl=1 3648 5472 Temi Dawodu https://scribershive.com/wp-content/uploads/2019/04/ScribersHive-Logo-Small-300x300.png Temi Dawodu2018-08-09 10:23:092018-08-09 10:23:09The Sale of Skin Lightening Creams Continues in Countries Where it’s Banned
+You might also like
+Teeze the Tangles
+How To Fight Homesickness
+Italy Bans Unvaccinated Students from Attending Class
+What of the thousands dying on our streets?
+270 Women Might have Died Due to Error in NHS’s system
+Vaping Linked with Damage of Vital Immune System Cells
+0 replies
+Leave a Reply
+Want to join the discussion?
+Feel free to contribute!
+Leave a Reply Cancel reply
+You must be logged in to post a comment.
+Topics
+Topics Select Category Art Work (9) Creative Writing Competition 2018 (10) Crime (47) Culture (91) Entertainment (78) Finance (5) Health & Well-being (43) News (5) Other (35) Photography Competition 2018 (9) Podcasts (3) Politics (117) Science & Technology (15) ScribersHive Europe (10) Sports & Games (67) Students (17) World Cup (70)
+Instagram
+Follow Me!
+World’s Largest Primark Store Offers More Than Just a Shopping Experience 4 views
+Depression 4 views
+Lepidopterophobia: The Fear of Butterflies 2 views
+The Sad times We live in: Brunei’s Anti – LGBT+ Laws 2 views
+Halal Place App Review (Interview #7)　2 views
+Notre Dame Cathedral to be Rebuilt After Fire 2 views
+Flowers of Manchester 2 views
+Art: You Either Love it or Hate it 2 views
+Knife Crime on Rise in the Capital 2 views
+Mental Health Awareness 2 views
+Where to find us
+Paddington Arts,
+32 Woodfield Rd,
+London,
+W9 2BE
+contactus@youpress.org.uk
+Join us
+Our Office Hours
+Mo-Fr: 10:00 am – 18:00 pm
+Saturday : closed
+Sunday : closed
+© Copyright - Scribershive | Powered by Julius
+Twitter
+Facebook
+Instagram
+The Winners & Losers of the Summer Transfer Window Dina Asher-Smith Wins Long Awaited Gold Medal in the 100m
+Scroll to top
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+OK
+<# } #> <# if ( "show_success" === content.after_successful_submission ) { #>
+{{{content.success_message}}}
+<# } #>
+<# if ( 'one' === design.form_layout ) { #> <# if ( '' !== content.main_content || ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) || ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) || ( _.isTrue( content.show_cta ) && '' !== content.cta_label ) ) { #>
+<# if ( ( 'left' === design.feature_image_position || 'above' === design.feature_image_position ) && _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #> <# if ( ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) || '' !== content.main_content || ( _.isTrue( content.show_cta ) && '' !== content.cta_label ) ) { #>
+<# if ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) { #>
+<# if ( '' !== content.title ) { #>
+{{ content.title }}
+<# } #> <# if ( '' !== content.sub_title ) { #>
+{{ content.sub_title }}
+<# } #>
+<# } #> {{{ content.main_content }}} <# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #>
+{{ content.cta_label }}
+<# } #>
+<# } #> <# if ( ( 'right' === design.feature_image_position || 'below' === design.feature_image_position ) && _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #>
+<# } #>
+<# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements && !_.isEmpty( content.form_elements ) ) { #> <# _.each( content.form_elements, function( element, key ) { var element_type = element.type.toLowerCase(); if ( 'recaptcha' === element_type ) { show_recaptcha = true; return; } if ( 'name' === element_type || 'address' === element_type || 'phone' === element_type ) { var input_type = 'text'; } else { var input_type = element_type; } #> <# if ( 'submit' !== key ) { #>
+<# if ( "none" !== design.form_fields_icon ) { #> <# if ( 'email' === element_type ) { #> <# } #> <# if ( 'name' === element_type ) { #> <# } #> <# if ( 'address' === element_type ) { #> <# } #> <# if ( 'phone' === element_type ) { #> <# } #> <# if ( 'text' === element_type ) { #> <# } #> <# if ( 'number' === element_type ) { #> <# } #> <# if ( 'url' === element_type ) { #> <# } #> <# if( _.isTrue( element.required ) ) { #> <# } #> <# } #> {{ element.placeholder }}
+<# } #> <# }); #> <# } #> <# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( _.isTrue( has_args ) ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements.submit && 'undefined' !== typeof content.form_elements.submit.label ) { #>
+{{ content.form_elements.submit.label }}
+<# } #>
+<# if ( _.isTrue(content.show_gdpr) && '' !== content.gdpr_message ) { #>
+{{{ content.gdpr_message }}}
+<# } #> <# if ( show_recaptcha ) { #> <# } #>
+<# } #> <# if ( 'two' === design.form_layout ) { #> <# if ( 'left' === design.feature_image_position && _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #>
+<# if ( ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) || '' !== content.main_content || ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) ) { #>
+<# if ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) { #>
+<# if ( '' !== content.title ) { #>
+{{ content.title }}
+<# } #> <# if ( '' !== content.sub_title ) { #>
+{{ content.sub_title }}
+<# } #>
+<# } #> {{{ content.main_content }}} <# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #>
+{{ content.cta_label }}
+<# } #>
+<# } #>
+<# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements && !_.isEmpty( content.form_elements ) ) { #> <# _.each( content.form_elements, function( element, key ) { var element_type = element.type.toLowerCase(); if ( 'recaptcha' === element_type ) { show_recaptcha = true; return; } if ( 'name' === element_type || 'address' === element_type || 'phone' === element_type ) { var input_type = 'text'; } else { var input_type = element_type; } #> <# if ( 'submit' !== key ) { #>
+<# if ( "none" !== design.form_fields_icon ) { #> <# if ( 'email' === element_type ) { #> <# } #> <# if ( 'name' === element_type ) { #> <# } #> <# if ( 'address' === element_type ) { #> <# } #> <# if ( 'phone' === element_type ) { #> <# } #> <# if ( 'text' === element_type ) { #> <# } #> <# if ( 'number' === element_type ) { #> <# } #> <# if ( 'url' === element_type ) { #> <# } #> <# if( _.isTrue( element.required ) ) { #> <# } #> <# } #> {{ element.placeholder }}
+<# } #> <# }); #> <# } #> <# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( _.isTrue( has_args ) ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements.submit && 'undefined' !== typeof content.form_elements.submit.label ) { #>
+{{ content.form_elements.submit.label }}
+<# } #>
+<# if ( _.isTrue(content.show_gdpr) && '' !== content.gdpr_message ) { #>
+{{{ content.gdpr_message }}}
+<# } #> <# if ( show_recaptcha ) { #> <# } #>
+<# if ( 'right' === design.feature_image_position && _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #> <# } #> <# if ( 'three' === design.form_layout ) { #> <# if ( 'right' === design.feature_image_position ) { #>
+<# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements && !_.isEmpty( content.form_elements ) ) { #> <# _.each( content.form_elements, function( element, key ) { var element_type = element.type.toLowerCase(); if ( 'recaptcha' === element_type ) { show_recaptcha = true; return; } if ( 'name' === element_type || 'address' === element_type || 'phone' === element_type ) { var input_type = 'text'; } else { var input_type = element_type; } #> <# if ( 'submit' !== key ) { #>
+<# if ( "none" !== design.form_fields_icon ) { #> <# if ( 'email' === element_type ) { #> <# } #> <# if ( 'name' === element_type ) { #> <# } #> <# if ( 'address' === element_type ) { #> <# } #> <# if ( 'phone' === element_type ) { #> <# } #> <# if ( 'text' === element_type ) { #> <# } #> <# if ( 'number' === element_type ) { #> <# } #> <# if ( 'url' === element_type ) { #> <# } #> <# if( _.isTrue( element.required ) ) { #> <# } #> <# } #> {{ element.placeholder }}
+<# } #> <# }); #> <# } #> <# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( _.isTrue( has_args ) ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements.submit && 'undefined' !== typeof content.form_elements.submit.label ) { #>
+{{ content.form_elements.submit.label }}
+<# } #>
+<# if ( _.isTrue(content.show_gdpr) && '' !== content.gdpr_message ) { #>
+{{{ content.gdpr_message }}}
+<# } #>
+<# if ( show_recaptcha ) { #> <# } #>
+<# } #> <# if ( ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) || '' !== content.main_content || ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) || ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #> <# if ( ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) || '' !== content.main_content || ( _.isTrue( content.show_cta ) && '' !== content.cta_label ) ) { #>
+<# if ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) { #>
+<# if ( '' !== content.title ) { #>
+{{ content.title }}
+<# } #> <# if ( '' !== content.sub_title ) { #>
+{{ content.sub_title }}
+<# } #>
+<# } #> {{{ content.main_content }}} <# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #>
+{{ content.cta_label }}
+<# } #>
+<# } #>
+<# } #> <# if ( 'left' === design.feature_image_position ) { #>
+<# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements && !_.isEmpty( content.form_elements ) ) { #> <# _.each( content.form_elements, function( element, key ) { var element_type = element.type.toLowerCase(); if ( 'recaptcha' === element_type ) { show_recaptcha = true; return; } if ( 'name' === element_type || 'address' === element_type || 'phone' === element_type ) { var input_type = 'text'; } else { var input_type = element_type; } #> <# if ( 'submit' !== key ) { #>
+<# if ( "none" !== design.form_fields_icon ) { #> <# if ( 'email' === element_type ) { #> <# } #> <# if ( 'name' === element_type ) { #> <# } #> <# if ( 'address' === element_type ) { #> <# } #> <# if ( 'phone' === element_type ) { #> <# } #> <# if ( 'text' === element_type ) { #> <# } #> <# if ( 'number' === element_type ) { #> <# } #> <# if ( 'url' === element_type ) { #> <# } #> <# if( _.isTrue( element.required ) ) { #> <# } #> <# } #> {{ element.placeholder }}
+<# } #> <# }); #> <# } #> <# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( _.isTrue( has_args ) ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements.submit && 'undefined' !== typeof content.form_elements.submit.label ) { #>
+{{ content.form_elements.submit.label }}
+<# } #>
+<# if ( _.isTrue(content.show_gdpr) && '' !== content.gdpr_message ) { #>
+{{{ content.gdpr_message }}}
+<# } #>
+<# if ( show_recaptcha ) { #> <# } #>
+<# } #> <# } #> <# if ( 'four' === design.form_layout ) { #> <# if ( 'left' === design.feature_image_position ) { #>
+<# if ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #>
+<# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements && !_.isEmpty( content.form_elements ) ) { #> <# _.each( content.form_elements, function( element, key ) { var element_type = element.type.toLowerCase(); if ( 'recaptcha' === element_type ) { show_recaptcha = true; return; } if ( 'name' === element_type || 'address' === element_type || 'phone' === element_type ) { var input_type = 'text'; } else { var input_type = element_type; } #> <# if ( 'submit' !== key ) { #>
+<# if ( "none" !== design.form_fields_icon ) { #> <# if ( 'email' === element_type ) { #> <# } #> <# if ( 'name' === element_type ) { #> <# } #> <# if ( 'address' === element_type ) { #> <# } #> <# if ( 'phone' === element_type ) { #> <# } #> <# if ( 'text' === element_type ) { #> <# } #> <# if ( 'number' === element_type ) { #> <# } #> <# if ( 'url' === element_type ) { #> <# } #> <# if( _.isTrue( element.required ) ) { #> <# } #> <# } #> {{ element.placeholder }}
+<# } #> <# }); #> <# } #> <# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( _.isTrue( has_args ) ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements.submit && 'undefined' !== typeof content.form_elements.submit.label ) { #>
+{{ content.form_elements.submit.label }}
+<# } #>
+<# if ( _.isTrue(content.show_gdpr) && '' !== content.gdpr_message ) { #>
+{{{ content.gdpr_message }}}
+<# } #> <# if ( show_recaptcha ) { #> <# } #>
+<# } #> <# if ( ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) || '' !== content.main_content || ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) ) { #>
+<# if ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) { #>
+<# if ( '' !== content.title ) { #>
+{{ content.title }}
+<# } #> <# if ( '' !== content.sub_title ) { #>
+{{ content.sub_title }}
+<# } #>
+<# } #> {{{ content.main_content }}} <# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #>
+{{ content.cta_label }}
+<# } #>
+<# } #> <# if ( 'right' === design.feature_image_position ) { #>
+<# if ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #>
+<# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements && !_.isEmpty( content.form_elements ) ) { #> <# _.each( content.form_elements, function( element, key ) { var element_type = element.type.toLowerCase(); if ( 'recaptcha' === element_type ) { show_recaptcha = true; return; } if ( 'name' === element_type || 'address' === element_type || 'phone' === element_type ) { var input_type = 'text'; } else { var input_type = element_type; } #> <# if ( 'submit' !== key ) { #>
+<# if ( "none" !== design.form_fields_icon ) { #> <# if ( 'email' === element_type ) { #> <# } #> <# if ( 'name' === element_type ) { #> <# } #> <# if ( 'address' === element_type ) { #> <# } #> <# if ( 'phone' === element_type ) { #> <# } #> <# if ( 'text' === element_type ) { #> <# } #> <# if ( 'number' === element_type ) { #> <# } #> <# if ( 'url' === element_type ) { #> <# } #> <# if( _.isTrue( element.required ) ) { #> <# } #> <# } #> {{ element.placeholder }}
+<# } #> <# }); #> <# } #> <# if ( _.isTrue( have_mc_group ) && 'hidden' !== content.args.group.type ) { #>
+<# } #> <# if ( _.isTrue( has_args ) ) { #>
+<# } #> <# if ( 'undefined' !== typeof content.form_elements.submit && 'undefined' !== typeof content.form_elements.submit.label ) { #>
+{{ content.form_elements.submit.label }}
+<# } #>
+<# if ( _.isTrue(content.show_gdpr) && '' !== content.gdpr_message ) { #>
+{{{ content.gdpr_message }}}
+<# } #> <# if ( show_recaptcha ) { #> <# } #>
+<# } #> <# } #>
+<# } #>
+<# if ( 'left' === design.feature_image_position && ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #> <# if ( content.main_content !== '' || ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) || ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) ) { #>
+<# if ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) { #>
+<# if ( '' !== content.title ) { #>
+{{ content.title }}
+<# } #> <# if ( '' !== content.sub_title ) { #>
+{{ content.sub_title }}
+<# } #>
+<# } #> <# if ( '' !== content.main_content ) { #>
+{{{ content.main_content }}}
+<# } #> <# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #>
+<# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #> {{ content.cta_label }} <# } #>
+<# } #>
+<# } #> <# if ( 'right' === design.feature_image_position && ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #>
+<# } else if ( 'minimal' === design.style ) { #> <# if ( 'embedded' !== module_type ) { #>
+<# } #>
+<# if ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) { #>
+<# if ( '' !== content.title ) { #>
+{{ content.title }}
+<# } #> <# if ( '' !== content.sub_title ) { #>
+{{ content.sub_title }}
+<# } #>
+<# } #> <# if ( '' !== content.main_content || ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( 'left' === design.feature_image_position && ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #> <# if ( '' !== content.main_content ) { #>
+{{{ content.main_content }}}
+<# } #> <# if ( 'right' === design.feature_image_position && ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #>
+<# } #> <# if ( _.isTrue( content.show_cta ) && '' !== content.cta_label && '' !== content.cta_url ) { #>
+<# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #> {{ content.cta_label }} <# } #>
+<# } #>
+<# } else { // ( 'cabriolet' === design.style ) #>
+<# if ( _.isTrue( content.has_title ) && ( '' !== content.title || '' !== content.sub_title ) ) { #>
+<# } else { #>
+<# } #> <# if ( 'embedded' !== module_type ) { #>
+<# } #> <# if ( _.isTrue( content.has_title ) && '' !== content.title ) { #>
+{{ content.title }}
+<# } #> <# if ( _.isTrue( content.has_title ) && '' !== content.sub_title ) { #>
+{{ content.sub_title }}
+<# } #>
+<# if ( '' !== content.main_content || ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) || ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) ) { #>
+<# if ( 'left' === design.feature_image_position && ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #> <# if ( '' !== content.main_content || ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) ) { #>
+<# if ( '' !== content.main_content ) { #>
+{{{ content.main_content }}}
+<# } #> <# if ( _.isTrue( content.show_cta ) && '' !== content.cta_label && '' !== content.cta_url ) { #>
+<# if ( _.isTrue( content.show_cta ) && ( '' !== content.cta_label && '' !== content.cta_url ) ) { #> {{ content.cta_label }} <# } #>
+<# } #>
+<# } #> <# if ( 'right' === design.feature_image_position && ( _.isTrue( content.use_feature_image ) && '' !== content.feature_image ) ) { #>
+<# if ( 'contain' === design.feature_image_fit || 'cover' === design.feature_image_fit ) { #> <# if ( 'custom' !== design.feature_image_horizontal || 'custom' !== design.feature_image_vertical ) { #> <# } else { #> <# } #> <# } else { #> <# } #>
+<# } #>
+<# } #>
+<# } #>
+<# } #> <# if ( 'twitter' === key ) { #> <# } #> <# if ( 'google' === key ) { #> <# } #> <# if ( 'pinterest' === key ) { #> <# } #> <# if ( 'reddit' === key ) { #> <# } #> <# if ( 'linkedin' === key ) { #> <# } #> <# if ( 'vkontakte' === key ) { #> <# } #> <# if ( 'fivehundredpx' === key ) { #> <# } #> <# if ( 'houzz' === key ) { #> <# } #> <# if ( 'instagram' === key ) { #> <# } #> <# if ( 'twitch' === key ) { #> <# } #> <# if ( 'youtube' === key ) { #> <# } #> <# if ( 'telegram' === key ) { #> <# } #>
+<# if ( 'native' === service_type ) { if ( 'click' === click_counter ) { #>
+{{ icon.counter }}
+<# } else if ( 'native' === click_counter && _.isFalse( _.isUndefined( icon.native_counter ) ) && icon.native_counter !== 0 ) { #>
+{{ icon.native_counter }}
+<# } else if ( false ) { #>
+9
+<# } } #> <# } ); } #>
+<# } else { #>
+<# if ( !_.isEmpty(social_icons) ) { _.each( social_icons, function( icon, key ){ #>
+<# if ( 'facebook' === key ) { #> <# } #> <# if ( 'twitter' === key ) { #> <# } #> <# if ( 'google' === key ) { #> <# } #> <# if ( 'pinterest' === key ) { #> <# } #> <# if ( 'reddit' === key ) { #> <# } #> <# if ( 'linkedin' === key ) { #> <# } #> <# if ( 'vkontakte' === key ) { #> <# } #> <# if ( 'fivehundredpx' === key ) { #> <# } #> <# if ( 'houzz' === key ) { #> <# } #> <# if ( 'instagram' === key ) { #> <# } #> <# if ( 'twitch' === key ) { #> <# } #> <# if ( 'youtube' === key ) { #> <# } #> <# if ( 'telegram' === key ) { #> <# } #>
+<# if ( 'native' === service_type ) { if ( 'click' === click_counter ) { #>
+{{ icon.counter }}
+<# } else if ( 'native' === click_counter && _.isFalse( _.isUndefined( icon.native_counter ) ) && icon.native_counter !== 0 ) { #>
+{{ icon.native_counter }}
+<# } else if ( false ) { #>
+9
+<# } } #> <# } ); } #>
+<# } #>
+<# if ( group.type === 'dropdown' ) { #>
+<# _.each( interests, function( interest, key ) { #> <# if ( typeof interest.value !== 'undefined' ) { #> {{interest.label}} <# } else {#> <# } #>	<# }); #>
+<# (function( $ ) { "use strict"; function convertToWpmuiSelect() { $('.hustle-select').wpmuiSelect({ allowClear: false, minimumResultsForSearch: Infinity, containerCssClass: "hustle-select2", dropdownCssClass: "hustle-select-dropdown", width: "100%" }); $( ".hustle-option--select" ).wpmuiSelect({ allowClear: false, minimumResultsForSearch: Infinity, containerCssClass: "hustle-option--select2", dropdownCssClass: "hustle-option--select2-dropdown" }); } if ( $.isReady ) { //for embedded $(document).on('hustle:module:displayed', convertToWpmuiSelect ); } else { $(document).ready(function() { convertToWpmuiSelect(); }); } }(jQuery)); #> <# } #> <# if( group.type === 'checkboxes' ) { #>
+<# _.each( interests, function( interest, key ) { #>
+{{interest.label}}
+<# }); #>
+<# } #> <# if( group.type === 'radio' ) { #>
+<# _.each( interests, function( interest, key ) { #>
+{{interest.label}}
+<# }); #>
+<# } #>
+<# } else { _.each( interests, function( interest, key ) { if( (typeof selected !== 'undefined') && ( selected.indexOf(interest.value) !== -1 ) ) { #> <# } }); } #>
+<# } #>

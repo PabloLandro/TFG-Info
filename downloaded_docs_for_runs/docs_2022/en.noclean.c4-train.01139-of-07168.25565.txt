@@ -1,0 +1,240 @@
+Correlation of Androgen Deprivation Therapy with Cognitive Dysfunction in Patients with Prostate Cancer: A Nationwide Population-Based Study Using the National Health Insurance Service Database
+E-mail this Article
+Original Article
+Correlation of Androgen Deprivation Therapy with Cognitive Dysfunction in Patients with Prostate Cancer: A Nationwide Population-Based Study Using the National Health Insurance Service Database
+Bum Sik Tae, Byung Jo Jeon, Seung Hun Shin, Hoon Choi, Jae Hyun Bae, Jae Young Park
+DOI : https://doi.org/10.4143/crt.2018.119
+Your Name *
+Your E-mail *
+Recipient's E-mail *
+Message
+/500 characters
+| Home | E-Submission | Sitemap | Contact Us |
+Aims and Scope
+About the Journal
+Editorial Board
+Open Access
+Article Processing Charge
+Editorial Office
+Instructions for Authors
+Research and Publication Ethics
+Checklist
+E-Submission
+Copyright Transfer Agreement
+Journal Archive
+Accepted Articles
+Epub Ahead-of Print Articles
+Current Issue
+Most Read Articles
+Most Cited Articles
+Cancer Research and Treatment Search
+Author Index
+Cancer Research and Treatment > Volume 51(2); 2019 > Article
+Tae, Jeon, Shin, Choi, Bae, and Park: Correlation of Androgen Deprivation Therapy with Cognitive Dysfunction in Patients with Prostate Cancer: A Nationwide Population-Based Study Using the National Health Insurance Service Database
+Original Article
+Cancer Research and Treatment : Official Journal of Korean Cancer Association 2019; 51(2): 593-602.
+Published online: July 18, 2018
+DOI: https://doi.org/10.4143/crt.2018.119
+Correlation of Androgen Deprivation Therapy with Cognitive Dysfunction in Patients with Prostate Cancer: A Nationwide Population-Based Study Using the National Health Insurance Service Database
+Bum Sik Tae, MD1, Byung Jo Jeon, MD1, Seung Hun Shin2, Hoon Choi, MD, PhD1, Jae Hyun Bae, MD, PhD1, Jae Young Park, MD, PhD1
+1Department of Urology, Korea University Ansan Hospital, Korea University College of Medicine, Ansan, Korea
+2Korea University School of Medicine, Seoul, Korea
+Correspondence: Jae Young Park, MD, PhD
+Department of Urology, Korea University Ansan Hospital, Korea University College of Medicine, 123 Jeokgeum-ro, Danwon-gu, Ansan 15355, Korea
+Tel: 82-31-412-5190 Fax: 82-31-412-5194 E-mail: jaeyoungpark@korea.ac.kr
+Received February 20, 2018 Accepted July 16, 2018
+Copyright © 2019 by the Korean Cancer Association
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Abstract
+Purpose
+The purpose of this study was to evaluate the association of androgen deprivation therapy (ADT) with cognitive dysfunction.
+Materials and Methods
+Using the National Health Insurance Service database of the entire Korean adult prostate cancer population (n=236,391), data on ADT and cognitive dysfunction between 2008 and 2015 were analyzed. We excluded patients previously diagnosed with cognitive dysfunction, dementia, or a cerebral event history. We tested the effect of ADT on the risk of cognitive dysfunction using propensity score–matched Cox proportional hazards regression models and Kaplan-Meier survival analysis. Our final cohort comprised of 35,401 individuals with prostate cancer, including 24,567 men (70.6%) who underwent ADT.
+Results
+During a mean follow-up period of 4.1 years, 4,741 patients were newly diagnosed with cognitive dysfunction. A statistically significant association was found between ADT and the risk of cognitive dysfunction (hazard ratio, 1.169; p=0.002). Meanwhile, age (≥ 70 years), diabetes, hypertension, cardiovascular history, and peripheral vascular disease were identified as factors that contribute to the increased risk of cognitive dysfunction. In contrast, the use of statins and aspirin was associated with a lower risk of cognitive dysfunction. Kaplan-Meier analysis demonstrated that patients aged 70 years or older who underwent ADT had the lowest cumulative probability of remaining cognitive dysfunction-free (log-rank p < 0.001).
+Conclusion
+Our results revealed an association between the use of ADT for the treatment of prostate cancer and an increased risk of cognitive dysfunction in a nationwide population-based study. This finding should be further evaluated in prospective studies.
+Key words: Prostate neoplasm, Androgen deprivation therapy, Cognitive dysfunction, Nationwide population-based study
+Introduction
+Androgen deprivation therapy (ADT) is the mainstay treatment for metastatic prostate cancer (PC) [1]. Recently, the use of ADT has increased markedly, with 500,000 men currently undergoing ADT for PC in the United States and 50% of men with PC in industrialized countries undergoing ADT during their lifetime [2]. ADT decreases testosterone levels, suppresses prostate-specific antigen levels, stabilizes the disease, and potentially prolongs survival in PC [3]. However, decreasing serum testosterone levels in PC patients are thought to contribute to developing various adverse effects and chronic diseases [4].
+Recently, many previous studies have demonstrated that patients with PC undergoing ADT had an increased risk of developing chronic diseases, such as metabolic syndrome, cardiovascular diseases, fractures, anxiety, and depression [3-6]. Indeed, the occurrence of cognitive dysfunction is based on the known association between age-related decline in testosterone levels and cognitive decline [7,8]. However, the relationship between ADT and cognitive dysfunction is controversial. In a general population cohort study, Nead et al. [9,10] showed that undergoing ADT for treating PC increased the risk of dementia and Alzheimer disease (AD). In contrast, in another population-based study, Khosrow-Khavar et al. [11] demonstrated that ADT was not associated with an increased risk of dementia. In addition, Kao et al. [12] reported that no difference was found in the risk of subsequent dementia between Asian patients with PC who did and did not undergo ADT in their large retrospective cohort study. The difference between the results of the aforementioned studies may be due to the low prevalence of dementia in the study cohort.
+Considering that one-half of PC diagnoses are made in men aged more than 65 years, potential side effects of treatment that may accelerate cognitive aging as well as increase the risk of dementia require careful consideration in a population already at increased risk [13]. However, only a few large-cohort studies have investigated the association of ADT with a wide range of cognitive dysfunctions. Thus, we aimed to evaluate, using a nationwide population-based cohort, whether ADT is associated with an increased risk of cognitive dysfunction, including dementia and AD, in patients with PC.
+Materials and Methods
+1. Study population selection and design
+We used data from the national health claims database of the National Health Insurance Service (NHIS) of Korea, a mandatory universal health insurance program that provides comprehensive medical care coverage to almost of the entire Korean population (approximately 50 million people) [14]. Since 2006, the information from the Medical Aid program has been integrated within a single NHIS database. Therefore, the NHIS claims database includes the actual claims data of the entire Korean population. The NHIS database consists of diagnoses, procedures, prescription records, and demographic information. We identified diagnoses using the International Classification of Disease, Tenth Revision, Clinical Modification (ICD-10-CM) codes.
+2. Definition of outcomes and covariates
+Data for all Koreans aged ≥ 20 years with PC (ICD-10-C61) from January 1, 2008 to December 31, 2015 were included. To control for differential frequency of follow-up, patients without exposure to ADT were only included if they had followup visits after the median time of undergoing ADT in the exposed group. Exclusion criteria were as follows. First, to prevent the inclusion of patients receiving ongoing treatment or those previously diagnosed, we excluded patients who were diagnosed with PC in 2007, who had received related treatment in this period, or who did not show a prostate biopsy billing code (C8551, C8552) prior to being diagnosed with PC. Second, patients with a history of cognitive dysfunction or cerebral disease (ischemic stroke or transient ischemic attack at any time before cohort entry) were excluded from this analysis. Third, patients who underwent ADT but had developed dementia (any type) or cognitive dysfunction prior to starting ADT were excluded. Fourth, based on previous evidence of chemotherapy-related cognitive impairment, patients with PC who had a prior history of chemotherapy or who received chemotherapy after diagnosis were excluded [15].
+We defined cognitive dysfunction as the loss of intellectual functions, such as thinking, remembering, and reasoning, with sufficient severity to interfere with daily functioning, including dementia or AD. Cognitive dysfunction was identified using ICD-10 diagnostic codes (S1 Table). To improve diagnostic accuracy and avoid overestimation due to the inclusion of subjects with cognitive dysfunction, we only included patients with cognitive dysfunction with one and more diagnoses during hospitalization or tow and more diagnoses in the outpatient clinic. Among those undergoing ADT, incident cognitive dysfunction was ascertained after the initiation of ADT and at least 180 days after the diagnosis of PC.
+Adjustment covariates included age at PC diagnosis, use of antiplatelet, anticoagulant, and statin medications; and a history of hypertension (HTN), myocardial infarction (MI), congestive heart failure (CHF), peripheral vascular disease (PVD), type 1 or 2 diabetes mellitus (DM), renal disease (RD), or malignant neoplasm (as defined in S1 Table). Medication use and history of comorbidities were determined using data collected 12 months prior through 6 months after PC was diagnosed. A history of cardiovascular disease was determined using data collected 12 months prior through 6 months after PC was diagnosed. A history of stroke was determined using only data collected before PC was diagnosed.
+ADT included the administration of gonadotropin-releasing hormone agonists (leuprolide, goserelin, and triptorelin), oral antiandrogens (cyproterone acetate, flutamide, and bicalutamide), and estrogens (estramustine) and undergoing bilateral orchiectomy (S2 Table).
+3. Statistical analysis
+The end of the follow-up period was defined as the date of the last available record, either inpatient or outpatient, or the time of cognitive dysfunction diagnosis. Chi-square tests were used to investigate differences in characteristics between patients with PC who underwent ADT and those who did not undergo ADT. Hazard ratios (HRs) were calculated using propensity score–matched and traditional multivariable-adjusted Cox proportional hazards regression models to test the effect of ADT on the risk of cognitive dysfunction. We used 1:1 nearest-neighbor propensity score matching without replacement. Variables included in the propensity score matching and in the traditional multivariable-adjusted Cox proportional hazards regression analyses included age at PC diagnosis, use of antiplatelet, anticoagulant, or statin medications, and a history of cardiovascular disease (CHF, HTN, DM, PVD, and RD), or prior cancer history.
+Kaplan-Meier curves were generated to examine the cumulative probability of remaining cognitive dysfunctionfree in the propensity score-matched and unmatched cohorts. The duration of ADT was also evaluated to determine its association with the risk of cognitive dysfunction. Specifically, we examined the risk of cognitive dysfunction among those with PC who received fewer than 12 months of ADT and 12 months or more of ADT compared with those who did not receive ADT using Cox proportional hazards regression models. We also stratified our analysis using 70 years of age as the cut-off, given the recommendations for comprehensive geriatric assessments of all patients with cancer aged 70 years or older [16]. Kaplan-Meier curves were compared using log-rank tests for those aged younger or older than 70 years who did and did not undergo ADT. All analyses in this study were conducted using the SAS ver. 9.2 (SAS System for Windows, SAS Institute Inc., Cary, NC).
+4. Ethical statement
+To protect their information and identities, all patients received an anonymous identification code in the NHIS database. The study was approved by the Institutional Review Board of Korea University Ansan Hospital (IRB No. 2017-AS0121) and performed in accordance with the principles of the Declaration of Helsinki. The authors could not identify any of the patients included. The need for informed consent was waived.
+Results
+All inclusion and exclusion criteria were met by 37,549 individuals with PC (Fig. 1). Table 1 presents the characteristics of the 37,549 patients constituting the PC cohort, categorized by whether they did or did not undergo ADT (24,929 patients underwent ADT). During a mean follow-up period of 1,492 (±849.8) days, 4,743 patients (12.6%) were newly diagnosed with cognitive dysfunction. In the unmatched cohort, individuals undergoing ADT were statistically significantly older, had a history of CHF, PVD, or prior malignant neoplasm, and had less statin use. However, no statistically significant differences existed among the measured baseline covariates in the propensity score–matched cohort. In the multivariable Cox regression analysis, ADT was correlated with cognitive dysfunction (HR, 1.169; 95% confidence interval [CI], 1.077 to 1.270; p=0.002) (Table 2). In addition, age (≥ 70 years: HR, 2.583; 95% CI, 2.375 to 2.810; p < 0.001) and a history of HTN (HR, 1.106; 95% CI, 1.011 to 1.209; p=0.027), DM (HR, 1.422; 95% CI, 1.291 to 1.567; p < 0.001), MI (HR, 1.676; 95% CI, 1.182 to 2.377; p=0.004), or PVD (HR, 1.243; 95% CI, 1.075 to 1.438; p=0.003) showed statistically significant associations with the risk of cognitive dysfunction according to multivariable analysis. In terms of medication history, the use of antiplatelets (HR, 0.904; 95% CI, 0.821 to 0.995; p=0.040) and statins (HR, 0.645; 95% CI, 0.587 to 0.709; p < 0.001) was correlated with a decreased risk of cognitive dysfunction (p < 0.05). Analyses stratified by duration of ADT demonstrated that individuals who received at least 12 months of ADT had the greatest risk for cognitive dysfunction (HR, 1.399; 95% CI, 1.264 to 1.548; p < 0.001) (Table 3).
+Kaplan-Meier analyses showed that those undergoing ADT had a lower cumulative probability of remaining cognitive dysfunction-free compared with the group not undergoing ADT in unmatched cohorts (log-rank p < 0.001) (Fig. 2). Age-stratified Kaplan-Meier analyses demonstrated a lower cumulative probability of remaining cognitive dysfunctionfree among those aged over 70 years who underwent ADT versus those aged over 70 years who did not undergo ADT in both cohorts (log-rank p < 0.001). However, no difference was found in the cumulative probability of remaining cognitive dysfunction-free among those aged less than 70 years who underwent ADT versus those aged less than 70 years who did not undergo ADT (log-rank p > 0.05). In the matched cohort, Kaplan-Meier analyses also showed that those undergoing ADT had a lower cumulative probability of remaining cognitive dysfunction-free compared with the group not undergoing ADT (log-rank p=0.003) (Fig. 3). Agestratified Kaplan-Meier analyses demonstrated a lower cumulative probability of remaining cognitive dysfunctionfree among those aged over 70 years who underwent ADT versus those aged over 70 years who did not undergo ADT (log-rank p < 0.001). We found that the cumulative probabilities of developing cognitive dysfunction at 5 years were 23.8%, 17.6%, 6.7%, and 6.5% among those aged 70 years or older who received ADT, those aged 70 years or older who did not receive ADT, those aged less than 70 years who received ADT, and those aged less than 70 years who did not receive ADT, respectively.
+Discussion
+Numerous studies have examined the association between testosterone levels in men and performance on various cognitive tests. Previous studies have revealed associations between bioavailable testosterone levels and working memory, verbal memory, and attention [17,18]. In addition, there is a possible explanation for the effect of gonadotropin levels on the role of sex steroids in relation to cognition and brain function. Luteinizing hormone levels were found to be negatively associated with memory recall in elderly men, independent of total and free testosterone levels and after adjustment for age, education, and depression [19]. In addition, testosterone has been speculated to protect the brain against AD by specifically protecting against hyperphosphorylation of small microtubule-associated protein (tau) and regulating the accumulation of β-amyloid, which results in neurotoxic plaque formation [20].
+As mentioned above, the association between ADT and cognitive dysfunction remains controversial. Indeed, previous observational studies reporting a positive association between ADT and different cognitive domains had various methodological limitations, including small sample sizes, short follow-up durations, cross-sectional study designs, lack of a comparator group (pre-post study design) or comparator groups consisting of patients without cancer, and lack of adjustment for important confounders, including lifestyle variables [21,22].
+However, one meta-analysis demonstrated no significant differences in the cognitive domains that are pertinent to dementia, including performance in attention/working memory, executive function, language, verbal memory, visual memory, and visuospatial ability [23]. However, this meta-analysis evaluated only 14 studies with 585 patients with PC and a less than 3-year follow-up period. However, this link is particularly relevant as the population of older long-term cancer survivors continues to grow, and the potential connection magnifies the chronic health implications of adverse treatment effects. In addition, longitudinal studies may suffer from confounders of incident morbidity over time.
+Hence, large, national population, big data studies are emerging as new opportunities to elucidate this potential association [24]. Indeed, Nead et al. [9,10] demonstrated that ADT was associated with increased AD and dementia in a general population cohort study. In Asia, while Kao et al. [12] initially evaluated the relationship between ADT and dementia only using big data, their subsequent 5-year follow-up study demonstrated no risk of dementia. Despite the large sample size of the initial study, the number of patients enrolled in the follow-up study was only 1,314. Thus, the effects of ADT on cognitive function in a national population-based sample have remained unclear. The present population-based study revealed a risk of cognitive dysfunction in patients with PC who underwent ADT compared with patients with PC who did not undergo ADT. In addition, elderly patients who underwent ADT had a higher risk of cognitive dysfunction compared to other patients. To the best of knowledge, this is the first study to demonstrate the relationship between ADT and cognitive dysfunction in an Asian population.
+In this study, DM, HTN, MI, and PVD were revealed as risk factors in multivariable analysis, which supports the vascular risk factor hypothesis in the pathogenesis of cognitive dysfunction. Vascular risk factors, including HTN, DM, coronary artery disease, and PVD increase the risk of cognitive dysfunction [25-28]. Notably, the use of statin or antiplatelet medications was found to decrease the risk for cognitive dysfunction in this study. In a recent randomized placebo-controlled trial, Chan et al. [29] found the evidence of a positive effect of statins on frontal lobe function and a physical quality-of-life measure. However, the effect of antiplatelet drugs on cognitive dysfunction remains controversial. While preclinical models have suggested that aspirin may decrease neuroinflammation and oxidative stress in the central nervous system [30], a recent meta-analysis suggested that there is no evidence that low-dose aspirin prevents cognitive dysfunction or improves cognitive test scores in randomized controlled trials [31]. In patients with PC, previous studies showed that medication use (antiplatelets, anticoagulants, and statins) had no correlation with dementia or AD in multivariate analysis [9,11]. However, the results of our nationwide population-based study are encouraging in that the use of such medications may potentially lower the risk of cognitive dysfunction due to ADT.
+Nead et al. [10] showed that patients who underwent ADT had a higher dementia risk compared to those not undergoing ADT in their age-stratified analysis. Our findings were similar with the exception of those for patients aged less than 70 years, for whom no difference in the cumulative probability of cognitive dysfunction was found between the ADT and no-ADT groups. Current finding may be associated with the heterogeneity of the patients or broader diagnosis than that of previous studies. Nonetheless, we can infer that ADT may accelerate cognitive dysfunction in elderly patients with PC aged over 70 years.
+In our study, 12.6% of patients with PC were newly diagnosed with cognitive dysfunction. This proportion is relatively high compared with that reported in previous studies and can be explained as follows. First, previous studies established the occurrence of dementia or AD as the primary endpoint. We believe that the association of ADT with dementia remains controversial because the number of patients who progress to dementia is small. Thus, we expanded the scope of the study to include the relationship between ADT and cognitive dysfunction using diagnose code, including the loss of intellectual functions such as thinking, remembering, and reasoning, of sufficient severity to interfere with daily functioning. Second, the prevalence of dementia and cognitive dysfunction in Korea is reportedly higher than that in Western or other Asian countries [32]. In their Nationwide Survey on Dementia Epidemiology, Han et al. [32] showed that the urbanicity-standardized prevalence rates of dementia and mild cognitive impairment were 8.74 and 31.85%. This difference may be due to methodological variability in the diagnosis of dementia or cognitive dysfunction between countries. In addition, there is also a possibility that the Korean health insurance system may include more patients owing to the implementation of a long-term care program for various geriatric diseases for elderly people aged over 65 years [33].
+In this study, an analysis of the relationship between cognitive dysfunction and other hormonal agents (e.g., enzalutamide or abiraterone) could not be conducted because we were unable to find patients who were treated with these hormonal agents among our cohort for the following reasons. First, abiraterone and enzalutamide were approved by the Ministry of Food and Drug Safety in Korea in June 2012 and 2013, respectively. Therefore, it is presumed that among the patients diagnosed and followed up to 2015, not many were actually receiving new-generation hormone therapy. Secondly, in Korea, only the second generation hormonal therapy that is used after chemotherapy treatment is approved for insurance coverage; therefore, most patients are taking it after chemotherapy. So far, no worldwide study has explored the relationship between new-generation hormone therapy and cognitive dysfunction. Recently, Lange et al. [34] presented their protocol for a prospective study analyzing the correlation between new-generation hormone therapy and cognitive dysfunction, but their results have yet to be released.
+Although some previous studies have investigated this issue, the specific contributions of the present study are as follows. First, to the best of our knowledge, this study is the first to show that ADT is associated with cognitive dysfunction in Asian patients with PC. Second, as mentioned above, our national population-based study findings have suggested that certain comorbidities (HTN, DM, MI, and PVD) may be risk factors for cognitive dysfunction in patients with PC. Third, our study suggests that antiplatelet and statin use may potentially prevent cognitive impairment in patients with PC undergoing ADT. Finally, this study includes unique descriptions of longitudinal data from the entire Korean PC population rather than data from selected or registered patients from trials, specific insurance claim providers, or sponsored registries. Therefore, our findings reflect the real-world clinical practice pattern of ADT use at a nationwide scale.
+Despite the highlights mentioned above, our study has some limitations. First, this study had a retrospective observational design based on claims data, and our criteria for cognitive dysfunction were limited to diagnosis codes. However, as mentioned above, the Korean government established a long-term care program that covers adults aged 65 years and older and those aged less than 65 years with various geriatric or other diseases (e.g., dementia, Parkinson disease, and stroke), as determined at the national level by a presidential decree [33]. Thus, the NHIS database covers almost all geriatric-related diseases. Second, the claims database did not provide detailed, patient-level clinical data regarding PC, such as Gleason scores, pathologic stage assessment, or cognitive dysfunction tests, such as the Mini-Mental State Examination. Third, neither inadequate treatment due to poor drug adherence nor longitudinal data regarding interruptions in ADT were reflected in this study. The start of follow-up differed between those who did and did not undergo ADT, which may have introduced an immortal time bias. Fourth, since the NHIS database analyzed in this study yielded a maximum of 10 years of data, the follow-up period was limited to 10 years. Nevertheless, previous studies also reported a mean follow-up period of between 4.3 and 5 years, and the longest reported follow-up period was similar to that in our study (4.1 years) [9,11,12]. If a longer timeframe of nationwide population data becomes available, more accurate research results will be obtained. Finally, there is the possibility of code errors in such a large database.
+In conclusion, this population-based retrospective cohort study found that ADT is a risk factor for cognitive dysfunction in patients with PC, especially old age patients. Our study expands upon previous work by supporting a correlation between treatment with ADT and cognitive dysfunction and suggests that ADT may more broadly affect neurocognitive function. In addition, the use of antiplatelet or statin medications demonstrated the potential to prevent cognitive dysfunction in patients with PC in this study. Further well-designed, prospective studies with a large sample size are warranted to validate our hypotheses.
+Electronic Supplementary Material
+Supplementary materials are available at Cancer Research and Treatment website (http://www.e-crt.org).
+crt-2018-119-suppl1.pdf
+crt-2018-119-suppl2.pdf
+Conflicts of Interest
+Conflict of interest relevant to this article was not reported.
+Acknowledgments
+This research was supported by a Korea University Grant and Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science, ICT & Future Planning (2017R1A2B4005876).
+Fig. 1.
+Study flow diagram of the cohort of patients newly diagnosed with prostate cancer in the Korean national health insurance system between 2008 and 2015. ADT, androgen deprivation therapy.
+Fig. 2.
+Kaplan-Meier curves of cognitive dysfunction-free probability in the unmatched cohort. (A) Kaplan-Meier curves of cognitive dysfunction-free probability in patients with prostate cancer who did undergo androgen deprivation therapy (ADT) (red) and did not undergo ADT (blue). (B) Kaplan-Meier curves of cognitive dysfunction-free probability in patients with prostate cancer aged less than 70 years who did not undergo ADT (blue), those aged less than 70 years who did undergo ADT (red), those aged 70 years or older who did not undergo ADT (green), and those aged less than 70 years who did undergo ADT (orange).
+Fig. 3.
+Kaplan-Meier curves of cognitive dysfunction-free probability in the propensity score-matched cohort. (A) KaplanMeier curves of cognitive dysfunction-free probability in patients with prostate cancer with androgen deprivation therapy (ADT) (red) and without ADT (blue). (B) Kaplan-Meier curves of cognitive dysfunction-free probability in patients with prostate cancer aged less than 70 years who did not undergo ADT (blue), those aged less than 70 years who did undergo ADT (red), those aged 70 years or older who did not undergo ADT (green), and those aged less than 70 years who did undergo ADT (orange).
+Table 1.
+Demographic characteristics of patients with prostate cancer, stratified by ADT (n=37,549)
+Variable
+Full Cohort
+Propensity score–Matched cohort
+No ADT (n=12,620)
+Received ADT (n=24,929)
+p-value
+No ADT (n=12,620)
+Received ADT (n=12,712)
+p-value
+Age (yr)
+Mean±SD 65.9±6.6 71.2±8.2 < 0.001 71.1±7.8 71.2±8.2 0.894
+< 70 9,099 (72.1) 10,990 (44.1) < 0.001 9,099 (72.1) 9,178 (72.2) 0.975
+≥ 70 3,512 (27.8) 13,939 (55.9) 3,512 (27.8) 3,534 (27.8)
+Medical history
+Hypertension 6,032 (47.8) 11,977 (48.0) 0.153 6,032 (47.8) 5,987 (47.1) 0.740
+Diabetes 2,713 (21.5) 5,275 (21.2) 0.487 2,713 (21.5) 2,733 (21.5) 0.867
+Prior cancer history 1,830 (14.5) 2,901 (11.6) < 0.001 1,830 (14.5) 1,831 (14.4) 0.923
+Myocardial infarction 164 (1.3) 359 (1.4) 0.530 164 (1.3) 140 (1.1) 0.086
+Chronic heart failure 328 (2.6) 891 (3.6) < 0.001 328 (2.6) 318 (2.5) 0.663
+Peripheral vascular disease 883 (7.0) 1,920 (7.7) 0.034 883 (7.0) 864 (6.8) 0.587
+Renal disease 242 (1.9) 507 (2.0) 0.412 242 (1.9) 216 (1.7) 0.409
+Medication status
+Anticoagulants 454 (3.6) 883 (3.5) 0.656 454 (3.6) 432 (3.4) 0.311
+Antiplatelets 4,130 (32.7) 8,051 (32.3) 0.303 4,130 (32.7) 4,157 (32.7) 0.959
+Statins 4,606 (36.5) 8,720 (35.0) 0.005 4,606 (36.5) 4,614 (36.3) 0.909
+Treatment
+Radical prostatectomy 7,596 (60.2) 4,302 (17.3) < 0.001 7,596 (60.2) 2,733 (21.5) < 0.001
+Radiotherapy 2,423 (19.2) 4,900 (19.7) 2,423 (19.2) 3,445 (27.1)
+Follow-up, mean±SD (day) 1603.0±836.9 1,446.5±851.0 < 0.001 1,603.0±836.9 1,536.0±861.3 0.003
+Values are presented as number (%) unless otherwise indicated. ADT, androgen deprivation therapy.
+Table 2.
+Multivariable Cox regression for the association of covariates with cognitive dysfunction
+Variable
+Full cohort
+Propensity score–Matched cohort
+HR (95% CI)
+p-value
+HR (95% CI)
+p-value
+Age ≥ 70 yr 2.621 (2.454-2.799) < 0.001 2.583 (2.375-2.810) < 0.001
+Medical history
+Hypertension 1.124 (1.002-1.260) 0.046 1.106 (1.011-1.209) 0.027
+Diabetes 1.430 (1.263-1.620) < 0.001 1.422 (1.291-1.567) < 0.001
+Prior cancer history 0.948 (0.794-1.131) 0.553 1.000 (0.887-1.127) 0.997
+Myocardial infarction 1.695 (1.093-2.627) 0.018 1.676 (1.182-2.377) 0.004
+Chronic heart failure 1.024 (0.725-1.446) 0.893 1.089 (0.843-1.407) 0.513
+Peripheral vascular disease 1.348 (1.125-1.615) 0.001 1.243 (1.075-1.438) 0.003
+Renal disease 1.029 (0.667-1.586) 0.424 1.122 (0.833-1.510) 0.450
+Medication status
+Anticoagulants 0.791 (0.578-1.084) 0.147 0.804 (0.640-1.010) 0.061
+Antiplatelets 0.879 (0.822-0.940) < 0.001 0.904 (0.821-0.995) 0.040
+Statins 0.635 (0.594-0.679) < 0.001 0.645 (0.587-0.709) < 0.001
+Treatment
+Radical prostatectomy 1.152 (0.701-1.896) 0.576 1.405 (0.824-2.396) 0.211
+Radiotherapy 1.173 (0.723-1.903) 0.519 1.452 (0.872-2.418) 0.152
+Received ADT 1.245 (1.076-1.440) 0.003 1.169 (1.077-1.270) 0.002
+HR, hazard ratio; CI, confidence interval; ADT, androgen deprivation therapy.
+Table 3.
+Cox regression analysis for the association between ADT and cognitive dysfunction according to therapy duration
+Duration of ADT use
+Full cohort
+Propensity score–Matched cohort
+HR (95% CI)
+p-value
+HR (95% CI)
+p-value
+No ADT Reference Reference Reference Reference
+ADT < 12 mo 0.995 (0.922-1.074) 0.899 1.005 (0.909-1.110) 0.928
+ADT ≥ 12 mo 1.540 (1.426-1.662) < 0.001 1.399 (1.264-1.548) < 0.001
+ADT, androgen deprivation therapy; HR, hazard ratio; CI, confidence interval.
+References
+1. Bolla M, Collette L, Blank L, Warde P, Dubois JB, Mirimanoff RO, et al. Long-term results with immediate androgen suppression and external irradiation in patients with locally advanced prostate cancer (an EORTC study): a phase III randomised trial. Lancet. 2002;360:103–6.
+2. Shahinian VB, Kuo YF, Freeman JL, Orihuela E, Goodwin JS. Increasing use of gonadotropin-releasing hormone agonists for the treatment of localized prostate carcinoma. Cancer. 2005;103:1615–24.
+3. Taylor LG, Canfield SE, Du XL. Review of major adverse effects of androgen-deprivation therapy in men with prostate cancer. Cancer. 2009;115:2388–99.
+4. Choi SM, Kam SC. Metabolic effects of androgen deprivation therapy. Korean J Urol. 2015;56:12–8.
+5. Kintzel PE, Chase SL, Schultz LM, O'Rourke TJ. Increased risk of metabolic syndrome, diabetes mellitus, and cardiovascular disease in men receiving androgen deprivation therapy for prostate cancer. Pharmacotherapy. 2008;28:1511–22.
+6. Sharpley CF, Christie DR, Bitsika V. Do hormone treatments for prostate cancer cause anxiety and depression? Int J Clin Oncol. 2014;19:523–30.
+7. Holland J, Bandelow S, Hogervorst E. Testosterone levels and cognition in elderly men: a review. Maturitas. 2011;69:322–37.
+8. Hsu B, Cumming RG, Waite LM, Blyth FM, Naganathan V, Le Couteur DG, et al. Longitudinal relationships between reproductive hormones and cognitive decline in older men: the Concord Health and Ageing in Men Project. J Clin Endocrinol Metab. 2015;100:2223–30.
+9. Nead KT, Gaskin G, Chester C, Swisher-McClure S, Dudley JT, Leeper NJ, et al. Androgen deprivation therapy and future Alzheimer's disease risk. J Clin Oncol. 2016;34:566–71.
+10. Nead KT, Gaskin G, Chester C, Swisher-McClure S, Leeper NJ, Shah NH. Association Between androgen deprivation therapy and risk of dementia. JAMA Oncol. 2017;3:49–55.
+11. Khosrow-Khavar F, Rej S, Yin H, Aprikian A, Azoulay L. Androgen deprivation therapy and the risk of dementia in patients with prostate cancer. J Clin Oncol. 2017;35:201–7.
+12. Kao LT, Lin HC, Chung SD, Huang CY. No increased risk of dementia in patients receiving androgen deprivation therapy for prostate cancer: a 5-year follow-up study. Asian J Androl. 2017;19:414–7.
+13. McHugh DJ, Root JC, Nelson CJ, Morris MJ. Androgen-deprivation therapy, dementia, and cognitive dysfunction in men with prostate cancer: How much smoke and how much fire? Cancer. 2018;124:1326–34.
+14. Song SO, Jung CH, Song YD, Park CY, Kwon HS, Cha BS, et al. Background and data configuration process of a nationwide population-based study using the Korean national health insurance system. Diabetes Metab J. 2014;38:395–403.
+15. Ahles TA, Saykin AJ. Candidate mechanisms for chemotherapy-induced cognitive changes. Nat Rev Cancer. 2007;7:192–201.
+16. Extermann M, Aapro M, Bernabei R, Cohen HJ, Droz JP, Lichtman S, et al. Use of comprehensive geriatric assessment in older cancer patients: recommendations from the task force on CGA of the International Society of Geriatric Oncology (SIOG). Crit Rev Oncol Hematol. 2005;55:241–52.
+17. Barrett-Connor E, Goodman-Gruen D, Patay B. Endogenous sex hormones and cognitive function in older men. J Clin Endocrinol Metab. 1999;84:3681–5.
+18. Muller M, Aleman A, Grobbee DE, de Haan EH, van der Schouw YT. Endogenous sex hormone levels and cognitive function in aging men: is there an optimal level? Neurology. 2005;64:866–71.
+19. Hyde Z, Flicker L, Almeida OP, McCaul KA, Jamrozik K, Hankey GJ, et al. Higher luteinizing hormone is associated with poor memory recall: the health in men study. J Alzheimers Dis. 2010;19:943–51.
+20. Pike CJ, Carroll JC, Rosario ER, Barron AM. Protective actions of sex steroid hormones in Alzheimer's disease. Front Neuroendocrinol. 2009;30:239–58.
+21. Chao HH, Uchio E, Zhang S, Hu S, Bednarski SR, Luo X, et al. Effects of androgen deprivation on brain function in prostate cancer patients: a prospective observational cohort analysis. BMC Cancer. 2012;12:371.
+22. Green HJ, Pakenham KI, Headley BC, Yaxley J, Nicol DL, Mactaggart PN, et al. Altered cognitive function in men treated for prostate cancer with luteinizing hormone-releasing hormone analogues and cyproterone acetate: a randomized controlled trial. BJU Int. 2002;90:427–32.
+23. McGinty HL, Phillips KM, Jim HS, Cessna JM, Asvat Y, Cases MG, et al. Cognitive functioning in men receiving androgen deprivation therapy for prostate cancer: a systematic review and meta-analysis. Support Care Cancer. 2014;22:2271–80.
+24. Nead KT. Androgen deprivation therapy and dementia: new opportunities and challenges in the big-data era. J Clin Oncol. 2017;35:3380–1.
+25. Esme M, Yavuz BB, Yavuz B, Asil S, Tuna Dogrul R, Sumer F, et al. Masked hypertension is associated with cognitive decline in Geriatric Age-Geriatric MASked Hypertension and Cognition (G-MASH-cog) study. J Gerontol A Biol Sci Med Sci. 2018;73:248–54.
+26. Dede DS, Yavuz B, Yavuz BB, Cankurtaran M, Halil M, Ulger Z, et al. Assessment of endothelial function in Alzheimer's disease: is Alzheimer's disease a vascular disease? J Am Geriatr Soc. 2007;55:1613–7.
+27. Sparks DL, Scheff SW, Liu H, Landers TM, Coyne CM, Hunsaker JC 3rd. Increased incidence of neurofibrillary tangles (NFT) in non-demented individuals with hypertension. J Neurol Sci. 1995;131:162–9.
+28. Palta P, Carlson MC, Crum RM, Colantuoni E, Sharrett AR, Yasar S, et al. Diabetes and cognitive decline in older adults: the Ginkgo Evaluation of Memory Study. J Gerontol A Biol Sci Med Sci. 2017;73:123–30.
+29. Chan D, Binks S, Nicholas JM, Frost C, Cardoso MJ, Ourselin S, et al. Effect of high-dose simvastatin on cognitive, neuropsychiatric, and health-related quality-of-life measures in secondary progressive multiple sclerosis: secondary analyses from the MS-STAT randomised, placebo-controlled trial. Lancet Neurol. 2017;16:591–600.
+30. Wang YP, Wu Y, Li LY, Zheng J, Liu RG, Zhou JP, et al. Aspirin-triggered lipoxin A4 attenuates LPS-induced proinflammatory responses by inhibiting activation of NF-kappaB and MAPKs in BV-2 microglial cells. J Neuroinflammation. 2011;8:95.
+31. Veronese N, Stubbs B, Maggi S, Thompson T, Schofield P, Muller C, et al. Low-dose aspirin use and cognitive function in older age: a systematic review and meta-analysis. J Am Geriatr Soc. 2017;65:1763–8.
+32. Han JW, So Y, Kim TH, Lee DY, Ryu SH, Kim SY, et al. Prevalence rates of dementia and mild cognitive impairment are affected by the diagnostic parameter changes for neurocognitive disorders in the DSM-5 in a Korean population. Dement Geriatr Cogn Disord. 2017;43:193–203.
+33. Kim SH, Kim DH, Kim WS. Long-term care needs of the elderly in Korea and elderly long-term care insurance. Soc Work Public Health. 2010;25:176–84.
+34. Lange M, Laviec H, Castel H, Heutte N, Leconte A, Leger I, et al. Impact of new generation hormone-therapy on cognitive function in elderly patients treated for a metastatic prostate cancer: Cog-Pro trial protocol. BMC Cancer. 2017;17:549.
+TOOLS
+PDF Links
+PubReader
+ePub Link
+Full text via DOI
+Download Citation
+CrossRef TDM
+Supplement1
+Supplement2
+E-Mail
+Print
+Share:
+METRICS
+3
+Crossref
+0
+Scopus
+1,012
+View
+142
+Download
+Related article
+Evaluation of the Benefit of Radiotherapy in Patients with Occult Breast Cancer: A Population-Based Analysis of the SEER Database 2018 April;50(2)
+Editorial Office
+Korean Cancer Association
+Room 1824, Gwanghwamun Officia
+92 Saemunan-ro, Jongno-gu, Seoul 03186, Korea
+TEL: +82-2-3276-2410 FAX: +82-2-792-1410 E-mail: journal@cancer.or.kr
+About | Browse Articles | Current Issue | For Authors and Reviewers
+Copyright © Korean Cancer Association. All rights reserved. Developed in M2Community

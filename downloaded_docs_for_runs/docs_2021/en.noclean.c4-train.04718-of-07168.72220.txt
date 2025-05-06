@@ -1,0 +1,72 @@
+Review: Selenium doesn't prevent cancer | EVISA's News $2'); } if ( dataA.length > 0 ) { dataA = dataA.replace(/([\s]lead)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataB.length > 0 ) { dataB = dataB.replace(/([\s]lead)([\s;,\.:'\?])/i, '$1 $2'); } if ( data.length > 0 ) { data = data.replace(/([\s]metabolism)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataA.length > 0 ) { dataA = dataA.replace(/([\s]metabolism)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataB.length > 0 ) { dataB = dataB.replace(/([\s]metabolism)([\s;,\.:'\?])/i, '$1 $2'); } if ( data.length > 0 ) { data = data.replace(/([\s]REACH)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataA.length > 0 ) { dataA = dataA.replace(/([\s]REACH)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataB.length > 0 ) { dataB = dataB.replace(/([\s]REACH)([\s;,\.:'\?])/i, '$1 $2'); } if ( data.length > 0 ) { data = data.replace(/([\s]selenium)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataA.length > 0 ) { dataA = dataA.replace(/([\s]selenium)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataB.length > 0 ) { dataB = dataB.replace(/([\s]selenium)([\s;,\.:'\?])/i, '$1 $2'); } if ( data.length > 0 ) { data = data.replace(/([\s]selenomethionine)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataA.length > 0 ) { dataA = dataA.replace(/([\s]selenomethionine)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataB.length > 0 ) { dataB = dataB.replace(/([\s]selenomethionine)([\s;,\.:'\?])/i, '$1 $2'); } if ( data.length > 0 ) { data = data.replace(/([\s]selenoprotein)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataA.length > 0 ) { dataA = dataA.replace(/([\s]selenoprotein)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataB.length > 0 ) { dataB = dataB.replace(/([\s]selenoprotein)([\s;,\.:'\?])/i, '$1 $2'); } if ( data.length > 0 ) { data = data.replace(/([\s]World Health Organization)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataA.length > 0 ) { dataA = dataA.replace(/([\s]World Health Organization)([\s;,\.:'\?])/i, '$1 $2'); } if ( dataB.length > 0 ) { dataB = dataB.replace(/([\s]World Health Organization)([\s;,\.:'\?])/i, '$1 $2'); } if ( data.length > 0 ) { Content.innerHTML = data; } if ( dataA.length > 0 ) { ContentA.innerHTML = dataA; } if ( dataB.length > 0 ) { ContentB.innerHTML = dataB; } tb_init('a.thickbox, area.thickbox, input.thickbox'); } function hideGlossarLinks() { if ( orgData.length > 0 ) { document.getElementById('_CONTENT_').innerHTML = orgData; } if ( orgDataA.length > 0 ) { document.getElementById('_CONTENT_A_').innerHTML = orgDataA; } if ( orgDataB.length > 0 ) { document.getElementById('_CONTENT_B_').innerHTML = orgDataB; } document.getElementById('glossarswitch').innerHTML = "Glossary on "; } function InitDocument() { if ( holeCookie("GlossarLink") == 'on' ) { displayGlossarLinks(); } } /* ************************************************************************** */
+Print | Glossary on | Contact EVISA | Sitemap | Home
+Training QA/QC Analytical Services Database Consultancy Research Newsletter Vacancies
+EVISA - Who we are
+About Speciation
+Discussion Forum
+Services
+Links
+Glossary
+Search
+The establishment of EVISA is funded by the EU through the Fifth Framework Programme (G7RT- CT- 2002- 05112).
+Supporters of EVISA includes:
+Home ›› About Speciation ›› Speciation News
+Review: Selenium doesn't prevent cancer
+(12.05.2011)
+There is no convincing evidence that taking high doses of selenium - a popular dietary supplement - can prevent cancer, according to a new review.
+Background:
+Selenium is a mineral that is essential for humans, and is also present in soil and rocks. While daily selenium recommendations from the United States and World Health Organization vary between 30 and 55 micrograms per day for adults, some companies that sell the supplements claim that higher doses have a range of health benefits, including cancer prevention. While selenium is not widely used in Europe, many Americans are known to take the supplement in the hope of decreasing the risk of cancer. Selenium supplements are about $2 for a month's supply. A number of recent trials now have raised questions about the use of selenium, questioning such beneficial effects.
+The new study:
+According to James Marshall, of the Roswell Park Cancer Institute in Buffalo, the excitement about selenium began with evidence that people with very low selenium in their diet are at an increased risk for cancer. Previous studies had shown that for those adults who do not reach the recommended intake with their diet per day, additional selenium via supplements may be beneficial.
+To try to get a better focus on that picture for cancer in particular, an international team of researchers around Gabriele Dennert of the Institute for Transdisciplinary Health Research in Berlin analyzed 55 studies on the link between selenium and different types of cancer. Their review is published in the Cochrane Library, a publication of the Cochrane Collaboration, an international organization that evaluates medical research.
+Most of reports evaluated by this group were so-called "observational studies" - scientists measured how much selenium people ate every day or how much they had in their blood or toenails, then tracked who got cancer over the next few years.
+The remaining 6 studies were done through more rigorous trials, in which researchers randomly divided participants into one group that took selenium supplements for a month or more, and another that took a drug-free placebo pill or nothing - then followed them for cancer. These kinds of studies are thought to be better at accounting for outside factors that may affect cancer risk.
+The observational studies suggested that talking selenium may be linked to a slightly lower risk of cancer - more so in men than women.
+But in the randomized trials, people assigned to take selenium at doses at least four times higher than the daily recommendation were not less likely to get cancer - prostate cancer and skin cancer, in particular - than those not taking selenium. Even worse, according to the review, the overconsumption of selenium from long-term use of selenium supplements may actually lead to increased health risks.
+This is not good news for all those who believe to reduce their cancer risks by enhancing their selenium intake through supplements.
+The new review
+G. Dennert, M. Zwahlen, M. Brinkman, M. Vinceti, M.P.A. Zeegers, M. Horneber, Selenium for preventing cancer, Cochrane Database of Systematic Reviews 2011, Issue 5. Art. No.: CD005195. DOI: 10.1002/14651858.CD005195.pub2.
+Related EVISA Resources
+EVISA Link Database: Selenium and Human health
+EVISA Link Database; Research projects related to selenium
+Related News
+EVISA News, May 3, 2011: New reference materials for the characterisation of selenium-enriched food products
+EVISA News, June 19, 2010: A new Selenium-containing compound, Selenoneine, found as the predominant Se-species in the blood of Bluefin Tuna
+EVISA News, July 20, 2009: Researchers Reveal Selenium's Metabolism In Life-Giving Amino Acids
+EVISA News, October 28, 2008: National Cancer Institute ends Selenium and Vitamin E Cancer Prevention Trial, or SELECT
+EVISA News, March 16, 2008: New selenium-containing proteins identified in selenium-rich yeast
+EVISA, October 16, 2005: New light on human selenium metabolism
+EVISA News, October 6, 2005: Selenomethionine shows promising results as a protective agent against Esophageal Cancer
+EVISA News, March 8, 2005: Selenoprotein P is required for normal sperm development
+last time modified: May 12, 2011
+Comments
+Add a comment
+Title:
+Comment:
+Name:
+Code:
+Events
+See the complete list of deadlines!
+ISABC15: 15th International Symposium on Applied Bioinorganic Chemistry
+02.06.2019
+Nara, Japan
+CSI XLI: Colloqium Spectroscopicum Internationale XLI
+09.06.2019
+Mexico City, Mexico
+ReMiND 2019: Biomolecules in Neurodegenerative Diseases
+26.06.2019
+Physikalisch-Technische Bundesanstalt (PTB), Braunschweig, Germany
+... more Events
+News
+What's new on EVISA's web site ?
+Scientists discover new broad-spectrum antibiotic based on arsenic
+France to ban titanium dioxide whitener in food from 2020
+Adisseo obtains FDA approval on pure organic selenium feed additive
+ERM-CE101: A new CRM for assessing environmental quality through fish
+... more News
+Join usergroup
+User:
+Password:
+You have forgotten your password ?
+Imprint Disclaimer
+© 2003 - 2010 by European Virtual Institute for Speciation Analysis ( EVISA )

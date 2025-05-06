@@ -1,0 +1,54 @@
+Cell Phones, Cancer, and Oversimplification
+Cell Phones, Cancer, and Oversimplification
+By Melinda Wenner Moyer
+Genetics isn’t simple, my friends—and neither is cancer, for that matter. Despite decades upon decades of research, scientists still don’t know all of the ways in which cancer can be sparked. So while it's accepted that cell phone radiation isn't powerful enough to cause cancer, such radiation could have effects we don't yet understand.
+Rating: 4 out of 5 stars on 2 reviews
+"Interesting" 4 stars by Heide
+NoteStreams are readable online but they’re even better in the free App!
+The NoteStream™ app is for learning about things that interest you: from music to history, to classic literature or cocktails. NoteStreams are truly easy to read on your smartphone—so you can learn more about the world around you and start a fresh conversation.
+For a list of all authors on NoteStream, click here.
+Read the NoteStream below, or download the app and read it on the go!
+Breaking Bonds
+I’ve always been a big fan of Michael Shermer’s Skeptic column in Scientific American, but this month I have to say I’m disappointed.
+In his piece, titled “Can You Hear Me Now? Physics shows that cell phones cannot cause cancer,” Shermer argues that it is “virtually impossible” for cell phones to cause cancer because they “do not emit enough energy to break the molecular bonds inside cells.”
+While this latter statement may be true—the radiation that cell phones emit is not thought to be energetic enough to directly break DNA molecules—it is not fair (or scientific, for that matter) to use this as proof that cell phones do not cause cancer. The issue is far more complex than that.
+Why Aren't Phones Dangerous?
+A man speaking on a mobile telephone.
+Image courtesy Flickr user Tim Parkinson.
+CC BY 2.0
+Genetics... It's Complicated
+Biologists once assumed that mutations were responsible for most diseases; now we know that more subtle genetic (and epigenetic) variations play an even bigger role.
+Many scientists also once thought that “junk DNA” didn’t have a function, but now research is pouring in suggesting that, in fact, non-coding DNA is responsible for many aspects of gene regulation; some RNA molecules once dismissed as garbage might even run the entire show.
+Genetics isn’t simple, my friends—and neither is cancer, for that matter. Despite decades upon decades of research, scientists still don’t know all of the ways in which cancer can be sparked. So to announce to the world—in an authoritative magazine like Scientific American, no less—that something definitely does not cause cancer simply because it cannot break DNA seems like a really irresponsible thing to do.
+The Theory
+You’re probably wondering: how might cell phones cause cancer, then?
+Cancer develops when the cell cycle goes awry and cells start to multiply when they should not. Considering that thousands of genes are thought to be involved in the cell cycle—and an as yet unknown number of non-protein-coding sequences might regulate them—there are plenty of potential factors to consider.
+Cell cycle genes can be disrupted because of a mutation or a DNA break, sure, but problems could also arise when, say, something causes a tumor-suppressor gene like p53 (which protects against cancer) to be downregulated, perhaps from a post-translational modification or a change to chromatin structure.
+Cancerous Gene
+This image shows a DNA molecule that is methylated on both strands on the center cytosine. DNA methylation plays an important role for epigenetic gene regulation in development and cancer.
+Image courtesy Christoph Bock (Max Planck Institute for Informatics)
+CC BY-SA 3.0
+Environmental Considerations
+Or maybe something in the environment ramps up the expression of a growth-promoting gene, causing a cell to abnormally proliferate.
+Environmental influences could also disrupt the DNA repair machinery, as this would allow DNA breaks that arose as a result of some other process to go unfixed. If cell phones did any one of these things, they could easily increase cancer risk—but there are all possibilities that Shermer ignores when he concludes at the end of his column that “it is impossible for cell phones to hurt the brain.”
+For him, it seems, there is only one route to cancer—direct DNA breaks—but that’s simply not true.
+Evidence?
+So is there any evidence that cell phones can do the things I just mentioned? Actually, yes.
+A handful of studies, including one published in 2005 in Environmental Health Perspectives and another published in Bioelectromagetics, report that cell phone radiation affects chromatin conformation, which directly impacts gene expression and could, therefore, affect the cell cycle.
+These studies also found that cells exposed to cell phone radiation produce less of a protein complex called 53BP1 believed to be involved in DNA repair.
+53BP1
+Structure of the TP53BP1 protein.
+Image courtesy Wikimedia Commons user Emw.
+CC-BY-SA-3.0
+Research In Washington
+In addition, research published by University of Washington researchers in the 1990s found that cell phone radiation elicited DNA breaks in rat brain cells (something Shermer doesn’t address in his piece, though it directly contradicts his assertion); the authors speculated that the radiation was probably interrupting the DNA repair process.
+(As an aside: I interviewed one of these researchers, Henry Lai, for my 2008 article about cell phones in Canada’s The Walrus magazine; after he published this study, a scientific advisory group created by the organization that represents the wireless industry sent a letter to the president of the University of Washington demanding that he and his co-author both be fired. They were not.)
+Bold Conclusions
+It’s a big step to conclude from these studies that cell phones cause cancer, of course, and I’m not about to do that.
+I’m also not going to delve into the mess of epidemiological data on the topic, but if you’re curious, you can read more about some of it in my Walrus piece and a related article I wrote for Scientific American in 2008.
+My point here is not that cell phones are deadly, but rather that in his column, Shermer does a disservice to his readers by unfairly concluding that cell phones must be safe because they do not directly cause DNA breaks. Science—especially biology—is rarely that cut and dried.
+Article Courtesy Body Politic
+(CC BY-SA 4.0)
+(Cover page image courtesy Highways Agency.
+CC BY 2.0
+Copyright 2015 I All Rights Reserved.

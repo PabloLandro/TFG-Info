@@ -1,0 +1,273 @@
+The Tehelka Radiation Survey
+Nirmukta
+Portal
+Search
+Help
+Hello There, Guest! Login Register
+Login
+Username:
+Password: Lost Password?
+Remember me
+The Nirmukta Freethought Community › BELIEF & NONBELIEF › Pseudoscience & Superstition
+« Previous 1 ... 3 4 5 6 7 Next »
+The Tehelka Radiation Survey
+Pages (2): 1 2 Next »
+Thread Modes
+The Tehelka Radiation Survey
+Sajit
+Moderator
+Posts: 320
+Likes Given: 74
+Likes Received: 33 in 24 posts
+Threads: 50
+Joined: Mar 2010
+#1
+30-May-2010, 12:19 PM (This post was last modified: 30-May-2010, 12:22 PM by Sajit.)
+http://www.youtube.com/watch?v=mlu206JCAn4
+http://www.tehelka.com/story_main45.asp?...rstory.asp
+This seems to be an attempt by Tehelka to promote cogent products under the guise of an investigation which causes needless alarm.
+Find
+Like Post
+Reply
+Azad
+Satya'nveshi
+Posts: 80
+Likes Given: 10
+Likes Received: 11 in 8 posts
+Threads: 7
+Joined: Mar 2010
+#2
+30-May-2010, 02:07 PM
+Last year, a team of HSE professionals were travelling through Muscat, the capital city of Oman. One among them accidently switched on the equipment (used to identify Naturally Occuring Radioation from pipes that are taken out further to the drilling of Crude). They were shocked to see the amount of radiation for which people were exposed to in the city limits.
+One of the reason for this was the waste disposal sites with in the city which had collected lot of scrap including faulty Xray machines from Hospitals. Citizens were sitting ducks for radiation and sadly nothing is done until now; in Oman we do not have any means of disposing Radioactive waste.
+Website Find
+Like Post
+Reply
+Sajit
+Moderator
+Posts: 320
+Likes Given: 74
+Likes Received: 33 in 24 posts
+Threads: 50
+Joined: Mar 2010
+#3
+01-Jun-2010, 01:19 PM
+http://www.facebook.com/photo.php?pid=39...060&ref=mf
+Tehelka response to Vaibhav's and my questions.
+Find
+Like Post
+Reply
+vaibhav_p
+Nirmukt Noobie
+Posts: 4
+Likes Given: 0
+Likes Received: 0 in 0 posts
+Threads: 0
+Joined: Jun 2010
+#4
+03-Jun-2010, 04:36 AM
+(01-Jun-2010, 01:19 PM)Sajit Wrote: http://www.facebook.com/photo.php?pid=39...060&ref=mf
+Tehelka response to Vaibhav's and my questions.
+Here's my reply to Rishi's response;
+Hello again,
+Let me start off with a simple fact as to why there can't be a causal relationship between micro or radio waves and cancer. The energy of the particle(photon in this case) is determined by the frequency of the wave and NOT the intensity which is to say the number of particles passing through a unit area in unit time(W/m^2). As far as we know from medical science, cancer is caused due to the breaking of the chemical bonds in DNA molecules of a cell. The energy of these waves is much smaller than the energy required to break the chemical bonds in a DNA molecule. And hence cannot cause cancer even if you increase the intensity of the waves. All they can do is heat up the tissues in our body, which leads to the next question about the threshold levels.
+Referring to the ICNIRP guidelines (which is mentioned as your reference in your article), from table 4,6&7 we know;
+SAR limit for general public: 0.08W/kg between the range of 10MHz-10GHz
+Power density limits for general public: 2 - 10 W/m^2 (2000 - 10000 mW/m^2)between the range of 10MHz-300GHz
+Please refer me to the page in the ICNIRP guidelines where it says the threshold is 600mW/m^2
+SNAFU is not mentioned anywhere in your article.
+You sent me three references of the same article from Santini et al. and 2 references of the same article from Hardell at al.
+So let me go through those articles first.
+The Santini survey shows a significant rise of some of the symptoms(fatigue and headaches) at distances greater than 100m which completely contradicts the fact that the intensity of the wave in inversely proportional to the distance it travels. So the greater the distance from the source the less intense a wave can be. A much higher sampling size is required in order to determine any relationship between these symptoms and the risk of staying near power lines. And that is the problem with all the other references including the Hardell one. If you increase the sampling size the correlation either goes away or there is a negative correlation which is also not plausible. Refer http://www.nature.com/news/2010/100517/f...0.246.html for details.
+Another maybe only a minor thing to notice is that all the studies which show a correlation between EMR and cancer are performed on animals which isn't picked up by the media.
+You may find some references of some more studies in these blogs: http://www.sciencebasedmedicine.org/?p=5207 http://www.skepdic.com/emf.html
+I am very rarely impressed from the authoritative argument. Dr.Abdul Kalam also attended Sathya Sai's function along with other state ministers. So I wouldn't give into Cogent Ltd. even if he himself vouches for it.
+Here's the article which talks about the risks involved with pacemaker and EMI http://cogprints.org/4305/1/francis.htm
+My concern was regarding the scare tactics used by Tehelka. It is one thing to say that recent studies show some correlation but its completely dishonest to give only one side to the layman. Moreover the threshold mentioned in the article and also in the youtube clip is misguiding the layman to believe that the radiation levels in Delhi are the main causes of their illnesses. If you wanted to do a reporting on a science based issue it would be far better than just assume that the layman knows the difference between ionizing and non-ionizing radiations.
+Vaibhav Prakash.
+Find
+Like Post
+Reply
+Ajita Kamal
+Editor
+Posts: 976
+Likes Given: 234
+Likes Received: 248 in 146 posts
+Threads: 101
+Joined: Mar 2010
+#5
+03-Jun-2010, 09:38 AM (This post was last modified: 03-Jun-2010, 09:43 AM by Ajita Kamal.)
+Thanks for the analysis of the science behind these claims, Vaibhav. I was aware of the recent study posted in Nature, and the follow-up by Steven Novella on the Science Based Medicine blog. I've also noticed a few more inconsistencies in Tehelka article and the follow-up that I'd like to point out, briefly.
+As Vaibhav pointed out, the EMR from cell phones is too weak to cause any structural damage to DNA. This is directly contradicted by the Tehelka representative's claim. But this is just the beginning of the misrepresentation.
+Here are some of Tehelka's statements/claims/positions, followed by some analysis:
+1. The defense of Cogent EMR: The reporter/representative provided a lot of info on how influential Cogent is, and dismissed Cogent's involvement in quackery by saying
+Quote: "I did not write an article in any way connected to the products Cogent EMR Ltd sells. So their quackery or otherwise is not related to this article."
+This is strange, to say the least. Cogent has a lot of money to make, and their involvement in providing the data for this article is a direct conflict of interest, to say the least. What is even stranger is this statement:
+Quote: "I couldn’t find any other private concern that conducted EMR audits, and so would be apt for testing EMR levels throughout the city of Delhi. There were government agencies like SAMEER which did this. But why would a government agency undertake a survey which risked showing the government in a bad light?".
+So, it's OK to trust a private company that has a direct conflict of interest and that makes money selling quack products that rely on distorting the data on the dangers of cell phone use, but it is not OK to trust a government agency made up on independent scientists? This feeds right into the conspiracy theories about the government. A recent study (reported on the SGU podcast) showed that the public is more likely to be suspicious of scientists than they are of their peers. This is the state of public ignorance we live in, and this is the sort of public paranoia of government scientists that the Tehelka reporter is catering to.
+2. This statement by the Tehelka reporter:
+Quote: "Microwave exposure at levels below the current FCC exposure standard can produce single and double strand breaks in DNA. "
+is just plain deceptive. As Vaibhav pointed out, microwave radiation is the non-ionizing kind. Nowhere near the levels that can cause nucleotide damage are found in the environment near residential areas. This entire line of attack relies on the public's ignorance about the difference between ionizing and non-ionizing radiation.
+3. Fertility, the great fear of the masculine male:
+Quote: "Dr. Agarwal - Director of the Clinical Andrology Laboratory and Reproductive Tissue Bank, and the Director of Research at the Center for Reproductive Medicine in 2006 found that using a mobile phone for more than four hours a day is associated with reduction in sperm viability and mobility of around 25 percent and can cause irreversible infertility in men."
+Now let's look at the facts. The 2006 study was analyzed by our friend Orac over at scienceblogs:
+Quote: "This study has a number of shortcomings that make me take its conclusion with a huge grain of salt. Right off the bat, I note that it's an observational study, and such studies are fraught with problems. Another huge problem with this study is that the men being studied are not a representative group by definition. After all, they are coming to an infertility clinic."
+Like Orac says, observational studies are often fraught with problems, but the fact the subjects were picked from those coming to an infertility clinic makes this even more suspect.
+Quote: A second problem is that the four parameters that showed a decrease are not independent. They are related, and in this study showed significant positive correlation with each other. If one goes up, all tend to go up, and if one goes down, all tend to go down.
+The four parameters mentioned here are sperm count, motility, sperm viability, and percent normal morphology. It is likely that there were other more influential factors involved. Orac goes on:
+Quote: However, these problems pale in significance with the single biggest problem of the study: the utter failure even to try to control for confounding factors other than age. Not only did the authors not validate cell phone exposure independently, but they did not examine the occupational history of the subjects or other potential exposures of radiofrequency radiation. The reason this is significant is that there could be a factor common to these men with decreased fertility that is the real cause of their problems that is also correlated with cell phone use.
+Orac goes on to point out criticism of the study from the American Society for Reproductive Medicine, on the point that the distance between the testicles and the handset when in use is too great for any significant effect.
+Quote: "If you're using your phone for four hours a day, presumably it is out of your pocket for longer. That raises a big question: how is it that testicular damage is supposed to occur?
+"
+This is Dr Allan Pacey.
+Quote: He said mobile phone use may be a marker for other lifestyle factors known to affect sperm quality.
+"Maybe people who use a phone for four hours a day spend more time sitting in cars, which could mean there's a heat issue. It could be they are more stressed, or more sedentary and sit about eating junk food getting fat. Those seem to be better explanations than a phone causing the damage at such a great distance" he added.
+Now this is from the 2006 study. In 2008 the same team did another study, this time to observe the direct effect of EMR on semen. They placed semen 2.5 cms from a cell phone on talk mode. They claim that this is the average distance between a phone in the trouser pockets and the testicles. Firstly, this is an exaggeration. Secondly, this is hardly the natural conditions. Our semen is not exposed, and trousers and the human body are significant barriers that the weak non-ionizing radiation has to pass through to get to the semen. Finally, although they did notice that "Semen exposed to radiofrequency electromagnetic waves emitted from cell phones had higher levels of damaging free radicals, lower sperm motility (the ability of the sperm to move and swim) and sperm viability", they also conclude that "There were no significant differences in DNA damage between the exposed and unexposed groups." This directly contradicts the claims made by the Tehelka reporter (and by Cogent ERM) that cell phone EMR can cause DNA damage.
+To be continued...
+"Fossil rabbits in the Precambrian"
+~ J.B.S.Haldane, on being asked to falsify evolution.
+Website Find
+Like Post
+Reply
+Ajita Kamal
+Editor
+Posts: 976
+Likes Given: 234
+Likes Received: 248 in 146 posts
+Threads: 101
+Joined: Mar 2010
+#6
+03-Jun-2010, 10:39 AM (This post was last modified: 03-Jun-2010, 10:40 AM by Ajita Kamal.)
+Continuing on the analysis of Tehelka's response here:
+4. Henry Lai and his unavailable meta study: The reporter states:
+Quote: "I would like to bring to your notice a study by Dr. Henry Lai, biophysicist at the University of Washington [Video - http://www.blip.tv/file/3283837 - (2:30 min onwards - till 4:45 min) ]. Dr Lai reviewed 350 studies (175 industry funded and 175 non-industry funded) and found that about half showed bio-effects from EM radiation emitted by cell phones. But when he took into consideration the funding sources for those 350 studies, the results changed dramatically. Only 25 percent of the studies paid for by the industry showed effects, compared with 75 percent of those studies that were independently funded."
+The video clip asks the question "Are cell phones dangerous, like cigarettes are?". But let's ignore the hyperbole. For some reason the original study is impossible to find! There are numerous sources mentioning the study, many of them linking to the other studies they mention, but not the meta study by Lai. For example, this article links to all the other studies referenced, but not Lai's study. The reason why this is important is because it is important to properly look at Lai's sources and see what he considers an 'Industry study" and what he considers an 'Independent Study'. Also, each one of these studies must be looked at. Meta studies are easily manipulated, and the fact that no one can find the original study is cause for suspect. Moreover, Lai's original claims from the 90s seems to have been that cell phone use causes DNA damage. This part is rejected today by the scientific consensus. It seems that Lai is his own 'industry'.
+5. Non-existent group: The reporter claims that:
+Quote: The Australian Health Research Institute indicates that due to billions of times more in volume electromagnetic radiation emitted by billions of mobile phones, internet, intranet and wireless communication data transmission, almost one-third of world population (about 2 billion) may suffer from Cell Phone Cancer by 2020. Even if 1% of it comes true it will have devastating consequences to so many people.
+What's interesting is that this story is a complete hoax! There is no Australian Health Research Institute, and the above words seem to be taken almost word for word from some sort of industry propaganda 'press' release: http://www.infowars.com/2-billion-may-su...r-by-2020/ , http://www.realemfprotection.com/emf-pro...-from-now/ , http://www.merinews.com/article/australi...6138.shtml
+That's all I have time for at the moment. Many of the other claims in the reports look suspect as well, especially given that the majority opinion among science-based medical researchers is that cell phone radiation is too weak to cause DNA damage. There is the possibility that something else is going on, given that biological systems are complex and there are many things that we may be yet to understand.
+"Fossil rabbits in the Precambrian"
+~ J.B.S.Haldane, on being asked to falsify evolution.
+Website Find
+Like Post
+Reply
+vaibhav_p
+Nirmukt Noobie
+Posts: 4
+Likes Given: 0
+Likes Received: 0 in 0 posts
+Threads: 0
+Joined: Jun 2010
+#7
+03-Jun-2010, 11:32 AM
+Thanks for the additional info Ajita.
+Find
+Like Post
+Reply
+Sajit
+Moderator
+Posts: 320
+Likes Given: 74
+Likes Received: 33 in 24 posts
+Threads: 50
+Joined: Mar 2010
+#8
+03-Jun-2010, 01:09 PM
+Thanks Ajita and Vaibhav. I have invited the reporter Rishi to join us here if he wishes to discuss this. And I have also posted a link to this thread on the Tehelka wall.
+Find
+Like Post
+Reply
+Sajit
+Moderator
+Posts: 320
+Likes Given: 74
+Likes Received: 33 in 24 posts
+Threads: 50
+Joined: Mar 2010
+#9
+09-Jun-2010, 01:45 PM
+http://www.skeptic.com/eskeptic/10-06-09/#feature
+Do Cell Phones Cause Cancer?
+by Bernard Leikind
+Microwave radiation from cell phones cannot cause cancer by any mechanism, known or unknown. My answer to the question in the title of this essay is… Fuggedaboudit! No way! When pigs fly! When I’m the Pope! In short, No!
+This essay is a companion to my article of the same title that appears in Skeptic magazine Vol. 15, no. 4, out on newsstands and in bookstores this week. Here I present the shortened non-technical version, and describe what all physicists know to be true about what happens when human tissue or any material absorbs microwave radiation. It is this knowledge that leads me to assert with such vehemence that cell phones do not cause cancer. I will also consider two recent, major epidemiological studies from Europe that correctly showed that there was no relationship between cell phones and brain cancers.
+A cell phone emits about 1 Watt of electromagnetic radiation. Most of that zooms away to find a cell phone tower. The tissues of the user will absorb a part of this radiation. These tissues include the caller’s hand, ear, scalp, skull, and brain. The closer a tissue is to the cell phone’s antenna, the more of the radiation the tissue absorbs. For some reason, however, none of those raising fears about cell phones causing cancer are concerned about skin cancers on palms, fingers, or ears.
+The frequency of the typical cell phone radiation is about 2.5 GHz, two and a half billion flips back and forth per second. The radiation travels at the speed of light — 186,000 miles per second — and dividing the one by the other and correcting for the units I used for the speed, shows that the wavelength of this radiation is about 10 centimeters or about 4 inches.
+As the electric fields of the waves pass through the body’s tissues, the fields grab and try to shake any molecules or parts of the molecules that they can. These fields like to grab and shake water molecules, and there are plenty available. The fields will grab whatever else they can, which may be all or of parts of many of the critical molecules of biochemistry, such as the DNA in genes, or enzymes, fuel molecules, waste molecules, structural molecules, and so on.
+All of these molecules exist within the cytoplasm, and they are in close touch with one another. The molecules are quivering, twisting, and shaking, rattling about and transferring energy between each other. During the time — less than one billionth of a second — that it would take the cell phone’s radiation to shake a molecule or part of a molecule back and forth, that molecule will suffer a thousand or ten thousand collisions with its neighbors. Any energy that the one molecule might begin to gather from the electromagnetic field rapidly spreads throughout all of its neighbors.
+Coursing nearby to these molecules is a capillary filled with blood plasma and blood cells. This blood is at body temperature. Any extra energy from any source that appears in cells close to the capillaries will transfer into the slightly cooler blood, warming it. The flowing blood will carry the energy throughout the body. The body temperature will increase imperceptibly, and the extra energy will eventually transfer from the skin into the environment.
+Anyone who puts forward a potential mechanism by which this energy flow, less than 1 Watt, might cause any cancer should notice that he has thereby explained too much. One watt is much smaller than many other natural energy flows that no one suspects might cause cancer. In my Skeptic paper, I show that the average energy production in my body as I go about my life is about 100 Watts. I also show that while I jog on my local gym’s treadmill for half an hour, I produce 1100 or 1200 Watts. This energy, produced in my leg muscles, travels throughout my body including my brain, and I sweat a lot. My body’s temperature does not change much. No one believes that my frequent treadmill sessions cause cancer. If the cell phone’s less than 1 Watt causes cancers, then why doesn’t my exercise session’s more than 1000 Watts cause cancer?
+Within the past year the results from two major epidemiological studies appeared in the scientific literature and to great fanfare in the media. Plainly stated, these two different kinds of studies found no evidence to link cell phones and brain cancers. The researchers might have simply said, “We did these large, carefully designed studies, and cell phones have nothing to do with brain cancer.”
+In the major Danish study, the researchers collected data from the entire populations of Denmark, Sweden, Norway, and Finland. These sensible countries have long provided medical care for all of their fortunate residents. Therefore, the researchers had access to thorough records. Brain cancers are rare, so they must search through large populations to find sufficient cases to draw conclusions. The plan of this study was to compare trends in the incidence of brain cancers from the late 1980s into the mid 1990s when cell phone use was non-existent or rare with the incidence in the first decade of the 21st century when cell phone use was wide spread. They saw no effect. None. Zero. Nada.
+These researchers believe that cell phones must cause brain cancer somehow to some degree. Therefore, they asserted that perhaps their study was not large enough, perhaps their study did not cover sufficient time, or perhaps the large sample population diluted the effect in susceptible subgroups. They grudgingly admitted that it was possible that their study showed no effect because cell phones do not cause cancer.
+The other study, known as the Interphone study, is a case-control study. Searching the populations of 13 European nations the researchers found 6000 brain cancer patients. Next, the researchers sought out 6000 more people to form a matched control group. Then the epidemiologists searched their data to see if they could detect suggestions that cell phone use might increase the risk of brain cancer. “The results really don’t allow us to conclude that there is any risk associated with mobile phone use, but… it is also premature to say that there is no risk associated with it,” the IARC’s director Christopher Wild told Reuters. Also:
+Data from the IARC study showed that overall, mobile telephone users in fact had a lower risk of brain cancer than people who had never used one, but the 21 scientists … said this finding suggested problems with the method, or inaccurate information from those who took part.
+Other results showed high cumulative call time may slightly raise the risk, but again the finding was not reliable.
+“We can’t just conclude that there is no effect,” said Elisabeth Cardis of the Centre for Research in Environmental Epidemiology in Barcelona, Spain, who led the study.
+“There are indications of a possible increase. We’re not sure that it is correct. It could be due to bias, but the indications are sufficiently strong … to be concerned.”
+A chart simplified from the printed version of this article in Skeptic magazine Vol. 15, No. 4. This eSkeptic version says that the brain receives only a tiny amount of energy from a cell phone compared to that generated by normal activity such as working out. The body’s powerful temperature control system deals with this extra energy without breaking into a sweat. The Skeptic magazine article compares the energy required to break the chemical bonds in living cells with the energy level of cell phone photons and other forms of electromagnetic energy. The result is the same. Cell phones cannot damage living tissue or cause cancer. (Click the image to download a PDF version of the diagram.)
+Why aren’t these researchers proclaiming the brilliant discovery that cell phones protect against brain cancer? Why do they believe that concern is justified? They are confident that there is no possible way for cell phones to reduce the risk of brain cancer, but they suspect that the physicists might be wrong that there is no mechanism.
+Physicists have solved the problem of microwave radiation and absorption. We know exactly what happens to the radiation, and there is no fuzzy area about it that we do not understand. The epidemiologists hear instead that physicists do not know of a mechanism by which the radiation might cause cancer.
+The epidemiologists explain away their great discovery that cell phones protect against cancer and suspect that they may cause brain cancer because they believe the first has no mechanism and the second may have an unknown one. I argue strongly that there is no possible mechanism, known or unknown, by which cell phone radiation might cause cancer. However, the epidemiologists are wrong that there is no way by which cell phones might reduce the risk of brain cancer.
+Here is my proposal. When our brains absorb energy from cell phones, there is a small temperature increase. When our bodies wish to energize our defense systems and to discomfit the bad guys, the immune system raises the temperature. If the problem is local, the innate immune system produces inflammation. If the problem is general, the innate immune system produces fever. Evidently, a slight, but noticeable temperature increase is beneficial to us.
+Physicist Bernard Leikind ate a light bulb for an earlier generation of Skeptic readers — Vol. 3 No.3, 1995. He turned off the power, unscrewed the bulb, smashed it with a hammer, and only ate the glass. He strongly advises readers not to eat their cell phones even if they have turned them off, smashed them, and canceled their contracts.
+Find
+Like Post
+Reply
+Sajit
+Moderator
+Posts: 320
+Likes Given: 74
+Likes Received: 33 in 24 posts
+Threads: 50
+Joined: Mar 2010
+#10
+14-Jun-2010, 10:38 PM
+http://www.tehelka.com/story_main45.asp?...n_city.asp
+Attached Files
+Tehelka - India\'s Independent Weekly News Magazine.pdf (Size: 355.71 KB / Downloads: 2)
+Find
+Like Post
+Reply
+Sajit
+Moderator
+Posts: 320
+Likes Given: 74
+Likes Received: 33 in 24 posts
+Threads: 50
+Joined: Mar 2010
+#11
+15-Jun-2010, 05:46 PM
+http://www.facebook.com/notes/vijay-raj-...2571379748
+This came to my attention as Vijay Raj dewan had tagged Dr. Kamath on FB. I have asked him to join Nirmukta and present his evidence instead of scare mongering. He in turn accused me of working for a cell phone company !
+Find
+Like Post
+Reply
+Lije
+Administrator
+Posts: 697
+Likes Given: 259
+Likes Received: 355 in 198 posts
+Threads: 83
+Joined: Mar 2010
+#12
+15-Jun-2010, 10:13 PM
+(15-Jun-2010, 05:46 PM)Sajit Wrote: http://www.facebook.com/notes/vijay-raj-...2571379748
+This came to my attention as Vijay Raj dewan had tagged Dr. Kamath on FB. I have asked him to join Nirmukta and present his evidence instead of scare mongering. He in turn accused me of working for a cell phone company !
+He took the easy way out. Instead of reading the rebuttals here and verifying them, he saved himself some time by calling you as a shill. Fact verification seems to be very low on a journalists agenda these days.
+Website Find
+Like Post
+Reply
+« Next Oldest | Next Newest »
+Pages (2): 1 2 Next »
+View a Printable Version
+Subscribe to this thread
+Users browsing this thread: 1 Guest(s)
+Contact Us
+Nirmukta
+Return to Top
+Mobile Version
+RSS Syndication
+Current time: 23-Apr-2019, 10:07 AM
+Linear Mode
+Threaded Mode

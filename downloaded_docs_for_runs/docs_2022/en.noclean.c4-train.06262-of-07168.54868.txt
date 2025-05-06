@@ -1,0 +1,61 @@
+Distillation Purity - Moonshine Still
+Distillation Purity
+Distillation: Some Purity Considerations
+This section deals with distillate purity and some of the factors that are involved in it. If these subjects are not important to you then, click here to move on to the section on still construction.
+Fiction and Fact
+Before we get into the details of what makes a distillate pure, it's important to address some myths and tall tales about people being poisoned or going blind as a result of drinking improperly distilled alcohol.
+Always remember that distillation is simply a separation and purification process. Neither the fermentation of sugars contained in the mash nor the distillation of the alcohol resulting from that process can produce any toxic amounts of poisons. That includes the often cited methanol, and it doesn't matter how well the still is built, or how poorly the distillation itself is conducted.
+Most instances of methanol poisoning attributed to improper distillation actually resulted from people drinking denatured alcohol. Denatured alcohol arises as an attempt on the governments part, to preserve tax revenues applied to alcoholic beverages. To insure this, laws were passed in the U.S. mandating that all ethyl alcohol not produced for beverages be deliberately poisoned to render it unfit for drinking. The process is called denaturing. A common denaturing practice is to add methyl alcohol, a poison, or other noxious ingredients to the alcohol and render it undrinkable. The government does not tax the production of denatured ethyl alcohol, but closely controls how it is done.
+Unfortunately, that only makes denatured alcohol cheap. It does not prevent some from drinking it, or using it to fortify other beverages, or worse, trying to purify it by distillation.
+That is not to say the government is ruthless and insensitive to the tragedy that results from the deliberate misuse of these regulations. The moonshine operations have a terrible history in this regard.
+Moonshine and Distillate Purity
+To cite an example, during the American prohibition period, huge quantities of beverage alcohol were produced on a daily basis by hundreds of thousands of small (many individual) distilleries, using equipment that was unbelievably crude, and which was operated under filthy conditions of sanitation.
+In the interest of high production, many of these small moonshine operations would add all sorts of noxious chemicals to improve the taste, appearance and proof of the spirit and thereby compensate for the hasty methods used in production. Common lye, a corrosive alkali, was often used to disguise the proof of the spirits, and Clorox®, paint thinner, rubbing alcohol, Sterno®, and formaldehyde were used to mask the unpalatable fusel oils that were often present. Sometimes fertilizer and manure were added to the mash to speed fermentation.
+As bad as this may seem, the legitimate commercial market had it's share of bad news in this department too.
+Drugstore Moonshine
+In another epidemic, during this same time, it was estimated between 35,000 and 50,000 people were afflicted by a "Jake Leg" malady which caused paralysis of the victims legs and feet. The cause was traced to a chemical called triorthocreysl phosphate. This chemical was an ingredient of a popular drugstore over the counter tonic. In reality the tonic was a tincture of Jamaica Ginger. The "Jake" was about 90% alcohol. Wood alcohol (methanol) was also added to it to mask the strong ginger taste.
+The effect was predictable, but it was legal, and there were high profits to be made.
+Some things never change, and that's why we are so concerned with the purity of the spirits that are produced by the stills in this manual.
+What's in a Pure Spirit
+Distillate purity is always directly related to the contents of the mash. A chemical analysis of the typical distillate (excluding water and ethyl alcohol) that is produced when a batch of molasses based beer breaks down as follows:
+Organic acids 0.152 %
+Esters 0.071
+Aldehydes 0.015
+Furfurol 0.00019
+Higher Alcohols 0.412
+Nitrogenous Substances 0.0006
+Notice that the total impurities (excluding water) typically amount to less than one percent, there is no methanol present, and there are no toxic amounts of any component.
+Under these circumstances then, the major measure of purity becomes how much water is contained in the distillate. This is best determined with a simple hydrometer.
+But measuring the purity of ethanol with a hydrometer has it's limitations. Unfortunately it cannot measure those minor amounts of other impurities in the distillate that are easily detected by the human senses of taste and smell.
+A great deal of effort must go into producing a satisfactory tasting product. And while producing a very pure product will protect you from the maladies discussed above, it does not necessarily mean that it will taste good.
+With these points in mind, it's now time to give some thought to some still construction considerations.
+<- BACK - Reflux Stills
+NEXT - Boiler Selection ->
+Moonshine Still Menu
+Building a World Class Home Distillation Apparatus
+Table of Contents
+Government Regulations
+Resources
+Pot Stills
+Reflux Stills
+Distillation Purity
+Boiler Selection
+Top End Considerations
+Tools and Techniques
+Internal Reflux Condenser
+Internal Reflux Cooling
+Internal Reflux Condenser Core
+Internal Reflux Condenser Jacket
+Internal Reflux Column
+Valved Reflux Still-Head
+Valved Reflux Column
+Attaching the Column and Boiler
+Column Packing
+Heating
+Cooling
+Still Operation
+Tuning
+Final Words
+Appendix I - Materials and Cost
+Appendix II - Resources
+Ethanol Equilibrium Curve

@@ -1,0 +1,360 @@
+Fats and Cholesterol: Out with the Bad, In with the Good | The Nutrition Source | Harvard T.H. Chan School of Public Health
+success
+fail
+Apr MAY Aug
+22
+2014 2015 2016
+181 captures
+15 Jan 2013 - 31 Mar 2019
+About this capture
+COLLECTED BY
+Organization: Archive Team
+Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+The main site for Archive Team is at archiveteam.org and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the Wayback Machine, providing a path back to lost websites and work.
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+The Archive Team Panic Downloads are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures.
+Collection: ArchiveBot: The Archive Team Crowdsourced Crawler
+ArchiveBot is an IRC bot designed to automate the archival of smaller websites (e.g. up to a few hundred thousand URLs). You give it a URL to start at, and it grabs all content under that URL, records it in a WARC, and then uploads that WARC to ArchiveTeam servers for eventual injection into the Internet Archive (or other archive sites).
+To use ArchiveBot, drop by #archivebot on EFNet. To interact with ArchiveBot, you issue commands by typing it into the channel. Note you will need channel operator permissions in order to issue archiving jobs. The dashboard shows the sites being downloaded currently.
+There is a dashboard running for the archivebot process at http://www.archivebot.com.
+ArchiveBot's source code can be found at https://github.com/ArchiveTeam/ArchiveBot.
+TIMESTAMPS
+Main Menu
+Skip to content
+People
+Calendar
+MyHarvardChan
+Email
+About
+Key Facts
+Renaming the School
+Office of the Dean
+Location and Facilities
+Administrative Offices
+Contact Information
+Admissions
+Office of Admissions
+Student Financial Services
+Registrar’s Office
+Summer at the School
+Academics
+Departments
+Degrees
+Online Degree Program
+Programs and Requirements
+Executive/Summer Programs
+Interdisciplinary Programs
+Office of Education
+Division of Biological Sciences
+Division of Policy Translation and Leadership Development
+Executive and Continuing Professional Education
+Fellowships and Residencies
+Catalog
+Academic Calendar
+Exec Ed
+Research
+Office of Research Strategy and Development
+Harvard Longwood Campus Research Administration
+Office of Regulatory Affairs and Research Compliance
+Office of Human Research Administration
+Centers & Institutes
+Researchers Directory
+Postdoctoral Research Fellows
+Export Controls
+International Research
+Faculty
+Office of Faculty Affairs
+Faculty Directory
+Faculty Searches
+Students
+Student Life Main
+Academic Calendar
+Career Advancement
+Countway Library
+Housing
+Office for Student Affairs
+Office of Education
+Office of Diversity and Inclusion
+Student Financial Services
+Registrar’s Office
+Student Billing
+Orientation
+Commencement
+Alumni
+News
+News Main
+Press Releases
+Harvard Public Health Magazine
+Explore Research by Topic
+Mailing Lists
+Multimedia
+Office of Communications
+Make a Gift
+Campaign for Harvard Chan School
+Harvard School of Public Health	Harvard School of Public Health Centennial
+A to Z Index
+Search for:
+Skip to content
+People
+Calendar
+myHarvardChan
+Email
+Newsletters
+The Nutrition Source
+Menu
+Skip to content
+Home
+Nutrition in the News
+What Should I Eat?
+Healthy Eating Plate & Healthy Eating Pyramid
+Healthy Eating Plate Translations
+Whole Grains
+Protein
+Vegetables and Fruits
+Fats and Cholesterol
+Types of Fat
+Cholesterol
+Dietary fat and disease
+Calcium and Milk
+Vitamins
+Healthy Drinks
+Other Healthy Beverage Options
+Drinks to Consume in Moderation
+Sugary Drinks
+Soft Drinks and Disease
+Artificial Sweeteners
+Public Health Concerns
+Salt and Sodium
+Health Risks and Disease
+Take Action: How to Reduce Your Intake
+Public Health Concerns
+Carbohydrates
+Carbohydrates and Blood Sugar
+Fiber
+Added Sugar in the Diet
+Low-Carbohydrate Diets
+Healthy Weight
+Measuring Fat
+The Best Diet: Quality Counts
+Healthy Dietary Styles
+Staying Active
+Active Communities
+Disease Prevention
+Cardiovascular disease
+CVD risk factors
+Preventing CVD
+Diabetes
+Simple Steps to Preventing Diabetes
+Diabetes Prevention Toolkit
+Recipes
+Home Cooking
+Food Service
+Healthy Food Service
+Additional Resources
+About Us
+FAQ
+Contact Us
+Home > The Nutrition Source > Fats and Cholesterol: Out with the Bad, In with the Good
+Fats and Cholesterol: Out with the Bad, In with the Good
+in
+Stumbleupon
+Table of Contents
+Introduction: It’s Time to End the Low-Fat Myth
+How Fat Moves from Food to the Bloodstream
+How Fat and Cholesterol in Food Affect Blood Cholesterol Levels
+Dietary Fats and Heart Disease: Healthy Fats in Healthy Diets
+Dietary Fats and Diabetes
+Dietary Fats and Cancer
+Dietary Fats and Other Chronic Conditions
+Dietary Fats and Obesity
+The Bottom Line: Recommendations for Fat Intake
+References
+Introduction: It’s Time to End the Low-Fat Myth
+It’s time to end the low-fat myth. For decades, a low-fat diet was touted as a way to lose weight and prevent or control heart disease and other chronic conditions, and food companies re-engineered products to be reduced-fat or fat-free, often compensating for differences in flavor and texture by increasing amounts of salt, sugar, or refined grains. However, as a nation, following a low-fat diet hasn’t helped us control weight or become healthier.
+In the 1960s, fats and oils supplied Americans with about 45 percent of calories; (1) about 13 percent of adults were obese and under 1 percent had type 2 diabetes, a serious weight-related condition. (2,3)
+Today, Americans take in less fat, getting about 33 percent of calories from fats and oils; (4) yet 34 percent of adults are obese and 11 percent have diabetes, most with type 2 diabetes. (5,6)
+Why hasn’t cutting fat from the diet paid off as expected? Detailed research shows that the total amount of fat in the diet isn’t really linked with weight or disease. What really matters is the type of fat and the total calories in the diet. (7–15)
+Bad fats, meaning trans and saturated fats, increase the risk for certain diseases.
+Good fats, meaning monounsaturated and polyunsaturated fats, do just the opposite. They are good for the heart and most other parts of the body.
+One problem with a generic lower fat diet is that it prompts most people to stop eating fats that are good for the heart along with those that are bad for it. Another problem is that when people cut back on fat, they often switch to foods full of easily digested carbohydrates—white bread, white rice, potatoes, sugary drinks, and the like—or to fat-free products that replace healthful fats with sugar and refined carbohydrates. The body digests these carbohydrates very quickly, causing blood sugar and insulin levels to spike. Over time, eating lots of “fast carbs” can raise the risk of heart disease and diabetes as much as—or more than—eating too much saturated fat. (16–18) That’s why it’s important to replace foods high in bad fats with foods high in good fats—not with refined carbohydrates.
+What about cholesterol in food? For most people, the mix of fats in the diet influences cholesterol in the bloodstream far more than cholesterol in food does.
+How Fat Moves from Food to the Bloodstream
+Almost all foods contain some fat. Even quintessential fat-free foods like carrots and lettuce contain small amounts of this nutrient. That’s a testament to how important fats are for life. Fat provides a terrific source of energy as well as a great depot for storing it. It is an important part of cell membranes, helping govern what gets into cells and what comes out. The body uses cholesterol as the starting point to make estrogen, testosterone, vitamin D, and other vital compounds. Fats are also biologically active molecules that can influence how muscles respond to insulin’s “open up for sugar” signal; different types of fats can also fire up or cool down inflammation.
+Fat and cholesterol can’t dissolve in water or blood. The body gets around this basic chemistry problem by packaging fat and cholesterol into tiny, protein-covered particles called lipoproteins. Although lipoproteins can carry quite a bit of fat, they mix easily with blood and flow with it. Some of these particles are big and fluffy, others small and dense. The most important ones are low-density lipoproteins, high-density lipoproteins, and triglycerides.
+Low-density lipoproteins (LDL) carry cholesterol from the liver to the rest of the body. Cells latch onto these particles and extract fat and cholesterol from them. When there is too much LDL cholesterol in the blood, these particles can form deposits in the walls of the coronary arteries and other arteries throughout the body. Such deposits, called plaque, can narrow arteries and limit blood flow. When plaque breaks apart, it can cause a heart attack or stroke. Because of this, LDL cholesterol is often referred to as bad, or harmful, cholesterol.
+High-density lipoproteins (HDL) scavenge cholesterol from the bloodstream, from LDL, and from artery walls and ferry it back to the liver for disposal. Think of HDL as the garbage trucks of the bloodstream. HDL cholesterol is often referred to as good, or protective, cholesterol. Several strategies can help you lower the amounts of total and harmful LDL cholesterol in your bloodstream, and thus your risk of heart disease.
+Triglycerides make up most of the fat that you eat and that travels through the bloodstream. As the body’s main vehicle for transporting fats to cells, triglycerides are important for good health. But as is the case for so many things, an excess of triglycerides can be unhealthy.
+In general, the lower your LDL and the higher your HDL, the better your chances of preventing heart disease and other chronic conditions. Guidelines from the National Cholesterol Education Program suggest specific targets.
+How Fat and Cholesterol in Food Affect Blood Cholesterol Levels
+The types of fat in the diet determine to a large extent the amount of total, HDL, and LDL cholesterol in the bloodstream. The types and amount of carbohydrate in the diet also play a role. Cholesterol in food matters, too, but not nearly as much.
+Good Fats
+Unsaturated fats are called good fats because they can improve blood cholesterol levels, ease inflammation, stabilize heart rhythms, and play a number of other beneficial roles. Unsaturated fats are predominantly found in foods from plants, such as vegetable oils, nuts, and seeds. They are liquids at room temperature.
+There are two types of unsaturated fats:
+Monounsaturated fats are found in high concentrations in olive, peanut, and canola oils; avocados; nuts such as almonds, hazelnuts, and pecans; and seeds such as pumpkin and sesame seeds.
+Polyunsaturated fats are found in high concentrations in sunflower, corn, soybean, and flaxseed oils, and also in foods such as walnuts, flax seeds, and fish; canola oil, though higher in monounsaturated fat, is also a good source of polyunsaturated fat. Omega-3 fats, which are fast becoming the darling of the supplement industry, are an important type of polyunsaturated fat. The body can’t make these, so they must come from food. An excellent way to get omega-3 fats is by eating fish two or three times a week. Good plant sources of omega-3 fats include chia seeds (sold as Salvia), flax seeds, walnuts, and oils such as flaxseed, canola, and soybean.
+Dutch researchers conducted an analysis of 60 trials that examined the effects of carbohydrates and various fats on blood lipid levels. In trials in which polyunsaturated and monounsaturated fats were eaten in place of carbohydrates, these good fats decreased levels of harmful LDL and increased protective HDL. (19) More recently, a randomized trial known as the Optimal Macronutrient Intake Trial for Heart Health (OmniHeart) showed that replacing a carbohydrate-rich diet with one rich in unsaturated fat, predominantly monounsaturated fats, lowers blood pressure, improves lipid levels, and reduces the estimated cardiovascular risk. (7)
+Most people don’t get enough of these healthful unsaturated fats each day. No strict guidelines have been published regarding their intake. The traditional Greek diet, for example, gets up to 30 percent of its calories from monounsaturated fats, mostly from olive oil. For polyunsaturated fats, the American Heart Association has set 8 to 10 percent of calories as a prudent target; there is evidence, though, that eating more polyunsaturated fat—on the order of 15 percent of daily calories—in place of saturated fat can lower heart disease risk. (13) Since no one eats by percentage of daily calories, a good rule of thumb is to choose foods rich in unsaturated fats over foods rich in saturated fats whenever possible. (To learn more, check out this chart, Finding Foods with Healthy Fats.)
+Bad Fats
+There’s been controversy brewing over the past decade about just how bad saturated fat is for health. Fueling the debate, in part, has been the resurgence of the Atkins Diet, which eschews carbs but allows liberal use of high-fat foods, including foods high in saturated fat—butter, bacon, steak, cheese, and the like. (20) More recently, several studies seemed to suggest that eating diets high in saturated fat did not raise the risk of heart disease—a finding that ran counter to decades of dietary advice. (21,22) One highly-publicized report analyzed the findings of 21 studies that followed 350,000 people for up to 23 years. Investigators looked at the relationship between saturated fat intake and coronary heart disease (CHD), stroke, and cardiovascular disease (CVD). Their controversial conclusion: “There is insufficient evidence from prospective epidemiologic studies to conclude that dietary saturated fat is associated with an increased risk of CHD, stroke, or CVD.”(21)
+With headlines like “Saturated Fat is Not Your Heart’s Enemy,” and “NOT GUILTY: The Long-Standing Vilification of Saturated Fat Finally Turning to Vindication,”(23,24) some of the media and blog coverage of these studies would have you believe that scientists had given a green light to eating bacon, butter, and cheese. But that’s an oversimplified and erroneous interpretation. Read the study and subsequent studies more closely, and the message is more nuanced: Cutting back on saturated fat can be good for health if people replace saturated fat with good fats, especially, polyunsaturated fats. (16,25) Eating good fats in place of saturated fat lowers the “bad” LDL cholesterol, and it improves the ratio of total cholesterol to “good” HDL cholesterol, lowering the risk of heart disease. Eating good fats in place of saturated fat can also help prevent insulin resistance, a precursor to diabetes. (26)
+Cutting back on saturated fat will likely have no benefit, however, if people replace saturated fat with refined carbohydrates—white bread, white rice, mashed potatoes, sugary drinks, and the like. Eating refined carbs in place of saturated fat does lower “bad” LDL cholesterol—but it also lowers the “good” HDL cholesterol and increases triglycerides. The net effect is as bad for the heart as eating too much saturated fat—and perhaps even worse for people who have insulin resistance because they are overweight or inactive. (17,25)
+The latest Dietary Guidelines for Americans recommends getting less than 10 percent of calories each day from saturated fat. (27) The American Heart Association goes even further, recommending limiting saturated fat to no more than 7 percent of calories. (28) But framing diet recommendations in terms of “percentage of daily calories” is not terribly useful for the average consumer. That’s because people eat foods—not isolated nutrients.
+In the U.S., pizza and cheese are the biggest food sources of saturated fat in the diet (see table). (29) Other dairy products (whole and reduced fat milk, butter, dairy desserts) and meat products (sausage, bacon, beef, hamburgers) are also major contributors, as are foods made with them (cookies and other grain-based desserts, Mexican dishes). Keep in mind that all foods contain a mix of fats: Even “healthy” foods like chicken and nuts do contribute some saturated fat to the diet, though they are much lower in saturated fat than beef, cheese, and ice cream. A few plant foods are also high in saturated fats, such as coconut and coconut oil, palm oil, and palm kernel oil.
+As a general rule, it’s a good idea to keep your intake of saturated fats as low as possible. We can’t eliminate saturated fat from our diets completely, because foods that are good sources of healthy fats—olive oil, walnuts, salmon—also contain a little bit of saturated fat. And it would be a mistake to cut back on nuts, oils, and fish to minimize saturated fat. When you add it up, red meat and full-fat dairy products (cheese, milk, ice cream, butter) are among the main sources of saturated fat in our diets. So keeping these foods low is the best way to reduce intake of saturated fat. And when you cut back on red meat and dairy products, replace them with foods that contain healthy fats—fatty fish like salmon, nuts and seeds, plant oils, avocadoes—not with foods that are high in refined carbohydrates.
+Very Bad Fats: Trans Fats
+Trans fatty acids, more commonly called trans fats, are made by heating liquid vegetable oils in the presence of hydrogen gas and a catalyst, a process called hydrogenation. Partially hydrogenating vegetable oils makes them more stable and less likely to spoil. It also converts the oil into a solid, which makes transportation easier. Partially hydrogenated oils can also withstand repeated heating without breaking down, making them ideal for frying fast foods. (Fully hydrogenating a vegetable oil creates a fat that acts like a saturated fat.) It’s no wonder that partially hydrogenated oils became a mainstay in restaurants and the food industry, for frying, baked goods, and processed snack foods and margarines.
+For years, margarine was promoted as a heart-healthy alternative to butter. Since margarine was made from unsaturated vegetable oils, most people assumed it would be better for long-term health than butter, which was known to contain a lot of cholesterol and saturated fat. That assumption turned out to be wrong. Research showed that some forms of margarine—specifically the hard stick margarines—were worse for the heart than butter. This was because they contained large amounts of trans fats from partially hydrogenated oils.
+The Nurses’ Health Study found that women who ate 4 teaspoons of stick margarine a day had a 50 percent greater risk of heart disease than women who ate margarine only rarely. (62)
+So should you choose butter over margarine? Whenever possible, skip both and use a liquid vegetable oil. At the table, try dipping bread in olive oil instead of slathering it with butter or margarine. When sautéing, try using olive, canola, or another liquid vegetable oil, with a little bit of butter for flavor. If you need something spreadable, choose a soft margarine that is not only trans free but low in saturated fat. A number of soft margarines are made from a blend of healthful oils, and some have the added benefit of containing cholesterol-lowering plant sterols. Keep in mind that you need to eat two servings of these sterol-containing margarines a day to put a small dent in your LDL level. Read more about how to spot trans fat on food labels.
+Partially hydrogenated oil is not the only source of trans fats in our diets. Trans fats are also naturally found in beef fat and dairy fat, in small amounts.
+Trans fats are worse for cholesterol levels than saturated fats because they raise bad LDL and lower good HDL. They also fire inflammation, (30) an overactivity of the immune system that has been implicated in heart disease, stroke, diabetes, and other chronic conditions. And they contribute to insulin resistance. (26) Even small amounts of trans fat in the diet can have harmful health effects. For every extra 2 percent of calories from trans fat daily, the risk of coronary heart disease increases by 23 percent. Eliminating industrial-produced trans fats from the U.S. food supply could prevent between 6 and 19 percent of heart attacks and related deaths, or more than 200,000 each year. (31)
+In the 1990s, the average American was eating about six grams of trans fats a day, most of that from partially hydrogenated oils found in commercially prepared baked goods, margarines, snack foods, processed foods, French fries, and other fried foods prepared in restaurants and fast food franchises. (32) Ideally that should be under two grams a day, and zero from partially hydrogenated oils is best.
+A 2006 labeling law that forced food companies to list trans fats on the label has reduced trans fat levels in the U.S. food supply, since many food makers have switched to using trans-free oils and fats in their products. And recent study from the Centers for Disease Control and Prevention finds that Americans’ blood-levels of trans fats dropped 58 percent from 2000 to 2009—evidence that the labeling law has had its desired effect. (64) Some experts had feared that food makers would replace trans fat with saturated fat, diminishing any health benefits from the switch. But 2010 survey of 83 major-brand grocery store products and restaurant dishes offers encouraging news: When most of these food makers reformulated their products, they cut back on trans fat without increasing saturated fat. (33)
+As trans fat intake dwindles in developed countries, it is on the rise in some developing nations. Inexpensive partially hydrogenated soybean oil has become a staple not only for the food industry but for home use. This shift away from traditional cooking oils and toward trans-rich partially hydrogenated oils is contributing to the growing epidemic of cardiovascular disease in developing nations around the world.
+Cholesterol in Food
+The discovery half a century ago that high blood cholesterol levels were strongly associated with an increased risk for heart disease triggered numerous warnings to avoid foods that contain cholesterol, especially eggs and liver. As it turns out, most people make more cholesterol than they absorb from their food. A body of scientific studies shows only a weak relationship between the amount of cholesterol a person consumes and his or her blood cholesterol levels (34) (weak but still important for heart disease). In studies of more than 80,000 female nurses, Harvard researchers found that consuming about an egg a day was not associated with higher risk of heart disease (too few women in the study were eating more than an egg a day to evaluate the effects of higher egg intakes). (35,36) One reason for the lack of association is that eggs are a good source of many nutrients that may counterbalance a slight increase in risk of heart disease. Also, eggs can take the place of other breakfast foods that have adverse effects, such as white toast with butter. One note of caution: Among women in this study with diabetes and in another study of men with diabetes, higher egg consumption has been associated with increased risks of heart disease.
+Research suggests that moderate egg consumption can be part of a healthy diet. But this research doesn’t give the green light to daily three-egg omelets, especially for people who already have heart disease or diabetes. Read more about eggs and heart health.
+For most people, the amount of cholesterol eaten has only a modest impact on the amount of cholesterol circulating in the blood. (37) For some people, though, blood cholesterol levels rise and fall very strongly in relation to the amount of cholesterol eaten. For these “responders,” avoiding cholesterol-rich foods can have a substantial effect on blood cholesterol levels. Unfortunately, at this point there is no way other than by trial and error to identify responders from non-responders to dietary cholesterol.
+Dietary Fats and Heart Disease: Healthy Fats in Healthy Diets, Not Low Fat
+For years, the party line from the American Heart Association, National Institutes of Health, World Health Organization, and others was to reduce dietary fat. They generally called for limiting fat intake to under 30 percent of daily calories. There wasn’t much evidence to support the notion of low-fat diets in the beginning. (38) There is even less now. Numerous reports over the years have questioned the wisdom of recommending low-fat diets for preventing or retarding heart disease.
+A big nail in the coffin came from the Women’s Health Initiative Dietary Modification Trial, published in the February 8, 2006, Journal of the American Medical Association. (9) This eight-year trial, which included almost 49,000 women, found virtually identical rates of heart attack, stroke, and other forms of cardiovascular disease in women who followed a low-fat diet and in those women who didn’t. What’s more, women on the low-fat diet didn’t lose—or gain—any more weight than women who followed their usual diets. (8)
+This randomized trial supports prior findings from the Nurses’ Health Study (36) and the Health Professionals Follow-up Study. (39) In both of these, no link was seen between the overall percentage of calories from fat and any important health outcome, including cancer, heart disease, and weight gain. What was important in these studies was the type of fat in the diet. (40)
+As research grows on diet and heart disease, it’s becoming clearer that looking at a single nutrient in isolation cannot tell us the whole story about a person’s heart disease risk. People eat foods, not nutrients, and they eat them in an overall dietary pattern. The so-called “Western” diet pattern—high in red meat and processed meat, refined grains, potatoes, and sugary drinks, and low in fruits, vegetables, whole grains, and healthy fats—is associated with higher risk of heart disease. The traditional Mediterranean Diet pattern, in contrast, appears to lower the risk of heart disease, stroke, and metabolic syndrome, a constellation of factors that increases the chances of developing heart disease and diabetes. (11,41,42)
+The Mediterranean-style diet is high in fat, but most of that fat comes from olive oil or plant sources, such as nuts and seeds, and saturated fat intakes are low. Mediterranean-style diets are also characterized by bountiful intakes of vegetables, fruits, beans, nuts, and whole grains, as well as some cheese and yogurt. So if you are concerned about heart health, pay attention to your overall diet, not just to the type of fat. (Check out two clear guides to choosing a healthy diet, from the Dept. of Nutrition at Harvard School of Public Health: the Healthy Eating Pyramid and the Healthy Eating Plate.)
+Dietary Fats and Diabetes
+The types of fats in your diet can also affect the development of diabetes. Good fats, such as the polyunsaturated fats found in liquid vegetable oils, nuts, and seeds can help ward off type 2 diabetes. (26) Trans fats do just the opposite. (31,40) Eating omega-3 fats from fish does not protect against diabetes, even though there is much evidence that these marine omega-3 fats help prevent heart disease. (43) If you already have diabetes, eating fish can help protect you against a heart attack or dying from heart disease. (44)
+Dietary Fats and Cancer
+Researchers once suspected an association between dietary fat and certain cancers. Here again, in adults, the percentage of calories from total fat consumed appears to have no important relation to cancer risk, and no clear evidence has linked any specific type of fat with cancer incidence.
+Breast Cancer
+By the early 1980s, most nutrition experts believed that dietary fat was a major cause of breast cancer. (45,46) This thinking was largely based on international comparisons showing higher breast cancer rates in countries with higher per capita fat intake. But such comparisons are very broad in nature. As more detailed studies were performed over the next couple of decades, the apparent link between total fat intake and breast cancer has faded. (47) The Women’s Health Initiative Dietary Modification Trial, which was specifically designed to examine the effect of a low-fat diet on the development of breast cancer, showed similar rates of breast cancer in women eating a low-fat diet and in those eating a “regular” diet. (10) One recent study from the National Institutes of Health–AARP Diet and Health Study found a very weak positive association between fat and postmenopausal breast cancer, (48) but when combined with the many other studies detailed above, the overall evidence does not support a relationship between total fat intake and breast cancer.
+Although studies—including those by Harvard researchers—of different types of fat have largely failed to find a link with breast cancer, some evidence suggests that animal fat intake in young women may be linked to higher risk of breast cancer. In the Nurses’ Health Study II, premenopausal women who ate diets high in animal fat had a 40 to 50 percent higher risk of breast cancer, compared to women who ate the least animal fat. (49) Because vegetable fat was not related to risk of breast cancer, these findings suggest that red meat and high-fat dairy products may contain other factors, such as hormones, that increase risk of breast cancer. Some European studies have reported suggestive findings of lower breast cancer risk among women with a high intake of monounsaturated fats (mainly in the form of olive oil). (50,51)
+Colon Cancer
+As with breast cancer, international comparisons initially suggested an association between total dietary fat intake and colon cancer risk. But later and better studies contradicted these earlier findings and revealed instead an association that was weak at best. As was the case with breast cancer, women in the Women’s Health Initiative Dietary Modification Trial who ate a low-fat diet developed colon cancer at the same rate as women who didn’t. (8) Although fat intake doesn’t seem to increase colon cancer risk, there is convincing evidence that high consumption of red meat (beef, pork, and lamb) and processed meat (hot dogs, bacon, and deli meats) does increase colon cancer risk. (52) It’s best to limit red meat consumption to no more than twice a week, and to avoid processed meats.
+Prostate Cancer
+Although the exact connection between dietary fat and prostate cancer is far from clear, there is some evidence that diets high in animal fat and saturated fat increase prostate cancer risk. However, some studies have also shown no association, while others have implicated unsaturated fats. Clearly much more research is needed to clear up the exact links between dietary fat and prostate cancer.
+Other Cancers
+Preliminary research has also linked the intake of certain kinds of fat with other cancers, though much more research is needed to confirm these results. In the Nurses’ Health Study, Harvard researchers found that a high intake of trans fats was associated with risk for non-Hodgkin’s lymphoma. (53)
+Dietary Fats and Other Chronic Conditions
+Although cardiovascular disease and cancer have received the lion’s share of researchers’ attention, there is a small but growing body of work on the effects of dietary fats on conditions such as depression, (54) osteoporosis, (55) age-related memory loss, (56) cognitive decline, (57) macular degeneration, (58) multiple sclerosis, (59) infertility and endometriosis, (60,61) and other chronic conditions. These findings, which are still early, do not provide any evidence to modify dietary fat recommendations based on the prevention of cardiovascular disease.
+Dietary Fats and Obesity
+It is a common belief that the more fat you eat, the more weight and body fat you gain. This belief has been bolstered by much of the nutrition advice given to people over the past few decades, which has focused on lowering total fat intake while increasing carbohydrate intake. But the notion that food fat equals body fat isn’t completely true, and the advice has been misguided. For example, while Americans have gradually decreased the proportion of calories they get from fat over the past few decades, rates of obesity have increased steeply.
+Over the short term, following a low-fat diet can lead to a small weight loss. But so does following a high-fat, low-carbohydrate diet. Or a high-protein, low-carbohydrate diet. Actually, almost any diet that helps you take in fewer calories works over the short term. In other words, for most people low-fat diets offer no apparent advantages over diets with fat levels close to the national average. This was demonstrated in the Women’s Health Initiative Dietary Modification Trial. Women in this trial who were assigned to a low-fat diet in the long run did not lose, or gain, more weight than women eating a “usual” diet. (8) More recently, a two-year head-to-head trial comparing different weight loss strategies found that low-carb, low-fat, and Mediterranean-style diets worked equally well, and that there was no speed advantage for one diet over another. (12) In another trial, a Mediterranean diet was superior to a low-fat diet. (62)
+Just as overall diet quality is important for preventing heart disease, diet quality seems to be an important factor in weight gain. A recent study from the Harvard School of Public Health tracked the diet and lifestyle habits of 120,000 men and women for up to 20 years, looking at how small changes contributed to weight gain over time. (14) People who ate more nuts, a high-fat food that was traditionally taboo for dieters, gained less weight over the course of the study—about a half pound less every four years. People who ate more vegetables, whole grains, and fruits also gained less weight. In contrast, people who ate more red and processed meat over the course of the study gained more weight—about a pound extra every four years. So did people who ate more French fries, potatoes and potato chips, sugary drinks, and refined grains—gaining an extra 3.4, 1.3, 1.0, and 0.6 pounds every four years, respectively. Of course, the calories from nuts, whole grains, fruits, and vegetables don’t disappear. What’s likely happening is that when people increase their intake of these foods, they cut back on calories from other foods.
+Although more research is needed, a prudent recommendation for losing weight or maintaining a healthy weight is to choose an overall healthy diet, such as one described by the Healthy Eating Pyramid and the Healthy Eating Plate, and be mindful of the amount of food you eat in relation to the amount of calories you burn in a day. A moderate intake of fats, with an emphasis on healthful unsaturated fats, fits in fine with a weight-loss or weight-maintaining diet.
+The Bottom Line: Recommendations for Fat Intake
+Although the different types of fat have a varied—and admittedly confusing—effect on health and disease, the basic message is simple: Out with the bad, in with the good. You can do this by choosing foods with healthy fats, limiting foods that are high in saturated fat, and avoiding trans fat. Here’s how to make it happen:
+Eliminate trans fats from partially hydrogenated oils. Food labels should say “0” (zero) on the line for trans fat; also scan the ingredient list to make sure it does not contain partially hydrogenated oils (food labeling laws allow food makers to have up to 0.5 grams of trans fat in a product but still list “0” on the line for trans fats). Fortunately, most food manufacturers have removed trans fats from their products. In restaurants, steer clear of fried foods, biscuits, and other baked goods, unless you know that the restaurant has eliminated trans fat (many already have).
+Limit your intake of saturated fats by cutting back on red meat and full-fat dairy foods. Try replacing red meat with beans, nuts, poultry, and fish whenever possible, and switching from whole milk and other full-fat dairy foods to lower fat versions, or just eating smaller amounts of full-fat dairy products, such as cheese. Don’t replace red meat with refined carbohydrates (white bread, white rice, potatoes, and the like).
+In place of butter, use liquid vegetable oils rich in polyunsaturated and monounsaturated fats, in cooking and at the table. Olive oil, canola oil, sunflower oil, safflower oil, corn oil, peanut oil, and the like are great sources of healthy fat.
+Eat one or more good sources of omega-3 fats every day. Fish, walnuts, canola or soybean oil, ground flax seeds or flaxseed oil are excellent sources of omega-3 fats.
+Avocado is a great source of healthy unsaturated fats. Try this recipe for guacamole from The Culinary Institute of America.
+As you choose foods with healthy fat, and limit the amount of trans and saturated fats in your diet, keep in mind that replacing saturated fat with refined carbohydrates will not protect you against heart disease and may even raise your risk. But there is solid proof that replacing saturated fat with unsaturated fats will help lower your heart disease risk.
+References
+1. USDA Center for Nutrition Policy and Promotion. Nutrition Insights: Insight 5: Is Total Fat Consumption Really Decreasing? In; 1998.
+2. Flegal K, Carroll M, Kuczmarski R, Johnson C. Overweight and obesity in the United States: prevalence and trends, 1960-1994. Int J Obes Relat Metab Disord. 1998;22:39-47.
+3. Diabetes in America, 2nd Edition. Bethesda, MD: National Institute of Health Publication; 1995.
+4. Wright JD, Wang, C-Y. Trends in intake of energy and macronutrients in adults from 1999-2000 through 2007-2008. Hyattsville, MD: National Center for Health Statistics; 2010.
+5. Flegal KM, Carroll MD, Ogden CL, Curtin LR. Prevalence and trends in obesity among US adults, 1999-2008. JAMA. 2010;303:235-41.
+6. Centers for Disease Control and Prevention. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. U.S. Dept. of Health and Human Services, 2011. Accessed January 11, 2012.
+7. Appel L, Sacks F, Carey V, et al. Effects of protein, monounsaturated fat, and carbohydrate intake on blood pressure and serum lipids: results of the OmniHeart randomized trial. JAMA. 2005;294:2455-64
+8. Beresford S, Johnson K, Ritenbaugh C, et al. Low-fat dietary pattern and risk of colorectal cancer: the Women’s Health Initiative Randomized Controlled Dietary Modification Trial. JAMA. 2006;295:643-54.
+9. Howard B, Manson J, Stefanick M, et al. Low-fat dietary pattern and weight change over 7 years: the Women’s Health Initiative Dietary Modification Trial. JAMA. 2006;295:39-49.
+10. Howard B, Van Horn L, Hsia J, et al. Low-fat dietary pattern and risk of cardiovascular disease: the Women’s Health Initiative Randomized Controlled Dietary Modification Trial. JAMA. 2006;295:655-66.
+11. Mente A, de Koning L, Shannon HS, Anand SS. A systematic review of the evidence supporting a causal link between dietary factors and coronary heart disease. Arch Intern Med. 2009;169:659-69.
+12. Sacks FM, Bray GA, Carey VJ, et al. Comparison of weight-loss diets with different compositions of fat, protein, and carbohydrates. N Engl J Med. 2009;360:859-73.
+13. Mozaffarian D, Micha R, Wallace S. Effects on coronary heart disease of increasing polyunsaturated fat in place of saturated fat: a systematic review and meta-analysis of randomized controlled trials. PLoS Med. 2010;7:e1000252.
+14. Mozaffarian D, Hao T, Rimm EB, Willett WC, Hu FB. Changes in diet and lifestyle and long-term weight gain in women and men. N Engl J Med. 2011;364:2392-404.
+15. Hooper L, Summerbell CD, Thompson R, et al. Reduced or modified dietary fat for preventing cardiovascular disease. Cochrane Database Syst Rev. 2011:CD002137.
+16. Siri-Tarino PW, Sun Q, Hu FB, Krauss RM. Saturated fatty acids and risk of coronary heart disease: modulation by replacement nutrients. Curr Atheroscler Rep. 2010;12:384-90.
+17. Hu FB. Are refined carbohydrates worse than saturated fat? Am J Clin Nutr. 2010;91:1541-2.
+18. Jakobsen MU, Dethlefsen C, Joensen AM, et al. Intake of carbohydrates compared with intake of saturated fatty acids and risk of myocardial infarction: importance of the glycemic index. Am J Clin Nutr. 2010;91:1764-8.
+19. Mensink R, Zock P, Kester A, Katan M. Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials. Am J Clin Nutr. 2003;77:1146-55.
+20. Taubes G. What if It’s All Been a Big Fat Lie? The New York Times, July 7, 2002.
+21. Siri-Tarino PW, Sun Q, Hu FB, Krauss RM. Meta-analysis of prospective cohort studies evaluating the association of saturated fat with cardiovascular disease. Am J Clin Nutr. 2010;91:535-46.
+22. Micha R, Mozaffarian D. Saturated fat and cardiometabolic risk factors, coronary heart disease, stroke, and diabetes: a fresh look at the evidence. Lipids. 2010;45:893-905.
+23. Beck L. Saturated Fat Is Not Your Heart’s Enemy. The Globe and Mail 2010.
+24. Moore J. NOT GUILTY: The Long-Standing Vilification of Saturated Fat Finally Turning to Vindication. 2010. Accessed January 11, 2012.
+25. Astrup A, Dyerberg J, Elwood P, et al. The role of reducing intakes of saturated fat in the prevention of cardiovascular disease: where does the evidence stand in 2010? Am J Clin Nutr. 2011;93:684-8.
+26. Riserus U, Willett WC, Hu FB. Dietary fats and prevention of type 2 diabetes. Prog Lipid Res. 2009;48:44-51.
+27. U.S. Department of Agriculture, U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2010. Washington, D.C.: U.S. Government Printing Office; 2010.
+28. Lichtenstein AH, Appel LJ, Brands M, et al. Diet and lifestyle recommendations revision 2006: a scientific statement from the American Heart Association Nutrition Committee. Circulation. 2006;114:82-96.
+29. National Cancer Institute. Risk Factor Monitoring and Methods: Table 1. Top Food Sources of Saturated Fat among U.S. Population, 2005–2006. NHANES. Accessed January 11, 2012.
+30. Mozaffarian D, Pischon T, Hankinson S, et al. Dietary intake of trans fatty acids and systemic inflammation in women. Am J Clin Nutr. 2004;79:606-12.
+31. Mozaffarian D, Katan M, Ascherio A, Stampfer M, Willett W. Trans fatty acids and cardiovascular disease. N Engl J Med. 2006;354:1601-13.
+32. Allison DB, Egan SK, Barraj LM, Caughman C, Infante M, Heimbach JT. Estimated intakes of trans fatty and other fatty acids in the U.S. population. J Am Diet Assoc. 1999;99:166-74.
+33. Mozaffarian D, Jacobson MF, Greenstein JS. Food reformulations to reduce trans fatty acids. N Engl J Med. 2010;362:2037-9.
+34. Kratz M. Dietary cholesterol, atherosclerosis and coronary heart disease. Handb Exp Pharmacol. 2005:195-213.
+35. Hu F, Stampfer M, Rimm E, et al. A prospective study of egg consumption and risk of cardiovascular disease in men and women. JAMA. 1999;281:1387-94.
+36. Hu F, Stampfer M, Manson J, et al. Dietary fat intake and the risk of coronary heart disease in women. N Engl J Med. 1997;337:1491-9.
+37. Fernandez M. Dietary cholesterol provided by eggs and plasma lipoproteins in healthy populations. Curr Opin Clin Nutr Metab Care. 2006;9:8-12.
+38. Willett WC. Nutritional Epidemiology. New York: Oxford University Press; 1998.
+39. Ascherio A, Rimm E, Giovannucci E, Spiegelman D, Stampfer M, Willett W. Dietary fat and risk of coronary heart disease in men: cohort follow up study in the United States. BMJ. 1996;313:84-90.
+40. Hu F, Manson J, Willett W. Types of dietary fat and risk of coronary heart disease: a critical review. J Am Coll Nutr. 2001;20:5-19.
+41. Fung TT, Rexrode KM, Mantzoros CS, Manson JE, Willett WC, Hu FB. Mediterranean diet and incidence of and mortality from coronary heart disease and stroke in women. Circulation. 2009;119:1093-100.
+42. Kastorini CM, Milionis HJ, Esposito K, Giugliano D, Goudevenos JA, Panagiotakos DB. The effect of Mediterranean diet on metabolic syndrome and its components: a meta-analysis of 50 studies and 534,906 individuals. J Am Coll Cardiol. 2011;57:1299-313.
+43. Kaushik M, Mozaffarian D, Spiegelman D, Manson JE, Willett WC, Hu FB. Long-chain omega-3 fatty acids, fish intake, and the risk of type 2 diabetes mellitus. Am J Clin Nutr. 2009;90:613-20.
+44. Hu FB, Cho E, Rexrode KM, Albert CM, Manson JE. Fish and long-chain omega-3 fatty acid intake and risk of coronary heart disease and total mortality in diabetic women. Circulation. 2003;107:1852-7.
+45. Willett W, MacMahon B. Diet and cancer–an overview. N Engl J Med. 1984;310:633-8.
+46. Willett W, MacMahon B. Diet and cancer–an overview (second of two parts). N Engl J Med. 1984;310:697-703.
+47. Smith-Warner S, Spiegelman D, Adami H, et al. Types of dietary fat and breast cancer: a pooled analysis of cohort studies. Int J Cancer. 2001;92:767-74.
+48. Thiébaut A, Kipnis V, Chang S, et al. Dietary fat and postmenopausal invasive breast cancer in the National Institutes of Health-AARP Diet and Health Study cohort. J Natl Cancer Inst. 2007;99:451-62.
+49. Cho E, Spiegelman D, Hunter D, et al. Premenopausal fat intake and risk of breast cancer. J Natl Cancer Inst. 2003;95:1079-85.
+50. Sieri S, Krogh V, Pala V, et al. Dietary patterns and risk of breast cancer in the ORDET cohort. Cancer Epidemiol Biomarkers Prev. 2004;13:567-72.
+51. Kushi L, Giovannucci E. Dietary fat and cancer. Am J Med. 2002;113 Suppl 9B:63S-70S.
+52. World Cancer Research Fund, American Institute for Cancer Research. Food, Nutrition, Physical Activity and the Prevention of Cancer: a Global Perspective – Online. 2007. Accessed January 11, 2012.
+53. Zhang S, Hunter DJ, Rosner BA, Colditz GA, Fuchs CS, Speizer FE, Willett WC. Dietary fat and protein in relation to risk of non-Hodgkin’s lymphoma among women. J Natl Cancer Inst. 1999; 90:1751-8.
+54. Lucas M, Mirzaei F, O’Reilly EJ, et al. Dietary intake of n-3 and n-6 fatty acids and the risk of clinical depression in women: a 10-y prospective follow-up study. Am J Clin Nutr. 2011;93:1337-43.
+55. Kruger MC, Coetzee M, Haag M, Weiler H. Long-chain polyunsaturated fatty acids: selected mechanisms of action on bone. Prog Lipid Res. 2010;49:438-49.
+56. Parrott M, Greenwood C. Dietary influences on cognitive function with aging: from high-fat diets to healthful eating. Ann N Y Acad Sci. 2007;1114:389-97.
+57. Devore EE, Stampfer MJ, Breteler MM, et al. Dietary fat intake and cognitive decline in women with type 2 diabetes. Diabetes Care. 2009;32:635-40.
+58. Hodge W, Schachter H, Barnes D, et al. Efficacy of omega-3 fatty acids in preventing age-related macular degeneration: a systematic review. Ophthalmology. 2006;113:1165-72.
+59. Schwarz S, Leweling H. Multiple sclerosis and nutrition. Mult Scler. 2005;11:24-32.
+60. Chavarro J, Rich-Edwards J, Rosner B, Willett W. Dietary fatty acid intakes and the risk of ovulatory infertility. Am J Clin Nutr. 2007;85:231-7.
+61. Missmer SA, Chavarro JE, Malspeis S, et al. A prospective study of dietary fat consumption and endometriosis risk. Hum Reprod. 2010;25:1528-35.
+62. Shai I, Schwarzfuchs D, Henkin Y, et al. Weight loss with a low-carbohydrate, Mediterranean, or low-fat diet. N Engl J Med. 2008;359:229-41.
+63. Willett W, Stampfer M, Manson J, et al. Intake of trans fatty acids and risk of coronary heart disease among women. Lancet. 1993;341:581-5.
+64. Vesper HW, Kuiper HC, Mirel LB, Johnson CL, Pirkle JL. Levels of plasma trans-fatty acids in non-Hispanic white adults in the United States in 2000 and 2009. JAMA. 2012; 307:562-3.
+Terms of Use
+The aim of the Harvard T.H. Chan of Public Health Nutrition Source is to provide timely information on diet and nutrition for clinicians, allied health professionals, and the public. The contents of this Web site are not intended to offer personal medical advice. You should seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this Web site. The information does not mention brand names, nor does it endorse any particular products.
+Fats and Cholesterol: Out With The Bad, In With The Good:
+An in-depth look at dietary fats and their effects on health and disease
+Search the Nutrition Source
+Search for:
+New liquid vegetable oils from new seeds
+One way to get around the spoiling problem is to reduce or eliminate the substances most responsible for it. In vegetable oils, that would be linolenic acid, one of the omega-3 fatty acids. Selective breeding programs at the Iowa State University (8) and elsewhere have created soybeans and other seeds with very low levels of linolenic acid. Oil made from low-linolenic soybeans is more stable than oil made from regular soybeans. But since this process eliminates healthful alpha-linolenic acid, one of the healthful components of many vegetable oils, it will be important to get omega-3 fats from other sources, such as fatty fish or walnuts.
+Tweet
+Harvard School of Public Health
+677 Huntington Avenue
+Boston, MA 02115
++1 (617) 495-1000
+Quick Links
+Learn More
+News & Features
+Departments
+Office of Diversity & Inclusion
+Faculty Directory
+Research
+Location & Directions
+Study at the School
+Admissions Office
+Prospective Students
+Degree Programs
+Program Requirements
+Apply Now
+Executive & Continuing Professional Education
+Student Life
+Registrar’s Office
+Academic Calendar
+Student Financial Services
+Career Advancement
+Student Affairs
+Contact Us
+Harvard Main Site
+About
+Home
+Make a Gift
+Privacy Policy
+Report Copyright Violation
+Copyright © 2015 The President and Fellows of Harvard College

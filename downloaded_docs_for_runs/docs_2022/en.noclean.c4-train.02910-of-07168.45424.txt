@@ -1,0 +1,81 @@
+Autism Eye - Vaccine fever and immune stimulation ‘may cause autism in some children’
+').hide().appendTo('body').load('https://www.autismeye.com/ajax-handler/?id=2123').modal(); } $('a.postpopup').click(function(){ id = $(this).attr('rel'); $('
+').hide().appendTo('body').load('https://www.autismeye.com/ajax-handler/?id='+id).modal(); return false; }); $('.promo').click(function(){ //alert('promo clicked'); $('
+').hide().appendTo('body').load('https://www.autismeye.com/ajax-handler/?id=2123').modal(); return false; }); $('.newsletterCTA').click(function(){ //alert('promo clicked'); $('
+').hide().appendTo('body').load('https://www.autismeye.com/ajax-handler/?id=3668').modal(); return false; }); //$.cookie("promo2", "true", { expires: 10 }); }); Vaccine fever and immune stimulation ‘may cause autism in some children’ '); } }); jQuery('.logo').click(function(){ window.location='/'}); jQuery('.banner').click(function () { jQuery.sidr('close', 'sidr-left'); }); });
+Home
+What is Autism?
+About Us
+News
+Subscribe
+Back Issues
+Sample Features
+Directory
+Announcements
+Events
+Furniture
+Independent Specialist Colleges
+Nutrition
+Resources
+Schools and supported living
+Sensory equipment
+Soft play
+Solicitors
+Therapy
+Training
+Advertise
+Contact Us
+Doctor says vaccines may cause autism
+A leading doctor who backed vaccine safety has signed a sworn statement saying inoculations can cause autism in some cases.
+US paediatric neurologist Dr Andrew Zimmerman says vaccine fever and immune stimulation could cause autism in a subset of children with a mitochondrial dysfunction.
+Dr Andrew Zimmerman, who believes the MMR vaccine can cause autism in children with a mitochondrial dysfunction
+Zimmerman, a professor at the University of Massachusetts Medical School, says throughout his career he has “vigorously defended” vaccines.
+Vaccine link to autism
+But in his affidavit he says he told lawyers of the link to autism in 2007.
+John Fletcher is a member of Justice, Awareness and Basic Support (JABS), a UK self-help group.
+The group supports families who believe their children have been damaged by vaccines.
+Fletcher called the development in the US “very significant”.
+Brain damage
+The UK government awarded him and his wife Jackie £90,000 after the measles, mumps and rubella (MMR) vaccine gave their 27-year-old son Robert brain damage.
+Robert now has epileptic fits, is unable to talk, stand unaided or feed himself. However, he does not have autism.
+A jury made up of a judge and two doctors awarded the compensation. They said the ruling had no relevance to the question of a link between the vaccine and autism.
+Zimmerman says he told US Department of Justice (DOJ) lawyers of the case at a federal court hearing.
+The American hearing involved the family of Michelle Cedillo, who were claiming that the MMR vaccine caused their daughter’s autism.
+Autism ‘based on genetics’
+Zimmerman says he prepared an expert witness statement. In it, he said the child’s autism was based on genetics rather than vaccine damage.
+However, he says he told DOJ lawyers his view that “there were exceptions in which vaccinations could cause autism”.
+He also accuses DOJ lawyers of giving a “highly misleading” account of his views in a later MMR hearing.
+Zimmerman says they implied his “case specific” view of the Cedillo case applied to all children.
+Despite his concerns, Zimmerman still “strongly” supports vaccines.
+Autism Eye contacted the DOJ, Public Health England and MMR manufacturers Merck and GSK, but none responded.
+Related:
+Whistleblower fuels MMR vaccine questions
+MMR ‘jab tax’ would hit families
+Judge clears MMR autism doctor
+Vaccine pollutants ‘cause disease’
+Flu vaccination extended to SEN children
+Regression linked to autoimmune issues
+Fund will probe Bradstreet ‘suicide’
+Published: 22 January 2019
+Share this article
+« Health plan ‘could transform lives’
+100 restrained face-down in a month »
+SUBSCRIBE
+TODAY
+Digital subscriptions
+to Autism Eye
+Magazine are FREE.
+You can also subscribe
+to printed issues
+from just £20, $48, €36
+anywhere in the world.
+PLUS we give a 20% discount
+on printed magazine prices if
+you choose a renewing subscription.
+Tweets by @AutismEye
+Terms & Conditions
+Privacy
+Disclaimer
+Cookie Policy
+Site by Module Media
+Join our LinkedIn group

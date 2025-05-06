@@ -1,0 +1,159 @@
+Anemia of Chronic Disease - Anemia of Inflammation | ARUPConsult Lab Test Selection
+Search form
+Search
+Browse A-Z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+Home
+Categories
+Algorithms
+Topics
+Test Fact Sheets
+FAQs
+Subscribe for Updates
+Feedback
+[X]
+Topic Name
+Message *
+If ARUP Consult does not answer your test selection and interpretation questions, or if you’d like to suggest ways to improve content or usability, please leave a message for the ARUP clinical content team. Please do not include any patient-specific or personal health information (PHI) in your message.
+Email Address
+An email address is not required, but providing one allows the ARUP Consult clinical content team to respond directly. ARUP will only use your email address to respond to your feedback. See the ARUP privacy policy for more information regarding email use.
+Leave this field blank
+Cite this page
+Anemia of Chronic Disease - Anemia of Inflammation. ARUP Consult©. Retrieved April 17, 2019, from: https://arupconsult.com/content/anemia-chronic-disease-anemia-inflammation
+You are here
+› All Topics › Anemia of Chronic Disease - Anemia of Inflammation
+Anemia of Chronic Disease - Anemia of Inflammation
+Anemia of chronic disease (ACD), also known as anemia of inflammation (AI), is a functional anemia of iron-restricted erythropoiesis related to chronic diseases, such as infections, autoimmune diseases, cancer, and end-organ failure. ACD/AI is the second most common form of anemia after iron deficiency anemia (IDA) and the most common form of anemia in hospitalized or critically ill patients. Testing for ACD/AI includes standard blood parameter measurements, a peripheral blood smear, iron studies, testing to exclude other possible diagnoses, and in some cases, bone marrow biopsy. ACD/AI testing should be interpreted in the appropriate clinical context. Treatment for ACD/AI entails treatment of the underlying disease or disorder; however, this is often not feasible. Iron therapy and erythropoiesis-stimulating agents may be used to alleviate anemia and thereby improve patient quality of life.
+Tabs Content
+Clinical Overview
+Quick Answers
+Which laboratory tests can be used to distinguish between anemia of chronic disease/anemia of inflammation and iron deficiency anemia?
+Iron indices are complicated in the face of inflammation, and may be further confounded by concomitant anemia of chronic disease/anemia of inflammation (ACD/AI) and iron deficiency anemia (IDA). In both ACD/AI and IDA, insufficient functional iron is available for erythropoiesis. In IDA, mean corpuscular volume (MCV) is often (although not always) reduced, whereas MCV is usually normal in ACD/AI. Similarly, cells are often hypochromic in IDA, whereas they are frequently normochromic in ACD/AI. Total iron binding capacity (TIBC) and soluble transferrin receptor levels are increased in IDA, but normal or decreased in ACD/AI. Both serum iron and transferrin saturation (Tsat) are decreased in both IDA and ACD/AI. See Laboratory Testing to Distinguish Between ACD/AI and IDA table, below.
+What are special testing considerations for patients with inflammatory conditions that affect iron status?
+Anemia of chronic disease/anemia of inflammation (ACD/AI) is a common complication in many conditions that affect iron status, including inflammatory bowel disease (IBD) and chronic kidney disease (CKD). IBD leads to problems in iron and vitamin absorption, and thus may result in ACD/AI with concomitant iron deficiency anemia and megaloblastic anemia. Normocytic anemia is also frequently observed in CKD. Anemia in CKD results primarily from decreased erythropoiesis, and may be exacerbated by hemolysis, iron deficiency, hemorrhage, medication toxicity, chronic infections, and other factors ; patients with CKD may therefore demonstrate simultaneous ACD/AI and iron deficiency. Regular anemia workups are recommended for both patient populations. For more information on laboratory testing for anemia in patients with IBD or CKD, see the Iron Deficiency Anemia topic.
+What differentiates testing in anemia of critical illness from testing in anemia of chronic disease/anemia of inflammation?
+Anemia of critical illness can be severe and develops rapidly, often within a few hours or days, resulting in a limited time frame for testing. Although further study is required, this rapid onset of anemia may result from reduced red blood cell production and survival, as well as iatrogenic factors such as blood loss due to phlebotomy and medication. Anemia of critical illness is treated via transfusion; to determine which patients require transfusion, a hemoglobin threshold of 70 g/L is recommended. In patients with some conditions (eg, sepsis, traumatic brain injury, and cardiovascular disease), a higher hemoglobin threshold to trigger transfusion may be appropriate.
+What is the laboratory testing strategy for anemia of aging?
+Anemia is a risk factor for morbidity, mortality, and other unfavorable outcomes in patients ≥65 years of age. The prevalence of anemia in older adults increases with age, exceeding 20% in patients ≥85 years of age. Given the potential for adverse outcomes, the evaluation of anemia in elderly adults is especially important if surgery or other procedures that may result in blood loss are planned. Furthermore, anemia in older adults is often associated with an underlying chronic condition, and iron indices may not be typical of younger adults. Some experts recommend assessing iron status via serum ferritin or transferrin saturation (Tsat) tests following a finding of low hemoglobin. In patients who are iron deficient, consider evaluation for gastrointestinal malignancy and oral iron supplementation. In patients with replete iron stores, testing for chronic kidney disease (CKD) and vitamin deficiency is recommended, as well as assessment for other chronic or inflammatory conditions.
+Iron Deficiency Anemia and Anemia of Chronic Disease/Anemia of Inflammation Testing Algorithm
+Iron Deficiency Anemia and Anemia of Chronic Disease/Anemia of Inflammation Testing Algorithm
+Indications for Testing
+Patients with hemoglobin (Hgb) levels at least 2 standard deviations below the mean for age and sex (see Anemia) and a chronic or inflammatory condition should be evaluated for ACD/AI. Conditions in which ACD/AI is common include chronic infection, autoimmune disease, cancer, acute infection, chronic pulmonary obstructive disease, pulmonary arterial hypertension, obesity, chronic liver disease, and certain forms of heart disease.
+Laboratory Testing
+Once anemia is confirmed, red blood cell (RBC) counts and morphology from a CBC can be used to further classify anemia. In general, ACD/AI presents as a normocytic anemia (cells have a normal mean corpuscular volume [MCV]), but may be microcytic in up to 25% of cases. A reticulocyte count is also recommended to assess bone marrow response to anemia and rule out conditions in which this response is elevated, such as hemolytic anemia. Patients with anemia, a normal or low MCV, and a low corrected reticulocyte count or reticulocyte production index should be evaluated for ACD/AI.
+Initial Evaluation
+Iron Studies
+Serum ferritin and total iron binding capacity (TIBC) are first-line tests to evaluate iron stores. Serum iron indices are complicated in ACD/AI: iron is sequestered, leading to ample stores, but is not made available for erythropoiesis. Soluble transferrin receptor testing may also be useful. IDA and ACD/AI may occur together, complicating diagnosis.
+Laboratory Testing to Distinguish Between ACD/AI and IDA
+Parameter
+ACD/AI
+IDA
+Serum iron Low to normal Low
+TIBC Low High
+Tsat Low Very low (<10%)
+Serum ferritin High Low
+Serum transferrin receptor Normal to slightly high High
+MCV Normal Low
+MCHC Normal Low
+RDW Normal to slightly high High
+Bone marrow iron High Low
+Adapted from Kjeldsberg, 2010
+MCHC, mean corpuscular hemoglobin concentration; RDW, red blood cell distribution width; Tsat, transferrin saturation
+Ancillary Testing
+Erythrocyte protoporphyrin is increased in ACD/AI, but not in conditions of abnormal heme synthesis, and thus may be useful in distinguishing ACD/AI from diseases such as thalassemia minor. Serum and urine hepcidin levels may be increased in ACD/AI. Although ongoing research in hepcidin testing is promising, there is no standardized or approved hepcidin assay, and this testing is not currently recommended for diagnosis of ACD/AI.
+Monitoring
+Monitoring in ACD/AI depends on the treatment administered. Treatment of the underlying cause of inflammation often resolves anemia in patients with ACD/AI, which can be confirmed with a CBC (including measurements of Hgb and hematocrit as well as serum ferritin and Tsat.
+ARUP Lab Tests
+Initial Testing
+Detect anemia; calculate MCV, MCHC, RDW
+CBC with Platelet Count and Automated Differential 0040003
+Method: Automated Cell Count/Differential
+Assess bone marrow response to anemia
+Reticulocytes, Percent and Number 0040022
+Method: Flow Cytometry
+Evaluate iron stores
+Ferritin 0070065
+Method: Quantitative Chemiluminescent Immunoassay
+Calculate Tsat
+Iron and Iron Binding Capacity 0020420
+Method: Quantitative Spectrophotometry
+Testing to Differentiate Between ACD/AI and IDA
+Determine transferrin receptor levels
+Soluble Transferrin Receptor 0070283
+Method: Quantitative Immunoturbidimetry
+Ancillary Testing
+Distinguish between ACD/AI and conditions of abnormal heme synthesis
+Erythrocyte Porphyrin (EP), Whole Blood 0020610
+Method: Fluorometry
+Medical Experts
+Pearson, Lauren N., DO, MPH, Medical Director, University of Utah Health Hospital Clinical Laboratory; Assistant Professor of Clinical Pathology, University of Utah
+References
+Gangat N, Wolanskyj AP. Anemia of chronic disease. Semin Hematol. 2013; 50(3): 232-8. PubMed
+Kjeldsberg, CR (editor). Practical Diagnosis of Hematologic Disorders, 5th ed. American Society for Clinical Pathology, 2010.
+Weiss G, Ganz T, Goodnough LT. Anemia of inflammation. Blood. 2019; 133(1): 40-50. PubMed
+Cullis JO. Diagnosis and management of anaemia of chronic disease: current status. Br J Haematol. 2011; 154(3): 289-300. PubMed
+Fraenkel PG. Understanding anemia of chronic disease. Hematology Am Soc Hematol Educ Program. 2015; 2015: 14-8. PubMed
+Thomas W, Hinchliffe RF, Briggs C, Macdougall IC, Littlewood T, Cavill I, British Committee for Standards in Haematology. Guideline for the laboratory diagnosis of functional iron deficiency. Br J Haematol. 2013; 161(5): 639-48. PubMed
+Docherty AB, Turgeon AF, Walsh TS. Best practice in critical care: anaemia in acute and critical illness. Transfus Med. 2018; 28(2): 181-189. PubMed
+Goodnough LT, Schrier SL. Evaluation and management of anemia in the elderly. Am J Hematol. 2014; 89(1): 88-96. PubMed
+Girelli D, Nemeth E, Swinkels DW. Hepcidin in the diagnosis of iron disorders. Blood. 2016; 127(23): 2809-13. PubMed
+Additional Resources
+Bross MH, Soch K, Smith-Knuppel T. Anemia in older persons. Am Fam Physician. 2010; 82(5): 480-7. PubMed
+Bryan LJ, Zakai NA. Why is my patient anemic? Hematol Oncol Clin North Am. 2012; 26(2): 205-30, vii. PubMed
+Cappellini D, Motta I. Anemia in Clinical Practice-Definition and Classification: Does Hemoglobin Change With Aging? Semin Hematol. 2015; 52(4): 261-9. PubMed
+Choosing Wisely. An initiative of the ABIM Foundation. [Accessed: Mar 2019]
+Dignass AU, Gasche C, Bettenworth D, Birgegård G, Danese S, Gisbert JP, Gomollon F, Iqbal T, Katsanos K, Koutroubakis I, Magro F, Savoye G, Stein J, Vavricka S, European Crohn’s and Colitis Organisation [ECCO]. European consensus on the diagnosis and management of iron deficiency and anaemia in inflammatory bowel diseases. J Crohns Colitis. 2015; 9(3): 211-22. PubMed
+Fraenkel PG. Anemia of inflammation: a review. Med Clin North Am. 2017; 101(2): 285-296. PubMed
+Goddard AF, James MW, McIntyre AS, Scott BB, British society of Gastroenterology. Guidelines for the management of iron deficiency anaemia. Gut. 2011; 60(10): 1309-16. PubMed
+Hussein M, Haddad RY. Approach to anemia. Dis Mon. 2010; 56(8): 449-55. PubMed
+Janus J, Moerschel SK. Evaluation of anemia in children. Am Fam Physician. 2010; 81(12): 1462-71. PubMed
+Mikhail A, Brown C, Williams JA, Mathrani V, Shrivastava R, Evans J, Isaac H, Bhandari S. Renal association clinical practice guideline on Anaemia of Chronic Kidney Disease. BMC Nephrol. 2017; 18(1): 345. PubMed
+Nemeth E, Ganz T. Anemia of inflammation. Hematol Oncol Clin North Am. 2014; 28(4): 671-81, vi. PubMed
+Van Vranken M. Evaluation of microcytosis. Am Fam Physician. 2010; 82(9): 1117-22. PubMed
+Vieth JT, Lane DR. Anemia. Emerg Med Clin North Am. 2014; 32(3): 613-28. PubMed
+Resources from the ARUP Institute for Clinical and Experimental Pathology®
+Gilreath JA, Stenehjem DD, Rodgers GM. Total dose iron dextran infusion in cancer patients: is it SaFe2+? J Natl Compr Canc Netw. 2012; 10(5): 669-76. PubMed
+Price E, Artz AS, Barnhart H, Sapp S, Chelune G, Ershler WB, Walston JD, Gordeuk VR, Berger NA, Reuben D, Prchal J, Rao SV, Roy CN, Supiano MA, Schrier SL, Cohen HJ. A prospective randomized wait list control trial of intravenous iron sucrose in older adults with unexplained anemia and serum ferritin 20-200 ng/mL. Blood Cells Mol Dis. 2014; 53(4): 221-30. PubMed
+Testing Algorithms
+Iron Deficiency Anemia and Anemia of Chronic Disease/Anemia of Inflammation Testing Algorithm
+Read more about Iron Deficiency Anemia and Anemia of Chronic Disease/Anemia of Inflammation Testing Algorithm
+Educational Videos
+Diagnostic Approach to Anemia (75 min)
+Related Topics
+Anemia
+Anemia Testing Algorithm
+Hemolytic Anemias Testing Algorithm
+Iron Deficiency Anemia and Anemia of Chronic Disease/Anemia of Inflammation Testing Algorithm
+Megaloblastic Anemia Testing Algorithm
+Microcytic Anemia Testing Algorithm
+Hemolytic Anemias
+Hemolytic Anemias Testing Algorithm
+Iron Deficiency Anemia
+Iron Deficiency Anemia and Anemia of Chronic Disease/Anemia of Inflammation Testing Algorithm
+Microcytic Anemia Testing Algorithm
+Megaloblastic Anemia
+Megaloblastic Anemia Testing Algorithm
+Thalassemias
+Hemolytic Anemias Testing Algorithm
+Content Review:
+March 2019
+Last Update: March 2019
+ARUP Laboratories
+500 Chipeta Way
+Salt Lake City, Utah 84108
+(800) 522-2787
+Email
+Disclaimer and Privacy
+ARUP Websites
+ARUP Laboratories
+ARUP Consult ®
+ARUP Scientific Resource
+ARUP Blood Services
+ARUP Consult
+Contact Us
+About ARUP Consult ®
+Editorial Policy
+Editorial Board
+Subscribe
+This site complies with the HONcode standard for trustworthy health information. Verify here.
+© 2019 ARUP Laboratories. All Rights Reserved. Disclaimer and Privacy Policy

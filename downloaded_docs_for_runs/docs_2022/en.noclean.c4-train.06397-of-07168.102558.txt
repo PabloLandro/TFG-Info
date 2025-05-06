@@ -1,0 +1,1844 @@
+Hypercholesterolaemia and vascular dementia | Clinical Science
+Skip to main content
+Main menu
+Home
+About the Journal
+General Information
+Scope
+Editorial Board
+Benefits of Publishing
+Impact & Metrics
+Advertising/Sponsorship
+About the Biochemical Society
+Current Issue
+For Authors
+Submit Your Paper
+Submission Guidelines
+Editorial Policy
+Open Access Policy
+Rights and Permissions
+Biochemical Society Member Benefits
+For Librarians
+Subscriptions and Pricing
+Open Access Policy
+Clinical Science- Terms and Conditions of Usage
+Register for Free Trial
+For Readers
+Rights and Permissions
+Biochemical Society Member Benefits
+Request a Free Trial
+Collections
+Help
+Contact Us
+Other Publications
+Biochemical Journal
+Clinical Science
+Bioscience Reports
+Neuronal Signaling
+Biochemical Society Transactions
+Essays in Biochemistry
+Emerging Topics in Life Sciences
+Biochemical Society Symposia
+Cell Signalling Biology
+Glossary of Biochemistry and Molecular Biology
+The Biochemist
+Biochemical Society
+User menu
+Log-in
+Subscribe
+Contact Us
+Search
+Search for this keyword
+Advanced search
+Other Publications
+Biochemical Journal
+Clinical Science
+Bioscience Reports
+Neuronal Signaling
+Biochemical Society Transactions
+Essays in Biochemistry
+Emerging Topics in Life Sciences
+Biochemical Society Symposia
+Cell Signalling Biology
+Glossary of Biochemistry and Molecular Biology
+The Biochemist
+Biochemical Society
+Log-in
+Sign-up for alerts
+My Cart
+Search for this keyword
+Browse Archive
+Advanced Search
+Home
+About the Journal
+General Information
+Scope
+Editorial Board
+Benefits of Publishing
+Impact & Metrics
+Advertising/Sponsorship
+About the Biochemical Society
+Current Issue
+For Authors
+Submit Your Paper
+Submission Guidelines
+Editorial Policy
+Open Access Policy
+Rights and Permissions
+Biochemical Society Member Benefits
+For Librarians
+Subscriptions and Pricing
+Open Access Policy
+Clinical Science- Terms and Conditions of Usage
+Register for Free Trial
+For Readers
+Rights and Permissions
+Biochemical Society Member Benefits
+Request a Free Trial
+Collections
+Help
+Contact Us
+Review article
+Hypercholesterolaemia and vascular dementia
+Jason P. Appleton, Polly Scutt, Nikola Sprigg, Philip M. Bath
+Clinical Science Jun 30, 2017, 131 (14) 1561-1578; DOI: 10.1042/CS20160382
+Jason P. Appleton
+Stroke Trials Unit, Division of Clinical Neuroscience, University of Nottingham, Nottingham NG5 1PB, U.K.
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+View author's works on this site
+Polly Scutt
+Stroke Trials Unit, Division of Clinical Neuroscience, University of Nottingham, Nottingham NG5 1PB, U.K.
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+View author's works on this site
+Nikola Sprigg
+Stroke Trials Unit, Division of Clinical Neuroscience, University of Nottingham, Nottingham NG5 1PB, U.K.
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+View author's works on this site
+Philip M. Bath
+Stroke Trials Unit, Division of Clinical Neuroscience, University of Nottingham, Nottingham NG5 1PB, U.K.
+Find this author on Google Scholar
+Find this author on PubMed
+Search for this author on this site
+View author's works on this site
+For correspondence: Philip.bath@nottingham.ac.uk
+Article
+Figures
+Info & Metrics
+PDF
+Abstract
+Vascular dementia (VaD) is the second commonest cause of dementia. Stroke is the leading cause of disability in adults in developed countries, the second major cause of dementia and the third commonest cause of death. Traditional vascular risk factors–diabetes, hypercholesterolaemia, hypertension and smoking–are implicated as risk factors for VaD. The associations between cholesterol and small vessel disease (SVD), stroke, cognitive impairment and subsequent dementia are complex and as yet not fully understood. Similarly, the effects of lipids and lipid-lowering therapy on preventing or treating dementia remain unclear; the few trials that have assessed lipid-lowering therapy for preventing (two trials) or treating (four trials) dementia found no evidence to support the use of lipid-lowering therapy for these indications. It is appropriate to treat those patients with vascular risk factors that meet criteria for lipid-lowering therapy for the primary and secondary prevention of cardiovascular and cerebrovascular events, and in line with current guidelines. Managing the individual patient in a holistic manner according to his or her own vascular risk profile is recommended. Although the paucity of randomized controlled evidence makes for challenging clinical decision making, it provides multiple opportunities for on-going and future research, as discussed here.
+cholesterol
+cognitive impairment
+hypercholesterolaemia
+statins
+vascular dementia
+Introduction
+Dementia is a progressive and largely irreversible clinical syndrome comprising global impairment of mental function, which manifests as difficulties in memory, language, activities of daily living, and psychosocial and psychiatric disturbance [1,2]. As of 2015, there were an estimated 46.8 million people living with dementia worldwide; this number is predicted to double every 20 years, and reach 131.5 million in 2050 [3].
+The three most common dementia subtypes are Alzheimer's disease (AD), vascular dementia (VaD) and mixed dementia (combined AD and VaD pathology) [2]. AD is the most common accounting for 60 to 70% of all cases, with a prevalence of approximately 1% in those aged 60–64 years, increasing to 40% in those aged 85 years or older [4]. VaD accounts for a further 17–25% of cases, [2,4] with an estimated prevalence of 1.6% and 1.7% in Europe [5] and China [6] respectively. In reality, many people have mixed AD/VaD disease.
+Stroke is the leading cause of disability in adults in developed countries, the second major cause of dementia and the third commonest cause of death [7]. Post-stroke dementia is a major cause of dependency in stroke survivors and encompasses all dementias after stroke, regardless of aetiology [8]. Traditional vascular risk factors–diabetes, hypercholesterolaemia, hypertension and smoking–are implicated as risk factors for VaD [9–11], but are also important in AD with an estimated one third of AD due to modifiable vascular risk factors [12]. In light of increasing life expectancy, there is an urgent need to find therapies to prevent and treat both cognitive impairment and dementia.
+Here, we review the associations between hypercholesterolaemia and VaD, intracerebral haemorrhage (ICH) and post-stroke dementia, the effects of statin therapy on stroke, cognitive impairment and dementia, and on-going and future research opportunities.
+Aetiology of vascular dementia
+The aetiology of VaD comprises small and large vessel disease. Cerebral small vessel disease (SVD) is the commonest cause of VaD responsible for 350,000 cases of dementia per year in the U.K. It is characterized by damage to deep grey and white matter as a result of injury to perforating arterioles and capillaries, although the significance of venular damage is unclear [13]. Histologically, plasma constituents and inflammatory cells infiltrate arteriolar walls and perivascular tissue with resultant damage labelled as arteriosclerosis, fibrinoid necrosis and lipohyalinosis [14]. Such endothelial dysfunction leads to breakdown of the blood–brain barrier (BBB). In addition, perivascular inflammation is a common pathological feature [15]; blood markers of endothelial activation and inflammation are raised in lacunar stroke [16]; and cerebral vasoreactivity is impaired [17]. This combination of endothelial dysfunction and inflammation leads to arteriolar wall thickening, limiting the ability of arterioles to dilate when required [17]. Brain tissue supplied by stiff and thickened arterioles may be at increased risk of ischaemia and damaged arteriolar walls may be more likely to precipitate secondary thrombosis [14]. These pathological changes manifest as imaging abnormalities that can be detected on magnetic resonance imaging (MRI): lacunar or subcortical infarctions; lacunes; microbleeds; and white matter hyperintensities (WMH) [18,19]. SVD can present clinically in a number of ways: lacunar ischaemic stroke (IS); vascular cognitive impairment and VaD; ICH; depression; or gait and/or bladder dysfunction [14]. However, most imaging features of SVD develop silently and when numerous lacunes, microbleeds and/or WMH are present there is an increased risk of cognitive impairment, dementia and stroke [20–22]. In contrast, other causes of stroke such as large vessel disease–extracranial or intracranial–and cardioembolic disease [e.g. atrial fibrillation (AF), recent myocardial infarction (MI)] have differing pathological mechanisms to SVD; atherosclerosis and enhanced platelet function in large artery stroke and pro-coagulant activity in cardioembolic disease [22].
+Several factors are implicated in the development of post-stroke dementia. These can be split into demographic and clinical characteristics, stroke characteristics and neuroimaging findings (Table 1) [8]. Attempting to determine the degree of cognitive impairment that can be attributed to either stroke, concurrent AD or SVD remains difficult. The proportion of patients with post-stroke dementia presumed to have AD varies widely from 19% to 61% [23]. Of those with post-stroke dementia approximately one third have medial temporal atrophy, [24] and 15–30% have a diagnosis of dementia that predates their stroke [24,25]. These two factors may increase the likelihood of AD in this group of patients, but this is speculative at present [26].
+View this table:
+View inline
+View popup
+Table 1 Predictors of post-stroke dementia [8,26]
+ACA, anterior cerebral artery; CCF, congestive cardiac failure; PCA, posterior cerebral artery.
+Intracerebral haemorrhage and vascular dementia
+Although ICH accounts for only 15% of strokes, it is associated with high rates of stroke-related death and disability [27,28]. Re-bleeding, IS and cognitive impairment and dementia–all frequent events following ICH–are endpoints that may be mediated by underlying SVD, which is probably the aetiology responsible for these secondary clinical outcomes and ICH [14,29]. Indeed, compared with general elderly controls those with ICH have an increased frequency of both neuroimaging and genetic markers of SVD [30–32].
+Despite dementia being common after ICH, its risk factors are poorly understood. One recent study sought to establish whether different factors were associated with early (≤6 months) or delayed (>6 months) dementia following ICH [33]. Dementia diagnosis was based on International Classification of Diseases-9 (ICD-9) codes established from electronic medical records and/or modified Telephone Interview for Cognitive Status (TICS-m) scores <20. The sensitivity and specificity of dementia diagnoses established from ICD-9 codes and TICS-m compared with face-to-face assessment by a neurologist (available in 70.7% of the cohort) were 90% and 94% respectively. Of the 738 people with ICH recruited, 279 (37.8%) developed dementia during the median follow-up of 47.4 months; 140 patients developed dementia within 6 months, with the remaining 139 being diagnosed more than 6 months post-ICH. Risk factors for early and delayed dementia after ICH varied significantly [33]. ICH volume, lobar location and presence of ≥1 copy of apolipoprotein E (APOE) ε2 were associated with early dementia but not delayed dementia. The APOE ε2 variant has been reported to be associated with larger haematoma volumes and/or expansion and therefore poor functional outcome at 90 days [34,35]. Conversely, educational level, pre-morbid mood disturbance, imaging markers of SVD [white matter disease on computed tomography (CT) and cerebral microbleeds (CMB)] and presence of ≥1 copy of APOE ε4 were associated with delayed but not early dementia [33].
+Biffi et al. [33] report a high incidence of dementia (5.8% per year), which could be an overestimation, perhaps through the use of TICS-m rather than in-person assessment, although the concordance between telephone and in-person assessments was high. Despite this, it is clear that cognitive impairment or dementia following ICH is under-recognized. In summary, ICH characteristics were associated with early and not late dementia after ICH, and markers associated with both SVD and late-onset AD were associated with delayed onset dementia [33]. Further studies are required to elucidate the contribution of AD to cognitive impairment following ICH. Although this cohort provides evidence of separate risk factors for early and late dementia after ICH, these results need to be verified. An important question to address in those with delayed dementia following ICH is whether cognitive impairment is secondary to the ICH, or are the bleed and cognitive impairment both sequelae of the same underlying disease process [36]?
+Lipid effects on vascular dementia
+There are a variety of pathological mechanisms involved in the development of VaD, and lipids have a vital role in many of these processes. Both high levels of low-density lipoprotein (LDL) cholesterol and low levels of high-density lipoprotein (HDL) cholesterol are known risk factors for carotid atherosclerosis and coronary artery disease [37,38], which may result in cognitive impairment secondary to cerebral hypoperfusion or embolism [39]. HDL cholesterol may be involved in the removal of excess cholesterol from the brain mediated by APOE and heparin sulphate proteoglycans in the subendothelial space of cerebral microvessels [40]. In addition, HDL particles reverse the inhibitory action of oxidized LDL particles on endothelium-dependent arterial relaxation [41] and also inhibit cytokine-induced expression of endothelial cell adhesion molecules [42]; both of which may be potential mechanisms in the development of VaD.
+Oxidative stress and lipid oxidation in particular have a pivotal role in the development of VaD [43]; lipid peroxidation may influence neuronal membrane permeability, affecting cellular function and damaging membrane-bound receptors and enzymes [44]. The brain may be particularly susceptible to oxidative lipid damage due to its high content of polyunsaturated fatty acids [44]. Paraoxonase 1 is an A-esterase with peroxidase-like activity present on the surface of HDL, which decreases peroxidation of LDL. Levels of paraoxonase 1 decrease with increasing age and in those with cardiovascular disease (CVD); they have also been found to be reduced in patients with VaD [45]. Further evidence for the role of oxidative stress comes from the demonstration of low levels of plasma antioxidants in patients with AD and VaD compared with controls; vitamins A, C and E, uric acid and carotenoids were all significantly lower than controls [46]. However, in the same cohort there was no difference in plasma malondialdehyde, a biomarker of lipid peroxidation, between controls and those with either AD or VaD [46]. Low plasma vitamin E levels have also been seen in patients with VaD in comparison with controls, although in a published cohort levels in people with AD were similar to controls [47]. Low levels of antioxidants may render individuals more susceptible to oxidative stress and thus reduced antioxidant defences may have an important role in the development of VaD.
+Apolipoprotein B (ApoB) is the main surface protein found on pro-atherogenic lipoproteins: LDL; very-low density lipoprotein (VLDL); intermediate density lipoprotein (IDL); and lipoprotein (a) [48]. One particle of pro-atherogenic lipoprotein contains one molecule of ApoB [49], thus ApoB provides a surrogate measure of the number of circulating pro-atherogenic lipoprotein particles. As such, ApoB may be more strongly related to cardiovascular risk than cholesterol contained within the lipoproteins. However, epidemiological data are inconclusive and therefore discrepancy exists between current guidelines on the significance of ApoB to cardiovascular risk [50–52]. Data on ApoB and SVD or dementia are scanty. A Swedish twin study (n=60) found that higher ApoB at baseline predicted dementia at least 3 years later, although any cause of dementia was included in this small study [53]. A pooled analysis of two Finnish prospective population-based cohort studies (n=13,275) found that baseline ApoB was not associated with incident AD or dementia 10 years later [54]. At present, the role of ApoB in the development of SVD or VaD is unclear.
+Whilst several studies have reported no association between LDL cholesterol and MRI markers of SVD [55–57], one cohort (n=1,919) noted a significant relationship between reducing LDL cholesterol and WMH progression [58]. Further, in 1,135 acute IS patients hypercholesterolaemia, hypertriglyceridaemia or use of lipid-lowering medication was associated with decreased WMH severity [59]. Unfortunately, the authors were unable to assess the contribution of statin therapy to the association seen, which may have confounded their findings. Although a smaller cohort (n=112) found no association between midlife total cholesterol and WMH two decades later, lipid-lowering therapy decreased the risk of WMH being present in later life [60]. Lower midlife HDL cholesterol was associated with increased WMH volumes in later life in 148 monozygotic male twins [61]. The somewhat contradictory findings regarding the associations between cholesterol and WMH are also noted in regard to lacunes. A cross-sectional analysis of MRI data (n=1,827) found that smaller lacunes (≤7 mm) were associated with diabetes mellitus (DM) and larger lacunes (8–20 mm) were associated with LDL cholesterol [62]. The authors propose that these differences support the theory that differing pathologies result in small and large lacunes, namely lipohyalinosis and microatheroma respectively [62]. Within the Leukoaraiosis and Disability study (n=396) lower HDL cholesterol was associated with new lacunes on MRI over 3 years, whilst high LDL cholesterol was protective against formation of new lacunes [55]. In contrast, the Rotterdam Scan Study (n=668) found no association between total HDL cholesterol and incident lacunar infarcts over 3 years, but did note an association between carotid atherosclerosis and incident lacunar infarcts [57]. Although the data are unclear, there may be a suggestion that LDL cholesterol is not as damaging to small arteries as it is to larger vessels.
+Epidemiological data from two French cohorts (n=2,608) found that increasing triglyceride levels, but not LDL or HDL cholesterol, were associated with larger WMH volume and lacunes on MRI; an effect that was maintained after adjusting for inflammatory markers and vascular risk factors, and in those taking and not taking lipid-lowering therapy [63]. There are several proposed mechanisms to explain this association. Firstly, triglyceride levels have been associated with breakdown of the BBB, contributing to the formation of lacunes [55] and WMH [64]. Secondly, triglyceride levels are associated with markers of inflammation [65], which in turn have been reported to be associated with MRI features of SVD [66,67]. Thirdly, APOE plays a pivotal role in lipid metabolism and polymorphisms ε2 and ε4 have been found to be associated with MRI markers of SVD [68]. Finally, triglyceride levels adversely affect the compliance of small arteries [69], which may potentially contribute to chronic white matter hypoperfusion [70].
+Cholesterol lowering medications, such as statins, are used to prevent first and recurrent vascular events including MI and IS [71,72]. Reducing stroke occurrence by lowering cholesterol may, as a consequence, reduce the incidence of post-stroke dementia. The Finnish Cardiovascular Risk Factors, Aging and Dementia (CAIDE) study found that midlife total cholesterol predicted cognitive impairment 21 years later, an effect that was attenuated following adjustment for statin usage [73]. Similarly, raised midlife cholesterol was associated with an increased risk of developing VaD over a 30-year period in a study based on medical records [74]. In contrast, results from cohorts involving those in later-life vary with some finding higher levels of cholesterol to be associated weakly with a higher risk [37], and others finding a relationship with a lower risk [75] of VaD. These inconsistencies probably represent the timing of cholesterol measurement in relation to age and clinical onset of dementia. Indeed, pravastatin in older people at risk of CVD had no effect on multiple cognitive outcomes when compared with placebo [76].
+Lipid effects on Alzheimer's disease
+Whilst both coronary heart disease and hypertension are independent risk factors for AD [77,78], the association between cholesterol and AD is less clear. There are conflicting epidemiological data; some report an association between raised serum cholesterol levels and an increased risk of developing AD [74,77,79–81], whereas other studies have shown no effect [82–88] or a negative association [37,75]. These incongruous findings are likely to be due to differing study design, participant age at enrolment (mid- compared with later-life), timing of cholesterol measurement in terms of age and dementia onset and length of follow-up. APOE is an important protein involved in cerebral cholesterol transport and influences aggregation and clearance of amyloid-β peptide [89–91]. The amyloid cascade hypothesis suggests that an imbalance between production and clearance of amyloid-β is the first step in AD pathogenesis, culminating in neuronal degeneration and dementia [92]. This provides a theoretical link between cholesterol metabolism and pathogenesis of AD. Presence of the APOE ε4 allele increases the risk of AD by 3 and 15 times in heterozygotes and homozygotes respectively [93]. The ε4 allele is associated with a higher risk of atherosclerosis and higher plasma levels of total and LDL cholesterol [94]. In addition, several other genes involved in cholesterol metabolism have been associated with AD including adenosine triphosphate (ATP)-binding cassette subfamily A member 7 (ABCA7) [95], clusterin [96] and sortilin-related receptor (SORL1) [97].
+The majority of cerebral cholesterol is produced locally and is not transported into plasma due to the BBB [98]. Cerebral cholesterol levels are not altered by high LDL or low HDL cholesterol plasma levels, but whether intramembranous lipid domains or intracellular cholesterol content are affected remains unclear [99]. Cholesterol removal from the brain is mediated by 24-hydroxycholesterol [100], which is crucial for cerebral cholesterol homoeostasis [101]. Diet-induced hypercholesterolaemia in animal models has been associated with increased amyloid-β and APOE levels in temporal and frontal cortical regions, in line with the geographical amyloid-related pathological changes seen in AD [102].
+Ischaemia has been noted to cause up-regulation of amyloid precursor protein expression with resultant amyloid-β deposition in human brains [103]. Furthermore, co-existent cerebrovascular and amyloid-β plaque pathology may increase the chance of clinically apparent dementia occurring [104].
+Epidemiology of lipids and intracerebral haemorrhage
+The association between higher total and LDL cholesterol levels and increased IS risk is seen in most observational studies [105–116]. Similarly, most observational data report an association between lower total and LDL cholesterol levels and increased ICH risk (Table 2) [106,117–121]. A meta-analysis of 23 prospective studies involving 1,430,141 patients found an association between lower total cholesterol and increased rates of ICH; dose–response analysis revealed a relative risk (RR) of ICH per 1 mmol/l increment of total cholesterol of 0.85 (95% confidence interval [CI] 0.80–0.91) [122]. The nature of this association remains poorly understood. Of note, low levels of LDL cholesterol have been identified in patients with haematological cancers [123] and liver disease [124], who have a higher risk of ICH.
+View this table:
+View inline
+View popup
+Table 2 Lipids and ICH
+CV, cardiovascular.
+Studies assessing triglycerides and stroke risk have shown similar results to total cholesterol (Table 2): for each 0.1 mmol/l increase in baseline triglycerides, there was an associated RR of IS of 1.05 (95% CI 1.03–1.07) [125]; triglyceride levels were also inversely associated with ICH [120,121].
+Statins
+Statins are 3-hydroxy 3-methylglutaryl coenzyme A (HMG-CoA) reductase inhibitors. This enzyme is involved in cholesterol synthesis and by inhibiting its activity statins reduce formation and release of LDL cholesterol, up-regulate LDL receptor activity [126], with subsequent lowering of LDL cholesterol and triglycerides, and increase in HDL cholesterol [127]. In addition to their effects on lipids, statins increase the integrity of the BBB, improve endothelial cell function [128] and reduce platelet aggregation, smooth muscle cell proliferation and markers of inflammation [e.g. C-reactive protein (CRP)] [129,130]. Statins can be classified according to whether they are soluble in water (hydrophilic) or in lipids (lipophilic). Atorvastatin, fluvastatin, lovastatin and simvastatin are lipophilic statins and therefore cross the BBB and cell membranes with greater ease than their hydrophilic equivalents (pravastatin) [131].
+Statin therapy protects against stroke in terms of both primary and secondary prevention. In the Heart Protection Study (HPS), involving 20,536 participants aged 70–80 years at high risk of vascular disease, simvastatin (40 mg daily) was associated with a 20% reduction in stroke risk compared with placebo [132]. Atorvastatin 80 mg versus 10 mg daily was associated with a 25% reduction in stroke risk in the Treating to New Targets (TNT) study [133]. Two large meta-analyses have shown significant reductions in stroke risk for each 1 mmol/l reduction in LDL cholesterol with statin therapy; 21.1% [134] and 16% [135] RR reduction respectively.
+In those with a history of cerebrovascular disease in HPS (n=3,280), simvastatin was associated with a 20% reduction in major cardiovascular events compared with placebo, but there was no reduction in stroke rate [132]. The Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial (n=4,742) found that atorvastatin (80 mg) was associated with an RR reduction in recurrent stroke of 16% compared with placebo [136]. These results were seen in both subgroups with large artery stroke and lacunar stroke, and in those with transient ischaemic attack (TIA).
+Statins in ICH
+Epidemiological evidence described above suggests that there is an inverse association between lipids and ICH. Further studies assessing the relationship between statin usage and ICH have had conflicting results. The HPS showed a non-significant increased risk of ICH in those randomized to simvastatin compared with placebo [132], whilst those participants treated with atorvastatin in the SPARCL trial had an higher risk of ICH than those who received placebo [136]. Retrospective analysis using the Virtual International Stroke Trials Archive (VISTA) dataset (n=8,535) compared participants with prior statin usage and recently commenced statin within 3 days of acute IS with those without statin exposure. There was no association between statin use and early symptomatic ICH or any ICH, regardless of whether thrombolysis was administered or not. Indeed, there was a non-significant tendency to less death at 90 days in participants with prior statin usage (adjusted hazard ratio [HR] 0.84, 95% CI 0.70–1.00) and recently commenced statin therapy (adjusted HR 0.67, 95% CI 0.46–0.97) [137]. Meta-analysis of 31 trials revealed no increased risk of ICH in people taking statins (odds ratio [OR] 1.08, 95% CI 0.88–1.32) [138].
+Statins in VaD
+Trials of statins assessing outcomes relevant to cognition, dementia and SVD are lacking. Several observational studies have observed an association between statin use and dementia. These have been systematically reviewed by several groups of authors. All found significant heterogeneity between studies and reported the biases and confounding factors commonly associated with observational research, making conclusive results and implications for practice difficult to establish and disseminate [139–141]. The key confounders can be summarized as follows. First, inclusion of those with advanced dementia or very elderly people, who carry multiple vascular risk factors and are therefore at risk of vascular disease. Second, different markers of dementia were used including a variety of cognitive tests and diagnostic definitions. Third, different statin types were assessed including lipophilic and hydrophilic subtypes. Fourth, the duration of treatment and timing of assessment in relation to the former varied considerably. Fifth, patients from lower socioeconomic class are less likely to be prescribed statins. Last, the pathophysiology of VaD is heterogeneous with significant overlap with AD [142].
+Two randomized controlled trials (RCTs) of statins have reported outcomes relating to cognition. The aforementioned HPS showed that simvastatin had no effect on cognitive decline, evaluated using TICS-m, compared with control [132]. A less potent statin (pravastatin) was assessed in the Prospective Study of Pravastatin in the Elderly at Risk (PROSPER) study and exerted no effect on cognitive function, measured by mini-mental state examination (MMSE), after 4 years of treatment (n=5,804) in those aged 70–82 years at baseline [76]. A subsequent meta-analysis, under the auspices of the Cochrane Collaboration, of these two trials did not alter the neutral effects seen within the trials individually (Table 3) [4]. Similarly, assessment of pravastatin and simvastatin on WMH progression in the PROSPER (n=535) and Regression of Cerebral Artery Stenosis (ROCAS) (n=227) studies respectively found neutral effects [143,144]. In summary, evidence to date suggests that statins given in later life have no effect on preventing cognitive decline or dementia [4,26]. The American Heart Association guideline suggests that treatment of hypercholesterolaemia for prevention of dementia has uncertain usefulness [26].
+View this table:
+View inline
+View popup
+Table 3 Summary of systematic reviews with meta-analyses for lipid-lowering therapies
+MD, mean difference; SMD, standardized mean difference.
+The Prevention Of Decline in Cognition After Stroke Trial (PODCAST) [145] randomized patients without dementia who were 3 to 7 months after stroke to intensive (systolic <125 mmHg) versus guideline (systolic <140 mmHg) blood pressure lowering. In addition, participants with IS were randomized to intensive (<1.3 mmol/l) versus guideline (<3 mmol/l) lipid-lowering therapy. Lipid-lowering therapy was suggested to investigators as follows: guideline to simvastatin 10–40 mg, pravastatin 10–40 mg or fluvastatin 10–80 mg; intensive to atorvastatin >20 mg or rosuvastatin at any dose. Eighty-three participants were recruited and followed-up for a median of 24 months. Although total and LDL-cholesterol were reduced with intensive versus guideline lipid-lowering therapy, there was no difference in the Addenbrooke's Cognitive Examination-Revised (ACE-R, primary outcome) between groups during treatment. However, intensive lipid-lowering was associated with improvements in several secondary outcomes including cognition (ACE-R at 6 months, trail making A), death or dependency (modified Rankin Scale; mRS) and quality of life (Euro-QoL visual analogue scale). Unfortunately, PODCAST grossly under-recruited compared with an initial protocol target of 600 participants [146], and was therefore underpowered for all outcomes. In a post hoc global analysis of multiple outcomes (using the Wei–Lachin test [147]), intensive lipid lowering improved on-treatment global cognition (Figure 1) and on-treatment global outcome (Figure 2), findings that warrant further investigation.
+Download figure
+Open in new tab
+Download powerpoint
+Figure 1 On-treatment global cognition: data from PODCAST
+Analyses were performed using the multivariate directional Wilcoxon test. The effect sizes are the Mann–Whitney difference (and 95% CI) for each of the individual outcomes and for the combined outcome (using the Wei–Lachin procedure).
+Download figure
+Open in new tab
+Download powerpoint
+Figure 2 On-treatment global outcome: data from PODCAST
+Analyses were performed using the multivariate directional Wilcoxon test. The effect sizes are the Mann–Whitney difference (and 95% CI) for each of the individual outcomes and for the combined outcome (using the Wei–Lachin procedure); EQ-5D HUS, Health utility status derived from Euro-quality of life five dimensions.
+Data regarding statins as treatment for established dementia (either AD or VaD) are limited. Observational data from one study that followed patients with AD for 35 months suggested that people treated with lipid-lowering therapy had a slower decline in MMSE scores than those with untreated hyper- or normo-cholesterolaemia [148]. In the Ginkgo Evaluation of Memory Study, those without mild cognitive impairment at baseline who were on statins had a reduced risk of both AD (HR 0.57, 95% CI 0.39–0.85) and overall dementia (HR 0.79, 95% CI 0.65–0.96). In contrast, those with mild cognitive impairment at baseline on lipid-lowering therapy (including statins) had no evidence of cognitive benefit [149]. Further, a pooled analysis involving data from three RCTs of galantamine in AD found no change in cognition associated with the use of statins [150]. A recent Cochrane review found no RCTs that have assessed statins in the treatment of VaD, but identified four that assessed these medications (atorvastatin and simvastatin in two studies each) in AD (Table 3) [131]. These four studies [151–154] involved 1,154 participants aged 50–90 years with diagnoses of probable or possible AD. The authors found no change in the primary outcome of Alzheimer's Disease Assessment Scale-cognitive subscale (ADAS-Cog) from baseline in those who received statins compared with those on placebo. Equally, there was no significant difference in MMSE scores from baseline between those randomized to statins compared with placebo [131]. These findings echo previous results prior to the publication of Sano et al. [153] in which neither a treatment effect nor a difference between trials of atorvastatin and simvastatin was seen [155]. There is, therefore, no evidence to recommend the use of statin therapy for the treatment of AD or VaD. Despite this, a proportion of clinicians choose to prescribe statins for both primary and secondary prevention of vascular cognitive impairment [156].
+Statin-induced cognitive impairment
+There has been significant interest in the suggestion that statin treatment may negatively affect cognition. Randomized trials, case reports, observational studies and post-marketing surveillance have all reported data regarding cognitive impairment in people taking statins [149,157–161]. Symptoms of confusion, forgetfulness and memory loss have been reported within a few days of starting therapy, whilst others report symptom-onset years after commencing statins. Overall, the symptoms were not serious and reversed within a few weeks of ceasing statin therapy. Subsequently, at least three groups have systematically appraised the situation and found that there is no significant evidence to suggest that statins cause cognitive impairment [162–164]. For example, the meta-analysis by Ott et al. [164] involved 14 RCTs (n=27,643) and found that statins were not associated with cognitive impairment in either cognitively normal participants or people with AD (Table 3) [164].
+Other lipid-lowering therapies and VaD
+Alternative lipid-lowering agents are (at present) less efficacious at primary or secondary stroke prevention than statins [165]. Despite niacin increasing levels of HDL cholesterol, a systematic review and meta-regression including 11 studies with 9,959 patients showed no significant improvement in stroke risk (OR 0.88, 95% CI 0.50–1.54, Table 3) [166]. Similarly fibrates increase HDL cholesterol, but also lower triglyceride levels. In the Veterans Affairs-HDL Intervention Trial (VA-HIT), gemfibrozil reduced stroke risk by 31% in men with low HDL cholesterol and coronary artery disease [167]. Meta-analysis of 18 trials totalling >45,000 patients found that fibrates had no significant effect on stroke risk [168]. Observational data from Canada (n=2,305) suggested that use of statins and other lipid-lowering agents in those aged less than 80 years reduced the risk of overall dementia and, in particular, AD [169]. Alternative data from an U.K. general practice cohort found that individuals prescribed statins had a significantly reduced risk of developing dementia; an effect not demonstrated with other lipid-lowering treatments [170].
+Ezetimibe reduces total cholesterol levels by inhibiting intestinal cholesterol absorption. When added to simvastatin (40 mg daily), ezetimibe (10 mg daily) significantly reduced stroke risk (HR 0.86, 95% CI 0.73–1.00, p=0.05) compared with simvastatin monotherapy over a median follow-up of 6 years after acute coronary syndrome in the Improved Reduction of Outcomes: Vytorin Efficacy International Trial (IMPROVE-IT, n=18,144) [171]. This reduced stroke risk was driven by a reduction in IS events (HR 0.79, 95% CI 0.67–0.94) between the two groups described. To date, no trials have specifically assessed ezetimibe in the prevention or treatment of dementia.
+Proprotein convertase subtilisin-kexin type 9 (PCSK-9) inhibitors are parenterally administered, monoclonal antibodies that lower LDL cholesterol levels by preventing degradation of hepatic LDL receptors. When added to statins, PCSK-9 inhibitors reduce LDL cholesterol by 40–72% [172]. A meta-analysis of 24 studies including 10,159 participants found that PCSK-9 inhibitors were associated with reductions in all-cause mortality, cardiovascular mortality and the rate of MI compared with placebo [173]. The OSLER 1 and 2 studies (n=4,465) reported that the risk of major cardiovascular events (including stroke and TIA), over a median of 11 months follow-up, was reduced by 53% in those who received evolocumab [174], whilst in the ODYSSEY LONG TERM study (n=2,341) the rate of first major cardiovascular events (including IS), over a median follow-up of 18 months was lower (HR 0.52, 95% CI 0.31–0.90) with alirocumab compared with placebo [175]. A recent meta-analysis of these two trials sought to establish the effect of PCSK-9 inhibitors on stroke risk, but was limited due to the small number of strokes reported over relatively short follow-up periods: 5 ISs and 6 TIAs in OSLER, and 11 ISs in ODYSSEY LONG TERM [176]. There was no difference in stroke rates between PCSK-9 inhibitors and placebo (risk ratio 1.43, 95% CI 0.45–4.57). Further data are needed over longer follow-up duration to establish the efficacy of PCSK-9 inhibitors at reducing incident strokes.
+Although there is no evidence regarding PCSK-9 inhibitors and prevention or treatment of dementia, there have been reports of increased neurocognitive adverse events (confusion, memory problems) with these agents compared with placebo [176]. Clearly, further research and monitoring are required before these agents can be used in the setting of primary or secondary prevention of stroke or dementia.
+In summary, a large meta-analysis of 78 trials (n=266,973) of lipid-lowering therapy found no significant effect of non-statin lipid-lowering on stroke risk (diet: OR 0.92, 95% CI 0.69–1.23; fibrates: OR 0.98, 95% CI 0.86–1.12; other drugs: OR 0.81, 95% CI 0.61–1.08, Table 3) [177].
+View this table:
+View inline
+View popup
+Box 1 Unanswered questions for future research regarding hypercholesterolaemia in VaD
+FOURIER, Further Cardiovascular OUtcomes Research with PCSK-9 Inhibition in Subjects with Elevated Risk.
+Ideal cardiovascular health
+As discussed previously, stroke and its recurrence are predictors of dementia [8]. In addition, other vascular diseases–namely coronary artery disease, peripheral arterial disease, AF, renal disease and cardiac failure–have all been associated with cognitive impairment and VaD [26]. Stroke and these other vascular diseases probably represent markers of cumulative exposure to multiple vascular risk factors. In addition to hypercholesterolaemia, modifiable vascular risk factors comprise diabetes, hypertension, obesity, physical inactivity and smoking, which are all independently associated with cognitive impairment and dementia in later life [178–182]. In order to promote cardiovascular health (CVH) and reduce deaths from CVD and stroke by 20% by 2020, the American Heart Association developed the CVH index, a 7-point score ranging from 0 to 7, with one point awarded for each of: current non-smoker; body mass index (BMI) >18.5 and <25 kg/m2; adequate physical activity; a healthy diet; untreated total cholesterol <5.2 mmol/l; untreated blood pressure <120/80 mmHg; and fasting blood glucose <5.6 mmol/l [183]. Higher scores indicating ideal CVH have predicted less coronary artery disease and stroke (IS and ICH) in at least three separate cohorts in the U.S. [184–186] and one in China [187,188]. One prospective cohort study aimed to assess whether ideal CVH was associated with lower risk of stroke, cognitive impairment and dementia in the Framingham Heart Study Offspring cohort [189]. The authors assessed whether ideal CVH scores at two time-points–recent (1998–2001) and remote (1991–1995)–were associated with 10-year risk of stroke (n=2,631), cognitive impairment and dementia (n=1,364). Higher remote ideal CVH was associated with a lower 10-year risk of incident stroke (HR 0.79, 95% CI 0.66–0.94), AD (HR 0.79, 95% CI 0.64–0.98), VaD (HR 0.61, 95% CI 0.39–0.95) and all-cause dementia (HR 0.80, 95% CI 0.67–0.97), whilst recent ideal CVH scores were associated with a lower 10-year risk of stroke (HR 0.80, 95% CI 0.67–0.95) and VaD (HR 0.49, 95% CI 0.30–0.81), but not AD and all-cause dementia. These differences probably highlight that stroke is a relatively acute sequela of poor CVH, whilst dementia is an insidious process developing over decades. Higher recent and remote ideal CVH scores were associated with less decline in visual memory, reasoning and verbal comprehension. Two other studies corroborate the data above that ideal CVH was associated with better neuropsychological outcomes in multiple cognitive areas [188,190]. In addition, higher recent ideal CVH was associated with less frontal brain atrophy but not global atrophy on MRI, whilst higher remote ideal CVH was associated with global but not frontal atrophy (n=1,287); no association was seen between ideal CVH at either time point and WMH volume [189].
+The authors advocate promoting ideal CVH, targeting the middle-aged in particular, to protect against all forms of vascular brain injury [189].
+A large Finnish RCT [191] included 2,654 people aged 60–77 years with a CAIDE [192] score of 6 or higher (comprising age, sex, education, systolic blood pressure, BMI, total cholesterol and physical activity [range 0–15]) and cognition at the mean or slightly lower than expected for age. Participants were randomized to either a 2-year multi-domain intervention (diet, exercise, cognitive training and monitoring of vascular risk) or control (general health advice). The primary outcome was mean change in cognition (neuropsychological test battery Z-scores) at 2 years. The estimated between group difference in the change in cognitive performance per year was 0.022 (95% CI 0.002–0.042, p=0.03) in favour of the intervention. Therefore, a multi-domain intervention can improve or at least maintain cognition in an at-risk cohort in later life. The authors did not establish the contribution of the individual components of the multi-domain intervention to the effect seen overall [191].
+On-going and future research possibilities
+The European Society of Hypertension–Chinese Hypertension League–Stroke in Hypertension Optimal Treatment (ESH–CHL–SHOT) trial is a factorial design RCT with two different LDL cholesterol targets and three different blood pressure targets aiming to recruit 925 participants with hypertension and stroke or TIA within the preceding 1 to 6 months prior to randomization. Investigators are able to prescribe a statin of their choosing and cognition is assessed using the Montreal Cognitive Assessment (MoCA) as a secondary outcome over 4 years of follow-up [193].
+Unanswered questions future research should seek to address are detailed in Box 1.
+Conclusion
+The associations between cholesterol and SVD, stroke, cognitive impairment and subsequent dementia are complex and as yet not fully understood. Given the ageing population, there is an urgent need to find treatments to prevent and treat dementia. In the absence of evidence to guide clinical practice, it seems appropriate to treat those patients with vascular risk factors that meet criteria for lipid-lowering therapy, in terms of primary and secondary prevention of cardiovascular and cerebrovascular events, in line with current guidelines [26,194]. As we have alluded to, management of the individual patient in a holistic manner according to their own vascular risk profile is recommended. Overall, there is no evidence to support lipid-lowering therapy in patients for the management of VaD or AD. Giving statins in later life to prevent or treat dementia is not recommended, whilst in midlife data are lacking. Although this paucity of randomized controlled evidence makes for challenging clinical decision making, it provides multiple opportunities for on-going and future research.
+Author contribution
+J.P.A. wrote the first draft. P.S. performed PODCAST analyses referred to here. All authors (J.P.A., P.S., N.S. and P.M.B.) reviewed and commented on the text.
+Funding
+PODCAST was funded jointly by Alzheimer's Society and The Stroke Association [grant number TSA 2008/09]; the British Heart Foundation (BHF RIGHT-2 trial) [grant number CS/14/4/30972 (to J.A.)]; and National Institute of Health Research Health Technology Assessment programme (NIHR HTA TARDIS trial) [grant number 10/104/24].
+Competing interests
+P.M.B. was chief investigator of the academic/non-commercial PODCAST trial that investigated the effect of intensive versus guideline lipid lowering in patients after stroke.
+Acknowledgments
+P.M.B. is Stroke Association Professor of Stroke Medicine, and is a NIHR Senior Investigator.
+Abbreviations: ACE-R, Addenbrooke's Cognitive Examination-Revised; AD, Alzheimer's disease; ADAS-Cog, Alzheimer's Disease Assessment Scale-cognitive subscale; AF, atrial fibrillation; ApoB, apolipoprotein B; APOE, apolipoprotein E; ARIC, Atherosclerosis Risk in Communities; BBB, blood–brain barrier; BMI, body mass index; CAIDE, Finnish Cardiovascular Risk Factors, Aging and Dementia; CI, confidence interval; CMB, cerebral microbleeds; CT, computed tomography; CVD, cardiovascular disease; CVH, cardiovascular health; DM, diabetes mellitus; ESH–CHL–SHOT, European Society of Hypertension–Chinese Hypertension League–Stroke in Hypertension Optimal Treatment; HDL, high-density lipoprotein; HMGCoA, 3-hydroxy 3-methylglutaryl coenzyme A; HPS, Heart Protection Study; HR, hazard ratio; ICD-9, International Classification of Diseases-9; ICH, intracerebral haemorrhage; IS, ischaemic stroke; LDL, low-density lipoprotein; MI, myocardial infarction; MMSE, mini-mental state examination; MoCA, Montreal Cognitive Assessment; MRI, magnetic resonance imaging; OSLER, Open-label Study of Long-term Evaluation against LDL Cholesterol; PCSK-9, proprotein convertase subtilisin-kexin type 9; PODCAST, Prevention Of Decline in Cognition After Stroke Trial; PROSPER, Prospective Study of Pravastatin in the Elderly at Risk; RCT, randomized controlled trial; ROCAS, Regression of Cerebral Artery Stenosis; RR, relative risk; SPARCL, Stroke Prevention by Aggressive Reduction in Cholesterol Levels trial; SVD, small vessel disease; TIA, transient ischaemic attack; TICS-m, Modified Telephone Interview for Cognitive Status; TNT, Treating to New Targets; VaD, vascular dementia; VISTA, Virtual International Stroke Trials Archive; WMH, white matter hyperintensities
+© 2017 The Author(s)
+http://creativecommons.org/licenses/by/4.0/
+This is an open access article published by Portland Press Limited on behalf of the Biochemical Society and distributed under the Creative Commons Attribution License 4.0 (CC BY).
+References
+↵
+National Institute for Health and Care Excellence (2006) Dementia: supporting people with dementia and their carers in health and social care. NICE clinical guideline 42, http://www.guidance.nice.org.uk/guidance/CG42
+↵
+Burns, A. and
+Iliffe, S.
+(2009) Dementia. BMJ 338, b75doi:10.1136/bmj.b75pmid:19196746
+OpenUrlFREE Full Text
+↵
+Prince, M.,
+Wimo, A.,
+Guerchet, M.,
+Ali, G.C.,
+Wu, Y.T.,
+Prina, M.
+(2015), World alzheimer report 2015: The global impact of dementia–an analysis of prevalence, incidence, cost and trends, http://www.worldalzreport2015.org/downloads/world-alzheimer-report-2015-summary-sheet.pdf
+↵
+McGuinness, B.,
+Craig, D.,
+Bullock, R. and
+Passmore, P.
+(2016) Statins for the prevention of dementia. Cochrane Database Syst. Rev. 4, CD003160
+OpenUrl
+↵
+Rizzi, L.,
+Rosset, I. and
+Roriz-Cruz, M.
+(2014) Global epidemiology of dementia: Alzheimer's and vascular types. BioMed Res. Int. 2014, 908915doi:10.1155/2014/908915pmid:25089278
+OpenUrlCrossRefPubMed
+↵
+Ji, Y.,
+Shi, Z.,
+Zhang, Y.,
+Liu, S.,
+Liu, S.,
+Yue, W.
+(2015) Prevalence of dementia and main subtypes in rural northern china. Dement. Geriatr. Cogn. Disord. 39, 294–302doi:10.1159/000375366pmid:25792116
+OpenUrlCrossRefPubMed
+↵
+Mackay, J. and
+Mensah, G.
+(2004) The atlas of heart disease and stroke. WHO Library. Myriad Editions Ltd., Geneva, http://www.Who.Int/cardiovascular_diseases/resources/atlas/en/
+↵
+Leys, D.,
+Henon, H.,
+Mackowiak-Cordoliani, M.-A. and
+Pasquier, F.
+(2005) Poststroke dementia. Lancet Neurol. 4, 752–759doi:10.1016/S1474-4422(05)70221-0pmid:16239182
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Ott, A.,
+Slooter, A.J.,
+van Harskamp, F.,
+Witteman, J.C.,
+Van Broeckhoven, C.,
+van Duijn, C.M.
+(1998) Smoking and risk of dementia and alzheimer's disease in a population-based cohort study: The rotterdam study. Lancet 351, 1840–1843doi:10.1016/S0140-6736(97)07541-7pmid:9652667
+OpenUrlCrossRefPubMedWeb of Science
+Posner, H.B.,
+Tang, M.X.,
+Luchsinger, J.,
+Lantigua, R.,
+Stern, Y. and
+Mayeux, R.
+(2002) The relationship of hypertension in the elderly to ad, vascular dementia, and cognitive function. Neurology 58, 1175–1181doi:10.1212/WNL.58.8.1175pmid:11971083
+OpenUrlCrossRefPubMed
+↵
+Stewart, R. and
+Liolitsa, D.
+(1999) Type 2 diabetes mellitus, cognitive impairment and dementia. Diabet. Med. 16, 93–112doi:10.1046/j.1464-5491.1999.00027.xpmid:10229302
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Norton, S.,
+Matthews, F.E.,
+Barnes, D.E.,
+Yaffe, K. and
+Brayne, C.
+(2014) Potential for primary prevention of alzheimer's disease: an analysis of population-based data. Lancet Neurol 13, 788–794doi:10.1016/S1474-4422(14)70136-Xpmid:25030513
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Ostergaard, L.,
+Sondergaard, T.,
+Moreton, F.,
+Hansen, M.B.,
+Wardlaw, J.M.,
+Dalkara, T.
+(2015) Cerebral small vessel disease: capillary pathways to stroke and cognitive decline. J. Cereb. Blood Flow Metab. 38, 302–325
+OpenUrl
+↵
+Wardlaw, J.,
+Smith, C. and
+Dichgans, M.
+(2013) Mechanisms of sporadic cerebral small vessel disease: insights from neuroimaging. Lancet Neurol. 12, 483–497doi:10.1016/S1474-4422(13)70060-7pmid:23602162
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Bailey, E.L.,
+Smith, C.,
+Sudlow, C.L. and
+Wardlaw, J.M.
+(2012) Pathology of lacunar ischemic stroke in humans–a systematic review. Brain Pathol. 22, 583–591doi:10.1111/j.1750-3639.2012.00575.xpmid:22329603
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Wiseman, S.,
+Marlborough, F.,
+Doubal, F.,
+Webb, D.J. and
+Wardlaw, J.
+(2014) Blood markers of coagulation, fibrinolysis, endothelial dysfunction and inflammation in lacunar stroke versus non-lacunar stroke and non-stroke: systematic review and meta-analysis. Cerebrovasc. Dis. 37, 64–75doi:10.1159/000356789pmid:24401164
+OpenUrlCrossRefPubMed
+↵
+Stevenson, S.F.,
+Doubal, F.N.,
+Shuler, K. and
+Wardlaw, J.M.
+(2010) A systematic review of dynamic cerebral and peripheral endothelial function in lacunar stroke versus controls. Stroke 41, e434–e442doi:10.1161/STROKEAHA.109.569855pmid:20395619
+OpenUrlAbstract/FREE Full Text
+↵
+Rost, N.S.,
+Rahman, R.M.,
+Biffi, A.,
+Smith, E.E.,
+Kanakis, A.,
+Fitzpatrick, K.
+(2010) White matter hyperintensity volume is increased in small vessel stroke subtypes. Neurology 75, 1670–1677doi:10.1212/WNL.0b013e3181fc279apmid:21060091
+OpenUrlAbstract/FREE Full Text
+↵
+Wardlaw, J.M.,
+Lewis, S.C.,
+Keir, S.L.,
+Dennis, M.S. and
+Shenkin, S.
+(2006) Cerebral microbleeds are associated with lacunar stroke defined clinically and radiologically, independently of white matter lesions. Stroke 37, 2633–2636doi:10.1161/01.STR.0000240513.00579.bfpmid:16946155
+OpenUrlAbstract/FREE Full Text
+↵
+Debette, S. and
+Markus, H.S.
+(2010) The clinical importance of white matter hyperintensities on brain magnetic resonance imaging: systematic review and meta-analysis. BMJ 341, c3666doi:10.1136/bmj.c3666pmid:20660506
+OpenUrlAbstract/FREE Full Text
+Vermeer, S.E.,
+Longstreth, W.T. Jr. and
+Koudstaal, P.J.
+(2007) Silent brain infarcts: a systematic review. Lancet Neurol. 6, 611–619doi:10.1016/S1474-4422(07)70170-9pmid:17582361
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Bath, P.M. and
+Wardlaw, J.M.
+(2015) Pharmacological treatment and prevention of cerebral small vessel disease: a review of potential interventions. Int. J. Stroke 10, 469–478doi:10.1111/ijs.12466pmid:25727737
+OpenUrlCrossRefPubMed
+↵
+Manly, J.J.,
+Bell-McGinty, S.,
+Tang, M.X.,
+Schupf, N.,
+Stren, Y. and
+Mayeux, R.
+(2005) Implementing diagnostic criteria and estimating frequency of mild cognitive impairment in an urban community. Arch. Neurol. 62, 1739–1746doi:10.1001/archneur.62.11.1739pmid:16286549
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Cordoliani-Mackowiak, M.A.,
+Henon, H.,
+Pruvo, J.P.,
+Pasquier, F. and
+Leys, D.
+(2003) Post-stroke dementia: influence of hippocampal atrophy. Arch. Neurol. 60, 585–590doi:10.1001/archneur.60.4.585pmid:12707073
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Pohjasvaara, T.,
+Mantyla, R.,
+Aronen, H.J.,
+Leskela, M.,
+Salonen, O.,
+Kaste, M.
+(1999) Clinical and radiological determinants of prestroke cognitive decline in a stroke cohort. J. Neurol. Neurosurg. Psychiar. 67, 742–748doi:10.1136/jnnp.67.6.742
+OpenUrlAbstract/FREE Full Text
+↵
+Gorelick, P.B.,
+Scuteri, A.,
+Black, S.E.,
+DeCarli, C.,
+Greenberg, S.M.,
+Iadecola, C.
+(2011) Vascular contributions to cognitive impairment and dementia: a statement for healthcare professionals from the american heart association/american stroke association. Stroke 42, 2672–2713doi:10.1161/STR.0b013e3182299496pmid:21778438
+OpenUrlAbstract/FREE Full Text
+↵
+Badjatia, N. and
+Rosand, J.
+(2005) Intracerebral hemorrhage. Neurologist 11, 311–324doi:10.1097/01.nrl.0000178757.68551.26pmid:16286875
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Poon, M.T.,
+Fonville, A.F. and
+Al-Shahi Salman, R.
+(2014) Long-term prognosis after intracerebral haemorrhage: Systematic review and meta-analysis. J. Neurol. Neurosurg. Psychiatry 85, 660–667doi:10.1136/jnnp-2013-306476pmid:24262916
+OpenUrlAbstract/FREE Full Text
+↵
+Pantoni, L.
+(2010) Cerebral small vessel disease: from pathogenesis and clinical characteristics to therapeutic challenges. Lancet Neurol. 9, 689–701doi:10.1016/S1474-4422(10)70104-6pmid:20610345
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Biffi, A.,
+Halpin, A.,
+Towfighi, A.,
+Gilson, A.,
+Busi, K.,
+Rost, N.
+(2010) Aspirin and recurrent intracerebral hemorrhage in cerebral amyloid angiopathy. Neurology 75, 693–698doi:10.1212/WNL.0b013e3181eee40fpmid:20733144
+OpenUrlAbstract/FREE Full Text
+Koennecke, H.C
+(2006) Cerebral microbleeds on mri: prevalence, associations, and potential clinical implications. Neurology 66, 165–171doi:10.1212/01.wnl.0000194266.55694.1epmid:16434647
+OpenUrlAbstract/FREE Full Text
+↵
+Zhu, Y.C.,
+Chabriat, H.,
+Godin, O.,
+Dufouil, C.,
+Rosand, J.,
+Greenberg, S.M.
+(2012) Distribution of white matter hyperintensity in cerebral hemorrhage and health aging. J. Neurol. 259, 530–536doi:10.1007/s00415-011-6218-3pmid:21877206
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Biffi, A.,
+Bailey, D.,
+Anderson, C.D.,
+Ayres, A.M.,
+Gurol, E.M.,
+Greenberg, S.M.
+(2016) Risk factors associated with early vs delayed dementia after intracerebral hemorrhage. JAMA Neurol. 73, 969–976doi:10.1001/jamaneurol.2016.0955pmid:27295605
+OpenUrlCrossRefPubMed
+↵
+Biffi, A.,
+Anderson, C.D.,
+Jagiella, J.M.,
+Schmidt, H.,
+Kissela, B.,
+Hansen, B.M.
+(2011) Apoe genotype and extent of bleeding and outcome in lobar intracerebral haemorrhage: a genetic association study. Lancet Neurol. 10, 702–709doi:10.1016/S1474-4422(11)70148-Xpmid:21741316
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Brouwers, H.B.,
+Biffi, A.,
+Ayres, A.M.,
+Schwab, K.,
+Cortellini, L.,
+Romero, J.M.
+(2012) Apolipoprotein e genotype predicts hematoma expansion in lobar intracerebral hemorrhage. Stroke 43, 1490–1495doi:10.1161/STROKEAHA.111.643262pmid:22535266
+OpenUrlAbstract/FREE Full Text
+↵
+Gottesman, R.
+(2016) Dementia after intracerebral hemorrhage. JAMA Neurol. 73, 916–917doi:10.1001/jamaneurol.2016.1538pmid:27295411
+OpenUrlCrossRefPubMed
+↵
+Reitz, C.,
+Tang, M.X.,
+Luchsinger, J. and
+Mayeux, R.
+(2004) Relation of plasma lipids to alzheimer disease and vascular dementia. Arch. Neurol. 61, 705–714doi:10.1001/archneur.61.5.705pmid:15148148
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Sharrett, A.R.,
+Patsch, W.,
+Sorlie, P.D.,
+Heiss, G.,
+Bond, M.G. and
+Davis, C.E
+(1994) Associations of lipoprotein cholesterols, apoilpoproteins a-i and b, and triglycerides with carotid atherosclerosis and coronary heart disease. The atheroslerosis risk in communities (aric) study. Arterioscler. Thromb. 14, 1098–1104doi:10.1161/01.ATV.14.7.1098pmid:8018665
+OpenUrlAbstract/FREE Full Text
+↵
+Breteler, M.M.,
+Claus, J.J.,
+Grobbee, D.E. and
+Hofman, A.
+(1994) Cardiovascular disease and distribution of cognitive function in elderly people: The rotterdam study. BMJ 308, 1604–1608doi:10.1136/bmj.308.6944.1604pmid:8025427
+OpenUrlAbstract/FREE Full Text
+↵
+Mulder, M. and
+Terwel, D.
+(1998) Possible link between lipid metabolism and cerebral amyloid angiopathy in alzheimer's disease: a role for high-density lipoproteins?. Haemostasis 28, 174–194pmid:10420065
+OpenUrlPubMedWeb of Science
+↵
+Matsuda, Y.,
+Hirata, K.,
+Inoue, N.,
+Suematsu, M.,
+Kawashima, S.,
+Akita, H.
+(1993) High-density lipoprotein reverses inhibitory effect of oxidized low-density lipoprotein on endothelium-dependent arterial relaxation. Circ. Res. 72, 1103–1109doi:10.1161/01.RES.72.5.1103pmid:8477522
+OpenUrlAbstract/FREE Full Text
+↵
+Cockerill, G.W.,
+Rye, K.A.,
+Gamble, J.R.,
+Vadas, M.A. and
+Barter, P.J.
+(1995) High-density lipoproteins inhibit cytokine-induced expression of endothelial cell adhesion molecules. Arterioscler. Thromb. Vasc. Biol. 15, 1987–1994doi:10.1161/01.ATV.15.11.1987pmid:7583580
+OpenUrlAbstract/FREE Full Text
+↵
+Witztum, J.L.
+(1994) The oxidation hypothesis of atherosclerosis. Lancet 344, 793–795doi:10.1016/S0140-6736(94)92346-9pmid:7916078
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Braughler, J.M. and
+Hall, E.D.
+(1992) Involvement of lipid peroxidation in cns injury. J. Neurotrauma 9, S1–S7doi:10.1089/neu.1992.9.1pmid:1588600
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Dantoine, T.F.,
+Debord, J.,
+Merle, L.,
+Lacroix-Ramiandrisoa, H.,
+Bourzeix, L. and
+Charmes, J.-P.
+(2002) Paraoxonase 1 activity: a new vascular marker of dementia?. Ann. N.Y. Acad. Sci. 977, 96–101doi:10.1111/j.1749-6632.2002.tb04802.xpmid:12480737
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Polidori, M.C.,
+Mattioli, P.,
+Aldred, S.,
+Cecchetti, R.,
+Stahl, W.,
+Griffiths, H.
+(2004) Plasma antioxidant status, immunoglobulin g oxidation and lipid peroxidation in demented patients: relevance to alzheimer disease and vascular dementia. Dement. Geriatr. Cogn. Disord. 18, 265–270doi:10.1159/000080027pmid:15286458
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Ryglewicz, D.,
+Rodo, M.,
+Kunicki, P.K.,
+Bednarska-Makaruk, M.,
+Graban, A.,
+Lojkowska, W.
+(2002) Plasma antioxidant activity and vascular dementia. J. Neurol. Sci. 203–204, 195–197doi:10.1016/S0022-510X(02)00290-3
+OpenUrlCrossRef
+↵
+Chan, L.
+(1992) Apolipoprotein b, the major protein component of triglyceride-rich and low density lipoproteins. J. Biol. Chem. 267, 25621–25624
+OpenUrlFREE Full Text
+↵
+Elovson, J.,
+Chatterton, J.E.,
+Bell, G.T.,
+Schumaker, V.N.,
+Reuben, M.A.,
+Puppione, D.L.
+(1988) Plasma very low density lipoproteins contain a single molecule of apolipoprotein b. J. Lipid Res. 29, 1461–1473
+OpenUrlAbstract
+↵
+Anderson, T.J.,
+Gregoire, J.,
+Hegele, R.A.,
+Couture, P.,
+Mancini, G.B.,
+McPherson, R.
+(2013) 2012 update of the canadian cardiovascular society guidelines for the diagnosis and treatment of dyslipidemia for the prevention of cardiovascular disease in the adult. Can. J. Cardiol. 29, 151–167doi:10.1016/j.cjca.2012.11.032
+OpenUrlCrossRefPubMed
+Goff, D.C. Jr.,
+Lloyd-Jones, D.M.,
+Bennett, G.,
+Coady, S.,
+D'Agostino, R.B.,
+Gibbons, R.
+(2014) 2013 acc/aha guideline on the assessment of cardiovascular risk: a report of the american college of cardiology/american heart association task force on practice guidelines. Circulation 129, S49–S73doi:10.1161/01.cir.0000437741.48606.98pmid:24222018
+OpenUrlFREE Full Text
+↵
+Perk, J.,
+De Backer, G.,
+Gohlke, H.,
+Graham, I.,
+Reiner, Z.,
+Verschuren, M.
+(2012) European guidelines on cardiovascular disease prevention in clinical practice (version 2012). The fifth joint task force of the european society of cardiology and other societies on cardiovascular disease prevention in clinical practice (constituted by representatives of nine societies and by invited experts). Eur. Heart J. 33, 1635–1701doi:10.1093/eurheartj/ehs092pmid:22555213
+OpenUrlFREE Full Text
+↵
+Gatz, M.,
+Reynolds, C.A.,
+Finkel, D.,
+Pedersen, N.L. and
+Walters, E.
+(2010) Dementia in swedish twins: predicting incident cases. Behav. Genet. 40, 768–775doi:10.1007/s10519-010-9407-4pmid:20972885
+OpenUrlCrossRefPubMed
+↵
+Tynkkynen, J.,
+Hernesniemi, J.A.,
+Laatikainen, T.,
+Havulinna, A.S.,
+Sundvall, J.,
+Leiviska, J.
+(2016) Apolipoproteins and hdl cholesterol do not associate with the risk of future dementia and alzheimer's disease: The national finnish population study (finrisk). Age (Dordr) 38, 465–473doi:10.1007/s11357-016-9950-xpmid:27663235
+OpenUrlCrossRefPubMed
+↵
+Gouw, A.A.,
+van der Flier, W.M.,
+Fazekas, F.,
+van Straaten, E.C.,
+Pantoni, L.,
+Poggesi, A.
+(2008) Progression of white matter hyperintensities and incidence of new lacunes over a 3-year period: The leukoaraiosis and disability study. Stroke 39, 1414–1420doi:10.1161/STROKEAHA.107.498535pmid:18323505
+OpenUrlAbstract/FREE Full Text
+Longstreth, W.T. Jr.,
+Dulberg, C.,
+Manolio, T.A.,
+Lewis, M.R.,
+Beauchamp, N.J. Jr.,
+O'Leary, D.
+(2002) Incidence, manifestations, and predictors of brain infarcts by serial cranial magnetic resonance imaging in the elderly: The cardiovascular health study. Stroke 33, 2376–2382doi:10.1161/01.STR.0000032241.58727.49pmid:12364724
+OpenUrlAbstract/FREE Full Text
+↵
+van Dijk, E.J.,
+Prins, N.D.,
+Vrooman, H.A.,
+Hofman, A.,
+Koudstaal, P.J. and
+Breteler, M.M.
+(2008) Progression of cerebral small vessel disease in relation to risk factors and cognitive consequences: Rotterdam scan study. Stroke 39, 2712–2719doi:10.1161/STROKEAHA.107.513176pmid:18635849
+OpenUrlAbstract/FREE Full Text
+↵
+Longstreth, W.T. Jr.,
+Arnold, A.M.,
+Beauchamp, N.J. Jr.,
+Manolio, T.A.,
+Lefkowitz, D.,
+Jungreis, C.
+(2005) Incidence, manifestations, and predictors of worsening white matter on serial cranial magnetic resonance imaging in the elderly: The cardiovascular health study. Stroke 36, 56–61doi:10.1161/01.STR.0000149625.99732.69pmid:15569873
+OpenUrlAbstract/FREE Full Text
+↵
+Jimenez-Conde, J.,
+Biffi, A.,
+Rahman, R.,
+Kanakis, A.,
+Butler, C.,
+Sonni, S.
+(2010) Hyperlipidaemia and reduced white matter hyperintensity volume in patients with ischemic stroke. Stroke 41, 437–442doi:10.1161/STROKEAHA.109.563502pmid:20133919
+OpenUrlAbstract/FREE Full Text
+↵
+Vuorinen, M.,
+Solomon, A.,
+Rovio, S.,
+Nieminen, L.,
+Kareholt, I.,
+Tuomilehto, J.
+(2011) Changes in vascular risk factors from midlife to late life and white matter lesions: A 20-year follow-up study. Dement. Geriatr. Cogn. Disord. 31, 119–125doi:10.1159/000323810pmid:21273771
+OpenUrlCrossRefPubMed
+↵
+Carmelli, D.,
+Swan, G.E.,
+Reed, T.,
+Wolf, P.A.,
+Miller, B.L. and
+DeCarli, C.
+(1999) Midlife cardiovascular risk factors and brain morphology in identical older male twins. Neurology 52, 1119–1124doi:10.1212/WNL.52.6.1119pmid:10214731
+OpenUrlAbstract/FREE Full Text
+↵
+Bezerra, D.C.,
+Sharrett, A.R.,
+Matsushita, T.,
+Gottesman, R.F.,
+Shibata, D.,
+Mosley, T.H. Jr.
+(2012) Risk factors for lacune subtypes in the atherosclerosis risk in communities (aric) study. Neurology 78, 102–108doi:10.1212/WNL.0b013e31823efc42pmid:22170882
+OpenUrlAbstract/FREE Full Text
+↵
+Schilling, S.,
+Tzourio, C.,
+Dufouil, C.,
+Zhu, Y.,
+Berr, C.,
+Alperovitch, A.
+(2014) Plasma lipids and cerebral small vessel disease. Neurology 83, 1844–1852doi:10.1212/WNL.0000000000000980pmid:25320101
+OpenUrlAbstract/FREE Full Text
+↵
+Park, K.,
+Yasuda, N.,
+Toyonaga, S.,
+Yamada, S.M.,
+Nakabayashi, H.,
+Nakasato, M.
+(2007) Significant association between leukoaraiosis and metabolic syndrome in healthy subjects. Neurology 69, 974–978doi:10.1212/01.wnl.0000266562.54684.bfpmid:17538033
+OpenUrlAbstract/FREE Full Text
+↵
+Ridker, P.M.,
+Buring, J.E.,
+Cook, N.R. and
+Rifai, N.
+(2003) C-reactive protein, the metabolic syndrome, and risk of incident cardiovascular events: an 8-year follow-up of 14 719 initially health american women. Circulation 107, 391–397doi:10.1161/01.CIR.0000055014.62083.05pmid:12551861
+OpenUrlAbstract/FREE Full Text
+↵
+Satizabal, C.L.,
+Zhu, Y.C.,
+Mazoyer, B.,
+Dufouil, C. and
+Tzourio, C.
+(2012) Circulating il-6 and crp are associated with mri findings in the elderly: The 3c-dijon study. Neurology 78, 720–727doi:10.1212/WNL.0b013e318248e50fpmid:22357713
+OpenUrlAbstract/FREE Full Text
+↵
+van Dijk, E.J.,
+Prins, N.D.,
+Vermeer, S.E.,
+Vrooman, H.A.,
+Hofman, A.,
+Koudstaal, J.
+(2005) C-reactive protein and cerebral small-vessel disease: The rotterdam scan study. Circulation 112, 900–905doi:10.1161/CIRCULATIONAHA.104.506337pmid:16061741
+OpenUrlAbstract/FREE Full Text
+↵
+Schilling, S.,
+DeStefano, A.L.,
+Sachdev, P.S.,
+Choi, S.H.,
+Mather, K.A.,
+DeCarli, C.D.
+(2013) Apoe genotype and mri markers of cerebrovascular disease: a systematic review and meta-analysis. Neurology 81, 292–300doi:10.1212/WNL.0b013e31829bfda4pmid:23858411
+OpenUrlAbstract/FREE Full Text
+↵
+Bae, J.H.,
+Bassenge, E.,
+Kim, Y.N.,
+Kim, K.S.,
+Lee, H.J.,
+Moon, K.C.
+(2001) Postprandial hypertriglyceridemia impairs endothelial function by enhanced oxidant stress. Atherosclerosis 155, 517–523doi:10.1016/S0021-9150(00)00601-8pmid:11254924
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Fernando, M.S.,
+Simpson, J.E.,
+Matthews, F.,
+Brayne, C.,
+Lewis, C.E.,
+Barber, R.
+(2006) White matter lesions in an unselected cohort of the elderly: molecular pathology suggests origin from chronic hypoperfusion injury. Stroke 37, 1391–1398doi:10.1161/01.STR.0000221308.94473.14pmid:16627790
+OpenUrlAbstract/FREE Full Text
+↵
+Manktelow, B.N. and
+Potter, J.F
+(2009) Interventions in the management of serum lipids for preventing stroke recurrence. Cochrane Database Syst. Rev. 8, CD002091
+OpenUrl
+↵
+Amarenco, P.,
+Labreuche, J.,
+Lavallee, P. and
+Touboul, P.-J.
+(2004) Statins in stroke prevention and carotid atherosclerosis: systematic review and up-to-date meta-analysis. Stroke 35, 2902–2909doi:10.1161/01.STR.0000147965.52712.fapmid:15514180
+OpenUrlAbstract/FREE Full Text
+↵
+Solomon, A.,
+Kareholt, I.,
+Ngandu, T.,
+Wolozin, B.,
+Macdonald, S.W.,
+Winblad, B.
+(2009) Serum total cholesterol, statins and cognition in non-demented elderly. Neurobiol. Aging 30, 1006–1009doi:10.1016/j.neurobiolaging.2007.09.012pmid:18022292
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Solomon, A.,
+Kivipelto, M.,
+Wolozin, B.,
+Zhou, J. and
+Whitmer, R.A
+(2009) Midlife serum cholesterol and increased risk of alzheimer's and vascular dementia three decades later. Dement. Geriatr. Cogn. Disord. 28, 75–80doi:10.1159/000231980pmid:19648749
+OpenUrlCrossRefPubMed
+↵
+Mielke, M.M.,
+Zandi, P.P.,
+Sjogren, M.,
+Gustafson, D.,
+Ostling, S.,
+Steen, B.
+(2005) High total cholesterol levels in late life associated with a reduced risk of dementia. Neurology 64, 1689–1695doi:10.1212/01.WNL.0000161870.78572.A5pmid:15911792
+OpenUrlAbstract/FREE Full Text
+↵
+Trompet, S.,
+van Vliet, P.,
+de Craen, A.J.,
+Jolles, J.,
+Buckley, B.M.,
+Murphy, M.B.
+(2010) Pravastatin and cognitive function in the elderly. Results of the prosper study. J. Neurol. 257, 85–90doi:10.1007/s00415-009-5271-7pmid:19653027
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Kivipelto, M.,
+Helkala, E.L.,
+Laakso, M.P.,
+Hanninen, T.,
+Hallikainen, M.,
+Alhainen, K.
+(2002) Apolipoprotein e epilson4 allele, elevated midlife total cholesterol level, and high midlife systolic blood pressure are independent risk factors for late-life alzheimer disease. Ann. Intern. Med. 137, 149–155doi:10.7326/0003-4819-137-3-200208060-00006pmid:12160362
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Skoog, I.
+(1998) Status of risk factors for vascular dementia. Neuroepidemiology 17, 2–9doi:10.1159/000026147pmid:9549718
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Kivipelto, M.,
+Ngandu, T.,
+Fratiglioni, L.,
+Viitanen, M.,
+Kareholt, I.,
+Winblad, B.
+(2005) Obesity and vascular risk factors at midlife and the risk of dementia and alzheimer disease. Arch. Neurol. 62, 1556–1660doi:10.1001/archneur.62.10.1556pmid:16216938
+OpenUrlCrossRefPubMedWeb of Science
+Jarvik, G.P.,
+Wijsman, E.M.,
+Kukull, W.A.,
+Schellenberg, G.D.,
+Yu, C. and
+Larson, E.B.
+(1995) Interactions of apolipoprotein e genotype, total cholesterol level, age, and sex in prediction of alzheimer's disease: a case-control study. Neurology 45, 1092–1096doi:10.1212/WNL.45.6.1092pmid:7783869
+OpenUrlAbstract/FREE Full Text
+↵
+Notkola, I.L.,
+Sulkava, R.,
+Pekkanen, J.,
+Erkjuntti, T.,
+Ehnholm, C.,
+Kivinen, P.
+(1998) Serum total cholesterol, apolipoprotein e episilon 4 allele, and alzheimer's disease. Neuroepidemiology 17, 14–20doi:10.1159/000026149pmid:9549720
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Mainous, A.G. III.,
+Eschenbach, S.L.,
+Wells, B.J.,
+Everett, C.J. and
+Gill, J.M
+(2005) Cholesterol, transferrin saturation, and the development of dementia and alzheimer's disease: results from an 18-year population-based cohort. Fam. Med. 37, 36–42pmid:15619154
+OpenUrlPubMed
+Mielke, M.M.,
+Zandi, P.P.,
+Shao, H.,
+Waem, M.,
+Ostling, S.,
+Guo, X.
+(2010) The 32-year relationship between cholesterol and dementia from midlife to late life. Neurology 75, 1888–1895doi:10.1212/WNL.0b013e3181feb2bfpmid:21068429
+OpenUrlAbstract/FREE Full Text
+Romas, S.N.,
+Tang, M.X.,
+Berglund, L. and
+Mayeux, R.
+(1999) Apoe genotype, plasma lipids, lipoproteins, and ad in community elderly. Neurology 53, 517–521doi:10.1212/WNL.53.3.517pmid:10449113
+OpenUrlAbstract/FREE Full Text
+Tan, Z.S.,
+Seshadri, S.,
+Beiser, A.,
+Wilson, P.W.,
+Kiel, D.P.,
+Tocco, M.
+(2003) Plasma total cholesterol level as a risk factor for alzheimer disease: The framingham study. Arch. Intern. Med. 163, 1053–1057doi:10.1001/archinte.163.9.1053pmid:12742802
+OpenUrlCrossRefPubMedWeb of Science
+Hayden, K.M.,
+Zandi, P.P.,
+Lyketsos, C.G.,
+Khachaturian, A.S.,
+Bastian, L.A.,
+Charoonruk, G.
+(2006) Vascular risk factors for incident alzheimer disease and vascular dementia: The cache county study. Alzheimer Dis. Assoc. Disord. 20, 93–100doi:10.1097/01.wad.0000213814.43047.86pmid:16772744
+OpenUrlCrossRefPubMedWeb of Science
+Moroney, J.T.,
+Tang, M.-X.,
+Berglund, L.,
+Small, S.,
+Merchant, C.,
+Bell, K.
+(1999) Low-density lipoprotein cholesterol and the risk of dementia with stroke. J. Am. Med. Assoc. 282, 254–260doi:10.1001/jama.282.3.254
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Kalmijn, S.,
+Foley, D.,
+White, L.,
+Burchfield, C.M.,
+Curb, J.D.,
+Petrovitch, H.
+(2000) Metabolic cardiovascular syndrome and risk of dementia in japanese-american elderly men. The honolulu-asia aging study. Arterioscler. Thromb. Vasc. Biol. 20, 2255–2260doi:10.1161/01.ATV.20.10.2255pmid:11031212
+OpenUrlAbstract/FREE Full Text
+↵
+Strittmatter, W.J.,
+Weisgraber, K.H.,
+Huang, D.Y.,
+Dong, L.M.,
+Salvesen, G.S.,
+Pericak-Vance, M.
+(1993) Binding of human apolipoprotein e to synthetic amyloid beta peptide: isoform-specific effects and implications for late-onset alzheimer disease. Proc. Nat. Acad. Sci. U.S.A. 90, 8098–8102doi:10.1073/pnas.90.17.8098
+OpenUrlAbstract/FREE Full Text
+Naslund, J.,
+Thyberg, J.,
+Tjemberg, L.O.,
+Wernstedt, C.,
+Karlstrom, A.R.,
+Bogdanovic, N.
+(1995) Characterization of stable complexes involving apoilpoprotein e and the amyloid beta peptide in alzheimer's disease brain. Neuron 15, 219–228doi:10.1016/0896-6273(95)90079-9pmid:7619525
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Wisniewski, T.,
+Lalowski, M.,
+Golabek, A.,
+Vogel, T. and
+Frangione, B.
+(1995) Is alzheimer's disease an apolipoprotein e amyloidosis?. Lancet 345, 956–958doi:10.1016/S0140-6736(95)90701-7pmid:7715296
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Hardy, J. and
+Selkoe, D.J.
+(2002) The amyloid hypothesis of alzheimer's disease: progress and problems on the road to therapeutics. Science 297, 353–356doi:10.1126/science.1072994pmid:12130773
+OpenUrlAbstract/FREE Full Text
+↵
+Farrer, L.A.,
+Cupples, L.A.,
+Haines, J.L.,
+Hyman, B.,
+Kukull, W.A.,
+Mayeux, R.
+(1997) Effects of age, sex, and ethnicity on the association between apolipoprotein e genotype and alzheimer disease. A meta-analysis. Apoe and alzheimer disease meta analysis consortium. J. Am. Med. Assoc. 278, 1349–1356doi:10.1001/jama.1997.03550160069041
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Mahley, R.W. and
+Rall, S. Jr.
+(2000) Apolipoprotein e: far more than a lipid transport protein. Annu. Rev. Genomics Hum. Genet. 1, 507–537doi:10.1146/annurev.genom.1.1.507pmid:11701639
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Beecham, G.W.,
+Hamilton, K.,
+Naj, A.C.,
+Martin, E.R.,
+Huentelman, M.,
+Myers, A.J.
+(2014) Genome-wide association meta-analysis of neuropathologic features of alzheimer's disease and related dementias. PLoS Genet 10, e1004606doi:10.1371/journal.pgen.1004606pmid:25188341
+OpenUrlCrossRefPubMed
+↵
+Harold, D.,
+Abraham, R.,
+Hollingworth, P.,
+Sims, R.,
+Gerrish, A.,
+Hamshere, M.L.
+(2009) Genome-wide association study identifies variants at clu and picalm associated with alzheimer's disease. Nat. Genet. 41, 1088–1093doi:10.1038/ng.440pmid:19734902
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Meng, Y.,
+Lee, J.H.,
+Cheng, R.,
+St George-Hyslop, P.,
+Mayeux, R. and
+Farrer, L.A.
+(2007) Association between sorl1 and alzheimer's disease in a genome-wide study. Neuroreport 18, 1761–1764doi:10.1097/WNR.0b013e3282f13e7apmid:18090307
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Dietschy, J.M. and
+Turley, S.D.
+(2001) Cholesterol metabolism in the brain. Curr. Opin. Lipidol. 12, 105–112doi:10.1097/00041433-200104000-00003pmid:11264981
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Lane, R.M. and
+Farlow, M.R.
+(2005) Lipid homeostasis and apolipoprotein e in the development and progression of alzheimer's disease. J. Lipid Res. 46, 949–968doi:10.1194/jlr.M400486-JLR200pmid:15716586
+OpenUrlAbstract/FREE Full Text
+↵
+Lutjohann, D.,
+Papassotiropoulos, A.,
+Bjorkhem, I.,
+Locatelli, S.,
+Bagli, M.,
+Oehring, R.D.
+(2000) Plasma 24s-hydroxycholesterol (cerebrosterol) is increased in alzheimer and vascular demented patients. J. Lipid Res. 41, 195–198pmid:10681402
+OpenUrlAbstract/FREE Full Text
+↵
+Reiss, A.B.,
+Siller, K.A.,
+Rahman, M.M.,
+Chan, E.S.,
+Ghiso, J. and
+de Leon, M.J.
+(2004) Cholesterol in neurologic disorders of the elderly: stroke and alzheimer's disease. Neurobiol. Aging 25, 977–989doi:10.1016/j.neurobiolaging.2003.11.009pmid:15212822
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Wu, C.W.,
+Liao, P.C.,
+Lin, C.,
+Kuo, C.J.,
+Chen, S.T.,
+Chen, H.I.
+(2003) Brain region-dependent increases in beta-amyloid and apolipoprotein e levels in hypercholesterolemic rabbits. J. Neural. Transm. (Vienna) 110, 641–649doi:10.1007/s00702-002-0809-1pmid:12768359
+OpenUrlCrossRefPubMed
+↵
+Jendroska, K.,
+Poewe, W.,
+Daniel, S.E.,
+Pluess, J.,
+Iwerssen-Schmidt, H.,
+Paulsen, J.
+(1995) Ischemic stress induces deposition of amyloid beta immunoreactivity in human brain. Acta Neuropathol 90, 461–466doi:10.1007/BF00294806pmid:8560978
+OpenUrlCrossRefPubMed
+↵
+Riekse, R.G.,
+Leverenz, J.B.,
+McCormick, W.,
+Bowen, J.D.,
+Teri, L.,
+Nochlin, D.
+(2004) Effect of vascular lesions on cognition in alzheimer's disease: A community-based study. J. Am. Geriatr. Soc. 52, 1442–1448doi:10.1111/j.1532-5415.2004.52405.xpmid:15341544
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Leppala, J.M.,
+Virtamo, J.,
+Fogelholm, R.,
+Albanes, D. and
+Heinonen, O.P
+(1999) Different risk factors for different stroke types: association of blood pressure, cholesterol, and antioxidants. Stroke 30, 2535–2540doi:10.1161/01.STR.30.12.2535pmid:10582974
+OpenUrlAbstract/FREE Full Text
+↵
+Zhang, X.,
+Patel, A.,
+Horibe, H.,
+Wu, Z.,
+Barzi, F.,
+Rodgers, A.
+(2003) Cholesterol, coronary heart disease, and stroke in the asia pacific region. Int. J. Epidemiol. 32, 563–572doi:10.1093/ije/dyg106pmid:12913030
+OpenUrlAbstract/FREE Full Text
+Kurth, T.,
+Everett, B.M.,
+Buring, J.E.,
+Kase, C.S.,
+Ridker, P.M. and
+Gaziano, J.M.
+(2007) Lipid levels and the risk of ischemic stroke in women. Neurology 68, 556–562doi:10.1212/01.wnl.0000254472.41810.0dpmid:17310025
+OpenUrlAbstract/FREE Full Text
+Bots, M.L.,
+Elwood, P.C.,
+Nikitin, Y.,
+Salonen, J.T.,
+Freire de Concalves, A.,
+Inzitari, D.
+(2002) Total and hdl cholesterol and risk of stroke. Eurostroke: a collaborative study among research centres in europe. J. Epidemiol. Commun. Health 56, Suppl 1i19–i24doi:10.1136/jech.56.suppl_1.i19
+OpenUrlAbstract/FREE Full Text
+Shaher, E.,
+Chambless, L.E.,
+Rosamond, W.D.,
+Boland, L.L.,
+Ballantyne, C.M.,
+McGovern, P.G.
+(2003) Plasma lipid profile and incident ischemic stroke: The atherosclerosis risk in communities (aric) study. Stroke 34, 623–631doi:10.1161/01.STR.0000057812.51734.FFpmid:12624282
+OpenUrlAbstract/FREE Full Text
+Horenstein, R.B.,
+Smith, D.E. and
+Mosca, L.
+(2002) Cholesterol predicts stroke mortality in the women's pooling project. Stroke 33, 1863–1868doi:10.1161/01.STR.0000020093.67593.0Bpmid:12105367
+OpenUrlAbstract/FREE Full Text
+Lindenstrom, E.,
+Boysen, G. and
+Nyboe, J.
+(1994) Influence of total cholesterol, high density lipoprotein cholesterol, and triglycerides on risk of cerebrovascular disease: The copenhagen city heart study. BMJ 309, 11–15doi:10.1136/bmj.309.6946.11pmid:8044059
+OpenUrlAbstract/FREE Full Text
+Sacco, R.L.,
+Benson, R.T.,
+Kargman, D.E.,
+Boden-Albala, B.,
+Tuck, C.,
+Lin, I.F.
+(2001) High-density lipoprotein cholesterol and ischemic stroke in the elderly: The northern manhattan stroke study. J. Am. Med. Assoc. 285, 2729–2735doi:10.1001/jama.285.21.2729
+OpenUrlCrossRefPubMedWeb of Science
+Psaty, B.M.,
+Anderson, M.,
+Kronmal, R.A.,
+Tracy, R.P.,
+Orchard, T.,
+Fried, L.P.
+(2004) The association between lipid levels and the risks of incident myocardial infarction, stroke, and total mortality: The cardiovascular health study. J. Am. Geriatr. Soc. 52, 1639–1647doi:10.1111/j.1532-5415.2004.52455.xpmid:15450039
+OpenUrlCrossRefPubMedWeb of Science
+Bowman, T.S.,
+Sesso, H.D.,
+Ma, J.,
+Kurth, T.,
+Kase, C.S.,
+Stampfer, M.J.
+(2003) Cholesterol and the risk of ischemic stroke. Stroke 34, 2930–2934doi:10.1161/01.STR.0000102171.91292.DCpmid:14615618
+OpenUrlAbstract/FREE Full Text
+Freiberg, J.J.,
+Tybjaerg-Hansen, A.,
+Jensen, J.S. and
+Nordeestgaard, B.G.
+(2008) Nonfasting triglycerides and risk of ischemic stroke in the general population. J. Am. Med. Assoc. 300, 2142–2152doi:10.1001/jama.2008.621
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Bansal, S.,
+Buring, J.E.,
+Rifai, N.,
+Mora, S.,
+Sacks, F.M. and
+Ridker, P.M.
+(2007) Fasting compared with nonfasting triglycerides and risk of cardiovascular events in women. J. Am. Med. Assoc. 298, 309–316doi:10.1001/jama.298.3.309
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Iso, H.,
+Jacobs, D.R. Jr.,
+Wentworth, D.,
+Neaton, J.D. and
+Cohen, J.D
+(1989) Serum cholesterol levels and six-year mortality from stroke in 350,977 men screened for the multiple risk factor intervention trial. N. Engl. J. Med. 320, 904–910doi:10.1056/NEJM198904063201405pmid:2619783
+OpenUrlCrossRefPubMedWeb of Science
+Suh, I.,
+Jee, S.H.,
+Kim, H.C.,
+Nam, C.M.,
+Kim, I.S.,
+Appel, L.J.
+(2001) Low serum cholesterol and haemorrhagic stroke in men: Korea medical insurance corporation study. Lancet 357, 922–925doi:10.1016/S0140-6736(00)04213-6pmid:11289349
+OpenUrlCrossRefPubMedWeb of Science
+Sturgeon, J.D.,
+Folsom, A.R.,
+Longstreth, W.T. Jr.,
+Shahar, E.,
+Rosamond, W.D. and
+Cushman, M.
+(2007) Risk factors for intracerebral hemorrhage in a pooled prospective study. Stroke 38, 2718–2725doi:10.1161/STROKEAHA.107.487090pmid:17761915
+OpenUrlAbstract/FREE Full Text
+↵
+Bonaventure, A.,
+Kurth, T.,
+Pico, F.,
+Barberger-Gateau, P.,
+Ritchie, K.,
+Stapf, C.
+(2010) Triglycerides and risk of hemorrhagic stroke vs. ischemic vascular events: The three-city study. Atherosclerosis 210, 243–248doi:10.1016/j.atherosclerosis.2009.10.043pmid:19963214
+OpenUrlCrossRefPubMed
+↵
+Wieberdink, R.G.,
+Poels, M.M.,
+Vernooji, M.W.,
+Koudstaal, P.J.,
+Hofman, A.,
+van der Lugt, A.
+(2011) Serum lipids and the risk of intracerebral hemorrhage: The rotterdam study. Arterioscler. Thromb. Vasc. Biol. 31, 2982–2989doi:10.1161/ATVBAHA.111.234948pmid:21921260
+OpenUrlAbstract/FREE Full Text
+↵
+Wang, X.,
+Dong, Y.,
+Qi, X.,
+Huang, C. and
+Hou, L.
+(2013) Cholesterol levels and risk of hemorrhagic stroke: a systematic review and meta-analysis. Stroke 44, 1833–1839doi:10.1161/STROKEAHA.113.001326pmid:23704101
+OpenUrlAbstract/FREE Full Text
+↵
+Shor, R.,
+Wainstein, J.,
+Oz, D.,
+Boaz, M.,
+Matas, Z.,
+Fux, A.
+(2007) Low serum ldl cholesterol levels and the risk of fever, sepsis, and malignancy. Ann. Clin. Lab. Sci. 37, 343–348pmid:18000291
+OpenUrlAbstract/FREE Full Text
+↵
+Chrostek, L.,
+Supronowicz, L.,
+Panasiuk, A.,
+Cylwik, B.,
+Gruszewska, E. and
+Flisiak, R.
+(2014) The effect of the severity of liver cirrhosis on the level of lipids and lipoproteins. Clin. Exp. Med. 14, 417–421doi:10.1007/s10238-013-0262-5pmid:24122348
+OpenUrlCrossRefPubMed
+↵
+Labreuche, J.,
+Deplanque, D.,
+Touboul, P.J.,
+Bruckert, E. and
+Amarenco, P.
+(2010) Association between change in plasma triglyceride levels and risk of stroke and carotid atherosclerosis: systematic review and meta-regression analysis. Atherosclerosis 212, 9–15doi:10.1016/j.atherosclerosis.2010.02.011pmid:20457452
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Bilheimer, D.W.,
+Grundy, S.M.,
+Brown, M.S. and
+Goldstein, J.L
+(1983) Mevinolin stimulates receptor-mediated clearance of low density lipoprotein from plasma in familial hypercholesterolemia heterozygotes. Trans. Assoc. Am. Physicians 96, 1–9pmid:6388097
+OpenUrlPubMed
+↵
+Scandinavian Simvastatin Survival Study Group (1994) Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: The scandinavian simvastatin survival study (4s). Lancet 344, 1383–1389pmid:7968073
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Wassmann, S.,
+Laufs, U.,
+Baumer, A.T.,
+Muller, K.,
+Ahlbory, K.,
+Linz, W.
+(2001) Hmg-coa reductase inhibitors improve endothelial dysfunction in normocholesterolemic hypertension via reduced production of reactive oxygen species. Hypertension 37, 1450–1457doi:10.1161/01.HYP.37.6.1450pmid:11408394
+OpenUrlCrossRefPubMed
+↵
+Ruocco, A.,
+Postiglione, A.,
+Santillo, M.,
+Seru, R.,
+Avvedimento, E.V.,
+Cuda, G.
+(2002) New possible role of statins in age-related diseases. J. Am. Geriatr. Soc. 50, 2099–2100doi:10.1046/j.1532-5415.2002.50631.xpmid:12473031
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Comparato, C.,
+Altana, C.,
+Bellosta, S.,
+Baetta, R.,
+Paoletti, R. and
+Corsini, A.
+(2001) Clinically relevant pleiotropic effects of statins: drug properties or effects of profound cholesterol reduction?. Nutr. Metab. Cardiovas. Dis. 11, 328–343
+OpenUrl
+↵
+McGuinness, B.,
+Craig, D.,
+Bullock, R.,
+Malouf, R. and
+Passmore, P.
+(2014) Statins for the treatment of dementia (review). Cochrane Database Syst. Rev. 4, CD007514
+OpenUrl
+↵
+Heart Protection Study Collaborative Group (2002) Mrc/bhf heart protection study of cholesterol lowering with simvastatin in 20536 high-risk individuals: a randomised placebo-controlled trial. Lancet 360, 7–22doi:10.1016/S0140-6736(02)09327-3pmid:12114036
+OpenUrlCrossRefPubMedWeb of Science
+↵
+LaRosa, J.C.,
+Grundy, S.M.,
+Waters, D.D.,
+Shear, C.,
+Barter, P.,
+Fruchart, J.C.
+(2005) Intensive lipid lowering with atorvastatin in patients with stable coronary disease. N. Engl. J. Med. 352, 1425–1435doi:10.1056/NEJMoa050461pmid:15755765
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Amarenco, P. and
+Labreuche, J.
+(2009) Lipid management in the prevention of stroke: review and updated meta-analysis of statins for stroke prevention. Lancet Neurol. 8, 453–463doi:10.1016/S1474-4422(09)70058-4pmid:19375663
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Baigent, C.,
+Blackwell, L.,
+Emberson, J.,
+Holland, L.E.,
+Reith, C.
+(2010) Cholesterol Treatment Trialists’ (CTT) CollaboratorsEfficacy and safety of more intensive lowering of ldl cholesterol: a meta-analysis of data from 170,000 participants in 26 randomised trials. Lancet 376, 1670–1681doi:10.1016/S0140-6736(10)61350-5pmid:21067804
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Amarenco, P.,
+Bogousslavsky, J.,
+Callahan, A. III.,
+Goldstein, L.B.,
+Hennerici, M.,
+Rudolph, A.E.
+(2006) High-dose atorvastatin after stroke or transient ischemic attack. N. Engl. J. Med. 355, 549–559doi:10.1056/NEJMoa061894pmid:16899775
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Scheitz, J.,
+MacIsaac, R.L.,
+Abdul-Rahim, A.,
+Siegerink, B.,
+Bath, P.,
+Endres, M.
+(2016) Statins and risk of poststroke hemorrhagic complications. Neurology 86, 1590–1596doi:10.1212/WNL.0000000000002606pmid:27016519
+OpenUrlCrossRefPubMed
+↵
+McKinney, J.S. and
+Kostis, W.J
+(2012) Statin therapy and the risk of intracerebral hemorrhage: a meta-analysis of 31 randomized controlled trials. Stroke 43, 2149–2156doi:10.1161/STROKEAHA.112.655894pmid:22588266
+OpenUrlAbstract/FREE Full Text
+↵
+Wong, W.B.,
+Lin, V.W.,
+Boudreau, D. and
+Devine, E.B.
+(2013) Statins in the prevention of dementia and alzheimer's disease: a meta-analysis of observational studies and an assessment of confounding. Pharmacoepidemiol. Drug Saf. 22, 345–358doi:10.1002/pds.3381pmid:23225700
+OpenUrlCrossRefPubMed
+Song, Y.,
+Nie, H.,
+Xu, Y.,
+Zhang, L. and
+Wu, Y.
+(2013) Association of statin use with risk of dementia: a meta-analysis of prospective cohort studies. Geriatr. Gerontol. Int. 13, 817–824doi:10.1111/ggi.12044pmid:23461525
+OpenUrlCrossRefPubMed
+↵
+Swiger, K.,
+Manalac, R.,
+Blumenthal, R.,
+Blaha, M. and
+Martin, S.
+(2013) Statins and cognition: a systematic review and meta-analysis of short and long term cognitive effects. Mayo Clin. Proc. 88, 1213–1221doi:10.1016/j.mayocp.2013.07.013pmid:24095248
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Giannopoulos, S.,
+Katsanos, A.H.,
+Kosmidou, M. and
+Tsivgoulis, G.
+(2014) Statins and vascular dementia: a review. J. Alzheimers Dis. 42, S315–S320pmid:24662103
+OpenUrlPubMed
+↵
+ten Dam, V.H.,
+van den Heuvel, D.M.,
+van Buchem, M.A.,
+Westendorp, R.G.,
+Bollen, E.L.,
+Ford, I.
+(2005) Effect of pravastatin on cerebral infarcts and white matter lesions. Neurology 64, 1807–1809doi:10.1212/01.WNL.0000161844.00797.73pmid:15911821
+OpenUrlAbstract/FREE Full Text
+↵
+Mok, V.C.,
+Lam, W.W.,
+Fan, Y.H.,
+Wong, A.,
+Ng, P.W.,
+Tsoi, T.H.
+(2009) Effects of statins on the progression of cerebral white matter lesion: Post hoc analysis of the rocas (regression of cerebral artery stenosis) study. J. Neurol. 256, 750–757doi:10.1007/s00415-009-5008-7pmid:19252811
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Bath, P.M.,
+Scutt, P.,
+Blackburn, D.,
+Ankolekar, S.,
+Krishnan, K.,
+Ballard, C.
+(2016) Intensive versus guideline blood pressure and lipid lowering in patients with previous stroke: main results from the pilot ‘prevention of decline in cognition after stroke trial’ (podcast) randomised controlled trial. PLoS One 12, e0164608doi:10.1371/journal.pone.0164608
+OpenUrlCrossRef
+↵
+Scutt, P.,
+Blackburn, D.,
+Krishnan, K.,
+Ballard, C.,
+Burns, A.,
+Ford, G.A.
+(2015) Baseline characteristics, analysis plan and report on feasibility for the prevention of decline in cognition after stroke trial (podcast). Trials 16, 509doi:10.1186/s13063-015-1033-2pmid:26545986
+OpenUrlCrossRefPubMed
+↵
+Lachin, J.
+(2014) Applications of the wei-lachin multivariate one-sided test for multiple outcomes on possibly different scales. PLoS One 9, e108784doi:10.1371/journal.pone.0108784pmid:25329662
+OpenUrlCrossRefPubMed
+↵
+Masse, I.,
+Bordet, R.,
+Deplanque, D.,
+Al Khedr, A.,
+Richard, F.,
+Libersa, C.
+(2005) Lipid lowering agents are associated with a slower cognitive decline in alzheimer's disease. J. Neurol. Neurosurg. Psychiatry 76, 1624–1629doi:10.1136/jnnp.2005.063388pmid:16291883
+OpenUrlAbstract/FREE Full Text
+↵
+Bettermann, K.,
+Arnold, A.M.,
+Williamson, J.,
+Rapp, S.,
+Sink, K.,
+Toole, J.F.
+(2012) Statins, risk of dementia, and cognitive function: secondary analysis of the gingko evaluation of memory study. J. Stroke Cerebrovasc. Dis. 21, 436–444doi:10.1016/j.jstrokecerebrovasdis.2010.11.002pmid:21236699
+OpenUrlCrossRefPubMed
+↵
+Winblad, B.,
+Jelic, V.,
+Kershaw, P. and
+Amatniek, J.
+(2007) Effects of statins on cognitive function in patients with alzheimer's disease in galantamine clinical trials. Drugs Aging 24, 57–61doi:10.2165/00002512-200724010-00004pmid:17233547
+OpenUrlCrossRefPubMed
+↵
+Sparks, D.L.,
+Sabbagh, M.N.,
+Connor, D.J.,
+Lopez, J.,
+Launer, L.J.,
+Brown, P.
+(2005) Atorvastatin for the treatment of mild to moderate alzheimer disease. Arch. Neurol. 62, 753–757doi:10.1001/archneur.62.5.753pmid:15883262
+OpenUrlCrossRefPubMedWeb of Science
+Feldman, H.H.,
+Doody, R.S.,
+Kivipelto, M.,
+Sparks, D.L.,
+Waters, D.D.,
+Jones, R.W.
+(2010) Randomized controlled trial of atorvastatin in mild to moderate alzheimer disease: Leade. Neurology 74, 956–964doi:10.1212/WNL.0b013e3181d6476apmid:20200346
+OpenUrlAbstract/FREE Full Text
+↵
+Sano, M.,
+Bell, K.L.,
+Galasko, D.,
+Galvin, J.E.,
+Thomas, R.G.,
+van Dyck, C.H.
+(2011) A randomized, double-blind, placebo-controlled trial of simvastatin to treat alzheimer disease. Neurology 77, 556–563doi:10.1212/WNL.0b013e318228bf11pmid:21795660
+OpenUrlAbstract/FREE Full Text
+↵
+Simons, M.,
+Schwarzler, F.,
+Lutjohann, D.,
+von Bergmann, K.,
+Beyreuther, K.,
+Dichgans, J.
+(2002) Treatment with simvastatin in normocholesterolemic patients with alzheimer's disease: a 26-week randomized, placebo-controlled, double-blind trial. Ann. Neurol. 52, 346–350doi:10.1002/ana.10292pmid:12205648
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Ankolekar, S.,
+Geeganage, C.,
+Anderton, P.,
+Hogg, C. and
+Bath, P.M.
+(2010) Clinical trials for preventing post stroke cognitive impairment. J. Neurol. Sci. 299, 168–174doi:10.1016/j.jns.2010.08.052pmid:20855090
+OpenUrlCrossRefPubMed
+↵
+Suribhatla, S.,
+Dennis, M.S. and
+Potter, J.F.
+(2005) A study of statin use in the prevention of cognitive impairment of vascular origin in the uk. J. Neurol. Sci.147–150229–230, doi:10.1016/j.jns.2004.11.019
+OpenUrlCrossRef
+↵
+Evans, M.A. and
+Golomb, B.A.
+(2009) Statin-associated adverse cognitive effects: Survey results from 171 patients. Pharmacotherapy 29, 800–811doi:10.1592/phco.29.7.800
+OpenUrlCrossRefPubMedWeb of Science
+Orsi, A.,
+Sherman, O. and
+Woldeselassie, Z.
+(2001) Simvastatin-associated memory loss. Pharmacotherapy 21, 767–769doi:10.1592/phco.21.7.767.34577
+OpenUrlCrossRefPubMedWeb of Science
+Wagstaff, L.R.,
+Mitton, M.W.,
+Arvik, B.M. and
+Doraiswamy, P.M.
+(2003) Statin-associated memory loss: analysis of 60 case reports and review of the literature. Pharmacotherapy 23, 871–880doi:10.1592/phco.23.7.871.32720
+OpenUrlCrossRefPubMedWeb of Science
+Zamrini, E.,
+McGwin, G. and
+Roseman, J.M.
+(2004) Association between statin use and alzheimer's disease. Neuroepidemiology 23, 94–98doi:10.1159/000073981
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Zandi, P.P.,
+Sparks, D.L.,
+Khachaturian, A.S.,
+Tschanz, J.,
+Norton, M.,
+Steinberg, M.
+(2005) Do statins reduce risk of incident dementia and alzheimer disease? The cache county study. Arch. Gen. Psychiatry 62, 217–224doi:10.1001/archpsyc.62.2.217
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Richardson, K.,
+Schoen, M.,
+French, B.,
+Umscheid, C.A.,
+Mitchell, M.D.,
+Arnold, S.E.
+(2013) Statins and cognitive function: a systematic review. Ann. Intern. Med. 159, 688–697doi:10.7326/0003-4819-159-10-201311190-00007
+OpenUrlCrossRefPubMedWeb of Science
+Kelley, B.J. and
+Glasser, S.
+(2014) Cognitive effects of statin medications. CNS Drugs 28, 411–419doi:10.1007/s40263-014-0147-5
+OpenUrlCrossRefPubMed
+↵
+Ott, B.R.,
+Daiello, L.A.,
+Dahabreh, I.J.,
+Springate, B.A.,
+Bixby, K.,
+Murali, M.
+(2015) Do statins impair cognition? A systematic review and meta-analysis of randomized controlled trials. J. Gen. Intern. Med. 30, 348–358doi:10.1007/s11606-014-3115-3
+OpenUrlCrossRefPubMed
+↵
+Yaghi, S. and
+Elkind, M.S.
+(2015) Lipids and cerebrovascular disease: research and practice. Stroke 46, 3322–3328doi:10.1161/STROKEAHA.115.011164
+OpenUrlFREE Full Text
+↵
+Lavigne, P.M. and
+Karas, R.H.
+(2013) The current state of niacin in cardiovascular disease prevention: a systematic review and meta-regression. J. Am. Coll. Cardiol. 61, 440–446doi:10.1016/j.jacc.2012.10.030
+OpenUrlFREE Full Text
+↵
+Bloomfield Rubins, H.,
+Davenport, J.,
+Babikian, V.,
+Brass, L.M.,
+Collins, D.,
+Wexler, L.
+(2001) Reduction in stroke with gemfibrozil in men with coronary heart disease and low hdl cholesterol: The veterans affairs hdl intervention trial (va-hit). Circulation 103, 2828–2833doi:10.1161/01.CIR.103.23.2828
+OpenUrlAbstract/FREE Full Text
+↵
+Jun, M.,
+Foote, C.,
+Lv, J.,
+Neal, B.,
+Patel, A.,
+Nicholls, S.J.
+(2010) Effects of fibrates on cardiovascular outcomes: a systematic review and meta-analysis. Lancet 375, 1875–1884doi:10.1016/S0140-6736(10)60656-3
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Rockwood, K.,
+Kirkland, S.,
+Hogan, D.B.,
+MacKnight, C.,
+Merry, H.,
+Verreault, R.
+(2002) Use of lipid-lowering agents, indication bias, and the risk of dementia in community-dwelling elderly people. Arch. Neurol. 59, 223–227doi:10.1001/archneur.59.2.223
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Jick, H.,
+Zornberg, G.L.,
+Jick, S.S.,
+Seshadri, S. and
+Drachman, D.A.
+(2000) Statins and the risk of dementia. Lancet 356, 1627–1631doi:10.1016/S0140-6736(00)03155-X
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Cannon, C.P.,
+Blazing, M.A.,
+Giugliano, R.P.,
+McCagg, A.,
+White, J.A.,
+Theroux, P.
+(2015) Ezetimibe added to statin therapy after acute coronary syndrome. N. Engl. J. Med. 372, 2387–2397doi:10.1056/NEJMoa1410489
+OpenUrlCrossRefPubMed
+↵
+McKenney, J.M.,
+Koren, M.J.,
+Kereiakes, D.J.,
+Hanotin, C.,
+Ferrand, A.C. and
+Stein, E.A
+(2012) Safety and efficacy of a monoclonal antibody to proprotein convertase subtilisin/kexin type 9 serine protease, sar236553/regn727, in patients with primary hypercholesterolemia receiving ongoing stable atorvastatin therapy. J. Am. Coll. Cardiol. 59, 2344–2353doi:10.1016/j.jacc.2012.03.007
+OpenUrlFREE Full Text
+↵
+Navarese, E.P.,
+Kolodziejczak, M.,
+Schulze, V.,
+Gurbel, P.A.,
+Tantry, U.,
+Lin, Y.
+(2015) Effects of proprotein convertase subtilisin/kexin type 9 antibodies in adults with hypercholesterolemia. Ann. Intern. Med. 163, 40–51doi:10.7326/M14-2957
+OpenUrlCrossRefPubMed
+↵
+Sabatine, M.S.,
+Giugliano, R.P.,
+Wiviott, S.D.,
+Raal, F.J.,
+Blom, D.J.,
+Robinson, J.
+(2015) Efficacy and safety of evolocumab in reducing lipids and cardiovascular events. N. Engl. J. Med. 372, 1500–1509doi:10.1056/NEJMoa1500858
+OpenUrlCrossRefPubMed
+↵
+Robinson, J.G.,
+Farnier, M.,
+Krempf, M.,
+Bergeron, J.,
+Luc, G.,
+Averna, M.
+(2015) Efficacy and safety of alirocumab in reducing lipids and cardiovascular events. N. Engl. J. Med. 372, 1489–1499doi:10.1056/NEJMoa1501031
+OpenUrlCrossRefPubMed
+↵
+Milionis, H.,
+Barkas, F.,
+Ntaios, G.,
+Papavasileiou, V.,
+Vemmos, K.,
+Michel, P.
+(2016) Proprotein convertase subtilisin kexin 9 (pcsk9) inhibitors to treat hypercholesterolemia: effect on stroke risk. Eur. J. Intern. Med. 34, 54–57doi:10.1016/j.ejim.2016.06.023
+OpenUrlCrossRef
+↵
+De Caterina, R.,
+Scarano, M.,
+Lucisano, G.,
+Palma, F.,
+Tatasciore, A. and
+Marchioli, R.
+(2010) Cholesterol-lowering interventions and stroke: insights from a meta-analysis of randomized controlled trials. J. Am. Coll. Cardiol. 55, 198–211doi:10.1016/j.jacc.2009.07.062
+OpenUrlFREE Full Text
+↵
+Elias, M.F.,
+Elias, P.K.,
+Sullivan, L.M.,
+Wolf, P.A. and
+D'Agostino, R.B.
+(2003) Lower cognitive function in the presence of obesity and hypertension: The framingham heart study. Int. J. Obesity 27, 260–268doi:10.1038/sj.ijo.802225
+OpenUrlCrossRefPubMedWeb of Science
+Francis, H. and
+Stevenson, R.
+(2013) The longer-term impacts of western diet on human cognition and the brain. Appetite 63, 119–128doi:10.1016/j.appet.2012.12.018
+OpenUrlCrossRefPubMedWeb of Science
+Rovio, S.,
+Kareholt, I.,
+Helkala, E.L.,
+Viitanen, M.,
+Winblad, B.,
+Tuomelihto, J.
+(2005) Leisure-time physical activity at midlife and the risk of dementia and alzheimer's disease. Lancet Neurol 4, 705–711doi:10.1016/S1474-4422(05)70198-8
+OpenUrlCrossRefPubMedWeb of Science
+Whitmer, R.A.,
+Sidney, S.,
+Selby, J.,
+Johnston, S.C. and
+Yaffe, K.
+(2005) Midlife cardiovascular risk factors and risk of dementia in late life. Neurology 64, 277–281doi:10.1212/01.WNL.0000149519.47454.F2
+OpenUrlAbstract/FREE Full Text
+↵
+Yaffe, K.,
+Blackwell, T.,
+Kanaya, A.M.,
+Davidowitz, N.,
+Barrett-Connor, E. and
+Krueger, K.
+(2004) Diabetes, impaired fasting glucose, and development of cognitive impairment in older women. Neurology 63, 658–663doi:10.1212/01.WNL.0000134666.64593.BA
+OpenUrlAbstract/FREE Full Text
+↵
+Lloyd-Jones, D.M.,
+Hong, Y.,
+Labarthe, D.,
+Mozaffarian, D.,
+Appel, L.J.,
+Van Horn, L.
+(2010) Defining and setting national goals for cardiovascular health promotion and disease reduction: The american heart association's strategic impact goal through 2020 and beyond. Circulation 121, 586–613doi:10.1161/CIRCULATIONAHA.109.192703
+OpenUrlAbstract/FREE Full Text
+↵
+Dong, C.,
+Rundek, T.,
+Wright, C.B.,
+Anwar, Z.,
+Elkind, M.S. and
+Sacco, R.L.
+(2012) Ideal cardiovascular health predicts lower risks of myocardial infarction, stroke, and vascular death across white, blacks and hispanics. Circulation 125, 2975–2984doi:10.1161/CIRCULATIONAHA.111.081083
+OpenUrlAbstract/FREE Full Text
+Folsom, A.R.,
+Yatsuya, H.,
+Nettleton, J.A.,
+Lutsey, P.L.,
+Cushman, M.,
+Rosamond, W.D.
+(2011) Community prevalence of ideal cardiovascular health, by the american heart association definition, and relationship with cardiovascular disease incidence. J. Am. Coll. Cardiol. 57, 1690–1696doi:10.1016/j.jacc.2010.11.041
+OpenUrlFREE Full Text
+↵
+Xanthakis, V.,
+Enserro, D.M.,
+Murabito, J.M.,
+Polak, J.F.,
+Wollert, K.C.,
+Januzzi, J.L.
+(2014) Ideal cardiovascular health: associations with biomarkers and subclinical disease and impact on incidence of cardiovascular disease in the framingham offspring study. Circulation 130, 1676–1683doi:10.1161/CIRCULATIONAHA.114.009273
+OpenUrlAbstract/FREE Full Text
+↵
+Wu, S.,
+Huang, Z.,
+Yang, X.,
+Zhou, Y.,
+Wang, A.,
+Chen, L.
+(2012) Prevalence of ideal cardiovascular health and its relationship with the 4-year cardiovascular events in a northern chinese industrial city. Cir. Cardiovasc. Qual. Outcomes 5, 487–493doi:10.1161/CIRCOUTCOMES.111.963694
+OpenUrlAbstract/FREE Full Text
+↵
+Zhang, Q.,
+Zhou, Y.,
+Gao, X.,
+Wang, C.,
+Zhang, S.,
+Wang, A.
+(2013) Ideal cardiovascular health metrics and the risks of ischemic and intracerebral hemorrhagic stroke. Stroke 44, 2451–2456doi:10.1161/STROKEAHA.113.678839
+OpenUrlAbstract/FREE Full Text
+↵
+Pase, M.P.,
+Beiser, A.,
+Enserro, D.,
+Xanthakis, V.,
+Aparicio, H.,
+Satizabal, C.L.
+(2016) Association of ideal cardiovascular health with vascular brain injury and incident dementia. Stroke 47, 1201–1206doi:10.1161/STROKEAHA.115.012608
+OpenUrlAbstract/FREE Full Text
+↵
+Crichton, G.E.,
+Elias, M.F.,
+Davey, A. and
+Alkerwi, A.
+(2014) Cardiovascular health and cognitive function: The maine-syracuse longitudinal study. PLoS One 9, e89317doi:10.1371/journal.pone.0089317
+OpenUrlCrossRefPubMed
+↵
+Ngandu, T.,
+Lehtisalo, J.,
+Solomon, A.,
+Levalahti, E.,
+Ahtiluoto, S.,
+Antikainen, R.
+(2015) A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people (finger): a randomised controlled trial. Lancet 385, 2255–2263doi:10.1016/S0140-6736(15)60461-5
+OpenUrlCrossRefPubMed
+↵
+Kivipelto, M.,
+Ngandu, T.,
+Laatikainen, T.,
+Winblad, B.,
+Soininen, H. and
+Tuomilehto, J.
+(2006) Risk score for the prediction of dementia risk in 20 years among middle aged people: a longitudinal, population-based study. Lancet Neurol. 5, 735–741doi:10.1016/S1474-4422(06)70537-3
+OpenUrlCrossRefPubMedWeb of Science
+↵
+Zanchetti, A.,
+Liu, L.,
+Mancia, G.,
+Parati, G.,
+Grassi, G.,
+Stramba-Badiale, M.
+(2014) Blood pressure and ldl-cholesterol targets for prevention of recurrent strokes and cognitive decline in the hypertensive patients: design of the european society of hypertension-chinese hypertension league stroke in hypertension optimal treatment randomized trial. J. Hypertens 32, 1888–1897doi:10.1097/HJH.0000000000000254
+OpenUrlCrossRefPubMed
+↵
+National Institute for Health and Care Excellence (2014), Lipid modification: Cardiovascular risk assessment and the modification of blood lipids for the primary and secondary prevention of cardiovascular disease. NICE Clinical Guideline 181. 2014, https://www.nice.org.uk/guidance/cg181/resources/cardiovascular-disease-risk-assessment-and-reduction-including-lipid-modification-35109807660997
+Seshadri, S. and
+Wolf, P.A.
+(2007) Lifetime risk of stroke and dementia: current concepts, and estimates from the framingham study. Lancet Neurol 6, 1106–1114doi:10.1016/S1474-4422(07)70291-0
+OpenUrlCrossRefPubMedWeb of Science
+Ivan, C.,
+Seshadri, S.,
+Beiser, A.,
+Au, R.,
+Kase, C.,
+Kelly-Hayes, M.
+(2004) Dementia after stroke: The framingham study. Stroke 35, 1264–1268doi:10.1161/01.STR.0000127810.92616.78
+OpenUrlAbstract/FREE Full Text
+Amgen. (2017), Amgen announces repatha® (evolocumab) significantly reduced the risk of cardiovascular events in fourier outcomes study. 2017, https://www.amgen.com/media/news-releases/2017/02/amgen-announces-repatha-evolocumab-significantly-reduced-the-risk-of-cardiovascular-events-in-fourier-outcomes-study/
+View Abstract
+Previous ArticleNext Article
+Back to top
+July 2017
+Volume: 131 Issue: 14
+Table of Contents
+About the Cover
+Index by author
+Search for this keyword
+Actions
+Email
+Thank you for your interest in spreading the word about Clinical Science.
+NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address.
+Your Email *
+Your Name *
+Send To *
+Enter multiple addresses on separate lines or separate them with commas.
+You are going to email the following Hypercholesterolaemia and vascular dementia
+Message Subject (Your Name) has forwarded a page to you from Clinical Science
+Message Body (Your Name) thought you would like to see this page from the Clinical Science web site.
+Your Personal Message
+Share
+Hypercholesterolaemia and vascular dementia
+Jason P. Appleton, Polly Scutt, Nikola Sprigg, Philip M. Bath
+Clinical Science Jul 2017, 131 (14) 1561-1578; DOI: 10.1042/CS20160382
+Share This Article:
+Copy
+Citation Tools
+Hypercholesterolaemia and vascular dementia
+Jason P. Appleton, Polly Scutt, Nikola Sprigg, Philip M. Bath
+Clinical Science Jul 2017, 131 (14) 1561-1578; DOI: 10.1042/CS20160382
+Citation Manager Formats
+BibTeX
+Bookends
+EasyBib
+EndNote (tagged)
+EndNote 8 (xml)
+Medlars
+Mendeley
+Papers
+RefWorks Tagged
+Ref Manager
+RIS
+Zotero
+Print
+Alerts
+Please log in to add an alert for this article.
+Username *
+Password *
+Request Permissions
+Save to my folders
+User Name *
+Password *
+Remember my user name & password.
+View Full PDF
+Open in Utopia Docs
+Tweet Widget
+Facebook Like
+Jump To
+Article
+Abstract
+Introduction
+Aetiology of vascular dementia
+Intracerebral haemorrhage and vascular dementia
+Lipid effects on vascular dementia
+Lipid effects on Alzheimer's disease
+Epidemiology of lipids and intracerebral haemorrhage
+Statins
+Other lipid-lowering therapies and VaD
+Ideal cardiovascular health
+On-going and future research possibilities
+Conclusion
+Author contribution
+Funding
+Competing interests
+Acknowledgments
+References
+Figures
+Info & Metrics
+PDF
+Keywords
+cholesterol
+cognitive impairment
+hypercholesterolaemia
+statins
+vascular dementia
+Related Articles
+Cited By...
+Portland Press Homepage
+Publish With Us
+Advertising
+Technical Support
+Clinical Science
+Biochemical Journal
+Essays in Biochemistry
+Biochemical Society Transactions
+Biochemical Society Symposia
+Bioscience Reports
+Emerging Topics in Life Sciences
+Neuronal Signaling
+Cell Signalling Biology
+Portland Press Limited
+Charles Darwin House
+12 Roger Street
+Email: editorial@portlandpress.com

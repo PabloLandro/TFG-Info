@@ -1,0 +1,406 @@
+NREL report estimates gasoline produced from biomass could cost about the same as ethanol - Green Car Congress
+Home
+About
+Contact
+RSS
+GCC Twitter
+Newsletter
+Home About Contact RSS GCC Twitter Newsletter
+Drayson Racing and Aston University partner to investigate 2G biofuels for high performance cars
+Canada moves forward with regulations for 2% renewable fuel content in diesel fuel and heating oil
+NREL report estimates gasoline produced from biomass could cost about the same as ethanol
+12 February 2011
+Current case design block flow diagram of thermochemical gasoline from biomass-derived methanol and the methanol-to-gasoline process. Source: NREL. Click to enlarge.
+A new report from the US Department of Energy’s National Renewable Energy Laboratory (NREL) concludes that gasoline produced via the methanol-to-gasoline (MTG) route (earlier post) using syngas from a 2,000 dry metric tonne/day (2,205 US ton/day) biomass-fed facility could have a plant gate price (PGP) of $1.95/gallon US ($0.52/liter).
+This is a gallon ethanol equivalent on an energy basis (gee) price of $1.39/gallon ($0.37/liter). (Gasoline has a higher energy content than ethanol.) In comparison, based on analysis work completed at NREL, the predicted PGP for ethanol produced via the thermochemical and biochemical pathways are $1.57 per gallon ($0.41 per liter) and $1.49 per gallon ($0.39 per liter), respectively.
+...the results from this preliminary evaluation indicate great potential for producing gasoline from biomass via thermochemical biomass conversion to syngas and the MTG process, and thus warrant a more detailed study. Future work areas of interest include obtaining better process information on the MTG section of the plant, especially equipment and operating costs; increasing the heat integration throughout the process; scale-up of the MTG fluidized bed reactor; testing the MTG reactor and catalyst with methanol from biomass-derived syngas; testing of the MTG fluidized bed reactor at higher pressure; and evaluating the possibility of selling raw MTG gasoline and refining it in an existing refinery.
+—Phillips et al.
+NREL conducted the analysis to investigate one of several possible biofuels that can be produced using the thermochemical route of gasification and synthesis. The basis for this study was a stand-alone gasification/synthesis process including sub-processes or unit operations for integrated tar reforming, acid gas scrubbing, and synthesis to methanol followed by conversion to gasoline.
+The report uses a new technoeconomic model developed in Aspen Plus to look at the future potential of the described biomass-to-gasoline (BTG) process, based on calculations for a mature plant (the nth plant) and 2012 technology targets as established in the Multi-Year Technical Plan of the US Department of Energy (DOE) Office of the Biomass Program.
+Very broadly, the biomass-to-gasoline (BTG) process assessed in the NREL report gasifies biomass to produce a syngas rich in hydrogen and carbon monoxide. This syngas is then converted into methanol, and the methanol is converted to gasoline using the methanol-to-gasoline (MTG) process first developed by Exxon Mobil. More specific steps include:
+Feed Handling & Preparation. The biomass feedstock (2,000 dry metric tonne/day [2,205 dry US ton/day]) is dried from the as-received moisture content to that required for proper feeding into the gasifier using flue gases from the char combustor and tar reformer catalyst regenerator. Prior to drying, wood chips with a diameter larger than 2 inches are sent to the hammer-mill for further size reduction.
+Gasification. This report presumes indirect gasification. Heat for the endothermic gasification reactions is supplied by circulating hot synthetic olivine “sand” between the gasifier and the char combustor. Conveyors and hoppers are used to feed the biomass to the low-pressure indirectly-heated entrained flow gasifier.
+Steam is injected into the gasifier to aid in stabilizing the entrained flow of biomass and sand through the gasifier. The biomass is chemically converted to a mixture of syngas components (CO, H2, CO2, CH4, etc.), tars, and a solid char that is mainly the fixed carbon residual from the biomass plus carbon (coke) deposited on the sand. Cyclones at the exit of the gasifier separate the char and sand from the syngas. These solids flow by gravity from the cyclones into the char combustor.
+Air is introduced to the bottom of the combustor reactor and serves as a carrier gas for the fluidized bed plus as the oxidant for burning the char and coke. The heat of combustion heats the sand to more than 1,800°F (982 °C). The hot sand and residual ash from the char is carried out of the combustor by the combustion gases and separated from the hot gases using another pair of cyclones.
+The first cyclone is designed to capture mostly sand while the smaller ash particles remain entrained in the gas exiting the cyclone. The second cyclone is designed to capture the ash and any sand passing through the first cyclone. The hot sand captured by the first cyclone flows by gravity back into the gasifier to provide the heat for the gasification reaction. Ash and sand particles captured in the second cyclone are cooled, moistened to minimize dust, and sent to a landfill for disposal.
+Gas Cleanup & Conditioning. This consists of multiple operations: reforming of tars and other hydrocarbons to CO and H2; syngas cooling/quench; and acid gas (CO2 and H2S) removal. Tar reforming is envisioned to occur in an isothermal fluidized bed reactor; deactivated reforming catalyst is separated from the effluent syngas and regenerated online.
+Methanol Synthesis. The cleaned and conditioned syngas is converted to methanol in a fixed bed reactor containing a copper/zinc oxide/alumina catalyst. The mixture of methanol and unconverted syngas is cooled through heat exchange with the steam cycle and other process streams. The methanol is separated by condensing it away from the unconverted syngas. Unconverted syngas is recycled back to the entrance of the methanol synthesis reactor.
+Methanol Conditioning. The methanol leaving the reactor has been condensed at elevated pressure and has absorbed a sizeable quantity of gas. The methanol and gas stream is first heated and sent through a turbo expander generator to recover a portion of the compression energy. Once the stream is at a lower temperature it is sent to a distillation column to degas the methanol. This removal of gases could be done at a later stage in the process.
+Methanol-to-Gasoline. In the MTG process, dimethylether (DME), the dehydrated derivative of methanol, is reacted over a ZSM-5 zeolite catalyst, on which the chain growth of molecules is sterically hindered, thus allowing only production of gasoline and lighter material. The gasoline product from the MTG process has more than 51 compounds, similar to straight-run gasoline in a petroleum refinery.
+Gasoline Separation. The separation of the gasoline mixture is similar to the process used in a gasoline refinery. The design used in this model came from the New Zealand MTG demonstration process design with a few minor modifications. This design utilizes five distillation columns to separate the remaining gas, LPG, light gasoline, and heavy gasoline. The remaining gas is sent to the fuel combustor. The light gasoline continues without further treatment. The heavy gasoline could proceed through a durene isomerizer in order to eliminate the presence of the 1,2,4,5-tetramethylbenzenes by converting them to 1,2,3,5-tetramethylbenzenes. This stream would then be merged with the light gasoline. The two product streams are LPG and gasoline.
+Heat & Power. A conventional steam cycle produces heat (as steam) for the gasifier and reformer operations and electricity for internal power requirements (with the possibility to export excess electricity as a co-product). The steam cycle is integrated with the biomass conversion and MTG processes. Pre-heaters, steam generators, and super-heaters are integrated within the process design to create the steam. The steam will run through turbines to drive compressors, generate electricity, or be withdrawn at various pressure levels for injection into the process. The condensate will be sent back to the steam cycle, de-gassed, and combined with makeup water.
+An earlier study by researchers at the Pacific Northwest National Laboratory (PNNL) (Jones and Zhu) predicted a PGP for BTG that is approximately 65% higher than the PGP predicted in the NREL BTG study. A principal difference between the two studies, said the NREL authors, is the state of the various technologies throughout the process.
+PNNL’s report utilizes and references proven states of technology. The report by NREL analyzes future states of the technologies and predicts the potential of the process. For the gasification and syngas cleanup sections in the NREL report, the 2012 targets used were set by DOE and are defined in the OBP MYPP (Multi-Year Program Plan). In the MTG section of the NREL report, a fluidized bed reactor was utilized (proven at the pilot scale) instead of the fixed bed reactor utilized by PNNL (proven at the commercial scale). The states of technologies have a large impact on the capital and operating costs required for the process. Other differences include but are not limited to stream factor, year dollars used (2007 vs. 2008), and feedstock cost.
+Resources
+Phillips, S. D.; Tarud, J. K.; Biddy, M. J.; Dutta, A. (2011) Gasoline from Wood via Integrated Gasification, Synthesis, and Methanol-to-Gasoline Technologies (NREL TP-5100-47594)
+S. B. Jones and Y. Zhu (2009) Techno-economic Analysis for the Conversion of Lignocellulosic Biomass to Gasoline via the Methanol-to-Gasoline (MTG) Process. (PNNL-18481)
+Posted on 12 February 2011 in Bio-hydrocarbons, Biogasoline, Biomass | Permalink | Comments (27)
+Comments
+It's crazy to convert methanol to gasoline. Not only is there a substantial loss of energy in the dehydration of MeOH to DME (released as heat), methanol has a much higher octane rating and can achieve higher thermal efficiencies in properly designed engines.
+The limited supply of biomass ought to make efficiency the key figure of merit in any BTL scheme. MTG fails.
+Posted by: Engineer-Poet | 12 February 2011 at 01:05 PM
+Yes Methanol is the cleanest less carbonated and highest octane of all liquid fuel, problem it is hardly miscible with gasoline, corrosive and last but not least its vapors are highly toxic, nobody's perfect. The perfect road to grassoline is still to be found...methanol would only makes sense as a liquid fuel in a direct methanol fuel cell,
+Posted by: Treehugger | 12 February 2011 at 01:34 PM
+MeOH makes plenty of sense in combustion engines. For one thing, the critical temperature is only 293°C. This makes it an excellent choice for a supercritical fuel-injection system (like Transonic) and exhaust heat can be recycled to the fuel system to boost thermal efficiency further.
+Posted by: Engineer-Poet | 12 February 2011 at 02:02 PM
+"problem it is hardly miscible with gasoline, corrosive and last but not least its vapors are highly toxic, nobody's perfect. "
+We've been 'splainin that to EP for a while now. He seems to think he can overlook the toxicity issues. Maybe. But CDC, HHS and the Congress will not. I agree with both that this is a wasteful way to make liquid fuel from biomass.
+Methanol FCs can be useful in really cold climates - though not on Arctic ice measuring stunts (eg Catlin.)
+Posted by: Reel$$ | 12 February 2011 at 02:02 PM
+Explaining to ReelDumb that methanol's protective clothing requirements are exactly the same as for ethylene glycol, and that people who handle MeOH professionally wear normal work clothes (washing off with water is sufficient treatment for exposure), have fallen on deaf ears.
+Not surprising. He's resistant to evidence that contradicts his dogma. As for "corrosion", M-85 cars were running for years before we had E-85. As for compatibility with gasoline, the major component of many "dry gas" formulations is... methanol. Add water to E85 and you get immiscible fractions and no-start problems; methanol is how you fix those problems.
+Posted by: Engineer-Poet | 12 February 2011 at 09:25 PM
+http://www.ensec.org/index.php?option=com_content&view=article&id=148:chinatakesgoldinmethanolfuel&catid=82:asia&Itemid=324
+"In 2007, China firmly established itself as the driver of the global methanol industry. The country became the world’s largest methanol producer and consumer. China also leads the world in the use of methanol as an alternative transportation fuel blending nearly one billion gallons of methanol in gasoline. Taxi and bus fleets are running on high methanol blends (M-85 to M-100), and retail pumps sell low level blends (M-15 or less) in many parts of the country."
+"Pure methanol has been used in open wheel auto racing since the mid-1960s. Unlike petroleum fires, methanol fires can be extinguished with plain water. A methanol-based fire burns invisibly, unlike gasoline, which burns with a visible flame. If a fire occurs on the track, there is no flame or smoke to obstruct the view of fast approaching drivers, but this can also delay visual detection of the fire and the initiation of fire suppression. The decision to permanently switch to methanol in American IndyCar racing was a result of the devastating crash and explosion at the 1964 Indianapolis 500 which killed drivers Eddie Sachs and Dave MacDonald. In 2007 IndyCars switched back to ethanol.
+Methanol is readily biodegradable in both aerobic (oxygen present) and anaerobic (oxygen absent) environments. Methanol will not persist in the environment. The "half-life" for methanol in groundwater is just one to seven days, while many common gasoline components have half-lives in the hundreds of days (such as benzene at 10–730 days). Since methanol is miscible with water and biodegradable, methanol is unlikely to accumulate in groundwater, surface water, air or soil."
+Yes methanol is toxic but it's actually less toxic than the gasoline it's often mixed with. When people comment on methanol's toxicity they do so in comparison to ethanol.
+Posted by: ai_vin | 12 February 2011 at 10:42 PM
+The most efficient use of biomass is to burn it in a generating plant to charge EV's, not this ridiculously complex and wasteful process.
+Posted by: JRP3 | 13 February 2011 at 06:32 AM
+Yeah but don't forget that most vehicles on our roads can only run on gasoline with limited blends of alernatives so you need a 'drop-in' solution. You can't expect the vehicle pool to be replaced overnight: 10-20 years is more likely and realistic, so its better to make the current fleet run better. That makes more sense than ending the lives of vehicles early and wasting huge resources building new vehicles just so that they can be fuelled by a three-pin plug.
+Posted by: Scott | 13 February 2011 at 07:13 AM
+E-P, calling Reel$$ Reeldumb doesn't do your argument any good. As for methanol, the scientists in the lab where I work say they prefer ethanol to methanol any day.
+Posted by: JN2 | 13 February 2011 at 11:44 AM
+What kind of work does the lab do and what do they use the alcohol for? Knowing the context of their preference is important.
+Posted by: ai_vin | 13 February 2011 at 12:35 PM
+EP retreats into insult and ad hominem attack whenever he feels threatened. Here he has gotten his facts wrong: the temp for autoignition of methanol is 385C.
+And the key factor for CDC and HHS is toxicity to humans. Unfortunately methanol is 4X more toxic than ethanol.
+"Toxic effects from acute methanol exposure may occur by ingestion, inhalation, or dermal absorption (Meditext, 2003). Acute methanol poisoning has three stages: 1) a rapid narcotic effect involving drowsiness or fatigue, and mild irritation of the eyes and mucous membranes 2) a latent period of 10-48 hours, followed by 3) more severe CNS effects including nausea, vomiting, dizziness, headache, abdominal and muscle pain, weakness, disturbances of consciousness, and visual disturbances, accompanied by metabolic acidosis (accumulation of acid in the body) and deep respirations (Reprotext, 2003; TOXLINE, 1997).
+Nervous System: Loss of coordination (ataxia), shock, convulsions, seizures, coma, and hyperactivity of the deep tendon reflexes can result from methanol poisoning (Reprotext, 2003; Merck, 1996; Meditext, 2003). The last stage of acute methanol poisoning may cause permanent effects (i.e., damage to central, motor, and optic nerves), even from a single exposure(Reprotext, 2003). The most common permanent consequences following severe poisoning are optic neuropathy, blindness, Parkinsonism, toxic encephalopathy, and polyneuropathy. Permanent Parkinsonian-like syndrome, which usually does not appear until several months to two years after methanol exposure, has been described (Meditext, 2003).
+Posted by: Reel$$ | 13 February 2011 at 04:12 PM
+Does anyone here have data comparing toxicity to humans of methanol vs gasoline?
+Also I agree with Scott, people are always looking for the next fuel out there, which is good and all, but what good does it do if there are no fuel tanks to put it in? The annual turnover rate for vehicles in the US is very low, and it will take at least 15 years for the new fuel to make a noticeable dent in the overall fuel usage of the US fleet. Researching drop-in fuels has the potential to allow us to get off oil MUCH faster, because consumers will not have to make any changes.
+Is gasoline really THAT bad, considering it is produced from biomass through an efficient process (Not MTG? Yes I understand it produces more GHG than other fuels, but isn't that effect partially mitigated by the fact that the plants from which it is produced absorb GHG during growth?
+Posted by: George Furey | 13 February 2011 at 07:51 PM
+"For one thing, the critical temperature is only 293°C."
+"Here he has gotten his facts wrong: the temp for autoignition of methanol is 385C."
+I'm not siding with either one of you here, but these are different values because they are measuring different things.
+Critical point, also called a critical state, specifies the conditions (temperature, pressure and sometimes composition) at which a phase boundary ceases to exist.
+Source: http://en.wikipedia.org/wiki/Critical_temperature
+The autoignition temperature or kindling point of a substance is the lowest temperature at which it will spontaneously ignite in a normal atmosphere without an external source of ignition, such as a flame or spark.
+Source:
+http://en.wikipedia.org/wiki/Auto-ignition_temperature
+Posted by: George Furey | 13 February 2011 at 08:04 PM
+ReelDumb can't figure out that methanol's critical temperature (the temperature at which the liquid and gas phases become the same) has nothing to do with autoignition; it's all about fuel injection, speed of fuel mixing and other factors related to the fuel system. (If it can be injected above its autoignition temperature, so much the better for a diesel cycle.)
+The fatal dose of ethanol in children is about 3 g/kg, or 60 grams for a 20 kg child. If MeOH is 4x as toxic, that's 15 grams. Absorbing 15 grams requires prolonged exposure to liquid (bathing in it?), drinking it, or breathing rather concentrated vapor for some time. This isn't going to happen accidentally or regularly.
+The Lowest Observed Adverse Effects Level of methanol in rats is 2.5 grams/kg/day. For a 60 kg human, that's 150 grams/day. You are NOT going to get close to that by chance exposures; the stuff is much safer than leaded gasoline ever was.
+Posted by: Engineer-Poet | 13 February 2011 at 08:05 PM
+If its 45 grams all at once for a fatal dose for a 60 kg person you'd have to drink 57 cc of pure methanol. Thats around a 1/4 cup. I would imagine drinking 1/4 cup of gasoline wouldn't be so good for you either.
+B. Acute Toxicity
+Ingestion of 80 to 150 mL of methanol is usually fatal
+to humans (HSDB 1994).
+From epa.gov
+Now that I have more accurate data it is now showing it would take at least 1/3 cup to kill you, way more than youd ever experience at the gas station.
+Posted by: George Furey | 13 February 2011 at 09:41 PM
+Thank you George Furey for the correction. Had EP used the accepted thermodynamic nomenclature i.e. "Critical POINT" or "Critical STATE" - his claim would have been correct:
+https://secure.wikimedia.org/wikipedia/en/wiki/Critical_point_%28thermodynamics%29
+"critical temperature" without pressure does not describe the cessation of phase boundary - which is EP's apparent interest in methanol fuels.
+As for the comparison between gasoline and methanol - obviously gasoline is toxic and carcinogenic. But the germane discussion is the plausibility of using either methanol or ethanol as a renewable additive. DOE suggests M85 is at least 4X more toxic than E85, and inhaling even small amounts of vapour can cause adverse effects.
+EPA's Acute Exposure Guideline Level-1 sets exposure to methanol at 670ppm (880 mg/m3)for just 10 minutes. EPA refused to remove methanol from its list of Hazardous Air Pollutants in 2001. It is not ingestion that is dangerous - it is dermal exposure and inhalation that is dangerous to humans at fuel pumps.
+"Lowest Observed Adverse Effects Level" in rats is meaningless as rodents do not exhibit accumulation of the metabolite formate that primates do. And 2.5g/kg??? How many 2.2lb rats have you seen outside NYC subways??
+Methanol is too hazardous to humans to be considered a replacement for gasoline.
+Posted by: Reel$$ | 14 February 2011 at 02:45 AM
+"critical temperature" without pressure does not describe the cessation of phase boundary - which is EP's apparent interest in methanol fuels.
+This is true, but isn't autoignition temp still a different thing altogether?
+"But the germane discussion is the plausibility of using either methanol or ethanol as a renewable additive."
+Guess I got a little off track here, I was just wondering if M85 was actually more toxic than the gasoline it would be replacing.
+Don't take offense but the main reason I challenged the topic was that it tends to get hard data posted, and through that data (667ppm @ 10 min) you have now convinced me that methanol is pretty toxic as an additive, especially considering how readily it evaporates in the atmosphere.
+Posted by: George Furey | 14 February 2011 at 05:18 AM
+George, autoignition is indeed different and I mistakenly assumed EP was referring to the temp at which autoignition occurs. Which is higher than critical state temp for methanol.
+Posted by: Reel$$ | 14 February 2011 at 10:27 AM
+And AGAIN the troll gets it wrong!
+Had EP used the accepted thermodynamic nomenclature i.e. "Critical POINT" or "Critical STATE" - his claim would have been correct
+Nope, I was not referring to the exact pressure/temperature point of criticality. I was referring to the temperatures hotter than that, at which a fuel could not reach the liquid state and would mix and burn faster. Above the critical temperature a material will not form a liquid regardless of pressure, so issues of e.g. droplet size are eliminated. This is what Transonic Combustion's supercritical fuel injection system (GCC article) does.
+The advantages of methanol for this include:
+It's used more efficiently than in a spark-ignition engine, especially at part throttle.
+The low critical temperature allows the system to operate without adding a diluent to the fuel.
+The high specific heat of methanol would allow more exhaust heat to be recycled to the combustion chamber through the fuel, increasing regeneration and efficiency.
+On top of the elimination of losses in conversion from methanol to gasoline, this adds up to much greater field-to-wheels efficiency. I suspect that methanol would make a good diluent (or co-fuel) for gasoline in the same fuel system, improving flexibility.
+EPA's Acute Exposure Guideline Level-1 sets exposure to methanol at 670ppm (880 mg/m3)for just 10 minutes.
+Of course, nobody is going to be breathing saturated fuel vapor for that long, especially outdoors. 670 ppm is what you'd get with a roughly 100:1 dilution of saturated vapor at 15°C (data page). If spills are sprayed down with water, you won't be able to get 670 ppm at all; diluting 1 cup of spilled methanol with 10 gallons of water both slashes the vapor pressure and washes the offending substance away. Ironically, the gasoline fraction of M85 is a much bigger problem for this than the methanol; you don't want gasoline in your sewers or waterways. Pure methanol is much easier to handle if spilled.
+If you get an ounce of the stuff on you, you can stand outside until it evaporates (at a BP of 65°C it won't take long if it's at all warm out) and go on your way. Just point your nose upwind and you'll be fine.
+Posted by: Engineer-Poet | 14 February 2011 at 12:55 PM
+Typical of diehard AGW believers, EP struggles to defend his affection for a highly toxic chemical in hundreds of thousands of global gas stations.
+If spills are sprayed down with water, you won't be able to get 670 ppm at all; diluting 1 cup of spilled methanol with 10 gallons of water both slashes the vapor pressure and washes the offending substance away.
+How many times have you seen operational water hoses sitting beside self-serve gasoline pumps? How many times have you seen people "spray down" errant gas spills with water? No, EP will have to take his belief to EPA, OSHA, DOT, DOE and the Congress to convince them that methanol is safer than plain ol' ethyl alcohol. A sustainable fuel we drink in dilution AND reasonably powers the ancient combustion engine.
+The problem here stems from EP's unfortunate attachment to liquid fuel combustion and ICEs. ICEs are an old, outdated, blustering technology EP. The sooner gone, the better.
+Posted by: Reel$$ | 14 February 2011 at 06:15 PM
+Heh, now I know ReelTroll is just trolling. Nobody would be dumb enough to attribute such positions to me after I've repeatedly stated "the future of ground transportation is electric". Or maybe he's the exception... hmmm....
+How many times have you seen operational water hoses sitting beside self-serve gasoline pumps?
+Never, because water doesn't dilute and extinguish gasoline fires. I have seen a number of gas station awnings with integrated fire extinguishers, though (dry chemical or CO2, I can't be sure). Water's cheaper and easier to handle.
+A sustainable fuel we drink in dilution AND reasonably powers the ancient combustion engine.
+E85 is a bit over $2/gallon here. The gasoline component can be separated by adding water and decanting the supernatant. The resulting liquid can be filtered with charcoal to remove the gasoline. Voila, a fifth of vodka for perhaps a quarter. The same trick may be possible with E10-E15, albeit needing a use for the gasoline to be economic.
+The threat of fuel ethanol to our youth and our liquor-tax revenue must not be underestimated! These things must be eliminated before they result in tragedy! METHANOL NOW!
+</hyperbole>
+Posted by: Engineer-Poet | 15 February 2011 at 03:06 AM
+All liquid ICE will be progressively phased out starting in 2015 or so. By 2040 they will be history. Improved FC may become viable for large vehicles such as long haul trucks, buses and locomotives etc. Cars and small trucks BEVs will be in as soon as batteries or improved to 400+ Kwh/Kg and their cost drop to $100/Kwh or less.
+Posted by: HarveyD | 15 February 2011 at 09:41 AM
+Presumably ReelTroll is an improvement on ReelDumb - nice to see progress in stellar communications.
+Voila, a fifth of vodka for perhaps a quarter.
+In fact using EP's process on a gallon of E85 would yield approximately four fifths of vodka or more likely, corn liquor. 108.8fl oz / 25.6 = 4.25
+We can now thank EP for loss of liquor-tax revenue.
+Posted by: Reel$$ | 15 February 2011 at 11:09 AM
+Many countries are taxing liquid fuel at a rate of $2/gal to $4+/gal. Where would replacement revenues come from when vehicles are electrified? It shouldn't take politicians too long to figure it out. New $0.05+/Kwh Fed tax and new $0.10+/Kwh State tax are on the horizon.
+Paying $1000/year in liquid fuel taxes or $1000/year in e-energy taxes would not make that much difference to most. However, many could produce their own e-power with solar cells to avoid energy taxes or with domestic CHP units to reduce it. Here again, other taxes would have to be increased to compensate. A progressive rise in non-food sale taxes may be necessary.
+Posted by: HarveyD | 15 February 2011 at 11:50 AM
+Presumably ReelTroll is an improvement on ReelDumb
+We'll see if you show enough intelligence to merit the promotion.
+In fact using EP's process on a gallon of E85 would yield approximately four fifths of vodka
+Whoops, you're sinking back to "dumb" territory. Diluting anhydrous ethanol to 80 proof (standard vodka strength) increases the volume by 2.5, so the process would yield ~272 ounces of product per gallon. That's more than 10 fifths for under $2.50.
+We can now thank EP for loss of liquor-tax revenue.
+Uh-oh, blame-shifting... on a problem recognized decades ago and addressed by requirements for ethanol to be "denatured" (never mind how easy it might be to "re-nature"). Misattribution on that level is just plain Dumb.
+(Getting back to the subject, ethanol's critical temperature is even lower than methanol's, so it might make an even better diluent than methanol for Transonic's fuel system. However, that's not one of the product options in the NREL scheme.)
+Posted by: Engineer-Poet | 15 February 2011 at 01:18 PM
+Next »
+Verify your Comment
+Previewing your Comment
+Posted by: |
+This is only a preview. Your comment has not yet been posted.
+Your comment could not be posted. Error type:
+Your comment has been posted. Post another comment
+The letters and numbers you entered did not match the image. Please try again.
+As a final step before posting your comment, enter the letters and numbers you see in the image below. This prevents automated programs from posting comments.
+Having trouble reading this image? View an alternate.
+Post a comment
+Sign in with Typepad Facebook TwitterGoogle+and more...
+You are currently signed in as (nobody). Sign Out
+(You can use HTML tags like <b> <i> and <ul> to style your text.)
+Your Information
+(Name is required. Email address will not be displayed with the comment.)
+Name is required to post a comment
+Please enter a valid email address
+Invalid URL
+This weblog only allows comments from registered users. To comment, please enable JavaScript so you can sign in.
+In Brief
+DOE announces $39M for oil and natural gas R&D projects
+Nidec to acquire OMRON Automotive Electronics
+API: US continues to lead world in natural gas liquids and crude oil production; petroleum demand at strongest level for March since 2005
+China’s rare earth exports increased 61% in March 2019; average unit price down 39%
+BYD delivers electric refuse truck to Carson, CA
+Neste and the City of Oakland partner to fuel the city fleet with waste cooking oil converted to diesel
+Aeva partners with Audi’s AID on next generation autonomous driving tech; 4D LiDAR
+Eaton to introduce new technologies for China’s growing electric vehicle market
+Kia unveils HabaNiro electric concept at New York show
+NEMA to develop standards for vehicle-to-infrastructure communications
+Nikola selects AVL to provide electrification and fuel cell testing equipment for new lab
+Bangchak invests in Enevate; fast-charging EV battery technology
+China’s first hydrogen car sharing project launched; 10,000 Grove H2 cars in 2020-2021
+Volkswagen bringing ID. BUGGY electric dune buggy concept to New York show
+BENTELER and Vibracoustic enter strategic partnership on noise- and vibration-optimized e-chassis solutions
+Taiwan-based Phihong introduces the 7.7kW EV charger in US
+Kia reveals China-exclusive K3 and K3 Plug-in Hybrid at Auto Shanghai 2019
+Lotus to introduce new Type 130 electric hypercar later this year
+Neste and Air BP to deliver sustainable aviation fuel to Sweden
+Keppel and DNV GL team up to promote LNG as a ship fuel
+Tweets from the editor
+Archives
+April 2019
+March 2019
+February 2019
+January 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+More...
+Categories
+3D printing
+48V
+5G
+Additives
+Africa
+AI
+Algae
+Algal Fuels
+Ammonia
+Arctic
+ARPA-E
+Australia
+Auto X-Prize
+Autonomous driving
+Aviation
+B2U
+B2V
+Batteries
+Behavior
+Big Data
+Bio-hydrocarbons
+Bio-hydrogen
+Bio-polymers
+Biobutanol
+Biodiesel
+Biogasoline
+Biomass
+Biomass-to-Liquids (BTL)
+Biomethane
+Biorefinery
+Biotech
+Black carbon
+Blockchain
+Brazil
+Brief
+Canada
+Car Sharing
+Carbon Capture and Conversion (CCC)
+Carbon Capture and Storage (CCS)
+Catalysts
+Cellulosic ethanol
+China
+Cities
+City car
+Climate Change
+Climate Change Adaptation
+Climate models
+Co-Optima
+Coal
+Coal-to-Liquids (CTL)
+Compressed Air Engines
+Concept Engines
+Conferences and other events
+Connected vehicles
+Controls and controllers
+Conversions
+CV2X
+D-I-Y
+Deepwater
+Diesel
+DME
+DMF
+Driver Assistance Systems
+Electric (Battery)
+Emissions
+Engines
+Environmental Justice
+Enzymes
+Ethanol
+Europe
+Exascale computing
+Fleets
+Forecasts
+Friction
+Fuel Cells
+Fuel Efficiency
+Fuels
+Gas-to-Liquids (GTL)
+Gasification
+Geoengineering
+Geothermal
+Graphene
+Green Chemistry
+Health
+Heavy-duty
+High Octane Fuels
+High Performance Computing
+HMI
+Hybrids
+Hydraulic Hybrid
+Hydrogen
+Hydrogen Production
+Hydrogen Storage
+India
+Industry 4.0
+Infrastructure
+Intelligent Transportation Systems (ITS)
+Internet of Things
+Japan
+Land use
+Latin America
+LCFS
+LFG
+Li-O2
+Li-Sulfur
+Lifecycle analysis
+Lighting
+LNG
+Low Temperature Combustion
+LPG
+LSV/NEV
+Lubricating Oils
+Manufacturing
+Mapping
+Market Background
+Materials
+Methanol
+Micro-mobility
+Microprocessors and controls
+Middle East
+Mobility
+Mobility services
+Motors
+Motorsport
+Nanotech
+Natural Gas
+Nuclear
+Ocean acidification
+Off-road
+Oil
+Oil sands
+Oil Shale
+Opinion
+Optima
+Other Asia
+Other Powertrains
+Personal Transit
+Personalities
+Perspective
+Plastics
+Plug-ins
+Polar
+Policy
+Ports and Marine
+Power Electronics
+Power Generation
+Power-to-Gas
+Power-to-Liquids
+Powertrain materials
+Quantum computing
+Racing
+Rail
+Recycling
+Regulations
+Research
+Resilience
+Resources
+Ridesharing
+Robotics
+Russia
+Safety
+Sales
+Science
+Security
+Sensors
+Simulation
+Smart charging
+Smart Grid
+Solar
+Solar fuels
+Solid-state
+SSVs
+Standards
+Surveys
+Sustainability
+SVO
+Synthetic Biology
+TEF
+Telematics
+Thermoelectrics
+Tires
+Transmissions
+Trials
+Urban mobility
+V2X
+Vehicle Dynamics
+Vehicle Manufacturers
+Vehicle Systems
+Waste Heat Recovery
+Water
+Wave and Tidal
+Weight reduction
+Wind
+Wireless
+See More
+Green Car Congress © 2004-2019 BioAge Group, LLC. All Rights Reserved.
+Top

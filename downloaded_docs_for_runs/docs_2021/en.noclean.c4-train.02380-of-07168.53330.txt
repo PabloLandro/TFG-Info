@@ -1,0 +1,275 @@
+Meeting patient expectations in migraine treatment: what are the key endpoints? | The Journal of Headache and Pain | Full Text
+Skip to content
+Advertisement
+Menu
+Explore journals
+Get published
+About BMC
+Search
+Login My Account
+Search all BMC articles
+Search
+The Journal of Headache and Pain
+Menu
+Home
+About
+Articles
+Submission Guidelines
+Table of Contents
+Abstract
+Introduction
+Acute endpoints in migraine treatment
+Pain severity and timing of treatment intake
+How do the AwM study endpoints meet patient expectations?
+Other endpoint measures and migraine assessments
+Conclusion
+Declarations
+References
+Review
+Open Access
+Meeting patient expectations in migraine treatment: what are the key endpoints?
+Fabio Antonaci1, 2Email author,
+Grazia Sances2,
+Elena Guaschino2,
+Ilaria De Cillis2,
+Giorgio Bono1 and
+Giuseppe Nappi2
+The Journal of Headache and Pain20089:52
+https://doi.org/10.1007/s10194-008-0052-8
+© Springer-Verlag 2008
+Received: 26 May 2008
+Accepted: 11 June 2008
+Published: 8 July 2008
+Abstract
+Clinical outcomes of migraine treatment are generally based on two major endpoints: acute pain resolution and effects on quality of life (QOL). Resolution of acute pain can be evaluated in a number of ways, each increasingly challenging to achieve; pain relief, pain freedom at 2 h, sustained pain-freedom, and SPF plus no adverse events (SNAE, the most challenging). QOL questionnaires help assess the burden of migraine and identify optimal treatments. Pain resolution and improved QOL form the basis of the ultimate target—meeting patient expectations, to achieve patient satisfaction. To achieve this, it is crucial to choose appropriate endpoints that reflect realistic treatment goals for individual patients. Moreover, SNAE can help discriminate between triptans, with almotriptan having the highest SNAE score. Kaplan–Meier plots are also relevant when evaluating migraine treatments. The use of symptomatic medication may lead to the paradoxical development of medication-overuse headache. In general practice, patients should use simple tools for pain measurement (e.g. headache diary) and a QOL questionnaire. A composite endpoint of pain resolution and QOL restoration would constitute a step forward in migraine management.
+Keywords
+Migraine treatment
+Outcome
+Quality of life
+Introduction
+Migraine, other primary headaches, and chronic headache from overuse of medication have a major impact on sufferers and on society because of their high prevalence in both young people and adults and their negative consequences in terms of quality of life and work performance.
+Migraine, as defined by the International Headache Society [1], affects about 18% of women and 6% of men in the United States [2, 3]. The intensity and duration of symptoms render many migraine sufferers unable to function or to perform work and leisure activities [3, 4]. Migraine has long been recognised as a major cause of work absenteeism and impaired productivity [5, 6] and productivity losses for migraine patients have been well documented [7].
+No large studies have directly assessed patient satisfaction related to the treatment of migraine in primary care, partly because there are no objective endpoints for pain which is, by its nature, subjective. The classical approaches are based on two major endpoints: resolution of acute pain and effects on quality of life.
+Traditionally the effects of symptomatic treatments are assessed by rating pain intensity, attack duration, and the presence/absence of accompanying symptoms. This information is obtained only retrospectively by interviewing the patient or using a headache diary.
+Patient satisfaction with migraine treatment requires the rapid onset of pain relief, early complete relief, sustained pain freedom, relief of associated symptoms, consistent pain relief across attacks, the absence of side effects, a fast return to normal functioning and reduced disruption of daily activities [8].
+Acute endpoints in migraine treatment
+The advent of triptans, which are highly effective drugs for migraine treatment, stimulated the introduction of new endpoints for assessing migraine treatments. These include: (1) degree of pain relief (PR), (2) pain freedom at 2 h (PF), (3) sustained pain freedom (SPF = pain free at 2 h plus no use of rescue medication and no recurrence within 24 h) and (4) sustained pain freedom associated with no adverse events (SNAE) [9]. These endpoints allow us to measure treatment effects at different levels that are increasingly challenging to achieve. However, the choice of endpoint needs to reflect outcomes that are realistically achievable in individual patients, according to their illness profile. Each of these endpoints will be considered in turn, to examine their relative strengths and limitations as tools to assist in the measurement of outcomes relevant to patient expectations, and ultimately patient satisfaction.
+Pain relief at 2 h measures the percentage of patients whose migraine pain intensity changes from moderate or severe prior to the start of treatment to mild or no pain after 2 h. However, even though pain relief is a desirable outcome, PR is an imprecise measurement because it combines patients who are pain free with those who have residual mild pain at 2 h.
+Pain freedom at 2 h (2-h PF), on the other hand, requires all patients to be pain free at 2 h after dosing, regardless of baseline pain, and as such is a more robust outcome measure. Nevertheless, 2-h PF takes no account of what happens after 2 h. This is an important issue when comparing two treatments because, while both may have a high 2-h PF rate, one may be associated with a greater recurrence between 2 and 24 h after dosing. Thus, this outcome measure is unable to distinguish between treatments for an attribute which is sought by patients, namely sustained pain relief.
+Sustained pain freedom (SPF) addresses the limitations of the 2-h PF endpoint, and is now widely regarded as an outcome that more closely represents patient expectations. This is because it encompasses 2-h PF, but extends the requirements such that no rescue medication and no headache recurrence between 2 and 24 h after dosing are allowed.
+SPF with no adverse events (SNAE) goes a step further, taking into account tolerability in addition to the efficacy of treatments.
+Pain severity and timing of treatment intake
+This issue of pain severity raises another important consideration; timing of treatment intake in relation to the time of onset of the migraine attack.
+Traditionally, patients are instructed to take medication when their baseline pain has reached moderate-severe intensity. This is particularly the case in classical clinical trials because it allows measurement of changes from a high baseline, which increases the likelihood of distinguishing between treatments, notably between active and placebo interventions. This is relevant because the placebo-response in migraine patients is usually high [9, 10].
+Moreover, outside the clinical trial setting patients often wait until their headache has reached moderate-severe intensity before starting treatment. They do this for a variety of reasons. One study found that most commonly it was because patients wanted to wait and see if it was really a migraine attack, or only wanted to take medication if it was a severe attack [11]. Other reasons patients gave included concerns about side effects, concerns about drug effectiveness if it was taken too frequently, and worries about the risk of becoming dependent on the drug [11].
+In contrast, the ‘Act when Mild’ paradigm advocates the intake of migraine medication before acute pain has reached moderate-severe intensity and/or as soon as possible after the onset of symptoms [12]. This paradigm is supported by a growing body of evidence [12]. In particular, the Act when Mild (AwM) study with almotriptan 12.5 mg provides the most recent and most robust evidence that the early intake of medication (i.e. while migraine pain is still mild, and within 1 h of onset of the migraine attack) is associated with important benefits compared with delaying intake until pain has reached moderate-severe intensity [12]. Table 1 summarises how the AwM study outcomes address patient expectations of treatment. Compared with delaying intake of medication, taking almotriptan 12.5 mg early—before the acute attack has peaked—is more likely to provide outcomes that meet most of patient expectations.
+Table 1
+How the AwM study results meet patient expectations. Adapted from [12]
+Patients-sought attribute of treatment
+AwM study outcome variables (still mild vs. moderate-severe)a
+1. Complete relief
+1. Increased 2 h pain-free status
+2. Fast onset of pain relief
+2. Shorter duration of migraine attack
+3. Rapid restoration of normal functioning
+3. Faster achievement of pain-free status
+4. Relief of associated symptoms
+4. Early pain relief within 0–2 hb
+5. No recurrence
+5. Reduced duration of migraine pain
+6. Absence of side effects
+6. Less time lost in daily activities
+7. Reduced nausea, vomiting, phono-photo- and osmophobia
+8. Higher sustained pain-free state
+9. Less use of rescue medication
+10. Placebo-like safety and tolerability
+aPoints 1 and 3 column on the right show only a trend to significance, points 4, 7, 9 not covered in [12] but could be evidence
+bMeasured in mild-moderate pain for almotriptan versus placebo
+How do the AwM study endpoints meet patient expectations?
+The limited ability of different endpoints to distinguish between treatments is illustrated in a recent paper by Ferrari and colleagues about a meta-analysis of 53 triptan studies involving over 24,000 migraine patients (Table 2) [13]. The endpoints used in this meta-analysis were pain relief at 2 h, SPF, consistency of effect over more than one migraine attack, and tolerability. Several features of this meta-analysis are notable. First, comparisons were made between sumatriptan 100 mg as the point of reference and 5 other triptans—almotriptan, eletriptan, naratriptan, rizatriptan, and zolmitriptan. Secondly, a tendency to a dose–response pattern was apparent for sumatriptan, eletriptan, and rizatriptan across the different endpoints. The outcomes for pain relief and SPF were generally similar for each individual triptan, suggesting either that there was consistency across treatments for these endpoints, or that neither of these endpoints was sensitive enough to distinguish differences between the drugs. There were greater differences between triptans for tolerability, assessed as adverse events, than for measures of efficacy [13]. This is an important observation, because ‘absence of side effects’ is a key treatment attribute sought by migraine patients. Therefore, the composite endpoint of SPF plus no adverse events (SNAE) has been proposed as a relevant outcome measure [9]. This is the most challenging endpoint to achieve because it combines multiple outcome criteria, namely 2-h PF, plus no use of rescue medication, plus no recurrence within 24 h of dosing, plus the absence of side effects.
+Table 2
+Comparison of triptan outcomes with sumatriptan 100 mg
+Pain relief at 2 h
+Sustained pain free
+Consistency
+Tolerability
+Sumatriptan 25 mg
+−
+−/=
+−
++
+Sumatriptan 50 mg
+=
+=
+−/=
+=
+Almatriptan 12.5 mg
+=
++
++
+++
+Eletriptan 20 mg
+−
+−
+−
+=
+Eletriptan 40 mg
+=/+
+=/+
+=
+=
+Eletriptan 80 mg
++
++
+=
+−
+Naratriptan 2.5 mg
+−
+−
+−
+++
+Rizatriptan 5 mg
+=
+=
+=
+=
+Rizatriptan 10 mg
++
++
+++
+=
+Zolmitriptan 2.5 mg
+=
+=
+=
+=
+Zolmitriptan 5 mg
+=
+=
+=
+=
+Derived from a meta-analysis of 53 trials involving 24,089 patients [12]. Data for frovatriptan unavailable. Reprinted from Ferrari et al. (2001)Lancet 358:1668–1675. With permission
+− Inferior to Sumatriptan 100 mg, = equivalent to Sumatriptan 100 mg, + superior to Sumatriptan 100 mg
+The SNAE is the most challenging endpoint to achieve can be seen from a recent analysis of comparative outcomes of treatment with almotriptan 12.5 mg in triptan-naive (TrN) versus triptan-experienced (TrE) migraine patients (Fig. 1) [14]. This was a post hoc analysis in migraine patients with moderate-severe pain intensity at the time of treatment, in which the endpoints of 2-h pain relief, 2-h PF, SFP and SNAE were analysed. The results indicated that although SNAE is the most challenging outcome, approximately one-third of patients treated with almotriptan 12.5 mg achieved it. Moreover, this was the case whether patients were TrN or TrE, indicating a high level of benefit from almotriptan regardless of triptan history. However, this analysis has a limited value due to the absence of a comparator group.
+Fig. 1
+Almotriptan in triptan-naive versus experienced patients (treated with almotriptan 12.5 mg) after Pascual et al. [14] with permission. 2-h PR pain relief at 2 h, 2-h PF pain-free at 2 h, 2-h SPF sustained pain-free at 2–24 h without rescue medication, SNAE sustained pain-free and no AEs, Recur headache recurrence at 24 h, Rescue rescue medication 2–24 h, AE adverse event
+In order to address this point, we can consider the influence of SNAE on the outcomes reported in the meta-analysis of Ferrari and colleagues [13]. Based on SPF and AE rates calculated for different triptans, eletriptan 20 mg was associated with the lowest SPF rate (although this is attributable to the fact that this is now recognised as a sub-therapeutic dose), and almotriptan 12.5 mg had the highest SPF rate [9]. Eletriptan 80 mg, a higher-end dose of this triptan, was associated with the highest incidence of AEs, and almotriptan 12.5 mg the lowest incidence (Fig. 2).
+Fig. 2
+SPF versus adverse event rates for different triptans. Derived from a meta-analysis of 53 trials involving 24,089 patients [9]. Data for frovatriptan unavailable. After Dodick et al. (2007)CNS Drugs 21 (1):73–82 with permission. A Almotriptan, E eletriptan, N naratriptan, R rizatriptan, Z zolmitriptan
+Expressing these data graphically shows a clear pattern of a dose–response effect for sumatriptan, eletriptan, rizatriptan, and zolmitriptan for both SPF and AE (Fig. 2). It is also clear from this graph that almotriptan 12.5 mg is an outlier because of its high efficacy combined with its good tolerability. Statistical analysis and logistic regression confirmed that higher SPFs were strongly associated with higher AE rates, with the notable exception of almotriptan 12.5 mg [9]. Using these data, SNAE was calculated for each triptan dose under the base-case assumption of independence between efficacy and tolerability. The highest SNAE rate was for almotriptan 12.5 mg (22.2%). The analysis also showed that almotriptan had an 88% probability of being superior to sumatriptan 100 mg in terms of SNAE across all values for the efficacy–tolerability relationship for these triptans. The SNAE therefore not only incorporates treatment attributes that are relevant to patient satisfaction, but is also a useful measure for discriminating between migraine therapies.
+Other endpoint measures and migraine assessments
+As well as the use of ‘traditional’ endpoints to assess outcomes of migraine treatment, a number of other issues need to be considered in order to provide a broader picture of patient progress.
+Headache-related disability associated with migraine is poorly recognised in clinical practice, often leading to the use of ineffective care strategies, and an apparently poor outcome. Evaluation of the level of migraine-related disability is crucial to enable effective treatment decisions to be made; for example, between stepped care versus stratified care, as described by Diener et al. [15].
+As migraine is a chronic illness, recurrent attacks can have a negative impact on health-related QOL (HRQOL) because each attack, as well as the anticipation of an attack, can interfere with a migraineur’s ability to work, enjoy daily activities and interact socially. Therefore, measurement of HRQOL in migraine patients is needed to provide a more complete picture of the progress of the patient beyond the clinical symptoms associated with migraine.
+Medication-overuse headache (MOH) can develop from frequent, and sometimes excessive, use of pain medications. It is important, then, that with the availability of a variety of migraine medications, both over-the-counter and on prescription, a record of medication use is kept. This can help identify or discount MOH as a contributory factor to headache recurrence in migraineurs, which is important as otherwise MOH may limit optimal outcomes.
+Lastly, Kaplan–Meier plots, sometimes called survival curves, can be used as a graphically visual display of pain outcomes in migraineurs that can be relevant when evaluating different interventions.
+These measures will be considered in more detail.
+Disability
+The Migraine Disability Assessment (MIDAS) Questionnaire was developed to assist rational treatment decisions and evaluate progress [16]. Migraine sufferers answer five questions that assess time lost in days due to headaches in three domains covering the previous 3-month period. The three domains include employment (paid work or school), household work, and family/social/leisure activities. The MIDAS score is the sum of the answers to the five questions. Another two questions (A & B) are not scored but provide the physician with clinically relevant information on attack frequency and pain severity.
+Its ease, simplicity, high consistency and reliability support the use of the MIDAS Questionnaire in everyday clinical practice. The MIDAS grades provide an intuitive means of representing headache-related disability. MIDAS is an effective tool to improve communication between patients and healthcare professionals. As it assesses headache-related disability and provides information on headache frequency and pain intensity, it can be used to increase awareness of, and highlight problems associated with, migraine. MIDAS can be used as a screening tool to help physicians provide appropriate treatment at the patient’s initial consultation based on level of disability. Patients who present with a high MIDAS score may require referral to specialist physicians for a more detailed diagnosis.
+The change in MIDAS score during treatment can also be used to monitor therapeutic response to treatment and patient progress over time. MIDAS can be used to support public health initiatives, such as evaluating the true extent and costs of migraine, which may be underestimated by healthcare professionals and payers.
+HRQOL
+The use of HRQOL as an endpoint measure of migraine treatment is based on the presence of a wealth of literature describing the effect of the chronic nature of migraine on HRQOL [17, 18]. Its high burden has been likened to that of osteoarthritis and diabetes mellitus, and the high prevalence of migraine adds to the socioeconomic burden [17, 18].
+Two types of questionnaire have been used to measure HRQOL: general and disease-specific instruments. General QOL scales assess a number of activities within physical, social, psychological and behavioural life domains. Disease-specific instruments reflect particular limitations or restrictions associated with specific disease states [9] and can evaluate changes over time. There are three main instruments: migraine diaries, migraine-specific HRQOL instruments and the Short Form Health Survey (SF-36).
+With the migraine diary one can rate headache severity (none, mild, moderate, severe) functional disability (none, mild, severe, bed rest) and associated symptoms (nausea, vomiting, photo/phonophobia). Paper and electronic diaries are available [19].
+Migraine-specific HRQOL (MS-HRQOL) instruments are available to evaluate changes over time in work and social functioning, energy/vitality, symptoms and feelings/concerns. While these outcomes are not acute symptom-specific, they measure the effect on QOL of changes in symptoms across multiple attacks over time, and so enable a longer term perspective of the wider effects of a treatment paradigm to be assessed [20, 21].
+TheShort-Form Health Survey (SF-36) is a general health survey questionnaire (i.e. not migraine-specific) consisting of eight domains, each scored from 0 (worst possible outcome) to 100 best possible outcome [22]. Completion of the SF-36 at specified intervals throughout the course of the migraine illness can monitor changes in QOL over time and so identify areas that may require closer clinical attention that would not be identified using traditional acute symptomatic endpoints [10].
+However, just how sensitive these QOL instruments are at detecting clinically significant changes over time is not entirely clear and, although these instruments are useful endpoints for migraine clinical trials, their role in clinical practice is yet to be established [12].
+Medication-overuse headache
+Another issue that can influence endpoints in migraine treatment is MOH [1]. The 2004 International Headache Society criteria guidelines state that MOH can be associated with the use of simple analgesics (aspirin or paracetamol), combination analgesics (containing caffeine, codeine or barbiturates), opioids, ergotamine or triptans, if taken for more than 10 days (15 days for simple analgesics) in more than 3 months.
+Medication-overuse headache is currently a ‘hot topic’ in migraine treatment, not least because several issues associated with MOH can have an impact on migraine treatment endpoints. There is current ongoing debate about whether medication overuse is a cause or a consequence of chronic daily headache. The incidence and prevalence of MOH is not clear, because the definitions of MOH have, until recently, been unclear. Moreover, physician–patient communication is not always at a level that identifies this issue, since a diagnosis of MOH can only be made after the patient has stopped taking the medication. Susceptible individuals have a pre-existing episodic headache condition (most frequently migraine or tension-type headache) and the frequent (maybe daily) use of the analgesics referred to earlier ‘transforms’ the headache into one that occurs daily.
+The characteristics of MOH include an increased frequency of headaches over time (without the patient being aware), waking with a headache in the morning which was not a feature of the original headache type, headache lacking features specific to migraine or tension-type headache, and headache occurring more easily after stress or exertion so that greater doses of medication are required to alleviate the headache. In addition, headaches recur within a predictable period after the last dose of medication, usually with reduced efficacy.
+The goals of management in MOH are to identify any comorbid conditions driving the MOH, educate the patient, withdraw daily treatment (to restore an episodic headache pattern), and (re)establish an effective treatment strategy with acute and preventative medications [23–25].
+Displaying endpoints
+Finally, differing methods of displaying study endpoints can provide different views of the results. The data on duration of migraine attack presented by de Klippel for the AwM study provide an example [11]. Using a traditional bar chart, the mean duration was significantly shorter if almotriptan was taken when pain was still mild and within 1 h of pain onset compared with delaying treatment until pain was moderate-severe (2 vs. 5 h, P < 0.0005) (Fig. 3a).
+Fig. 3
+Choice of method of endpoint display. Data from AwM study: duration of migraine attack for early treatment (still mild) versus delayed treatment (moderate-severe) [12]. After De Klippel. a Bar chart. b Kaplan–Meier plot
+However, displaying the results in this way tells us nothing about the evolution of differences over time. In contrast, if the results are displayed as a Kaplan–Meier plot (Fig. 3b), this alternative visual display enables us to see the evolution of the differences over time, which emphasises the benefits of the early intervention in migraine.
+Conclusion
+Traditional acute endpoints that evaluate migraine treatment need to be selected to best reflect individual patient expectations. Of these endpoints, SNAE appears to be the most challenging but also the most discriminating. To provide a complete picture, additional endpoints need to be taken into account. For example, the impact of migraine-related disability (e.g. MIDAS), the effect on HRQOL (e.g. MS-HRQOL, SF-36), and the risk and consequences of medication overuse should be considered. In addition, consideration should be given to the visual impact of endpoint displays; an appropriate figure can provide an intuitively simple overview of progress. For example, Kaplan–Meier plots can visually differentiate between interventions over time. In the future, a composite endpoint of pain resolution and QOL restoration would constitute a step forward in migraine management.
+Declarations
+Conflict of interest
+None.
+Authors’ Affiliations
+(1)
+University Centre for Adaptive Disorders and Headache (UCADH), Section of Varese, Pavia, Italy
+(2)
+Headache Centre, IRCCS “C. Mondino Foundation”, Pavia, Italy
+References
+Headache Classification Committee of the International Headache Society (2004) The International Classification of Headache Disorders, 2nd edn. Cephalalgia 24 Suppl 1:1–160Google Scholar
+Lipton RB, Stewart WF, Von KM (1997) Burden of migraine: societal costs and therapeutic opportunities. Neurology 48:S4–S9 9071263, 1:STN:280:ByiB38vovFQ%3DView ArticlePubMedGoogle Scholar
+Lipton RB, Stewart WF, Diamond S et al (2001) Prevalence and burden of migraine in the United States: data from the American Migraine Study II. Headache 41:646–657 11554952, 10.1046/j.1526-4610.2001.041007646.x, 1:STN:280:DC%2BD3MrhtVKjtg%3D%3DView ArticlePubMedGoogle Scholar
+Mannix LK (2001) Epidemiology and impact of primary headache disorders. Med Clin North Am 85:887–895 11480263, 10.1016/S0025-7125(05)70349-7, 1:STN:280:DC%2BD3MvjtlWqtw%3D%3DView ArticlePubMedGoogle Scholar
+Von KM, Stewart WF, Simon DJ et al (1998) Migraine and reduced work performance: a population-based diary study. Neurology 50:1741–1745View ArticleGoogle Scholar
+Hu XH, Markson LE, Lipton RB et al (1999) Burden of migraine in the United States: disability and economic costs. Arch Intern Med 159:813–818 10219926, 10.1001/archinte.159.8.813, 1:STN:280:DyaK1M3jsFegsA%3D%3DView ArticlePubMedGoogle Scholar
+Lipton RB, Diamond S, Reed M et al (2001) Migraine diagnosis and treatment: results from the American Migraine Study II. Headache 41:638–645 11554951, 10.1046/j.1526-4610.2001.041007638.x, 1:STN:280:DC%2BD3MrhtVKjsQ%3D%3DView ArticlePubMedGoogle Scholar
+Edmeads J (2005) Defining response in migraine: which endpoints are important? Eur Neurol 53 Suppl 1:22–28 15920334, 10.1159/000085038View ArticlePubMedGoogle Scholar
+Dodick DW, Sandrini G, Williams P (2007) Use of the sustained pain-free plus no adverse events endpoint in clinical trials of triptans in acute migraine. CNS Drugs 21(1):73–82 17190530, 10.2165/00023210-200721010-00006, 1:CAS:528:DC%2BD2sXislClur8%3DView ArticlePubMedGoogle Scholar
+Antonaci F, Chimento P, Diener HC et al (2007) Lessons from placebo effects in migraine treatment. J Headache Pain 8:63–66 17361384, 10.1007/s10194-007-0360-4PubMed CentralView ArticlePubMedGoogle Scholar
+Foley KA, Cady R, Martin V et al (2005) Treating early versus treating mild: timing of migraine prescription medicatons among patients with diagnosed migraine. Headache 45(5):538–4511 15953272, 10.1111/j.1526-4610.2005.05107.xView ArticlePubMedGoogle Scholar
+Goadsby PJ, Zanchin G, Geraud G, de Klippel N, Diaz-Insa S, Gobel H, Cunha L, Ivanoff N, Falques M, Fortea J (2008) Early vs. non-early intervention in acute migraine ‘Act when Mild (AwM)’. A double-blind, placebo-controlled trial of almotriptan. Cephalalgia (in press)Google Scholar
+Ferrari MD, Roon KI, Lipton RB et al (2001) Oral triptans—serotonin 5-HT(1B/1D) agonists—in acute migraine treatment: a meta-analysis of 53 trials. Lancet 358(9294):1668–1675 11728541, 10.1016/S0140-6736(01)06711-3, 1:CAS:528:DC%2BD3MXos1ajsro%3DView ArticlePubMedGoogle Scholar
+Pascual J (2008) Almotriptan in triptan-naïve patients: new evidence of benefits, Cephalalgia (in press)Google Scholar
+Dodick Diener HC, DW Goadsby PJ et al (2008) Identification of negative predictors of pain-free response to triptans: analysis of the eletriptan database. Cephalalgia 28(1):35–40 17941878, 10.1111/j.1468-2982.2008.01617.xPubMedGoogle Scholar
+Stewart WF, Lipton RB, Dowson AJ et al. (2001) Development and testing of the Migraine Disability Assessment (MIDAS) Questionnaire to assess headache-related disability. Neurology 56 (6 Suppl 1):S20–S28 11294956, 1:STN:280:DC%2BD3M3ivVGntA%3D%3DView ArticlePubMedGoogle Scholar
+Brna P, Gordon K, Dooley J et al (2007) Health-related quality of life among Canadians with migraine. J Headache Pain 8(1):43–48 17361382, 10.1007/s10194-007-0320-4PubMed CentralView ArticlePubMedGoogle Scholar
+Rozen TD, Swanson JD, Stang PE et al (1999) Increasing incidence of medically recognized migraine headache in a United States population. Neurology 53:1468–1473 10534253, 1:STN:280:DC%2BD3c%2FgtFyhsg%3D%3DView ArticlePubMedGoogle Scholar
+Nappi G, Jensen R, Nappi RE et al (2006) Diaries and calendars for migraine: a review. Cephalalgia 26(8):905–916 16886925, 10.1111/j.1468-2982.2006.01155.x, 1:STN:280:DC%2BD28rgt12ltQ%3D%3DView ArticlePubMedGoogle Scholar
+Hartmaier SL, Santanello NC, Epstein RS et al (1995) Development of a brief 24-hour migraine-specific quality of life questionnaire. Headache 35(6):320–329 7635717, 10.1111/j.1526-4610.1995.hed3506320.x, 1:STN:280:ByqA283lt1E%3DView ArticlePubMedGoogle Scholar
+Santanello NC, Hartmaier SL, Epstein RS et al (1995) Validation of a new quality of life questionnaire for acute migraine headache. Headache 35(6):330–337 7635718, 10.1111/j.1526-4610.1995.hed3506330.x, 1:STN:280:ByqA283lt1I%3DView ArticlePubMedGoogle Scholar
+Ware JE Jr, Sherbourne CD (1992) The MOS 36-item short-form health survey (SF36). Med Care 30:473–483 1593914, 10.1097/00005650-199206000-00002View ArticlePubMedGoogle Scholar
+Gladstone J, Eross E, Dodick D (2003) Chronic daily headache: a rational approach to a challenging problem. Semin Neurol 23(3):256–276Google Scholar
+Dowson AJ, Dodick DW, Limroth V (2005) Medication overuse headache in patients with primary headache disorders: epidemiology, management and pathogenesis. CNS Drugs 19(6):483–497 15962999, 10.2165/00023210-200519060-00002View ArticlePubMedGoogle Scholar
+Saper JR (2005) Editorial to the guidelines for trials of behavioral treatments for recurrent headache. Headache 45(Suppl 2):S90–S91 15921505, 10.1111/j.1526-4610.2005.4502002.xView ArticlePubMedGoogle Scholar
+Copyright
+© Springer-Verlag 2008
+Comments
+By submitting a comment you agree to abide by our Terms and Community Guidelines. If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate. Please note that comments may be removed without notice if they are flagged by another user or do not comply with our community guidelines.
+Download PDF
+Download ePub
+Export citations
+Papers, Zotero, Reference Manager, RefWorks (.RIS)
+Download Citations
+Download References
+Download Both
+EndNote (.ENW)
+Download Citations
+Download References
+Download Both
+Mendeley, JabRef (.BIB)
+Download Citations
+Download References
+Download Both
+Metrics
+Share this article
+Share on Twitter
+Share on Facebook
+Share on LinkedIn
+Share on Weibo
+Share on Reddit
+Get shareable link
+Other Actions
+Order reprint
+Advertisement
+The Journal of Headache and Pain
+ISSN: 1129-2377
+Contact us
+Submission enquiries: Access here and click Contact Us
+General enquiries: info@biomedcentral.com
+Read more on our blogs
+Receive BMC newsletters
+Manage article alerts
+Language editing for authors
+Scientific editing for authors
+Policies
+Accessibility
+Press center
+Support and Contact
+Leave feedback
+Careers
+Follow BMC
+BMC Twitter page
+BMC Facebook page
+BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2019 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

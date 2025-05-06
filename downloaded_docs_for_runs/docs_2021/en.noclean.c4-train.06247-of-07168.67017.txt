@@ -1,0 +1,134 @@
+Sumatriptan: uses, dosage, warnings, side effects
+Search
+Conditions
+Conditions
+Cancer
+Depression
+Diabetes
+Digestive Health
+Healthy Living
+Healthy Living
+Fitness
+Mental Health
+Wellbeing
+Healthy Eating
+Healthy Eating
+All Recipes
+Breakfasts
+Main Courses
+Starters and snacks
+Desserts
+Medicines
+Medicines
+Aches and Pains
+ADHD
+Allergy and Asthma
+Brain and Nervous system
+Cancer
+Depression
+Privacy Notice
+Cookies Policy
+Mental health
+Healthy Eating
+Family health
+Conditions
+Follow
+Type keyword(s) to search
+Sumatriptan: uses, dosage, warnings, side effects
+Everything you need to know about using sumatriptan to relieve migraines and cluster headaches
+By Helen Marshall
+22/11/2016
+What is sumatriptan used for?
+Sumatriptan tablets, injection and nasal spray are used to relieve migraine attacks and cluster headaches.
+How does sumatriptan work?
+Sumatriptan is a type of medicine called a serotonin (or 5HT) agonist, more commonly known as a 'triptan'. These are painkillers specifically used to relieve migraine attacks.
+The cause of migraine attacks is not fully understood, but is thought to involve changes in the levels of chemicals in the brain. The throbbing pain of migraine headaches is a result of blood vessels in the brain widening or swelling.
+Sumatriptan acts on serotonin (or 5HT) receptors that are found on blood vessels in the brain, causing them to narrow. It's also thought to inhibit the action of the trigeminal nerve. These actions relieve the headache and other symptoms that you may get with your migraine, such as feeling sick or sensitivity to light or sound.
+How long does sumatriptan take to work?
+This depends how you take it.
+Sumatriptan tablets start to work about 30 minutes after taking a dose. Imigran Radis tablets are a brand of sumatriptan tablet that starts to work faster than standard tablets, because they disintegrate faster in the stomach.
+Sumatriptan nasal spray starts to work within about 15 minutes of administering a dose into the nose. The medicine is absorbed into the bloodstream through the blood vessels in the nasal lining.
+Sumatriptan injection starts to work 10 to 15 minutes after injecting a dose under the skin.
+What should I know before using sumatriptan?
+Sumatriptan shouldn't be used to prevent migraines or cluster headaches - it won't work for this. It will only relieve these types of headache once they've started. There's no point in taking sumatriptan during the aura phase of a migraine because it won't prevent the headache developing.
+You may get feelings of warmth, heaviness, pressure, tightness or pain in certain parts of the body, including the chest or throat after having a dose of sumatriptan. Although sometimes very strong, these feelings usually only last a few minutes. If they continue for more than two hours or are particularly severe (especially chest pain), you should get advice from a doctor immediately, as there have been extremely rare reports of such problems being caused by a heart attack. Do NOT take any further doses; your doctor will decide if you should stop using sumatriptan.
+Sumatriptan may cause drowsiness. If affected do not drive or operate machinery.
+How do I take sumatriptan?
+Who shouldn't use sumatriptan?
+What are the possible side effects of sumatriptan?
+Can I use sumatriptan with other medicines?
+Which medicines contain sumatriptan?
+Sumatriptan tablets and injection are available without a brand name, ie as the generic medicine.
+Sumatriptan is also available under the following brand names:
+Boots migraine relief tablets (available to buy from Boots pharmacies).
+Imigran nasal spray.
+Imigran radis tablets.
+Imigran recovery tablets (available to buy from pharmacies).
+Imigran subject injection.
+Imigran tablets.
+Migraitan tablets (available to buy from pharmacies).
+Last updated: 22.11.2016
+Helen Marshall NetDoctor Pharmacist Helen is a UK registered pharmacist with a background in hospital pharmacy.
+Advertisement - Continue Reading Below
+<% if (product.show_price && product.priceNoSymbol > 0) { %>
+(% off)
+<% var showPrice = item.data.content_product_review.product_review.show_price && (item.data.content_product_review.product_review.retailer.price > 0 || item.data.content_product_review.product_review.product.is_custom) %>
+(% off)
+rel="" >
+<%= item.data.dek.replace(/<p>/g, '<p class="item-info-dek">') %>
+More From Aches and Pains
+Can I take ibuprofen with other medicines?
+How do I take ibuprofen and what is the dose?
+Advertisement - Continue Reading Below
+Who can andcan't take ibuprofen?
+What are the side effects of ibuprofen?
+Ibuprofen: an anti-inflammatory painkiller
+Can I take other medicines with naproxen?
+What are the side effects of naproxen?
+How do you take naproxen?
+Naproxen (Naprosyn)
+Day nurse
+Aches and Pains
+Medicines
+Lorazepam: uses, dosage, warnings and side effects
+Lisinopril: uses, dosage, side effects and warnings
+Metoprolol: uses, dose, warnings, side effects
+Tamsulosin: uses, dosage, side-effects, warnings
+Dexamethasone: uses, dosage, side effects, warnings
+Nifedipine: uses, dosage, side effects and brand information
+Sumatriptan
+Prescription-only medicine
+Sexual Health
+Depression
+Beauty
+Weight Loss
+Procedures
+Healthy Living
+Ask the expert
+Healthy Eating
+Parenting
+Health Services
+Recipes
+Better Skin
+NetDoctor, part of the Hearst UK wellbeing network Netdoctor participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+©2019 Hearst UK is the trading name of the National Magazine Company Ltd, 30 Panton Street, Leicester Square, London, SW1Y 4AJ. Registered in England. All Rights Reserved
+About Netdoctor
+Disclaimer
+Terms & Conditions
+Privacy Notice
+Cookies Policy
+Contact
+Complaints
+Sitemap
+data-srcset="" />
+Created for Created by for Presented by Created by
++
+Created for Created by for Presented by Created by
++
+data-srcset="" />
+<% if (data.length > lowSlideCount) { %>
+of
+<%= item.data.dek.replace(/<img(.*?)>/g, '').replace(/
+/g, '
+') %>
+<% if (data.length > lowSlideCount) { %>

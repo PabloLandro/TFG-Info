@@ -1,0 +1,292 @@
+Sodium bicarbonate - Wikipedia
+Open main menu
+Search
+Sodium bicarbonate
+(Redirected from Baking soda)
+Read in another language
+Watch this page
+Edit
+Sodium bicarbonate (IUPAC name: sodium hydrogen carbonate), commonly known as baking soda, is a chemical compound with the formula NaHCO3. It is a salt composed of a sodium cation (Na+) and a bicarbonate anion (HCO3−). Sodium bicarbonate is a white solid that is crystalline, but often appears as a fine powder. It has a slightly salty, alkaline taste resembling that of washing soda (sodium carbonate). The natural mineral form is nahcolite. It is a component of the mineral natron and is found dissolved in many mineral springs.
+Sodium bicarbonate
+Names
+IUPAC name
+Sodium hydrogen carbonate
+Other names
+Baking soda, bicarb (laboratory slang), bicarbonate of soda, nahcolite
+Identifiers
+CAS Number
+144-55-8 Y
+3D model (JSmol)
+Interactive image
+Beilstein Reference
+4153970
+ChEBI
+CHEBI:32139 Y
+ChEMBL
+ChEMBL1353 Y
+ChemSpider
+8609 Y
+DrugBank
+DB01390 Y
+ECHA InfoCard 100.005.122
+EC Number 205-633-8
+E number E500(ii) (acidity regulators, ...)
+IUPHAR/BPS
+4507
+KEGG
+C12603 Y
+MeSH Sodium+bicarbonate
+PubChem CID
+516892
+RTECS number VZ0950000
+UNII
+8MDF5V39QO Y
+InChI
+InChI=1S/CH2O3.Na/c2-1(3)4;/h(H2,2,3,4);/q;+1/p-1 Y
+Key: UIIMBOGNXHQVGW-UHFFFAOYSA-M Y
+InChI=1/CH2O3.Na/c2-1(3)4;/h(H2,2,3,4);/q;+1/p-1
+Key: UIIMBOGNXHQVGW-REWHXWOFAQ
+SMILES
+[Na+].OC([O-])=O
+Properties
+Chemical formula
+NaHCO
+3
+Molar mass 84.0066 g mol−1
+Appearance White crystals
+Odor Odorless
+Density
+2.20 g/cm3[1]
+Melting point (Decomposes to sodium carbonate starting at 50 °C[1][6])
+Solubility in water
+69 g/L (0 °C)[2][3]
+96 g/L (20 °C)[2][3]
+165 g/L (60 °C)[2][3]
+Solubility 0.02 wt% acetone, 2.13 wt% methanol @22 °C.[4] insoluble in ethanol
+log P −0.82
+Acidity (pKa)
+10.329[5]
+6.351 (carbonic acid)[5]
+Refractive index (nD)
+nα = 1.377 nβ = 1.501 nγ = 1.583
+Structure
+Crystal structure
+Monoclinic
+Thermochemistry
+Heat capacity (C)
+87.6 J/mol K[7]
+Std molar
+entropy (So298)
+101.7 J/mol K[7]
+Std enthalpy of
+formation (ΔfHo298)
+−950.8 kJ/mol[7]
+Gibbs free energy (ΔfG˚)
+−851.0 kJ/mol[7]
+Pharmacology
+ATC code
+B05CB04 (WHO) B05XA02 (WHO), QG04BQ01 (WHO)
+Routes of
+administration
+Intravenous, oral
+Hazards
+Main hazards Causes serious eye irritation
+Safety data sheet External MSDS
+NFPA 704
+0
+0
+1
+Flash point Incombustible
+Lethal dose or concentration (LD, LC):
+LD50 (median dose)
+4220 mg/kg (rat, oral)[8]
+Related compounds
+Other anions
+Sodium carbonate
+Other cations
+Ammonium bicarbonate
+Potassium bicarbonate
+Related compounds
+Sodium bisulfate
+Sodium hydrogen phosphate
+Except where otherwise noted, data are given for materials in their standard state (at 25 °C [77 °F], 100 kPa).
+Y verify (what is Y N ?)
+Infobox references
+Contents
+NomenclatureEdit
+Because it has long been known and is widely used, the salt has many related names such as baking soda, bread soda, cooking soda, and bicarbonate of soda. In colloquial usage, the names sodium bicarbonate and bicarbonate of soda are often truncated; forms such as sodium bicarb, bicarb soda, bicarbonate, and bicarb are common. The word saleratus, from Latin sal æratus meaning "aerated salt", was widely used in the 19th century for both sodium bicarbonate and potassium bicarbonate. It is known as one of the E number food additives E500.
+The prefix bi in bicarbonate comes from an outdated naming system and is based on the observation that there is twice as much carbonate (CO3) per sodium in sodium bicarbonate (NaHCO3) as there is in sodium carbonate (Na2CO3). The modern chemical formulas of these compounds express their precise chemical compositions (which were unknown when the names sodium carbonate and sodium bicarbonate were coined) and show the same ratio the other way around: there is half as much sodium per carbonate in NaHCO3 as in Na2CO3 (disodium carbonate).
+UsesEdit
+CookingEdit
+Main article: Leavening agent
+In cooking, baking soda is primarily used in baking as a leavening agent. When it reacts with acid, carbon dioxide is released, which causes expansion of the batter and forms the characteristic texture and grain in pancakes, cakes, quick breads, soda bread, and other baked and fried foods. Acidic compounds that induce this reaction include phosphates, cream of tartar, lemon juice, yogurt, buttermilk, cocoa, and vinegar. Baking soda may be used together with sourdough, which is acidic, making a lighter product with a less acidic taste.[9]
+Heat can also by itself cause sodium bicarbonate to act as a raising agent in baking because of thermal decomposition, releasing carbon dioxide. When used this way on its own, without the presence of an acidic component (whether in the batter or by the use of a baking powder containing acid), only half the available CO2 is released. Additionally, in the absence of acid, thermal decomposition of sodium bicarbonate also produces sodium carbonate, which is strongly alkaline and gives the baked product a bitter, "soapy" taste and a yellow color. To avoid an over-acidic taste from added acid, nonacid ingredients such as whole milk or Dutch-processed cocoa are often added to baked foods.[10]
+Carbon dioxide production from exposure to heat starts at temperatures above 80 °C (180 °F).[11]
+2 NaHCO3 → Na2CO3 + H2O + CO2
+Since the reaction occurs slowly at room temperature, mixtures (cake batter, etc.) can be allowed to stand without rising until they are heated in the oven.
+Sodium bicarbonate was sometimes used in cooking green vegetables, as it gives them a bright green colour—which has been described as artificial-looking—due to its reacting with chlorophyll to produce chlorophyllin.[12] However, this tends to affect taste, texture and nutritional content, and is no longer common.[13] Baking soda is still used, though, in the traditional British mushy peas recipe for soaking the peas. It is also used in Asian and Latin American cuisine to tenderize meats. Baking soda may react with acids in food, including vitamin C (L-ascorbic acid). It is also used in breading, such as for fried foods, to enhance crispness and allow passages for steam to escape, so the breading is not blown off during cooking.
+Baking powderEdit
+Main article: Baking powder
+Baking powder, also sold for cooking, contains around 30% of bicarbonate, and various acidic ingredients which are activated by the addition of water, without the need for additional acids in the cooking medium.[14][15][16] Many forms of baking powder contain sodium bicarbonate combined with calcium acid phosphate, sodium aluminium phosphate, or cream of tartar.[17] Baking soda is alkaline; the acid used in baking powder avoids a metallic taste when the chemical change during baking creates sodium carbonate.
+Pest controlEdit
+Sodium bicarbonate can be an effective way of controlling fungal growth,[18] and in the United States is registered by the Environmental Protection Agency as a biopesticide.[19]
+Alkalinity/pH increaseEdit
+Sodium bicarbonate can be administered to pools, spas, and garden ponds to raise the total alkalinity. This will also raise the pH level and make maintaining proper pH easier. In the event that the pH is high, sodium bicarbonate should not be used to adjust the pH.[20]
+PyrotechnicsEdit
+Sodium bicarbonate is one of the main components of the common "black snake" firework. The effect is caused by the thermal decomposition, which produces carbon dioxide gas to produce a long snake-like ash as a combustion product of the other main component, sucrose.
+Mild disinfectantEdit
+It has weak disinfectant properties,[21][22] and it may be an effective fungicide against some organisms.[23] Because baking soda will absorb musty smells, it has become a reliable method for used book sellers when making books less malodorous.[24]
+Fire extinguisherEdit
+Sodium bicarbonate can be used to extinguish small grease or electrical fires by being thrown over the fire, as heating of sodium bicarbonate releases carbon dioxide.[25] However, it should not be applied to fires in deep fryers; the sudden release of gas may cause the grease to splatter.[25] Sodium bicarbonate is used in BC dry chemical fire extinguishers as an alternative to the more corrosive diammonium phosphate in ABC extinguishers. The alkaline nature of sodium bicarbonate makes it the only dry chemical agent, besides Purple-K, that was used in large-scale fire suppression systems installed in commercial kitchens. Because it can act as an alkali, the agent has a mild saponification effect on hot grease, which forms a smothering, soapy foam.
+Neutralization of acids and basesEdit
+Sodium bicarbonate is amphoteric, reacting with acids and bases. It reacts violently with acids, releasing CO2 gas as a reaction product. It is commonly used to neutralize unwanted acid solutions or acid spills in chemical laboratories.
+Medical uses and healthEdit
+See also: Intravenous sodium bicarbonate
+Sodium bicarbonate mixed with water can be used as an antacid to treat acid indigestion and heartburn.[26] Its reaction with stomach acid produces salt, water, and carbon dioxide:
+NaHCO3 + HCl → NaCl + H2O + CO2(g)
+A mixture of sodium carbonate and polyethylene glycol such as PegLyte[27], dissolved in water and taken orally, is an effective gastrointestinal lavage preparation and laxative prior to gastrointestinal surgery, gastroscopy, etc.
+Intravenous sodium bicarbonate in an aqueous solution is sometimes used for cases of acidosis, or when insufficient sodium or bicarbonate ions are in the blood.[28] In cases of respiratory acidosis, the infused bicarbonate ion drives the carbonic acid/bicarbonate buffer of plasma to the left, and thus raises the pH. For this reason, sodium bicarbonate is used in medically supervised cardiopulmonary resuscitation. Infusion of bicarbonate is indicated only when the blood pH is markedly low (< 7.1–7.0).[29]
+HCO3- is used for treatment of hyperkalemia, as it will drive K+ back into cells during periods of acidosis.[30] Since sodium bicarbonate can cause alkalosis, it is sometimes used to treat aspirin overdoses. Aspirin requires an acidic environment for proper absorption, and the basic environment diminishes aspirin absorption in the case of an overdose.[31] Sodium bicarbonate has also been used in the treatment of tricyclic antidepressant overdose.[32] It can also be applied topically as a paste, with three parts baking soda to one part water, to relieve some kinds of insect bites and stings (as well as accompanying swelling).[33]
+Some alternative practitioners, such as Tullio Simoncini, have promoted baking soda as a cancer cure, which the American Cancer Society has warned against due to both its unproven effectiveness and potential danger in use.[34] Edzard Ernst has called the promotion of sodium bicarbonate as a cancer cure "one of the more sickening alternative cancer scams I have seen for a long time".[35]
+Sodium bicarbonate can be added to local anesthetics, to speed up the onset of their effects and make their injection less painful.[36] It is also a component of Moffett's solution, used in nasal surgery.
+As early as the 1920s, bicarbonate was found to cause increased bone strength in patients who were losing calcium in their urine. In 1968, diets producing too much acid were thought to put bones at risk.[37] Experiments by Anthony Sebastian of the University of California, San Francisco starting in the late 20th century found that the body was breaking down bones and muscles to release carbonates, phosphates, and ammonia, which neutralize acid. Adding bicarbonate to the diet (he used potassium bicarbonate) reduced loss of calcium in postmenopausal women, amounting to the equivalent of "an arm-and-a-leg's worth" of bone if this continued for two decades.
+Antacid (such as baking soda) solutions have been prepared and used by protesters to alleviate the effects of exposure to tear gas during protests.[38][not in citation given][39]
+Similarly to its use in baking, sodium bicarbonate is used together with a mild acid such as tartaric acid as the excipient in effervescent tablets: when such a tablet is dropped in a glass of water, the carbonate leaves the reaction medium as carbon dioxide gas ( HCO3- + H+ → H2O + CO2↑ or, more precisely, HCO3- + H3O+ → 2 H2O + CO2↑ ) leaving the medication dissolved in the water together with the resulting salt (in this example, sodium tartrate).
+Personal hygieneEdit
+Toothpaste containing sodium bicarbonate has in several studies been shown to have a better whitening[40][40][41][42] and plaque removal effect[43][44] than toothpastes without it.
+Sodium bicarbonate is also used as an ingredient in some mouthwashes. It has anticaries and abrasive properties.[45] It works as a mechanical cleanser on the teeth and gums, neutralizes the production of acid in the mouth, and also acts as an antiseptic to help prevent infections.[46][47] Sodium bicarbonate in combination with other ingredients can be used to make a dry or wet deodorant.[48][49] Sodium bicarbonate may be used as a buffering agent, combined with table salt, when creating a solution for nasal irrigation.[50]
+It is used in eye hygiene to treat blepharitis. This is done by addition of a teaspoon of sodium bicarbonate to cool water that was recently boiled, followed by gentle scrubbing of the eyelash base with a cotton swab dipped in the solution.[51]
+Veterinary usesEdit
+Sodium bicarbonate is used as a cattle feed supplement, in particular as a buffering agent for the rumen.[52]
+In sportsEdit
+Small amounts of sodium bicarbonate have been shown to be useful as a supplement for athletes in speed-based events, such as middle-distance running, lasting about 1–7 minutes.[53][54] However, overdose is a serious risk because sodium bicarbonate is slightly toxic;[55] and gastrointestinal irritation is of particular concern.[54] Additionally, this practice causes a significant increase in dietary sodium.[citation needed]
+Cleaning agentEdit
+Sodium bicarbonate is used in a process for removing paint and corrosion called sodablasting; the process is particularly suitable for cleaning aluminium panels which can be distorted by other types of abrasives.
+A manufacturer recommends a paste made from baking soda with minimal water as a gentle scouring powder,[25] and is useful in removing surface rust, as the rust forms a water-soluble compound when in a concentrated alkaline solution;[56] cold water should be used, as hot-water solutions can corrode steel. [57] Sodium bicarbonate attacks the thin protective oxide layer that forms on aluminium, making it unsuitable for cleaning this metal.[58] A solution in warm water will remove the tarnish from silver when the silver is in contact with a piece of aluminium foil.[58][59] Baking soda is commonly added to washing machines as a replacement for water softener and to remove odors from clothes. It is also effective in removing heavy tea and coffee stains from cups when diluted with warm water. Also, baking soda can be used as a multipurpose odor remover.[60]
+During the Manhattan Project to develop the nuclear bomb in the early 1940s, the chemical toxicity of uranium was an issue. Uranium oxides were found to stick very well to cotton cloth, and did not wash out with soap or laundry detergent. However, the uranium would wash out with a 2% solution of sodium bicarbonate. Clothing can become contaminated with toxic dust of depleted uranium (DU), which is very dense, hence used for counterweights in a civilian context, and in armour-piercing projectiles. DU is not removed by normal laundering; washing with about 6 ounces (170 g) of baking soda in 2 gallons (7.5 l) of water will help to wash it out.[61]
+ChemistryEdit
+Sodium bicarbonate is an amphoteric compound. Aqueous solutions are very mildly alkaline due to the formation of carbonic acid and hydroxide ion:
+HCO−
+3 + H2O → H
+2CO
+3 + OH−
+Sodium bicarbonate can be used as a wash to remove any acidic impurities from a "crude" liquid, producing a purer sample. Reaction of sodium bicarbonate and an acid produces a salt and carbonic acid, which readily decomposes to carbon dioxide and water:
+NaHCO3 + HCl → NaCl + H2CO3
+H2CO3 → H2O + CO2(g)
+Sodium bicarbonate reacts with acetic acid (found in vinegar), producing sodium acetate, water, and carbon dioxide:
+NaHCO3 + CH3COOH → CH3COONa + H2O + CO2(g)
+Sodium bicarbonate reacts with bases such as sodium hydroxide to form carbonates:
+NaHCO3 + NaOH → Na2CO3 + H2O
+Sodium bicarbonate reacts with carboxyl groups in proteins to give a brisk effervescence from the formation of CO
+2. This reaction is used to test for the presence of carboxylic groups in protein.[citation needed]
+Thermal decompositionEdit
+Above 50 °C (122 °F), sodium bicarbonate gradually decomposes into sodium carbonate, water, and carbon dioxide. The conversion is fast at 200 °C (392 °F):[62]
+2 NaHCO3 → Na2CO3 + H2O + CO2
+Most bicarbonates undergo this dehydration reaction. Further heating converts the carbonate into the oxide (above 850 °C/1,560 °F):[62]
+Na2CO3 → Na2O + CO2
+These conversions are relevant to the use of NaHCO3 as a fire-suppression agent ("BC powder") in some dry-powder fire extinguishers.
+HistoryEdit
+In 1791, French chemist Nicolas Leblanc produced sodium carbonate, also known as soda ash. In 1846, two New York bakers, John Dwight and Austin Church, established the first factory in the United States to produce baking soda from sodium carbonate and carbon dioxide.[63]
+Saleratus, potassium or sodium bicarbonate, is mentioned in the novel Captains Courageous by Rudyard Kipling as being used extensively in the 1800s in commercial fishing to prevent freshly caught fish from spoiling.[64]
+ProductionEdit
+Sodium bicarbonate is produced industrially from sodium carbonate:[65]
+Na2CO3 + CO2 + H2O → 2 NaHCO3
+It is produced on the scale of about 100,000 tonnes/year (as of 2001).[66] Commercial quantities of baking soda are also produced by a similar method: soda ash, mined in the form of the ore trona, is dissolved in water and treated with carbon dioxide. Sodium bicarbonate precipitates as a solid from this solution.
+Regarding the Solvay process, sodium bicarbonate is an intermediate in the reaction of sodium chloride, ammonia, and carbon dioxide. The product however shows low purity (75%).
+Although of no practical value, NaHCO3 may be obtained by the reaction of carbon dioxide with an aqueous solution of sodium hydroxide:
+CO2 + NaOH → NaHCO3
+MiningEdit
+Naturally occurring deposits of nahcolite (NaHCO3) are found in the Eocene-age (55.8–33.9 Mya) Green River Formation, Piceance Basin in Colorado. Nahcolite was deposited as beds during periods of high evaporation in the basin. It is commercially mined using common underground mining techniques such as bore, drum, and longwall mining in a fashion very similar to coal mining.
+Limited amounts of product are further obtained by solution mining, pumping heated water through previously mined nahcolite beds and reconstituting the dissolved nahcolite above ground through a natural cooling crystallization process. Currently, only Genesis Alkali (formerly Tronox, formerly FMC) in the Green River Wyoming basin has successfully commercially solution mined the product.
+In popular cultureEdit
+FilmEdit
+Sodium bicarbonate, as "bicarbonate of soda", was a frequent source of punch lines for Groucho Marx in Marx brothers movies. In Duck Soup, Marx plays the leader of a nation at war. In one scene, he receives a message from the battlefield that his general is reporting a gas attack, and Groucho tells his aide: "Tell him to take a teaspoonful of bicarbonate of soda and a half a glass of water."[67] In A Night at the Opera, Groucho's character addresses the opening night crowd at an opera by saying of the lead tenor: "Signor Lassparri comes from a very famous family. His mother was a well-known bass singer. His father was the first man to stuff spaghetti with bicarbonate of soda, thus causing and curing indigestion at the same time."[68]
+See alsoEdit
+Carbonic acid
+List of ineffective cancer treatments
+List of minerals
+Natron
+Natrona (disambiguation)
+Trona
+ReferencesEdit
+^ a b Haynes, p. 4.90
+^ a b c Haynes, p. 5.194
+^ a b c "Sodium Bicarbonate" (PDF). United Nations Environment Programme. Archived from the original (PDF) on 2011-05-16.
+^ Ellingboe, J. L.; Runnels, J. H. (1966). "Solubilities of Sodium Carbonate and Sodium Bicarbonate in Acetone-Water and Methanol-Water Mixtures". J. Chem. Eng. Data. 11 (3): 323–324. doi:10.1021/je60030a009.
+^ a b Haynes, p. 7.23
+^ Pasquali, Irene; Bettini, R.; Giordano, F. (2007). "Thermal behaviour of diclofenac, diclofenac sodium and sodium bicarbonate compositions". Journal of Thermal Analysis and Calorimetry. 90 (3): 903. doi:10.1007/s10973-006-8182-1.
+^ a b c d Haynes, p. 5.19
+^ Chambers, Michael. "ChemIDplus – 144-55-8 – UIIMBOGNXHQVGW-UHFFFAOYSA-M – Sodium bicarbonate [USP:JAN] – Similar structures search, synonyms, formulas, resource links, and other chemical information". chem.sis.nlm.nih.gov.
+^ "Sourdough, Julie Cascio, University of Alaska Fairbanks Cooperative Extension Service, 2 May 2017, pub. FNH-00061" (PDF).
+^ "Baking 101: The Difference Between Baking Soda and Baking Powder". Joy the Baker. Retrieved 4 August 2015.
+^ "The Many Practical Uses of Baking Soda in the Kitchen". About.com Food. Retrieved 2017-01-22. In a nutshell, the uses for baking soda are many: It deodorizes, neutralizes, and cleans all without the toxic mess of most commercial products.
+^ Srilakshmi, B. (2003). Food Science. New Age International. p. 188. ISBN 978-81-224-1481-3.
+^ Sukhadwala, Sejal. "Bicarbonate of soda recipes". BBC Food. Retrieved 20 July 2017.
+^ Czernohorsky, J. H. and Hooker, R. "THE CHEMISTRY OF BAKING" (PDF). New Zealand Institute of Chemistry. Archived from the original (PDF) on 2016-11-27. Retrieved 2017-01-22. CS1 maint: Multiple names: authors list (link)
+^ "Baking Soda and Baking Powder". FineCooking.com. Retrieved 2017-01-22.
+^ "Baking Soda FAQs". Arm & Hammer Multi-Brand. Church & Dwight Company. "What is the difference baking soda and baking powder?". Archived from the original on 27 June 2017. Retrieved 20 July 2017.
+^ "Glossary Ingredients". Cooking.com.
+^ Potassium bicarbonate (073508) and Sodium bicarbonate (073505) Fact Sheet. United States Environmental Protection Agency. Updated 17 February 2011. Retrieved 25 November 2011.
+^ Registered Biofungicide 04/29/02 United States Environmental Protection Agency. Updated 29 March 2002. Retrieved 25 November 2011.
+^ "A pool owners guide by Arm & Hammer Baking soda" (PDF). Armandhammer.com. Archived from the original (PDF) on 7 September 2012. Retrieved 30 July 2009.
+^ Malik, Y; Goyal, S (May 2006). "Virucidal efficacy of sodium bicarbonate on a food contact surface against feline calicivirus, a norovirus surrogate". International Journal of Food Microbiology. 109 (1–2): 160–3. doi:10.1016/j.ijfoodmicro.2005.08.033. PMID 16540196.
+^ Rutala, W. A.; Barbee, S. L.; Aguiar, N. C.; Sobsey, M. D.; Weber, D. J. (2000). "Antimicrobial Activity of Home Disinfectants and Natural Products Against Potential Human Pathogens". Infection Control and Hospital Epidemiology. 21 (1): 33–38. doi:10.1086/501694. PMID 10656352.
+^ Zamani, M; Sharifi, Tehrani, A; Ali, Abadi, Aa (2007). "Evaluation of antifungal activity of carbonate and bicarbonate salts alone or in combination with biocontrol agents in control of citrus green mold". Communications in Agricultural and Applied Biological Sciences. 72 (4): 773–7. PMID 18396809. CS1 maint: Multiple names: authors list (link)
+^ Altman, Gail (2006-05-22). "Book Repair for BookThinkers: How To Remove Odors From Books". The BookThinker (69).
+^ a b c "Arm & Hammer Baking Soda – Basics – The Magic of Arm & Hammer Baking Soda". armandhammer.com. Archived from the original on 31 August 2009. Retrieved 30 July 2009.
+^ "Sodium Bicarbonate". Jackson Siegelbaum Gastroenterology. 1998. Archived from the original on 2016-10-05. Retrieved 2016-10-04.
+^ PegLyte
+^ "Sodium Bicarbonate Intravenous Infusion" (PDF). Consumer Medicine Information. Better Health Channel. 2004-07-13. Archived from the original (PDF) on 2008-08-22.
+^ "Respiratory Acidosis: Treatment & Medication". emedicine.
+^ Dart, Richard C. (2004). Medical Toxicology. Lippincott Williams & Wilkins. pp. 910–. ISBN 978-0-7817-2845-4.
+^ Cloth Diapers. Donald C. Cooper Ph.D. pp. 46–.
+^ [old info] Knudsen, K; Abrahamsson, J (Apr 1997). "Epinephrine and sodium bicarbonate independently and additively increase survival in experimental amitriptyline poisoning". Critical Care Medicine. 25 (4): 669–74. doi:10.1097/00003246-199704000-00019. PMID 9142034.
+^ "Insect bites and stings: First aid". Mayo Clinic. 2008-01-15.
+^ "Sodium Bicarbonate". American Cancer Society. 28 November 2008. Archived from the original on February 19, 2013. Retrieved 19 February 2013. CS1 maint: Unfit url (link)
+^ Edzard Ernst (3 February 2017). "This must be the most sickening cancer scam I have seen for a while".
+^ Edgcombe, Hilary and Hocking, Graham (2005). "Anaesthesia UK : Local Anaesthetic Pharmacology". John Radcliffe Hospital, Oxford, UK. CS1 maint: Multiple names: authors list (link)
+^ Fox, Douglas (15 December 2001). "Hard cheese". New Scientist. Retrieved 20 July 2017.
+^ Ferguson, David (2011-09-28). "'Maalox'-and-water solution used as anti-tear gas remedy by protesters". Raw Story.
+^ "Medical information from Prague 2000". Archived from the original on 2014-10-18.
+^ a b Kleber, CJ; Moore, MH; Nelson, BJ (1998). "Laboratory assessment of tooth whitening by sodium bicarbonate dentifrices". The Journal of Clinical Dentistry. 9 (3): 72–5. PMID 10518866.
+^ Koertge, TE; Brooks, CN; Sarbin, AG; Powers, D; Gunsolley, JC (1998). "A longitudinal comparison of tooth whitening resulting from dentifrice use". The Journal of Clinical Dentistry. 9 (3): 67–71. PMID 10518865.
+^ Yankell, SL; Emling, RC; Petrone, ME; Rustogi, K; Volpe, AR; DeVizio, W; Chaknis, P; Proskin, HM (1999). "A six-week clinical efficacy study of four commercially available dentifrices for the removal of extrinsic tooth stain". The Journal of Clinical Dentistry. 10 (3 Spec No): 115–8. PMID 10825858.
+^ Mankodi, S; Berkowitz, H; Durbin, K; Nelson, B (1998). "Evaluation of the effects of brushing on the removal of dental plaque". The Journal of Clinical Dentistry. 9 (3): 57–60. PMID 10518862.
+^ Putt, MS; Milleman, KR; Ghassemi, A; Vorwerk, LM; Hooper, WJ; Soparkar, PM; Winston, AE; Proskin, HM (2008). "Enhancement of plaque removal efficacy by tooth brushing with baking soda dentifrices: results of five clinical studies". The Journal of Clinical Dentistry. 19 (4): 111–9. PMID 19278079.
+^ Storehagen, Silje; Ose, Nanna and Midha, Shilpi. "Dentifrices and mouthwashes ingredients and their use" (PDF). Institutt for klinisk odontologi. Universitetet i Oslo. CS1 maint: Multiple names: authors list (link)
+^ Barth, Jordan. Oral Product. US Patent US4132770A, filed 1977, and issued 1979.
+^ K. Iqbal et al., "Role of Different Ingredients of Tooth Pastes and Mouthwashes in Oral Health.," JPDA (Journal of Pakistan Dental Association) 20, no. 03 (Summer 2011): 164, accessed September 29, 2018.
+^ Lamb, John Henderson (1946). "Sodium Bicarbonate: An Excellent Deodorant". The Journal of Investigative Dermatology. 7 (3): 131–133. doi:10.1038/jid.1946.13.
+^ "Bicarb soda: natural body deodorant". sustainableecho.com.
+^ Metson, Ralph B. (2005) The Harvard Medical School Guide to Healing Your Sinues. McGraw Hill. p. 68. ISBN 9780071444699
+^ "Blepharitis. Treatment and Causes. Eyelid inflammation | Patient". Patient. Retrieved 2016-05-31.
+^ "Acidosis Health Warning for Livestock Farmers". Retrieved 5 May 2012. [permanent dead link]
+^ Bee, Peta (2008-08-16). "Is bicarbonate of soda a performance enhancing drug". The Times. London. Retrieved 2010-05-23.
+^ a b Ergogenic Aids. brianmac.co.uk.
+^ Baking soda overdose – All Information Archived 2009-12-02 at the Wayback Machine. Umm.edu (2009-10-19). Retrieved on 2010-09-24.
+^ Housecroft, Catherine E.; Sharpe, Alan G. (2008). "Chapter 22: d-block metal chemistry: the first row elements". Inorganic Chemistry, 3rd Edition. Pearson. p. 716. ISBN 978-0-13-175553-6.
+^ "Science Lab.com". MSDS- Sodium carbonate. sciencelab.com.
+^ a b "Finishing Techniques in Metalwork". Philadelphia Museum of Art.
+^ "Put a Shine on It". scifun.chem.wisc.edu. Retrieved 2011-03-06.
+^ Raymond, Jessica (June 10, 2016). "Kitchen Odor Eliminating Candles, Products, and Tricks". cravedujour.com.
+^ Orcutt, JA. "Depleted Uranium and Health: Facts and Helpful Suggestions". Pharmacology and Toxicology of Uranium Compounds. McGraw-Hill. Archived from the original on 17 January 2013. Retrieved 21 March 2012.
+^ a b "Decomposition of Carbonates". General Chemistry Online. Archived from the original on 1999-10-02. Retrieved 2010-03-16.
+^ "Company History". Church & Dwight Co. Archived from the original on 16 October 2011.
+^ Kipling, Rudyard (1897). Captains Courageous. p. 25.
+^ Christian Thieme (2000). "Sodium Carbonates". Ullmann's Encyclopedia of Industrial Chemistry. Weinheim: Wiley-VCH. doi:10.1002/14356007.a24_299.
+^ Holleman, A. F.; Wiberg, E. (2001) Inorganic Chemistry. Academic Press: San Diego. ISBN 0-12-352651-5.
+^ "Duck Soup (1933)". IMDb. Retrieved 4 August 2015.
+^ "A Night at the Opera (1935)". IMDb. Retrieved 4 August 2015.
+Cited sourcesEdit
+Haynes, William M., ed. (2011). CRC Handbook of Chemistry and Physics (92nd ed.). CRC Press. ISBN 978-1439855119.
+External linksEdit
+Wikimedia Commons has media related to Sodium bicarbonate.
+Wikibooks Cookbook has a recipe/module on
+Baking soda
+International Chemical Safety Card 1044
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Sodium_bicarbonate&oldid=891929627"
+Last edited on 11 April 2019, at 02:21
+Content is available under CC BY-SA 3.0 unless otherwise noted.
+Terms of Use
+Privacy
+Desktop

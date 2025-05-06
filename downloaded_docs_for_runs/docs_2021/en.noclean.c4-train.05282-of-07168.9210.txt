@@ -1,0 +1,136 @@
+Low maternal vitamin D, childhood asthma and wheeze: Is there a link? The information found on this site is the personal opinion of the authors, and is intended to educate and interest, rather than to direct clinical management for specific patients. Copyright is shared between the author/s and this site. You may reproduce this content as long as the original source is credited. No information on this site may be reproduced for profit.
+Supported by the London School of Paediatrics
+Home
+What is FOAMed?
+GET INVOLVED!
+General Paediatrics
+Acute / Emergencies / PICU
+Neonatology
+Community Paediatrics
+Careers
+Useful Links
+MRCPCH Clinicals revision site
+RCPCH website
+Growth Charts
+Go to kaizen ePortfolio
+London School of Paediatrics website
+Synapse
+CATS emergency drug calculator
+Metabolic Disease Emergency Guidelines
+Simulation Library
+LUCKY DIP: Click for a random article
+Evidence Based Medicine General Paediatrics Respiratory
+Low maternal vitamin D, childhood asthma and wheeze: Is there a link?
+0 Comments asthma, journal club, vitamin D, wheeze
+Dr Seb Gray | Dr Katie Knight | Dr Woolf Walker
+For references for this article please click here
+Asthma and wheeze are a massive part of the everyday workload in paediatrics. We’re good at recognising and treating the acute problem… but what if we could prevent these conditions – which have such a massive impact on children and their families – developing in the first place?
+In asthma and recurrent wheeze there is a complicated (and not completely understood) interaction of genetics and environmental factors that cause inflammation and changes in airway structure. Along with other atopic disorders (eczema, hay fever, allergies), asthma might have its origins in the neonatal period, or even in the womb [1,2].
+Current asthma management (when done properly) is very good at controlling symptoms and improving quality of life, but there is not much evidence that drugs change the natural course of the condition. Preventing asthma developing in the first place would have an amazing impact, and the key to this could lie in understanding early life origins of the disease.
+Vitamin D is crucial for bone health – this is not news. More recently though, vitamin D is being recognized to have a role in neonatal lung development and immune function development [3-6, 8]. Vitamin D might actually help control genetic events that trigger or up-regulate allergic conditions. In a study of healthy adults, 300 genes were found to be either up or down-regulated after vitamin D supplements. [7]
+The body can synthesise vitamin D (if exposed to enough sunshine – some of us being more
+geographically advantaged than others) or can absorb it from the diet (e.g. oily fish, eggs, vitamin D fortified foods). A quick reminder about the biochemistry going on here… UVB radiation triggers synthesis from 7-dehydrocholesterol; this is converted in the liver to 25(OH) vitamin D (which is what we measure when we test for vitamin D status) [9]. More hydroxylation goes on in the kidneys to convert to 1, 25(OH) vitamin D which is the biologically active
+form. (DEFICIENCY = < 30nmol/L 25(OH) vitamin D).
+50 years ago, the prevalence of asthma was about 2-4% [10] but in many countries it is now as high as 15-20% [11]. Interestingly, the rise in vitamin D deficiency has followed a similar pattern. Whilst both of these observations may be, at least in part, due to their better recognition (and, correlation does NOT equal causation!) it has triggered research into potential links between the two conditions [12].
+There is evidence that low vitamin D levels in 6 year-olds can predict the development of atopy and asthma by 14 years [13]. Several studies have also found that giving vitamin D supplements reduces the incidence of respiratory tract infections [14,15]. Also, babies conceived during autumn and winter have an higher risk of childhood asthma suggesting that there might be a relationship with seasonal lower vitamin D levels in pregnant women [16]. Given these links, a question springs to mind… does low maternal vitamin D, through its effects on the developing foetus, have a role in the later development of wheeze and asthma in children?
+Question – does low maternal vitamin D lead to the development of wheeze and asthma in childhood?
+Methods
+A literature review was performed on Medline and Embase using the following search criteria:
+Vitamin D AND
+Asthma* OR wheez* AND
+Pregnan* OR gestation* OR prenatal OR matern*.
+All articles were reviewed, the most relevant are discussed here. Further references were found from review of bibliographies.
+Findings
+There are lots of observational cohort studies looking at maternal vitamin D and the risk of wheeze/ asthma in the offspring. Studies used various different ways of measuring vitamin D, including:
+Estimated maternal vitamin D intake
+Cord vitamin D levels
+Maternal vitamin D levels
+There have also been three randomised controlled trials.
+ESTIMATED MATERNAL VITAMIN D INTAKE STUDIES
+Four out of five studies [17-21], which estimated Vitamin D intake, suggested that a higher intake leads to lower levels of asthma/wheeze. But! These studies relied on self-assessment questionnaires as the main assessment tool, which limits the reliability of the suggested correlation since there is probably a high level of bias.
+This study from Aberdeen [17] suggested an inverse relationship between maternal dietary vitamin D in pregnancy and later childhood wheezing. Another study in Finland [18] showed a reduced risk in asthma with maternal intake of vitamin D from food.
+In Japan, Miyake et al looked at 1,354 mother-child pairs, studied diet during
+pregnancy and later childhood allergic disorders [19]. They found a reduced risk of infant asthma with higher intake of cheese during pregnancy (hopefully not blue cheese..?) However, there were no statistically significant effects from reported vitamin D intake.
+This Danish study looked at vitamin D intake at 25 weeks gestation (again using a questionnaire) and development of asthma in 44,825 mother-child pairs [20]. They found mothers with the highest vitamin D intake were less likely than the mothers with the lowest intake to have children with asthma at 7 years old (p=0.02).
+A Massachusetts-based study of 1194 mother-child pairs compared highest to lowest quartiles of vitamin D intake. There was a significantly reduced risk of recurrent wheeze (95% CI 0.25-0.62, p<0.001) in those with the highest vitamin D intake, a result that was significant even after adjustment for potential confounders [21].
+CORD VITAMIN D STUDIES
+Measuring cord vitamin D levels is more accurate than estimating dietary intake but it only gives a snapshot of the vitamin D status at delivery. As such it might not reflect the
+nutritional status at important embryological stages of lung development. Our search found three studies looking at cord vitamin D levels; two found an association between vitamin D levels and wheeze in early childhood, but none showed an association with asthma.
+One French birth-cohort study [23] looked at the relationship between cord vitamin D levels and asthma, up to 5 years of age. From 239 mother-child pairs where there was complete data, low cord blood levels of 25(OH) vitamin D were found in over 50% of cases. There was a statistically significant increase in early transient wheeze and atopic dermatitis linked to low levels of cord vitamin D but no significant association was found with late-onset, persisting wheeze or asthma. However, only 12% of the original cohort had complete data, so here we have potential selection bias.
+Other studies showed no correlation between cord blood vitamin D levels and wheeze in Australian children using a questionnaire to assess wheeze [24,25]. In New Zealand [26], cord blood vitamin D levels were inversely related to risk of wheezing at 15 months, 3 years and 5 years of age (all statistically significant; p<0.05). There was, however, no statistical association with incidence of asthma at 5 years of age.
+MATERNAL VITAMIN D STUDIES
+Measuring the mother’s serum vitamin D is are also more reliable than estimates from diet questionnaires. However, there have been no studies which used serial measurements, so again this pretty much only gives a snapshot of maternal vitamin D status. There have been a number of studies using snapshot measurements, outlined below, and the results are (again) a real mixed bag, in a round-the-world tour…
+This Japanese observational study [27] saw a reduced risk of wheeze in children at 16-24 months whose mothers had vitamin D levels above the 25th percentile… while this American paper [28] reported that a 14ng/mL (5.6nmol/L) increase in vitamin D level in white women was linked to a lower risk of asthma in the offspring.
+In a Spanish group of patients [29], maternal 25(OH) vitamin D levels at 12 weeks were not associated with wheeze at 1 or 4 years of age or asthma at 4 or 6 years of age (but were associated with fewer LRTIs). In Norway, these epidemiologists (30) also found no significant association between vitamin D levels at 18 weeks gestation and asthma at 36 months.
+Moving on to Australia, this study looked at maternal vitamin D levels at 16 and 20 weeks gestation [31]. They found vitamin D deficiency in pregnancy was associated with asthma in boys at 6 years of age but not girls. However, there was no significant effect on the incidence of asthma at 14 years old.
+In sunny Southampton (UK) [33], children whose mothers had a vitamin D level of >75nmol/l in late pregnancy actually had an increased risk of asthma at the age of 9. Meanwhile, not far away in Bristol, a different study [34] showed no correlation with either low or high levels of vitamin D in pregnancy and wheeze or asthma using objective measures like lung function, bronchial responsiveness and IgE.
+RANDOMISED CONTROL TRIALS
+The three RCT’s that we found looked at vitamin D supplementation in pregnancy and later wheeze/asthma [35-37]. This study [35] found that supplementing with either 800IU ergocalciferol daily from 27 weeks gestation until delivery or a single
+200,000IU cholecalciferol bolus at 27 weeks gestation had no effect on the development of wheeze, eczema or atopy at age 3. It’s worth noting that this was quite a small study (n=180) so had limited statistical power. Also – the authors point out that the lack of improvement could be due to the fact that 45% of the mothers on the study were vitamin D deficient to start with, and less than 10% achieved normal vitamin D levels by the time their baby was born!
+The Vitamin D Antenatal Asthma Reduction Trial (VDAART) was a randomised, double-blind, placebo-controlled trial studying the effect of prenatal vitamin D supplements on the development of asthma and allergies, also looking at inter-racial differences [36]. VDAART participants were all higher risk for development of asthma, in that either parent had known atopy. The treatment arm was 4,400IU/day vitamin D versus placebo (both groups also received a multivitamin containing 400IU vitamin D). The sub-group who had an initial level >30ng/mL (12nmol/L) and were randomised to the intervention group had significantly reduced risk of asthma/wheeze by age 3 compared to the sub-group randomised to the control arm with an initial level <20ng/mL (95% CI 0.19-0.91; p=0.03). In short, this seemed to show that ‘super-supplementing’ mothers with less severe deficiency reduced risk, compared to standard supplementation in worse initial deficiency.
+Keeping in mind that this study was performed in a higher risk group for atopy, the results aren’t really generalisable to the whole population – but could be a focus for intervention in atopic families.
+‘ABCvitaminD’ [37] was another RCT in which pregnant women were given daily 2400IU vitamin D (n=315) or placebo (n=308) from 24 weeks gestation to 1 week post-delivery (as well as the 400IU recommended vitamin D dose for both groups). Although there was a trend toward reduced episodes of (somewhat vague sounding) ‘troublesome lung symptoms’, there was no statistically significant reduction in wheeze over the 3 year follow up period.
+Discussion
+So, is there a link? Essentially, we don’t know. Right now there is a lot of conflicting evidence about vitamin D levels during pregnancy and later wheezing.
+The studies we described used various methodologies, varied inclusion criteria (general population/ high risk population), different measurements (questionnaires of dietary intake/ blood levels) and varied outcome measurements making like-for-like comparisons impossible.
+The relevance of a single vitamin D measurement taken at a random time during pregnancy is unclear and probably doesn’t reflect vitamin D status throughout pregnancy. Skin colour, sun exposure, season, sun cream use, latitude, body weight, diet, co-morbidities and genetic factors… all play their part and make it much more difficult to generalise between populations.
+Whilst babies conceived during autumn and winter have been shown to have a higher risk of childhood asthma, suggesting a possible link with seasonal lower vitamin D levels in pregnant women [16], there are some pretty major confounding factors. An obvious one would be that viral respiratory infections and bronchiolitis are much more common over the autumn/winter, which obviously makes children more vulnerable to recurrent wheezy symptoms.
+No one has yet been able to identify when the developing foetus is most susceptible to immune programming (i.e. when they might develop a predisposition to asthma and allergy). Only once this is clearer might it be possible to target supplements/nutrients, such as vitamin D, at certain stages of pregnancy to boost development in different systems.
+Conclusions
+It is possible that vitamin D plays a role in the development of asthma/ wheeze but as
+things stand, there is not enough evidence to advise changing the current antenatal advice given to pregnant women. The aetiology of asthma is so complex that how it evolves in children is likely to be due to the interaction of multiple factors.
+Large observational studies – with serial vitamin D measurements throughout pregnancy – and following children as they grow, are the way forward in finding out if lack of vitamin D is important in the development of asthma. Answers to these questions would help in designing RCT’s to find out whether (and at what stage of pregnancy) giving extra vitamin D could have positive effects for the baby in later childhood.
+Dr Seb Gray and Dr Katie Knight, with consultant input from Dr Woolf Walker, consultant in Paediatric Respiratory Medicine
+For references for this article please click here
+Have you been inspired to write something for PaediatricFOAM? Get in touch with us and join the team! Full support and guidance will be provided. Check out our ‘wish list’ here.
+Facebook
+Twitter
+WhatsApp
+Related
+← The ‘3-D Assessment’ for Refugee, Asylum-Seeking or Trafficked Children
+Dr Mike Farquhar: carving out a career as a Sleep Paediatrician →
+You May Also Like
+A little ‘slip up’… Congenital Diaphragmatic Hernia
+0
+Nebulised magnesium sulphate (NMS) for acute asthma: what’s the evidence?
+5
+To EAT? To LEAP? To climb ladders? A peek into the world of Infant Allergy
+0
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Comment
+Name *
+Email *
+Website
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+What are you looking for?
+Get latest posts via Email
+Enter your email address to get notifications of new posts by email.
+Email Address
+Join the Team: Write for Us
+Interested in writing for paediatricFOAM? Click here to find out more
+Posts by theme
+Posts by theme Select Category Acute / Emergencies / PICU CAMHS Cardiology Careers Cases Child Protection Community paediatrics Emergencies Endocrinology Evidence Based Medicine Gastroenterology / Hepatology General Paediatrics Immunology/Allergy/ID Metabolic Neonatology Neurology Patient Perspective PICU Respiratory Top Ten Tips Toxicology Useful Links
+Latest Articles
+Cry Baby Cry… Part 2 (Colic, CMPA and Reflux)
+Cry Baby Cry… Part 1
+Are headaches giving you a headache?
+Community Paediatrics starter pack
+Paediatric Emergency Medicine Quiz: Injuries and Orthopaedics
+Wibble Wobble: High Frequency Oscillatory Ventilation
+LATEST ARTICLES:
+Cry Baby Cry… Part 2 (Colic, CMPA and Reflux)
+Cry Baby Cry… Part 1
+Are headaches giving you a headache?
+Community Paediatrics starter pack
+Paediatric Emergency Medicine Quiz: Injuries and Orthopaedics
+Wibble Wobble: High Frequency Oscillatory Ventilation
+Modern Slavery: is current Safeguarding training unfit for purpose?
+Being Well, Staying Well in Paediatrics
+HOT OFF THE PRESS:
+Cry Baby Cry… Part 2 (Colic, CMPA and Reflux)
+Copyright © 2019 . All rights reserved.
+Theme: ColorMag by ThemeGrill. Powered by WordPress.
+The information found on this site is the personal opinion of the authors, and is intended to educate and interest, rather than to direct clinical management for specific patients. Copyright is shared between the author/s and this site. You may reproduce this content as long as the original source is credited. No information on this site may be reproduced for profit. 2018, paediatricfoam.com

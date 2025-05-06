@@ -1,0 +1,69 @@
+NMU 40 – Vitamin D Supplementation Reduces Asthma Attack Frequency and Severity in Adults | Meschino Health
+Toggle navigation
+Free Nutritional
+Assessment
+facebook
+twitter
+search
+Natural Health Solutions
+By Condition
+BROWSE HEALTH CONDITIONS
+Autoimmune Diseases
+Weight Loss
+Nail Fungus
+Menopause and Peri-Menopausal Symptoms
+High Cholesterol
+High Blood Pressure
+Fibromyalgia
+Fatigue, Lack of Energy, Tiredness
+Erectile Dysfunction (Libido)
+Candida (Yeast Infections)
+Arthritis
+Acne
+For Healthy Aging
+Supplements for Men
+Supplements for Women
+Dr. James Meschino
+About
+Contact Us
+Books
+Articles
+Videos
+Video Gallery
+Nutrition / Natural Medicine Update
+Blog
+Meschino Health > Nutrition Natural Medicine > NMU 40 – Vitamin D Supplementation Reduces Asthma Attack Frequency and Severity in Adults
+Subscribe to Dr. Meschino’s Free Newsletter
+Subscribe to Dr. Meschino’s
+Free Video Newsletter
+Subscribe Now
+Formulations by
+Dr. James Meschino
+Click Here
+NMU 40 – Vitamin D Supplementation Reduces Asthma Attack Frequency and Severity in Adults
+Nutrition / Natural Medicine Update No. 40 (January 31, 2017)
+with Dr. James Meschino
+Research Topic: Vitamin D Supplementation Reduces Asthma Attack Frequency and Severity in Adults
+Source: European Respiratory Society International Congress, 2016
+In this edition of the Lifestyle Medicine Update, I want to highlight a September, 2016 review paper that showed the addition of vitamin D supplements to standard asthma medication can lead to fewer severe asthma attacks in patients with mild to moderate asthma. The review assessed nine, double-blind, placebo-controlled trials that involved 435 children and 658 adults with predominantly mild to moderate asthma. Overall, vitamin D supplementation was associated with a significant reduction in the rate of asthma exacerbations treated with systemic steroid drugs. In the vitamin D-treated group, the average number of annual attacks decreased from 0.44 to 0.22 per person. That’s a 50% reduction in the number of asthma attacks. Vitamin D supplementation also decreased the risk for asthma attacks requiring hospitalization or a visit to the emergency department from six to around three per 100 patients. That’s also a 50% reduction. However, this data only applied to adults. Researchers are unsure, at this time, if these findings extend to children or the pediatric management of asthma.
+If you are an adult with asthma or know someone who is, the doctor should be encouraged to assess the patient’s blood level of vitamin D. Individuals with vitamin D blood level below 75 nmol/L, appear to stand the best chance of benefiting from vitamin D supplementation with respect to asthma control it seems. The truth is, the majority of people have vitamin D blood levels below 75 nmol/L. As one of the researchers stated, “At this point, it would be perfectly legitimate for general practitioners, pediatricians, and even pulmonologists, who are following people with asthma, to put them all on 500 to 1000 IU’s of vitamin D a day.” They continued, “For adults who have persistent exacerbations, measuring vitamin D levels would also be justified, and if they have low levels, you could give them even more (vitamin D)”.
+So, how might vitamin D help to reduce the frequency and severity of asthma attacks? The researchers explained that vitamin D has an anti-inflammatory effect on the lungs and induces innate antimicrobial mechanisms – meaning that it helps to block the replication of bacteria, viruses and other microorganisms that are often found in the respiratory secretions of those with asthma. I think these findings are significant, as the prevalence of asthma in Canada has been increasing over the last 20 years, and it is estimated that currently, over 3 million Canadians have asthma. In the United States, one in 12 people (that’s about 25 million, or 8% of the U.S. population) had asthma in 2009, compared with 1 in 14 (or 7%) in 2001. Slightly more children than adults suffer from asthma.
+In my view, if more optimal vitamin D levels can help reduce the frequency and severity of asthma attacks, it makes sense to explore this option with your doctor. I have included a link to the research in the text below.
+References:
+European Respiratory Society (ERS) International Congress, 2016: Abstract PA4112. Presented the September 6, 2016.
+http://paleolivingmag.com/vitamin-d3/
+http://www.medscape.com/viewarticle/868575
+Eat Smart, Live Well, Look Great!
+Dr. Meschino
+Facebook Comments
+Copyright Meschino Health 2013. All rights reserved.
+Privacy & Terms of Use Website not working?
+Disclaimer: The entire content of this website is based upon the opinions of Dr James Meschino, unless otherwise noted. Individual articles are based upon the opinions of the respective author, who retains copyright as marked. The information on this website is not intended to replace a one-on-one relationship with a qualified health care professional and is not intended as medical advice. It is intended as a sharing of knowledge and information from the research and experience of Dr Meschino and his team. Dr Meschino encourages you to make your own health care decisions based upon your research and in partnership with a qualified health care professional.
+*These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease
+Please wait...
+Sign Up Dr. Meschino’s Newsletters
+Want to be notified when our article is published? Enter your email address and name below to be the first to know.
+SIGN UP FOR NEWSLETTER NOW
+'); isvalidEmail=false; } } }else{ var element=$n("#yourname").next().next(); $n(element).html('
+This field is required.
+'); isvalidEmail=false; } if(isvalidName==true && isvalidEmail==true){ $n(".AjaxLoader").show(); $n('#mysuccess_msg').html(''); $n('#mysuccess_msg').hide(); $n('#myerror_msg').html(''); $n('#myerror_msg').hide(); var nonce ='974e3be039'; var url = 'http://meschinohealth.com/wp-content/plugins/email-subscribe/'; var email=$n("#youremail").val(); var name =$n("#yourname").val(); var str="action=store_email&email="+email+'&name='+name+'&sec_string='+nonce; $n.ajax({ type: "POST", url: 'http://meschinohealth.com/wp-admin/admin-ajax.php', data:str, async:true, success: function(msg){ if(msg!=''){ var result=msg.split("|"); if(result[0]=='success'){ $n(".AjaxLoader").hide(); $n('#mysuccess_msg').html(result[1]); $n('#mysuccess_msg').show(); setTimeout(function(){ $n.fancybox_ns.close(); window.location='http://meschinohealth.com/thankyou-for-subscribe-video-newsletter/'; },2000); } else{ $n(".AjaxLoader").hide(); $n('#myerror_msg').html(result[1]); $n('#myerror_msg').show(); } } } }); } }

@@ -1,0 +1,508 @@
+Tolnaftate - DrugBank
+Browse
+Drugs
+Categories
+Pathways
+Drug Reactions
+Drug Classification
+Drug Targets
+Pharmaco-genomics
+Pharmaco-metabolomics
+Pharmaco-transcriptomics
+Pharmaco-proteomics
+Search
+Chemical Structure
+Molecular Weight
+Drug & Food Interactions
+Target Sequences
+Pharmaco-omics
+Advanced Search
+MS Search
+MS/MS Search
+GC/MS Search
+1D NMR Search
+2D NMR Search
+Downloads
+About
+About DrugBank
+Statistics
+Other Databases
+Data Sources
+News Archive
+Wishart Research Group
+Help
+Citing DrugBank
+Help Center
+FAQ
+Searching DrugBank
+Blog
+Contact Us
+Drugs Targets Pathways Indications
+Jump to section
+Identification
+Pharmacology
+Interactions
+References
+Trials
+Economics
+Properties
+Spectra
+Taxonomy
+Tolnaftate
+Targets (1)
+Identification
+Are you a
+new drug developer?
+Contact us to learn more about our customized products and solutions.
+Name
+Tolnaftate
+Accession Number
+DB00525 (APRD01607)
+Type
+Small Molecule
+Groups
+Approved, Investigational, Vet approved
+Description
+Tolnaftate is a synthetic over-the-counter anti-fungal agent. It may come as a cream, powder, spray, or liquid aerosol, and is used to treat jock itch, athlete's foot and ringworm. It is sold under several brand names, most notably Tinactin and Odor Eaters.
+Structure
+3D
+Download
+MOLSDF3D-SDFPDBSMILESInChI
+Similar Structures
+Structure for Tolnaftate (DB00525)
+×
+Close
+Synonyms
+2-Naphthyl N-methyl-N-(3-tolyl)thionocarbamate
+m,N-Dimethylthiocarbanilic acid O-2-naphthyl ester
+Methyl (3-methylphenyl)carbamothioic acid O-2-naphthalenyl ester
+N-methyl-N-(3-methylphenyl)-1-(naphthalen-2-yloxy)methanethioamide
+O-2-Naphthyl m,N-dimethylthiocarbanilate
+Tolnaftate
+Tolnaftato
+Tolnaftatum
+Tolnaphthate
+Over the Counter Products
+Name
+Dosage
+Strength
+Route
+Labeller
+Marketing Start
+Marketing End
+Absorbine Antifungal Powder 1% Powder 1 % Topical W.F. Young, Inc. 1992-12-31 1997-07-28 Canada
+Absorbine Jr Antifungal Liquid Liquid 10 mg Topical Clarion Brands, Llc 1999-08-18 Not applicable Canada
+Aftate Athlete Foot Cream Cream 1 g/100g Topical Sabel Med Llc 2016-12-01 Not applicable US
+Anti-Fungal Powder .45 g/45g Topical Rij Pharmaceutical Corporation 1999-03-16 Not applicable US
+Anti-Fungal Powder 1 g/100g Topical Rugby 2011-11-01 Not applicable US
+Antifungal Spray 1 g/100g Topical Rite Aid 2016-05-12 Not applicable US
+Antifungal Cream 10 mg/1g Topical Moore Medical 2012-07-16 Not applicable US
+Antifungal Solution 1 mg/100mL Topical Perrigo New York Inc. 2011-08-17 2013-08-17 US
+Antifungal Cream 10 mg/1g Topical Unifirst First Aid 2002-06-30 2018-10-11 US
+Antifungal Cream 1 g/100g Topical Rite Aid 2005-07-23 2015-10-20 US
+Mixture Products
+Name
+Ingredients
+Dosage
+Route
+Labeller
+Marketing Start
+Marketing End
+Heeltastic Tolnaftate (1 g/100g) + Dimethicone (1 g/100g) Stick Topical Neutraderm, Inc. 2009-06-30 2009-07-22 US
+Nail MD Tolnaftate (100 mg/1mg) + Triclosan (20 mg/1mg) Spray Topical Omg Medical Group, Llc 2013-02-14 Not applicable US
+Unapproved/Other Products
+Name
+Ingredients
+Dosage
+Route
+Labeller
+Marketing Start
+Marketing End
+Terbinafine HCl Chlortimazole and Tolnaftate Tolnaftate (1 g/100mL) + Clotrimazole (1 g/100mL) + Terbinafine hydrochloride (1 g/100mL) Solution Topical Dr Marc's Manufacturing And Sales 2018-01-30 2018-04-18 US
+International/Other Brands
+Aftate / Dr. Scholl's athlete's foot spray / Genaspor / Lamisil AF / NP-27 / Odor Eaters / Pitrex / Separin / Tinaderm
+Categories
+Acids, Acyclic
+Anti-Infective Agents
+Antifungal Agents
+Antifungals for Dermatological Use
+Antifungals for Topical Use
+Carbamates
+Dermatologicals
+Naphthalenes
+Sulfur Compounds
+Thiocarbamates
+UNII
+06KB629TKV
+CAS number
+2398-96-1
+Weight
+Average: 307.409
+Monoisotopic: 307.103084861
+Chemical Formula
+C19H17NOS
+InChI Key
+FUSNMLFNXJSCDI-UHFFFAOYSA-N
+InChI
+InChI=1S/C19H17NOS/c1-14-6-5-9-17(12-14)20(2)19(22)21-18-11-10-15-7-3-4-8-16(15)13-18/h3-13H,1-2H3
+IUPAC Name
+N-methyl-N-(3-methylphenyl)-1-(naphthalen-2-yloxy)methanethioamide
+SMILES
+CN(C(=S)OC1=CC2=CC=CC=C2C=C1)C1=CC=CC(C)=C1
+Pharmacology
+Indication
+Tolnaftate topical is used to treat skin infections such as athlete's foot, jock itch, and ringworm infections. Tolnaftate is also used, along with other antifungals, to treat infections of the nails, scalp, palms, and soles of the feet. The powder and powder aerosol may be used to prevent athlete's foot.
+Associated Conditions
+Dermatophytosis
+Pityriasis versicolor
+Tinea Corporis
+Tinea Cruris
+Tinea Pedis
+Pharmacodynamics
+Tolnaftate is a synthetic over-the-counter anti-fungal agent.
+Mechanism of action
+Tolnaftate is a topical fungicide. Though its exact mechanism unknown, it is believed to prevent ergosterol biosynthesis by inhibiting squalene epoxidase. It has also been reported to distort the hyphae and to stunt mycelial growth in susceptible organisms.
+Target
+Actions
+Organism
+ASqualene monooxygenase
+inhibitor
+Yeast
+Absorption
+Not Available
+Volume of distribution
+Not Available
+Protein binding
+Not Available
+Metabolism
+Not Available
+Route of elimination
+Not Available
+Half life
+Not Available
+Clearance
+Not Available
+Toxicity
+Oral rat LD50: 891 mg/kg. Inhalation rat LC50: > 900 mg/m3/1hr. Irritation: skin rabbit: 500 mg/24H mild. Eye rabbit: 100 mg severe. Investigated a mutagen and reproductive effector.
+Affected organisms
+Yeast and other fungi
+Pathways
+Not Available
+Pharmacogenomic Effects/ADRs
+Not Available
+Interactions
+Drug Interactions
+No interactions found.
+Food Interactions
+Not Available
+References
+Synthesis Reference
+Chris E. Platt, "Topical preparation of tolnaftate and hydrocortisone to treat fungal infections of the skin." U.S. Patent US5496812, issued November, 1989.
+US5496812
+General References
+Barrett-Bee K, Dixon G: Ergosterol biosynthesis inhibition: a target for antifungal agents. Acta Biochim Pol. 1995;42(4):465-79. [PubMed:8852337]
+Ryder NS, Frank I, Dupont MC: Ergosterol biosynthesis inhibition by the thiocarbamate antifungal agents tolnaftate and tolciclate. Antimicrob Agents Chemother. 1986 May;29(5):858-60. [PubMed:3524433]
+External Links
+Human Metabolome Database
+HMDB0005005
+KEGG Drug
+D00381
+PubChem Compound
+5510
+PubChem Substance
+46505456
+ChemSpider
+5309
+BindingDB
+39349
+ChEBI
+9620
+ChEMBL
+CHEMBL83668
+Therapeutic Targets Database
+DAP001237
+PharmGKB
+PA164752438
+Drugs.com
+Drugs.com Drug Page
+Wikipedia
+Tolnaftate
+ATC Codes
+D01AE18 — Tolnaftate
+D01AE — Other antifungals for topical use
+D01A — ANTIFUNGALS FOR TOPICAL USE
+D01 — ANTIFUNGALS FOR DERMATOLOGICAL USE
+D — DERMATOLOGICALS
+AHFS Codes
+84:04.08.40 — Thiocarbamates
+MSDS
+Download (73.2 KB)
+Clinical Trials
+Clinical Trials
+Phase
+Status
+Purpose
+Conditions
+Count
+1 Completed Treatment Autoimmune Diseases / Disseminated or Multiple Sclerosis Nos / Disseminated Sclerosis / Multiple Sclerosis, Acute Relapsing / Multiple Sclerosis, Chronic Progressive / Multiple Sclerosis, Primary Progressive 1
+2, 3 Not Yet Recruiting Treatment Candidiasis infection 1
+3 Completed Treatment Dermatitis, Eczematous 1
+3 Not Yet Recruiting Treatment ICU Yeast Intra-abdominal Infection 1
+Pharmacoeconomics
+Manufacturers
+Not Available
+Packagers
+Chain Drug
+Medisca Inc.
+Perrigo Co.
+S&P Healthcare
+Stiefel Labs
+Dosage forms
+Form
+Route
+Strength
+Powder Topical .45 g/45g
+Gel Topical 1 %
+Cream Topical 0.01 mg/10g
+Aerosol Topical 1 g/100g
+Cream Topical 1 g/1g
+Solution Topical 1.0 mL/100mL
+Solution Topical 1 mg/100mL
+Cream Topical .56 g/56.69g
+Solution / drops Topical 10 mg/1mL
+Soap Topical 1 g/100g
+Solution Topical 10 mg/1mL
+Oil Topical 0.14 g/14g
+Oil Topical 0.3 g/28g
+Lotion Topical 0.3 g/28g
+Aerosol; powder Topical 1 %
+Spray Topical 1 g/150g
+Aerosol, foam Topical 1 %
+Spray Topical 1 %
+Solution Topical 1 g/100g
+Gel Topical 1 g/100g
+Liquid Topical 10 g/1000g
+Gel Topical 10 mg/1g
+Aerosol, foam Topical 10 mg/1mL
+Spray Topical 10 mg/1mL
+Lotion Topical 2.8 g/28g
+Spray Topical 10 mg/1g
+Stick Topical
+Ointment Topical 1 g/100g
+Solution Topical 1 g/100mL
+Aerosol, powder Topical 0.1 g/10g
+Powder Topical 1 g/100g
+Cream Topical 0.1 g/10g
+Kit 10 mg/1g
+Spray Topical 1 g/100g
+Powder Topical 10 mg/1g
+Aerosol, powder Topical 10 mg/1g
+Cream Topical 0.59 g/59g
+Cream Topical 0.01 g/1g
+Oil Topical 0.01 mg/1mL
+Lotion Topical 100 g/1g
+Spray Topical
+Liquid Topical 1 g/100mL
+Liquid Topical 1 mL/100mL
+Solution Topical 1 %
+Liquid Topical 1 %
+Lotion Topical 10 mg/1mL
+Swab Topical 1 %
+Solution Topical
+Aerosol, spray Topical 10 mg/1g
+Cream Topical 10 mg
+Powder Topical 10 mg
+Aerosol Topical .72 mg
+Aerosol Topical 1 %
+Liquid Topical 10 mg
+Liquid Topical 140 mg/15mL
+Aerosol, spray Topical 1.28 g/128g
+Cream Topical .2 mg/20mg
+Aerosol, powder Topical 1 g/100g
+Aerosol, powder Topical 1.1 g/113.3g
+Aerosol, powder Topical 1.3 g/130g
+Aerosol, powder Topical 1.3 g/113g
+Aerosol, spray Topical 0.13 g/130g
+Aerosol, spray Topical 0.15 g/150g
+Aerosol, spray Topical 1.13 g/113g
+Aerosol, spray Topical 1.3 g/130g
+Aerosol, spray Topical 1.3 g/113g
+Aerosol, spray Topical 1.5 g/150g
+Aerosol, spray Topical 1.5 g/150.2g
+Aerosol, spray Topical 150 g/150g
+Cream Topical 1 g/100g
+Cream Topical 10 mg/1g
+Spray Topical 1.3 g/130g
+Spray Topical 1.5 g/150g
+Cream Topical 1.0 %
+Cream Topical 1 %
+Liquid Topical 10 mg/1g
+Liquid Topical 10 mg/1mL
+Powder Topical 1 %
+Prices
+Unit description
+Cost
+Unit
+Zeasorb-AF 2% Powder 70 gm Can 14.99USD can
+Zeasorb Powder 70.9 gm Can 12.99USD can
+Tolnaftate powder 4.77USD g
+Zeasorb-af 2% lotion 0.19USD g
+Zeasorb powder 0.05USD g
+Tinactin 1% aerosol 0.04USD ml
+Athlete's foot 1% liquid spray 0.03USD g
+Pv antifungal 1% spray liquid 0.02USD g
+DrugBank does not sell nor buy drugs. Pricing information is supplied for informational purposes only.
+Patents
+Not Available
+Properties
+State
+Solid
+Experimental Properties
+Property
+Value
+Source
+melting point (°C) 111 °C PhysProp
+water solubility 7.02e-05 mg/mL at 25 °C MEYLAN,WM et al. (1996)
+logP 5.1 Not Available
+Predicted Properties
+Property
+Value
+Source
+Water Solubility 0.000546 mg/mL ALOGPS
+logP 4.87 ALOGPS
+logP 5.75 ChemAxon
+logS -5.8 ALOGPS
+pKa (Strongest Basic) 0.075 ChemAxon
+Physiological Charge 0 ChemAxon
+Hydrogen Acceptor Count 1 ChemAxon
+Hydrogen Donor Count 0 ChemAxon
+Polar Surface Area 12.47 Å2 ChemAxon
+Rotatable Bond Count 3 ChemAxon
+Refractivity 94.92 m3·mol-1 ChemAxon
+Polarizability 34.22 Å3 ChemAxon
+Number of Rings 3 ChemAxon
+Bioavailability 1 ChemAxon
+Rule of Five No ChemAxon
+Ghose Filter No ChemAxon
+Veber's Rule Yes ChemAxon
+MDDR-like Rule No ChemAxon
+Predicted ADMET features
+Property
+Value
+Probability
+Human Intestinal Absorption + 0.9904
+Blood Brain Barrier + 0.9689
+Caco-2 permeable + 0.6348
+P-glycoprotein substrate Non-substrate 0.8667
+P-glycoprotein inhibitor I Non-inhibitor 0.5537
+P-glycoprotein inhibitor II Non-inhibitor 0.857
+Renal organic cation transporter Non-inhibitor 0.8281
+CYP450 2C9 substrate Non-substrate 0.7363
+CYP450 2D6 substrate Non-substrate 0.6071
+CYP450 3A4 substrate Substrate 0.6401
+CYP450 1A2 substrate Inhibitor 0.9107
+CYP450 2C9 inhibitor Inhibitor 0.8948
+CYP450 2D6 inhibitor Non-inhibitor 0.923
+CYP450 2C19 inhibitor Inhibitor 0.8994
+CYP450 3A4 inhibitor Inhibitor 0.7959
+CYP450 inhibitory promiscuity High CYP Inhibitory Promiscuity 0.9229
+Ames test AMES toxic 0.8449
+Carcinogenicity Non-carcinogens 0.7425
+Biodegradation Not ready biodegradable 1.0
+Rat acute toxicity 1.7405 LD50, mol/kg Not applicable
+hERG inhibition (predictor I) Weak inhibitor 0.8836
+hERG inhibition (predictor II) Non-inhibitor 0.5943
+ADMET data is predicted using admetSAR, a free tool for evaluating chemical ADMET properties. (23092397)
+Spectra
+Mass Spec (NIST)
+Download (8.78 KB)
+Spectra
+Spectrum
+Spectrum Type
+Splash Key
+Predicted GC-MS Spectrum - GC-MS Predicted GC-MS Not Available
+MS/MS Spectrum - Quattro_QQQ 10V, Positive LC-MS/MS splash10-052b-0905000000-19e117da217d372632e2
+MS/MS Spectrum - Quattro_QQQ 25V, Positive LC-MS/MS splash10-00kb-0900000000-a065921efa544c82d972
+MS/MS Spectrum - Quattro_QQQ 40V, Positive LC-MS/MS splash10-0006-9600000000-19faf0e6dcd285dad8d1
+Predicted MS/MS Spectrum - 10V, Positive (Annotated) Predicted LC-MS/MS Not Available
+Predicted MS/MS Spectrum - 20V, Positive (Annotated) Predicted LC-MS/MS Not Available
+Predicted MS/MS Spectrum - 40V, Positive (Annotated) Predicted LC-MS/MS Not Available
+Predicted MS/MS Spectrum - 10V, Negative (Annotated) Predicted LC-MS/MS Not Available
+Predicted MS/MS Spectrum - 20V, Negative (Annotated) Predicted LC-MS/MS Not Available
+Predicted MS/MS Spectrum - 40V, Negative (Annotated) Predicted LC-MS/MS Not Available
+LC-MS/MS Spectrum - LC-ESI-QFT , positive LC-MS/MS splash10-0002-0900000000-c4dd1b126170bea2c620
+LC-MS/MS Spectrum - LC-ESI-QFT , positive LC-MS/MS splash10-0002-0900000000-b026e71179265a982a40
+LC-MS/MS Spectrum - LC-ESI-QFT , positive LC-MS/MS splash10-00di-0900000000-a17707ff263e82d6e00e
+LC-MS/MS Spectrum - LC-ESI-QFT , positive LC-MS/MS splash10-00di-3900000000-d0563822804c2844660b
+LC-MS/MS Spectrum - LC-ESI-QFT , positive LC-MS/MS splash10-006x-9700000000-a217b6444068e1406235
+LC-MS/MS Spectrum - LC-ESI-QFT , positive LC-MS/MS splash10-00kf-9200000000-dc89d8219d5ce2567f3c
+MS/MS Spectrum - , positive LC-MS/MS splash10-01ot-0901000000-c6fc83b073e80d5851f5
+1H NMR Spectrum 1D NMR Not Applicable
+[1H,13C] 2D NMR Spectrum 2D NMR Not Applicable
+Taxonomy
+Description
+This compound belongs to the class of organic compounds known as naphthalenes. These are compounds containing a naphthalene moiety, which consists of two fused benzene rings.
+Kingdom
+Organic compounds
+Super Class
+Benzenoids
+Class
+Naphthalenes
+Sub Class
+Not Available
+Direct Parent
+Naphthalenes
+Alternative Parents
+Toluenes / Thiocarbamic acid esters / Organopnictogen compounds / Organooxygen compounds / Organonitrogen compounds / Hydrocarbon derivatives
+Substituents
+Naphthalene / Toluene / Monocyclic benzene moiety / Thiocarbamic acid ester / Thiocarbamic acid derivative / Organic nitrogen compound / Organic oxygen compound / Organopnictogen compound / Hydrocarbon derivative / Organosulfur compound
+Molecular Framework
+Aromatic homopolycyclic compounds
+External Descriptors
+monothiocarbamic ester (CHEBI:9620)
+Targets
+Details1. Squalene monooxygenase
+Kind
+Protein
+Organism
+Yeast
+Pharmacological action
+Yes
+Actions
+Inhibitor
+General Function
+Squalene monooxygenase activity
+Specific Function
+Catalyzes the first oxygenation step in sterol biosynthesis and is suggested to be one of the rate-limiting enzymes in this pathway.
+Gene Name
+ERG1
+Uniprot ID
+Q92206
+Uniprot Name
+Squalene monooxygenase
+Molecular Weight
+55297.635 Da
+References
+Barrett-Bee K, Dixon G: Ergosterol biosynthesis inhibition: a target for antifungal agents. Acta Biochim Pol. 1995;42(4):465-79. [PubMed:8852337]
+Ryder NS, Frank I, Dupont MC: Ergosterol biosynthesis inhibition by the thiocarbamate antifungal agents tolnaftate and tolciclate. Antimicrob Agents Chemother. 1986 May;29(5):858-60. [PubMed:3524433]
+Georgopapadakou NH, Bertasso A: Effects of squalene epoxidase inhibitors on Candida albicans. Antimicrob Agents Chemother. 1992 Aug;36(8):1779-81. [PubMed:1416865]
+Drug created on June 13, 2005 07:24 / Updated on April 19, 2019 19:08
+Product Image
+×
+Show full image
+About
+About DrugBank
+DrugBank Blog
+Wishart Research Group
+Terms of Use
+Privacy Policy
+Support
+FAQ
+Help Center
+Email Support
+Commercial Products
+API Pricing
+API Docs
+Data Licenses
+Support
+This project is supported by the Canadian Institutes of Health Research (award #111062), Alberta Innovates - Health Solutions, and by The Metabolomics Innovation Centre (TMIC), a nationally-funded research and core facility that supports a wide range of cutting-edge metabolomic studies. TMIC is funded by Genome Alberta, Genome British Columbia, and Genome Canada, a not-for-profit organization that is leading Canada's national genomics strategy with funding from the federal government. Maintenance, support, and commercial licensing is provided by OMx Personal Health Analytics, Inc. Designed by Educe Design & Innovation Inc.

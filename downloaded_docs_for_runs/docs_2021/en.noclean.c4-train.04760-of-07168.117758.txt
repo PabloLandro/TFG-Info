@@ -1,0 +1,518 @@
+Anxiety is associated with diminished exercise performance and quality of life in severe emphysema: a cross-sectional study | Respiratory Research | Full Text
+Skip to content
+Advertisement
+Menu
+Explore journals
+Get published
+About BMC
+Search
+Login My Account
+Search all BMC articles
+Search
+Respiratory Research
+Menu
+Home
+About
+Articles
+Submission Guidelines
+Table of Contents
+Abstract
+Background
+Methods
+Results
+Discussion
+Conclusion
+Declarations
+References
+Research
+Open Access
+Anxiety is associated with diminished exercise performance and quality of life in severe emphysema: a cross-sectional study
+Nicholas D Giardino1_872, 3_872Email author,
+Jeffrey L Curtis2_872, 4_872,
+Adin-Cristian Andrei2_872,
+Vincent S Fan5_872,
+Joshua O Benditt5_872,
+Mark Lyubkin1_872, 3_872,
+Keith Naunheim6_872,
+Gerard Criner7_872,
+Barry Make8_872,
+Robert A Wise9_872,
+Susan K Murray2_872,
+Alfred P Fishman10_872,
+Frank C Sciurba11_872,
+Israel Liberzon1_872, 3_872,
+Fernando J Martinez2_872 and
+the NETT Research Group
+Respiratory Research201011:29
+https://doi.org/10.1186/1465-9921-11-29
+© The Author(s) 2010
+Received: 19 November 2009
+Accepted: 9 March 2010
+Published: 9 March 2010
+Abstract
+Background
+Anxiety in patients with chronic obstructive pulmonary disease (COPD) is associated with self-reported disability. The purpose of this study is to determine whether there is an association between anxiety and functional measures, quality of life and dyspnea.
+Methods
+Data from 1828 patients with moderate to severe emphysema enrolled in the National Emphysema Treatment Trial (NETT), collected prior to rehabilitation and randomization, were used in linear regression models to test the association between anxiety symptoms, measured by the Spielberger State Trait Anxiety Inventory (STAI) and: (a) six-minute walk distance test (6 MWD), (b) cycle ergometry peak workload, (c) St. Georges Respiratory Questionnaire (SRGQ), and (d) UCSD Shortness of Breath Questionnaire (SOBQ), after controlling for potential confounders including age, gender, FEV1 (% predicted), DLCO (% predicted), and the Beck Depression Inventory (BDI).
+Results
+Anxiety was significantly associated with worse functional capacity [6 MWD (B = -0.944, p < .001), ergometry peak workload (B = -.087, p = .04)], quality of life (B = .172, p < .001) and shortness of breath (B = .180, p < .001). Regression coefficients show that a 10 point increase in anxiety score is associated with a mean decrease in 6 MWD of 9 meters, a 1 Watt decrease in peak exercise workload, and an increase of almost 2 points on both the SGRQ and SOBQ.
+Conclusion
+In clinically stable patients with moderate to severe emphysema, anxiety is associated with worse exercise performance, quality of life and shortness of breath, after accounting for the influence of demographic and physiologic factors known to affect these outcomes.
+Trail Registration
+ClinicalTrials.gov NCT00000606
+Keywords
+Chronic Obstructive Pulmonary Disease
+Chronic Obstructive Pulmonary Disease Patient
+Beck Depression Inventory
+Exercise Performance
+Chronic Obstructive Pulmonary Disease Severity
+Background
+Chronic obstructive pulmonary disease (COPD) is a leading cause of disability and death. Disability, functional limitations and decreased quality of life in patients with COPD are correlated with objective physiologic measures of disease severity [1–3]. However, a large proportion of the variance in functional status and quality of life associated with COPD is not explained by measures of pulmonary physiology. Psychological factors may play in important role in determining the impact of COPD on patient functioning. For example, anxiety in patients with COPD has been associated with decreased quality of life, more severe dyspnea, greater disability, and impaired functional status [4, 5] even after controlling for lung function and the presence of other chronic diseases [6, 7]. Anxiety is also a significant predictor of the frequency of hospitalizations for acute exacerbations of COPD [8].
+Anxiety is a major clinical problem in patients with COPD. The prevalence of clinical anxiety disorders in patients with COPD is substantially higher than in the general public. Anxiety symptoms are very common in patients with COPD. In previously published studies 10-80% of patients endorsed anxiety symptoms [1, 7, 9–12], exceeding that for patients with other chronic medical conditions such as heart disease, renal disease, AIDS and cancer [13, 14]. Estimates for specific anxiety disorders range from a 10-32%, a 3- to 10-fold increase in COPD compared to the general population. The most common anxiety disorders diagnosed with COPD are generalized anxiety disorder and panic disorder, which may occur in as many as one-third of COPD patients [15–17]. Defining the contribution of anxiety to functional impairment in COPD is a first step in determining the potential for interventions to combat anxiety to improve functional status.
+Most previous studies of the impact of anxiety on patients with COPD have relied on patient self-report measures of functioning [4, 6, 7]. In these studies self-report biases may confound the true association between psychological and physical health [18]. Investigations that have included objective measures of functioning (e.g., 6-minute walk distance test (6 MWD)) have been limited by small sample size, or have included only patients selected for high levels of anxiety and depression [5, 9].
+In the current study, we hypothesized that anxiety would be associated with worse functional performance (6 MWD; maximal exercise capacity), health-related quality of life (SGRQ), and dyspnea (SOBQ), after controlling for the effects of potential confounders including age, pulmonary function and depression. We used data from a carefully characterized large group of patients with severe emphysema who were evaluated for the National Emphysema Treatment Trial (NETT). We also examined whether sex differences existed in the relationship between anxiety symptoms and outcomes variables (6 MWD, maximal exercise capacity, SGRQ, SOBQ).
+Methods
+Study group
+Ethics committee approval for the NETT was obtained from the Institutional Review Boards of all participating sites. Procedures for recruitment, screening, determination of eligibility, and assessments for the NETT are described in detail elsewhere [19, 20]. Briefly, 3777 patients were screened for the NETT from 1998 to 2002. Patients were included if they had moderate to severe emphysema, had been nonsmokers for at least 6 months, and did not have clinically significant comorbid conditions or circumstances that placed them at high risk for perioperative morbidity or mortality or made it unlikely that they would complete the trial. In order to maximize generalizability and sample heterogeneity, patients were included in the analyses if they had all of the required data from the initial screening assessment, prior to the start of the pre-randomization rehabilitation program. 1828 patients met these criteria. A total of 1218 patients went on to randomization to receive either lung volume reduction surgery or continued regular medical treatment. Patients failed to reach randomization for a number of reasons, for example failure to complete rehabilitation program and all postrehabilitation and randomization assessments, failure to obtain final approval for surgery just prior to randomization, and other new onset complications that met study exclusion criteria. Although no differences between randomized and non-randomized patients were expected in our analyses, in order to allow comparison with a number of other reports that are based on data only from randomized NETT subjects, our data analyses were also repeated for randomized patients with complete data from the initial screening assessment on all variables analyzed (n = 1154).
+Demographic and questionnaire measures
+Demographics and self-report measures were collected using standardized instruments including:
+Spielberger State Trait Anxiety Inventory (STAI; [21])
+The STAI is a 40-item self-report measure of enduring (trait) and transient (state) anxiety symptoms. Respondents rate how statements reflect how they generally feel on a 4-point scale. STAI state and trait scores range from 20-80. State anxiety is defined as unpleasant emotional arousal, characterized by feelings of tension and apprehension, and heightened autonomic nervous system activity, while trait anxiety measures a stable tendency to respond with state anxiety. The state anxiety scale of the questionnaire was chosen for our analyses in order to more closely match the time frame referenced by most of our other questionnaire measures (i.e., current, versus past or typical, functioning). In addition the state anxiety measurement has been shown to be more valid than that of trait anxiety [22].
+Beck Depression Inventory (BDI;[23])
+The BDI is a 21 item self-report measure of symptoms of depression. Respondents choose statements that reflect how they have felt over the past 2 weeks. The BDI contains 13 items assessing cognitive-mood depressive symptoms (e.g., sadness, guilt) and 8 items that assess physical-performance symptoms of depression (e.g., fatigue, weight loss, physical health worries).
+St. Georges Respiratory Questionnaire (SGRQ;[24])
+The SGRQ is a 60-item-disease specific instrument developed for use with patients with airflow limitation and designed to measure health-related quality of life. We used the full-scale SGRQ score in our analysis.
+UCSD Shortness of Breath Questionnaire (UCSD-SOBQ[25])
+The UCSD-SOBQ is a 33-item measure of shortness of breath while performing activities.
+Questionnaires were administered to subjects after performance of diagnostic testing and determination of study eligibility.
+Physiologic measures
+Pulmonary function tests, including spirometry and single-breath diffusing capacity (DLCO), were performed in accordance with American Thoracic Society standards[26, 27]. Spirometry values used in this report (FEV1) were obtained following bronchodilator (albuterol) administration. Percent of predicted values were calculated using normal reference values derived from Crapo and colleagues [28, 29]. The standardized 6 MWD protocol has been described in detail elsewhere [30] and provided maximum distance walked. Maximum exercise capacity (watts) was measured on an electromagnetically-braked cycle ergometer that increased at a rate of 5 or 10 W per minute after 3 minutes of unloaded pedaling while subjects breathed 30 percent oxygen.
+Statistical analysis
+Descriptive statistics were performed. Analysis of variance was used to compare patients who were versus were not randomized in the NETT. For categorical variables a Pearson Chi-square test was performed. Next, four separate multiple linear regression models were computed to test the association between state anxiety and: (a) 6 MWD; (b) maximum exercise capacity; (c) St. Georges Respiratory Questionnaire total score; and (d) UCSD Shortness of Breath Questionnaire total score. In the first regression model, 6 MWD was entered as the dependent variable. Patient age, gender, FEV1%, DLCO%, Beck Depression Inventory score and Spielberger State Anxiety score were entered as the independent variables. The second through fourth models were identical to the first, except substituting maximum workload on cardiopulmonary exercise test, SGRQ total score, and UCSD SOBQ total score, respectively, as the dependent variable. In order to test for possible collinearity between independent variables, eigenvalues of the scaled and uncentered cross-products matrix, condition indices, variance-decomposition proportions, variance inflation factors (VIF) and tolerances were computed for individual variables. All statistical analyses were performed using SPSS statistical software (SPSS, Inc. Chicago, IL, USA). A probability value of p = .05 was used to determine statistical significance.
+The STAI and BDI are not clinical diagnostic tools. However there are published cutoff scores for both instruments to indicate clinically significant symptom levels. In general population samples, cutoff scores of 19 and 40 are used for the STAI [21] and BDI [23], respectively, to indicate clinically significant symptoms and likely diagnosis. For the BDI, scores of 10 or above indicate mild-moderate depressive symptoms. In geriatric outpatient populations higher cutoff scores have been recommended: 22 for the STAI and 44 for the BDI, based on assessment studies in persons aged 55 and older [31, 32]. Questions have also been raised about the interpretation of specific depression symptoms in patients with chronic medical illness, including COPD [33, 34]. Because of a concern that the full BDI score might overestimate depression severity in patients with more severe emphysema due to overlap between COPD severity and somatically-focused depression symptoms on the BDI (e.g., fatigue, weight loss, physical health worries), we repeated each multiple regression analysis entering the totals of 'cognitive-mood' and 'physical-performance' BDI items separately as independent variables.
+Results
+In general, this study population was elderly and primarily white; approximately two-thirds were male. Subjects' age range was 28-89 years, with 96% of patients aged 55 or older. Subjects had severe airflow limitation and impaired diffusing capacity. Compared to published population norms for the SGRQ (mean = 12.17) [35] and 6 MWD (mean = 555 meters)[36] in similar age groups (ages 60-69), subjects in this study showed lower exercise performance and poorer health-related quality of life (Table 1).
+Table 1
+Characteristics of enrolled NETT patients used in this report* (n = 1828).
+Age at evaluation (years; Mean ± SD)
+66.7 ± 6.3
+Gender
+1134 (62%) Male
+694 (38%) Female
+Race/ethnic group
+1727 (94%) Non-Hispanic white
+73 (4%) Non-Hispanic black
+28 (2%) Other
+FEV1
+% of predicted (Mean ± SD)
+27.1 ± 7.5
+L (Mean ± SD)
+0.78 ± 0.25
+DLCO
+% of predicted (Mean ± SD)
+28.2 ± 10.1
+ml/min/mmHg STPD (Mean ± SD)
+8.0 ± 3.2
+Beck Depression Inventory (Mean ± SD)
+9.5 ± 6.0
+Spielberger Anxiety Inventory - State (Mean ± SD)
+34.9 ± 10.9
+6-Minute Walk Test (meters; Mean ± SD)
+344.2 ± 105.8
+Maximum Exercise Capacity (watts; Mean ± SD)
+35.6 ± 21.9
+St. George's Respiratory Questionnaire - total score (Mean ± SD)
+56.4 ± 13.1
+UCSD Shortness of Breath Questionnaire (Mean ± SD)
+64.9 ± 19.4
+* Includes some patients who were not ultimately randomized to treatment. See Methods for additional details
+Subjects showed moderately high levels of baseline anxiety and depression. Thirty percent of subjects had state anxiety scores above 40 and twenty percent scored above 44. Forty-one percent of subjects had a BDI score of 10 or higher, indicating mild-moderate depressive symptoms. Eight percent of subjects scored 19 or higher on the BDI and 4% scored 22 or higher, indicating moderate-severe symptoms. Women had significantly higher anxiety (36.4 vs. 34.0, p < .001) and depression (10.3 vs. 9.0, p < .001) scores than men. Non-randomized subjects differed significantly from randomized subjects in 6 MWD (337.3 m. vs. 348.0 m., p = .04) and shortness of breath scores (63.5 vs. 65.5, p = .04), with non-randomized subjects showing greater impairment on both variables.
+Results of multiple linear regression analyses showed that anxiety was significantly associated with decreased 6 MWD, even after adjusting for patient age, gender, FEV1 (% predicted), DLCO (% predicted), and depression (Table 2). Likewise, anxiety was significantly and inversely associated with maximal workload during cardiopulmonary exercise testing after adjusting for age, gender, FEV1 %, DLCO %, and depression. Finally, after controlling for patient age, gender, FEV1 %, DLCO%, and depression score, anxiety was also significantly associated with SGRQ and UCSD Shortness of Breath Questionnaire total scores. Regression coefficients from models with the BDI mood and physical symptom scores show that a 10-point increase in anxiety score is associated with a mean decrease in 6 MWD of 9 meters, a decrease in maximum exercise workload of almost 1 Watt, and an increase of approximately 2 points on the SGRQ and the UCSD SOBQ. Collinearity diagnostic test did not indicate significant collinearity between independent variables in the regression models (data not shown). Effects for anxiety were similar when limiting analyses to only randomized patients, but were not statistically significant for maximum workload (data not shown).
+Table 2
+Results of multiple linear regression analyses for 6 MWD, maximum exercise, quality of life, and shortness of breath.
+Model fit
+B
+SE
+Beta
+p
+95% Confidence Interval for B
+R 2
+p
+6MWD
+Age (years)
+-2.37
+.37
+-.14
+<.001
+[-3.09, -1.65]
+Male Gender
+45.04
+4.78
+.21
+<.001
+[35.67, 54.40]
+FEV1%
+3.39
+.33
+.25
+<.001
+[2.75, 4.03]
+DLCO%
+2.61
+.23
+.25
+<.001
+[2.15, 3.06]
+Depression-M
+.26
+.79
+.01
+.746
+[-1.30, 1.81]
+Depression-P
+-2.64
+.85
+-.08
+.002
+[-4.31, -.97]
+Anxiety
+-.99
+.24
+-.10
+<.001
+[-1.45, -.52]
+.22
+<.001
+Max. exercise
+Age (years)
+-.62
+.07
+-.18
+<.001
+[-.75, -.49]
+Male Gender
+20.44
+.85
+.45
+<.001
+[18.77, 22.11]
+FEV1%
+1.14
+.06
+.40
+<.001
+[1.03, 1.26]
+DLCO%
+.50
+.04
+.23
+<.001
+[.42, .58]
+Depression-M
+.21
+.14
+.03
+.142
+[-.07, .49]
+Depression-P
+-.73
+.15
+-.11
+<.001
+[-1.02, -.43]
+Anxiety
+-.10
+.04
+-.05
+.017
+[-.19, -.02]
+.43
+<.001
+Quality of life
+Age (years)
+-.26
+.04
+-.13
+<.001
+[-.35, -.18]
+Male Gender
+1.18
+.56
+.04
+.037
+[.07, 2.29]
+FEV1%
+-.10
+.04
+-.06
+.012
+[-.17, -.02]
+DLCO%
+-.07
+.03
+-.05
+.018
+[.-12, -.01]
+Depression-M
+.31
+.09
+.09
+.001
+[.12, .49]
+Depression-P
+1.34
+.10
+.33
+<.001
+[1.15, 1.54]
+Anxiety
+.187
+.03
+.16
+<.001
+[.13, .24]
+.28
+<.001
+Shortness of Breath
+Age (years)
+-.132
+.07
+-.04
+.045
+[-.26, -.01]
+Male Gender
+-2.940
+.85
+-.07
+.001
+[-4.61, -1.27]
+FEV1%
+-.345
+.06
+-.14
+<.001
+[-.46, -.23]
+DLCO%
+-.285
+.04
+-.15
+<.001
+[-.37, -.20]
+Depression-M
+.139
+.14
+.03
+.331
+[-.14, .42]
+Depression-P
+1.836
+.15
+.30
+<.001
+[1.54, 2.13]
+Anxiety
+.206
+.04
+.12
+<.001
+[.12, .29]
+.24
+<.001
+Unstandardized regression coefficients (B), standard errors (SE), standardized coefficients (Beta), significance values (p), and 95% confidence intervals are shown for each independent variable. Goodness-of-fit (R2) shown for each regression model. For each regression model, BDI depression was entered either as total score or as two separate independent variables composed of the mood (Depression-M) or physical (Depression-P) BDI symptom items.
+FEV1%: forced expiratory volume in 1 second, percent of predicted.
+DLCO%: single-breath diffusing capacity of carbon monoxide, percent of predicted.
+Total BDI depression score was also significantly associated with 6 MWD (B = -1.12, SE = 0.43, p = .009), peak workload (B = -0.24, SE = .08, p = .002), SGRQ (B = .80, SE = 0.05, p < .001) and UCSD Shortness of Breath Questionnaire (B = 0.950, SE = 0.08, p < .001) total scores. But, when BDI scores were separated into 'mood' and 'physical' symptoms scores, physical, but not mood, symptoms were associated with the dependent variables in all cases (Table 2).
+In separate multivariate regression models predicting 6 MWD, maximum exercise workload, SGRQ, and UCSD Shortness of Breath Questionnaire total scores, a significant interaction was found between gender and anxiety score in predicting SGRQ total score after adjusting for age, FEV1%, DLCO%, and depression score. Anxiety was much more strongly associated with SGRQ for men (B ± SE = 0.23 ± .04; p < .001; 95% confidence interval [0.16, 0.30]), than for women (B ± SE = 0.09 ± .04; p = .03; 95% confidence interval [0.01, 0.18].
+Discussion
+This analysis of a large, prospectively studied cohort of patients with severe emphysema screened for enrollment in a clinical trial of lung volume reduction surgery makes several important observations about state anxiety. We show that state anxiety was significantly and independently associated with 1) shorter 6 MWD distance; 2) diminished maximum workload on cardiopulmonary exercise testing; 3) poorer health-related quality of life, and 4) more shortness of breath. It should be emphasized that our measure of anxiety evaluates a general state of feeling anxious and does not indicate how anxious patients actually felt during exercise testing. Emotional distress experienced during exercise may be even more strongly associated with performance outcomes [37–39]. Nonetheless, our findings suggest that anxiety may be a valid target for therapeutic interventions in patients with severe emphysema.
+A key feature of our report is the objective measurement of physical functioning using well-validated physiologic measures, which allows us to extend the findings of other investigators who suggested greater impairment in physical functioning and quality of life with increasing levels of anxiety in COPD patients [7, 40–42]. Our results contrast with those of Borak et al., who reported no significant effect of anxiety on exercise performance [9], however the differences may relate mostly to methodological and data analytical issues. That study examined the effects of a number of psychological variables, including anxiety and depression, on 6 MWD in a group of 49 patients with moderate to severe COPD, and concluded that they had no effect at all on exercise performance. In their analyses, authors entered up to 15 independent variables into a multiple regression equation, with 6 MWD as the dependent variable. With only 49 patients, this model may have been underpowered to detect anything but very large effects. In addition, the power to detect an effect of anxiety was decreased further by the conversion of anxiety to a categorical variable of low, moderate or high based on subjects' scores on a continuous measure of anxiety. In contrast, our study analyzed anxiety as a continuous variable and, to our knowledge, utilized the largest sample size to date to examine the question.
+Our results also contrast with those of Weaver and colleagues [43], who tested a causal model of factors affecting self-reported physical, mental, and social functioning including age, length of illness, FEV1, dyspnea, depression, anxiety, self-esteem, and exercise capacity, as measured by the 12-minute walk test in patients with COPD. They found that anxiety was linked to exercise capacity, but only through its association with depression and dyspnea. It is possible that the differences in findings between these studies are due to the use of different measures of anxiety, depression, and dyspnea. In addition, our subjects were a more homogenous group with more severe COPD and an emphysematous phenotype.
+Our analyses showed that depression, as measured by the BDI total score, was significantly associated with poorer exercise performance and worse health-related quality of life scores. But, our results indicate that the observed association between depression and other patient variables was due to the somatic symptoms of depression included on the BDI. These include, for example, "I get tired more easily than I used to", "It takes an extra effort to get started at doing something", and "My appetite is not as good as it used to be." It is easy to see that these depression symptoms are also likely to be indicators of COPD severity. Thus, it is difficult to conclude that the observed associations between BDI total score and patient functioning were related to depression per se, rather than items on the BDI that served as another proxy for COPD severity. Future studies should use measures of depression that minimize overlap with COPD symptoms.
+Our analysis of the effect of gender on the association between anxiety and functioning found an interaction between gender and anxiety on quality of life reports. For men, higher anxiety was associated worse health-related quality of life, as measured by the SGRQ total score. For female patients this association was much weaker, although still statistically significant. This finding is somewhat surprising given that greater emotional distress and lower health satisfaction and quality of life have been found for women with COPD in many [44–47], but not all [48, 49] studies. In our data also, women reported greater symptoms of anxiety and depression than did men. Nonetheless our finding suggests that anxiety may impact men's ratings of health-related quality of life more than for woman. This interaction effect was not found for exercise performance or shortness of breath, indicating that the gender difference in the association between anxiety and quality of life is not due to a greater adverse impact of dyspnea or impaired physical functioning on quality of life for men. However it may be that anxiety has a greater impact on important activities and roles in men with COPD. Future research could be designed to more specifically study this potentially important phenomenon.
+Several mechanisms, not mutually exclusive, may explain the link between anxiety and functional impairment in patients with COPD. First, anxiety may increase disability in COPD by increasing vigilance for, and amplification of, distressing respiratory sensations. The tendency to misinterpret ambiguous or potentially threatening stimuli, a characteristic of many anxiety disorders, would lead anxious COPD patients to avoid any activity that might produce these sensations. Second, patients with higher anxiety may be more emotionally sensitive to unpleasant somatic sensations, which would to lead to greater distress when these bodily cues are encountered. In a recent population-based longitudinal study, anxiety and depression were associated with the new onset of dyspnea, but not vice versa [50]. Third, longitudinal experience with COPD symptoms may generate fearful or catastrophic beliefs about respiratory sensations, which, in turn, provoke anxiety that limits engagement in physical activity. Patients with COPD and panic disorder report more fearful thoughts about, and avoidance of, unpleasant somatic sensations than COPD patients without anxiety [51]. Patients who endorse beliefs such as "dyspnea is always a sign of danger", or "activities that produce dyspnea make my COPD worse and should be avoided" are more functionally impaired and report poorer quality of life independent of COPD severity [52]. Near-death episodes, need for ventilatory support, and other illness experiences could also influence the development of these fearful beliefs and frightening thoughts.
+Why anxiety is so much more common in COPD than in the general population or in other disease states remains unclear. Repetitive experiences with hypoxia and hypercapnia might sensitize neural circuits that control fear responses, such as neurons in the amygdala and locus ceruleus, to overreact to either subsequent episodes of hypoxia and hypercapnia or to fearful perceptions of conditioned stimuli such as the sensation of breathlessness [53]. These reactions would again lead to avoidance of physical activity and limit exercise performance. In addition, a vicious circle may ensue, in which dyspnea leads to anxiety, which produces a rapid, shallow breathing pattern, leading to air trapping and hyperinflation, creating further dyspnea and exercise limitations [54]. Thus, anxiety in the context of COPD may represent a 'normal' response to the anxiogenic experience of repeated dyspnea, hypoxia, or hypercapnia; or it may reflect the presence of a pre-morbid anxiety problem that may become exacerbated in the presence of COPD symptoms. Deciphering the relative contributions of these two pathways to anxiety will require longitudinal studies beginning in more mild stages of COPD.
+Our findings suggest that screening for anxiety may be important in patients with moderate to severe COPD. Treating anxiety when present in patients with COPD may not only reduce emotional distress, but also improve physical functioning and overall quality of life. Brief screening instruments have been validated for the detection of anxiety in medical settings [55]. And, while there are no published large randomized controlled studies of treatments for anxiety disorders in patients with COPD, number of studies report decreased anxiety symptoms in COPD with antidepressant therapy [56–59], cognitive-behavioral therapy [60, 61], or exercise therapy, including pulmonary rehabilitation [11, 62–66].
+Our findings from our analysis of data from the NETT have some limitations. As with all research reports from treatment trials such as the NETT, the most serious limitation is related to subject characteristics influenced by study selection criteria and subject self- selection. Subjects in this study had moderate to severe emphysema. In addition, subjects who participated in the NETT were not current cigarette smokers and had agreed to participate in a rigorous pulmonary rehabilitation program. As a result, it is important to note that our findings may not be generalizable to all patients with COPD. Likewise, since only patients with COPD were included (i.e., there was not a non-COPD control group), our results are not generalizable to other patient groups. Second, questionnaires were administered prior to pulmonary rehabilitation and treatment randomization. Thus, while the measures were thus not influenced by the impact of rehabilitation or treatment, it is possible that subjects may have experienced heightened anxiety or mood symptoms in anticipation of rehabilitation participation or treatment assignment.
+While the associations between state anxiety and exercise performance found in our study were statistically significant, the absolute effect sizes for anxiety were modest. We found that a 10-point increase in state anxiety score is associated with a mean decrease in 6 MWD of 9 meters, a decrease in maximum exercise workload of approximately 1 Watt, and an increase of approximately 2 points on the SGRQ and the UCSD SOBQ. Published guidelines for the 6 MWD suggest 50 meters change to indicate clinically significant changes in walk distance [67]. For the SGRQ a change in 4 points is used to indicate clinically important differences in health-related quality of life [24]. However these guidelines were based on within-subject changes observed in clinical trials, rather than between-subject differences in cross-sectional studies. Nonetheless, using these figures as a rough guide, a patient with a high state anxiety score (2 SD above the mean or STAI = 57) in our sample would be expected to walk about 40 meters less on the 6 MWD and score 9 points worse on the SGRQ than a patient with low state anxiety (2 SD below the mean, or STAI score = 13). Thus, while the effect of anxiety on patients with COPD appears to be clinically meaningful, the significance of our findings needs to be further evaluated.
+Conclusion
+In summary, we found that state anxiety is associated with worse functioning on measures of exercise performance, health-related quality of life and shortness of breath in patients with moderate to severe emphysema, after accounting for the influence of demographic and physiologic factors known to affect these outcomes. Our results support the need for additional research into the role of anxiety as an important source of functional impairment and decreased quality of life in patients with COPD. Future studies will need to examine the mechanisms by which anxiety impacts exercise performance.
+Declarations
+Acknowledgements
+Funding: The National Emphysema Treatment Trial (NETT) is supported by contracts with the National Heart, Lung, and Blood Institute (N01HR76101, N01HR76102, N01HR76103, N01HR76104, N01HR76105, N01HR76106, N01HR76107, N01HR76108, N01HR76109, N01HR76110, N01HR76111, N01HR76112, N01HR76113, N01HR76114, N01HR76115, N01HR76116, N01HR76118, and N01HR76119), the Centers for Medicare and Medicaid Services (CMS); and the Agency for Healthcare Research and Quality (AHRQ). Dr. Martinez is also supported by 2 K24 HL04212. Dr. Giardino is supported by funding from a Career Development Award from the Clinical Science Research & Development Service, Department of Veterans Affairs. Dr. Curtis is supported by funding from a Research Enhancement Award Program (REAP) from the Biomedical Laboratory Research & Development Service, Department of Veterans Affairs.
+* Members of the NETT Research Group:
+Office of the Chair of the Steering Committee, University of Pennsylvania, Philadelphia, PA: Alfred P. Fishman, MD (Chair); Betsy Ann Bozzarello; Ameena Al-Amin.
+Clinical centers
+Baylor College of Medicine, Houston, TX: Marcia Katz, MD (Principal Investigator); Carolyn Wheeler, RN, BSN (Principal Clinic Coordinator); Elaine Baker, RRT, RPFT; Peter Barnard, PhD, RPFT; Phil Cagle, MD; James Carter, MD; Sophia Chatziioannou, MD; Karla Conejo-Gonzales; Kimberly Dubose, RRT; John Haddad, MD; David Hicks, RRT, RPFT; Neal Kleiman, MD; Mary Milburn-Barnes, CRTT; Chinh Nguyen, RPFT; Michael Reardon, MD; Joseph Reeves-Viets, MD; Steven Sax, MD; Amir Sharafkhaneh, MD; Owen Wilson, PhD; Christine Young PT; Rafael Espada, MD (Principal Investigator 1996-2002); Rose Butanda (1999-2001); Minnie Ellisor (2002); Pamela Fox, MD (1999-2001); Katherine Hale, MD (1998-2000); Everett Hood, RPFT (1998 B 2000); Amy Jahn (1998-2000); Satish Jhingran, MD (1998-2001); Karen King, RPFT (1998-1999); Charles Miller III, PhD (1996-1999); Imran Nizami, MD (Co-Principal Investigator, 2000-2001); Todd Officer (1998-2000); Jeannie Ricketts (1998-2000); Joe Rodarte, MD (Co-Principal Investigator 1996-2000); Robert Teague, MD (Co-Principal Investigator 1999-2000); Kedren Williams (1998-1999).
+Brigham and Women's Hospital, Boston, MA: John Reilly, MD (Principal Investigator); David Sugarbaker, MD (Co-Principal Investigator); Carol Fanning, RRT (Principal Clinic Coordinator); Simon Body, MD; Sabine Duffy, MD; Vladmir Formanek, MD; Anne Fuhlbrigge, MD; Philip Hartigan, MD; Sarah Hooper, EP; Andetta Hunsaker, MD; Francine Jacobson, MD; Marilyn Moy, MD; Susan Peterson, RRT; Roger Russell, MD; Diane Saunders; Scott Swanson, MD (Co-Principal Investigator, 1996-2001).
+Cedars-Sinai Medical Center, Los Angeles, CA: Rob McKenna, MD (Principal Investigator); Zab Mohsenifar, MD (Co-Principal Investigator); Carol Geaga, RN (Principal Clinic Coordinator); Manmohan Biring, MD; Susan Clark, RN, MN; Jennifer Cutler, MD; Robert Frantz, MD; Peter Julien, MD; Michael Lewis, MD; Jennifer Minkoff-Rau, MSW; Valentina Yegyan, BS, CPFT; Milton Joyner, BA (1996-2002).
+Cleveland Clinic Foundation, Cleveland, OH: Malcolm DeCamp, MD (Principal Investigator); James Stoller, MD (Co-Principal Investigator); Yvonne Meli, RN, C (Principal Clinic Coordinator); John Apostolakis, MD; Darryl Atwell, MD; Jeffrey Chapman, MD; Pierre DeVilliers, MD; Raed Dweik, MD; Erik Kraenzler, MD; Rosemary Lann, LISW; Nancy Kurokawa, RRT, CPFT; Scott Marlow, RRT; Kevin McCarthy, RCPT; Priscilla McCreight, RRT, CPFT; Atul Mehta, MD; Moulay Meziane, MD; Omar Minai, MD; Mindi Steiger, RRT; Kenneth White, RPFT; Janet Maurer, MD (Principal Investigator, 1996-2001); Terri Durr, RN (2000-2001); Charles Hearn, DO (1998-2001); Susan Lubell, PA-C (1999-2000); Peter O'Donovan, MD (1998-2003); Robert Schilz, DO (1998-2002).
+Columbia University, New York, NY in consortium with Long Island Jewish Medical Center, New Hyde Park, NY: Mark Ginsburg, MD (Principal Investigator); Byron Thomashow, MD (Co-Principal Investigator); Patricia Jellen, MSN, RN (Principal Clinic Coordinator); John Austin, MD; Matthew Bartels, MD; Yahya Berkmen, MD; Patricia Berkoski, MS, RRT (Site coordinator, LIJ); Frances Brogan, MSN, RN; Amy Chong, BS, CRT; Glenda DeMercado, BSN; Angela DiMango, MD; Sandy Do, MS, PT; Bessie Kachulis, MD; Arfa Khan, MD; Berend Mets, MD; Mitchell O = Shea, BS, RT, CPFT; Gregory Pearson, MD; Leonard Rossoff, MD; Steven Scharf, MD, PhD (Co-Principal Investigator, 1998-2002); Maria Shiau, MD; Paul Simonelli, MD; Kim Stavrolakes, MS, PT; Donna Tsang, BS; Denise Vilotijevic, MS, PT; Chun Yip, MD; Mike Mantinaos, MD (1998-2001); Kerri McKeon, BS, RRT, RN (1998-1999); Jacqueline Pfeffer, MPH, PT (1997-2002).
+Duke University Medical Center, Durham, NC: Neil MacIntyre, MD (Principal Investigator); R. Duane Davis, MD (Co-Principal Investigator); John Howe, RN (Principal Clinic Coordinator); R. Edward Coleman, MD; Rebecca Crouch, RPT; Dora Greene; Katherine Grichnik, MD; David Harpole, Jr., MD; Abby Krichman, RRT; Brian Lawlor, RRT; Holman McAdams, MD; John Plankeel, MD; Susan Rinaldo-Gallo, MED; Sheila Shearer, RRT; Jeanne Smith, ACSW; Mark Stafford-Smith, MD; Victor Tapson, MD; Mark Steele, MD (1998-1999); Jennifer Norten, MD (1998-1999).
+Mayo Foundation, Rochester, MN: James Utz, MD (Principal Investigator); Claude Deschamps, MD (Co-Principal Investigator); Kathy Mieras, CCRP (Principal Clinic Coordinator); Martin Abel, MD; Mark Allen, MD; Deb Andrist, RN; Gregory Aughenbaugh, MD; Sharon Bendel, RN; Eric Edell, MD; Marlene Edgar; Bonnie Edwards; Beth Elliot, MD; James Garrett, RRT; Delmar Gillespie, MD; Judd Gurney, MD; Boleyn Hammel; Karen Hanson, RRT; Lori Hanson, RRT; Gordon Harms, MD; June Hart; Thomas Hartman, MD; Robert Hyatt, MD; Eric Jensen, MD; Nicole Jenson, RRT; Sanjay Kalra, MD; Philip Karsell, MD; Jennifer Lamb; David Midthun, MD; Carl Mottram, RRT; Stephen Swensen, MD; Anne-Marie Sykes, MD; Karen Taylor; Norman Torres, MD; Rolf Hubmayr, MD (1998-2000); Daniel Miller, MD (1999-2002); Sara Bartling, RN (1998-2000); Kris Bradt (1998-2002).
+National Jewish Medical and Research Center, Denver, CO: Barry Make, MD (Principal Investigator); Marvin Pomerantz, MD (Co-Principal Investigator); Mary Gilmartin, RN, RRT (Principal Clinic Coordinator); Joyce Canterbury; Martin Carlos; Phyllis Dibbern, PT; Enrique Fernandez, MD; Lisa Geyman, MSPT; Connie Hudson; David Lynch, MD; John Newell, MD; Robert Quaife, MD; Jennifer Propst, RN; Cynthia Raymond, MS; Jane Whalen-Price, PT; Kathy Winner, OTR; Martin Zamora, MD; Reuben Cherniack, MD (Principal Investigator, 1997-2000).
+Ohio State University, Columbus, OH: Philip Diaz, MD (Principal Investigator); Patrick Ross, MD (Co-Principal Investigator); Tina Bees (Principal Clinic Coordinator); Jan Drake; Charles Emery, PhD; Mark Gerhardt, MD, PhD; Mark King, MD; David Rittinger; Mahasti Rittinger.
+Saint Louis University, Saint Louis, MO: Keith Naunheim, MD (Principal Investigator); Robert Gerber, MD (Co-Principal Investigator); Joan Osterloh, RN, MSN (Principal Clinic Coordinator); Susan Borosh; Willard Chamberlain, DO; Sally Frese; Alan Hibbit; Mary Ellen Kleinhenz, MD; Gregg Ruppel; Cary Stolar, MD; Janice Willey; Francisco Alvarez, MD (Co-Principal Investigator, 1999-2002); Cesar Keller, MD (Co-Principal Investigator, 1996-2000).
+Temple University, Philadelphia, PA: Gerard Criner, MD (Principal Investigator); Satoshi Furukawa, MD (Co-Principal Investigator); Anne Marie Kuzma, RN, MSN (Principal Clinic Coordinator); Roger Barnette, MD; Neil Brister, MD; Kevin Carney, RN, CCTC; Wissam Chatila, MD; Francis Cordova, MD; Gilbert D'Alonzo, DO; Michael Keresztury, MD; Karen Kirsch; Chul Kwak, MD; Kathy Lautensack, RN, BSN; Madelina Lorenzon, CPFT; Ubaldo Martin, MD; Peter Rising, MS; Scott Schartel, MD; John Travaline, MD; Gwendolyn Vance, RN, CCTC; Phillip Boiselle, MD (1997-2000); Gerald O = Brien, MD (1997-2000).
+University of California, San Diego, San Diego, CA: Andrew Ries, MD, MPH (Principal Investigator); Robert Kaplan, PhD (Co-Principal Investigator); Catherine Ramirez, BS, RCP (Principal Clinic Coordinator); David Frankville, MD; Paul Friedman, MD; James Harrell, MD; Jeffery Johnson; David Kapelanski, MD; David Kupferberg, MD, MPH; Catherine Larsen, MPH; Trina Limberg, RRT; Michael Magliocca, RN, CNP; Frank J. Papatheofanis, MD, PhD; Dawn Sassi-Dambron, RN; Melissa Weeks.
+University of Maryland at Baltimore, Baltimore, MD in consortium with Johns Hopkins Hospital, Baltimore, MD: Mark Krasna, MD (Principal Investigator); Henry Fessler, MD (Co-Principal Investigator); Iris Moskowitz (Principal Clinic Coordinator); Timothy Gilbert, MD; Jonathan Orens, MD; Steven Scharf, MD, PhD; David Shade; Stanley Siegelman, MD; Kenneth Silver, MD; Clarence Weir; Charles White, MD.
+University of Michigan, Ann Arbor, MI: Fernando Martinez, MD (Principal Investigator); Mark Iannettoni, MD (Co-Principal Investigator); Catherine Meldrum, BSN, RN, CCRN (Principal Clinic Coordinator); William Bria, MD; Kelly Campbell; Paul Christensen, MD; Kevin Flaherty, MD; Steven Gay, MD; Paramjit Gill, RN; Paul Kazanjian, MD; Ella Kazerooni, MD; Vivian Knieper; Tammy Ojo, MD; Lewis Poole; Leslie Quint, MD; Paul Rysso; Thomas Sisson, MD; Mercedes True; Brian Woodcock, MD; Lori Zaremba, RN.
+University of Pennsylvania, Philadelphia, PA: Larry Kaiser, MD (Principal Investigator); John Hansen-Flaschen, MD (Co-Principal Investigator); Mary Louise Dempsey, BSN, RN (Principal Clinic Coordinator); Abass Alavi, MD; Theresa Alcorn, Selim Arcasoy, MD; Judith Aronchick, MD; Stanley Aukberg, MD; Bryan Benedict, RRT; Susan Craemer, BS, RRT, CPFT; Ron Daniele, MD; Jeffrey Edelman, MD; Warren Gefter, MD; Laura Kotler-Klein, MSS; Robert Kotloff, MD; David Lipson, MD; Wallace Miller, Jr., MD; Richard O = Connell, RPFT; Staci Opelman, MSW; Harold Palevsky, MD; William Russell, RPFT; Heather Sheaffer, MSW; Rodney Simcox, BSRT, RRT; Susanne Snedeker, RRT, CPFT; Jennifer Stone-Wynne, MSW; Gregory Tino, MD; Peter Wahl; James Walter, RPFT; Patricia Ward; David Zisman, MD; James Mendez, MSN, CRNP (1997-2001); Angela Wurster, MSN, CRNP (1997-1999).
+University of Pittsburgh, Pittsburgh, PA: Frank Sciurba, MD (Principal Investigator); James Luketich, MD (Co-Principal Investigator); Colleen Witt, MS (Principal Clinic Coordinator); Gerald Ayres; Michael Donahoe, MD; Carl Fuhrman, MD; Robert Hoffman, MD; Joan Lacomis, MD; Joan Sexton; William Slivka; Diane Strollo, MD; Erin Sullivan, MD; Tomeka Simon; Catherine Wrona, RN, BSN; Gerene Bauldoff, RN, MSN (1997-2000); Manuel Brown, MD (1997-2002); Elisabeth George, RN, MSN (Principal Clinic Coordinator 1997-2001); Robert Keenan, MD (Co-Principal Investigator 1997-2000); Theodore Kopp, MS (1997-1999); Laurie Silfies (1997-2001).
+University of Washington, Seattle, WA: Joshua Benditt, MD (Principal Investigator), Douglas Wood, MD (Co-Principal Investigator); Margaret Snyder, MN (Principal Clinic Coordinator); Kymberley Anable; Nancy Battaglia; Louie Boitano; Andrew Bowdle, MD; Leighton Chan, MD; Cindy Chwalik; Bruce Culver, MD; Thurman Gillespy, MD; David Godwin, MD; Jeanne Hoffman; Andra Ibrahim, MD; Diane Lockhart; Stephen Marglin, MD; Kenneth Martay, MD; Patricia McDowell; Donald Oxorn, MD; Liz Roessler; Michelle Toshima; Susan Golden (1998-2000).
+Other participants
+Agency for Healthcare Research and Quality, Rockville, MD: Lynn Bosco, MD, MPH; Yen-Pin Chiang, PhD; Carolyn Clancy, MD; Harry Handelsman, DO.
+Centers for Medicare and Medicaid Services, Baltimore, MD: Steven M Berkowitz, PhD; Tanisha Carino, PhD; Joe Chin, MD; JoAnna Baldwin; Karen McVearry; Anthony Norris; Sarah Shirey; Claudette Sikora Steven Sheingold, PhD (1997-2004).
+Coordinating Center, The Johns Hopkins University, Baltimore, MD: Steven Piantadosi, MD, PhD (Principal Investigator); James Tonascia, PhD (Co-Principal Investigator); Patricia Belt; Amanda Blackford, ScM; Karen Collins; Betty Collison; Ryan Colvin, MPH; John Dodge; Michele Donithan, MHS; Vera Edmonds; Gregory L. Foster, MA; Julie Fuller; Judith Harle; Rosetta Jackson; Shing Lee, ScM; Charlene Levine; Hope Livingston; Jill Meinert; Jennifer Meyers; Deborah Nowakowski; Kapreena Owens; Shangqian Qi, MD; Michael Smith; Brett Simon, MD; Paul Smith; Alice Sternberg, ScM; Mark Van Natta, MHS; Laura Wilson, ScM; Robert Wise, MD.
+Cost Effectiveness Subcommittee: Robert M. Kaplan, PhD (Chair); J. Sanford Schwartz, MD (Co-Chair); Yen-Pin Chiang, PhD; Marianne C. Fahs, PhD; A. Mark Fendrick, MD; Alan J. Moskowitz, MD; Dev Pathak, PhD; Scott Ramsey, MD, PhD; Steven Sheingold, PhD; A. Laurie Shroyer, PhD; Judith Wagner, PhD; Roger Yusen, MD.
+Cost Effectiveness Data Center, Fred Hutchinson Cancer Research Center, Seattle, WA: Scott Ramsey, MD, PhD (Principal Investigator); Ruth Etzioni, PhD; Sean Sullivan, PhD; Douglas Wood, MD; Thomas Schroeder, MA; Karma Kreizenbeck; Kristin Berry, MS; Nadia Howlader, MS.
+CT Scan Image Storage and Analysis Center, University of Iowa, Iowa City, IA: Eric Hoffman, PhD (Principal Investigator); Janice Cook-Granroth, BS; Angela Delsing, RT; Junfeng Guo, PhD; Geoffrey McLennan, MD; Brian Mullan, MD; Chris Piker, BS; Joseph Reinhardt, PhD; Blake Wood; Jered Sieren, RTR; William Stanford, MD.
+Data and Safety Monitoring Board: John A. Waldhausen, MD (Chair); Gordon Bernard, MD; David DeMets, PhD; Mark Ferguson, MD; Eddie Hoover, MD; Robert Levine, MD; Donald Mahler, MD; A. John McSweeny, PhD; Jeanine Wiener-Kronish, MD; O. Dale Williams, PhD; Magdy Younes, MD.
+Marketing Center, Temple University, Philadelphia, PA: Gerard Criner, MD (Principal Investigator); Charles Soltoff, MBA.
+Project Office, National Heart, Lung, and Blood Institute, Bethesda, MD: Gail Weinmann, MD (Project Officer); Joanne Deshler (Contracting Officer); Dean Follmann, PhD; James Kiley, PhD; Margaret Wu, PhD (1996-2001).
+Other acknowledgments
+Arthur Gelb, MD, Lakewood Regional Medical Center, Lakewood, CA.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+NDG drafted the manuscript and performed statistical analyses. JLC, JOB, KN, GC, BM, RAW, APF, FCS, and FLM participated in the design and coordination of the study, interpretation of data and writing the manuscript. AA and SKM participated in statistical analyses and writing the manuscript, VSF, ML and IL participated in writing the manuscript. All authors read and approved the final manuscript.
+Authors’ Affiliations
+(1)
+Mental Health Service, VA Ann Arbor Healthcare System, Ann Arbor, MI, USA
+(2)
+Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, University of Michigan Health System, Ann Arbor, MI, USA
+(3)
+Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA
+(4)
+Pulmonary and Critical Care Medicine Section, VA Ann Arbor Healthcare System, Ann Arbor, MI, USA
+(5)
+Division of Pulmonary & Critical Care Medicine, University of Washington, Seattle, WA, USA
+(6)
+Department of Surgery, St Louis University, St Louis, MO, USA
+(7)
+Division of Pulmonary & Critical Care Medicine, Temple University, Philadelphia, PA, USA
+(8)
+Division of Pulmonary Sciences and Critical Care Medicine, National Jewish Medical Center and Research Center, University of Colorado, Denver, CO, USA
+(9)
+Division of Pulmonary & Critical Care Medicine, Johns Hopkins University, Baltimore, MD, USA
+(10)
+Department of Medicine, University of Pennsylvania, Philadelphia, PA, USA
+(11)
+Division of Pulmonary & Critical Care Medicine, University of Pittsburgh, Pittsburgh, PA, USA
+References
+Prigatano GP, Wright EC, Levin D: Quality of life and its predictors in patients with mild hypoxemia and chronic obstructive pulmonary disease. Arch Intern Med 1984, 144:1613–1619.View ArticlePubMedGoogle Scholar
+Monso E, Fiz JM, Izquierdo J, Alonso J, Coll R, Rosell A, Morera J: Quality of life in severe chronic obstructive pulmonary disease: correlation with lung and muscle function. Respir Med 1998, 92:221–227.View ArticlePubMedGoogle Scholar
+McSweeny AJ, Grant I, Heaton RK, Adams KM, Timms RM: Life quality of patients with chronic obstructive pulmonary disease. Arch Intern Med 1982, 142:473–478.View ArticlePubMedGoogle Scholar
+Felker B, Katon W, Hedrick SC, Rasmussen J, McKnight K, McDonnell MB, Fihn SD: The association between depressive symptoms and health status in patients with chronic pulmonary disease. Gen Hosp Psychiatry 2001, 23:56–61.View ArticlePubMedGoogle Scholar
+Cully JA, Graham DP, Stanley MA, Ferguson CJ, Sharafkhaneh A, Souchek J, Kunik ME: Quality of life in patients with chronic obstructive pulmonary disease and comorbid anxiety or depression. Psychosomatics 2006, 47:312–319.View ArticlePubMedGoogle Scholar
+Beck JG, Scott SK, Teague RB, Perez FI: Correlates of daily impairment in COPD. Rehabil Psychol 1988, 33:77–84.Google Scholar
+Kim HF, Kunik ME, Molinari VA, Hillman SL, Lalani S, Orengo CA, Petersen NJ, Nahas Z, Goodnight-White S: Functional impairment in COPD patients: the impact of anxiety and depression. Psychosomatics 2000, 41:465–471.View ArticlePubMedGoogle Scholar
+Dahlen I, Janson C: Anxiety and depression are related to the outcome of emergency treatment in patients with obstructive pulmonary disease. Chest 2002, 122:1633–1637.View ArticlePubMedGoogle Scholar
+Borak J, Chodosowska E, Matuszewski A, Zielinski J: Emotional status does not alter exercise tolerance in patients with chronic obstructive pulmonary disease. Eur Respir J 1998, 12:370–373.PubMedGoogle Scholar
+Engstrom CP, Persson LO, Larsson S, Ryden A, Sullivan M: Functional status and well being in chronic obstructive pulmonary disease with regard to clinical parameters and smoking: a descriptive and comparative study. Thorax 1996, 51:825–830.View ArticlePubMedPubMed CentralGoogle Scholar
+Withers NJ, Rudkin ST, White RJ: Anxiety and depression in severe chronic obstructive pulmonary disease: the effects of pulmonary rehabilitation. J Cardiopulm Rehabil 1999, 19:362–365.View ArticlePubMedGoogle Scholar
+Yohannes AM, Baldwin RC, Connolly MJ: Depression and anxiety in elderly outpatients with chronic obstructive pulmonary disease: prevalence, and validation of the BASDEC screening questionnaire. Int J Geriatr Psychiatry 2000, 15:1090–1096.View ArticlePubMedGoogle Scholar
+Kvaal K, Macijauskiene J, Engedal K, Laake K: High prevalence of anxiety symptoms in hospitalized geriatric patients. Int J Geriatr Psychiatry 2001, 16:690–693.View ArticlePubMedGoogle Scholar
+Solano JP, Gomes B, Higginson IJ: A comparison of symptom prevalence in far advanced cancer, AIDS, heart disease, chronic obstructive pulmonary disease and renal disease. J Pain Symptom Manage 2006, 31:58–69.View ArticlePubMedGoogle Scholar
+Karajgi B, Rifkin A, Doddi S, Kolli R: The prevalence of anxiety disorders in patients with chronic obstructive pulmonary disease. Am J Psychiatry 1990, 147:200–201.View ArticlePubMedGoogle Scholar
+Moore MC, Zebb BJ: The catastrophic misinterpretation of physiological distress. Behaviour Research and Therapy 1999, 37:1105–1118.View ArticlePubMedGoogle Scholar
+Yellowlees PM, Haynes S, Potts N, Ruffin RE: Psychiatric morbidity in patients with life-threatening asthma: initial report of a controlled study. Med J Aust 1988, 149:246–249.PubMedGoogle Scholar
+Watson D, Pennebaker JW: Health complaints, stress, and distress: exploring the central role of negative affectivity. Psychol Rev 1989, 96:234–254.View ArticlePubMedGoogle Scholar
+Rationale and design of The National Emphysema Treatment Trial: a prospective randomized trial of lung volume reduction surgery. The National Emphysema Treatment Trial Research GroupChest 1999, 116:1750–1761.Google Scholar
+Fishman A, Martinez F, Naunheim K, Piantadosi S, Wise R, Ries A, Weinmann G, Wood DE: A randomized trial comparing lung-volume-reduction surgery with medical therapy for severe emphysema. N Engl J Med 2003, 348:2059–2073.View ArticlePubMedGoogle Scholar
+Speilberger CD: Manual for the State-Trait Anxiety Inventory. Palo Alto, California: Consulting Psychologists Press; 1983.Google Scholar
+Kellner R, Uhlenhuth EH: The rating and self-rating of anxiety. The British journal of psychiatry 1991, 15–22.Google Scholar
+Beck AT, Steer RA: Beck Depression Inventory, Revised Edition (BDI). San Antonio, TX: The Psychological Corporation; 1971.Google Scholar
+Jones PW, Quirk FH, Baveystock CM, Littlejohns P: A self-complete measure of health status for chronic airflow limitation. The St. George's Respiratory Questionnaire. Am Rev Respir Dis 1992, 145:1321–1327.View ArticlePubMedGoogle Scholar
+Eakin EG, Resnikoff PM, Prewitt LM, Ries AL, Kaplan RM: Validation of a new dyspnea measure: the UCSD Shortness of Breath Questionnaire. University of California, San Diego. Chest 1998, 113:619–624.View ArticlePubMedGoogle Scholar
+Standardization of Spirometry, 1994 Update. American Thoracic SocietyAm J Respir Crit Care Med 1995, 152:1107–1136.Google Scholar
+American Thoracic Society. Single-breath carbon monoxide diffusing capacity (transfer factor). Recommendations for a standard technique--1995 updateAm J Respir Crit Care Med 1995, 152:2185–2198.Google Scholar
+Crapo RO, Morris AH: Standardized single breath normal values for carbon monoxide diffusing capacity. Am Rev Respir Dis 1981, 123:185–189.PubMedGoogle Scholar
+Crapo RO, Morris AH, Gardner RM: Reference spirometric values using techniques and equipment that meet ATS recommendations. Am Rev Respir Dis 1981, 123:659–664.PubMedGoogle Scholar
+Sciurba F, Criner GJ, Lee SM, Mohsenifar Z, Shade D, Slivka W, Wise RA: Six-minute walk distance in chronic obstructive pulmonary disease: reproducibility and effect of walking course layout and length. Am J Respir Crit Care Med 2003, 167:1522–1527.View ArticlePubMedGoogle Scholar
+Himmelfarb S, Murrell SA: The prevalence and correlates of anxiety symptoms in older adults. J Psychol 1984, 116:159–167.View ArticlePubMedGoogle Scholar
+Murrell SA, Himmelfarb S, Wright K: Prevalence of depression and its correlates in older adults. Am J Epidemiol 1983, 117:173–185.PubMedGoogle Scholar
+Cohen-Cole SA, Stoudemire A: Major depression and physical illness. Special considerations in diagnosis and biologic treatment. Psychiatr Clin North Am 1987, 10:1–17.PubMedGoogle Scholar
+Cavanaugh S, Clark DC, Gibbons RD: Diagnosing depression in the hospitalized medically ill. Psychosomatics 1983, 24:809–815.View ArticlePubMedGoogle Scholar
+Ferrer M, Villasante C, Alonso J, Sobradillo V, Gabriel R, Vilagut G, Masa JF, Viejo JL, Jimenez-Ruiz CA, Miravitlles M: Interpretation of quality of life scores from the St George's Respiratory Questionnaire. Eur Respir J 2002, 19:405–413.View ArticlePubMedGoogle Scholar
+Steffen TM, Hacker TA, Mollinger L: Age- and gender-related test performance in community-dwelling elderly people: Six-Minute Walk Test, Berg Balance Scale, Timed Up & Go Test, and gait speeds. Phys Ther 2002, 82:128–137.PubMedGoogle Scholar
+von Leupoldt A, Ambruzsova R, Nordmeyer S, Jeske N, Dahme B: Sensory and affective aspects of dyspnea contribute differentially to the Borg scale's measurement of dyspnea. Respiration 2006, 73:762–768.View ArticlePubMedGoogle Scholar
+Carrieri-Kohlman V, Gormley JM, Douglas MK, Paul SM, Stulbarg MS: Differentiation between dyspnea and its affective components. Western journal of nursing research 1996, 18:626–642.View ArticlePubMedGoogle Scholar
+Giardino ND, Chan L, Borson S: Combined heart rate variability and pulse oximetry biofeedback for chronic obstructive pulmonary disease: preliminary findings. Appl Psychophysiol Biofeedback 2004, 29:121–133.View ArticlePubMedGoogle Scholar
+Aydin IO, Ulusahin A: Depression, anxiety comorbidity, and disability in tuberculosis and chronic obstructive pulmonary disease patients: applicability of GHQ-12. Gen Hosp Psychiatry 2001, 23:77–83.View ArticlePubMedGoogle Scholar
+Beck JG, Scott SK, Teague RB, Perez FI, et al.: Correlates of daily impairment in COPD. Rehabil Psychol 1988, 33:77–84.Google Scholar
+Gudmundsson G, Gislason T, Janson C, Lindberg E, Suppli Ulrik C, Brondum E, Nieminen MM, Aine T, Hallin R, Bakke P: Depression, anxiety and health status after hospitalisation for COPD: a multicentre study in the Nordic countries. Respir Med 2006, 100:87–93.View ArticlePubMedGoogle Scholar
+Weaver TE, Richmond TS, Narsavage GL: An explanatory model of functional status in chronic obstructive pulmonary disease. Nurs Res 1997, 46:26–31.View ArticlePubMedGoogle Scholar
+Fan VS, Ramsey SD, Giardino ND, Make BJ, Emery CF, Diaz PT, Benditt JO, Mosenifar Z, McKenna R Jr, Curtis JL, et al.: Sex, depression, and risk of hospitalization and mortality in chronic obstructive pulmonary disease. Arch Intern Med 2007, 167:2345–2353.View ArticlePubMedGoogle Scholar
+Martinez FJ, Curtis JL, Sciurba F, Mumford J, Giardino ND, Weinmann G, Kazerooni E, Murray S, Criner GJ, Sin DD, et al.: Sex differences in severe pulmonary emphysema. Am J Respir Crit Care Med 2007, 176:243–252.View ArticlePubMedPubMed CentralGoogle Scholar
+Isoaho R, Keistinen T, Laippala P, Kivela SL: Chronic obstructive pulmonary disease and symptoms related to depression in elderly persons. Psychol Rep 1995, 76:287–297.View ArticlePubMedGoogle Scholar
+de Torres JP, Casanova C, Hernandez C, Abreu J, Aguirre-Jaime A, Celli BR: Gender and COPD in patients attending a pulmonary clinic. Chest 2005, 128:2012–2016.View ArticlePubMedGoogle Scholar
+Di Marco F, Verga M, Reggente M, Maria Casanova F, Santus P, Blasi F, Allegra L, Centanni S: Anxiety and depression in COPD patients: The roles of gender and disease severity. Respir Med 2006, 100:1767–1774.View ArticlePubMedGoogle Scholar
+Stahl E, Lindberg A, Jansson SA, Ronmark E, Svensson K, Andersson F, Lofdahl CG, Lundback B: Health-related quality of life is related to COPD disease severity. Health Qual Life Outcomes 2005, 3:56.View ArticlePubMedPubMed CentralGoogle Scholar
+Neuman A, Gunnbjornsdottir M, Tunsater A, Nystrom L, Franklin KA, Norrman E, Janson C: Dyspnea in relation to symptoms of anxiety and depression: A prospective population study. Respir Med 2006, 100:1843–1849.View ArticlePubMedGoogle Scholar
+Porzelius J, Vest M, Nochomovitz M: Respiratory function, cognitions, and panic in chronic obstructive pulmonary patients. Behav Res Ther 1992, 30:75–77.View ArticlePubMedGoogle Scholar
+Giardino ND, Borson S, Von Korff M, Chan L: Beliefs about breathlessness are associated with disability in COPD. American Thoracic Society annual meeting, May 2004; Orlando, FL Google Scholar
+Shekhar A, Sajdyk TJ, Gehlert DR, Rainnie DG: The amygdala, panic disorder, and cardiovascular responses. Ann N Y Acad Sci 2003, 985:308–325.View ArticlePubMedGoogle Scholar
+Cooper CB: The connection between chronic obstructive pulmonary disease symptoms and hyperinflation and its impact on exercise and function. Am J Med 2006, 119:21–31.View ArticlePubMedGoogle Scholar
+Means-Christensen AJ, Sherbourne CD, Roy-Byrne PP, Craske MG, Stein MB: Using five questions to screen for five common mental disorders in primary care: diagnostic accuracy of the Anxiety and Depression Detector. Gen Hosp Psychiatry 2006, 28:108–118.View ArticlePubMedGoogle Scholar
+Borson S, McDonald GJ, Gayle T, Deffebach M, Lakshminarayan S, VanTuinen C: Improvement in mood, physical symptoms, and function with nortriptyline for depression in patients with chronic obstructive pulmonary disease. Psychosomatics 1992, 33:190–201.View ArticlePubMedGoogle Scholar
+Argyropoulou P, Patakas D, Koukou A, Vasiliadis P, Georgopoulos D: Buspirone effect on breathlessness and exercise performance in patients with chronic obstructive pulmonary disease. Respiration 1993, 60:216–220.View ArticlePubMedGoogle Scholar
+Papp LA, Weiss JR, Greenberg HE, Rifkin A, Scharf SM, Gorman JM, Klein DF: Sertraline for chronic obstructive pulmonary disease and comorbid anxiety and mood disorders. Am J Psychiatry 1995, 152:1531.PubMedGoogle Scholar
+Smoller JW, Pollack MH, Systrom D, Kradin RL: Sertraline effects on dyspnea in patients with obstructive airways disease. Psychosomatics 1998, 39:24–29.View ArticlePubMedGoogle Scholar
+Kunik ME, Braun U, Stanley MA, Wristers K, Molinari V, Stoebner D, Orengo CA: One session cognitive behavioural therapy for elderly patients with chronic obstructive pulmonary disease. Psychol Med 2001, 31:717–723.View ArticlePubMedGoogle Scholar
+de Godoy DV, de Godoy RF: A randomized controlled trial of the effect of psychotherapy on anxiety and depression in chronic obstructive pulmonary disease. Arch Phys Med Rehabil 2003, 84:1154–1157.View ArticlePubMedGoogle Scholar
+Emery CF: Effects of age on physiological and psychological functioning among COPD patients in an exercise program. J Aging Health 1994, 6:3–16.View ArticlePubMedGoogle Scholar
+Emery CF, Schein RL, Hauck ER, MacIntyre NR: Psychological and cognitive outcomes of a randomized trial of exercise among patients with chronic obstructive pulmonary disease. Health Psychol 1998, 17:232–240.View ArticlePubMedGoogle Scholar
+Emery CF, Shermer RL, Hauck ER, Hsiao ET, MacIntyre NR: Cognitive and psychological outcomes of exercise in a 1-year follow-up study of patients with chronic obstructive pulmonary disease. Health Psychol 2003, 22:598–604.View ArticlePubMedGoogle Scholar
+Guell R, Resqueti V, Sangenis M, Morante F, Martorell B, Casan P, Guyatt GH: Impact of pulmonary rehabilitation on psychosocial morbidity in patients with severe COPD. Chest 2006, 129:899–904.View ArticlePubMedGoogle Scholar
+Kayahan B, Karapolat H, Atyntoprak E, Atasever A, Ozturk O: Psychological outcomes of an outpatient pulmonary rehabilitation program in patients with chronic obstructive pulmonary disease. Respir Med 2006, 100:1050–1057.View ArticlePubMedGoogle Scholar
+ATS statement: guidelines for the six-minute walk testAm J Respir Crit Care Med 2002, 166:111–117.Google Scholar
+Copyright
+© The Author(s) 2010
+This article is published under license to BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Download PDF
+Export citations
+Papers, Zotero, Reference Manager, RefWorks (.RIS)
+Download Citations
+Download References
+Download Both
+EndNote (.ENW)
+Download Citations
+Download References
+Download Both
+Mendeley, JabRef (.BIB)
+Download Citations
+Download References
+Download Both
+Metrics
+Share this article
+Share on Twitter
+Share on Facebook
+Share on LinkedIn
+Share on Weibo
+Share on Reddit
+Get shareable link
+Other Actions
+Order reprint
+Advertisement
+Respiratory Research
+ISSN: 1465-993X
+Contact us
+Submission enquiries: Access here and click Contact Us
+General enquiries: info@biomedcentral.com
+Read more on our blogs
+Receive BMC newsletters
+Manage article alerts
+Language editing for authors
+Scientific editing for authors
+Policies
+Accessibility
+Press center
+Support and Contact
+Leave feedback
+Careers
+Follow BMC
+BMC Twitter page
+BMC Facebook page
+BMC Weibo page
+By using this website, you agree to our Terms and Conditions, Privacy statement and Cookies policy. Manage the cookies we use in the preference centre.
+© 2019 BioMed Central Ltd unless otherwise stated. Part of Springer Nature.

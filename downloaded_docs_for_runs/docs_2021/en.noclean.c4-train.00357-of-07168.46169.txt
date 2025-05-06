@@ -1,0 +1,96 @@
+Selenium
+Pathway detail - flipper e nuvola
+New user Login
+About
+Browse
+Reports
+Items
+Pathways
+Rules
+Tools
+Selenium
+Inorganic Ions Metabolism
+Author: Valentina Biasoni
+Date: 13/07/2008
+Description
+Description
+Selenium is a chemical element with the atomic number 34, represented by the chemical symbol Se. It is necessary for cellular function forming the active center of the enzymes glutathione peroxidase and thioredoxin reductase (which indirectly reduce certain oxidized molecules in animals and some plants) and three known deiodinase enzymes (which convert one thyroid hormone to another).
+Sources
+The content of selenium in food depends on the selenium content of the soil where plants are grown or animals are raised. Plant foods are the major dietary sources of selenium in most countries throughout the world. In the USA, food distribution patterns across the country help prevent people living in low-selenium geographic areas from having low dietary selenium intakes. Soils in some parts of China and Russia have very low amounts of selenium. Selenium deficiency is often reported in those regions because most food in those areas is grown and eaten locally.
+Selenium also can be found in some meats and seafood. Animals that eat grains or plants that were grown in selenium-rich soil have higher levels of selenium in their muscle. In the U.S., meats and bread are common sources of dietary selenium. Some nuts are also sources of selenium. In the USA, the Dietary Reference Intake for adults is 55 µg/day. 55 µg/day recommendation is based on full expression of plasma glutathione peroxidase. Selenoprotein P is a better indicator of selenium nutritional status, and full expression of it would require more than 66 µg/day.
+Biological role and biochemical reactions
+Selenium is a trace mineral that is essential to good health but required only in small amounts. Selenium is incorporated into proteins to make selenoproteins, which are enzymes with important function respectively because:
+- help regulate thyroid function Selenium and the thyroid: how the relationship was...[Am J Clin Nutr. 1993] - PubMed Result
+- play a role in the immune system Selenium in the immune system. [J Nutr. 2003] - PubMed Result
+- help prevent cellular damage from free radicals with antioxidant properties. Free radicals are natural by products of oxygen metabolism that may contribute to the development of chronic diseases such as cancer and heart disease.
+The regolation of thyroid function: T3 and T4 production
+Thyroxine is synthesised by the follicular cells from free tyrosine and on the tyrosine residues of the protein called thyroglobulin (TG).
+Inorganic iodine enters the body primarily as iodide, I-. After entering the thyroid follicle (or thyroid follicular cell) via a Na+/I- symporter (NIS) on the basolateral side, iodide is shuttled across the apical membrane into the colloid via pendrin, after which thyroid peroxidase oxidizes iodide to atomic iodine (I) or iodinium (I+). The "organification of iodine," the incorporation of iodine to thyroglobulin for the production of thyroid hormone is inseparable from oxidation and is catalyzed by TPO. The chemical reactions catalyzed by thyroid peroxidase occur on the outer apical membrane surface and are mediated by hydrogen peroxide. Upon stimulation by the thyroid-stimulating hormone (TSH), the follicular cells reabsorb TG and proteolytically cleave the iodinated tyrosines from TG, forming T4 and T3, and releasing them into the blood. Thyroid hormone that is secreted from the gland is about 90% T4 and about 10% T3.
+Deiodinase is an enzyme important in the action of thyroid hormones; it is a selenium-dipendent enzyme. Deiodinases are unusual in that the enzyme contains selenium, in the form of an otherwise rare amino acid selenocysteine.
+In the tissues, deiodinases can either activate or inactivate thyroid hormones:
+•	Activation occurs by conversion of the prohormone thyroxine (T4) to the active hormone triiodothyronine (T3) through the removal of an iodine atom on the outer ring.
+•	Inactivation of thyroid hormones occurs by removal of an iodine atom on the inner ring, which converts thyroxine to the inactive reverse triiodothyronine (rT3), or which converts the active triiodothyronine to the inactive diiodothyronine (T2). The major part of thyroxine deiodination occurs within the cells.
+a deeper insight
+The antioxidant properties: Glutathione peroxidase is a selenium-dipendent enzyme
+The biochemical function of glutathione peroxidase is to reduce lipid hydroperoxides to their corresponding alcohols and to reduce free hydrogen peroxide to water.
+2GSH + H2O2 → GS–SG + 2H2O
+Glutathione peroxidase is a selenium-containing tetrameric glycoprotein, that is, a molecule with four selenocysteine amino acid residues. As the integrity of the cellular and subcellular membranes depends heavily on glutathione peroxidase, the antioxidative protective system of glutathione peroxidase itself depends heavily on the presence of selenium.
+The mechanism is at the Selenocystein site, which is in a Se(-) form as resting state. This is oxidized by the peroxide to SeOH which is then trapped by a GSH molecule to Se-SG and by another GSH molecule to Se(-) again, releasing a GS-SG by-product.
+Selenium and thyroiditis
+During thyroid hormone synthesis GSH is up-regulated, providing the thyrocytes with considerable protection from peroxidative damage. Thyroidal Deiodinases are also up-regulated to increase the production of bioactive 3,5,3'-tri-iodothyronine (T3). In the basal state, GSH is secreted into the follicular lumen where it may down-regulate thyroid hormone synthesis by decreasing hydrogen peroxide concentrations. The deiodinases are present in most tissues and provide a mechanism whereby individual tissues may control their exposure to T3. Se is also able to modify the immune response in patients with autoimmune thyroiditis.
+Selenium Supplementation in Patients with Autoimmune Thyroiditis Decreases Thyroid Peroxidase Antibodies Concentrations -- Gärtner et al. 87 (4): 1687 -- Journal of Clinical Endocrinology & Metabolism
+Selenium treatment in autoimmune thyroiditis: 9-month follow-up with variable doses -- Turker et al. 190 (1): 151 -- Journal of Endocrinology
+Selenium Deficiency
+Human selenium deficiency is rare in the U.S. It can occour in patient with severely compromised intestinal function, or those undergoing total parental nutrition.
+Severe gastrointestinal disorders may decrease the absorption of selenium, resulting in selenium depletion or deficiency. Selenium depletion in patients with gastrointestin...[Scand J Gastroenterol. 1998] - PubMed Result Gastrointestinal problems that impair selenium absorption usually affect absorption of other nutrients as well, and require routine monitoring of nutritional status so that appropriate medical and nutritional treatment can be provided.
+Selenium deficiency has also been seen in people who rely on total parenteral nutrition (TPN) as their sole source of nutrition. The necessity of selenium substitution in total pa...[J Trace Elem Med Biol. 1995] - PubMed Result TPN is a method of feeding nutrients through an intravenous (IV) line to people whose digestive systems do not function. Forms of nutrients that do not require digestion are dissolved in liquid and infused through the IV line. It is important for TPN solutions to provide selenium in order to prevent a deficiency. Physicians can monitor the selenium status of individuals receiving TPN to make sure they are receiving adequate amounts.
+In other countries, most notable China, where soil concentration of selenium is low, human selenium deficiency can be associated with some diseases:
+• Keshan Disease, which results in an enlarged heart and poor heart function, occurs in selenium deficient children. Supplementation with selenium can cure this affliction. It has previously been linked to the coxsackie B virus. Selenite inhibition of Coxsackie virus B5 replicat...[J Trace Elem Med Biol. 2002] - PubMed Result
+• Kashin-Beck Disease, which results in osteoarthropathy NEJM -- Kashin-Beck Osteoarthropathy in Rural Tibet in Relation to Selenium and Iodine Status
+• Myxedematous Endemic Cretinism, which results in mental retardation
+Selenium and cancer
+Observational studies indicate that death from cancer, including lung, colorectal, and prostate cancers, is lower among people with higher blood levels or intake of selenium. Plasma selenium levels and the risk of colorectal ...[Nutr Cancer. 1997] - PubMed Result
+In addition, the incidence of nonmelanoma skin cancer is significantly higher in areas of the United States with low soil selenium content. Dietary selenium repletion may reduce cancer incid...[Nutr Rev. 1997] - PubMed Result
+Research suggests that selenium affects cancer risk in two ways. As an anti-oxidant, selenium can help protect the body from damaging effects of free radicals. Selenium may also prevent or slow tumor growth. Certain breakdown products of selenium are believed to prevent tumor growth by enhancing immune cell activity and suppressing development of blood vessels to the tumor. An analysis of cancer prevention by selenium. [Biofactors. 2001] - PubMed Result
+ANTI-CANCER EFFECTS OF SELENIUM 2006
+Selenium and cardiovascular diseases
+Clinical, epidemiological, and experimental studies devoted to the relationship between the progression of cardiovascular disorders and selenium status indices are then reviewed. Selenium and cardiovascular disease: selected iss...[Postepy Hig Med Dosw (Online). 2006 - PubMed Result
+Evidence also suggests that oxidative stress from free radicals, which are natural by-products of oxygen metabolism, may promote heart disease. For example, it is the oxidized form of low-density lipoproteins (LDL, often called "bad" cholesterol) that promotes plaque build-up in coronary arteries. Selenium is one of a group of antioxidants that may help limit the oxidation of LDL cholesterol and thereby help to prevent coronary artery disease. Glutathione-related antioxidant defenses in human ...[Circulation. 1998] - PubMed Result Currently there is insufficient evidence available to recommend selenium supplements for the prevention of coronary heart disease. Selenium as a risk factor for cardiovascular disea...[J Cardiovasc Risk. 1996] - PubMed Result
+Selenium and arthritis
+Surveys indicate that individuals with rheumatoid arthritis, a chronic disease that causes pain, stiffness, swelling, and loss of function in joints, have reduced selenium levels in their blood. Plasma selenium levels in rheumatoid arthritis. [Biol Trace Elem Res. 1996] - PubMed Result
+In addition, some individuals with arthritis have a low selenium intake. Inadequate calcium, folic acid, vitamin E, zinc, a...[Semin Arthritis Rheum. 1997] - PubMed Result
+The body's immune system naturally makes free radicals that can help destroy invading organisms and damaged tissue, but that can also harm healthy tissue, Selenium, as an antioxidant, may help to relieve symptoms of arthritis by controlling levels of free radicals. Rheumatoid arthritis and metal compounds--perspect...[Analyst. 1998] - PubMed Result Current findings are considered preliminary, and further research is needed before selenium supplements can be recommended for individuals with arthritis.
+Selenium and HIV
+Selenium deficiency is associated with decreased immune cell counts, increased disease progression and high risk of death in the HIV/AIDS population. High risk of HIV-related mortality is associated w...[J Acquir Immune Defic Syndr Hum Retrovirol. 1997] - PubMed Result
+HIV/AIDS gradually destroys the immune system and oxidative stress may contribute to further damage of immune cells. Antioxidant nutrients such as selenium help protect cells from oxidative stress, thus potentially slowing progression of the disease.
+Others have argued that HIV encodes for the human selenoenzyme glutathione peroxidase, which depletes the victim's selenium levels. Depleted selenium levels in turn lead to a decline in CD4 helper T-cells, further weakening the immune system. Harold Foster's Homepage
+There is a recent study that recommend selenium supplements for individuals with HIV/AIDS. Suppression of human immunodeficiency virus type 1 viral load with selenium supplementation: a randomized controlled trial [Arch Intern Med. 2007] - PubMed Result Daily selenium supplementation can suppress the progression of HIV-1 viral burden and provide indirect improvement of CD4 count. The results support the use of selenium as a simple, inexpensive, and safe adjunct therapy in HIV spectrum disease.
+Selenium and dislipidemia
+Selenium and health-related quality of life in menopausal women. 2009
+Higher levels of cholesterol, LDLc and triglyceride values were detected in women in the lowest serum selenium tertile.
+Oncogene. 2006 Jan 26;25(4):546-54.
+Enhanced selenium effect on growth arrest by BiP/GRP78 knockdown in p53-null human prostate cancer cells.
+Redox modification of thiol/disulfide interchange in proteins by selenium could lead to protein unfolding. When this occurs in the endoplasmic reticulum (ER), a process known as unfolded protein response (UPR) is orchestrated for survival through activation of PERK-eIF2alpha (PERK: double-stranded RNA-activated protein kinase-like ER kinase; eIF2alpha: eucaryotic initiation factor 2alpha), ATFalpha (ATFalpha: activating transcription factor 6) and inositol requiring 1 (IRE1)-x-box-binding protein 1 (XBP1) signalings. All three UPR transducer pathways were upregulated very rapidly when PC-3 cells were exposed to selenium. These changes were accompanied by increased expression of UPR target genes, including immunoglobulin heavy chain-binding protein/glucose-regulated protein, 78 kDa and CCAAT/enhancer binding protein-homologous protein/growth arrest- and DNA damage-inducible gene (CHOP/GADD153). Induction of BiP/GRP78, an ER-resident chaperone, is part of the damage control mechanism, while CHOP/GADD153 is a transcription factor associated with growth arrest and apoptosis in the event of prolonged ER stress. Knocking down BiP/GRP78 induction by small interference RNA produced a differential response of the three transducers to selenium, suggesting that the signaling intensity of each transducer could be fine-tuned depending on BiP/GRP78 availability. In the presence of selenium, CHOP/GADD153 expression was raised even higher by BiP/GRP78 knockdown. Under this condition, the selenium effect on wild-type p53-activated fragment p21 (p21(WAF)), cyclin-dependent kinase (CDK)1 and CDK2 was also magnified in a manner consistent with enhanced cell growth arrest. Additional experiments with CHOP/GADD153 siRNA knockdown strongly suggested that CHOP/GADD153 may play a positive role in upregulating the expression of p21(WAF) in a p53-independent manner (PC-3 cells are p53 null). Collectively, the above findings support the idea that UPR could be an important mechanism in mediating the anticancer activity of selenium.
+Items
+Cancer Prevention Therapy By Dr André Gernez: Advantages And Disadvantages
+Keshan Disease
+MeSH
+Thyroid Gland
+Comments
+2008-10-28T18:32:46 - Gianpiero Pescarmona
+Which are the most reliable tests for selenium deficiency?
+Who perform them in Piemonte?
+Seleoncysteine, the 21st Amino Acid. While its occurrence in proteins is uncommon, seleoncysteine
+P.244
+is present at the active site of several human enzymes that catalyze redox reactions. Examples include
+thioredoxin reductase (cartoon)
+Targeting thioredoxin reductase is a basis for cancer therapy by arsenic trioxide 2007
+glutathione peroxidase
+deiodinase that converts thyroxine to triiodothyronine.
+Where present, selenocysteine participates in the catalytic mechanism of these enzymes, and replacement of selenocysteine by cysteine can result in significantly decreased catalytic activity. Impairments in human selenoproteins have been implicated in tumorigenesis and atherosclerosis, and are associated with selenium deficiency cardiomyopathy (Keshan disease).
+Biosynthesis of selenocysteine requires L-cysteine, selenate (SeO42-), ATP, a specific tRNA, and several enzymes. L-Serine provides the carbon skeleton of selenocysteine. Selenophosphate, formed from ATP and selenate (Figure 27-12), serves as the selenium donor. Unlike hydroxyproline or hydroxylysine, selenocysteine arises co-translationally during its incorporation into peptides.
+Selenocysteine tRNA
+The UGA anticodon of the unusual tRNA designated tRNASec normally signals STOP. The ability of the protein synthetic apparatus to identify a selenocysteine-specific UGA codon involves the selenocysteine insertion element, a stem-loop structure in the untranslated region of the mRNA. Selenocysteine-tRNASec is first charged with serine by the ligase that charges tRNASer. Subsequent replacement of the serine oxygen by selenium involves selenophosphate formed by selenophosphate synthase (Figure 27-12). Successive enzyme-catalyzed reactions convert cysteyl-tRNASec to aminoacryl-tRNASec and then to selenocysteyl-tRNASec. In the presence of a specific elongation factor that recognizes selenocysteyl-tRNASec, selenocysteine can then be incorporated into proteins.
+Putative Selenocysteine Metabolism
+at PLOSone
+Loading

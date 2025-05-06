@@ -1,0 +1,107 @@
+Can music therapy fight depression?
+Search
+Conditions
+Conditions
+Cancer
+Depression
+Diabetes
+Digestive Health
+Healthy Living
+Healthy Living
+Fitness
+Mental Health
+Wellbeing
+Healthy Eating
+Healthy Eating
+All Recipes
+Breakfasts
+Main Courses
+Starters and snacks
+Desserts
+Medicines
+Medicines
+Aches and Pains
+ADHD
+Allergy and Asthma
+Brain and Nervous system
+Cancer
+Depression
+Privacy Notice
+Cookies Policy
+Mental health
+Healthy Eating
+Family health
+Conditions
+Follow
+Type keyword(s) to search
+Can music therapy fight depression?
+22/10/2014
+Music therapy could help to fight depression in young people, according to a new study.
+Working with the Northern Ireland Music Therapy Trust, researchers at Queen's University in Belfast set out to explore how the mental health of children and teenagers could potentially be altered through music therapy.
+Typically, this form of treatment allows people to communicate their feelings by writing music, singing or playing an instrument. For example, this could enable them to have a creative outlet for an emotion such as frustration.
+Thanks to financial support from the Big Lottery Fund, scientists have been able to examine the effects of music therapy on 251 individuals, who were monitored between March 2011 and May 2014. This is the largest ever investigation to be carried out into the effects of musical treatment on mental health.
+Each of the participants required treatment for an emotional, developmental or behavioural problem. Doctors divided them into two groups, with 128 being given a traditional treatment for their mental health condition, while the other 123 had music therapy.
+It was found that those given a musical outlet for their feelings had significantly improved self-esteem following their treatment, as well as reduced symptoms relating to depression in comparison to those who had received more traditional forms of medication.
+Chief executive of the Northern Ireland Music Therapy Trust Ciara Reilly commented: 'The findings are dramatic and underscore the need for music therapy to be made available as a mainstream treatment option.
+'For a long time, we have relied on anecdotal evidence and small-scale research findings about how well music therapy works. Now, we have robust clinical evidence to show its beneficial effects.'
+The findings of this study are set to be presented today (Thursday October 23rd) at a conference at the university's Riddel Hall, but further research is already being planned, looking into how cost-effective music therapy is compared to other mental health treatments.
+Advertisement - Continue Reading Below
+<% if (product.show_price && product.priceNoSymbol > 0) { %>
+(% off)
+<% var showPrice = item.data.content_product_review.product_review.show_price && (item.data.content_product_review.product_review.retailer.price > 0 || item.data.content_product_review.product_review.product.is_custom) %>
+(% off)
+rel="" >
+<%= item.data.dek.replace(/<p>/g, '<p class="item-info-dek">') %>
+More From Wellbeing
+Period sex explained
+Type 2 diabetes management tips
+Advertisement - Continue Reading Below
+Eczema triggers: symptoms, causes and treatment
+Is iron deficiency the reason you're always tired?
+Why does my stomach hurt?
+Everything you need to know about ovarian cysts
+Adrenal fatigue: does it exist?
+Exercise and heart health
+Is an STI the reason you're not getting pregnant?
+8 reasons why there could be blood in your poo
+Wellbeing
+Music therapy may reduce symptoms of depression
+Can roseroot help fight depression?
+Music therapy may ease tinnitus
+Talking therapies 'beneficial for depression'
+Music therapy may help children cope with cancer
+Psychological therapy for depression on the NHS
+Sexual Health
+Depression
+Beauty
+Weight Loss
+Procedures
+Healthy Living
+Ask the expert
+Healthy Eating
+Parenting
+Health Services
+Recipes
+Better Skin
+NetDoctor, part of the Hearst UK wellbeing network Netdoctor participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+©2019 Hearst UK is the trading name of the National Magazine Company Ltd, 30 Panton Street, Leicester Square, London, SW1Y 4AJ. Registered in England. All Rights Reserved
+About Netdoctor
+Disclaimer
+Terms & Conditions
+Privacy Notice
+Cookies Policy
+Contact
+Complaints
+Sitemap
+data-srcset="" />
+Created for Created by for Presented by Created by
++
+Created for Created by for Presented by Created by
++
+data-srcset="" />
+<% if (data.length > lowSlideCount) { %>
+of
+<%= item.data.dek.replace(/<img(.*?)>/g, '').replace(/
+/g, '
+') %>
+<% if (data.length > lowSlideCount) { %>

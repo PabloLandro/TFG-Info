@@ -1,0 +1,70 @@
+Donald Trump links vaccines to autism 'epidemic', Business Insider - Business Insider Singapore
+Trending
+News
+Tech Insider
+Finance
+Career
+Life
+Video
+Search
+Trending
+News
+Tech Insider
+Finance
+Career
+Life
+Video
+EDITION
+Singapore Malaysia United States INTERNATIONAL	Deutschland Australia India Poland Nordic Netherlands France Italy Japan España South Africa
+Home News Donald Trump ...
+Donald Trump links vaccines to autism ‘epidemic’
+By
+Jacob Shamsian, Business Insider US
+-
+September 17, 2015
+Republican presidential frontrunner Donald Trump during Wednesday’s presidential debate linked vaccinations to what he called an autism “epidemic.”
+Trump said autism rates have risen over the past few decades, becoming “an epidemic,” and that he’s had employees whose children became autistic after taking vaccines.
+“You take this little beautiful baby, and you pump – I mean, it looks like just it’s meant for a horse and not for a child,” Trump said. “We had so many instances [in which] a child had a vaccine, and came back and a week back had a tremendous fever, got very very sick, and now is autistic.”
+Trump answered the question after CNN moderator Jake Tapper asked Ben Carson, a pediatric neurosurgeon, if he’d tell Trump to stop saying vaccines cause autism. Tapper noted that the president would be in charge of the Centers for Disease Control and Prevention and the National Institutes of Health.
+Carson said scientific evidence indicates that there’s no relationship between vaccine use and autism, but he did say that vaccines could be used differently.
+“Vaccines are very important – the ones that prevent death, or crippling,” Carson said. “There are others, a multitude of vaccines that probably don’t fit into that category. We probably need some discretion in those cases.”
+Carson stood down from challenging Trump directly, and said that resistance against autism is largely a symptom of resistance against “big government.”
+“He’s an OK doctor,” Carson responded to chuckles, referencing a past dig from Trump. “The fact of the matter is, we have extremely well-documented proof that there’s no autism associated with vaccinations.”
+“Should he stop saying it? Should he stop saying vaccines cause autism?” Tapper asked.
+“He can read about it if he wants to,” Carson said. “I think he’s an intelligent man and can make that decision after getting the real facts.”
+Both candidates, however, agreed that vaccine use could be spread out over a longer period of time. Tapper then asked Sen. Rand Paul (R-Kentucky), an ophthalmologist, for his opinion. He said that vaccines are “one of the greatest medical discoveries of all time,” but also said agreed that they could be spread over a longer period of time.
+“You want a second opinion?” Paul said. “I’m all for vaccines, but I’m also for freedom.”
+TAGS
+Autism
+Ben Carson
+Donald Trump
+Elections
+INSIDER
+Vaccines
+Jacob Shamsian, Business Insider US
+Popular Articles
+She’s deaf, blind, and made it to Harvard Law – but Haben Girma doesn’t believe in ‘grit’. Here’s why.
+RANKED: The most powerful countries on earth
+A photographer recorded Saturn ‘touching’ the moon with his smartphone, and the pictures are stunning
+Here’s what it’s like inside Singapore’s Pokemon Go Safari Zone – the first place in the world you can catch shiny Lapras and...
+25 photos show what Iran looked like before the 1979 revolution turned the nation into an Islamic republic
+* Copyright © 2017 Business Insider Inc. All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy.
+Advertise with us
+SPH Digital | Business Insider
+International Editions:
+US
+INT
+DE
+AUS
+IN
+MY
+SG
+PL
+SE
+NL
+FR
+IT
+JP
+España
+South Africa
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();

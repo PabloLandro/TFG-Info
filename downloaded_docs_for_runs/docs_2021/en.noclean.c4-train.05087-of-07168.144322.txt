@@ -1,0 +1,256 @@
+Selenium | Doctor | Patient
+TOPICS
+HEALTH INFO
+Child Health
+Heart Health
+Men's Health
+Mental Health
+Pregnancy
+Sexual Health
+Skin Conditions
+Travel Vaccinations
+Treatment and Medication
+Women's Health
+View all categories
+CATEGORIES
+Bones and Joints
+Cancer
+Diabetes
+Digestive Health
+Eye Care
+Healthy Living
+Infections
+Signs and Symptoms
+View all categories
+Try our Symptom Checker Got any other symptoms?
+TREATMENT
+MEDICINES AND DRUGS
+Nervous System
+Heart Disease
+Infections
+Inflammation
+Painkillers
+Skin Conditions
+Muscle Pain
+Eye Care
+View all Medicines and Drugs
+TREATMENT FOR
+Migraine
+Infection
+Heart Disease
+Depression
+Epilepsy
+Type 2 Diabetes
+Bacterial Vaginosis
+Dementia
+View all Treatments
+RESOURCES
+TOOLS AND TESTS
+BMI Calculator
+Pregnancy Due Date Calculator
+STI Tests
+Screening Tests
+Blood Tests
+Liver Function Tests
+Am I Pregnant?
+Am I Depressed?
+View all Tools
+EXPLORE
+Latest Features
+Health Videos
+About Us
+Authors
+Recipes
+Quizzes
+Try our Symptom Checker Got any other symptoms?
+PROFESSIONAL
+PRO ARTICLES
+Bronchiolitis
+Osmolality
+Haemorrhagic Fevers
+Relapsing Fever
+Abdominal Pain in Children
+Subdural Haematoma
+Obesity in Adults
+Depression
+View all Pro Articles
+MEDICAL CALCULATORS
+PHQ-9
+GAD-7
+6CIT
+GPCOG
+AUDIT
+CAGE
+View all Medical Calculators
+Upgrade to Patient Pro Medical Professional?
+Community
+Login / Register
+Login / Register
+Patient Access
+Search
+Professional Articles
+Nutrition
+Save Saved
+Print
+Share
+Email this article
+Share on Twitter
+Share on Facebook
+Share on LinkedIn
+Actions
+Download PDF
+Send Feedback
+Manage Notes
+Selenium
+Authored by Dr Jan Sambrook, Reviewed by Dr Helen Huins | Last edited 2 Feb 2016 | Certified by The Information Standard
+This article is for Medical Professionals
+Professional Reference articles are designed for health professionals to use. They are written by UK doctors and based on research evidence, UK and European Guidelines. You may find one of our health articles more useful.
+In this article
+How much selenium is recommended?
+How are selenium levels measured?
+Why is selenium essential?
+What harm does deficiency of selenium cause?
+Who is at risk of selenium deficiency?
+Indications for supplementation
+In This Article
+Selenium
+In this article
+How much selenium is recommended?
+How are selenium levels measured?
+Why is selenium essential?
+What harm does deficiency of selenium cause?
+Who is at risk of selenium deficiency?
+Indications for supplementation
+Selenium is an essential mineral and micronutrient. It is fundamental to human health and found in many foods. It is found in meat, grain cereals, egg yolk, milk, brazil nuts, mushrooms, garlic and seafood (hence, selenium levels are high in populations with high intake of seafood, like the Inuit population).[1, 2]
+Selenoproteins are important constituents of a number of enzymes with a range of functions including antioxidant function, thyroid hormone metabolism, male fertility and immune mechanisms. A decline in blood selenium levels in the UK and other European countries has raised concern about possible public health implications, particularly in relation to cancer and cardiovascular disease. Whilst there is some understanding of the role of these proteins in health and disease (and some interesting theories and research), there are many unanswered questions and much debate about supplementation. More research is repeatedly called for.[2] Deficiency is linked with a wide variety of medical problems but excessive intake can have toxic effects and may even be carcinogenic.[3]
+How much selenium is recommended?
+Dietary recommendations for selenium differ between countries. This is because there is uncertainty over what constitutes 'optimal selenium status'.[4] The average daily intake of selenium in in the UK has been falling over a 30-year period. In the UK, the recommended daily allowance (RDA) is 75 micrograms/day for men and 60 micrograms/day for women.[5]In the USA, the RDA is 55 micrograms/day for adults. The World Health Organization (WHO) RDA for selenium is 70 micrograms/day to 350 micrograms/day. Some are recommending supranutritional supplements of 200 micrograms/day to 800 micrograms/day. Toxic effects probably occur at around 40x the RDA.
+How are selenium levels measured?
+Erythrocyte, serum and tissue levels of glutathione peroxidase (GP) can be measured to assess selenium status.[6]Selenium in hair and nails can also be measured. Discuss with your laboratory before deciding which method to use.
+Why is selenium essential?
+Dietary recommendations were made over 20 years ago on the basis of blood levels of GP. This intracellular enzyme converts hydroxyl radicals or hydrogen peroxide into water and this requires selenium as a co-factor. Levels of this enzyme have thus been taken to correlate with selenium levels. Since then, over 30 new selenoproteins have been identified and about half of these have an identified biological function.[7, 8]These selenoproteins include:
+Four GP enzymes, a major class of functionally important selenoproteins and the first to be characterised:
+Classical GP x 1.
+Gastrointestinal GP x 2.
+Plasma GP x 3.
+Phospholipid hydroperoxide GP x 4.
+Thioredoxin reductase (TR), a selenocysteine-containing enzyme important in regulating metabolic activity.
+Selenoprotein P (60% of plasma selenium is held in this form) may have a role in the transport of selenium but also may have other functions.
+Several iodothyronine deiodinase enzymes. These are responsible for conversion of the prohormone thyroxine to the active thyroid hormones (triiodothyronine, or T3).
+Sperm capsule selenoprotein which may be responsible for maintaining integrity of the sperm flagella (and hence motility of sperm).
+Selenoprotein W. This is involved in muscle metabolism.
+What harm does deficiency of selenium cause?
+Deficiency of selenium may cause a variety of problems but the health implications of a decline in selenium levels in the UK over 25 years have not been systematically investigated. In general, selenium is thought to be important in a number of varied aspects of health: for a healthy immune system, for a protective effect against some forms of cancer, to maintain and enhance male fertility, for a reduction in cardiovascular mortality and to regulate inflammatory markers in asthma. Research is in progress and there is a lot of interest in the results of this research. Although there are still many unanswered questions, so far selenium has been linked with:
+Counteracting the development of virulence and inhibiting HIV progression to AIDS.[9]22Trials are small and results mixed but more research is called for.[10]
+Enhancing sperm motility.[11]
+A possible role in preventing pre-eclampsia.[12]
+A possible relationship between mood disturbance and selenium deficiency.[13]
+A possible association between elevated selenium intake and reduced cancer risk. The association between selenium status and cancer risk remains enigmatic and epidemiological studies have failed to consistently link low selenium levels with increased cancer risk in men and women.[14] It is possible that there may be gender differences in susceptibility to cancer risk with men being more susceptible to the risk of low selenium. In the Nutritional Prevention of Cancer Trial, daily supplementation of selenium significantly reduced prostate cancer in men.[15] It is thought that the greatest benefit from selenium supplementation will be in low selenium status populations, although the biggest primary and secondary prevention trials - SELECT (= Selenium and Vitamin E Cancer Prevention Trials) - were carried out in the USA where selenium status is good.[16] Some were predicting that the SELECT results in 2013 would show benefit.[17] However, the trial was discontinued because there was no evidence of a benefit from either vitamin E or selenium on prevention of prostate cancer.[18] Concern was also raised about a link between selenium supplementation and an increased risk of developing type 2 diabetes.[19]
+In asthma, some epidemiological studies suggest that deficiencies of selenium, zinc and other nutrients (vitamins A, C, D and E) may be associated with the development of allergic disorders and asthma.[20] Although a number of trials suggest supplementation with selenium may help symptoms of chronic asthma, only one small trial, according to the Cochrane review, showed evidence of this.[21]
+Cardiovascular disease.[22]The hypotheses that low selenium concentrations are associated with increased cardiovascular disease and that selenium supplements prevent coronary heart disease are unproven. Selenium supplementation cannot currently be recommended for cardiovascular disease prevention.[23] Deficiency is associated with cardiomyopathy in general, but particularly in Keshan disease, a congestive cardiomyopathy associated with Coxsackievirus and selenium deficiency.[24, 25]
+Deficiency in trauma and burns patients. One study reports improved recovery with selenium supplementation in trauma and burns patients.[26]
+The thyroid gland contains more selenium than any other tissue. Selenium deficiency may help to precipitate hypothyroidism and autoimmune thyroid disease and supplementation may contribute to prevention of these diseases.[27]
+Who is at risk of selenium deficiency?
+Risk factors include:
+Poor dietary intake. Because selenium is found in meat and seafood, vegetarians in areas with low environmental selenium may become deficient.
+Smoking.[28]
+Socio-economic status. Lower levels have been found in people receiving state benefits or with lower educational attainment.
+The elderly living in residential or nursing homes had lower levels of selenium when compared with 'free-living' elderly patients.
+The elderly, particularly in areas where low intake is common.
+Where you live:
+Areas with a low selenium soil environment are associated with deficiency. The elderly in such areas are particularly at risk and one study from New Zealand demonstrated suboptimal levels of selenium in a significant proportion of 103 elderly New Zealand women.[29]
+The levels of selenium are higher in the south of England than in the north.[28] The selenium status may vary within countries according to factors such as the selenium in the local soil but is also affected by the levels of selenium in imported crops.
+Patients on total parenteral nutrition (TPN).[30, 31]
+Trauma and burns patients.[26]
+Indications for supplementation
+Those at high risk of deficiency should have their selenium status measured. If deficient in selenium, such patients should certainly be given supplements. As with many nutritional components, distinction must be drawn between the basic nutritional requirement to prevent deficiency and supplementation to prevent, for example, chronic disease and cancer.[32, 33, 34] According to a report from the USA, 99% of over 17,000 subjects were 'selenium replete' according to plasma selenium levels and not in need of routine supplementation.[35] There is widespread questioning of the use of RDAs and some questioning of methods of assessing deficiency in this as in other areas of nutrition.[36, 37] Evidence of benefit at supranutritional levels of dietary intake is needed to support what has been called the 'nutraceutical' approach to supplementation. Further studies are needed and are being undertaken to support such beneficial effects.[19, 34] If such evidence is forthcoming then health professionals will need to use dietary and clinical assessment methods to ensure that those at risk of cancer and inflammatory or infectious disease be appropriately advised about selenium intake.[34]
+Did you find this information useful? yes no
+Thanks for your feedback!
+Why not subscribe to the newsletter?
+Email address *
+We'd love to send you our articles and latest news by email, giving you the best opportunity to stay up to date with expert written health and lifestyle content.
+By clicking 'Subscribe' you agree to our Terms and conditions and Privacy policy.
+Subscribe
+Thanks for your feedback. if you would like to report a specific issue with this page, please visit our feedback page.
+Thank you, we just sent a survey email to confirm your preferences.
+Further reading and references
+Hansen JC, Deutch B, Pedersen HS; Selenium status in Greenland Inuit. Sci Total Environ. 2004 Sep 20331(1-3):207-14.
+Brown KM, Arthur JR; Selenium, selenoproteins and human health: a review. Public Health Nutr. 2001 Apr4(2B):593-9.
+Letavayova L, Vlckova V, Brozmanova J; Selenium: from cancer prevention to DNA damage. Toxicology. 2006 Oct 3227(1-2):1-14. Epub 2006 Jul 25.
+Hurst R, Armah CN, Dainty JR, et al; Establishing optimal selenium status: results of a randomized, double-blind, placebo-controlled trial. Am J Clin Nutr. 2010 Apr91(4):923-31. Epub 2010 Feb 24.
+Selenium and Health briefing paper; British Nutrition Foundation, July 2001
+Ashton K, Hooper L, Harvey LJ, et al; Methods of assessment of selenium status in humans: a systematic review. Am J Clin Nutr. 2009 Jun89(6):2025S-2039S. doi: 10.3945/ajcn.2009.27230F. Epub 2009 May 6.
+Papp LV, Holmgren A, Khanna KK; Selenium and selenoproteins in health and disease. Antioxid Redox Signal. 2010 Apr 112(7):793-5. doi: 10.1089/ars.2009.2973.
+Papp LV, Lu J, Holmgren A, et al; From selenium to selenoproteins: synthesis, identity, and their role in human health. Antioxid Redox Signal. 2007 Jul9(7):775-806.
+Kupka R, Msamanga GI, Spiegelman D, et al; Selenium status is associated with accelerated HIV disease progression among HIV-1-infected pregnant women in Tanzania. J Nutr. 2004 Oct134(10):2556-60.
+Irlam JH, Visser MM, Rollins NN, et al; Micronutrient supplementation in children and adults with HIV infection. Cochrane Database Syst Rev. 2010 Dec 8(12):CD003650.
+Boitani C, Puglisi R; Selenium, a key element in spermatogenesis and male fertility. Adv Exp Med Biol. 2008636:65-73. doi: 10.1007/978-0-387-09597-4_4.
+Rayman MP, Bath SC, Westaway J, et al; Selenium status in UK pregnant women and its relationship with hypertensive conditions of pregnancy. Br J Nutr. 2015 Jan 9:1-10.
+Conner TS, Richardson AC, Miller JC; Optimal serum selenium concentrations are associated with lower depressive symptoms and negative mood among young adults. J Nutr. 2015 Jan145(1):59-65. doi: 10.3945/jn.114.198010. Epub 2014 Nov 5.
+Waters DJ, Chiang EC, Cooley DM, et al; Making sense of sex and supplements: differences in the anticarcinogenic effects of selenium in men and women. Mutat Res. 2004 Jul 13551(1-2):91-107.
+Meyer F, Galan P, Douville P, et al; Antioxidant vitamin and mineral supplementation and prostate cancer prevention in the SU.VI.MAX trial. Int J Cancer. 2005 Aug 20116(2):182-6.
+Rayman MP; Selenium in cancer prevention: a review of the evidence and mechanism of action. Proc Nutr Soc. 2005 Nov64(4):527-42.
+Drake EN; Cancer chemoprevention: selenium as a prooxidant, not an antioxidant. Med Hypotheses. 200667(2):318-22. Epub 2006 Mar 30.
+Schmid HP, Fischer C, Engeler DS, et al; Cancer chemoprevention: selenium as a prooxidant, not an antioxidant. Recent Results Cancer Res. 2011188:101-7.
+Muecke R, Schomburg L, Buentzel J, et al; Selenium or no selenium - that is the question in tumor patients: a new controversy. Integr Cancer Ther. 2010 Jun9(2):136-41. Epub 2010 May 11.
+Nurmatov U, Devereux G, Sheikh A; Nutrients and foods for the primary prevention of asthma and allergy: Systematic review and meta-analysis. J Allergy Clin Immunol. 2011 Mar127(3):724-733.e30. Epub 2010 Dec 24.
+Allam MF, Lucane RA; Selenium supplementation for asthma. Cochrane Database Syst Rev. 2004(2):CD003538.
+Benstoem C, Goetzenich A, Kraemer S, et al; Selenium and its supplementation in cardiovascular disease - what do we know? Nutrients. 2015 Apr 277(5):3094-118. doi: 10.3390/nu7053094.
+Rees K, Hartley L, Day C, et al; Selenium supplementation for the primary prevention of cardiovascular disease. Cochrane Database Syst Rev. 2013 Jan 311:CD009671. doi: 10.1002/14651858.CD009671.pub2.
+Chen J; An original discovery: selenium deficiency and Keshan disease (an endemic heart disease). Asia Pac J Clin Nutr. 201221(3):320-6.
+Lei C, Niu X, Ma X, et al; Is selenium deficiency really the cause of Keshan disease? Environ Geochem Health. 2011 Apr33(2):183-8. doi: 10.1007/s10653-010-9331-9. Epub 2010 Jun 24.
+Berger MM; Antioxidant micronutrients in major trauma and burns: evidence and practice. Nutr Clin Pract. 2006 Oct21(5):438-49.
+Duntas LH; Selenium and the thyroid: a close-knit connection. J Clin Endocrinol Metab. 2010 Dec95(12):5180-8. Epub 2010 Sep 1.
+Bates CJ, Thane CW, Prentice A, et al; Selenium status and its correlates in a British national diet and nutrition survey: people aged 65 years and over. J Trace Elem Med Biol. 200216(1):1-8.
+de Jong N, Gibson RS, Thomson CD, et al; Selenium and zinc status are suboptimal in a sample of older New Zealand women in a community-based study. J Nutr. 2001 Oct131(10):2677-84.
+Ishida T, Himeno K, Torigoe Y, et al; Selenium deficiency in a patient with Crohn's disease receiving long-term total parenteral nutrition. Intern Med. 2003 Feb42(2):154-7.
+Alfieri MA, Leung FY, Grace DM; Selenium and zinc levels in surgical patients receiving total parenteral nutrition. Biol Trace Elem Res. 1998 Jan61(1):33-9.
+Combs GF Jr; Impact of selenium and cancer-prevention findings on the nutrition-health paradigm. Nutr Cancer. 200140(1):6-11.
+Rayman MP, Rayman MP; The argument for increasing selenium intake. Proc Nutr Soc. 2002 May61(2):203-15.
+Ryan-Harshman M, Aldoori W; The relevance of selenium to immunity, cancer, and infectious/inflammatory diseases. Can J Diet Pract Res. 2005 Summer66(2):98-102.
+Burk RF; Selenium, an antioxidant nutrient. Nutr Clin Care. 2002 Mar-Apr5(2):75-9.
+Neve J; Selenium as a 'nutraceutical': how to conciliate physiological and supra-nutritional effects for an essential trace element. Curr Opin Clin Nutr Metab Care. 2002 Nov5(6):659-63.
+Thomson CD; Assessment of requirements for selenium and adequacy of selenium status: a review. Eur J Clin Nutr. 2004 Mar58(3):391-402.
+Hi Guys,I have been in pain for a while especially my shoulder blades, Knees,wrists,back, ankles and neck. Its mainly my joints like a sore burning achy feeling. when I have a shower water sprayed...
+penny62715
+Join the discussion on the forums
+Health Tools
+Feeling unwell?
+Assess your symptoms online with our free symptom checker.
+Start symptom checker
+Article Information
+Last Reviewed 02 February 2016
+Next Review 31 January 2021
+Document ID 1699 (v23)
+Author Dr Jan Sambrook
+Peer reviewer Dr Helen Huins
+The information on this page is written and peer reviewed by qualified clinicians.
+Disclaimer: This article is for information only and should not be used for the diagnosis or treatment of medical conditions. Patient Platform Limited has used all reasonable care in compiling the information but make no warranty as to its accuracy. Consult a doctor or other health care professional for diagnosis and treatment of medical conditions. For details see our conditions.
+Health Information
+Medicine directory
+Community
+Symptom Checker
+Medical professionals
+About us
+Authors
+Contact us
+Terms and conditions
+Privacy policy
+Advertise with us
+Our clinical information is certified to meet NHS England's Information Standard.
+Read more
+Health information you can trust
+Patient aims to help the world proactively manage its healthcare, supplying evidence-based information on a wide range of medical and health topics to patients and health professionals.
+© Patient Platform Limited. Registered in England and Wales. All rights reserved. Patient does not provide medical advice, diagnosis or treatment.
+Registered number: 10004395 Registered office: Rawdon House, Green Lane, Yeadon, Leeds LS19 7BY. Patient is a UK registered trade mark.
+Connect with us
+twitter
+facebook
+youtube
+pinterest
+instagram
+close
+Patient.info uses cookies to improve your experience and deliver personalised advertising.
+By using this site you agree to our use of cookies. You can opt out at any time or find out more by reading our cookie policy.
+Accept
+newnav-downnewnav-up

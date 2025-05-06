@@ -1,0 +1,77 @@
+How Dangerous Is Cell Phone Radiation?
+Members Portal
+About
+About Skeptoid Subscribe to the Podcast Episode Guide Sponsor an episode What People Are Saying... What Is Skepticism? Donate Press Room Contact
+Topics
+Aliens & UFOs Alternative Medicine Ancient Mysteries Conspiracy Theories Consumer Ripoffs Cryptozoology Environment Fads Feedback & Questions General Science Health History & Pseudohistory Logic & Persuasion Natural History Paranormal Religion Urban Legends
+Store
+Community
+Podcast Companion Email Sponsor an episode Teachers Toolkit Answering Student Questions Help with Skeptoid Research
+Live Shows
+Calendar Information
+Recent episodes received support from:
+First 30 days free
+Free month: 5-min meditations
+Post a job for free
+Sponsor an episode
+How Dangerous Is Cell Phone Radiation?
+There is neither evidence nor plausible hypothetical foundation for cell phone signals to be at all dangerous.
+by Brian Dunning
+Filed under Consumer Ripoffs, General Science, Health
+Skeptoid Podcast #117
+September 2, 2008
+Podcast transcript | Download | Subscribe
+Also available in Spanish | Russian
+Listen:
+http://skeptoid.com/audio/skeptoid-4117.mp3
+Artwork: Nathan Bebb
+Today we're going to pick up virtually any consumer magazine or open any Internet news website and read about a frightening new threat: That radiation from cell phones is dangerous, perhaps causing brain tumors or other cancers, maybe even cooking your brain like an egg or like popcorn. Most people have no knowledge of science other than what they hear on the news, so we have a whole population growing up with this understanding. Is the fear justified? Do cell phones have the potential to cause physical harm, or are they completely safe? Or, like so many other questions, is the truth somewhere in the middle?
+Let's take a closer look at exactly what kind of threat is being reported. A recent article on CNN.com quotes Dr. Debra Davis, Director of the University of Pittsburgh's Center for Environmental Oncology, saying that "You're just roasting your bone marrow" and asking "Do you really want to play Russian roulette with your head?" The article goes on to give five recommendations for limiting your exposure to cell phone radiation: Using a headset, using the speakerphone, getting a different phone, and so on. CNN followed up with another article with more quotes from Dr. Davis, this time saying that children are especially at risk because their brains are still developing, so they should be allowed to use cell phones in emergencies only.
+As the director of an oncology center, she must have all kinds of experience treating cancer patients, and since she's going on CNN to talk about cell phone risks she must have a lot of experience dealing with cancer caused by cell phones. Right? Well, you'd think, but apparently CNN is not quite that particular about their guests. Dr. Davis' Ph.D. is in "science studies", whatever that is, and she is neither a medical doctor nor does she have any specialization in physical sciences like radiation. Now, I'm not trying to disrespect Dr. Davis — she has a fine background loaded with experience and all sorts of publications and accolades in her field — but I do want to draw attention to the fact that when CNN brings a doctor onto television to talk about a health problem, you shouldn't take anything for granted. You're the one who assumed that she treats cancer patients and has seen harmful effects from cell phone radiation. The fact is that the only danger Dr. Davis actually cited was that "since cell phones have only been in widespread use for 10 years or so, the long-term effects of their radiation waves on the brain has yet to be determined." Neither she, nor CNN, cited a single case of harm being caused by a cell phone, nor did they present any theoretical arguments indicating any plausible danger.
+Dr. Davis is also dramatically wrong on one very significant point: That there has not yet been time for long-term studies to have been conducted, or that the question of cell phones and cancer is otherwise inadequately studied. In fact, the Journal of the National Cancer Institute published the results of a massive study in Denmark that followed the cancer histories of 420,000 cell phone users over 13 years. You'd think that someone in Dr. Davis' position would know about that, or at least take the slightest trouble to search for studies before going on CNN to proclaim that no such studies exist. The study's main interest was to search for increased incidences of brain or nervous system cancers, salivary gland cancer, and leukemia. The study concluded:
+Risk for these cancers ... did not vary by duration of cellular telephone use, time since first subscription, age at first subscription, or type of cellular telephone (analogue or digital). Analysis of brain and nervous system tumors showed no statistically significant [standardized incidence ratios] for any subtype or anatomic location. The results of this investigation ... do not support the hypothesis of an association between use of these telephones and tumors of the brain or salivary gland, leukemia, or other cancers.
+The lack of any connection is not surprising, given that no plausible hypothesis exists for how a cell phone could cause tissue damage. RF below the visible spectrum, which includes the frequencies used by cell phones and all radio devices, is not ionizing radiation and so has no potential to damage living cells or break any chemical bonds. Microwave ovens, which operate just above cell phones on the frequency scale, work by oscillating such an extremely powerful field back and forth, causing the water molecules to rub against each other and create heat by friction. Cell phone signals are three orders of magnitude weaker, too weak to move the water molecules, and do not oscillate to cause friction. Scratch the heat hypothesis, scratch the ionizing radiation hypothesis, and there are no plausible alternatives. Of course it's not possible to prove that there is no potential for harm, but all sources of harm known or theorized to date are clearly excluded.
+So if that's true, how did the story get started? How did cell phones causing cancer become one of our pop culture myths?
+It started in 1993, when a guy named David Raynard went on CNN's Larry King Live to talk about his lawsuit against the cellular phone industry over the death of his wife from brain cancer, who used a cell phone. Certainly we all sympathize with Mr. Raynard, but that doesn't make him right. Unfortunately for rationalism, being on Larry King was all the credibility the story needed to become a popular belief. Despite Mr. Raynard's claim that his wife's tumor was in the same shape as the cell phone antenna, the case was thrown out for a lack of evidence.
+Another reason the belief persists is that it is constantly being promoted by companies selling quack devices claimed to protect consumers from any potential threat. Spreading fear is a major marketing angle that they employ. Cardo Systems, a maker of cell phone headset, broadly promoted as the best way to minimize danger of radiation, famously released a set of hoax videos on YouTube showing people popping popcorn by setting some kernels on a table between several activated cell phones. When nailed for the hoax by CNN, Cardo's CEO claimed that the videos were meant only as a joke and that the thought of scaring people into thinking that cell phones could pop popcorn never entered their minds. You can judge the credibility of that statement for yourself.
+There are also a number of videos on YouTube showing eggs being hard boiled merely by placing them between two activated cell phones for a few minutes. This claim has also been thoroughly debunked. The British TV show Brainiac even tried it with 100 phones. The result? Zippo. It didn't change the egg's temperature at all. Raw as ever.
+Some of these companies selling products to protect you have sections on their websites where they cite official statements reiterating that there is no proof that cell phones are safe. They also tend to cite one particular study, known as the Guy study and published in Bioelectromagnetics in 1992. You might remember Guy's co-author C.K. Chou, an RF scientist who did some research we examined in our episode about The Hum. The Guy study exposed rats to high levels of RF for 22 hours a day for two years. 18 of the exposed rats developed tumors, while only 5 of the control group did. The cell phone accessory companies stop there, but you have to dig deeper to find that other researchers have been unable to replicate these results, and the conclusion was that the tumor incidence, while statistically significant, was not shown to have been caused by the RF. In fact, another study also published in Bioelectromagnetics by Adey et. al. exposed rats to a chemical carcinogen and then exposed some of them to RF. Dr. Adey actually found fewer tumors in the RF exposed rats, but again the result was not large enough to draw conclusions. Even in the harshest of animal studies, no evidence has been found to link cell phone radiation to health problems.
+We may quarrel with these companies' ethics in promoting fear to sell their products, but that doesn't mean that the products aren't a wise precaution. It can't hurt to be safe rather than sorry, can it? Well, you will be sorry if you spend any of your hard-earned money on a product intended to protect you from cell phone radiation, and you hear what the World Health Organization has to say on the matter. Their summary on such devices says:
+Scientific evidence does not indicate any need for RF-absorbing covers or other "absorbing devices" on mobile phones. They cannot be justified on health grounds and the effectiveness of many such devices in reducing RF exposure is unproven.
+So far, the science that's been done pretty much supports the default skeptical position. When we hear a claim like "cell phone radiation causes cancer", we assume the null hypothesis until evidence is presented that supports the claim. And to date, all the good evidence supports the null hypothesis, not the claim. Maybe tomorrow things will change, and we'll find that cell phones are harmful, or that 60-cycle electrical outlets are harmful, or that traveling faster than 30 miles an hour is harmful. An open skeptical mind is open to any good evidence supporting any claim. But for now, I'm going to continue enjoying the usefulness of my iPhone, and be damn glad there's a tower in my neighborhood.
+By Brian Dunning
+Follow @BrianDunning
+Please contact us with any corrections or feedback.
+Cite this article:
+Dunning, B. "How Dangerous Is Cell Phone Radiation?" Skeptoid Podcast. Skeptoid Media, 2 Sep 2008. Web. 22 Apr 2019. <http://skeptoid.com/episodes/4117>
+References & Further Reading
+Cohen, E. "5 tips to limit your cell phone risk." CNNHealth.com. Cable News Network, 31 Jul. 2008. Web. 13 Jan. 2010. <http://www.cnn.com/2008/HEALTH/07/31/ep.cell.phones.cancer/index.html>
+Johansen, C., Boice Jr., J., McLaughlin, J., Olsen, J. "Cellular Telephones and Cancer: A Nationwide Cohort Study in Denmark." Journal of the National Cancer Institute. 7 Feb. 2001, Vol 93, No 3: 203-207.
+Muscat, J., Hinsvark, M., Malkin, M. "Mobile Telephones and Rates of Brain Cancer." Neuroepidemiology. 3 Jul. 2006, Vol 27, Issue 1: 55-56.
+Shermer, M. "Can You Hear Me Now? The Truth about Cell Phones and Cancer: Physics shows that cell phones cannot cause cancer." Scientific American. 4 Oct. 2010, Volume 303, Number 4: 98.
+Tahvanainen, K., Niño, J., Halonen, P., Kuusela, T., Alanko, T., Laitinen, T., Länsimies, E., Hietanen, M., Lindholm, H. "Effects of cellular phone use on ear canal temperature measured by NTC thermistors." Clinical Physiology & Functional Imaging. 1 May 2007, Vol 27 No 3: 162-172.
+WHO. "Electromagnetic fields and public health: mobile telephones and their base stations." World Health Organization. World Health Organization, 1 Jun. 2000. Web. 13 Jan. 2010. <http://www.who.int/mediacentre/factsheets/fs193/en/>
+Wilson, J. "What to know before buying your kid a cell phone." CNN.com Technology. Cable News Network, 11 Aug. 2008. Web. 13 Jan. 2010. <http://www.cnn.com/2008/TECH/ptech/08/11/cellphones.kids/index.html>
+Copyright ©2019 Skeptoid Media, Inc. All Rights Reserved. Rights and reuse information
+Show Your Support
+The Skeptoid weekly science podcast is a free public service from Skeptoid Media, a 501(c)(3) educational nonprofit.
+This show is made possible by financial support from listeners like you. If you like this programming, please become a member.
+Other ways you can help
+Donate: $5 $10 $15 $25 $35 $50 $75 $100 $150 $200 $250 $500
+Make this an automatic recurring monthly donation
+(Cancel any time)
+All donations are tax deductible for U.S. residents.
+Email me about new episodes:
+Now Trending...
+Illuminating the Illuminati
+Who Kills More, Religion or Atheism?
+Did Jewish Slaves Build the Pyramids?
+Orbs: The Ghost in the Camera
+Deconstructing the Rothschild Conspiracy
+The Siberian Hell Sounds
+The Simple Proof of Man-Made Global Warming
+The Greatest Secret of Nostradamus
+SKEPTOID MEDIA
+About us | Our programming | Become a supporter
+A STEM-focused 501(c)(3) educational nonprofit.
+All content is © Skeptoid Media, Inc. All Rights Reserved.

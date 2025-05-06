@@ -1,0 +1,144 @@
+Methanol toxicity - Wikipedia
+Methanol toxicity
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+Methanol toxicity
+Other names
+Methanol poisoning
+Atomic structure of methanol
+Specialty
+Emergency medicine
+Symptoms
+Decreased level of consciousness, poor coordination, vomiting, abdominal pain, specific smell on the breath[1][2]
+Complications
+Blindness, kidney failure[1]
+Causes
+Methanol (such as found in windshield washer fluid)[1][2]
+Diagnostic method
+Blood acidosis, increased osmol gap, methanol blood level[1][2]
+Differential diagnosis
+Infections, exposure to other toxic alcohols, serotonin syndrome, diabetic ketoacidosis[2]
+Treatment
+Antidote, hemodialysis[2]
+Medication
+Fomepizole, ethanol[2]
+Prognosis
+Good with early treatment[1]
+Frequency
+1,700 cases per year (US)[3]
+Methanol toxicity is poisoning from methanol.[1] Symptoms may include a decreased level of consciousness, poor coordination, vomiting, abdominal pain, and a specific smell on the breath.[1][2] Decreased vision may start as early as twelve hours after exposure.[2] Long term outcomes may include blindness and kidney failure.[1] Toxicity and death may occur even after drinking a small amount.[1]
+Methanol poisoning most commonly occurs following the drinking of windshield washer fluid.[2] This may be accidental or done purposefully in an attempt to die by suicide.[1] Toxicity may also rarely occur through skin exposure or breathing in the fumes.[1] When methanol is broken down by the body it results in formaldehyde, formic acid, and formate which cause much of the toxicity.[2] The diagnosis may be suspected when there is acidosis or an increased osmol gap and confirmed by directly measuring blood levels.[1][2] Other conditions that can produce similar symptoms include infections, exposure to other toxic alcohols, serotonin syndrome, and diabetic ketoacidosis.[2]
+Early treatment increases the chance of a good outcome.[2] Treatment consists of stabilizing the person, followed by the use of an antidote.[2] The preferred antidote is fomepizole, with ethanol used if this is not available.[2] Hemodialysis may also be used in those where there is organ damage or a high degree of acidosis.[2] Other treatments may include sodium bicarbonate, folate, and thiamine.[2]
+Outbreaks have occurred due to contamination of drinking alcohol.[2] This is more common in the developing world.[2] In 2013 more than 1700 cases occurred in the United States.[3] Those affected are often adults and male.[3] Toxicity to methanol has been described as early as 1856.[4]
+Contents
+1 Signs and symptoms
+2 Cause
+3 Mechanism
+4 Treatment
+5 History
+6 References
+7 External links
+Signs and symptoms[edit]
+The initial symptoms of methanol intoxication include central nervous system depression, headache, dizziness, nausea, lack of coordination, and confusion. Sufficiently large doses cause unconsciousness and death. The initial symptoms of methanol exposure are usually less severe than the symptoms from the ingestion of a similar quantity of ethanol.[5] Once the initial symptoms have passed, a second set of symptoms arises, from 10 to as many as 30 hours after the initial exposure, that may include blurring or complete loss of vision, acidosis, and putaminal hemorrhages, an uncommon but serious complication.[6][7] These symptoms result from the accumulation of toxic levels of formate in the blood, and may progress to death by respiratory failure. Physical examination may show tachypnea, and ophthalmologic examination may show dilated pupils with hyperemia of the optic disc and retinal edema.
+Cause[edit]
+Methanol has a high toxicity in humans. As little as 10 mL of pure methanol when drunk is metabolized into formic acid, which can cause permanent blindness by destruction of the optic nerve. 15 mL is potentially fatal.[1] Although the median lethal dose is typically 100 mL (3.4 fl oz) (i.e. 1–2 mL/kg body weight of pure methanol[8]). Reference dose for methanol is 2 mg/kg/day.[9]
+Ethanol is sometimes denatured (adulterated), and made poisonous, by the addition of methanol. The result is known as methylated spirit, "meths" (British use) or "metho" (Australian slang). This is not to be confused with "meth", a common abbreviation for methamphetamine and for methadone in Britain and the United States.
+Mechanism[edit]
+Methanol is toxic by two mechanisms. First, methanol (whether it enters the body by ingestion, inhalation, or absorption through the skin) can be fatal due to its CNS depressant properties in the same manner as ethanol poisoning. Second, in a process of toxication, it is metabolized to formic acid (which is present as the formate ion) via formaldehyde in a process initiated by the enzyme alcohol dehydrogenase in the liver.[6] Methanol is converted to formaldehyde via alcohol dehydrogenase (ADH) and formaldehyde is converted to formic acid (formate) via aldehyde dehydrogenase (ALDH). The conversion to formate via ALDH proceeds completely, with no detectable formaldehyde remaining.[10] Formate is toxic because it inhibits mitochondrial cytochrome c oxidase, causing hypoxia at the cellular level, and metabolic acidosis, among a variety of other metabolic disturbances.[11]
+Treatment[edit]
+Methanol poisoning can be treated with fomepizole, or if unavailable, ethanol.[6][12][13] Both drugs act to reduce the action of alcohol dehydrogenase on methanol by means of competitive inhibition. Ethanol, the active ingredient in alcoholic beverages, acts as a competitive inhibitor by more effectively binding and saturating the alcohol dehydrogenase enzyme in the liver, thus blocking the binding of methanol. Methanol is excreted by the kidneys without being converted into the very toxic metabolites formaldehyde and formic acid. Alcohol dehydrogenase instead enzymatically converts ethanol to acetaldehyde, a much less toxic organic molecule.[6][14] Additional treatment may include sodium bicarbonate for metabolic acidosis, and hemodialysis or hemodiafiltration to remove methanol and formate from the blood.[6] Folinic acid or folic acid is also administered to enhance the metabolism of formate.[6]
+History[edit]
+See also: List of methanol poisoning incidents
+There are cases of methanol resistance, such as that of Mike Malloy, whom someone tried and failed to poison by methanol in the early 1930s.[15]
+In December 2016, at least 75 people in Irkutsk, Russia died from methanol poisoning after ingesting a counterfeit body lotion that was primarily methanol rather than ethanol as labeled. The body lotion, prior to the event, had been used as a cheap substitute for vodka by the impoverished people in the region despite warnings on the lotion's bottles that it was not safe for drinking and long-standing problems with alcohol poisoning across the country.[16]
+References[edit]
+^ a b c d e f g h i j k l m Kruse, JA (October 2012). "Methanol and ethylene glycol intoxication". Critical care clinics. 28 (4): 661–711. doi:10.1016/j.ccc.2012.07.002. PMID 22998995.
+^ a b c d e f g h i j k l m n o p q r s Beauchamp, GA; Valento, M (September 2016). "Toxic Alcohol Ingestion: Prompt Recognition And Management In The Emergency Department". Emergency medicine practice. 18 (9): 1–20. PMID 27538060.
+^ a b c Ferri, Fred F. (2016). Ferri's Clinical Advisor 2017: 5 Books in 1. Elsevier Health Sciences. p. 794. ISBN 9780323448383. Archived from the original on 2017-09-08.
+^ Clary, John J. (2013). The Toxicology of Methanol. John Wiley & Sons. p. 3.4.1. ISBN 9781118353103. Archived from the original on 2017-09-08.
+^ National Institute for Occupational Safety and Health (22 August 2008). "The Emergency Response Safety and Health Database: Methanol". Archived from the original on 23 April 2009. Retrieved 17 March 2009.
+^ a b c d e f Schep LJ, Slaughter RJ, Vale JA, Beasley DM (2009). "A seaman with blindness and confusion". BMJ. 339: b3929. doi:10.1136/bmj.b3929. PMID 19793790. Archived from the original on 2009-10-08.
+^ Permpalung N, Cheungpasitporn W, Chongnarungsin D, Hodgdon TM (Oct 2013). "Bilateral putaminal hemorrhages: serious complication of methanol intoxication". N Am J Med Sci. 5 (10): 623–4. doi:10.4103/1947-2714.120804. PMC 3842708. PMID 24350079.
+^ "Methanol Poisoning Overview". Antizol. Archived from the original on 5 October 2011.
+^ Methanol (CASRN 67-56-1) Archived 2012-12-05 at the Wayback Machine
+^ McMartin KE, Martin-Amat G, Noker PE, Tephly TR (1979). "Lack of a role for formaldehyde in methanol poisoning in the monkey". Biochem. Pharmacol. 28 (5): 645–9. doi:10.1016/0006-2952(79)90149-7. PMID 109089.
+^ Liesivuori J, Savolainen H (September 1991). "Methanol and formic acid toxicity: biochemical mechanisms". Pharmacol. Toxicol. 69 (3): 157–63. doi:10.1111/j.1600-0773.1991.tb01290.x. PMID 1665561.
+^ Casavant MJ (Jan 2001). "Fomepizole in the treatment of poisoning". Pediatrics. 107 (1): 170–171. doi:10.1542/peds.107.1.170. PMID 11134450. Archived from the original on 2005-06-29.
+^ Brent J (May 2009). "Fomepizole for ethylene glycol and methanol poisoning". N Engl J Med. 360 (21): 2216–23. doi:10.1056/NEJMct0806112. PMID 19458366.
+^ Voet, Donald, Judith G. Voet, and Charlotte W. Pratt. Fundamentals of Biochemistry: Life at the Molecular Level. 5th ed. Hoboken, NJ: Wiley, 2008. Print
+^ Blum, Deborah (2011). The Poisoner's Handbook. Penguin Books. p. 231. ISBN 014311882X.
+^ Isachenkov, Vladimir (19 December 2016). "Alcohol poisoning death toll in Russian city rises to 49". Associated Press. Archived from the original on 20 December 2016. Retrieved 19 December 2016.
+External links[edit]
+Classification
+D
+ICD-10: T51.1
+ICD-9-CM: E980.9
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Methanol_toxicity&oldid=884799907"
+Categories:
+Toxicology
+Hidden categories:
+Webarchive template wayback links
+RTT
+RTTEM
+Navigation menu
+Personal tools
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Namespaces
+Article
+Talk
+Variants
+Views
+Read
+Edit
+View history
+More
+Search
+Navigation
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Print/export
+Create a book
+Download as PDF
+Printable version
+Languages
+العربية
+Español
+עברית
+日本語
+Norsk nynorsk
+ଓଡ଼ିଆ
+Tiếng Việt
+Edit links
+This page was last edited on 24 February 2019, at 02:19 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view

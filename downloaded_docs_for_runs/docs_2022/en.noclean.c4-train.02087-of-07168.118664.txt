@@ -1,0 +1,758 @@
+Consumption of sweet beverages and type 2 diabetes incidence in European adults: results from EPIC-InterAct | SpringerLink
+Skip to main content Skip to sections
+This service is more advanced with JavaScript available, learn more at http://activatejavascript.org
+Advertisement
+Hide
+SpringerLink
+Search SpringerLink
+Search
+Home
+Log in
+Diabetologia
+Download PDF
+Diabetologia
+July 2013 , Volume 56, Issue 7, pp 1520–1530 | Cite as
+Consumption of sweet beverages and type 2 diabetes incidence in European adults: results from EPIC-InterAct
+Authors
+Authors and affiliations
+The InterAct consortium
+Article
+First Online: 26 April 2013
+144 Shares
+16k Downloads
+121 Citations
+Abstract
+Aims/hypothesis
+Consumption of sugar-sweetened beverages has been shown, largely in American populations, to increase type 2 diabetes incidence. We aimed to evaluate the association of consumption of sweet beverages (juices and nectars, sugar-sweetened soft drinks and artificially sweetened soft drinks) with type 2 diabetes incidence in European adults.
+Methods
+We established a case–cohort study including 12,403 incident type 2 diabetes cases and a stratified subcohort of 16,154 participants selected from eight European cohorts participating in the European Prospective Investigation into Cancer and Nutrition (EPIC) study. After exclusions, the final sample size included 11,684 incident cases and a subcohort of 15,374 participants. Cox proportional hazards regression models (modified for the case–cohort design) and random-effects meta-analyses were used to estimate the association between sweet beverage consumption (obtained from validated dietary questionnaires) and type 2 diabetes incidence.
+Results
+In adjusted models, one 336 g (12 oz) daily increment in sugar-sweetened and artificially sweetened soft drink consumption was associated with HRs for type 2 diabetes of 1.22 (95% CI 1.09, 1.38) and 1.52 (95% CI 1.26, 1.83), respectively. After further adjustment for energy intake and BMI, the association of sugar-sweetened soft drinks with type 2 diabetes persisted (HR 1.18, 95% CI 1.06, 1.32), but the association of artificially sweetened soft drinks became statistically not significant (HR 1.11, 95% CI 0.95, 1.31). Juice and nectar consumption was not associated with type 2 diabetes incidence.
+Conclusions/interpretation
+This study corroborates the association between increased incidence of type 2 diabetes and high consumption of sugar-sweetened soft drinks in European adults.
+Keywords
+Artificially sweetened soft drinks Case–cohort study Europe Juices and nectars Prospective study Sugar-sweetened soft drinks Sweet beverages Type 2 diabetes incidence
+Abbreviations
+EPIC
+European Prospective Investigation into Cancer and Nutrition study
+MDP
+Mediterranean dietary pattern
+rMED
+Relative Mediterranean Diet Score
+The InterAct Consortium authors are listed in the Appendix.
+Electronic supplementary material
+The online version of this article (doi: 10.1007/s00125-013-2899-8) contains peer-reviewed but unedited supplementary material, which is available to authorised users.
+Introduction
+Use of caloric sweeteners (i.e. products used for sweetening that are either derived from sugar crops, cereals, fruits or milk) has increased around the world, with sugar-sweetened beverages accounting for a major element of this increase [1]. Parallel to this increase, there has been a rise in the prevalence of obesity and type 2 diabetes worldwide [2]. Sugar-sweetened beverage consumption may lead to type 2 diabetes because of its effect on weight gain [3], as well as its glycaemic effects—inducing rapid spikes in glucose and insulin and causing insulin resistance [4, 5]. A meta-analysis published in 2010 provides empirical evidence for a link between the consumption of sugar-sweetened beverages (defined as drinks containing energy sweeteners, such as sucrose, high-fructose corn syrup and fruit juice concentrate [i.e. soft drinks and juices with added sugars]) and type 2 diabetes [6]. The association between the consumption of other beverage types (i.e. 100% juices and artificially sweetened drinks) and type 2 diabetes risk is less clear, with some studies showing inconsistent results [7, 8, 9, 10, 11, 12].
+The majority of epidemiological studies of the association between sweet beverages and type 2 diabetes risk published so far are based on North American cohorts. The consumption of sweet beverages in Europe appears to be lower than in the USA, though it seems to be rising [13]. Data from ten European countries collected in the European Prospective Investigation into Cancer and Nutrition (EPIC) study showed that, between 1992 and 2000, on average 2.5% of total carbohydrate intake came from soft drink consumption [14]; the corresponding figure observed in the US Department of Agriculture survey of 1994/96 was 10.4% [1]. In addition, the diversity of dietary patterns in Europe leads to a wide variation in sweet beverage consumption across different countries, with a clear north–south gradient (i.e. higher consumption in northern than in southern European countries) [13, 15].
+The aim of the present analysis was to investigate the association between the consumption of sweet beverages (i.e. juices and nectars, sugar-sweetened soft drinks and artificially sweetened soft drinks) and the incidence of type 2 diabetes in a European cohort, the EPIC-InterAct study.
+Methods
+Study design
+The participants, methods, study design and measurements have been described previously [16]. In brief, the InterAct project was initiated to investigate how genetic and lifestyle behavioural factors, particularly diet and physical activity, interact for the risk of developing diabetes and how knowledge about such interactions may be translated into preventive action. As part of the wider InterAct project, consortium partners established a case–cohort study of incident type 2 diabetes (InterAct study) based on cases occurring within 3.99 million person-years accrued between 1991 and 2007 in 340,234 people from eight countries participating in EPIC cohorts. All participants gave written informed consent, and the study was approved by the local ethics committees in the participating countries and the Internal Review Board of the International Agency for Research on Cancer.
+Case ascertainment
+We followed a pragmatic high-sensitivity approach for case ascertainment with the aim of: (1) identifying all potential incident diabetes cases; and (2) excluding all individuals with prevalent diabetes.
+Prevalent diabetes was identified on the basis of baseline self-report of a history of diabetes, doctor-diagnosed diabetes, diabetes drug use or evidence of diabetes after baseline with a date of diagnosis earlier than the baseline recruitment date. All participants with any evidence of diabetes at baseline were excluded.
+Ascertainment of incident type 2 diabetes involved a review of the existing EPIC datasets at each centre using multiple sources of evidence, including self-report, linkage to primary-care registers, secondary-care registers, medication use (drug registers), hospital admissions and mortality data. Information from any follow-up visit or external evidence with a date later than the baseline visit was used. Cases in Denmark and Sweden were not ascertained by self-report, but identified via local and national diabetes and pharmaceutical registers and hence all ascertained cases were considered to be verified. To increase the specificity of the case definition for centres other than those from Denmark and Sweden, we sought further evidence for all cases with information on incident type 2 diabetes from fewer than two independent sources at a minimum, including individual medical records reviews in some centres. Follow-up was censored at the date of diagnosis, 31 December 2007, or the date of death, whichever occurred first. In total, 12,403 verified incident cases were identified during follow-up.
+Subcohort
+The case–cohort design of the InterAct study differs from the nested case–control design in that a random subcohort is selected instead of a set of matched controls. A subcohort of 16,835 individuals were randomly selected from those with available stored blood and buffy coat, stratified by centre. We oversampled the number of individuals in the subcohort for the proportion of prevalent diabetes cases in each centre to account for later exclusion of individuals with prevalent diabetes from InterAct analyses. After exclusion of 548 individuals with prevalent diabetes, 129 individuals without information on reported diabetes status and four individuals with post-censoring diabetes, 16,154 subcohort individuals were included in the analysis. Because of random selection at baseline, this subcohort also included 778 individuals who developed incident type 2 diabetes during follow-up.
+For the present analysis we excluded participants (both cases and participants in the subcohort) within the lowest and highest 1% of the cohort distribution of the ratio of reported total energy intake:energy requirement (n = 619) and those with missing information on diet (n = 117), physical activity (n = 289), level of education (n = 127), smoking status (n = 132) or BMI (n = 167). This resulted in a final sample size of 11,684 type 2 diabetes cases and a subcohort of 15,374 (including 730 of the diabetes cases).
+Dietary assessment
+Usual food intake over the previous year (g/day) was estimated using country-specific validated dietary questionnaires [17] that were administered once at baseline. Estimated individual energy intake (MJ/day) was derived from foods included in the dietary questionnaires through the standardised EPIC Nutrient Database [18].
+Sweet beverages evaluated in the present study were juices and nectars and total soft drinks.
+‘Juices and nectars’ combines the information collected on consumption of juices (obtained from either 100% fruit and vegetables or concentrates) and nectars (juices with up to 20% added sugar) across all EPIC countries/centres. The distinction of juices from nectars or of 100% fruit or vegetable juices from juices from concentrates could not be established because of a lack of standardised information across the different EPIC centres. Therefore, these food items were always studied in combination.
+‘Total soft drinks’ combines the information collected on consumption of carbonate/soft/isotonic drinks and diluted syrups across all EPIC countries/centres. The different types of soft drinks could be distinguished in all EPIC centres except Italy, Spain and Umeå (in Sweden) and, hence, the variable of total soft drinks could be divided into: (1) sugar-sweetened soft drinks; and (2) artificially sweetened soft drinks. Italy, Spain and Umeå were excluded from analyses of the association between sugar-sweetened and artificially sweetened soft drinks and type 2 diabetes incidence.
+Sweet beverages were divided into the following categories of average consumption: <1 glass/month; 1–4 glasses/month; >1–6 glasses/week; ≥1 glass/day, with one glass equivalent to 250 g (~8.8 oz), the standard serving size used in the EPIC dietary questionnaires.
+Assessment of other covariates
+Standard questionnaires were used to collect information on the participants’ sociodemographic characteristics and lifestyle variables [19]. For the present analysis we used information about: smoking status (never smoker, former smoker and current smoker); alcohol intake (non-drinker, 0.1–4.9, 4.9–15, 15–30, 30–60 and >60 g/day); educational level (no formal education, primary school, technical school, secondary school and university degree); and an ordered four-category index of physical activity (inactive, moderately inactive, moderately active and active) [20].
+Body weight (kg) and height (cm) were measured according to standardised procedures without shoes, except for the centres at Oxford (UK) and France, where self-reported anthropometric values were used. Waist circumference was measured in cm at the narrowest torso circumference or at the midpoint between the lower ribs and iliac crest in all centres but Umeå (Sweden). Weight and waist measurements were corrected to account for protocol differences between centres in clothing worn during measurement, as previously described [21]. BMI was calculated as body weight (kg) divided by height squared (m2). Individuals were categorised into groups of normal weight (BMI <25 kg/m2), overweight (BMI 25–30 kg/m2) and obese (BMI ≥30 kg/m2).
+In most participating centres, baseline information was collected on the presence of chronic conditions: hypertension; hyperlipidaemia; and previous cardiovascular disease (angina, stroke and myocardial infarction). Information on family history of type 2 diabetes in a first-degree relative was collected for all participants except for those in Italy, Spain, Germany and Oxford (UK).
+Statistical analyses
+Cox proportional hazards regression, modified for the case−cohort design according to the Prentice method [22], was used to estimate the association between consumption of sweet beverages and incidence of type 2 diabetes. Age was used as the underlying timescale, with entry time defined as the participant’s age at recruitment and exit time as age at diagnosis of diabetes, censoring or death (whichever came first). Centre or country analyses were run separately and HRs were then combined across countries/centres using random-effects meta-analysis. From this analysis I 2, the percentage of variation between countries/centres due to heterogeneity, was calculated.
+Exposure variables (consumption of juices and nectars, total soft drinks and, for the centres where the information was available, sugar-sweetened soft drinks and artificially sweetened soft drinks) were assessed as categorical variables (<1 glass/month, 1–4 glasses/month, >1–6 glasses/week, ≥1 glass/day). The tests for linear trend were performed by including median values of consumption within each category in the Cox regression models. For comparison with previous studies, HRs were also calculated per one 12 oz serving size increment in sweet beverage consumption (equivalent to 336 g/day) [6]. In secondary analyses, the study participants were also classified into sex-specific tertiles according to the distribution of intake in consumers within the subcohort or non-consumers. We assessed the association between tertiles of intake and diabetes incidence using models similar to those described earlier, but because the results were very similar in terms of effect size and significance level, these are not presented here.
+We ran both crude models and models adjusted for sex, smoking status, alcohol consumption, educational level and physical activity. Juices and nectars and total soft drinks were mutually adjusted. Sugar-sweetened and artificially sweetened soft drinks were also mutually adjusted and also adjusted for juice and nectar consumption.
+Sensitivity analyses included adjustment for total energy intake and BMI (as continuous variables). We did this only in a sensitivity analysis because total energy intake and BMI could act as an intermediate of the association between sweet beverages and diabetes risk, in which case they should not be included in the main multiply adjusted model [6]. Also, further adjustments for waist circumference (continuous), presence of hyperlipidaemia (yes, no) and hypercholesterolaemia (yes, no) were performed.
+To deal with plausible residual confounding associated with the dietary pattern of those with high consumption of sweet beverages, models were also adjusted for the consumption of vegetables, fruits, nuts, cereals and products, dairy products, red meat, processed meat, sugar and confectionary, cakes and biscuits, and coffee and tea (included in the model as continuous variables expressed in g/day). Also, given that a Mediterranean dietary pattern (MDP) has been shown to be associated with both type 2 diabetes incidence [23] and consumption of sweet beverages [24], we adjusted for the relative Mediterranean Diet Score (rMED; score range, 0–18), which assesses adherence to MDP, based on reported consumption of nine dietary components characteristic of an MDP: vegetables; legumes; fruits and nuts; cereals; fish and seafood; olive oil; moderate alcohol consumption; meat and meat products; and dairy products. More information on the construction of rMED can be found elsewhere [23]. Finally, to minimise reverse causality caused by people who may have changed their dietary habits because of an impaired glucose tolerance or chronic disease, we excluded participants with cardiovascular diseases at baseline (stroke, angina and heart disease), those with family history of type 2 diabetes, and participants in the first 2 and 5 years of follow-up.
+Effect modification by age group (<55 and ≥55 years old), sex, BMI category (<25, 25–<30 and ≥30 kg/m2) and physical activity level (combining the four-category index into two categories, low and high) was assessed by modelling cross-product terms between these variables and sweet beverages, and conducting stratified analyses.
+All statistical analyses were performed with Stata 10.0 (StataCorp, College Station, TX, USA). A level of p < 0.05 was regarded as statistically significant.
+Results
+The distribution of different types of sweet beverage consumption by country/centre is shown in electronic supplementary material (ESM) Table 1. Overall, the average consumption of sweet beverages was higher in northern than in southern countries. Descriptive characteristics of the population by categories of consumption are shown in Table 1 (total soft drinks) and in ESM Table 2 (juices and nectars), ESM Table 3 (sugar-sweetened soft drinks) and ESM Table 4 (artificially sweetened soft drinks). Compared with low consumers, participants with high levels of total soft drink consumption were more likely to be men, physically active, less educated and smokers with, on average, a higher waist circumference. The diet of high consumers of soft drinks was relatively low in fruit and vegetables and rich in red and processed meat. On the other hand, those with high juice and nectar consumption tended to be younger, women, physically active, former smokers and more educated than those with lower consumption of juices and nectar. The high juice and nectar consumers had lower BMI and waist circumference than low consumers, whereas a larger proportion of them had a chronic disease (i.e. cardiovascular disease, hypertension or hyperlipidaemia) at baseline. Their diet was relatively low in fruit and vegetables and high in processed meat, other beverages and sugar-rich foods. The characteristics of participants with a high consumption of sugar-sweetened soft drinks were very similar to those described for high total soft drink consumers. High consumers of artificially sweetened soft drinks were more likely to have chronic diseases or family history of diabetes and had both higher BMI and waist circumference.
+Table 1
+Baseline characteristics of the EPIC-InterAct subcohort (n = 15,374) according to categories of total soft drink consumption (including both sugar-sweetened and artificially sweetened soft drinks)
+Characteristic
+Total soft drinks
+<1 glassa/month
+1–4 glassesa/month
+>1–6 glassesa/week
+≥1 glassa/day
+n, %
+8,349 (54.31)
+2,034 (13.23)
+3,765 (24.49)
+1,226 (7.97)
+Sex, % women
+65.48
+62.49
+57.90
+52.37
+Physical activity, % activeb
+16.86
+21.48
+24.44
+25.77
+Level of education, % university
+20.71
+22.71
+20.45
+16.31
+Smoking status, % current
+25.22
+26.16
+25.79
+30.42
+Cardiovascular disease, % yesc
+4.10
+4.24
+5.66
+6.35
+Hypertension, % yes
+19.27
+17.62
+18.17
+20.41
+Hyperlipidaemia, % yesd
+19.74
+18.14
+16.12
+16.86
+Family history of type 2 diabetes, % yese
+19.70
+18.28
+19.10
+18.22
+Age, years
+52.93 (8.56)
+52.21 (9.03)
+51.69 (9.80)
+51.70 (10.37)
+BMI, kg/m2
+26.10 (4.18)
+25.70 (3.99)
+25.84 (4.14)
+26.67 (4.54)
+Waist circumference, cmf
+86.15 (12.64)
+85.92 (12.38)
+86.22 (12.44)
+88.93 (13.52)
+Alcohol, g/day [median (IQR)]
+2 (1–3)
+2 (1–3)
+2 (1–3)
+1 (1–2)
+Juices, g/day
+57.70 (118.66)
+64.56 (119.56)
+68.33 (109.31)
+70.12 (113.30)
+Soft drinks, g/day
+0.63 (1.75)
+21.46 (7.36)
+109.87 (57.59)
+485.58 (276.28)
+Vegetables, g/day
+200.14 (126.85)
+170.40 (106.44)
+160.14 (103.69)
+163.30 (111.94)
+Fruits, g/day
+257.56 (198.01)
+232.08 (189.36)
+220.23 (174.49)
+209.80 (169.80)
+Cereals, g/day
+217.61 (114.67)
+228.73 (122.88)
+219.92 (116.28)
+217.54 (109.97)
+Dairy product, g/day
+312.53 (221.16)
+347.14 (239.47)
+366.50 (254.62)
+389.88 (292.67)
+Red meat, g/day
+43.70 (35.27)
+48.37 (35.56)
+47.03 (36.21)
+51.42 (39.14)
+Processed meat, g/day
+35.03 (31.82)
+34.69 (30.11)
+38.89 (32.65)
+43.69 (36.68)
+Sugar and confectionary, g/day
+36.45 (46.46)
+49.00 (54.52)
+49.22 (50.56)
+59.46 (73.29)
+Cakes and biscuits, g/day
+39.79 (45.72)
+44.51 (45.27)
+46.12 (44.23)
+45.36 (47.21)
+Coffee and tea, g/day
+496.47 (483.23)
+694.32 (518.09)
+681.75 (464.04)
+714.69 (503.61)
+Energy, MJ/day
+8.72 (2.58)
+8.92 (2.61)
+9.15 (2.70)
+9.84 (2.82)
+rMEDg
+9.42 (3.04)
+8.28 (3.04)
+7.73 (2.93)
+7.20 (2.86)
+Data are mean (SD) unless otherwise stated
+aOne glass serving size equivalent to 250 g
+bActive means classified in the category with the highest physical activity level according to the ordered four-category index of physical activity (inactive, moderately inactive, moderately active, and active) [20]
+cHistory of cardiovascular disease at baseline: myocardial infarction, angina or stroke
+dExcludes Malmö and Umeå where information on hyperlipidaemia was not collected
+eExcludes all the centres in Italy, Spain, Germany and Oxford (UK) where family history of diabetes was not collected
+fExcludes Umeå (Sweden) where waist circumference was not measured
+grMED (score range 0–18) as described in the Methods
+IQR, interquartile range
+Table 2 shows HRs (and 95% CI) of type 2 diabetes according to the type and amount of sweet beverage consumption. Juice and nectar consumption was not associated with diabetes incidence in any of the studied models. The HR of type 2 diabetes in consumers of one or more glasses per day of total soft drinks was 1.58 (95% CI 1.35, 1.84), compared with low consumers (<1 glass/month) in multiple adjusted models (p for trend <0.0001). Virtually no change in the effect estimate was observed in a sensitivity analysis with further adjustment for energy intake; however, when BMI was added to the energy-adjusted model, the HR of diabetes in high consumers (≥1 glass/day) was reduced to 1.21 (95% CI 1.05, 1.41) compared with low consumers (p for trend 0.0005). Comparison of the highest with the lowest category of sugar-sweetened soft drink consumption gave an HR of 1.39 (95% CI 1.16, 1.67) in models with multiple adjustment (p for trend <0.0001). Inclusion of BMI in the model attenuated the HR (HR of high vs low consumption 1.29, 95% CI 1.02, 1.63; p for trend 0.013). High consumers of artificially sweetened soft drinks showed almost twice the HR of developing type 2 diabetes compared with low consumers (adjusted HR 1.93, 95% CI 1.47, 2.54; p for trend <0.0001); however, the association was attenuated and became statistically not significant when BMI was included in the model (HR 1.13, 95% CI 0.85, 1.52; p for trend 0.24).
+Table 2
+HRs (and 95% CIs) for type 2 diabetes according to type and amount of sweet beverage consumption in the EPIC-InterAct study
+Variable and model
+<1 glassa/month
+1–4 glassesa/month
+>1–6 glassesa/week
+≥1 glassa/day
+p for trend
+HR
+HRb (95% CI)
+HRb (95% CI)
+HRb (95% CI)
+Juices and nectars (median intake, g/day)
+(0.0)
+(17.1)
+(100.0)
+(338.3)
+No. cases
+5,837
+1,702
+3,425
+720
+Crude model
+1.00 (ref)
+0.88 (0.80, 0.98)
+0.89 (0.83, 0.94)
+0.97 (0.85, 1.11)
+0.64
+Adjusted model
+1.00 (ref)
+0.91 (0.80, 1.02)
+0.96 (0.88, 1.04)
+1.00 (0.87, 1.15)
+0.63
+Adjusted model + EI
+1.00 (ref)
+0.91 (0.81, 1.02)
+0.96 (0.88, 1.04)
+0.99 (0.86, 1.14)
+0.84
+Adjusted model + EI + BMI
+1.00 (ref)
+0.97 (0.86, 1.10)
+1.04 (0.96, 1.13)
+1.06 (0.90, 1.25)
+0.21
+Total soft drinksc (median intake, g/day)
+(0.0)
+(20.0)
+(95.1)
+(413.1)
+No. cases
+5,794
+1,604
+2,987
+1,299
+Crude model
+1.00 (ref)
+1.21 (1.07, 1.36)
+1.30 (1.18, 1.43)
+1.78 (1.55, 2.04)
+<0.0001
+Adjusted model
+1.00 (ref)
+1.21 (1.07, 1.37)
+1.26 (1.13, 1.42)
+1.58 (1.35, 1.84)
+<0.0001
+Adjusted model + EI
+1.00 (ref)
+1.21 (1.07, 1.37)
+1.27 (1.12, 1.43)
+1.59 (1.35, 1.88)
+<0.0001
+Adjusted model + EI + BMI
+1.00 (ref)
+1.17 (0.97, 1.42)
+1.11 (0.98, 1.26)
+1.21 (1.05, 1.41)
+0.0005
+Sugar-sweetened soft drinksd (median intake, g/day)
+(0.0)
+(19.3)
+(94.3)
+(425.7)
+No. cases
+3,948
+964
+1,599
+605
+Crude model
+1.00 (ref)
+1.14 (0.97, 1.35)
+1.16 (1.05, 1.28)
+1.68 (1.40, 2.02)
+<0.0001
+Adjusted model
+1.00 (ref)
+1.13 (0.97, 1.31)
+1.04 (0.94, 1.15)
+1.39 (1.16, 1.67)
+<0.0001
+Adjusted model + EI
+1.00 (ref)
+1.12 (0.96, 1.31)
+1.04 (0.94, 1.15)
+1.39 (1.15, 1.69)
+0.001
+Adjusted model + EI + BMI
+1.00 (ref)
+1.19 (0.91, 1.56)
+1.07 (0.94, 1.21)
+1.29 (1.02, 1.63)
+0.013
+Artificially sweetened soft drinksd (median intake, g/day)
+(0.0)
+(18.3)
+(89.0)
+(500.0)
+No. cases
+5,242
+689
+894
+291
+Crude model
+1.00 (ref)
+1.09 (0.97, 1.23)
+1.52 (1.36, 1.69)
+1.84 (1.52, 2.23)
+<0.0001
+Adjusted model
+1.00 (ref)
+1.10 (0.93, 1.29)
+1.46 (1.29, 1.65)
+1.93 (1.47, 2.54)
+<0.0001
+Adjusted model + EI
+1.00 (ref)
+1.08 (0.93, 1.26)
+1.46 (1.29, 1.65)
+1.88 (1.44, 2.45)
+<0.0001
+Adjusted model + EI + BMI
+1.00 (ref)
+1.05 (0.81, 1.35)
+1.18 (1.03, 1.35)
+1.13 (0.85, 1.52)
+0.24
+aOne glass serving size equivalent to 250 g
+bHRs from countries/centres by modified Cox proportional hazard regression; random-effect meta-analyses to obtain pooled estimates. Adjusted models included sex, educational level, physical activity, smoking status and alcohol consumption; juices and total soft drinks were mutually adjusted; sugar-sweetened and artificially sweetened soft drinks were also mutually adjusted plus adjustment for juice consumption
+cTotal soft drinks include both sugar-sweetened and artificially sweetened soft drinks
+dExcludes Italy, Spain and Umeå (Sweden) where information on type of soft drink consumption was not collected
+EI, energy intake; No., number; ref., reference
+Results of the continuous association between sweet beverage consumption and type 2 diabetes incidence, as well as further sensitivity and stratified analyses, are shown in Table 3. For the continuous analyses, a serving size of 12 oz (336 g) was chosen to be comparable with previous studies. Some evidence of effect modification by age group or BMI category was observed in the association between juice and nectar consumption and type 2 diabetes; however, the HR was null within each of the studied subgroups. The multiply adjusted HR of type 2 diabetes associated with 12 oz increments in total soft drink consumption was 1.32 (95% CI 1.20, 1.46). The HR was attenuated to 1.14 (95% CI 1.04, 1.26) after further adjustment for BMI. HRs were virtually unchanged in further sensitivity analyses. A statistically significant interaction (p = 0.03) between sex and soft drink consumption was observed, reflecting a higher HR for women than men; however, the p for interaction was no longer significant in BMI-adjusted models (p = 0.86; not shown in tables). HRs were also higher in younger (<55 years) than in older (≥55 years) subgroups, however, there was only limited statistical evidence for effect modification (p = 0.05).
+Table 3
+HRs (and 95% CIs) for type 2 diabetes associated with one 336 g (12 oz) increment in the consumption of different type of sweet beverages in the EPIC-InterAct study, effect-modification analyses and sensitivity analyses
+Per one 336 g serving size increment
+No. of cases
+Juices and nectars
+Total soft drinksa
+No. of casesc
+Sugar-sweetened soft drinks
+Artificially sweetened soft drinks
+HRb (95% CI)
+HRb (95% CI)
+HRb (95% CI)
+HRb (95% CI)
+Unadjusted model
+11,684
+1.00 (0.92, 1.10)
+1.43 (1.29, 1.58)
+7,116
+1.39 (1.21, 1.60)
+1.60 (1.32, 1.95)
+Adjusted model
+11,684
+1.04 (0.96, 1.14)
+1.32 (1.20, 1.46)
+7,116
+1.22 (1.09, 1.38)
+1.52 (1.26, 1.83)
+Sensitivity analyses
++Energy intake
+11,684
+1.02 (0.94, 1.12)
+1.32 (1.19, 1.47)
+7,116
+1.23 (1.08, 1.39)
+1.51 (1.25, 1.82)
++BMI
+11,684
+1.06 (0.95, 1.18)
+1.14 (1.04, 1.26)
+7,116
+1.18 (1.07, 1.30)
+1.12 (0.95, 1.31)
++Energy intake + BMI
+11,684
+1.05 (0.94, 1.18)
+1.15 (1.05, 1.27)
+7,116
+1.18 (1.06, 1.32)
+1.11 (0.95, 1.31)
++Waist circumferenced
+10,880
+1.04 (0.94, 1.16)
+1.17 (1.06, 1.29)
+7,116
+1.18 (1.05, 1.32)
+1.08 (0.97, 1.20)
++Hypertension
+11,684
+1.02 (0.93, 1.12)
+1.28 (1.16, 1.41)
+7,116
+1.19 (1.06, 1.33)
+1.44 (1.18, 1.76)
++Hyperlipidaemiae
+9,179
+1.07 (0.96, 1.18)
+1.36 (1.20, 1.55)
+5,415
+1.30 (1.09, 1.50)
+1.45 (1.17, 1.79)
++Food groupsf
+11,684
+1.05 (0.96, 1.15)
+1.29 (1.16, 1.43)
+7,116
+1.18 (1.05, 1.32)
+1.48 (1.20, 1.82)
++rMEDg
+11,684
+1.05 (0.96, 1.15)
+1.31 (1.18, 1.45)
+7,116
+1.20 (1.06, 1.35)
+1.53 (1.25, 1.87)
+Excluding baseline CVDh
+6,977
+1.00 (0.88, 1.13)
+1.37 (1.16, 1.63)
+3,213
+1.37 (1.03, 1.81)
+1.36 (1.06, 1.74)
+Excluding first 2 years of follow-up
+10,696
+1.01 (0.92, 1.11)
+1.32 (1.20, 1.46)
+6,128
+1.23 (1.09, 1.34)
+1.50 (1.24, 1.80)
+Excluding first 5 years of follow-up
+8,212
+1.01 (0.89, 1.14)
+1.37 (1.23, 1.52)
+4,609
+1.27 (1.10, 1.46)
+1.53 (1.28, 1.82)
+Excluding family history of diabetesi
+3,721
+1.09 (0.93, 1.26)
+1.30 (1.12, 1.52)
+2,917
+1.27 (1.03, 1.56)
+1.46 (1.15, 1.85)
+Effect modification
+Age group
+<55 Years
+5,340
+1.06 (0.94, 1.20)
+1.37 (1.21, 1.55)
+2,523
+1.20 (0.94, 1.52)
+1.37 (1.21, 1.56)
+≥55 Years
+6,344
+1.05 (0.93, 1.20)
+1.28 (1.09, 1.51)
+4,593
+1.37 (1.07, 1.76)
+1.63 (1.17, 2.26)
+p for interaction
+0.008
+0.054
+0.75
+0.49
+Sex
+Men
+5,809
+1.01 (0.84, 1.23)
+1.28 (1.14, 1.44)
+3,589
+1.19 (1.03, 1.39)
+1.67 (1.27, 2.20)
+Women
+5,875
+1.03 (0.90, 1.18)
+1.40 (1.24, 1.59)
+3,527
+1.29 (1.10, 1.51)
+1.42 (1.16, 1.75)
+p for interaction
+0.36
+0.034
+0.063
+0.94
+BMI
+<25 kg/m2
+1,619
+0.95 (0.77, 1.17)
+1.27 (1.11, 1.47)
+1,178
+1.30 (1.03, 1.66)
+1.43 (1.14, 1.80)
+25–29.9 kg/m2
+5,121
+1.05 (0.90, 1.22)
+1.22 (1.07, 1.38)
+3,231
+1.17 (0.96, 1.42)
+1.23 (0.99, 1.52)
+≥30 kg/m2
+4,944
+1.07 (0.88, 1.29)
+1.12 (0.90, 1.38)
+2,707
+1.28 (1.02, 1.61)
+1.11 (0.74, 1.65)
+p for interaction
+0.015
+0.19
+0.22
+0.026
+Physical activityj
+Low
+7,335
+1.06 (0.91, 1.23)
+1.31 (1.15, 1.49)
+4,174
+1.25 (1.04, 1.49)
+1.52 (1.23, 1.88)
+High
+4,349
+1.02 (0.89, 1.16)
+1.41 (1.21, 1.65)
+2,942
+1.24 (1.07, 1.43)
+1.61 (1.19, 2.19)
+p for interaction
+0.37
+0.56
+0.69
+0.73
+aTotal soft drinks include both sugar-sweetened and artificially sweetened soft drinks
+bHRs from countries/centres by modified Cox proportional hazard regression models; and random-effect meta-analyses to obtain pooled estimates. Adjusted models (also used in sensitivity and effect-modification analyses) were adjusted for sex, educational level, physical activity, smoking status and alcohol consumption; juices and total soft drinks were mutually adjusted; sugar-sweetened and artificially sweetened soft drinks were also mutually adjusted plus adjusted for juice consumption
+cExcludes all cases from Italy, Spain and Umeå (Sweden) where information on type of soft drink consumption was not collected (in addition to further exclusions as specified below)
+dExcludes Umeå (Sweden) where waist circumference was not measured
+eExcludes Malmö and Umeå (Sweden) where hyperlipidaemia was not collected
+fConsumption (in g/day) of vegetables, fruits, nuts, cereals and products, dairy products, red meat, processed meat, sugar and confectionary, cakes and biscuits, and coffee and tea as continuous variables
+g rMED (score range 0–18) as described in Methods
+hHistory of cardiovascular disease at baseline: myocardial infarction, angina or stroke. Excludes the Netherlands, Heidelberg (Germany), Malmö and Umeå (Sweden) where information on angina was not recorded
+iExcludes Italy, Spain, Heidelberg (Germany) and Oxford (UK) where family history of diabetes was not collected
+jThe ordered four-category index of physical activity was combined into low (inactive and moderately inactive) and high (moderately active and active) physical activity
+CVD, cardiovascular disease; No., number
+The HR of diabetes per 12 oz increase in sugar-sweetened soft drink consumption was 1.22 (95% CI 1.09, 1.38), and was only slightly attenuated after inclusion of measurements of body adiposity in the model. No other attenuations were detected in further sensitivity analyses, and no evidence of effect modification was found. The adjusted HR of type 2 diabetes associated with 12 oz increment in consumption of artificially sweetened soft drinks was 1.52 (95% CI 1.26, 1.83), which was attenuated and became statistically not significant after further adjustment for body adiposity measurements. A statistically significant interaction (p = 0.03) between the consumption of artificially sweetened soft drinks and BMI category on type 2 diabetes incidence was observed. In stratified analyses, artificially sweetened soft drink consumption was significantly associated with diabetes incidence in the normal-weight participants, and of borderline significance in the overweight; no association was detected among the obese. The observed significant association in the group with normal weight remained unchanged after further adjustment for BMI (HR 1.43, 95% CI 1.05, 1.95; not shown in tables).
+ESM Figs 1–4 show the HR (95% CI) of type 2 diabetes associated with 12 oz increments of sweet beverage consumption by country/centre. There was evidence of heterogeneity by country/centre in analyses of total soft drink (I 2 = 63.3%; p = 0.002) and artificially sweetened soft drink (I 2 = 60.3%; p = 0.01) consumption and diabetes incidence, and moderate heterogeneity with sugar-sweetened soft drink consumption (I 2 = 48.1%; p = 0.05). However, the direction of the observed associations was similar across country/centres.
+Discussion
+In European men and women, one 12 oz daily increment in sugar-sweetened soft drink consumption was associated with a 22% increase in HR for type 2 diabetes, and one 12 oz daily increment in artificially sweetened soft drinks was associated with a 52% increase in HR. After further adjustment for BMI, the association between sugar-sweetened soft drink consumption and diabetes persisted, but the association between artificially sweetened soft drinks and diabetes was attenuated and became statistically not significant. Juice and nectar consumption was not associated with diabetes incidence.
+The strengths of our study include its power, the prospective design and the European population drawn from different centres. The large sample size of healthy individuals at baseline enabled us to ascertain a large number of verified incident cases of type 2 diabetes during four million person-years of follow-up. We could evaluate the association between the consumption of different types of sweet beverages and diabetes incidence in a European population with a varied range of consumption. We were able to control for a large number of plausible confounders, test for effect modification and perform sensitivity analyses to evaluate the robustness of our results.
+A possible limitation of our study is the use of a clinical rather than a biochemical definition of prevalent and incident type 2 diabetes, which could theoretically have led to an underestimation of biochemical diabetes. However, it is unlikely that this would affect the results as there is no reason to assume an association between sweet beverage consumption and the likelihood of being tested for diabetes. Another limitation is the assessment of the dietary exposures and anthropometry only once at baseline, without taking into account possible modifications of the diet and weight change during follow-up. The definition of juices and nectars used in the present analysis included beverages with and without added sugars. The use of questionnaires to assess the usual diet is subject to measurement error, which may have attenuated the HR. In addition, though we used validated dietary questionnaires, these were country/centre-specific and this may explain, in part, the country/centre heterogeneity in the results. Finally, though we adjusted for multiple factors and performed several sensitivity analyses, we cannot totally rule out residual confounding or reverse causality.
+The observed association between sugar-sweetened soft drinks and diabetes in the present analysis is of similar magnitude as the association reported in a meta-analysis of eight prospective studies, which was based on 15,043 diabetes cases mostly from the USA (except for one study from Finland and one from Singapore): every increment of one serving of 12 oz of sugar-sweetened beverages/day yielded an RR of 1.25 (95% CI 1.10, 1.42) in the dose–response meta-analysis [6], very similar to the HR of 1.22 (95% CI 1.09, 1.38) in the present study. The definitions of the exposure used in the meta-analysis and in the present analysis were slightly different because the meta-analysis included not only sugar-sweetened soft drinks but also juices with added sugars, which could not be studied separately in the present analysis. Later studies have found similar associations between sugar-sweetened beverages and type 2 diabetes risk [8, 12].
+The association between sugar-sweetened soft drinks and diabetes was only slightly attenuated when BMI was included in the model, which could indicate that obesity is neither the only nor the main mediator of the association, and that other mechanisms of action might be involved, such as the glycaemic effect of sugar-sweetened drinks and consequent insulin resistance [8]. On the other hand, the significant association between artificially sweetened soft drinks and diabetes was attenuated after including BMI in the model, in line with most [8, 10, 11], but not all [9], previous studies. In light of these findings, we have two possible explanations of the association between artificially sweetened soft drinks and diabetes: (1) the observed association is driven by reverse causality and residual confounding, given that the underlying health of people consuming artificially sweetened soft drinks may be compromised and their risk of type 2 diabetes increased; or (2) the association between artificially sweetened soft drinks and type 2 diabetes is mediated through increased BMI.
+Explanation (1) is the most likely explanation as it has been previously suggested [5, 8] and is supported by the observation of a higher BMI, waist circumference and prevalence of chronic diseases among consumers of artificially sweetened soft drinks in the present analysis.
+Explanation (2) could be supported by previous observational studies suggesting an association between non-caloric sweeteners and consumption of artificially sweetened beverages and weight gain [25, 26], although recent randomised trials conducted in children and adolescents do not support this hypothesis [27, 28].
+Nevertheless, we should bear in mind that both BMI and consumption of sweet beverages were assessed cross-sectionally, and thus the direction of causation cannot be established. Therefore, more studies with repeated measures of weight are needed to elucidate the magnitude of the effect of weight gain on the association between both sugar-sweetened and artificially sweetened beverages and diabetes risk.
+Fruit juice consumption has been hypothesised to either increase diabetes risk because of its glycaemic index or decrease it because of its content of vitamins, minerals, soluble fibre and phytochemicals [8, 9]. Some studies have found positive associations between juice consumption and diabetes risk [7, 11] and others have observed a null association [8, 9, 10, 12]. The null association between juice and nectar consumption and diabetes risk observed in the present analysis should be interpreted with caution, given that both juices with and without added sugars were studied in combination. Further studies with a detailed and clear definition of different types of juices are needed to clarify this issue.
+In conclusion, this study corroborates the previously reported increased type 2 diabetes risk associated with sugar-sweetened soft drink consumption that seems to be independent of BMI, and reports an association between artificially sweetened soft drink consumption and type 2 diabetes that disappears when models are adjusted for baseline BMI. Whether BMI acts as a mediator or confounder and the magnitude of the effect of weight gain on these associations should be further assessed in studies with repeated measures of body weight. Given the increase in sweet beverage consumption in Europe, clear messages on its deleterious effect on health should be given to the population.
+Notes
+Acknowledgements
+We thank all EPIC participants and staff for their contribution to the study. We thank N. Kerrison (MRC Epidemiology Unit, Cambridge, UK) for managing the data for the InterAct project.
+Funding
+Funding for the InterAct project was provided by the EU FP6 programme (grant number LSHM_CT_2006_037197).
+InterAct investigators acknowledge funding from the following agencies: J. W. J. Beulens, verification of diabetes cases was additionally funded by NL Agency grant IGE05012 and an Incentive Grant from the Board of the UMC Utrecht (the Netherlands); A.M.W. SpijKerman, Dutch Ministry of Public Health, Welfare and Sports (VWS), Netherlands Cancer Registry (NKR), LK Research Funds, Dutch Prevention Funds, Dutch ZON (Zorg Onderzoek Nederland), World Cancer Research Fund (WCRF), Statistics Netherlands (the Netherlands); P.W. Franks, Swedish Research Council, Novo Nordisk, Swedish Heart Lung Foundation, Swedish Diabetes Association; K. Overvad and A. Tjonneland, Danish Cancer Society; R. Kaaks, Deutsche Krebshilfe; S. Panico, Associazione Italiana per la Ricerca sul Cancro; J.R. Quirós, Asturias Regional Government; M.J. Tormo, Health Research Fund (FIS) of the Spanish Ministry of Health; the CIBER en Epidemiología y Salud Pública (CIBERESP), Spain, www.ciberesp.es; Murcia Regional Government (Nº 6236); R. Tumino: AIRE-ONLUS Ragusa, AVIS-Ragusa, Sicilian Regional Government.
+Duality of interest
+The authors declare that there is no duality of interest associated with this manuscript.
+Contribution statement
+DR had access to all data for this study. DR takes responsibility for the manuscript content. DR analysed the data and drafted the manuscript. All authors contributed to data collection, conception and design, and interpretation of data, revising the article critically for important intellectual content and giving final approval of the version to be published.
+Supplementary material
+125_2013_2899_MOESM1_ESM.pdf (15 kb)
+ESM Table 1 PDF 14 kb
+125_2013_2899_MOESM2_ESM.pdf (144 kb)
+ESM Table 2 PDF 143 kb
+125_2013_2899_MOESM3_ESM.pdf (144 kb)
+ESM Table 3 PDF 143 kb
+125_2013_2899_MOESM4_ESM.pdf (144 kb)
+ESM Table 4 PDF 143 kb
+125_2013_2899_MOESM5_ESM.pdf (12 kb)
+ESM Fig. 1 Country/centre specific hazard ratios (and 95% CI) for type 2 diabetes associated with one 12-oz (336 g) increments in the consumption of juices and nectars in the EPIC-InterAct study. Hazard ratios from country/centre by modified Cox proportional hazard regression models and random-effect meta-analyses to obtain pooled estimates. Models were adjusted for sex, educational level, physical activity, smoking status, alcohol consumption, and soft drink consumption (PDF 11.8 kb)
+125_2013_2899_MOESM6_ESM.pdf (12 kb)
+ESM Fig. 2 Country/centre-specific hazard ratios (and 95% CI) for type 2 diabetes associated with one 12-oz (336 g) increments in the consumption of total soft drinks (including sugar-sweetened and artificially-sweetened soft drinks) in the EPIC-InterAct study. Hazard ratios from country/centre by modified Cox proportional hazard regression models and random-effect meta-analyses to obtain pooled estimates. Models were adjusted for sex, educational level, physical activity, smoking status, alcohol consumption, and juice consumption (PDF 11.5 kb)
+125_2013_2899_MOESM7_ESM.pdf (11 kb)
+ESM Fig. 3 Country/centre-specific hazard ratios (and 95% CI) for type 2 diabetes associated with one 12-oz (336 g) increments in the consumption of sugar-sweetened soft drinks in the EPIC-InterAct study. Hazard ratios from country/centre by modified Cox proportional hazard regression models and random-effect meta-analyses to obtain pooled estimates. Models were adjusted for sex, educational level, physical activity, smoking status, alcohol consumption, artificially-sweetened soft drink, and juice consumption (PDF 10.5 kb)
+125_2013_2899_MOESM8_ESM.pdf (11 kb)
+ESM Fig. 4 Country/centre-specific hazard ratios (and 95% CI) for type 2 diabetes associated with one 12-oz (336 g) increments in the consumption of artificially-sweetened soft drinks in the EPIC-InterAct study. Hazard ratios from country/centre by modified Cox proportional hazard regression models and random-effect meta-analyses to obtain pooled estimates. Models were adjusted for sex, educational level, physical activity, smoking status, alcohol consumption, sugar-sweetened soft drink, and juice consumption (PDF 10.6 kb)
+Appendix
+The InterAct Consortium list of authors is as follows:
+D. Romaguera (Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, UK and CIBER de Fisiopatología de la Obesidad y Nutrición [CIBEROBN], Spain, www.ciberobn.es); T. Norat (Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, UK); P. A. Wark (Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, UK); A. C. Vergnaud (Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, UK); M. B. Schulze (German Institute of HumanNutrition Potsdam - Rehbruecke, Nuthetal, Germany); G. J. van Woudenbergh (Wageningen University, Wageningen, the Netherlands); D. Drogan (German Institute of Human Nutrition Potsdam-Rehbruecke, Germany); P. Amiano (Public Health Division of Gipuzkoa, BIODonostia Research Institute, San Sebastian, Spain and CIBER Epidemiología y Salud Pública [CIBERESP], Spain, www.ciberesp.es); E. Molina-Montes (Andalusian School of Public Health, Granada, Spain and CIBERESP, Spain, www.ciberesp.es); M. J. Sánchez (Andalusian School of Public Health, Granada, Spain and CIBERESP, Spain, www.ciberesp.es); B. Balkau (Inserm U1018, Center for Research in Epidemiology and Population Health [CESP], Villejuif, France and Paris-South University, Villejuif, France); A. Barricarte (Navarre Public Health Institute [ISPN], Pamplona, Spain and CIBERESP, Spain, www.ciberesp.es); J. W. J. Beulens (University Medical Center, Utrecht, the Netherlands); F. Clavel-Chapelon (Inserm U1018, CESP, Villejuif, France and Paris-South University, Villejuif, France); S. P. Crispim (International Agency for Research on Cancer, Lyon, France); G. Fagherazzi (Inserm U1018, CESP, Villejuif, France and Paris-South University, Villejuif, France); P. W. Franks (Lund University, Malmö, Sweden and Umeå University, Umeå, Sweden); V. A. Grote (German Cancer Research Center [DKFZ], Heidelberg, Germany); I. Huybrechts (International Agency for Research on Cancer, Lyon, France); R. Kaaks (DKFZ, Heidelberg, Germany); T. J. Key (University of Oxford, Oxford, UK); K. T. Khaw (Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK); P. Nilsson (Lund University, Malmö, Sweden); K. Overvad (School of Public Health, Aarhus, Denmark and Aalborg Hospital, Aarhus University Hospital, Aalborg, Denmark); D. Palli (Cancer Research and Prevention Institute [ISPO], Florence, Italy); S. Panico (Department of Clinical and Experimental Medicine, Federico II University, Naples, Italy); J. R. Quirós (Public Health Directorate Asturias, Spain); O. Rolandsson (Umeå University, Umeå, Sweden); C. Sacerdote (Center for Cancer Prevention [CPO-Piemonte] and Human Genetic Foundation [HuGeF], Torino, Italy); S. Sieri (Epidemiology and Prevention Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy); N. Slimani (International Agency for Research on Cancer, Lyon, France); A. M. W. Spijkerman (National Institute for Public Health and the Environment [RIVM], Bilthoven, the Netherlands); A. Tjonneland (Danish Cancer Society Research Center, Copenhagen, Denmark); M. J. Tormo (Department of Epidemiology, Murcia Regional Health Council, Murcia, Spain and CIBERESP, Spain, www.ciberesp.es); R. Tumino (Cancer Registry and Histopathology Unit, ASP 7 Ragusa, Italy); S. W. van den Berg (RIVM, Bilthoven, the Netherlands); P. R. Wermeling (University Medical Center, Utrecht, the Netherlands); R. Zamora-Ros (Catalan Institute of Oncology, Barcelona, Spain); E. J. M. Feskens (University of Wageningen, Wageningen, the Netherlands); C. Langenberg (MRC Epidemiology Unit, Addenbrooke’s Hospital, Cambridge, UK); S. J. Sharp (MRC Epidemiology Unit, Addenbrooke’s Hospital, Cambridge, UK); N. G. Forouhi (MRC Epidemiology Unit, Addenbrooke’s Hospital, Cambridge, UK); E. Riboli (Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London, UK); N. J. Wareham (MRC Epidemiology Unit, Addenbrooke’s Hospital, Cambridge, UK)
+References
+1.
+Popkin BM, Nielsen SJ (2003) The sweetening of the world’s diet. Obes Res 11:1325–1332PubMedCrossRefGoogle Scholar
+2.
+Farag YM, Gaballa MR (2011) Diabesity: an overview of a rising epidemic. Nephrol Dial Transplant 26:28–35PubMedCrossRefGoogle Scholar
+3.
+Malik VS, Schulze MB, Hu FB (2006) Intake of sugar-sweetened beverages and weight gain: a systematic review. Am J Clin Nutr 84:274–288PubMedGoogle Scholar
+4.
+Hu FB, Malik VS (2010) Sugar-sweetened beverages and risk of obesity and type 2 diabetes: epidemiologic evidence. Physiol Behav 100:47–54PubMedCrossRefGoogle Scholar
+5.
+Malik VS, Hu FB (2012) Sweeteners and risk of obesity and type 2 diabetes: the role of sugar-sweetened beverages. Curr Diabetes Rep 12:195–203CrossRefGoogle Scholar
+6.
+Malik VS, Popkin BM, Bray GA, Despres JP, Willett WC, Hu FB (2010) Sugar-sweetened beverages and risk of metabolic syndrome and type 2 diabetes: a meta-analysis. Diabetes Care 33:2477–2483PubMedCrossRefGoogle Scholar
+7.
+Bazzano LA, Li TY, Joshipura KJ, Hu FB (2008) Intake of fruit, vegetables, and fruit juices and risk of diabetes in women. Diabetes Care 31:1311–1317PubMedCrossRefGoogle Scholar
+8.
+de Koning L, Malik VS, Rimm EB, Willett WC, Hu FB (2011) Sugar-sweetened and artificially sweetened beverage consumption and risk of type 2 diabetes in men. Am J Clin Nutr 93:1321–1327PubMedCrossRefGoogle Scholar
+9.
+Nettleton JA, Lutsey PL, Wang Y, Lima JA, Michos ED, Jacobs DR Jr (2009) Diet soda intake and risk of incident metabolic syndrome and type 2 diabetes in the Multi-Ethnic Study of Atherosclerosis (MESA). Diabetes Care 32:688–694PubMedCrossRefGoogle Scholar
+10.
+Schulze MB, Manson JE, Ludwig DS et al (2004) Sugar-sweetened beverages, weight gain, and incidence of type 2 diabetes in young and middle-aged women. JAMA 292:927–934PubMedCrossRefGoogle Scholar
+11.
+Palmer JR, Boggs DA, Krishnan S, Hu FB, Singer M, Rosenberg L (2008) Sugar-sweetened beverages and incidence of type 2 diabetes mellitus in African American women. Arch Intern Med 168:1487–1492PubMedCrossRefGoogle Scholar
+12.
+Eshak ES, Iso H, Mizoue T, Inoue M, Noda M, Tsugane S (2012) Soft drink, 100% fruit juice, and vegetable juice intakes and risk of diabetes mellitus. Clin Nutr 32:300–308PubMedCrossRefGoogle Scholar
+13.
+Naska A, Bountziouka V, Trichopoulou A (2010) Soft drinks: time trends and correlates in twenty-four European countries. A cross-national study using the DAFNE (Data Food Networking) databank. Public Health Nutr 13:1346–1355PubMedCrossRefGoogle Scholar
+14.
+Wirfalt E, McTaggart A, Pala V et al (2002) Food sources of carbohydrates in a European cohort of adults. Public Health Nutr 5:1197–1215PubMedCrossRefGoogle Scholar
+15.
+Slimani N, Fahey M, Welch AA et al (2002) Diversity of dietary patterns observed in the European Prospective Investigation into Cancer and Nutrition (EPIC) project. Public Health Nutr 5:1311–1328PubMedCrossRefGoogle Scholar
+16.
+Langenberg C, Sharp S, Forouhi NG et al (2011) Design and cohort description of the InterAct Project: an examination of the interaction of genetic and lifestyle factors on the incidence of type 2 diabetes in the EPIC Study. Diabetologia 54:2272–2282PubMedCrossRefGoogle Scholar
+17.
+Kaaks R, Riboli E (1997) Validation and calibration of dietary intake measurements in the EPIC project: methodological considerations. European Prospective Investigation into Cancer and Nutrition. Int J Epidemiol 26(Suppl 1):S15–S25PubMedCrossRefGoogle Scholar
+18.
+Slimani N, Deharveng G, Unwin I et al (2007) The EPIC nutrient database project (ENDB): a first attempt to standardize nutrient databases across the 10 European countries participating in the EPIC study. Eur J Clin Nutr 61:1037–1056PubMedCrossRefGoogle Scholar
+19.
+Riboli E, Hunt KJ, Slimani N et al (2002) European Prospective Investigation into Cancer and Nutrition (EPIC): study populations and data collection. Public Health Nutr 5:1113–1124PubMedCrossRefGoogle Scholar
+20.
+Wareham NJ, Jakes RW, Rennie KL et al (2003) Validity and repeatability of a simple index derived from the short physical activity questionnaire used in the European Prospective Investigation into Cancer and Nutrition (EPIC) study. Public Health Nutr 6:407–413PubMedCrossRefGoogle Scholar
+21.
+Haftenberger M, Lahmann PH, Panico S et al (2002) Overweight, obesity and fat distribution in 50- to 64-year-old participants in the European Prospective Investigation into Cancer and Nutrition (EPIC). Public Health Nutr 5:1147–1162PubMedCrossRefGoogle Scholar
+22.
+Barlow WE, Ichikawa L, Rosner D, Izumi S (1999) Analysis of case–cohort designs. J Clin Epidemiol 52:1165–1172PubMedCrossRefGoogle Scholar
+23.
+Romaguera D, Guevara M, Norat T et al (2011) Mediterranean diet and type 2 diabetes risk in the European Prospective Investigation into Cancer and Nutrition (EPIC) study: the InterAct project. Diabetes Care 34:1913–1918PubMedCrossRefGoogle Scholar
+24.
+Sanchez-Villegas A, Toledo E, Bes-Rastrollo M, Martin-Moreno JM, Tortosa A, Martinez-Gonzalez MA (2009) Association between dietary and beverage consumption patterns in the SUN (Seguimiento Universidad de Navarra) cohort study. Public Health Nutr 12:351–358PubMedGoogle Scholar
+25.
+Fowler SP, Williams K, Resendez RG, Hunt KJ, Hazuda HP, Stern MP (2008) Fueling the obesity epidemic? Artificially sweetened beverage use and long-term weight gain. Obesity 16:1894–1900PubMedCrossRefGoogle Scholar
+26.
+Swithers SE, Martin AA, Davidson TL (2010) High-intensity sweeteners and energy balance. Physiol Behav 100:55–62PubMedCrossRefGoogle Scholar
+27.
+de Ruyter JC, Olthof MR, Seidell JC, Katan MB (2012) A trial of sugar-free or sugar-sweetened beverages and body weight in children. N Engl J Med 367:1397–1406PubMedCrossRefGoogle Scholar
+28.
+Ebbeling CB, Feldman HA, Chomitz VR et al (2012) A randomized trial of sugar-sweetened beverages and adolescent body weight. N Engl J Med 367:1407–1416PubMedCrossRefGoogle Scholar
+Copyright information
+© Springer-Verlag Berlin Heidelberg 2013
+Authors and Affiliations
+The InterAct consortium
+1
+Email author
+1.c/o D. Romaguera, Department of Epidemiology & Biostatistics, School of Public Health, Imperial College LondonSt Mary’s CampusLondonUK
+About this article
+Cite this article as:
+The InterAct consortium Diabetologia (2013) 56: 1520. https://doi.org/10.1007/s00125-013-2899-8
+Received 21 December 2012
+Accepted 11 March 2013
+First Online 26 April 2013
+DOI https://doi.org/10.1007/s00125-013-2899-8
+Publisher Name Springer-Verlag
+Print ISSN 0012-186X
+Online ISSN 1432-0428
+About this journal
+Reprints and Permissions
+Published in cooperation with
+European Association for the Study of Diabetes
+Personalised recommendations
+Cite article
+How to cite?
+.RIS Papers Reference Manager RefWorks Zotero
+.ENW EndNote
+.BIB BibTeX JabRef Mendeley
+Share article
+Download PDF
+Actions
+Download PDF
+Cite article
+How to cite?
+.RIS Papers Reference Manager RefWorks Zotero
+.ENW EndNote
+.BIB BibTeX JabRef Mendeley
+Share article
+Table of contents
+Article
+Abstract
+Introduction
+Methods
+Results
+Discussion
+Notes
+Supplementary material
+Appendix
+References
+Copyright information
+Authors and Affiliations
+About this article
+Advertisement
+Hide
+Over 10 million scientific documents at your fingertips
+Switch Edition
+Academic Edition
+Corporate Edition
+Home
+Impressum
+Legal information
+Privacy statement
+How we use cookies
+Accessibility
+Contact us
+Springer Nature
+© 2018 Springer Nature Switzerland AG. Part of Springer Nature.
+Not logged in Not affiliated 52.200.130.163

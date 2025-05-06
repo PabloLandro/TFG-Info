@@ -1,0 +1,737 @@
+Statin
+This page uses content from Wikipedia and is licensed under CC BY-SA.
+Statin
+This article is about cholesterol-lowering drugs. For the amino acid, see Statine. For inhibiting hormones, see Releasing and inhibiting hormones.
+Statin
+Drug class
+Lovastatin, a compound isolated from Aspergillus terreus, was the first statin to be marketed.
+Class identifiers
+Use
+High cholesterol
+ATC code
+C10AA
+Biological target
+HMG-CoA reductase
+Clinical data
+Drugs.com
+Drug Classes
+External links
+MeSH
+D019161
+In Wikidata
+Statins, also known as HMG-CoA reductase inhibitors, are a class of lipid-lowering medications that are thought to reduce illness and mortality in those who are at high risk of cardiovascular disease.
+The lipid hypothesis is that low-density lipoprotein (LDL) carriers of cholesterol are said by some to play a key role in the development of atherosclerosis and coronary heart disease. Statins are effective in lowering LDL cholesterol and widely used for primary prevention in people at high risk of cardiovascular disease, as well as in secondary prevention for those who have developed cardiovascular disease.[1][2][3] Whether small LDL actually plays a role in heart disease, and therefore should be treated with statins, is controversial.[4][5][6]
+Side effects of statins include muscle pain, increased risk of diabetes mellitus, and abnormal blood levels of liver enzymes.[7] Additionally, they have rare but severe adverse effects, particularly muscle damage.[8] They inhibit the enzyme HMG-CoA reductase which plays a central role in the production of cholesterol. High cholesterol levels have been associated with cardiovascular disease.[9]
+There are various forms of statins, some of which include atorvastatin, fluvastatin, lovastatin, pitavastatin, pravastatin, rosuvastatin, and simvastatin.[10] Several combination preparations of a statin and another agent, such as ezetimibe/simvastatin, are also available. In 2005, sales were estimated at US$18.7 billion in the United States.[11] The best-selling statin is atorvastatin, also known as Lipitor, which in 2003 became the best-selling pharmaceutical in history.[12] The manufacturer Pfizer reported sales of US$12.4 billion in 2008.[13] Due to patent expirations, several statins became available in 2016 as less expensive generics.[14]
+Contents
+Medical uses
+Primary prevention
+Secondary prevention
+Comparative effectiveness
+Children
+Familial hypercholesterolemia
+Contrast induced nephropathy
+Adverse effects
+Cognitive effects
+Muscles
+Diabetes
+Cancer
+Drug interactions
+Mechanism of action
+Inhibiting cholesterol synthesis
+Increasing LDL uptake
+Decreasing of specific protein prenylation
+Other effects
+Available forms
+History
+Society and culture
+Statin denialism
+Research
+References
+External links
+Medical uses
+Statins are usually used to lower blood cholesterol levels and reduce risk for illnesses related to atherosclerosis, with a varying degree of effect depending on underlying risk factors and history of cardiovascular disease. Clinical practice guidelines generally recommend people start with lifestyle modification through a cholesterol-lowering diet and physical exercise. For those unable to meet their lipid-lowering goals through such methods, statins can be helpful.[15][16] The medication appears to work equally well regardless of gender.[17]
+If there is an underlying history of cardiovascular disease, it has a significant impact on the effects of statin. This can be used to divide medication usage into broad categories of primary and secondary prevention.[18]
+Primary prevention
+For the primary prevention of cardiovascular disease, the United States Preventive Services Task Force 2016 guidelines recommend statins for those who have at least one risk factor for coronary heart disease, are between 40 and 75 years old, and have at least a 10% 10-year risk of heart disease, as calculated by the 2013 ACC/AHA Pooled Cohort algorithm.[18][19][20] Risk factors for coronary heart disease included abnormal lipid levels in the blood, diabetes mellitus, high blood pressure, and smoking.[19] They recommended selective use of low-to-moderate doses statins in the same adults who have a calculated 10-year cardiovascular disease event risk of 7.5–10% or greater.[19] In people over the age of 70, statins decrease the risk of cardiovascular disease but only in those with a history of heavy cholesterol blockage in their arteries.[21]
+Most evidence suggests that statins are also effective in preventing heart disease in those with high cholesterol but no history of heart disease. A 2013 Cochrane review found a decrease in risk of death and other poor outcomes without any evidence of harm.[3] For every 138 people treated for 5 years, one fewer dies; for every 49 treated, one fewer has an episode of heart disease.[11] A 2011 review reached similar conclusions,[22] and a 2012 review found benefits in both women and men.[23] A 2010 review concluded that treatment without history of cardiovascular disease reduces cardiovascular events in men but not women, and provides no mortality benefit in either sex.[24] Two other meta-analyses published that year, one of which used data obtained exclusively from women, found no mortality benefit in primary prevention.[25][26]
+The National Institute for Health and Clinical Excellence (NICE) recommends statin treatment for adults with an estimated 10 year risk of developing cardiovascular disease that is greater than 10%.[27] Guidelines by the American College of Cardiology and the American Heart Association recommend statin treatment for primary prevention of cardiovascular disease in adults with LDL cholesterol ≥ 190 mg/dL or those with diabetes, age 40–75 with LDL-C 70–190 mg/dl; or in those with a 10-year risk of developing heart attack or stroke of 7.5% or more. In this latter group, statin assignment was not automatic, but was recommended to occur only after a clinician-patient risk discussion with shared decision making where other risk factors and lifestyle are addressed, the potential for benefit from a statin is weighed against the potential for adverse effects or drug interactions and informed patient preference is elicited. Moreover, if a risk decision was uncertain, factors such as family history, coronary calcium score, ankle-brachial index, and an inflammation test (hs-CRP ≥ 2.0 mg/L) were suggested to inform the risk decision. Additional factors that could be used were an LDL-C ≥ 160 or a very high lifetime risk.[28] However, critics such as Steven E. Nissen say that the AHA/ACC guidelines were not properly validated, overestimate the risk by at least 50%, and recommend statins for patients who will not benefit, based on populations whose observed risk is lower than predicted by the guidelines.[29] The European Society of Cardiology and the European Atherosclerosis Society recommend the use of statins for primary prevention, depending on baseline estimated cardiovascular score and LDL thresholds.[30]
+Secondary prevention
+Statins are effective in decreasing mortality in people with pre-existing cardiovascular disease.[31] Pre-existing disease can have many manifestations. Defining illnesses include a prior heart attack, stroke, stable or unstable angina, aortic aneurysm, or other arterial ischemic disease, in the presence of atherosclerosis.[18] They are also advocated for use in people at high risk of developing coronary heart disease.[32] On average, statins can lower LDL cholesterol by 1.8 mmol/l (70 mg/dl), which translates into an estimated 60% decrease in the number of cardiac events (heart attack, sudden cardiac death) and a 17% reduced risk of stroke after long-term treatment.[33] A greater benefit is observed with high-intensity statin therapy.[34] They have less effect than the fibrates or niacin in reducing triglycerides and raising HDL-cholesterol ("good cholesterol").[35][36]
+Statins have been studied for improving operative outcomes in cardiac and vascular surgery.[37] Mortality and adverse cardiovascular events were reduced in statin groups.[38]
+Older adults who receive statin therapy at time of discharge from the hospital after an inpatient stay have been studied. People with cardiac ischemia not previously on statins at the time of admission have a lower risk of major cardiac adverse events and hospital readmission two years post-hospitalization.[39][40]
+Comparative effectiveness
+While no direct comparison exists, all statins appear effective regardless of potency or degree of cholesterol reduction.[22] Simvastatin and pravastatin appear to have a reduced incidence of side-effects.[7]
+A comparison of simvastatin, pravastatin, and atorvastatin, based on their effectiveness against placebos, found no differences in reduction of cardiovascular disease or lipid levels in the blood.[41]
+Children
+In children statins are effective at reducing cholesterol levels in those with familial hypercholesterolemia.[42][needs update] Their long term safety is, however, unclear.[42][43] Some recommend that if lifestyle changes are not enough statins should be started at 8 years old.[44]
+Familial hypercholesterolemia
+Statins may be less effective in reducing LDL cholesterol in people with familial hypercholesterolemia, especially those with homozygous deficiencies.[45] These people have defects usually in either the LDL receptor or apolipoprotein B genes, both of which are responsible for LDL clearance from the blood.[46] Statins remain a first-line treatment in familial hypercholesterolemia,[45] although other cholesterol-reducing measures may be required.[47] In people with homozygous deficiencies, statins may still prove helpful, albeit at high doses and in combination with other cholesterol-reducing medications.[48]
+Contrast induced nephropathy
+A 2014 meta-analysis found that statins could reduce the risk of contrast-induced nephropathy by 53% in people undergoing coronary angiography/percutaneous interventions. The effect was found to be stronger among those with preexisting kidney dysfunction or diabetes mellitus.[49]
+Adverse effects
+Choosing a statin for people with special considerations[50]
+Condition
+Commonly recommended statins
+Explanation
+Kidney transplantation recipients taking ciclosporin Pravastatin or fluvastatin Drug interactions are possible, but studies have not shown that these statins increase exposure to ciclosporin.[51]
+HIV-positive people taking protease inhibitors Atorvastatin, pravastatin or fluvastatin Negative interactions are more likely with other choices[52]
+Persons taking gemfibrozil, a non-statin cholesterol-lowering drug Atorvastatin Combining gemfibrozil and a statin increases risk of rhabdomyolysis and subsequently kidney failure[53][54]
+Persons taking the anticoagulant warfarin Any statin The statin use may require that the warfarin dose be changed, as some statins increase the effect of warfarin.[55]
+The most important adverse side effects are muscle problems, an increased risk of diabetes mellitus, and increased liver enzymes in the blood due to liver damage.[7][56] Over 5 years of treatment statins result in 75 cases of diabetes, 7.5 cases of bleeding stroke, and 5 cases of muscle damage per 10,000 people treated.[31] This could be due to the statins inhibiting the enzyme (HMG-CoA reductawe), which make cholesterol, also inhibiting other processes of this enzyme, such as CoQ10 production, which is important for muscle function and sugar regulation.[57]
+Other possible adverse effects include neuropathy, pancreatic and liver dysfunction, and sexual dysfunction.[58] The rate at which such events occur has been widely debated, in part because the risk/benefit ratio of statins in low-risk populations is highly dependent on the rate of adverse events.[59][60][61] A Cochrane meta-analysis of statin clinical trials in primary prevention found no evidence of excess adverse events among those treated with statins compared to placebo.[62] Another meta-analysis found a 39% increase in adverse events in statin treated people relative to those receiving placebo, but no increase in serious adverse events.[63] The author of one study argued that adverse events are more common in clinical practice than in randomized clinical trials.[58] A systematic review concluded that while clinical trial meta-analyses underestimate the rate of muscle pain associated with statin use, the rates of rhabdomyolysis are still "reassuringly low" and similar to those seen in clinical trials (about 1–2 per 10,000 person years).[64] A systematic review co-authored by Ben Goldacre concluded that only a small fraction of side effects reported by people on statins are actually attributable to the statin.[65]
+Cognitive effects
+Multiple systematic reviews and meta-analyses have concluded that the available evidence does not support an association between statin use and cognitive decline.[66][67][68][69][70] Statins have been shown to decrease the risk of dementia, Alzheimer’s disease, and improve cognitive impairment in some cases.[71] Additionally, both the Patient-Centered Research into Outcomes Stroke Patients Prefer and Effectiveness Research (PROSPER) study and the Health Protection Study (HPS) demonstrated that simvastatin and pravastatin did not affect cognition for patients with risk factors for, or a history of, vascular diseases.[72]
+There are reports of reversible cognitive impairment with statins.[73] The FDA package insert on statins includes a warning about the potential for non-serious and reversible cognitive side effects with the medication (memory loss, confusion).[74]
+Muscles
+In observational studies 10–15% of people who take statins experience muscle problems; in most cases these consist of muscle pain.[8] These rates, which are much higher than those seen in randomized clinical trials[64] have been the topic of extensive debate and discussion.[31][75]
+Serious muscle problems such as rhabdomyolysis (destruction of muscle cells) occur in less than 0.1% of treated people.[76] Rhabdomyolysis can in turn result in life-threatening kidney injury. The risk of statin-induced rhabdomyolysis increases with older age, use of interacting medications such as fibrates, and hypothyroidism.[77] Coenzyme Q10 (ubiquinone) levels are decreased in statin use;[78] CoQ10 supplements are sometimes used to treat statin-associated myopathy, though evidence of their efficacy is lacking as of 2007[update].[79] The gene SLCO1B1 (Solute carrier organic anion transporter family member 1B1) codes for an organic anion-transporting polypeptide that is involved in the regulation of the absorption of statins. A common variation in this gene was found in 2008 to significantly increase the risk of myopathy.[80]
+Records exist of over 250,000 people treated from 1998 to 2001 with the statin drugs atorvastatin, cerivastatin, fluvastatin, lovastatin, pravastatin, and simvastatin.[81] The incidence of rhabdomyolyis was 0.44 per 10,000 patients treated with statins other than cerivastatin. However, the risk was over 10-fold greater if cerivastatin was used, or if the standard statins (atorvastatin, fluvastatin, lovastatin, pravastatin, or simvastatin) were combined with a fibrate (fenofibrate or gemfibrozil) treatment. Cerivastatin was withdrawn by its manufacturer in 2001.[82]
+Some researchers have suggested hydrophilic statins, such as fluvastatin, rosuvastatin, and pravastatin, are less toxic than lipophilic statins, such as atorvastatin, lovastatin, and simvastatin, but other studies have not found a connection.[83] Lovastatin induces the expression of gene atrogin-1, which is believed to be responsible in promoting muscle fiber damage.[83] Tendon rupture does not appear to occur.[84]
+Diabetes
+The relationship between statin use and risk of developing diabetes remains unclear and the results of reviews are mixed.[85][86][87][88] Higher doses have a greater effect, but the decrease in cardiovascular disease outweighs the risk of developing diabetes.[89] Use in postmenopausal women is associated with an increased risk for diabetes.[90] The exact mechanism responsible for the possible increased risk of diabetes mellitus associated with statin use is unclear.[87] Statins are thought to decrease cells' uptake of glucose from the bloodstream in response to the hormone insulin.[87] One way this is thought to occur is by interfering with cholesterol synthesis which is necessary for the production of certain proteins responsible for glucose uptake into cells such as GLUT1.[87]
+Cancer
+Several meta-analyses have found no increased risk of cancer, and some meta-analyses have found a reduced risk.[91][92][93][94][95] Specifically, statins may reduce the risk of esophageal cancer,[96] colorectal cancer,[97] gastric cancer,[98][99] hepatocellular carcinoma,[100] and possibly prostate cancer.[101][102] They appear to have no effect on the risk of lung cancer,[103] kidney cancer,[104] breast cancer,[105] pancreatic cancer,[106] or bladder cancer.[107]
+Drug interactions
+Combining any statin with a fibrate or niacin (other categories of lipid-lowering drugs) increases the risks for rhabdomyolysis to almost 6.0 per 10,000 person-years.[81] Monitoring liver enzymes and creatine kinase is especially prudent in those on high-dose statins or in those on statin/fibrate combinations, and mandatory in the case of muscle cramps or of deterioration in kidney function.
+Consumption of grapefruit or grapefruit juice inhibits the metabolism of certain statins. Bitter oranges may have a similar effect.[108] Furanocoumarins in grapefruit juice (i.e. bergamottin and dihydroxybergamottin) inhibit the cytochrome P450 enzyme CYP3A4, which is involved in the metabolism of most statins (however, it is a major inhibitor of only lovastatin, simvastatin, and to a lesser degree, atorvastatin) and some other medications[109] (flavonoids (i.e. naringin) were thought to be responsible). This increases the levels of the statin, increasing the risk of dose-related adverse effects (including myopathy/rhabdomyolysis). The absolute prohibition of grapefruit juice consumption for users of some statins is controversial.[110]
+The FDA notified healthcare professionals of updates to the prescribing information concerning interactions between protease inhibitors and certain statin drugs. Protease inhibitors and statins taken together may increase the blood levels of statins and increase the risk for muscle injury (myopathy). The most serious form of myopathy, rhabdomyolysis, can damage the kidneys and lead to kidney failure, which can be fatal.[111]
+Mechanism of action
+Atorvastatin bound to HMG-CoA reductase: PDB entry 1hwk[112]
+The HMG-CoA reductase pathway, which is blocked by statins via inhibiting the rate limiting enzyme HMG-CoA reductase.
+Main article: Cholesterol homeostasis
+Statins act by competitively inhibiting HMG-CoA reductase, the rate-limiting enzyme of the mevalonate pathway. Because statins are similar in structure to HMG-CoA on a molecular level, they will fit into the enzyme's active site and compete with the native substrate (HMG-CoA). This competition reduces the rate by which HMG-CoA reductase is able to produce mevalonate, the next molecule in the cascade that eventually produces cholesterol. A variety of natural statins are produced by Penicillium and Aspergillus fungi as secondary metabolites. These natural statins probably function to inhibit HMG-CoA reductase enzymes in bacteria and fungi that compete with the producer.[113]
+Inhibiting cholesterol synthesis
+By inhibiting HMG-CoA reductase, statins block the pathway for synthesizing cholesterol in the liver. This is significant because most circulating cholesterol comes from internal manufacture rather than the diet. When the liver can no longer produce cholesterol, levels of cholesterol in the blood will fall. Cholesterol synthesis appears to occur mostly at night,[114] so statins with short half-lives are usually taken at night to maximize their effect. Studies have shown greater LDL and total cholesterol reductions in the short-acting simvastatin taken at night rather than the morning,[115][116] but have shown no difference in the long-acting atorvastatin.[117]
+Increasing LDL uptake
+In rabbits, liver cells sense the reduced levels of liver cholesterol and seek to compensate by synthesizing LDL receptors to draw cholesterol out of the circulation.[118] This is accomplished via proteases that cleave membrane-bound sterol regulatory element binding proteins, which then migrate to the nucleus and bind to the sterol response elements. The sterol response elements then facilitate increased transcription of various other proteins, most notably, LDL receptor. The LDL receptor is transported to the liver cell membrane and binds to passing LDL and VLDL particles (colloquially, "bad cholesterol"), mediating their uptake into the liver, where the cholesterol is reprocessed into bile salts and other byproducts. This results in a net effect of less LDL circulating in blood.
+Decreasing of specific protein prenylation
+Statins, by inhibiting the HMG CoA reductase pathway, simultaneously inhibit the production of both cholesterol and specific prenylated proteins (see diagram).This inhibitory effect on protein prenylation may be involved, at least partially, in the improvement of endothelial function, modulation of immune function, and other pleiotropic cardiovascular benefits of statins,[119][120][121][122][123][124] as well as in the fact that a number of other drugs that lower LDL have not shown the same cardiovascular risk benefits in studies as statins,[125] and may also account for certain of the benefits seen in cancer reduction with statins.[126] In addition, the inhibitory effect on protein prenylation may also be involved in a number of unwanted side effects associated with statins, including muscle pain (myopathy)[127] and elevated blood sugar (diabetes).[128]
+Other effects
+As noted above, statins exhibit action beyond lipid-lowering activity in the prevention of atherosclerosis. The ASTEROID trial showed direct ultrasound evidence of atheroma regression during statin therapy.[129] Researchers hypothesize that statins prevent cardiovascular disease via four proposed mechanisms (all subjects of a large body of biomedical research):[130]
+Improve endothelial function
+Modulate inflammatory responses
+Maintain plaque stability
+Prevent blood clot formation
+In 2008, the JUPITER study showed benefit in those who had no history of high cholesterol or heart disease, but only elevated C-reactive protein levels.[131] The conclusions of this study are, however, controversial.[132][133][134]
+Click on genes, proteins and metabolites below to link to respective articles. [§ 1]
+[[File:
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+[[
+]]
+|px|alt=Statin Pathway edit]]
+Statin Pathway edit
+^ The interactive pathway map can be edited at WikiPathways: "Statin_Pathway_WP430".
+Available forms
+The statins are divided into two groups: fermentation-derived and synthetic. Some specific types are listed in the table below. Note that the associated brand names may vary between countries.
+Statin
+Image
+Brand name
+Derivation
+Metabolism[135]
+Atorvastatin
+Lipitor, Ator Synthetic CYP3A4
+Cerivastatin
+Lipobay, Baycol (withdrawn from the market in August, 2001 due to risk of serious rhabdomyolysis) Synthetic various CYP3A isoforms[136]
+Fluvastatin
+Lescol, Lescol XL Synthetic CYP2C9
+Lovastatin
+Mevacor, Altocor, Altoprev Naturally occurring, fermentation-derived compound. It is found in oyster mushrooms and red yeast rice CYP3A4
+Mevastatin
+Compactin Naturally occurring compound found in red yeast rice CYP3A4
+Pitavastatin
+Livalo, Livazo, Pitava Synthetic CYP2C9 and CYP2C8 (minimally)
+Pravastatin
+Pravachol, Selektine, Lipostat Fermentation-derived (a fermentation product of bacterium Nocardia autotrophica) Non-CYP[137]
+Rosuvastatin
+Crestor Synthetic CYP2C9 and CYP2C19
+Simvastatin
+Zocor, Lipex Fermentation-derived (simvastatin is a synthetic derivate of a fermentation product of Aspergillus terreus) CYP3A4
+Simvastatin + ezetimibe Vytorin, Inegy Combination therapy: statin + cholesterol absorption inhibitor
+Lovastatin + niacin extended-release Advicor, Mevacor Combination therapy
+Atorvastatin + amlodipine Caduet, Envacar Combination therapy: statin + calcium antagonist
+Simvastatin + niacin extended-release Simcor Combination therapy
+LDL-lowering potency varies between agents. Cerivastatin is the most potent, (withdrawn from the market in August, 2001 due to risk of serious rhabdomyolysis) followed by (in order of decreasing potency), rosuvastatin, atorvastatin, simvastatin, lovastatin, pravastatin, and fluvastatin.[138] The relative potency of pitavastatin has not yet been fully established.[citation needed]
+The oyster mushroom, a culinary mushroom, naturally contains lovastatin.
+Some types of statins are naturally occurring, and can be found in such foods as oyster mushrooms and red yeast rice. Randomized controlled trials have found these foodstuffs to reduce circulating cholesterol, but the quality of the trials has been judged to be low.[139] Due to patent expiration, most of the block-buster branded statins have been generic since 2012, including atorvastatin, the largest-selling branded drug.[citation needed]
+Statin equivalent dosages
+% LDL reduction (approx.)
+Atorvastatin
+Fluvastatin
+Lovastatin
+Pravastatin
+Rosuvastatin
+Simvastatin
+10–20% – 20 mg 10 mg 10 mg – 5 mg
+20–30% – 40 mg 20 mg 20 mg – 10 mg
+30–40% 10 mg 80 mg 40 mg 40 mg 5 mg 20 mg
+40–45% 20 mg – 80 mg 80 mg 5–10 mg 40 mg
+46–50% 40 mg – – – 10–20 mg 80 mg*
+50–55% 80 mg – – – 20 mg –
+56–60% – – – – 40 mg –
+* 80-mg dose no longer recommended due to increased risk of rhabdomyolysis
+Starting dose
+Starting dose 10–20 mg 20 mg 10–20 mg 40 mg 10 mg; 5 mg if hypothyroid, >65 yo, Asian 20 mg
+If higher LDL reduction goal 40 mg if >45% 40 mg if >25% 20 mg if >20% — 20 mg if LDL >190 mg/dL (4.87 mmol/L) 40 mg if >45%
+Optimal timing Anytime Evening With evening meals Anytime Anytime Evening
+[citation needed]
+History
+Main article: Statin development
+As evidence in the 1950s and 1960s grew that high cholesterol was linked to heart disease, scientists in academics and the pharmaceutical industry began trying to develop a drug to reduce cholesterol. There were several potential targets, with 30 steps in the synthesis of cholesterol from acetyl-coenzyme A.[140]
+In 1971, Akira Endo, a Japanese biochemist working for the pharmaceutical company Sankyo, began to investigate this problem. Research had already shown cholesterol is mostly manufactured by the body in the liver with the enzyme HMG-CoA reductase.[12] Endo and his team reasoned that certain microorganisms may produce inhibitors of the enzyme to defend themselves against other organisms, as mevalonate is a precursor of many substances required by organisms for the maintenance of their cell walls (ergosterol)[dubious – discuss] or cytoskeleton (isoprenoids).[113] The first agent they identified was mevastatin (ML-236B), a molecule produced by the fungus Penicillium citrinum.
+A British group isolated the same compound from Penicillium brevicompactum, named it compactin, and published their report in 1976.[141] The British group mentions antifungal properties, with no mention of HMG-CoA reductase inhibition.[citation needed]
+Mevastatin was never marketed, because of its adverse effects of tumors, muscle deterioration, and sometimes death in laboratory dogs. P. Roy Vagelos, chief scientist and later CEO of Merck & Co, was interested, and made several trips to Japan starting in 1975. By 1978, Merck had isolated lovastatin (mevinolin, MK803) from the fungus Aspergillus terreus, first marketed in 1987 as Mevacor.[12]
+A link between cholesterol and cardiovascular disease, known as the lipid hypothesis, had already been suggested. Cholesterol is the main constituent of atheroma, the fatty lumps in the wall of arteries that occur in atherosclerosis and, when ruptured, cause the vast majority of heart attacks. Treatment consisted mainly of dietary measures, such as a low-fat diet, and poorly tolerated medicines, such as clofibrate, cholestyramine, and nicotinic acid. Cholesterol researcher Daniel Steinberg writes that while the Coronary Primary Prevention Trial of 1984 demonstrated cholesterol lowering could significantly reduce the risk of heart attacks and angina, physicians, including cardiologists, remained largely unconvinced.[142]
+Society and culture
+To market statins effectively, Merck had to demonstrate the dangers of high cholesterol. As a result of public campaigns, people in the United States became familiar with their cholesterol numbers and the difference between HDL and LDL cholesterol, and rival pharmaceutical companies began producing their own statins, such as pravastatin (Pravachol), manufactured by Sankyo and Bristol-Myers Squibb. In April 1994, the results of a Merck-sponsored study, the Scandinavian Simvastatin Survival Study, were announced. Researchers tested simvastatin, later sold by Merck as Zocor, on 4,444 patients with high cholesterol and heart disease. After five years, the study concluded the patients saw a 35% reduction in their cholesterol, and their chances of dying of a heart attack were reduced by 42%.[12][143] In 1995, Zocor and Mevacor both made Merck over US$1 billion.[12]
+Though he did not profit from his original discovery, Endo was awarded the 2006 Japan Prize, and the Lasker-DeBakey Clinical Medical Research Award in 2008 for his pioneering research.[144] Endo was also inducted into the National Inventors Hall of Fame in Alexandria, Virginia in 2012. Michael C. Brown and Joseph Goldstein, who won the Nobel Prize for related work on cholesterol, said of Endo: "The millions of people whose lives will be extended through statin therapy owe it all to Akira Endo."[145]
+Statin denialism
+Controversy over the effectiveness of statins in the medical literature was amplified in popular media in the early 2010s, leading an estimated 200,000 people in the UK to stop using statins over a six-month period to mid 2016, according to the authors of a study funded by the British Heart Foundation. They estimated that there could be up to 2,000 extra heart attacks or strokes over the following 10 years as a consequence.[146]
+An unintended effect of the academic statin controversy has been the spread of scientifically questionable alternative therapies. Cardiologist Steven Nissen at Cleveland Clinic commented "We are losing the battle for the hearts and minds of our patients to Web sites..."[147] promoting unproven medical therapies. Harriet Hall sees a spectrum of "statin denialism" ranging from pseudoscientific claims to the understatement of benefits and overstatement of side effects, all of which is contrary to the scientific evidence.[148]
+A 2019 paper published in BMJ Heart concluded that "optimal lowering of LDL-C is not achieved within 2 years in over half of patients in the general population initiated on statin therapy, and these patients will experience significantly increased risk of future CVD".[149]
+Research
+Clinical studies have been conducted on the use of statins in dementia,[150] lung cancer,[151] nuclear cataracts,[152] hypertension,[153][154] and prostate cancer.[155]
+References
+^ Alenghat, Francis J.; Davis, Andrew M. (2019). "Management of Blood Cholesterol". JAMA. 321 (8): 800. doi:10.1001/jama.2019.0015. ISSN 0098-7484. PMID 30715135.
+^ National Clinical Guideline Centre (UK) (July 2014). "Lipid Modification: Cardiovascular Risk Assessment and the Modification of Blood Lipids for the Primary and Secondary Prevention of Cardiovascular Disease" (PDF). National Clinical Guideline Centre (UK). PMID 25340243.
+^ a b Taylor F, Huffman MD, Macedo AF, Moore TH, Burke M, Davey Smith G, Ward K, Ebrahim S (January 2013). "Statins for the primary prevention of cardiovascular disease" (PDF). The Cochrane Database of Systematic Reviews. 1 (1): CD004816. doi:10.1002/14651858.CD004816.pub5. PMID 23440795.
+^ The Latest In The Cholesterol Wars
+I call this the “Cholesterol Wars” because even as the statins have become a multi-tens-of-billions-of-dollars per year business, and have swept all before them, there remains a not small group of skeptics who continue to fight on, and to point out rather compelling contrary evidence.
+^ LDL-C does not cause cardiovascular disease: a comprehensive review of the current literature.
+For half a century, a high level of total cholesterol (TC) or low-density lipoprotein cholesterol (LDL-C) has been considered to be the major cause of atherosclerosis and cardiovascular disease (CVD), and statin treatment has been widely promoted for cardiovascular prevention. However, there is an increasing understanding that the mechanisms are more complicated and that statin treatment, in particular when used as primary prevention, is of doubtful benefit. Areas covered: The authors of three large reviews recently published by statin advocates have attempted to validate the current dogma. This article delineates the serious errors in these three reviews as well as other obvious falsifications of the cholesterol hypothesis. Expert commentary: Our search for falsifications of the cholesterol hypothesis confirms that it is unable to satisfy any of the Bradford Hill criteria for causality and that the conclusions of the authors of the three reviews are based on misleading statistics, exclusion of unsuccessful trials and by ignoring numerous contradictory observations.
+^ No association between 'bad cholesterol' and elderly deaths Systematic review of studies of over 68,000 elderly people also raises questions about the benefits of statin drug treatments
+^ a b c Naci H, Brugts J, Ades T (July 2013). "Comparative tolerability and harms of individual statins: a study-level network meta-analysis of 246 955 participants from 135 randomized, controlled trials". Circulation: Cardiovascular Quality and Outcomes. 6 (4): 390–99. doi:10.1161/CIRCOUTCOMES.111.000071. PMID 23838105.
+^ a b Abd TT, Jacobson TA (May 2011). "Statin-induced myopathy: a review and update". Expert Opinion on Drug Safety. 10 (3): 373–87. doi:10.1517/14740338.2011.540568. PMID 21342078.
+^ Lewington S, Whitlock G, Clarke R, Sherliker P, Emberson J, Halsey J, Qizilbash N, Peto R, Collins R (December 2007). "Blood cholesterol and vascular mortality by age, sex, and blood pressure: a meta-analysis of individual data from 61 prospective studies with 55,000 vascular deaths". Lancet. 370 (9602): 1829–39. doi:10.1016/S0140-6736(07)61778-4. PMID 18061058.
+^ Sweetman, Sean C., ed. (2009). "Cardiovascular drugs". Martindale: the complete drug reference (36th ed.). London: Pharmaceutical Press. pp. 1155–434. ISBN 978-0-85369-840-1.
+^ a b Taylor FC, Huffman M, Ebrahim S (December 2013). "Statin therapy for primary prevention of cardiovascular disease". JAMA. 310 (22): 2451–52. doi:10.1001/jama.2013.281348. PMID 24276813.
+^ a b c d e Simons J (January 2003). "The $10 billion pill". Fortune. 147 (1): 58–62, 66, 68. PMID 12602122.
+^ "Doing Things Differently", Pfizer 2008 Annual Review, 23 April 2009, p. 15.
+^ LaMattina, John. "Patent Expirations Of Crestor And Zetia And The Impact On Other Cholesterol Drugs". Forbes. Retrieved 1 May 2017.
+^ National Cholesterol Education Program (2001). Third Report of the National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III): Executive Summary. Bethesda, MD: National Institutes of Health. National Heart, Lung, and Blood Institute. p. 40. NIH Publication No. 01-3670.
+^ National Collaborating Centre for Primary Care (2010). NICE clinical guideline 67: Lipid modification (PDF). London: National Institute for Health and Clinical Excellence. p. 38. Archived from the original (PDF) on 10 October 2010.
+^ Fulcher J, O'Connell R, Voysey M, Emberson J, Blackwell L, Mihaylova B, Simes J, Collins R, Kirby A, Colhoun H, Braunwald E, La Rosa J, Pedersen TR, Tonkin A, Davis B, Sleight P, Franzosi MG, Baigent C, Keech A (April 2015). "Efficacy and safety of LDL-lowering therapy among men and women: meta-analysis of individual data from 174,000 participants in 27 randomised trials". Lancet. 385 (9976): 1397–405. doi:10.1016/s0140-6736(14)61368-4. hdl:2123/14127. PMID 25579834.
+^ a b c Yeboah, Joseph; Virani, Salim S.; Sperling, Laurence; Smith, Sidney C.; Saseen, Joseph J.; Peralta, Carmen A.; Orringer, Carl E.; Ndumele, Chiadi E.; Lopez-Pajares, Nuria; Lloyd-Jones, Donald; Jones, Daniel W.; Hlatky, Mark A.; Heidenreich, Paul A.; Goldberg, Ronald; Forman, Daniel E.; Faiella-Tommasino, Joseph; Ferranti, Sarah de; Braun, Lynne T.; Blumenthal, Roger S.; Birtcher, Kim K.; Beam, Craig; Bailey, Alison L.; Stone, Neil J.; Grundy, Scott M. (10 November 2018). "2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines". Journal of the American College of Cardiology: 25709. doi:10.1016/j.jacc.2018.11.003. ISSN 0735-1097. Retrieved 7 March 2019.
+^ a b c Bibbins-Domingo K, Grossman DC, Curry SJ, Davidson KW, Epling JW, García FA, Gillman MW, Kemper AR, Krist AH, Kurth AE, Landefeld CS, LeFevre ML, Mangione CM, Phillips WR, Owens DK, Phipps MG, Pignone MP (November 2016). "Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement". JAMA. 316 (19): 1997–2007. doi:10.1001/jama.2016.15450. PMID 27838723.
+^ "ACC/AHA ASCVD Risk Calculator". www.cvriskcalculator.com. Retrieved 8 March 2019.
+^ Armitage, Jane; Baigent, Colin; Barnes, Elizabeth; Betteridge, D John; Blackwell, Lisa; Blazing, Michael; Bowman, Louise; Braunwald, Eugene; Byington, Robert; Cannon, Christopher (February 2019). "Efficacy and safety of statin therapy in older people: a meta-analysis of individual participant data from 28 randomised controlled trials". The Lancet. 393 (10170): 407–15. doi:10.1016/S0140-6736(18)31942-1. PMID 30712900.
+^ a b Tonelli M, Lloyd A, Clement F, Conly J, Husereau D, Hemmelgarn B, Klarenbach S, McAlister FA, Wiebe N, Manns B (November 2011). "Efficacy of statins for primary prevention in people at low cardiovascular risk: a meta-analysis". CMAJ. 183 (16): E1189–202. doi:10.1503/cmaj.101280. PMC 3216447. PMID 21989464.
+^ Kostis WJ, Cheng JQ, Dobrzynski JM, Cabrera J, Kostis JB (February 2012). "Meta-analysis of statin effects in women versus men". Journal of the American College of Cardiology. 59 (6): 572–82. doi:10.1016/j.jacc.2011.09.067. PMID 22300691.
+^ Petretta M, Costanzo P, Perrone-Filardi P, Chiariello M (January 2010). "Impact of gender in primary prevention of coronary heart disease with statin therapy: a meta-analysis". International Journal of Cardiology. 138 (1): 25–31. doi:10.1016/j.ijcard.2008.08.001. PMID 18793814.
+^ Ray KK, Seshasai SR, Erqou S, Sever P, Jukema JW, Ford I, Sattar N (June 2010). "Statins and all-cause mortality in high-risk primary prevention: a meta-analysis of 11 randomized controlled trials involving 65,229 participants". Archives of Internal Medicine. 170 (12): 1024–31. doi:10.1001/archinternmed.2010.182. PMID 20585067.
+^ Bukkapatnam RN, Gabler NB, Lewis WR (2010). "Statins for primary prevention of cardiovascular mortality in women: a systematic review and meta-analysis". Preventive Cardiology. 13 (2): 84–90. doi:10.1111/j.1751-7141.2009.00059.x. PMID 20377811.
+^ "Cardiovascular disease: risk assessment and reduction, including lipid modification at www.nice.org.uk". Retrieved 1 May 2017.
+^ Stone NJ, Robinson JG, Lichtenstein AH, Bairey Merz CN, Blum CB, Eckel RH, et al. (June 2014). "2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines". Circulation. 129 (25 Suppl 2): S1–45. doi:10.1161/01.cir.0000437738.63853.7a. PMID 24222016.
+^ Nissen SE (December 2014). "Prevention guidelines: bad process, bad outcome". JAMA Internal Medicine. 174 (12): 1972–73. doi:10.1001/jamainternmed.2014.3278. PMID 25285604.
+^ Reiner Ž, Catapano AL, De Backer G, Graham I, Taskinen MR, Wiklund O, et al. (December 2011). "[ESC/EAS Guidelines for the management of dyslipidaemias]". Revista Espanola de Cardiologia. 64 (12): 1168.e1–1168.e60. doi:10.1016/j.rec.2011.09.015. PMID 22115524.
+^ a b c Collins R, Reith C, Emberson J, Armitage J, Baigent C, Blackwell L, Blumenthal R, Danesh J, Smith GD, DeMets D, Evans S, Law M, MacMahon S, Martin S, Neal B, Poulter N, Preiss D, Ridker P, Roberts I, Rodgers A, Sandercock P, Schulz K, Sever P, Simes J, Smeeth L, Wald N, Yusuf S, Peto R (November 2016). "Interpretation of the evidence for the efficacy and safety of statin therapy" (PDF). Lancet (Submitted manuscript). 388 (10059): 2532–61. doi:10.1016/S0140-6736(16)31357-5. hdl:10044/1/43661. PMID 27616593.
+^ National Institute for Health and Clinical Excellence (March 2010) [May 2008]. "Lipid modification – Cardiovascular risk assessment and the modification of blood lipids for the primary and secondary prevention of cardiovascular disease – Quick reference guide" (PDF). Archived from the original (PDF) on 8 April 2011. Retrieved 25 August 2010.
+^ Law MR, Wald NJ, Rudnicka AR (June 2003). "Quantifying effect of statins on low density lipoprotein cholesterol, ischaemic heart disease, and stroke: systematic review and meta-analysis". BMJ. 326 (7404): 1423–30. doi:10.1136/bmj.326.7404.1423. PMC 162260. PMID 12829554.
+^ Pisaniello AD, Scherer DJ, Kataoka Y, Nicholls SJ (February 2015). "Ongoing challenges for pharmacotherapy for dyslipidemia". Expert Opinion on Pharmacotherapy. 16 (3): 347–56. doi:10.1517/14656566.2014.986094. PMID 25476544.
+^ Kushner PA, Cobble ME (November 2016). "Hypertriglyceridemia: the importance of identifying patients at risk". Postgraduate Medicine (Review). 128 (8): 848–58. doi:10.1080/00325481.2016.1243005. PMID 27710158.
+^ Khera AV, Plutzky J (July 2013). "Management of low levels of high-density lipoprotein-cholesterol". Circulation (Review). 128 (1): 72–78. doi:10.1161/CIRCULATIONAHA.112.000443. PMC 4231714. PMID 23817482.
+^ de Waal BA, Buise MP, van Zundert AA (January 2015). "Perioperative statin therapy in patients at high risk for cardiovascular morbidity undergoing surgery: a review". British Journal of Anaesthesia. 114 (1): 44–52. doi:10.1093/bja/aeu295. PMID 25186819.
+^ Antoniou GA, Hajibandeh S, Hajibandeh S, Vallabhaneni SR, Brennan JA, Torella F (February 2015). "Meta-analysis of the effects of statins on perioperative outcomes in vascular and endovascular surgery". Journal of Vascular Surgery. 61 (2): 519–32.e1. doi:10.1016/j.jvs.2014.10.021. PMID 25498191.
+^ Sladojevic N, Yu B, Liao JK (December 2017). "ROCK as a therapeutic target for ischemic stroke". Expert Review of Neurotherapeutics. 17 (12): 1167–77. doi:10.1080/14737175.2017.1395700. PMC 6221831. PMID 29057688.
+^ Li YH, Ueng KC, Jeng JS, Charng MJ, Lin TH, Chien KL, et al. (April 2017). "2017 Taiwan lipid guidelines for high risk patients". Journal of the Formosan Medical Association = Taiwan Yi Zhi. 116 (4): 217–48. doi:10.1016/j.jfma.2016.11.013. PMID 28242176.
+^ Zhou Z, Rahme E, Pilote L (February 2006). "Are statins created equal? Evidence from randomized trials of pravastatin, simvastatin, and atorvastatin for cardiovascular disease prevention". American Heart Journal. 151 (2): 273–81. doi:10.1016/j.ahj.2005.04.003. PMID 16442888.
+^ a b Vuorio A, Kuoppala J, Kovanen PT, Humphries SE, Tonstad S, Wiegman A, Drogari E (July 2014). "Statins for children with familial hypercholesterolemia". The Cochrane Database of Systematic Reviews (7): CD006401. doi:10.1002/14651858.CD006401.pub3. PMID 25054950.
+^ Lamaida N, Capuano E, Pinto L, Capuano E, Capuano R, Capuano V (September 2013). "The safety of statins in children". Acta Paediatrica. 102 (9): 857–62. doi:10.1111/apa.12280. PMID 23631461.
+^ Braamskamp MJ, Wijburg FA, Wiegman A (April 2012). "Drug therapy of hypercholesterolaemia in children and adolescents". Drugs. 72 (6): 759–72. doi:10.2165/11632810-000000000-00000. PMID 22512364.
+^ a b Repas TB, Tanner JR (February 2014). "Preventing early cardiovascular death in patients with familial hypercholesterolemia". The Journal of the American Osteopathic Association. 114 (2): 99–108. doi:10.7556/jaoa.2014.023. PMID 24481802.
+^ Ramasamy I (February 2016). "Update on the molecular biology of dyslipidemias". Clinica Chimica Acta; International Journal of Clinical Chemistry. 454: 143–85. doi:10.1016/j.cca.2015.10.033. PMID 26546829.
+^ Rader DJ, Cohen J, Hobbs HH (June 2003). "Monogenic hypercholesterolemia: new insights in pathogenesis and treatment". The Journal of Clinical Investigation. 111 (12): 1795–803. doi:10.1172/JCI18925. PMC 161432. PMID 12813012.
+^ Marais AD, Blom DJ, Firth JC (January 2002). "Statins in homozygous familial hypercholesterolemia". Current Atherosclerosis Reports. 4 (1): 19–25. doi:10.1007/s11883-002-0058-7. PMID 11772418.
+^ Liu YH, Liu Y, Duan CY, Tan N, Chen JY, Zhou YL, Li LW, He PC (March 2015). "Statins for the Prevention of Contrast-Induced Nephropathy After Coronary Angiography/Percutaneous Interventions: A Meta-analysis of Randomized Controlled Trials". Journal of Cardiovascular Pharmacology and Therapeutics. 20 (2): 181–92. doi:10.1177/1074248414549462. PMID 25193735.
+^ table adapted from the following source, but check individual references for technical explanations
+Consumer Reports; Drug Effectiveness Review Project (March 2013), "Evaluating statin drugs to treat High Cholesterol and Heart Disease: Comparing Effectiveness, Safety, and Price" (PDF), Best Buy Drugs, Consumer Reports, p. 9, retrieved 27 March 2013
+^ Asberg A (2003). "Interactions between cyclosporin and lipid-lowering drugs: implications for organ transplant recipients". Drugs. 63 (4): 367–78. doi:10.2165/00003495-200363040-00003. PMID 12558459.
+^ Food and Drug Administration (1 March 2012). "Drug Safety and Availability; FDA Drug Safety Communication: Interactions between certain HIV or hepatitis C drugs and cholesterol-lowering statin drugs can increase the risk of muscle injury". fda.gov. Retrieved 3 April 2013.
+^ Bellosta S, Paoletti R, Corsini A (June 2004). "Safety of statins: focus on clinical pharmacokinetics and drug interactions". Circulation. 109 (23 Suppl 1): III50–57. doi:10.1161/01.CIR.0000131519.15067.1f. PMID 15198967.
+^ Omar MA, Wilson JP (February 2002). "FDA adverse event reports on statin-associated rhabdomyolysis". The Annals of Pharmacotherapy. 36 (2): 288–95. doi:10.1345/aph.1A289. PMID 11847951.
+^ Armitage J (November 2007). "The safety of statins in clinical practice". Lancet. 370 (9601): 1781–90. doi:10.1016/S0140-6736(07)60716-8. PMID 17559928.
+^ Bellosta S, Corsini A (November 2012). "Statin drug interactions and related adverse reactions". Expert Opinion on Drug Safety. 11 (6): 933–46. doi:10.1517/14740338.2012.712959. PMID 22866966.
+^ Brault M, Ray J, Gomez YH, Mantzoros CS, Daskalopoulou SS (June 2014). "Statin treatment and new-onset diabetes: a review of proposed mechanisms". Metabolism. 63 (6): 735–45. doi:10.1016/j.metabol.2014.02.014. PMID 24641882.
+^ a b Golomb BA, Evans MA (2008). "Statin adverse effects : a review of the literature and evidence for a mitochondrial mechanism". American Journal of Cardiovascular Drugs. 8 (6): 373–418. doi:10.2165/0129784-200808060-00004. PMC 2849981. PMID 19159124.
+^ Kmietowicz Z (March 2014). "New analysis fuels debate on merits of prescribing statins to low risk people". BMJ. 348: g2370. doi:10.1136/bmj.g2370. PMID 24671956.
+^ Wise J (June 2014). "Open letter raises concerns about NICE guidance on statins". BMJ. 348: g3937. doi:10.1136/bmj.g3937. PMID 24920699.
+^ Gøtzsche PC (June 2014). "Muscular adverse effects are common with statins". BMJ. 348: g3724. doi:10.1136/bmj.g3724. PMID 24920687.
+^ Taylor F, Huffman MD, Macedo AF, Moore TH, Burke M, Davey Smith G, Ward K, Ebrahim S (January 2013). "Statins for the primary prevention of cardiovascular disease" (PDF). The Cochrane Database of Systematic Reviews. 1 (1): CD004816. doi:10.1002/14651858.CD004816.pub5. PMID 23440795.
+^ Silva MA, Swanson AC, Gandhi PJ, Tataronis GR (January 2006). "Statin-related adverse events: a meta-analysis". Clinical Therapeutics. 28 (1): 26–35. doi:10.1016/j.clinthera.2006.01.005. PMID 16490577.
+^ a b Mancini GB, Baker S, Bergeron J, Fitchett D, Frohlich J, Genest J, Gupta M, Hegele RA, Ng D, Pope J (2011). "Diagnosis, prevention, and management of statin adverse effects and intolerance: proceedings of a Canadian Working Group Consensus Conference". The Canadian Journal of Cardiology. 27 (5): 635–62. doi:10.1016/j.cjca.2011.05.007. PMID 21963058.
+^ Finegold JA, Manisty CH, Goldacre B, Barron AJ, Francis DP (April 2014). "What proportion of symptomatic side effects in patients taking statins are genuinely caused by the drug? Systematic review of randomized placebo-controlled trials to aid individual patient choice". European Journal of Preventive Cardiology. 21 (4): 464–74. doi:10.1177/2047487314525531. PMID 24623264.
+^ Swiger KJ, Manalac RJ, Blumenthal RS, Blaha MJ, Martin SS (November 2013). "Statins and cognition: a systematic review and meta-analysis of short- and long-term cognitive effects". Mayo Clinic Proceedings. 88 (11): 1213–21. doi:10.1016/j.mayocp.2013.07.013. PMID 24095248.
+^ Mancini GB, Tashakkor AY, Baker S, Bergeron J, Fitchett D, Frohlich J, Genest J, Gupta M, Hegele RA, Ng DS, Pearson GJ, Pope J (December 2013). "Diagnosis, prevention, and management of statin adverse effects and intolerance: Canadian Working Group Consensus update". The Canadian Journal of Cardiology. 29 (12): 1553–68. doi:10.1016/j.cjca.2013.09.023. PMID 24267801.
+^ Richardson K, Schoen M, French B, Umscheid CA, Mitchell MD, Arnold SE, Heidenreich PA, Rader DJ, deGoma EM (November 2013). "Statins and cognitive function: a systematic review". Annals of Internal Medicine. 159 (10): 688–97. doi:10.7326/0003-4819-159-10-201311190-00007. PMID 24247674.
+^ Smith DA (May 2014). "ACP Journal Club. Review: statins are not associated with cognitive impairment or dementia in cognitively intact adults". Annals of Internal Medicine. 160 (10): JC11, JC10. doi:10.7326/0003-4819-160-10-201405200-02011. PMID 24842433.
+^ Bitzur R (August 2016). "Remembering Statins: Do Statins Have Adverse Cognitive Effects?". Diabetes Care (Review). 39 Suppl 2 (Supplement 2): S253–59. doi:10.2337/dcS15-3022. PMID 27440840.
+^ Ray, KK; Seshasai, SR; Erqou, S; Sever, P; Jukema, JW; Ford, I; Sattar, N (28 June 2010). "Statins and all-cause mortality in high-risk primary prevention: a meta-analysis of 11 randomized controlled trials involving 65,229 participants". Archives of Internal Medicine. 170 (12): 1024–31. doi:10.1001/archinternmed.2010.182. PMID 20585067.
+^ Mijajlović MD, Pavlović A, Brainin M, Heiss WD, Quinn TJ, Ihle-Hansen HB, et al. (January 2017). "Post-stroke dementia – a comprehensive review". BMC Medicine. 15 (1): 11. doi:10.1186/s12916-017-0779-7. PMC 5241961. PMID 28095900.
+^ McDonagh J (December 2014). "Statin-related cognitive impairment in the real world: you'll live longer, but you might not like it". JAMA Internal Medicine. 174 (12): 1889. doi:10.1001/jamainternmed.2014.5376. PMID 25347692.
+^ Center for Drug Evaluation and Research. "Drug Safety and Availability – FDA Drug Safety Communication: Important safety label changes to cholesterol-lowering statin drugs". www.fda.gov. Retrieved 25 March 2018.
+^ Backes JM, Ruisinger JF, Gibson CA, Moriarty PM (January – February 2017). "Statin-associated muscle symptoms-Managing the highly intolerant". Journal of Clinical Lipidology. 11 (1): 24–33. doi:10.1016/j.jacl.2017.01.006. PMID 28391891.
+^ Newman, Connie (2019). "Statin Safety and Associated Adverse Events: A Scientific Statement From the American Heart Association". Arteriosclerosis, Thrombosis, and Vascular Biology. 39 (2): e38–e81. doi:10.1161/ATV.0000000000000073. PMID 30580575.
+^ Rull G, Henderson R (20 January 2015). "Rhabdomyolysis and Other Causes of Myoglobinuria". Retrieved 6 May 2015.
+^ Potgieter M, Pretorius E, Pepper MS (March 2013). "Primary and secondary coenzyme Q10 deficiency: the role of therapeutic supplementation". Nutrition Reviews. 71 (3): 180–88. doi:10.1111/nure.12011. PMID 23452285.
+^ Marcoff L, Thompson PD (June 2007). "The role of coenzyme Q10 in statin-associated myopathy: a systematic review". Journal of the American College of Cardiology. 49 (23): 2231–37. doi:10.1016/j.jacc.2007.02.049. PMID 17560286.
+^ Link E, Parish S, Armitage J, Bowman L, Heath S, Matsuda F, Gut I, Lathrop M, Collins R (August 2008). "SLCO1B1 variants and statin-induced myopathy – a genomewide study". The New England Journal of Medicine. 359 (8): 789–99. doi:10.1056/NEJMoa0801936. PMID 18650507.
+^ a b Graham DJ, Staffa JA, Shatin D, Andrade SE, Schech SD, La Grenade L, Gurwitz JH, Chan KA, Goodman MJ, Platt R (December 2004). "Incidence of hospitalized rhabdomyolysis in patients treated with lipid-lowering drugs". JAMA. 292 (21): 2585–90. doi:10.1001/jama.292.21.2585. PMID 15572716.
+^ Backman JT, Filppula AM, Niemi M, Neuvonen PJ (January 2016). "Role of Cytochrome P450 2C8 in Drug Metabolism and Interactions". Pharmacological Reviews (Review). 68 (1): 168–241. doi:10.1124/pr.115.011411. PMID 26721703.
+^ a b Hanai J, Cao P, Tanksale P, Imamura S, Koshimizu E, Zhao J, Kishi S, Yamashita M, Phillips PS, Sukhatme VP, Lecker SH (December 2007). "The muscle-specific ubiquitin ligase atrogin-1/MAFbx mediates statin-induced muscle toxicity". The Journal of Clinical Investigation. 117 (12): 3940–51. doi:10.1172/JCI32741. PMC 2066198. PMID 17992259.
+^ Teichtahl AJ, Brady SR, Urquhart DM, Wluka AE, Wang Y, Shaw JE, Cicuttini FM (February 2016). "Statins and tendinopathy: a systematic review". The Medical Journal of Australia. 204 (3): 115–21.e1. doi:10.5694/mja15.00806. PMID 26866552.
+^ Sattar N, Preiss D, Murray HM, Welsh P, Buckley BM, de Craen AJ, Seshasai SR, McMurray JJ, Freeman DJ, Jukema JW, Macfarlane PW, Packard CJ, Stott DJ, Westendorp RG, Shepherd J, Davis BR, Pressel SL, Marchioli R, Marfisi RM, Maggioni AP, Tavazzi L, Tognoni G, Kjekshus J, Pedersen TR, Cook TJ, Gotto AM, Clearfield MB, Downs JR, Nakamura H, Ohashi Y, Mizuno K, Ray KK, Ford I (February 2010). "Statins and risk of incident diabetes: a collaborative meta-analysis of randomised statin trials". Lancet. 375 (9716): 735–42. doi:10.1016/S0140-6736(09)61965-6. PMID 20167359.
+^ Chou R, Dana T, Blazina I, Daeges M, Jeanne TL (November 2016). "Statins for Prevention of Cardiovascular Disease in Adults: Evidence Report and Systematic Review for the US Preventive Services Task Force". JAMA (Review). 316 (19): 2008–24. doi:10.1001/jama.2015.15629. PMID 27838722.
+^ a b c d Rochlani Y, Kattoor AJ, Pothineni NV, Palagiri RD, Romeo F, Mehta JL (October 2017). "Balancing Primary Prevention and Statin-Induced Diabetes Mellitus Prevention". The American Journal of Cardiology (Review). 120 (7): 1122–28. Bibcode:1981AmJC...48..728H. doi:10.1016/j.amjcard.2017.06.054. PMID 28797470.
+^ He, Y; Li, X; Gasevic, D; Brunt, E; McLachlan, F; Millenson, M; Timofeeva, M; Ioannidis, JPA; Campbell, H; Theodoratou, E (16 October 2018). "Statins and Multiple Noncardiovascular Outcomes: Umbrella Review of Meta-analyses of Observational Studies and Randomized Controlled Trials". Annals of Internal Medicine. 169 (8): 543–53. doi:10.7326/M18-0808. PMID 30304368.
+^ Preiss D, Seshasai SR, Welsh P, Murphy SA, Ho JE, Waters DD, DeMicco DA, Barter P, Cannon CP, Sabatine MS, Braunwald E, Kastelein JJ, de Lemos JA, Blazing MA, Pedersen TR, Tikkanen MJ, Sattar N, Ray KK (June 2011). "Risk of incident diabetes with intensive-dose compared with moderate-dose statin therapy: a meta-analysis". JAMA. 305 (24): 2556–64. doi:10.1001/jama.2011.860. PMID 21693744.
+^ Culver AL, Ockene IS, Balasubramanian R, Olendzki BC, Sepavich DM, Wactawski-Wende J, Manson JE, Qiao Y, Liu S, Merriam PA, Rahilly-Tierny C, Thomas F, Berger JS, Ockene JK, Curb JD, Ma Y (January 2012). "Statin use and risk of diabetes mellitus in postmenopausal women in the Women's Health Initiative". Archives of Internal Medicine. 172 (2): 144–52. doi:10.1001/archinternmed.2011.625. PMID 22231607.
+^ Jukema JW, Cannon CP, de Craen AJ, Westendorp RG, Trompet S (September 2012). "The controversies of statin therapy: weighing the evidence". Journal of the American College of Cardiology. 60 (10): 875–81. doi:10.1016/j.jacc.2012.07.007. PMID 22902202.
+^ Rutishauser J (21 November 2011). "Statins in clinical medicine". Swiss Medical Weekly. 141: w13310. doi:10.4414/smw.2011.13310. PMID 22101921.
+^ Alsheikh-Ali AA, Maddukuri PV, Han H, Karas RH (July 2007). "Effect of the magnitude of lipid lowering on risk of elevated liver enzymes, rhabdomyolysis, and cancer: insights from large randomized statin trials". Journal of the American College of Cardiology. 50 (5): 409–18. doi:10.1016/j.jacc.2007.02.073. PMID 17662392.
+^ Dale KM, Coleman CI, Henyan NN, Kluger J, White CM (January 2006). "Statins and cancer risk: a meta-analysis". JAMA. 295 (1): 74–80. doi:10.1001/jama.295.1.74. PMID 16391219.
+^ Alsheikh-Ali AA, Karas RH (March 2009). "The relationship of statins to rhabdomyolysis, malignancy, and hepatic toxicity: evidence from clinical trials". Current Atherosclerosis Reports. 11 (2): 100–04. doi:10.1007/s11883-009-0016-8. PMID 19228482.
+^ Singh S, Singh AG, Singh PP, Murad MH, Iyer PG (June 2013). "Statins are associated with reduced risk of esophageal cancer, particularly in patients with Barrett's esophagus: a systematic review and meta-analysis". Clinical Gastroenterology and Hepatology. 11 (6): 620–29. doi:10.1016/j.cgh.2012.12.036. PMC 3660516. PMID 23357487.
+^ Liu Y, Tang W, Wang J, Xie L, Li T, He Y, Deng Y, Peng Q, Li S, Qin X (February 2014). "Association between statin use and colorectal cancer risk: a meta-analysis of 42 studies". Cancer Causes & Control. 25 (2): 237–49. doi:10.1007/s10552-013-0326-6. PMID 24265089.
+^ Wu XD, Zeng K, Xue FQ, Chen JH, Chen YQ (October 2013). "Statins are associated with reduced risk of gastric cancer: a meta-analysis". European Journal of Clinical Pharmacology. 69 (10): 1855–60. doi:10.1007/s00228-013-1547-z. PMID 23748751.
+^ Singh PP, Singh S (July 2013). "Statins are associated with reduced risk of gastric cancer: a systematic review and meta-analysis". Annals of Oncology. 24 (7): 1721–30. doi:10.1093/annonc/mdt150. PMID 23599253.
+^ Pradelli D, Soranna D, Scotti L, Zambon A, Catapano A, Mancia G, La Vecchia C, Corrao G (May 2013). "Statins and primary liver cancer: a meta-analysis of observational studies". European Journal of Cancer Prevention. 22 (3): 229–34. doi:10.1097/cej.0b013e328358761a. PMID 23010949.
+^ Zhang Y, Zang T (2013). "Association between statin usage and prostate cancer prevention: a refined meta-analysis based on literature from the years 2005–2010". Urologia Internationalis. 90 (3): 259–62. doi:10.1159/000341977. PMID 23052323.
+^ Bansal D, Undela K, D'Cruz S, Schifano F (2012). "Statin use and risk of prostate cancer: a meta-analysis of observational studies". PLOS One. 7 (10): e46691. Bibcode:2012PLoSO...746691B. doi:10.1371/journal.pone.0046691. PMC 3462187. PMID 23049713.
+^ Tan M, Song X, Zhang G, Peng A, Li X, Li M, Liu Y, Wang C (2013). "Statins and the risk of lung cancer: a meta-analysis". PLOS One. 8 (2): e57349. Bibcode:2013PLoSO...857349T. doi:10.1371/journal.pone.0057349. PMC 3585354. PMID 23468972.
+^ Zhang XL, Liu M, Qian J, Zheng JH, Zhang XP, Guo CC, Geng J, Peng B, Che JP, Wu Y (March 2014). "Statin use and risk of kidney cancer: a meta-analysis of observational studies and randomized trials". British Journal of Clinical Pharmacology. 77 (3): 458–65. doi:10.1111/bcp.12210. PMC 3952720. PMID 23879311.
+^ Undela K, Srikanth V, Bansal D (August 2012). "Statin use and risk of breast cancer: a meta-analysis of observational studies". Breast Cancer Research and Treatment. 135 (1): 261–69. doi:10.1007/s10549-012-2154-x. PMID 22806241.
+^ Cui X, Xie Y, Chen M, Li J, Liao X, Shen J, Shi M, Li W, Zheng H, Jiang B (July 2012). "Statin use and risk of pancreatic cancer: a meta-analysis". Cancer Causes & Control. 23 (7): 1099–111. doi:10.1007/s10552-012-9979-9. PMID 22562222.
+^ Zhang XL, Geng J, Zhang XP, Peng B, Che JP, Yan Y, Wang GC, Xia SQ, Wu Y, Zheng JH (April 2013). "Statin use and risk of bladder cancer: a meta-analysis". Cancer Causes & Control. 24 (4): 769–76. doi:10.1007/s10552-013-0159-3. PMID 23361339.
+^ Katherine Zeratsky, R.D., L.D., Mayo clinic: article on interference between grapefruit and medication Accessed 1 May 2017
+^ Kane GC, Lipsky JJ (September 2000). "Drug-grapefruit juice interactions". Mayo Clinic Proceedings. 75 (9): 933–42. doi:10.4065/75.9.933. PMID 10994829.
+^ Reamy BV, Stephens MB (July 2007). "The grapefruit-drug interaction debate: role of statins". American Family Physician. 76 (2): 190, 192, author reply 192. PMID 17695563.
+^ FDA Website Statins and HIV or Hepatitis C Drugs: Drug Safety Communication – Interaction Increases Risk of Muscle Injury
+^ Istvan ES, Deisenhofer J (May 2001). "Structural mechanism for statin inhibition of HMG-CoA reductase". Science. 292 (5519): 1160–64. Bibcode:2001Sci...292.1160I. doi:10.1126/science.1059344. PMID 11349148.
+^ a b Endo A (November 1992). "The discovery and development of HMG-CoA reductase inhibitors" (PDF). Journal of Lipid Research. 33 (11): 1569–82. PMID 1464741.
+^ Miettinen TA (March 1982). "Diurnal variation of cholesterol precursors squalene and methyl sterols in human plasma lipoproteins". Journal of Lipid Research. 23 (3): 466–73. PMID 7200504.
+^ Saito Y, Yoshida S, Nakaya N, Hata Y, Goto Y (July – August 1991). "Comparison between morning and evening doses of simvastatin in hyperlipidemic subjects. A double-blind comparative study". Arteriosclerosis and Thrombosis. 11 (4): 816–26. doi:10.1161/01.ATV.11.4.816. PMID 2065035.
+^ Wallace A, Chinn D, Rubin G (October 2003). "Taking simvastatin in the morning compared with in the evening: randomised controlled trial". BMJ. 327 (7418): 788. doi:10.1136/bmj.327.7418.788. PMC 214096. PMID 14525878.
+^ Cilla DD, Gibson DM, Whitfield LR, Sedman AJ (July 1996). "Pharmacodynamic effects and pharmacokinetics of atorvastatin after administration to normocholesterolemic subjects in the morning and evening". Journal of Clinical Pharmacology. 36 (7): 604–09. Bibcode:1991JClP...31..928S. doi:10.1002/j.1552-4604.1996.tb04224.x. PMID 8844442.
+^ Ma PT, Gil G, Südhof TC, Bilheimer DW, Goldstein JL, Brown MS (November 1986). "Mevinolin, an inhibitor of cholesterol synthesis, induces mRNA for low density lipoprotein receptor in livers of hamsters and rabbits". Proceedings of the National Academy of Sciences of the United States of America. 83 (21): 8370–74. Bibcode:1986PNAS...83.8370M. doi:10.1073/pnas.83.21.8370. PMC 386930. PMID 3464957.
+^ Laufs U, Custodis F, Böhm M (2006). "HMG-CoA reductase inhibitors in chronic heart failure: potential mechanisms of benefit and risk". Drugs. 66 (2): 145–54. doi:10.2165/00003495-200666020-00002. PMID 16451090.
+^ Greenwood J, Steinman L, Zamvil SS (May 2006). "Statin therapy and autoimmune disease: from protein prenylation to immunomodulation". Nature Reviews. Immunology. 6 (5): 358–70. doi:10.1038/nri1839. PMC 3842637. PMID 16639429.
+^ Lahera V, Goicoechea M, de Vinuesa SG, Miana M, de las Heras N, Cachofeiro V, Luño J (2007). "Endothelial dysfunction, oxidative stress and inflammation in atherosclerosis: beneficial effects of statins". Current Medicinal Chemistry. 14 (2): 243–48. doi:10.2174/092986707779313381. PMID 17266583.
+^ Blum A, Shamburek R (April 2009). "The pleiotropic effects of statins on endothelial function, vascular inflammation, immunomodulation and thrombogenesis". Atherosclerosis. 203 (2): 325–30. doi:10.1016/j.atherosclerosis.2008.08.022. PMID 18834985.
+^ Porter KE, Turner NA (July 2011). "Statins and myocardial remodelling: cell and molecular pathways". Expert Reviews in Molecular Medicine. 13 (e22): e22. doi:10.1017/S1462399411001931. PMID 21718586.
+^ Sawada N, Liao JK (March 2014). "Rho/Rho-associated coiled-coil forming kinase pathway as therapeutic targets for statins in atherosclerosis". Antioxidants & Redox Signaling. 20 (8): 1251–67. doi:10.1089/ars.2013.5524. PMC 3934442. PMID 23919640.
+^ "Questions Remain in Cholesterol Research". MedPageToday. 15 August 2014.
+^ Thurnher M, Nussbaumer O, Gruenbacher G (July 2012). "Novel aspects of mevalonate pathway inhibitors as antitumor agents". Clinical Cancer Research. 18 (13): 3524–31. doi:10.1158/1078-0432.CCR-12-0489. PMID 22529099.
+^ Norata GD, Tibolla G, Catapano AL (October 2014). "Statins and skeletal muscles toxicity: from clinical trials to everyday practice". Pharmacological Research. 88: 107–13. doi:10.1016/j.phrs.2014.04.012. PMID 24835295.
+^ Kowluru A (January 2008). "Protein prenylation in glucose-induced insulin secretion from the pancreatic islet beta cell: a perspective". Journal of Cellular and Molecular Medicine. 12 (1): 164–73. doi:10.1111/j.1582-4934.2007.00168.x. PMC 3823478. PMID 18053094.
+^ Nissen SE, Nicholls SJ, Sipahi I, Libby P, Raichlen JS, Ballantyne CM, Davignon J, Erbel R, Fruchart JC, Tardif JC, Schoenhagen P, Crowe T, Cain V, Wolski K, Goormastic M, Tuzcu EM (April 2006). "Effect of very high-intensity statin therapy on regression of coronary atherosclerosis: the ASTEROID trial". JAMA. 295 (13): 1556–65. doi:10.1001/jama.295.13.jpc60002. PMID 16533939.
+^ Furberg CD (January 1999). "Natural statins and stroke risk". Circulation. 99 (2): 185–88. doi:10.1161/01.CIR.99.2.185. PMID 9892578.
+^ Ridker PM, Danielson E, Fonseca FA, Genest J, Gotto AM, Kastelein JJ, Koenig W, Libby P, Lorenzatti AJ, MacFadyen JG, Nordestgaard BG, Shepherd J, Willerson JT, Glynn RJ (November 2008). "Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein". The New England Journal of Medicine. 359 (21): 2195–207. doi:10.1056/NEJMoa0807646. PMID 18997196.
+^ Kones R (December 2010). "Rosuvastatin, inflammation, C-reactive protein, JUPITER, and primary prevention of cardiovascular disease – a perspective". Drug Design, Development and Therapy. 4: 383–413. doi:10.2147/DDDT.S10812. PMC 3023269. PMID 21267417.
+^ Ferdinand KC (February 2011). "Are cardiovascular benefits in statin lipid effects dependent on baseline lipid levels?". Current Atherosclerosis Reports. 13 (1): 64–72. doi:10.1007/s11883-010-0149-9. PMID 21104458.
+^ Devaraj S, Siegel D, Jialal I (February 2011). "Statin therapy in metabolic syndrome and hypertension post-JUPITER: what is the value of CRP?". Current Atherosclerosis Reports. 13 (1): 31–42. doi:10.1007/s11883-010-0143-2. PMC 3018293. PMID 21046291.
+^ Bellosta S, Paoletti R, Corsini A (June 2004). "Safety of statins: focus on clinical pharmacokinetics and drug interactions". Circulation. 109 (23 Suppl 1): III50–07. doi:10.1161/01.CIR.0000131519.15067.1f. PMID 15198967.
+^ Boberg M, Angerbauer R, Fey P, Kanhai WK, Karl W, Kern A, Ploschke J, Radtke M (March 1997). "Metabolism of cerivastatin by human liver microsomes in vitro. Characterization of primary metabolic pathways and of cytochrome P450 isozymes involved". Drug Metabolism and Disposition. 25 (3): 321–31. PMID 9172950.
+^ Jacobsen W, Kirchner G, Hallensleben K, Mancinelli L, Deters M, Hackbarth I, Benet LZ, Sewing KF, Christians U (February 1999). "Comparison of cytochrome P-450-dependent metabolism and drug interactions of the 3-hydroxy-3-methylglutaryl-CoA reductase inhibitors lovastatin and pravastatin in the liver". Drug Metabolism and Disposition. 27 (2): 173–79. PMID 9929499.
+^ Shepherd J, Hunninghake DB, Barter P, McKenney JM, Hutchinson HG (March 2003). "Guidelines for lowering lipids to reduce coronary artery disease risk: a comparison of rosuvastatin with atorvastatin, pravastatin, and simvastatin for achieving lipid-lowering goals". The American Journal of Cardiology. 91 (5A): 11C–17C, discussion 17C–19C. doi:10.1016/S0002-9149(03)00004-3. PMID 12646338.
+^ Liu J, Zhang J, Shi Y, Grimsgaard S, Alraek T, Fønnebø V (November 2006). "Chinese red yeast rice (Monascus purpureus) for primary hyperlipidemia: a meta-analysis of randomized controlled trials". Chinese Medicine. 1 (1): 4. doi:10.1186/1749-8546-1-4. PMC 1761143. PMID 17302963.
+^ Endo, A (2010). "A historical perspective on the discovery of statins". Proceedings of the Japan Academy. Series B, Physical and Biological Sciences. 86 (5): 484–93. doi:10.2183/pjab.86.484. PMC 3108295. PMID 20467214.
+^ Brown AG, Smale TC, King TJ, Hasenkamp R, Thompson RH (1976). "Crystal and molecular structure of compactin, a new antifungal metabolite from Penicillium brevicompactum". Journal of the Chemical Society, Perkin Transactions 1 (11): 1165. doi:10.1039/P19760001165.
+^ Steinberg D (2007). The cholesterol wars : the skeptics vs. the preponderance of evidence. Academic Press. pp. 6–9. ISBN 978-0-12-373979-7.
+^ Scandinaviansimvastatinsurvival (November 1994). "Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S)". Lancet. 344 (8934): 1383–89. doi:10.1016/S0140-6736(94)90566-5. PMID 7968073.
+^ Lane B (8 May 2012). "National Inventors Hall of Fame Honors 2012 Inductees". PRNewswire. Retrieved 11 May 2014.
+^ Landers P (9 January 2006). "How One Scientist Intrigued by Molds Found First Statin". The Wall Street Journal. Retrieved 11 May 2014.
+^ Boseley S (8 September 2016). "Statins prevent 80,000 heart attacks and strokes a year in UK, study finds". The Guardian. Retrieved 29 December 2017.
+^ Husten L (24 July 2017). "Nissen Calls Statin Denialism A Deadly Internet-Driven Cult". CardioBrief. Archived from the original on 19 December 2017. Retrieved 19 December 2017.
+^ Hall, Harriet (2017). "Statin Denialism". Skeptical Inquirer. 41 (3): 40–43. Retrieved 6 October 2018.
+^ Akyea, Ralph Kwame; Kai, Joe; Qureshi, Nadeem; Iyen, Barbara; Weng, Stephen F. (2019). "Sub-optimal cholesterol response to initiation of statins and future risk of cardiovascular disease". Heart: heartjnl-2018–314253. doi:10.1136/heartjnl-2018-314253.
+^ Wolozin B, Wang SW, Li NC, Lee A, Lee TA, Kazis LE (July 2007). "Simvastatin is associated with a reduced incidence of dementia and Parkinson's disease". BMC Medicine. 5 (1): 20. doi:10.1186/1741-7015-5-20. PMC 1955446. PMID 17640385.
+^ Khurana V, Bejjanki HR, Caldito G, Owens MW (May 2007). "Statins reduce the risk of lung cancer in humans: a large case-control study of US veterans". Chest. 131 (5): 1282–88. doi:10.1378/chest.06-0931. PMID 17494779.
+^ Klein BE, Klein R, Lee KE, Grady LM (June 2006). "Statin use and incident nuclear cataract". JAMA. 295 (23): 2752–58. doi:10.1001/jama.295.23.2752. PMID 16788130.
+^ Golomb BA, Dimsdale JE, White HL, Ritchie JB, Criqui MH (April 2008). "Reduction in blood pressure with statins: results from the UCSD Statin Study, a randomized trial". Archives of Internal Medicine. 168 (7): 721–27. doi:10.1001/archinte.168.7.721. PMC 4285458. PMID 18413554.
+^ Drapala A, Sikora M, Ufnal M (September 2014). "Statins, the renin-angiotensin-aldosterone system and hypertension – a tale of another beneficial effect of statins". Journal of the Renin-Angiotensin-Aldosterone System. 15 (3): 250–58. doi:10.1177/1470320314531058. PMID 25037529.
+^ Mondul AM, Han M, Humphreys EB, Meinhold CL, Walsh PC, Platz EA (April 2011). "Association of statin use with pathological tumor characteristics and prostate cancer recurrence after surgery". The Journal of Urology. 185 (4): 1268–73. doi:10.1016/j.juro.2010.11.089. PMC 3584560. PMID 21334020.
+External links
+Statin page at Bandolier, an evidence-based medicine journal (little content after 2004)
+NHS Choices: High Cholesterol Prevention (dietary measures etc)
+Pharmacology: major drug groups
+Gastrointestinal tract/
+metabolism (A)
+stomach acid
+Antacids
+H2 antagonists
+Proton pump inhibitors
+Antiemetics
+Laxatives
+Antidiarrhoeals/Antipropulsives
+Anti-obesity drugs
+Anti-diabetics
+Vitamins
+Dietary minerals
+Blood and blood
+forming organs (B)
+Antithrombotics
+Antiplatelets
+Anticoagulants
+Thrombolytics/fibrinolytics
+Antihemorrhagics
+Platelets
+Coagulants
+Antifibrinolytics
+Cardiovascular
+system (C)
+cardiac therapy/antianginals
+Cardiac glycosides
+Antiarrhythmics
+Cardiac stimulants
+Antihypertensives
+Diuretics
+Vasodilators
+Beta blockers
+Calcium channel blockers
+renin–angiotensin system
+ACE inhibitors
+Angiotensin II receptor antagonists
+Renin inhibitors
+Antihyperlipidemics
+Statins
+Fibrates
+Bile acid sequestrants
+Skin (D)
+Emollients
+Cicatrizants
+Antipruritics
+Antipsoriatics
+Medicated dressings
+Genitourinary
+system (G)
+Hormonal contraception
+Fertility agents
+SERMs
+Sex hormones
+Endocrine
+system (H)
+Hypothalamic–pituitary hormones
+Corticosteroids
+Glucocorticoids
+Mineralocorticoids
+Sex hormones
+Thyroid hormones/Antithyroid agents
+Infections and
+infestations (J, P, QI)
+Antimicrobials: Antibacterials (Antimycobacterials)
+Antifungals
+Antivirals
+Antiparasitics
+Antiprotozoals
+Anthelmintics
+Ectoparasiticides
+IVIG
+Vaccines
+Malignant disease
+(L01–L02)
+Anticancer agents
+Antimetabolites
+Alkylating
+Spindle poisons
+Antineoplastic
+Topoisomerase inhibitors
+Immune disease
+(L03–L04)
+Immunomodulators
+Immunostimulants
+Immunosuppressants
+Muscles, bones,
+and joints (M)
+Anabolic steroids
+Anti-inflammatories
+NSAIDs
+Antirheumatics
+Corticosteroids
+Muscle relaxants
+Bisphosphonates
+Brain and
+nervous system (N)
+Analgesics
+Anesthetics
+General
+Local
+Anorectics
+Anti-ADHD agents
+Antiaddictives
+Anticonvulsants
+Antidementia agents
+Antidepressants
+Antimigraine agents
+Antiparkinson agents
+Antipsychotics
+Anxiolytics
+Depressants
+Entactogens
+Entheogens
+Euphoriants
+Hallucinogens
+Psychedelics
+Dissociatives
+Deliriants
+Hypnotics/Sedatives
+Mood Stabilizers
+Neuroprotectives
+Nootropics
+Neurotoxins
+Orexigenics
+Serenics
+Stimulants
+Wakefulness-promoting agents
+Respiratory
+system (R)
+Decongestants
+Bronchodilators
+Cough medicines
+H1 antagonists
+Sensory organs (S)
+Ophthalmologicals
+Otologicals
+Other ATC (V)
+Antidotes
+Contrast media
+Radiopharmaceuticals
+Dressings
+Senotherapeutics
+Lipid-modifying agents (C10)
+GI tract
+Cholesterol absorption inhibitors, NPC1L1
+Ezetimibe
+SCH-48461
+Bile acid sequestrants/resins (LDL)
+Colesevelam
+Colestilan
+Colestipol
+Colestyramine
+Colextran
+Liver
+Statins (HMG-CoA reductase, LDL)
+Atorvastatin
+Cerivastatin‡
+Fluvastatin
+Lovastatin
+Mevastatin
+Pitavastatin
+Pravastatin
+Rosuvastatin
+Simvastatin#
+Niacin and derivatives (HDL and LDL)
+Acipimox
+Aluminium nicotinate
+Niacin
+Niceritrol
+Nicofuranose
+Nicotinyl alcohol
+MTTP inhibitors (VLDL)
+Dirlotapide
+Lomitapide
+Mitratapide
+ATP citrate lyase inhibitors (LDL)
+Bempedoic acid†
+Blood vessels
+Fibrates (PPAR)
+Aluminium clofibrate
+Bezafibrate
+Ciprofibrate
+Clinofibrate
+Clofibrate‡
+Clofibride
+Etofibrate
+Fenofibrate
+Gemfibrozil
+Pemafibrate
+Ronifibrate
+Simfibrate
+CETP inhibitors (HDL)
+Anacetrapib†
+Dalcetrapib§
+Evacetrapib§
+Obicetrapib†
+Torcetrapib§
+PCSK9 inhibitors (LDL)
+Alirocumab
+Bococizumab
+Evolocumab
+Combinations
+Ezetimibe/atorvastatin
+Ezetimibe/simvastatin
+Niacin/laropiprant
+Niacin/lovastatin
+Niacin/simvastatin
+Other
+Alipogene tiparvovec
+Azacosterol
+Azalanstat
+Benfluorex‡
+Darapladib§
+Dextrothyroxine‡
+Lapaquistat§
+Magnesium pyridoxal 5-phosphate glutamate
+Meglutol
+Mipomersen
+Omega-3-triglycerides
+Policosanol
+Probucol
+Tiadenol
+Triparanol‡
+Volanesorsen†
+#WHO-EM
+‡Withdrawn from market
+Clinical trials:
+†Phase III
+§Never to phase III
+Pharmacology: enzyme inhibition
+Class
+Competitive inhibition
+Uncompetitive inhibition
+Non-competitive inhibition
+Suicide inhibition
+Mixed inhibition
+Substrate
+Oxidoreductase (EC 1)
+1.1 Aldose reductase
+HMG-CoA reductase
+1.3 5α-Reductase
+1.4 Monoamine oxidase
+1.5 Dihydrofolate reductase
+1.13 Lipoxygenase
+1.14 Aromatase
+COX-2
+1.17 Xanthine oxidase
+Ribonucleotide reductase
+Transferase (EC 2)
+2.1 COMT
+Thymidylate synthase
+2.4 PARP
+2.5 Dihydropteroate synthetase
+Farnesyltransferase
+2.6 GABA transaminase
+2.7 Nucleotidyltransferase
+Integrase
+Reverse transcriptase
+Protein kinase
+Tyrosine-kinase
+Janus kinase
+Hydrolase (EC 3)
+3.1 Phosphodiesterase
+Acetylcholinesterase
+Ribonuclease
+3.2 Polygalacturonase
+Neuraminidase
+Alpha-glucosidase
+3.4 Protease: Exopeptidase
+DPP-4
+ACE
+Endopeptidase
+Trypsin
+Renin
+Mixed
+Enkephalinase
+Matrix metalloproteinase
+Oxytocinase
+3.5 Histone deacetylase
+Beta-lactamase
+Lyase (EC 4)
+4.1 Dopa decarboxylase
+4.2 Carbonic anhydrase
+Miscellaneous
+Steroidogenesis inhibitor

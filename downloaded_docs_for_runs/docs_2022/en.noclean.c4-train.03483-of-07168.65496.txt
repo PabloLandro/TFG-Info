@@ -1,0 +1,181 @@
+Is breastfeeding stopping me getting pregnant again?
+Search
+Conditions
+Conditions
+Cancer
+Depression
+Diabetes
+Digestive Health
+Healthy Living
+Healthy Living
+Fitness
+Mental Health
+Wellbeing
+Healthy Eating
+Healthy Eating
+All Recipes
+Breakfasts
+Main Courses
+Starters and snacks
+Desserts
+Medicines
+Medicines
+Aches and Pains
+ADHD
+Allergy and Asthma
+Brain and Nervous system
+Cancer
+Depression
+Privacy Notice
+Cookies Policy
+Mental health
+Healthy Eating
+Family health
+Conditions
+Follow
+Type keyword(s) to search
+Is breastfeeding stopping me getting pregnant again?
+If you are very keen to become pregnant and you are not having periods at the moment, the best thing to do would be to reduce your breastfeeding...
+08/08/2014
+Question
+I was wondering how breastfeeding affects ovulation.
+I breastfeed my son usually only once or twice a day now (he is 20-months-old).
+If I am at home all day with him this may increase to four or five times.
+I have been trying to get pregnant for about five months now.
+Could the breastfeeding be suppressing ovulation or is it just by chance?
+I got pregnant with my son the first month of trying.
+Answer
+It is not clear from your letter whether or not you are having periods at the moment.
+Breastfeeding does affect your hormones and prolactin (the main hormone involved in milk production) does inhibit ovulation.
+Every woman is different in this respect, so that some women find their periods return as soon as they cut down their breastfeeding, eg when baby gets interested in solids, and some women find their periods do not return until they stop feeding altogether.
+If you are very keen to become pregnant and you are not having periods at the moment, the best thing to do would be to reduce your breastfeeding further or to stop.
+Once your periods return this implies that you are ovulating and likely to conceive again.
+If you are having regular periods then this would suggest that you are ovulating and could get pregnant at any time.
+Even if you are ovulating regularly, becoming pregnant in the first month of trying (as you did with your first child) is unusual and it is far more usual to wait for up to six months before you conceive.
+Try to relax and enjoy the time before you become pregnant again. Having conceived easily the first time it is unlikely that you will have difficulties conceiving in the future.
+Yours sincerely
+The NetDoctor Medical Team
+Other Qs & As
+Am I pregnant?
+Are there any sperm banks in the UK?
+Can an ovarian cyst stop me from conceiving?
+Can I be pregnant?
+Can I conceive whilst on HRT?
+Clomid hasn't helped me conceive - what else can I try?
+Conception problems with irregular periods
+Could I be pregnant?
+Could I still be pregnant despite my pregnancy test being negative?
+Did my ectopic pregnancy reduced my chances of conceiving?
+Do I ovulate too late in my cycle to conceive?
+Does delaying your sex life cause infertility?
+Does endometriosis affect fertility?
+Does Ginseng affect fertility?
+Does lithium affect chances of conception?
+Does smoking affect fertility?
+Fertility after abortion
+Fertility and breastfeeding
+Fertility query
+First signs of pregnancy
+Has Chlamydia made me infertile?
+Has my fertility been affected by the coil?
+Home pregnancy test
+How can I increase my sperm count?
+How can I maximise my chances of a healthy pregnancy?
+How does a doctor tell if you're pregnant
+How long before I can try to conceive again?
+How long should I wait to conceive after taking methotrexate?
+How sucessful is sperm extraction?
+I have PCOS: can I conceive?
+I have spina bifida and would like to have a child
+I sometimes produce milk; is this linked to problems conceiving?
+I want to conceive: what is the best position to make love in?
+I want to increase my chance to get pregnant
+I'm having trouble conceiving and I'm worried that I am not ovulating
+I'm on the Pill but I have regular periods. Am I pregnant?
+Is it safe to conceive soon after a caesarian section?
+Is my girlfriend pregnant?
+My infertility treatment hasn't worked. What happens now?
+No period since I came off the Pill
+One ovary and pregnancy
+Polio and infertility
+Polycystic ovaries and fertility
+Preparing for pregnancy
+Problems trying to conceive
+Queries about date of conception, and the need for dietary supplements
+The Pill: how long should I wait before trying to conceive?
+Trying to conceive
+We have been trying for a baby for eight months
+What are the best ways to try and conceive a girl?
+What are the chances
+What is the best way to come off the Pill so that I can conceive?
+What is the best way to get pregnant?
+What more can I do to have a baby?
+When am I most fertile?
+When am I most likely to conceive?
+When can I start trying to conceive again after my D
+When can you tell if you're pregnant?
+Why can't I conceive?
+Will it take me three years to conceive?
+Will the coil affect my pregnancy?
+Last updated 07.08.2014
+Advertisement - Continue Reading Below
+<% if (product.show_price && product.priceNoSymbol > 0) { %>
+(% off)
+<% var showPrice = item.data.content_product_review.product_review.show_price && (item.data.content_product_review.product_review.retailer.price > 0 || item.data.content_product_review.product_review.product.is_custom) %>
+(% off)
+rel="" >
+<%= item.data.dek.replace(/<p>/g, '<p class="item-info-dek">') %>
+More From Pregnancy and family
+Can you get pregnant 2 days before your period?
+Could my operation have affected my sperm count?
+Advertisement - Continue Reading Below
+Varicocele question
+Mesterolone
+Can working in a hot place make me infertile?
+Can I bank some sperm?
+Reverse vasectomy
+Can my treatment for epididymitis prevent my wife from conceiving?
+Sperm shortage
+Can sperm swim the wrong way?
+Pregnancy and family
+Ask the expert
+Can a breastfeeding woman get pregnant?
+Fertility and breastfeeding
+Pain after stopping breastfeeding
+Can oral sex get me pregnant?
+Getting pregnant
+Breastfeeding while pregnant – is it safe?
+Sexual Health
+Depression
+Beauty
+Weight Loss
+Procedures
+Healthy Living
+Ask the expert
+Healthy Eating
+Parenting
+Health Services
+Recipes
+Better Skin
+NetDoctor, part of the Hearst UK wellbeing network Netdoctor participates in various affiliate marketing programs, which means we may get paid commissions on editorially chosen products purchased through our links to retailer sites.
+©2019 Hearst UK is the trading name of the National Magazine Company Ltd, 30 Panton Street, Leicester Square, London, SW1Y 4AJ. Registered in England. All Rights Reserved
+About Netdoctor
+Disclaimer
+Terms & Conditions
+Privacy Notice
+Cookies Policy
+Contact
+Complaints
+Sitemap
+data-srcset="" />
+Created for Created by for Presented by Created by
++
+Created for Created by for Presented by Created by
++
+data-srcset="" />
+<% if (data.length > lowSlideCount) { %>
+of
+<%= item.data.dek.replace(/<img(.*?)>/g, '').replace(/
+/g, '
+') %>
+<% if (data.length > lowSlideCount) { %>

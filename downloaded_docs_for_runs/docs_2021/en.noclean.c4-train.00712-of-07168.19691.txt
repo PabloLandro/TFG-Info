@@ -1,0 +1,221 @@
+Selenium - New World Encyclopedia
+Menu
+Navigation
+Main Page
+Index of Articles
+Information Pages
+Random Article
+Feedback
+Contact
+Categories
+Art, music, literature, sports & leisure
+Biography
+Geography
+History
+Life sciences
+Philosophy and religion
+Physical sciences
+Politics and social sciences
+What links here
+Printable version
+Permanent link
+Selenium
+Previous (Selena)
+Next (Seleucid Empire)
+34 arsenic ← selenium → bromine
+S
+↑
+Se
+↓
+Te
+periodic table
+General
+Name, Symbol, Number selenium, Se, 34
+Chemical series nonmetals
+Group, Period, Block 16, 4, p
+Appearance gray-black, metallic luster
+Atomic mass 78.96(3) g/mol
+Electron configuration [Ar] 3d10 4s2 4p4
+Electrons per shell 2, 8, 18, 6
+Physical properties
+Phase solid
+Density (near r.t.) (gray) 4.81 g/cm³
+Density (near r.t.) (alpha) 4.39 g/cm³
+Density (near r.t.) (vitreous) 4.28 g/cm³
+Liquid density at m.p. 3.99 g/cm³
+Melting point 494 K
+(221 °C, 430 °F)
+Boiling point 958 K
+(685 °C, 1265 °F)
+Critical point 1766 K, 27.2 MPa
+Heat of fusion (gray) 6.69 kJ/mol
+Heat of vaporization 95.48 kJ/mol
+Heat capacity (25 °C) 25.363 J/(mol·K)
+Vapor pressure
+P/Pa 1 10 100 1 k 10 k 100 k
+at T/K 500 552 617 704 813 958
+Atomic properties
+Crystal structure hexagonal
+Oxidation states ±2, 4, 6
+(strongly acidic oxide)
+Electronegativity 2.55 (Pauling scale)
+Ionization energies
+(more) 1st: 941.0 kJ/mol
+2nd: 2045 kJ/mol
+3rd: 2973.7 kJ/mol
+Atomic radius 115 pm
+Atomic radius (calc.) 103 pm
+Covalent radius 116 pm
+Van der Waals radius 190 pm
+Miscellaneous
+Magnetic ordering no data
+Thermal conductivity (300 K) (amorphous)
+0.519 W/(m·K)
+Thermal expansion (25 °C) (amorphous)
+37 µm/(m·K)
+Speed of sound (thin rod) (20 °C) 3350 m/s
+Speed of sound (thin rod) (r.t.) 10 m/s
+Shear modulus 3.7 GPa
+Bulk modulus 8.3 GPa
+Poisson ratio 0.33
+Mohs hardness 2.0
+Brinell hardness 736 MPa
+CAS registry number 7782-49-2
+Notable isotopes
+Main article: Isotopes of selenium
+iso
+NA
+half-life
+DM
+DE (MeV)
+DP
+72Se syn 8.4 d ε - 72As
+γ 0.046 -
+74Se 0.87% Se is stable with 40 neutrons
+75Se syn 119.779 d ε - 75As
+γ 0.264, 0.136,
+0.279 -
+76Se 9.36% Se is stable with 42 neutrons
+77Se 7.63% Se is stable with 43 neutrons
+78Se 23.78% Se is stable with 44 neutrons
+79Se syn 1.13×106 y β- 0.151 79Br
+80Se 49.61% Se is stable with 46 neutrons
+82Se 8.73% 1.08×1020 y β-β- 2.995 82Kr
+Selenium (chemical symbol Se, atomic number 34) is a chemical element that is classified as a nonmetal. It is chemically related to sulfur and tellurium. Although toxic in excessive quantities, it is essential in trace amounts for the function of certain enzymes in humans and perhaps all other living organisms. It is therefore often added (in the form of sodium selenite) to vitamins and food supplements.
+Contents
+1 Occurrence
+2 Production
+3 History and global demand
+4 Notable characteristics
+4.1 Isotopes
+5 Selenium and health
+5.1 Toxicity
+5.2 Deficiency
+5.3 Controversial Health Effects
+5.3.1 Cancer
+5.3.2 HIV/AIDS
+6 Applications
+7 Compounds
+8 See also
+9 References
+10 External links
+11 Credits
+This element and its compounds have a wide range of applications. For example, selenium (or selenium dioxide) is used to impart a red color to glasses and enamels, and to remove the blue-green tinge in glass caused by ferrous impurities. It is an important catalyst for chemical reactions in industry as well as laboratory research. Combined with bismuth, it is added to brasses to replace lead. It is used in toners for photocopiers. Also, when used in the toning of photographic prints, it increases the permanence of the images. Selenium sulfide is an antifungal agent added to shampoos for the treatment of dandruff. Zinc selenide is used in light-emitting diodes, diode lasers, and X-ray and gamma-ray detectors.
+Elemental selenium in different allotropic forms: black, gray, and dark reddish.
+Occurrence
+In nature, selenium is not found in the free state, but it occurs naturally in a number of inorganic forms such as selenide, selenate, and selenite. In soils, selenium is found most often in soluble forms such as selenate (analogous to sulfate), which are easily leached into rivers by runoff.
+In living organisms, selenium is part of organic compounds such as dimethyl selenide, selenomethionine, and selenocysteine. In these compounds, selenium plays a role analogous to sulfur.
+Natural sources of selenium include certain selenium-rich soils, and selenium that has been bioconcentrated by certain toxic plants such as locoweed. Anthropogenic sources of selenium include coal burning and the mining and smelting of sulfide ores [1].
+Production
+Selenium is most commonly produced from selenides that are present in many sulfide ores, particularly those of copper, silver, and lead. It is obtained as a byproduct of processing of these ores, as it is extracted from the anode mud of copper refineries and the mud from the lead chambers of sulfuric acid plants. [2]. [3] [4]. These muds can be processed by various means to obtain free selenium.
+Commonly, production begins by oxidation with sodium carbonate to produce sodium selenite. The sodium selenite is then acidified with sulfuric acid (H2SO4) to produce selenous acid (H2SeO3). The selenous acid is finally bubbled with sulfur dioxide to produce red, amorphous selenium.
+History and global demand
+Selenium (Greek word σελήνη, selene, meaning "Moon") was discovered in 1817 by Jöns Jakob Berzelius, who found the element associated with tellurium (named for the Earth).
+Growth in selenium consumption was historically driven by steady development of new uses, including applications in rubber compounding, steel alloying, and selenium rectifiers. By 1970, selenium in rectifiers had largely been replaced by silicon, but its use as a photoconductor in plain-paper copiers had become its leading application. During the 1980s, the photoconductor application declined (although it was still a large end-use), as increasing numbers of copiers using organic photoconductors were produced. Currently, the largest use of selenium worldwide is in glass manufacturing, followed by uses in chemicals and pigments. Electronic use, despite a number of applications, is declining. [5]
+In 1996, research showed a positive correlation between selenium supplementation and cancer prevention in humans. Nonetheless, widespread direct application of this important finding did not add significantly to demand, owing to the small doses required. In the late 1990s, the use of selenium (usually with bismuth) as an additive to plumbing brasses to meet no-lead environmental standards, became important. At present, total global production of selenium continues to increase modestly.
+Notable characteristics
+In the periodic table, selenium is located in group 16 (formerly group 6A), between sulfur and tellurium. It is thus a member of the oxygen family of elements, also called the chalcogens. In addition, it lies between arsenic and bromine in period 4.
+When selenium is produced through chemical reactions, it invariably appears as the amorphous, reddish form—an insoluble, brick-red powder. When this form is rapidly melted, it converts to the black, vitreous (glasslike) form that is usually sold industrially as beads. The most thermodynamically stable and dense form of selenium is the electrically conductive gray (trigonal) form, composed of long, helical chains of selenium atoms. The conductivity of this form is notably light sensitive—it conducts electricity better in the light than in the dark, and it is used in photocells. Selenium also exists in three different, deep red, crystalline monoclinic forms, which are composed of eight-membered ring molecules (Se8), similar to many allotropes of sulfur. [6]
+Selenium can combine with metals and oxygen to form selenides (such as sodium selenide, Na2Se), selenates (such as calcium selenate, CaSeO4), and selenites (such as sodium selenite, Na2SeO3). In this regard, it is analogous to sulfur, which forms sulfides, sulfates, and sulfites. Selenium also forms hydrogen selenide (H2Se), a colorless, flammable gas that is the most toxic compound of selenium.
+Isotopes
+Selenium has at least 29 isotopes. Five of these are stable, and six are nuclear isomers (see table on the right).
+Selenium and health
+Although toxic in large doses, selenium is an essential micronutrient in all known forms of life. It is a component of the unusual amino acids selenocysteine and selenomethionine. In humans, selenium is a trace element nutrient that functions as a cofactor for reduction by antioxidant enzymes such as glutathione peroxidases and thioredoxin reductase. It also plays a role in the functioning of the thyroid gland by participating as a cofactor for thyroid hormone deiodinases [7]. Dietary selenium comes from cereals, meat, fish, and eggs. Liver and Brazil nuts are particularly rich sources of selenium. A list of selenium rich foods can be found at The Office of Dietary Supplements Selenium Fact Sheet.
+Selenium is widely used in vitamins and food supplements, in small doses—typically 50–200 micrograms per day for adult humans. The recommended dietary allowance for adults is 55 micrograms per day. Some livestock feeds are fortified as well.
+Toxicity
+Selenium is toxic if taken in excess. Exceeding the Tolerable Upper Intake Level of 400 micrograms per day can lead to selenosis [8] Symptoms of selenosis include a garlic odor on the breath, gastrointestinal disorders, hair loss, sloughing of nails, fatigue, irritability, and neurological damage. Extreme cases of selenosis can result in cirrhosis of the liver, pulmonary edema, and death.[9].
+Elemental selenium and most metallic selenides have relatively low toxicities, due to their low bioavailability. By contrast, selenates and selenites are very toxic, with modes of action similar to that of arsenic. Hydrogen selenide is an extremely toxic, corrosive gas[10]. Organic compounds such as dimethyl selenide, selenomethionine, and selenocysteine have high bioavailability and are toxic in large doses.
+Selenium poisoning of water systems may result from new agricultural runoff through normally dry lands. This process leaches natural soluble selenium into the water, which may then be concentrated in new "wetlands" as it evaporates. High selenium levels produced in this fashion have caused certain birth defects in wetland birds. [11]
+Deficiency
+Selenium deficiency is relatively rare in healthy, well-nourished individuals. It can occur in patients with severely compromised intestinal function, or those undergoing total parenteral nutrition. People dependent on food grown from selenium-deficient soil are also at risk.
+Deficiency in selenium can lead to Keshan disease, which is potentially fatal. It also contributes (along with iodine deficiency) to Kashin-Beck disease [12]. The primary symptom of Keshan disease is myocardial necrosis, which weakens the heart. Keshan disease also makes the body more susceptible to illness caused by other nutritional, biochemical, or infectious diseases. Kashin-Beck disease results in atrophy, degeneration*, and necrosis of cartilage tissue [13]. These diseases are most common in certain parts of China, where the soil is extremely deficient in selenium. Studies in Jiangsu Province of China have indicated a reduction in the prevalence of these diseases by taking selenium supplements. Selenium deficiency has also been associated with goiter, cretinism, and recurrent miscarriage in humans.[14]
+Controversial Health Effects
+Cancer
+Several studies have suggested a link between cancer and selenium deficiency [15][16] [17] [18] [19] [20] [21]. A study conducted on the effect of selenium suplementation on the recurrence of skin cancers did not demonstrate a reduced rate of reccurence of skin cancers, but did show a significantly reduced occurrence of total cancers [22]. Selenium may help prevent cancer by acting as an antioxidant or enhancing immune activity.
+Not all studies agree on the cancer-fighting effects of selenium. One long-term study of selenium levels in over 60,000 participants did not show any correlation between selenium levels and risk of cancer [23]. The SU.VI.MAX study [24] concluded that low-dose supplementation (with 120 mg of ascorbic acid, 30 mg of vitamin E, 6 mg of beta carotene, 100 µg of selenium, and 20 mg of zinc) resulted in a 31 percent reduction in the incidence of cancer and a 37 percent reduction in all-cause mortality in males, but did not get a significant result for females [25]. The SELECT study is currently investigating the effect of selenium and vitamin E supplementation on incidence of prostate cancer.
+HIV/AIDS
+Some research suggests a geographical link between regions of selenium-deficient soils and peak incidences of HIV/AIDS infection. For example, much of sub-Saharan Africa is low in selenium. On the other hand, Senegal is not, and it also has a significantly lower level of HIV infection than the rest of the continent. There could, however, be various other factors that contribute to lower incidence of AIDS in Senegal. Without clear evidence, it would be unwise to think that a diet with adequate amounts of selenium could protect individuals from AIDS infection.
+AIDS appears to involve a slow, progressive decline in levels of selenium in the body. Whether this decline in selenium levels is a direct result of HIV replication [26] or related more generally to the overall malabsorption of nutrients by AIDS patients remains a matter of debate.
+Low selenium levels in AIDS patients have been directly correlated with decreased immune cell count, increased disease progression, and increased risk of death[27]. Selenium normally acts as an antioxidant, so low levels of it may increase oxidative stress on the immune system, leading to more rapid decline of the immune system. Others have argued that HIV encodes for the human selenoenzyme glutathione peroxidase, which depletes the victim's selenium levels. Depleted selenium levels in turn may lead to a decline in CD4 helper T-cells, further weakening the immune system [28].
+Regardless of the cause of depleted selenium levels in AIDS patients, studies have shown that selenium deficiency strongly correlates with progression of the disease and the risk of death[29] [30] [31]. Selenium supplementation may help mitigate the symptoms of AIDS and reduce the risk of mortality. It should be emphasized that the evidence to date does not suggest that selenium can reduce the risk of infection or the rate of spread of AIDS, but selenium supplementation may help treat the symptoms of those who are already infected.
+Applications
+Coloration of glass and ceramics (currently the main use, worldwide)
+Selenium is used to give a red color to glasses and enamels
+It can also be used to remove color from glass, as it counteracts the green color imparted by ferrous impurities.
+Chemical reactions
+Selenium is a catalyst in many chemical reactions and is widely used in various industrial and laboratory syntheses.
+Manufacturing and materials
+Selenium is used with bismuth in brasses to replace lead, which is more toxic.
+It helps improve abrasion resistance in vulcanized rubbers.
+Electronics
+Selenium is used in toners for photocopying documents.
+Given its photovoltaic and photoconductive properties, it is used in photocells, light meters and solar cells.
+It was once widely used in rectifiers.
+These uses, however, have been or are being replaced by silicon-based devices.
+Photography
+Selenium increases the permanence of print photographic images and is used in the toning of photographic prints. It is sold as a toner by numerous manufacturers of photographic materials.
+Its artistic use intensifies and extends the tonal range of black-and-white photographic images.
+Compounds
+Mercury(II) selenide (HgSe): This gray-black solid acts as a semi-metal. It is produced when selenium is used in filters to remove mercury from exhaust gases at steel plants. It is toxic on account of its mercury content.
+Hydrogen selenide (H2Se): This colorless, flammable gas is the most toxic selenium compound. Its exposure limit is 0.3 ppm (parts per million) over an 8 hour period.
+Selenium dioxide (SeO2): It is a colorless solid. Each molecule solid consists of a polymeric chain of alternating selenium and oxygen atoms. It is an acidic oxide, dissolving in water to form selenous acid and reacting with base to form selenite (SeO32-). It is used to impart red color to glass and as a toner in photographic developing.
+Selenic acid (H2SeO4): It is similar to sulfuric acid, but it is a stronger oxidizer and more acidic. It forms salts called selenates, which are similar in solubility to the sulfates.
+Selenous acid (H2SeO3): It is analogous to sulfurous acid but is quite stable. It found as selenous acid molecules in solution and obtainable as a crystalline solid.
+Selenium sulfides (Se4S4, SeS2, Se2S6): Antifungal agent, often used in shampoos for the treatment of dandruff. At 2.5% strength, it is also used on the body to treat tinea versicolor, a fungal skin infection.
+Sodium selenite (Na2SeO3): It is a source of selenium in food supplements. In large doses, however, it is poisonous, as it attacks sulfhydryl enzymes in humans and animals.
+Zinc selenide (ZnSe): This light yellow solid is an intrinsic semiconductor. It is used to form II-VI light-emitting diodes and diode lasers. It is used as an infrared optical material with a wide transmission wavelength range (0.6 to 20 μm). When doped with chromium (ZnSe:Cr), it has been used as an infrared laser gain medium. When doped with tellurium (ZnSe:Te), it is a scintillator (emission peak at 640 nm) suitable for matching with photodiodes. It is used in X-ray and gamma ray detectors.
+See also
+Chemical element
+Periodic table
+References
+Los Alamos National Labs.Los Alamos National Labs Chemistry Division - Selenium Retrieved January 5, 2008.
+External links
+All links retrieved August 27, 2015.
+WebElements.com - Selenium
+National Institutes of Health page on Selenium
+Credits
+New World Encyclopedia writers and editors rewrote and completed the Wikipedia article in accordance with New World Encyclopedia standards. This article abides by terms of the Creative Commons CC-by-sa 3.0 License (CC-by-sa), which may be used and disseminated with proper attribution. Credit is due under the terms of this license that can reference both the New World Encyclopedia contributors and the selfless volunteer contributors of the Wikimedia Foundation. To cite this article click here for a list of acceptable citing formats.The history of earlier contributions by wikipedians is accessible to researchers here:
+Selenium history
+Mercury(II)_selenide history
+Hydrogen_selenide history
+Selenium_dioxide history
+Selenic_acid history
+Selenium_sulfide history
+Sodium_selenite history
+Zinc_selenide history
+The history of this article since it was imported to New World Encyclopedia:
+History of "Selenium"
+Note: Some restrictions may apply to use of individual images which are separately licensed.
+Retrieved from http://www.newworldencyclopedia.org/p/index.php?title=Selenium&oldid=990305
+Categories:
+Physical sciences
+Chemistry
+Earth sciences
+Chemical elements
+Credited
+This page was last modified on 27 August 2015, at 15:07.
+Content is available under Creative Commons Attribution/Share-Alike License; additional terms may apply. See Terms of Use for details.
+Privacy policy
+About New World Encyclopedia
+Disclaimers
+Powered by MediaWiki

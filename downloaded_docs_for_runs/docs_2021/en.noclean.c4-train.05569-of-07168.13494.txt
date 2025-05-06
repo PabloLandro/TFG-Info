@@ -1,0 +1,196 @@
+Folic Acid News
+Home
+About MedWorm
+Health News
+Specialties
+Conditions
+Cancers
+Infec. Diseases
+Procedures
+Therapies
+Nutrition
+Drugs
+Vaccines
+Management
+Training
+Countries
+any words all words exact phrase advanced  Advanced search can include the following:
+• OR operator: |
+• NOT operators: - OR !
+• phrase search: "breast cancer"
+• AND is implied so listing two words without another operator will search for records where both words are present.
+• use () to group words together:
+eg.(cancer|cancers)(cervical|cervix)!("Squamous cell carcinoma"|SCC)
+will return records where either the words 'cancer' or 'cancers' are present, plus the words 'cervical' or 'cervix', but not the phrase 'squamous cell carcinoma' or 'SCC'.
+• order operator: word1 << word2 << word3
+eg. chronic << (leukemia|leukaemia)
+here the word 'chronic' must come somewhere before either the work 'leukemia' or 'leukaemia'.
+• search on a specific field using any of the following: @item_headline @item_description @source @author @tags
+eg1. @item_headline "kidney cancer" @item_description (trial|trials)
+this searches for the phrase 'kidney cancer' in the title as well as either the word 'trial' or 'trials' in description.
+eg2. @(item_headline,item_description,tags) heart
+this searches for items where the word 'heart' exists in all of the headline, description and tags fields.
+eg3. @source "Journal of the American College of Cardiology"
+this searches for items where "Journal of the American College of Cardiology" is listed as the source.
+news research blogs podcasts video events funding alerts forums clinical trials
+Folic Acid News This is an RSS file. You can use it to subscribe to this data in your favourite RSS reader or to display this data on your own website or blog.
+News
+Research
+Blogs
+Podcasts
+Video
+Events
+Funding
+Alerts
+Clinical Trials
+Forums
+Pages: 1 2 3 4 5 6 7 8 9
+Folic Acid Tablets, USP (New - Discontinuation)
+Drug Shortage (Source: FDA Drug Shortages)
+Source: FDA Drug Shortages - April 19, 2019 Category: Drugs & Pharmacology Source Type: news
+Folic Acid (Folic Acid) - new on RxList
+(Source: RxList - New and Updated Drug Monographs)
+Source: RxList - New and Updated Drug Monographs - March 22, 2019 Category: Drugs & Pharmacology Source Type: news
+Vitamania: should we all be popping vitamin pills? – Science Weekly podcast
+With almost half of British adults taking a daily vitamin,Graihagh Jackson and guests examine our love of supplements - including recent announcments about fortifying flour with folic acidAlmost half of adults in Britain take vitamins every day and wespend more on supplements than painkillers. This spring, the government will discuss whether to fortify flour with folic acid. The aim of the proposal is to prevent birth defects such as spina bifida by increasing folate intake in pregnant women.Graihagh Jackson looks atthe history of vitamins withDr Salim Al-Gailanifrom the University of Cambridge, discusses the forthcoming g...
+Source: Guardian Unlimited Science - March 22, 2019 Category: Science Authors: Presented and produced by Graihagh Jackson Tags: Food science Diets and dieting Health & wellbeing Source Type: news
+Kidney disease hits 850 million people
+Diabetes, obesity, high blood pressure contributing to growing world burden Related items fromOnMedica Higher cancer risk from chronic diseases High-dose folic acid doesn ’t prevent pre-eclampsia Doubt over health benefits of non-sugar sweeteners Millions miss out on vital diabetes health checks Hospital transport service fails kidney patients (Source: OnMedica Latest News)
+Source: OnMedica Latest News - March 14, 2019 Category: UK Health Source Type: news
+Folic Acid in Early Pregnancy May Reduce Autism Recurrence (CME/CE)
+(MedPage Today) -- Suggestive association between folic acid supplementation in early pregnancy and lower risk of autism in high-risk families (Source: MedPage Today Neurology)
+Source: MedPage Today Neurology - March 7, 2019 Category: Neurology Source Type: news
+Nutritional supplements do NOT help stave off depression
+The Exeter University study of 1,000 people found the supplements, which contained folic acid, vitamin D, omega-3 fish oils, zinc and selenium, worked no better than the placebos. (Source: the Mail online | Health)
+Source: the Mail online | Health - March 5, 2019 Category: Consumer Health News Source Type: news
+Vitamins in Early Pregnancy and Autism Risk
+Study suggests (MedPage Today) -- but far from proves -- benefit from folic acid shortly after conception (Source: MedPage Today Psychiatry)
+Source: MedPage Today Psychiatry - February 27, 2019 Category: Psychiatry Source Type: news
+Pregnant women urged to take daily supplement of folic acid to prevent birth defects
+(Natural News) Some very common types of birth defects that can occur during pregnancy are neural tube defects. In an effort to curb the prevalence of these defects, new government guidelines strongly suggest that women who are planning to get pregnant, or currently are pregnant, should begin supplementing their diet with folic acid. According to... (Source: NaturalNews.com)
+Source: NaturalNews.com - February 27, 2019 Category: Consumer Health News Source Type: news
+Study: Taking Prenatal Vitamins Early In Pregnancy Associated With Lower Autism Risk
+(CNN) — Taking prenatal vitamins during the first month of pregnancy is associated with a lower risk of developing autism in children who are at high risk for the disorder, according to a new study. Researchers followed 241 children whose older siblings had a diagnosis of autism and who therefore had an increased risk of being diagnosed with the disorder. The researchers evaluated the children’s development starting at 6 months through 3 years of age. At the same time, the moms were asked through phone interviews and mailed questionnaires about prenatal vitamin use. Approximately 1 in every 4 children enrolled ...
+Source: WBZ-TV - Breaking News, Weather and Sports for Boston, Worcester and New Hampshire - February 27, 2019 Category: Consumer Health News Authors: Health – CBS Boston Tags: Health News Autism CNN Pregnancy Source Type: news
+Expectant moms may prevent neural tube defects in their babies by supplementing with inositol plus folic acid
+(Natural News) Mothers only want what’s best for their children. Many of them start taking supplements during their pregnancy — even prior to it — to ensure that their child is born as healthy as possible. Folic acid supplements are essential for preventing neural tube defects like spina bifida and anencephaly. This severe congenital malformation affects... (Source: NaturalNews.com)
+Source: NaturalNews.com - February 27, 2019 Category: Consumer Health News Source Type: news
+British government urged to add folic acid to white bread as a public health measure; proponents say it would save hundreds of lives each year
+(Natural News) A study carried out by researchers from the Queen Mary University of London have called on the U.K., as well as other countries, to look at the mandatory fortification of flour with folic acid to curb spina bifida cases and other neural tube defects (NTDs). The study, which was published in Public Health, explained that an earlier... (Source: NaturalNews.com)
+Source: NaturalNews.com - January 27, 2019 Category: Consumer Health News Source Type: news
+B-group vitamins can improve concentration among people with first episode psychosis
+(Orygen, the National Centre of Excellence in Youth Mental Health) The study, led by Dr Colin O'Donnell, now at Letterkenny University Hospital, and Dr Kelly Allott from Orygen, explored the impact of increasing a person's intake of vitamins B12, B6, and folic acid [vitamin B9] after studies in people with schizophrenia revealed that increased intake of these vitamins could decrease patients' levels of an amino acid called homocysteine and improve their symptoms. (Source: EurekAlert! - Social and Behavioral Science)
+Source: EurekAlert! - Social and Behavioral Science - January 14, 2019 Category: International Medicine & Public Health Source Type: news
+Guidelines for a Healthy Pregnancy
+FRIDAY, Dec. 28, 2018 -- If you're pregnant you already know the importance of eating a healthful diet and taking prenatal vitamins, including folic acid and possibly B12 and iron supplements. What not to do isn't always clear, however. There's no... (Source: Drugs.com - Daily MedNews)
+Source: Drugs.com - Daily MedNews - December 28, 2018 Category: General Medicine Source Type: news
+Does folic acid prevent childhood obesity?: Mayo Clinic Radio Health Minute
+Health care professionals have known for decades that women of childbearing age should take folic acid, because it reduces a baby's risk of being born with the neural tube defect, spina bifida. New research shows there may be another good reason for mothers-to-be to take the mineral ? it may prevent obesity in children. In [...] (Source: News from Mayo Clinic)
+Source: News from Mayo Clinic - November 29, 2018 Category: Databases & Libraries Source Type: news
+Home Remedies: Can folic acid supplements slow cognitive decline?
+QUESTION: I've heard that folic acid supplements can improve cognitive function in older adults. Could those with Alzheimer's disease also benefit from folic acid? ANSWER: There's no conclusive evidence that?folic acid supplements?improve cognitive function in older adults or in people with Alzheimer's disease or other types of dementia. Blood levels of folate are classified as [...] (Source: News from Mayo Clinic)
+Source: News from Mayo Clinic - November 28, 2018 Category: Databases & Libraries Source Type: news
+BiferaRx (Folic acid Heme Iron polypeptide Iron Dextran, Cyanocobalamin Tablets) - new on RxList
+(Source: RxList - New and Updated Drug Monographs)
+Source: RxList - New and Updated Drug Monographs - November 8, 2018 Category: Drugs & Pharmacology Source Type: news
+Medical News Today: Methotrexate and folic acid for rheumatoid arthritis
+Doctors sometimes prescribe methotrexate for rheumatoid arthritis (RA), but it can lead to folic acid deficiencies. Learn more about managing this and other side effects. (Source: Health News from Medical News Today)
+Source: Health News from Medical News Today - October 29, 2018 Category: Consumer Health News Tags: Rheumatoid Arthritis Source Type: news
+Folic acid may be added to flour: government to consult
+Flour may be fortified with folic acid to prevent birth defects such as spina bifida Related items fromOnMedica Gestational weight loss or gain linked to poor outcome in children UK lagging behind peers on child health Caffeine in pregnancy linked to risk of child overweight Maximum folate intake advice based on ‘flawed’ analysis, say researchers High gluten intake during pregnancy associated with diabetes (Source: OnMedica Latest News)
+Source: OnMedica Latest News - October 24, 2018 Category: UK Health Source Type: news
+FDA Allows Food Makers to Fortify Corn Masa, but Few Do FDA Allows Food Makers to Fortify Corn Masa, but Few Do
+Two years after the Food and Drug Administration allowed manufacturers to add folic acid, a crucial B vitamin that prevents terrible birth defects, to their corn flour, very few have done so.Kaiser Health News (Source: Medscape Medical News Headlines)
+Source: Medscape Medical News Headlines - October 23, 2018 Category: Consumer Health News Tags: Ob/Gyn & Women ' s Health News Source Type: news
+Plans to fortify flour with folic acid to slash the risk of birth defects moves a step closer
+Steve Brine, UK health minister, has today announced the Government will next year consult the public on the idea of adding folic acid into flour in order to reduce birth defects. (Source: the Mail online | Health)
+Source: the Mail online | Health - October 23, 2018 Category: Consumer Health News Source Type: news
+Government to consult on fortifying flour with folic acid
+The government has announced that it will consult on the mandatory fortification of flour with folic acid to prevent foetal abnormalities such as spina bifida. (Source: Nursing Times)
+Source: Nursing Times - October 23, 2018 Category: Nursing Source Type: news
+Will folic acid ever be added to UK flour?
+After repeated calls by health campaigners, the government says it will now consult on the issue. (Source: BBC News | Health | UK Edition)
+Source: BBC News | Health | UK Edition - October 23, 2018 Category: Consumer Health News Source Type: news
+DR ELLIE CANNON: Is it too late for my pregnant daughter to take folic acid?
+My daughter has just discovered she is eight weeks pregnant. We’re delighted but I’m worried as she hasn’t been taking folic acid supplements. Should she start now or is it too late? (Source: the Mail online | Health)
+Source: the Mail online | Health - October 20, 2018 Category: Consumer Health News Source Type: news
+Pre-eclampsia linked to raised risk of vascular dementia
+Ask about history to help identify women who might benefit from early clinical intervention Related items fromOnMedica Caffeine in pregnancy linked to risk of child overweight High-dose folic acid doesn ’t prevent pre-eclampsia Parity lower in women with unfavourable lipid profile Most CCGs missing smoking target for pregnant women One in two women and one in three men will develop neurological disease (Source: OnMedica Latest News)
+Source: OnMedica Latest News - October 18, 2018 Category: UK Health Source Type: news
+U.S. folic acid supplementation effort may not be reaching Hispanic women
+(Reuters Health) - Corn masa flour and tortillas sold in U.S. grocery stores may not be fortified with folic acid, which means a government effort to help reduce birth defects among Hispanic babies may not be working as intended, a small study suggests. (Source: Reuters: Health)
+Source: Reuters: Health - October 16, 2018 Category: Consumer Health News Tags: healthNews Source Type: news
+Here's what you need to know about the new superflour
+The UK could soon become the first country in Europe to bring in mandatory fortification of flour with folic acid, the Mail reported yesterday. But what will this new policy mean for everyone? (Source: the Mail online | Health)
+Source: the Mail online | Health - October 15, 2018 Category: Consumer Health News Source Type: news
+Perspectives on adding folic acid to flour to prevent spinal bifida | Letters
+Dr JK Anand, Chris Pageand Pam Lunnreflect on the UK government ’s decisionOf course the planned fortification of flour with folic acid will help – where the cause of spina bifida is nutritional deficiency of folic acid (All UK flour to be given folic acid additive, 15 October). However, it can not conceivably prevent the defect where it is due to genetic factors – two defective genes from two parents coming together.In some parts of the world consanguineous marriages are commoner than in others. An academic paper in the Journal of Health, Population and Nutrition (Vol 32, No 2, June 2014) by Nazish Jabee...
+Source: Guardian Unlimited Science - October 15, 2018 Category: Science Authors: Letters Tags: Health Pregnancy Disability Society Food Parents and parenting Family & wellbeing Life and style Children Genetics Science Source Type: news
+Folic acid should be promoted on social media
+SPD Development surveyed almost 11,500 women about folic acid. It presented the findings at the annual meeting of the American Society for Reproductive Medicine in Denver today. (Source: the Mail online | Health)
+Source: the Mail online | Health - October 10, 2018 Category: Consumer Health News Source Type: news
+Folic acid supplements during pregnancy found to impart huge psychological benefits to children
+(Natural News) Hey, mommies: Don’t stop taking your folic acid. The synthetic form of vitamin B9, otherwise known as folate, is typically recommended a month before conceiving and three months into the pregnancy. This is to prevent neural tube defects (NTDs) in the child such as spina bifida and anencephaly. However, a team from Ulster... (Source: NaturalNews.com)
+Source: NaturalNews.com - October 7, 2018 Category: Consumer Health News Source Type: news
+Folic Acid Injection (Updated - Resolved)
+Drug Shortage (Source: FDA Drug Shortages)
+Source: FDA Drug Shortages - September 27, 2018 Category: Drugs & Pharmacology Source Type: news
+High-Dose Folic Acid Does Not Prevent High Blood Pressure of Pregnancy
+Some studies suggest that taking high doses of folic acid can prevent pre-eclampsia, but a randomized trial found it did not. (Source: NYT Health)
+Source: NYT Health - September 18, 2018 Category: Consumer Health News Authors: NICHOLAS BAKALAR Tags: Folic Acid Pregnancy and Childbirth Source Type: news
+Taking folic acid does not prevent pre-eclampsia, study finds
+Taking high dose supplements of folic acid does not protect pregnant women from pre-eclampsia, a new study has found. (Source: Nursing Times)
+Source: Nursing Times - September 17, 2018 Category: Nursing Source Type: news
+Folic Acid Past First Trimester Doesn't Prevent Preeclampsia
+FRIDAY, Sept. 14, 2018 -- Supplementation with folic acid beyond the first trimester does not prevent preeclampsia among high-risk women, according to a study published online Sept. 12 in The BMJ. Shi Wu Wen, Ph.D., from the Ottawa Research... (Source: Drugs.com - Pharma News)
+Source: Drugs.com - Pharma News - September 14, 2018 Category: Pharmaceuticals Source Type: news
+High-Dose Folic Acid Flops for Preeclampsia Prevention
+(MedPage Today) -- No reduced risk of preeclampsia with treatment vs placebo for high-risk women (Source: MedPage Today OB/GYN)
+Source: MedPage Today OB/GYN - September 14, 2018 Category: OBGYN Source Type: news
+Folic Acid Won't Curb Dangerous Pregnancy Complication
+THURSDAY, Sept. 13, 2018 -- High doses of folic acid do not protect pregnant women against a sometimes deadly complication called preeclampsia, a large trial suggests. The finding frustrates the search for an effective way to prevent preeclampsia,... (Source: Drugs.com - Daily MedNews)
+Source: Drugs.com - Daily MedNews - September 13, 2018 Category: General Medicine Source Type: news
+Women at high risk of pre-eclampsia are not protected by high dose folic acid
+A study, published in theBMJ, suggests that women at high risk of pre-eclampsia are not protected from the condition by supplementing with high doses of folic acid.MedicalXpress (Source: Society for Endocrinology)
+Source: Society for Endocrinology - September 13, 2018 Category: Endocrinology Source Type: news
+High-dose folic acid doesn ’t prevent pre-eclampsia
+But women should still take supplements before and in early pregnancy to prevent neural tube defects Related items fromOnMedica Caffeine in pregnancy linked to risk of child overweight Most CCGs missing smoking target for pregnant women MHRA tightens licence restrictions on valproate for women Poor vitamin D levels linked to adverse pregnancy outcomes GPs often missing best option for heavy periods (Source: OnMedica Latest News)
+Source: OnMedica Latest News - September 13, 2018 Category: UK Health Source Type: news
+Extra folic acid taken during pregnancy doesn't prevent pre-eclampsia, trial shows
+For women who are at risk for pre-eclampsia, there is no benefit to being on a high dose of folic acid, a Canadian-led international study finds. (Source: CBC | Health)
+Source: CBC | Health - September 13, 2018 Category: Consumer Health News Tags: News/Health Source Type: news
+MRI reveals antipsychotic benefits of cannabis
+With the help of MRI, researchers from King's College London found that one...Read more on AuntMinnie.comRelated Reading: MRI brain scans show benefits of prenatal folic acid MRI of cortical folds may help predict psychosis DTI-MRI poses new cause for schizophrenia MRI reveals how schizophrenia may improve fMRI shows brain activity in early psychosis (Source: AuntMinnie.com Headlines)
+Source: AuntMinnie.com Headlines - August 30, 2018 Category: Radiology Source Type: news
+Folic Acid in Pregnancy May Prevent Language Delay With AEDs Folic Acid in Pregnancy May Prevent Language Delay With AEDs
+Taking folic acid in the the periconceptional period and first trimester of pregnancy was associated with a large reduction in risk for language delay in the offspring of women taking antiepileptic drugs, according to a new study.Medscape Medical News (Source: Medscape Neurology and Neurosurgery Headlines)
+Source: Medscape Neurology and Neurosurgery Headlines - August 3, 2018 Category: Neurology Tags: Neurology & Neurosurgery News Source Type: news
+Folate May Limit Language Delays in Kids of Epileptic Women (CME/CE)
+(MedPage Today) -- Not using folic acid before and during pregnancy increased risks substantially (Source: MedPage Today OB/GYN)
+Source: MedPage Today OB/GYN - August 1, 2018 Category: OBGYN Source Type: news
+Folic Acid Supplements in Pregnancy Help Kids of Women With Epilepsy
+WEDNESDAY, Aug. 1, 2018 -- Drugs taken in pregnancy to prevent epilepsy seizures can raise the risk of language delays in children. But new research shows that folic acid supplements can cut that risk. One U.S. ob/gyn said the finding has real... (Source: Drugs.com - Daily MedNews)
+Source: Drugs.com - Daily MedNews - August 1, 2018 Category: General Medicine Source Type: news
+MRI shows how kids compensate for dyslexia
+Using MRI, an international team of researchers believe they have found the...Read more on AuntMinnie.comRelated Reading: MRI shows the uniqueness of brain anatomy MRI brain scans show benefits of prenatal folic acid MRI reveals how schizophrenia may improve Could brain imaging predict future behavior? fMRI investigates roots of dyslexia (Source: AuntMinnie.com Headlines)
+Source: AuntMinnie.com Headlines - July 26, 2018 Category: Radiology Source Type: news
+MRI connects autism with deficit in brain reward pathway
+MRI scans revealed that the social impairment common to children with autism...Read more on AuntMinnie.comRelated Reading: MRI brain scans show benefits of prenatal folic acid DTI-MRI finds abnormal brain connections in autistic kids MRI reveals key brain differences in people with genetic autism MRI links early brain abnormality in infants to autism DTI shows how music could help kids with autism, ADHD (Source: AuntMinnie.com Headlines)
+Source: AuntMinnie.com Headlines - July 17, 2018 Category: Radiology Source Type: news
+PET, MRI combine to predict drug efficacy
+Through a combination of PET and MRI, Canadian researchers are developing a...Read more on AuntMinnie.comRelated Reading: MRI brain scans show benefits of prenatal folic acid MRI of cortical folds may help predict psychosis MRI shows brain changes after 1 season of youth football MRI, radiomics help diagnose, discern ADHD subtypes MRI reveals how schizophrenia may improve (Source: AuntMinnie.com Headlines)
+Source: AuntMinnie.com Headlines - July 11, 2018 Category: Radiology Source Type: news
+MRI shows the uniqueness of brain anatomy
+MRI scans of some 200 healthy older adults revealed that each person's brain...Read more on AuntMinnie.comRelated Reading: MRI brain scans show benefits of prenatal folic acid MRI of cortical folds may help predict psychosis MRI shows brain changes after 1 season of youth football MRI, radiomics help diagnose, discern ADHD subtypes MRI reveals how schizophrenia may improve (Source: AuntMinnie.com Headlines)
+Source: AuntMinnie.com Headlines - July 11, 2018 Category: Radiology Source Type: news
+Prenatal Folic Acid Fortification May Affect Cortical Development
+Flatter thinning profiles linked to lower odds of psychosis spectrum symptoms in offspring (Source: The Doctors Lounge - Psychiatry)
+Source: The Doctors Lounge - Psychiatry - July 9, 2018 Category: Psychiatry Tags: Family Medicine, Gynecology, Neurology, Nursing, Pediatrics, Psychiatry, Journal, Source Type: news
+Prenatal Folic Acid Fortification May Affect Cortical Development
+MONDAY, July 9, 2018 -- Gestational exposure to folic acid fortification is associated with cortical development, according to a study published online July 3 in JAMA Psychiatry. Hamdi Eryilmaz, Ph.D., from the Massachusetts General Hospital in... (Source: Drugs.com - Pharma News)
+Source: Drugs.com - Pharma News - July 9, 2018 Category: Pharmaceuticals Source Type: news
+Folic Acid Benefits Go Beyond Preventing Birth Defects (CME/CE)
+(MedPage Today) -- Positive effects seen in brain development, later-life mental health (Source: MedPage Today Psychiatry)
+Source: MedPage Today Psychiatry - July 5, 2018 Category: Psychiatry Source Type: news
+Pages: 1 2 3 4 5 6 7 8 9
+MedWorm Privacy Policy Disclaimer Copyright © MedWorm 2006-2019

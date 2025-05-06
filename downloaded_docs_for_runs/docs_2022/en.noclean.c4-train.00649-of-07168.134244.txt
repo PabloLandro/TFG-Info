@@ -1,0 +1,38 @@
+How To Fix Your Stuff - Many uses of WD40
+Warning: fread(): Length parameter must be greater than 0 in /var/www/html/includes/app.php on line 22
+Notice: Undefined index: dyk_rows in /var/www/html/includes/app.php on line 72
+Home News Tool Box About Search Tweet
+Automotive
+Computer
+Electronics
+Food and Cooking
+Home Improvement
+Household
+Personal Finance
+Pets and Animals
+Pool and Spa
+Recreation Vehicle - RV
+How To Videos
+SUBMIT ARTICLE Newsletter Signup
+Newsletter Archive
+DIY Links and Resources
+Advertise Here
+Enter your
+Part number
+Many Uses for WD40 Around the House
+FIX IT WITH WD-40 !
+What is WD-40? WD-40 stands for "Water Displacement, 40th attempt"
+Bet you didn't know WD-40 would do this:
+Protects silver from tarnishing
+Keeps flies off cows
+Removes lipstick stains
+Removes dirt & grime from barbecue grill
+Keeps glass shower doors free of water spots
+Removes tomato stains from clothing
+Removes "bug guts" from your car
+Keeps bathroom mirror from fogging
+Keeps pigeons off the balcony (they hate the smell)
+Folks even spray it on their arms, hands & knees to relieve arthritis pain
+Use it for fire ant bites. It takes the sting away
+Of course, it lubricates almost anything
+Fatal error: Uncaught Error: Call to undefined function mysql_pconnect() in /var/www/html/includes/mydb.inc:10 Stack trace: #0 /var/www/html/includes/htfys_author.htm(2): require_once() #1 /var/www/html/htfys/household/wd40.php(37): include('/var/www/html/i...') #2 {main} thrown in /var/www/html/includes/mydb.inc on line 10

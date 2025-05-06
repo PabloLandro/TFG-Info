@@ -1,0 +1,99 @@
+Fuel Blending - Ethanol Vs. Methanol - WanderGlobe
+FOLLOW US
+Email: info@wanderglobe.org
+WanderGlobe
+Explore The World
+Toggle Navigation
+Travel
+Home Stuff
+Home Improvement
+Bathroom
+Cleaning
+Kitchen
+Lawn
+Moving
+Pest Control
+Health & Fitness
+Health
+Fitness
+Sports
+Yoga
+Food & Drinks
+Drink
+Juice
+Food
+Recipe
+Learn
+Automotive
+Business
+Career
+Education
+Marketing
+Technology
+Android
+Game
+Media
+Write For Us
+January 18, 2019
+Fuel Blending – Ethanol Vs. Methanol
+Ethanol and methanol may sound virtually the same and look similar if you place these colourless liquids in a glass, but they are quite different in a number of ways. Knowing the differences is crucial, as incorrect use could have dangerous or even fatal consequences.
+Both are variants of alcohol. Methanol consists of a single carbon atom, while ethanol is made up of two carbon atoms. Commercial ethanol is produced by the fermentation of food crops, while methanol is created from synthetic processes. They each have different characteristics and uses.
+Appearance
+Although both ethanol and methanol look and smell the same and are extremely volatile, if you burn ethanol it has a bright blue flame, while methanol burns as a bright white flame.
+Reaction with Water
+If you mixed ethanol with water, these two substances would blend to form a homogenous solution. On the other hand, methanol is soluble in water, meaning it will break down.
+Uses and Effects
+Ethanol is an ingredient included in alcoholic drinks that makes you feel intoxicated. It is safe to consume in small doses. However, methanol is a poisonous chemical and should never be consumed, inhaled or in contact with your skin, as it can cause blindness or even death, even in small amounts.
+Aside from being used in alcoholic drinks, ethanol made from sugarcane or corn is often used as a type of fuel for use in internal combustion engines. Some cars are made to take 85% ethanol fuel blending, for example. Ethanol is also used for rocket fuels. Although ethanol fuel contains much lower energy content compared to gasoline, governments have introduced subsidies and tax incentives to promote the economics of producing ethanol as a fuel source.
+Many types of cleaning products, including hand wipes and gels, also contain ethanol, as it is found to contain antiseptic properties. Ethanol is also used in perfumes and pains, as it serves as a reliable solvent.
+Methanol is also used as a solvent but is mainly used to create other chemicals like formaldehyde.
+Like ethanol, methanol is used as a fuel, particularly for race cars. This is because it is much less flammable than gasoline and can easily be extinguished with water.
+While methanol has just half the energy content per gallon of gasoline, ethanol has two-thirds the intensity of gasoline.
+Although both ethanol and methanol are useful energy sources, ethanol is much more commonly used as a motor fuel source than methanol. However, the future role of ethanol within the automobile fuel blending industry remains uncertain. Methanol in the form of MTBE added to gasoline has been vastly reduced since the 1990s, as it was discovered this could contaminate groundwater. While methanol plays only a small role in combustion fuel, it is being considered for use in experimental fuel-cell technologies.
+Under close inspection, ethanol and methanol may seem similar, but they are actually vastly different. Although they have different properties, characteristics and uses, they have both been used as fuel blending sources for the automotive industry.
+Author: admin
+Filed Under: Automotive, Business
+Tags: Automotive Industry, Fuel Blending
+How To Turn Professional Office Training Into Team Building
+4 Tips to Motivate Your Employees
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Name*
+Email Address*
+Website
+Comment
+Save my name, email, and website in this browser for the next time I comment.
+Categories
+Categories Select CategoryAndroid (16)Automotive (45)Bathroom (14)Business (104)Career (15)Cleaning (14)Drink (12)Education (16)Event (11)Fashion (23)Finance (43)Fitness (30)Food (38)Game (9)Health (133)Home Improvement (174)Juice (2)Kitchen (27)Law (5)Lawn (14)LifeStyle (25)Makeup (5)Marketing (33)Media (17)Mind (7)Moving (19)News (40)Pest Control (5)Pet (5)Property (20)Recipe (10)Relationship (3)Sports (14)Technology (66)Travel (113)Wedding Planning (13)Yoga (5)
+Recent Posts
+Does Your Home Appliance Need a Protection Plan?
+Types of Tea and their Health Benefits
+How to Select Right Glass Side Table Design for Small Office Rooms
+Archives
+Archives Select Month April 2019 (46) March 2019 (71) February 2019 (55) January 2019 (74) December 2018 (100) November 2018 (72) October 2018 (65) September 2018 (33) August 2018 (57) July 2018 (60) June 2018 (53) May 2018 (41) April 2018 (20) March 2018 (26) February 2018 (26) January 2018 (19) December 2017 (37) November 2017 (31) October 2017 (24) September 2017 (19)
+Notice: JavaScript is required for this content.
+Tweets by WanderGlobePage
+CONTACT US
+Email
+info@wanderglobe.org
+Address
+New York, NY, USA
+Home
+Automotive
+Education
+Food
+Finance
+Fitness
+Health
+Home Improvement
+Marketing
+Technology
+Write For Us
+Contact Us
+FOLLOW US
+Copyright © 2018 WanderGlobe | Contact Us | Write For Us | Sitemap
+{{{ data.beforeFields }}}
+<# /* * Render our error section if we have an error. */ #>
+<# /* * Render any custom HTML after our field. */ #> {{{ data.afterField }}}
+<# /* * Render our Description Text. */ #> {{{ data.renderDescText() }}}
+{{{ data.renderElement() }}}

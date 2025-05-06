@@ -1,0 +1,158 @@
+Zinc | Nutrient Reference Values
+Skip to main content
+Search form
+Search
+Nutrient Reference Values
+for Australia and New Zealand
+Toggle navigation
+Home
+Nutrients
+Dietary Energy
+Chronic Disease
+Introduction
+Micronutrients & Dietary Fibre
+Macronutrient Balance
+Summary
+Calculator
+Resources
+Glossary
+NRV Summary Tables
+Contact
+Search
+Search
+Quick Links
+Nutrients
+Dietary Energy
+Calculator
+Resources
+Site Map
+Download as PDF
+Home
+Nutrients
+Zinc
+Zinc
+Background
+Zinc is a component of various enzymes that help maintain structural integrity of proteins and regulate gene expression. Zinc metalloenzymes include ribonucleic acid polymerases, alcohol dehydrogenase, carbonic anhydrase and alkaline phosphatase. The biological function of zinc can be catalytic, structural or regulatory. More than 85% of total body zinc is found in skeletal muscle and bone (King & Keen 1999).
+Zinc is widely distributed in foods. Meats, fish and poultry are the major contributors to the diet but cereals and dairy foods also contribute substantial amounts. The presence of zinc in foods as a complex rather than as free ions affects its bioavailability. The environment within the gastrointestinal tract, which can be affected by other dietary constituents, markedly influences the solubility and absorptive efficiency of zinc (Cousins 1989, Lonnerdal 1989). The amount of protein in the diet is a factor contributing to the efficiency of zinc absorption as zinc binds to protein. Small changes in protein digestion may produce significant changes in zinc absorption (Sandstrom & Lonnerdal 1989). The markedly greater bioavailability of zinc from breast milk than from cow's milk is an example of how the lower protein digestibility of cow's milk influences zinc absorption (Roth & Kirchgessner 1985). In general, zinc absorption from a diet high in animal protein will be greater than from a diet rich in plant derived proteins (King & Keen 1999). The requirement for dietary zinc may be as much as 50% greater for vegetarians, particularly strict vegetarians whose major staples are grains and legumes and whose dietary phytate:zinc ratio exceeds 15:1.
+Dietary intake of iron at levels found in some supplements can decrease zinc absorption, which is of particular concern in the management of pregnancy and lactation. High intakes of calcium have been shown to have a negative effect on zinc absorption in animal experiments, but human data are equivocal with calcium phosphate decreasing zinc absorption (Wood & Zheng 1997) and calcium as citrate-malate complex having no effect (McKenna et al 1997). Current data suggest that consumption of calcium-rich diets does not have a major effect on zinc absorption at an adequate intake level. There is also some evidence of potential interrelationship of zinc with copper and folate, but studies are limited. Regulation of zinc metabolism is achieved through a balance of absorption and secretion of reserves and involves adaptive mechanisms related to dietary zinc intake.
+Zinc depletion in humans results in reduced endogenous zinc loss and increased efficiency of intestinal zinc absorption. While plasma zinc is only 1% of the body's total, its concentration is tightly regulated and is generally not affected by mild deficiency. Situations of stress, acute trauma and infection can lead to lower plasma zinc. Mild deficiency can result in impaired growth velocity, suboptimal pregnancy outcomes and impaired immune responses. Severe deficiency can result not only in growth impairment but also alopecia, diarrhoea, delayed sexual development and impotency, eye and skin lesions and impaired appetite.
+Assessment of requirements is based on estimates of the minimal amount of absorbed zinc necessary to match total daily excretion of endogenous zinc (FNB:IOM 2001). Estimates are made using a factorial approach that involves calculation of both intestinal and non-intestinal losses (via the kidney, skin, semen and menstruation). Although urinary zinc losses decrease markedly with severe deficiency (Baer & King 1984), across a dietary intake range of 4-25 mg/day, urinary zinc (and non-intestinal losses in general) appears to be largely independent of dietary intake. Intestinal losses, however, correlate strongly to absorbed zinc.
+To determine the dietary zinc requirement for a given age/gender group, it is necessary to define the relationship between absorption and intestinal losses and adjust by a constant for the non-intestinal losses in order to calculate the minimum quantity of absorbed zinc necessary to offset total endogenous losses. The factorial calculations used are based on metabolic/tracer studies in which participants are fed diets from which the bioavailability of zinc is likely to be representative of typical diets in Australia and New Zealand.
+1 mmol zinc = 65.4 mg zinc
+Recommendations by life stage and gender
+Infants
+Age
+AI
+0-6months 2.0 mg/day
+Rationale: The AI for 0-6 months was calculated by multiplying together the average intake of breast milk (0.78 L/day) and the average concentration of zinc in breast milk in the early months postpartum, and rounding. Concentrations of zinc in breast milk decline from approximately 4 mg/L at 2 weeks to 3 mg/L at 1 month, 2 mg/L at 2 months, 1.5 mg/L at 3 months and 1.2 mg/L at 6 months postpartum (Krebs et al 1995). The AI was set to match the zinc intake of infants in the early months (2.5 mg/L x 0.78 L/day). This estimate is also consistent with factorial estimates of requirements in infants aged 0-6 months fed breast milk (Krebs et al 1996, Krebs & Hambridge 1986). Although the absorption of zinc is higher from breast milk than from infant formula based on cow's milk or soy, these formulas generally have a much higher content of zinc than breast milk which compensates for the lower absorption efficiency (Lonnerdal et al 1988, Sandstrom et al 1983).
+Infants
+Age
+EAR
+RDI
+7-12 months 2.5 mg/day 3 mg/day
+Rationale: The EAR for 7-12 months was set by estimating the absorbable zinc required to replace endogenous zinc losses, extrapolating on a body weight basis from adult data and including considerations of growth needs, assuming an absorption of 30% (Davidsson et al 1996, Fairweather-Tait et al 1995) and making an allowance for growth. The RDI was set using a CV of 10% for the EAR and rounding, as information was not available on the SD of the requirement. Absorption is higher from animal foods than plants sources, so vegetarian infants, particularly strict vegetarians, will need higher intakes.
+Children & adolescents
+Age
+EAR
+RDI
+All
+1-3 yr 2.5 mg/day 3 mg/day
+4-8 yr 3.0 mg/day 4 mg/day
+Boys
+9-13 yr 5 mg/day 6 mg/day
+14-18 yr 11 mg/day 13 mg/day
+Girls
+9-13 yr 5 mg/day 6 mg/day
+14-18 yr 6 mg/day 7 mg/day
+Rationale: The absorbed zinc requirement was estimated by summing the estimated non-intestinal (urinary, integument, semen for men ) and intestinal zinc losses to derive total endogenous losses. Endogenous losses for children were calculated using reference weights with an additional requirement for growth The EAR was then estimated assuming an absorption of 24% for boys and 31% for girls (International Zinc Nutrition Consultative Group 2004), and rounding. The RDI was set on the unrounded EAR using a CV of 10% for the EAR and rounding, as information was not available on the SD of the requirement. Absorption is higher from animal foods than plants sources, so vegetarians, particularly strict vegetarians, will need intakes about 50% higher than those set.
+Adults
+Age
+EAR
+RDI
+Men
+19-30 yr 12 mg/day 14 mg/day
+31-50 yr 12 mg/day 14 mg/day
+51-70 yr 12 mg/day 14 mg/day
+>70 yr 12 mg/day 14 mg/day
+Women
+19-30 yr 6.5 mg/day 8 mg/day
+31-50 yr 6.5 mg/day 8 mg/day
+51-70 yr 6.5 mg/day 8 mg/day
+>70 yr 6.5 mg/day 8 mg/day
+Rationale: The absorbed zinc requirement was estimated by summing the estimated non-intestinal (urinary, integument, semen for men ) and intestinal zinc losses to derive total endogenous losses. The EAR was then estimated assuming an absorption of 24% for men and 31% for women (IZiNCG 2004), and rounding. The RDI was set on the unrounded EAR using a CV of 10% for the EAR and rounding up, as information was not available on the SD of the requirement. Absorption is higher from animal foods than plants sources, so vegetarians, particularly strict vegetarians, will need intakes about 50% higher than those set.
+Pregnancy
+Age
+EAR
+RDI
+14-18 yr 8.5 mg/day 10 mg/day
+19-30 yr 9.0 mg/day 11 mg/day
+31-50 yr 9.0 mg/day 11 mg/day
+Rationale: The EAR was established by estimating the needs for the additional maternal and foetal tissues and adding this to the equivalent EAR for non-pregnant females. The figure used was based on late pregnancy estimates of zinc accumulation (the period of greatest need) to give a single recommendation throughout pregnancy. Zinc accumulation at this time averages 0.73 mg/day (Swanson & King 1987). Absorption in pregnancy is thought to be similar to that of non-pregnant women, so an absorption rate of 31% was used to estimate the additional requirement of 2.35 mg/day. Absorption is higher from animal foods than plant sources, so vegetarians, particularly strict vegetarians, will need intakes about 50% higher than those set.
+Note: For women taking high levels of iron supplements during pregnancy and lactation, the current EAR and thus RDI may not be adequate. There is some evidence that high levels of iron supplements prescribed to pregnant and lactating women may decrease zinc absorption. (Fung et al 1997, Hambidge et al 1983, O'Brien et al 2000)
+Lactation
+Age
+EAR
+RDI
+14-18 yr 9 mg/day 11 mg/day
+19-30 yr 10 mg/day 12 mg/day
+31-50 yr 10 mg/day 12 mg/day
+Rationale: The lactation recommendation was based on consideration of the additional needs for milk production together with estimates of zinc released for use because of decreasing maternal blood volume (King & Turland 1989). This averages about 30 mg zinc that can be re-used. The average increased requirement for absorbed zinc is 1.35 mg/day. Absorption is about 42% in lactation (Fung et al 1997), giving an additional dietary zinc requirement of 3.2 mg/day. Absorption is higher from animal foods than plants sources, so vegetarians, particularly strict vegetarians, will need intakes about 50% higher than those set.
+Upper Level of Intake
+Age
+UL
+Infants
+0-6 months 4 mg/day
+7-12 months 5 mg/day
+Children and adolescents
+1-3 yr 7 mg/day
+4-8 yr 12 mg/day
+9-13 yr 25 mg/day
+14-18 yr 35 mg/day
+Adults 19+ yr
+Men 40 mg/day
+Women 40 mg/day
+Pregnancy
+14-18 yr 35 mg/day
+19-50 yr 40 mg/day
+Lactation
+14-18 yr 35 mg/day
+19-50 yr 40 mg/day
+Rationale: There is no evidence of adverse effects from naturally occurring zinc in food. The UL applies to total zinc intake from food, water and supplements (including fortified food). Adverse events associated with chronic intake of supplemental zinc include suppression of immune response, decrease in high density lipoprotein (HDL) cholesterol and reduced copper status. The adverse effect of excess zinc on copper metabolism has been identified as the critical effect on which to base the UL. This is based on the consistency of findings (Fischer et al 1984, Samman & Roberts 1988, Yadrick et al 1989), the sensitivity of the marker used (erythrocyte copper-zinc superoxide dismutase) and the quality and completeness of the database for this endpoint. A LOAEL of 60 mg/day is based on the studies of Yadrick et al (1989) and is supported by other studies (Fischer et al 1984). A UF of 1.5 is applied to account for inter-individual variability in sensitivity and for extrapolation from LOAEL to NOAEL. As reduced copper status is rare in humans, a higher UF was unjustified. The adult UL was therefore set at 40 mg/day. There was inadequate data to justify a different UL for pregnancy and lactation and so the level is set at that for the equivalent non-pregnant women.
+A study by Walravens & Hambridge (1976) of 68 infants, showed no adverse effects at a level of 5.8 mg zinc/L of infant formula fed for 6 months. This would translate to a NOAEL of 4.5 mg/day at 0.78 L milk per day. A UF of 1 was applied, given the length and quality of the study and the fact that there is no evidence of harm from intakes of formula at 5.8 mg zinc/L. Rounding down, a UL of 4 mg was therefore set for infants of 0-6 months. As there were no data for older children and adolescents, this figure was adjusted on a body weight basis, for older infants, children and adolescents and values rounded down. Lind et al (2003) showed in a double-blind RCT that plasma copper does not differ between infants receiving 10 mg Zn/day or placebo. However Bhandari et al (2002) reported lower copper levels in children of 6-12 month given 10 mg zinc/day and those of 1-2.5 years given 20 mg/day over 4 months.
+References
+Baer MT, King JC. Tissue zinc levels and zinc excretion during experimental zinc depletion in young men. Am J Clin Nutr 1984;39:556-70.
+Bhandari N, Bahl R, Taneja S, Strand T, Molbak K, Ulvik RJ, Sommerfelt H, Bhan MK. Substantial reduction in severe diarrheal morbidity by daily zinc supplementation in young north Indian children. Pediatr 2002;109:E86.
+Cousins RJ. Theoretical and practical aspects of zinc uptake and absorption. Adv Exp Med Biol 1989;249:3-12.
+Davidsson L, MacKenzie J, Kastenmayer P, Aggett PJ, Hurrell RF. Zinc and calcium apparent absorption from an infant cereal: A stable isotope study in healthy infants. Br J Nutr 1996;75:291-300.
+Fairweather-Tait SAJ, Wharf SJ, Fox TE. Zinc absorption in infants fed iron-fortified weaning food. Am J Clin Nutr 1995;62;785-9.
+Fischer PWF, Giroux A, L'Abbe MR. Effect of zinc supplementation on copper excretion and retention in men. Am J Clin Nutr 1984;40:743-6.
+Food and Nutrition Board: Institute of Medicine. Dietary Reference Intakes for Vitamin A, Vitamin K, Arsenic, Boron, Chromium, Copper, Iodine, Iron, manganese, Molybdenum, Nickel, Silicon, Vanadium and Zinc. Washington, DC: National Academy Press, 2001.
+Fung EB, Ritchie LD, Woodhouse LR, Roehl R, King JC. Zinc absorption in women during pregnancy and lactation Am J Clin Nutr 1997;66:80-8.
+Hambidge KM, Krebs NF, Jacobs MA, Favier A, Guyette L, Ikle DN. Zinc nutrition status during pregnancy: A longitudinal study. Am J Clin Nutr 1983;37:429-42.
+Hambidge KM, Krebs NF, Lilly JR, Zerbe GO. Plasma and urine zinc in infants and children with extrahepatic biliary atresia. J Pediatr Gastrenterol Nutr 1987;6:872-7.
+International Zinc Nutrition Consultative Group (IZiNCG). Hotz C and Brown K eds. Assessment of the risk of zinc deficiency in populations and options for its control. Technical Document #1. Food and Nutrition Bulletin 2004;25: S99-S199.
+King JC, Keen CL. Zinc. In: Shils ME, Olsen JAS, Shike M, Ross AC eds. Modern Nutrition in Health and Disease 9th edition. Baltimore: Williams & Wilkins, 1999. Pp 223-39.
+King JC, Turland JR. Human zinc requirements. In: Mills CE, ed. Zinc in Human Biology, London: Springer-Verlag, 1989. Pp 335-50.
+Krebs NF, Hambridge KM. Zinc requirements and zinc intakes of breast-fed infants. Am J Clin Nutr 1986;43:2988-92.
+Krebs NF, Reidinger CJ, Hartley S, Robertson AD, Hambridge KM. Zinc supplementation during lactation: effects on maternal status and milk zinc concentrations. Am J Clin Nutr 1995;61:1030-6.
+Krebs NF, Reidinger CJ, Miller LV, Hambridge KM. Zinc homeostasis in breast-fed infants. Pediatr Res 1996;39:661-5.
+Lind T, Lonnerdal B, Stenlund H, Ismail D, Seswandhana R, Ekstrom E-C, Persson L-A. A community-based, randomized controlled trial of iron and/or zinc supplementation of Indonesian infants - interactions between iron and zinc. Am J Clin Nutr 2003;77:
+883-90.
+Lonnerdal B, Bell JG, Hendrikkx AG, Burns RA, Keen CL. Effect of phytate removal on zinc absorption from soy formula. Am J Clin Nutr 1988;48:1301-6.
+Lonnerdal B. Intestinal absorption of zinc. In: Mills CF ed. Zinc in Human Biology. New York: Springer-Verlag, 1989. Pp 33-55.
+McKenna AA, Illich JZ, Andon MB, Wang C, Matkovic V. Zinc balance in adolescent females consuming a low-or high-calcium diet. Am J Clin Nutr 1997;65:1460-4.
+O'Brien KO, Zavaleta N, Caulfield LE, Wen J, Abrams SA. Prenatal iron supplements impair zinc absorption in pregnant Peruvian women. J Nutr 2000;130:2251-5.
+Roth HP, Kirchgessner M. Utilization of zinc from picolinic or citric acid complexes in relation to dietary protein sources in rats. J Nutr 1985;115:1641-9.
+Samman S, Roberts DCK. The effect of zinc supplements on copper levels and the reported symptoms in healthy volunteers. Med J Aust 1988;146:246-9.
+Sandstrom B, Cederblad A, Lonnerdal B. Zinc absorption from human milk, cow's milk and infant formulas. Am J Dis Child 1983;137:726-9.
+Sandstrom B, Lonnerdal B. Promoters and antagonists of zinc absorption. In: Mills CF ed. Zinc in Human Biology. New York: Springer-Verlag, 1989. Pp 57-78
+Swanson CA, King JC. Zinc and pregnancy outcomes. Am J Clin Nutr 1987;46:763-71.
+Walravens PA, Hambridge KM. Growth of infants fed a zinc supplemented formula. Am J Clin Nutr 1976;29:1114-21.
+Wood RJ, Zheng JJ. High dietary calcium intakes reduce zinc absorption and balance in humans. Am J Clin Nutr 1997;65:1803-9.
+Yadrick MK, Kenney MA, Winterfeldt EA. Iron, copper and zinc status: response to supplementation with zinc or zinc and iron in adult females. Am J Clin Nutr 1989;49:145-50.
+Page Updated: 09-04-2014
+Accessibility
+Disclaimer Notice
+Privacy
+Security
+Email:dietaryguidelines@nhmrc.gov.au or info@health.govt.nz

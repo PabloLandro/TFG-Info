@@ -1,0 +1,79 @@
+EMFs | A Practical Spirituality for Busy People in Everyday Life
+Toggle navigation
+ConsciousLiving101
+Home
+About Patricia
+Sessions
+Meditation
+PEMF
+What are EMFs?
+Products
+Press & Media
+Events
+Testimonials
+Contact
+EMFs
+Harmful Electromagnetic Fields (EMF) Are All Around Us!
+“Electromagnetic pollution (EMF) may be the most significant form of pollution human activity has produced this century, all the more dangerous because it is invisible and insensible.” Dr. Andrew Weil
+Scientifically, everything on earth is comprised of electromagnetic energy — including our bodies’ cells, which communicate using electromagnetic frequencies. If these cells are “talking” normally, our bodies have the ability to repair and heal on their own. If communication is infringed our bodies become susceptible to disease.
+That is the effect of ‘electrosmog’, which has been shown to disturb the body’s natural energetic field, leading to stress, fatigue, impaired cognitive function, impaired immune system, DNA changes and degenerative diseases. The World Health Organization and International Agency for Research on Cancer are concerned! In 2011, these organizations reported that cell phones might indeed cause cancer.
+Harmful Electromagnetic Fields (EMF) are all around us, imperceptible to the human eye!
+It is a fact that many people have become completely dependent on mobile devices and accessing the web via WiFi, but are completely ignorant to the man-made danger called electrosmog, which is associated with these devices. In 2009, the World Health Organization reported an estimated 4.6 billion cell phone subscriptions globally. Also, factor in that one of the first things people ask when they visit your home, check into hotels and even dine at restaurants is, “Do you have WiFi?”
+It is difficult to limit exposure to electrosmog. With cell towers all around us, WIFI necessary for our laptops, tablets and cell phones we are living in what I call ‘a WIFI soup’.
+Rapid Aging Syndrome
+Wireless radiation is damaging our cells!
+“electrosmog from wireless radiation has been confirmed to impair cognitive functions, including slowing response times to a spatial working memory task.”
+Electrosmog and wireless radiation are hot topics in scientific and medical communities. At New York City’s Columbia University, Dr. Martin Blank and Dr. Reba Goodman study how electromagnetic fields can affect and damage cells even at intensities so low that our senses can’t detect them. The doctors concluded that in reaction to EMFs, cells create the same stress proteins as when exposed to heat, toxins or the wrong pH. How does this affect us? In 2009 at the Catholic University of America in Washington, DC then Emeritus Professor of Physics and Bioelectromagnetics Dr. Ted Litovitz found that when a cell is subjected to too much stress, the cell becomes less able to protect itself and this impairs the strength of our immune system. More specifically, in a study by Israeli researchers, electrosmog from wireless radiation has been confirmed to impair cognitive functions, including slowing response times to a spatial working memory task.
+The World Health Organization reports that cell phones might cause cancer
+Even the World Health Organization and International Agency for Research on Cancer are concerned about electrosmog. In 2011, the organizations reported that cell phones might indeed cause cancer, classifying radio frequency electromagnetic fields as “possibly carcinogenic to humans” (Class 2B).
+It is time to be proactive! Individuals can limit exposure to electrosmog in several ways:
+Turn off cell phones or tablets when not in use or turn on airline mode.
+Keep cellphones away from your head and out of bras and pockets.
+Use speaker phone or earbuds for calls rather than Bluetooth headset.
+Do not sleep with wireless devices near you.
+Keep cellphones and tablets away from small children.
+Use hardwired Internet connections for computers in your home instead of WiFi.
+Pregnant women should keep wireless devices away from abdomen.
+Turn wireless router off at night.
+Avoid cordless phones.
+Do not place a wireless baby monitor by your child’s bed. Use a wired monitor instead.
+While limiting exposure to electrosmog is recommended, it is not possible to avoid completely! There is technology that combats its negative effects. Pulsated electromagnetic field (PEMF) therapy involves laying on a whole body mat or pillow, such as the iMRS system from Swiss Bionic Solutions, which delivers beneficial EMFs to the body. Scientifically created, these EMFs are biologically identical to the frequencies created by our bodies’ cells, organs, bone and tissues. PEMF therapy counters electrosmog by increasing oxygenation to the blood, improving circulation and cell metabolism. Consequently, cells properly function — decreasing inflammation, relieving pain, enhancing tissue and bone healing as well as promoting peaceful sleeping patterns and increased levels of energy.
+Free Gift:
+Breath Meditation
+Enter your first name and primary email address below to download this meditation:
+Email
+First Name
+No Spam Policy: We will never, ever share your information!
+Patricia Ann White
+As an Intuitive Holistic Energy Therapist and a Teacher of Conscious Living- practical spirituality, I share Wisdom and tools from my diverse experiences in ‘the field’ assisting you to understand and strengthen your connection with yourSelf and your world on all levels – physical, mental, emotional and spiritual.
+This process of renewed Self-Empowerment may be achieved through the holistic energy sessions I offer, and through scheduled workshops and classes, so that you can move forward with the healing you, as a unique individual, are seeking and with more Grace, Power, Strength and Clarity than you thought was possible.
+Introducing
+The iMRS
+Eight minutes of relaxing on the whole body mat allows cell function to be completely optimized for up to six hours.
+More Info
+© 2017 ConsciousLiving101 | All right reserved.
+Developed by PeytonCreativity
+{{{ success_message.replace("{name}", optin_name) }}}
+<# if(elements.indexOf("image") !== -1){ #>
+<# } #> <# if(optin_title || optin_message){ #>
+<# if(optin_title){ #>
+{{optin_title}}
+<# } #> <# if(optin_message){ #>
+{{{optin_message}}}
+<# } #>
+<# } #>
+<# if( has_args ){ #>
+<# if(elements.indexOf("first_name") !== -1){ #>
+First Name
+<# } #> <# if(elements.indexOf("last_name") !== -1){ #>
+Last Name
+<# } #>
+E-mail
+<# } else { #> <# if(elements.indexOf("first_name") !== -1){ #>
+First Name
+<# } #> <# if(elements.indexOf("last_name") !== -1){ #>
+Last Name
+<# } #>
+E-mail
+Sign Up
+<# } #>

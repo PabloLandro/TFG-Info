@@ -1,0 +1,89 @@
+6 Flu Myths and Facts for Seniors | Silver Cuisine Blog
+Caregiving
+Health
+Healthy Living
+Healthy Eating
+Shop Silver Cuisine
+Search
+Sign in
+Welcome! Log into your account
+your username
+your password
+Forgot your password? Get help
+Password recovery
+Recover your password
+your email
+A password will be e-mailed to you.
+Silver Cuisine Blog
+Caregiving
+Health
+Healthy Living
+Healthy Eating
+Shop Silver Cuisine
+Home Healthy Living 6 Flu Myths and Facts for Seniors
+Healthy Living
+6 Flu Myths and Facts for Seniors
+The seriousness of flu in the elderly population cannot be understated. Silver Cuisine is resolving flu myths and facts to ensure you and your loved one take the appropriate, safe steps during the flu season!
+By
+Silver Team
+Share on Facebook
+Tweet on Twitter
+The seriousness of flu in the elderly population cannot be understated, as people aged 65 years and older are at the greatest risk of serious complications from the flu, including hospitalizations and even death. The scare and worry of the flu may impede on what we settle as fact and fiction, and may cause more harm if the virus is misunderstood or disregarded. But Silver Cuisine is resolving flu myths and facts to ensure you and your loved one take the appropriate, safe steps during the flu season!
+6 Flu Myths and Facts for Seniors
+Claim #1: The best way for preventing the flu is by getting the flu shot.
+FACT: That’s correct! The best way for preventing the flu is by getting the flu shot according to the Centers for Disease Control and Prevention (CDC). Though everyone aged six months and older are encouraged to get the flu shot, the CDC highly recommends people 65 or older to get the vaccine, as they are at a high risk for complications from the flu. Two vaccines are designed specifically for those 65 and older, including the “Fluzone High-Dose Seasonal Influenza Vaccine,” and “FLUAD™” Flu Vaccine with Adjuvant, which may result in more of the mild side effects that can occur with the standard shot. Seniors should not get the nasal spray, intradermal flu shot, or jet injector flu vaccine. Anyone providing care should also get the flu shot to prevent the risk of flu in seniors and spreading the virus.
+Claim #2: The flu shot is all you need to protect yourself from the flu.
+MYTH: While the shot is the best way to prevent against the flu virus, practicing good health habits can also protect yourself and others from the flu and help stop the spread of germs. Individuals are encouraged to avoid close contact with others, stay at home when sick, cover the mouth and nose when coughing and sneezing, wash hands regularly, and avoid touching the eyes, nose, and mouth to help stop the spread of germs. Cleaning and disinfecting commonly touched surfaces, getting enough sleep, filling the diet with nutrient-rich foods, being physically active, and managing stress also additional ways to halt germs within their tracks.
+Claim #3: Flu symptoms are significantly different in the senior population.
+MYTH: While flu symptoms can vary from person to person, those who have the flu experience similar symptoms. Common symptoms include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, fatigue, vomiting, and diarrhea. Some individuals may also experience respiratory symptoms even in absence of a fever.
+Claim #4: Seniors are more likely to have problems from the flu compared to other populations.
+FACT: While the flu is dangerous for all, seniors aged 65 and older and at a greater risk of serious complications from the flu compared to younger adults, particularly related to a weaker immune system that comes with advancing age. Recognized complications include falls, respiratory infections, pneumonia, myocarditis, encephalitis, rhabdomyolysis, organ failure, and sepsis, which may result in hospitalization and potentially death. In fact, it has been estimated between 54 percent and 70 percent of seasonal flu-related hospitalizations have occurred in people aged 65 and older, with an estimated 71 percent and 85 percent of seasonal flu-related deaths according to the CDC’s estimates based on a flu-related data published in PLOS ONE. That being said, it is highly encouraged to implement flu treatments immediately, including medical evaluations and antiviral drugs.
+Claim #5: The flu vaccine also protects against the pneumococcal virus.
+MYTH: The flu shot and pneumococcal vaccination are two separate shots. So in addition to getting the flu shot, people aged 65 and older should be current with their pneumococcal vaccination(s). Doing so can prevent against forms of pneumococcal disease, including pneumonia, which is a serious flu-related complication that may lead to death. Talk with your senior’s primary care providers to make sure all vaccinations are up-to-date, along with discussing any other vaccinations that may be recommended.
+Claim #6: Feed a cold, starve a fever.
+MYTH: What a wives’ tale this is… Starving yourself amidst a fever is not recommended. Seniors are already at risk of loss of appetite and malnutrition and depriving the body from calories and nutrients can snowball the risk of health complications. If feeling nauseas, start with clear foods and work up to small volumes of bland foods, such as those in the BRAT diet (bananas, rice, applesauce, and toast), as tolerated. Protein sources can also keep the body strong, while vitamin C, selenium, and zinc-rich foods can help boost the immune system. Hydration is also key, particularly related to a loss of fluids from the fever itself and respiratory tract evaporation, along with diarrhea and vomiting if present.
+SHARE
+Facebook
+Twitter
+tweet
+Previous article7 Tips for Keeping Seniors Busy and Active
+Next articleThe Best Core Exercises for Seniors
+Silver Team
+RELATED ARTICLESMORE FROM AUTHOR
+Running Program for Seniors (and Beginners)
+Light Jogging May Lead To A Longer Life
+7 Ways to Keep Your Memory Sharp at All Ages
+Categories
+Caregiving
+Healthy Eating
+Healthy Living
+Senior Health
+Archives
+February 2019
+January 2019
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+February 2017
+January 2017
+October 2016
+September 2016
+© 2017 Silver Cuisine
+'); var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) { return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,''); }); splited_css += ""; } var td_theme_css = jQuery('link#td-theme-css'); if (td_theme_css.length) { td_theme_css.after(splited_css); } } }); } })();

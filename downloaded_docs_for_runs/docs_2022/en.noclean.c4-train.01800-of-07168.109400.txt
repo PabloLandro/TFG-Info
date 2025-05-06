@@ -1,0 +1,127 @@
+Top 14 Superfoods for Eye HealthBB 20";padding-right:7px}.sidebar ul>li:last-child{margin-bottom:0}.sidebar .widget{border-bottom:1px solid #eee;margin-bottom:37px;padding-bottom:37px}.sidebar a{color:#010101;font-weight:600}.sidebar .search-form{width:100%}.sidebar .widget_search{border:0}@media only screen and (min-width:1200px){#before-header{visibility:visible}}@media only screen and (max-width:1200px){.site-inner,.wrap{max-width:1040px;overflow:hidden}.content,.site-header .widget-area{width:620px}.genesis-nav-menu a{padding:17px}.sidebar-primary{width:300px}}@media only screen and (max-width:1023px){.content,.sidebar-primary,.site-header .widget-area,.site-inner,.title-area,.wrap{width:100%}.site-inner{padding-left:5%;padding-right:5%}.entry,.sidebar .widget,.site-header{padding:10px 0}.genesis-nav-menu li{float:none}.genesis-nav-menu,.site-header .title-area,.site-title{text-align:center}}@media only screen and (max-width:940px){nav{display:none;position:relative}.genesis-nav-menu{border:none}.genesis-nav-menu .menu-item{border-bottom:1px solid #eee;display:block;position:relative;text-align:left}.site-header .widget-area{width:100%}.genesis-nav-menu .search-form{border:0;float:right;width:100%;padding:20px 10px}}@media only screen and (max-width:767px){#before-header{display:none}}@media only screen and (max-width:420px){#before-header{display:none}}@media only screen and (min-width:1023px){.sidebar-primary{font-size:.8em}}.single .post h1{font-size:2em}.wp-block-media-text .wp-block-media-text__media{grid-area:media-text-media;margin:0}.wp-block-media-text .wp-block-media-text__content{word-break:break-word;grid-area:media-text-content;padding:0 8%}#cookie-notice{display:block;visibility:hidden;position:fixed;min-width:100%;height:auto;z-index:100000;font-size:13px;line-height:20px;left:0;text-align:center}.cn-bottom{bottom:0}.cookie-notice-container{padding:10px;text-align:center;width:100%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.cn-button.wp-default{box-shadow:none;text-decoration:none}#cookie-notice .cn-button{margin-left:10px}.cn-button.wp-default{font-family:sans-serif;line-height:18px;padding:2px 12px;background:linear-gradient(to bottom,#FEFEFE,#F4F4F4) repeat scroll 0 0 #F3F3F3;border-color:#BBB;color:#333;text-shadow:0 1px 0 #FFF;-moz-box-sizing:border-box;border-radius:3px 3px 3px 3px;border-style:solid;border-width:1px;display:inline-block;font-size:12px;font-style:normal;text-decoration:none;white-space:nowrap;outline:none}@media all and (max-width:900px){.cookie-notice-container #cn-notice-text{display:block;margin-bottom:5px}#cookie-notice .cn-button{margin-left:5px;margin-right:5px}}.swp_social_panel{clear:both;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;height:34px;line-height:1;margin-bottom:20px!important;margin-top:20px!important;overflow:hidden;padding:0;-webkit-align-items:stretch;align-items:stretch;-webkit-box-align:stretch;-moz-box-align:stretch;-webkit-box-pack:justify;-moz-box-pack:justify;direction:ltr;-ms-flex-align:stretch;-ms-flex-line-pack:center;-ms-flex-pack:justify;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-justify-content:space-between;justify-content:space-between}.swp_social_panel:not(.nc_floater):not(.swp_social_panelSide){width:100%!important}div.swp_social_panel .nc_tweetContainer:not(.total_shares):not(.total_sharesalt){-webkit-border-radius:2px;border-radius:2px;float:left;font-family:Lato;height:32px;margin:0 5px 3px 5px;min-width:34px;overflow:hidden;text-align:center}div.swp_social_panel:not(.swp_social_panelSide) .nc_tweetContainer{-webkit-box-flex:1;-moz-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}.swp_social_panel .nc_tweetContainer a.nc_tweet,.swp_social_panel .total_shares .swp_count{display:block;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;font-family:Lato,sans-serif;font-size:18px!important;font-weight:700;height:30px;text-decoration:none;text-decoration:none!important;text-transform:none;-webkit-box-direction:normal;-moz-box-direction:normal;-webkit-box-orient:horizontal;-moz-box-orient:horizontal;-webkit-flex-flow:row wrap;-ms-flex-flow:row wrap;flex-flow:row wrap;box-shadow:none}.swp_social_panel:not(.swp_social_panelSide) .nc_tweetContainer:nth-child(1){margin-left:0}.swp_social_panel:not(.swp_social_panelSide) .nc_tweetContainer:nth-last-child(1){margin-right:0}.swp_social_panel a .swp_count:not(.swp_hide){display:inline-block;line-height:32px;margin:0;padding:0 5px;-webkit-box-flex:1;-moz-box-flex:1;-webkit-flex:1;-ms-flex:1;flex:1}.swp_social_panel a .swp_count.swp_hide{margin:0 auto}.swp_social_panel span:before{content:initial!important}.swp_social_panel .total_shares .swp_count{line-height:30px}.swp_social_panel span.swp_count{font-size:14px}.swp_social_panel span.iconFiller{font-size:18px;margin:0 auto}.swp_social_panel:not(.swp_social_panelSide) div.total_shares.total_sharesalt:nth-last-child(1){margin-right:0;padding-right:0}span.swp_share{display:block;float:right;float:left;font-size:14px;font-weight:400;height:30px;line-height:30px;margin:0 0 0 6px;max-width:none!important;vertical-align:middle}.swp_social_panel .sw{float:left;height:30px;line-height:32px;margin:0 5px;text-shadow:none!important;width:20px}.iconFiller{display:block;float:left;height:30px;overflow:hidden}.swp_social_panel .iconFiller{width:30px}span.spaceManWilly{display:block;width:120px}.swp_social_panel .total_shares{background:transparent!important;;border:none!important;-webkit-border-radius:2px;border-radius:2px;color:#fff;display:block;font-size:19px;padding:0 10px;-webkit-box-flex:0!important;-moz-box-flex:0!important;-webkit-flex:none!important;-ms-flex:none!important;flex:none!important}.swp_social_panel .total_sharesalt{background:transparent!important;border:none!important}.swp_social_panel div.total_shares.total_sharesalt{background:transparent!important;border:none;color:#474b4d;margin-left:0!important;margin-bottom:10px!important}.swp_social_panel .total_shares.total_sharesalt .swp_label{color:#474b4d;font-size:10px;letter-spacing:0;min-width:40px;vertical-align:middle}.swp_social_panel .total_shares .swp_label{font-size:10px;vertical-align:middle}.swp_social_panel .total_shares.total_sharesalt .swp_count{color:#474b4d;font-size:24px}.swp_social_panel .nc_tweetContainer.total_shares.total_sharesalt:before{content:"o";display:inline-block;font-family:sw-icon-font;margin-top:7px;vertical-align:top}.swp_social_panel:not(.swp_social_panelSide) .total_shares.total_sharesalt .swp_count{display:inline-block;line-height:0;margin-left:8px;margin-top:12px;min-width:45px;position:relative;vertical-align:middle}span.swp_label{display:block;font-size:9px!important;margin-top:13px;position:absolute;text-align:center!important;text-transform:uppercase}.swp_connected .nc_tweetContainer{-webkit-border-radius:0!important;border-radius:0!important;border-width:1px;margin:0!important}.swp_social_panel.swp_default_full_color .swp_twitter{background:#429cd6;border:1px solid #3c87b2}.swp_social_panel.swp_default_full_color .swp_facebook{background:#4267B2;border:1px solid #2e4675}.swp_social_panel.swp_default_full_color .swp_pinterest{background:#cd2029;border:1px solid #aa1b29}.swp_social_panel.swp_default_full_color .swp_mix{background:#f4812c;border:1px solid #c96a29}.swp_social_panel.swp_default_full_color .swp_yummly{background:#e26426;border:1px solid #b65027}.swp_social_panel.swp_default_full_color .swp_flipboard{background:#e02828;border:1px solid #bf2626}.sw{display:inline-block;font-family:sw-icon-font!important;font-size:inherit;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-style:normal;font-weight:400;text-rendering:auto;text-transform:none!important;-ms-transform:translate(0,0);-webkit-transform:translate(0,0);transform:translate(0,0)}.sw:before{display:block!important}i.swp_pinterest_icon:before{content:"b"}i.swp_twitter_icon:before{content:"s"}i.swp_facebook_icon:before{content:"j"}i.swp_mix_icon:before{content:"g"}i.swp_yummly_icon:before{content:"x"}i.swp_flipboard_icon:before{content:"C"}.nc_tweetContainer.total_shares:nth-last-child(1){margin-right:0}.swp_social_panel.swp_default_full_color a{color:#fff}.scale-full_width{-ms-transform-origin:left;-webkit-transform-origin:left;transform-origin:left}.swp_hidden_pin_image{height:0;opacity:0;position:absolute;top:0;width:0;z-index:-10}.swp-content-locator{display:none!important;margin:0!important}@font-face{font-family:'lsi-fontello';src:url(https://pinoyrecipe-27b1.kxcdn.com/wp-content/plugins/lightweight-social-icons/fonts/fontello.eot);src:url(https://pinoyrecipe-27b1.kxcdn.com/wp-content/plugins/lightweight-social-icons/fonts/fontello.eot) format('embedded-opentype'),url(https://pinoyrecipe-27b1.kxcdn.com/wp-content/plugins/lightweight-social-icons/fonts/fontello.woff) format('woff'),url(https://pinoyrecipe-27b1.kxcdn.com/wp-content/plugins/lightweight-social-icons/fonts/fontello.ttf) format('truetype'),url(https://pinoyrecipe-27b1.kxcdn.com/wp-content/plugins/lightweight-social-icons/fonts/fontello.svg) format('svg');font-weight:400;font-style:normal}[class*=" lsicon-"]:before{font-family:"lsi-fontello";font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:inherit;width:1.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1.2em}.lsicon-rss:before{content:'\e803'}.lsicon-facebook:before{content:'\e80d'}.lsicon-instagram:before{content:'\e819'}.lsicon-pinterest:before{content:'\e81e'}.lsicon-twitter:before{content:'\e82b'}.lsicon-youtube:before{content:'\e82f'}.lsi-social-icons{margin:0!important;padding:0!important;list-style-type:none!important;display:block!important}.lsi-social-icons li:before,.lsi-social-icons li:after{content:''!important;display:none!important}.lsi-social-icons li{padding:0!important;display:inline-block!important;*display:inline;*zoom:1;float:none!important;margin:0 8px 8px 0!important;list-style-type:none!important}.lsi-social-icons li a{padding:8px;width:1.2em;line-height:1.2em;text-align:center;display:block;text-decoration:none!important;font-style:normal!important;font-weight:normal!important;text-transform:none!important;speak:none;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+Search
+Skip to content
+Skip to primary sidebar
+Skip to footer
+Home
+Filipino Recipes
+Pinoy Desserts
+Health Tips
+Chicken Recipes
+Pork Recipes
+Contact Us
+Enjoy these free Filipino Recipes and experience the awesome taste and delectable flavors of Filipino Food.
+Home » Filipino Recipes » Top 14 Superfoods for Eye Health
+Top 14 Superfoods for Eye Health
+November 24, 2017 by Ed Joven 2 Comments
+Share1K
+Tweet31
+Pin2
+Share
+Flip
+Yum1
+1K Shares
+Eating for Good Vision: Top 14 SuperFoods for your Eyes
+Our eyes work tirelessly all day every day. We constantly exposed our eyes to mobile devices, television, computer, books, magazines, and newspapers. These are the reasons why many people today suffer from a number of eye problems such as distorted vision, nearsightedness, farsightedness, cataract and many more.
+When people hear “eye nutrition” the immediate thing they associate with this are carrots. “Carrots are good for the eyes.” “Carrots help with our vision” Yes, this is true. But there is so much more to eye nutrition than just the vegetable that bugs bunny eats.
+Here are 10 other foods that are good for your eyes.
+1] Squash (Kalabasa)
+Lutein and Zeaxanthin are essential to have better eyesight. These two can be found in squashes, which helps protect our eyes. It also has Vitamin A and this helps enhance our vision in low light.
+Filipino Recipes with Squash or Kalabasa
+1] Kalabasa Chocolate Cupcake Recipe
+2] Laswa Recipe
+3] Maja Kalabasa Recipe
+4] Kalabasa Leche Flan Recipe
+5] Ukoy na Kalabasa Recipe
+6] Ginataang Gulay at Hipon Recipe
+2] Sunflower Seeds
+This tiny little seeds pack a punch when it comes to Vitamin E. Eat a small amount of this and you’ll already be able to get half the recommended amount of Vitamin E in your body. Vitamin E slows any age related degeneration.
+3] Sweet Potatoes
+The notion of orange-colored fruits and veggies are good for your eyes are true. Sweet potatoes have high levels of beta-carotene. This is type of Vitamin A which aids our eyes to see better in the dark. Sweet potatoes also have high levels of Vitamin C.
+Filipino Recipes with Sweet Potatoes (Kamote)
+1] Okoy Recipe
+2] Hash Brown Pinoy Style Recipe
+3] Camote Delight Recipe
+4] Ginataang Halo Halo Recipe
+5] Kamote Que Recipe
+4] Beans and Legumes
+Would you want something high in fiber but low in fat? Beans and Legumes are good sources of these. They aren’t too high on the fatty levels but they do give enough minerals and vitamins that make our eyesight sharper.
+Filipino Recipes with Beans and Legumes
+1] Linat-an Recipe
+2] Sigarilyas Bicol Express Recipe
+3] Gising Gising Recipe with Sigarilyas
+4] Adobong Sitaw Recipe
+5] Ginisang Munggo Recipe with Chicken
+6] Ginisang Baguio Beans Recipe
+5] Salmon
+There are two types of omega-3 fatty acids found in Salmon, DHA and EPA. Both of which are a needed by our eyes. They help protect our eyes from glaucoma. High intake of these Omega-3 fatty acids prevents any cases of dry eyes.
+Food Advertising by
+6] Lean Meat
+A good source of Zinc is lean meat (Beef, pork, and Chicken) Zinc helps transport the Vitamin A found in the liver to the retina. Once it’s there it creates a protective pigment for the eyes.
+7] Raw Red Peppers
+A calorie of a red pepper equals high amounts of Vitamin C. Based on studies and researches, high levels of Vitamin C can lower the chances of you getting cataracts. Peppers with bright colors also mean they have Vitamin A and E which are great for the eyes.
+8] Eggs
+Egg is the food that is a complete package. Eggs help the eyes because of its zinc. It creates compounds that block blue light from hurting the retina. And it also enhances the pigments in our eyes to create better vision.
+9] Broccoli
+Vitamin A, C, and E, are the important nutrients for the eyes that can be found in Broccolis. All of these are antioxidants which prevent ours cells from getting damaged by free radicals.
+10] Dark, Leafy Greens
+Leafy greens have a lot of benefits for the body. It’s good for the eyes because it has high content of Vitamin C and E, Carotenoids, Zeaxanthin, etc. All of these help lower the chances of you getting any eye disease.
+11] Avocado
+You can eat avocados in raw form or add it to salads, sandwiches or soups. Avocado contains vitamin B6, C and E which are necessary for good and healthy eyesight. This fruit also reduces the stress and damage that leads to poor eyesight and helps prevent all kinds of eye-related issues. In super foods, this food is really important if you want to know how to improve your eyesight.
+12] Carrots
+We’ve all known for a long time that carrots are extremely beneficial for the eyes. The reason for this is carrots contain beta carotene, which acts as a precursor to vitamin A and helps avoid night blindness. It also helps protect and maintain a healthy, clear cornea. Carrots also contain lutein, which helps in protecting the cells in our eyes. They are also rich in potassium and fiber. So if you’r wondering how to improve eyesight significantly, make sure to eat carrots regularly.
+13] Papaya
+Papaya is another fruit that is good for your eyes and overall health too. Papaya contains high levels of lutein and zeaxanthin which provide protection to your eyes against ultra-violet and high energy blue light that can cause severe damage to the retina.A good intake of these two phytonutrients reduces the risk of macular degeneration, glaucoma, cataract, and many other chronic eye syndromes.
+14] Strawberries
+Strawberries contain several nutrients that help promote good eye health. They contain an ample amount of vitamin C which is required to maintain healthy eyes and reduce inflammation. Strawberries also contain various antioxidants that help defend against eye problems such as dryness, vision problems and macular degeneration.Take 3 or more servings of strawberries daily to eliminate eye problems.
+So remember these foods the next time you go grocery shopping.
+If you make this recipe, snap a photo and hashtag it #PinoyRecipeAtIbaPa #FilipinoRecipesPortal . We'd love to see your creations on Instagram, Facebook, and Twitter.
+You might also like:
+Filed Under: Filipino Recipes, Health and Fitness Tips Tagged With: health benefits, health tips
+Visit our Youtube Channel
+Food Advertisements by
+Previous Post: « Ensaladang Labanos Recipe
+Next Post: Shrimp Sinigang with Cabbage Recipe »
+Reader Interactions
+Comments
+Robin Creager
+November 29, 2017 at 4:57 pm
+I’m a strong advocate for eating healthy and love all foods healthy. Needles to say I don’t get sick, I’m not on any medication and rarely see the doctor. Thank you for sharing this!
+Ellie Di
+November 29, 2017 at 12:00 pm
+I knew about the green veggie, carrots and legumes. The avocado is a surprise, I didn’t know!
+Leave a Reply Cancel reply
+Your email address will not be published. Required fields are marked *
+Recipe Rating
+Comment
+Name *
+Email *
+Website
+Current ye@r *
+Leave this field empty
+Primary Sidebar
+Search
+Top Pinoy Recipe Articles
+Top 10 Health Benefits of Carrots
+Top 10 Health Benefits of Cucumber or Pipino
+Top 10 must try Filipino Foods
+Top 18 Delicious Filipino Soups for Rainy days
+Top 20 Filipino Chicken Recipes
+Top 25 Filipino Pork Recipes
+Latest Articles
+25 Delicious Easter Sunday Filipino Recipes
+Top 30 Filipino Recipes for the Holy Week
+Filipino Beef Burger Recipe
+Bulanglang Recipe ( Bulanglang na Hipon )
+Partner Sites
+...
+Footer
+Copyright © 2019 Pinoy Recipe at iba pa on the PinoyRecipe.Net
+1K Shares
+Share1K
+Tweet31
+Pin2
+Share
+Flip
+Yum1
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok
