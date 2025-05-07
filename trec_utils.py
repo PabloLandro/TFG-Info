@@ -1,6 +1,5 @@
 import os, re, json, sys
 import xml.etree.ElementTree as ET
-from pyserini.search.lucene import LuceneSearcher
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -266,7 +265,8 @@ def write_run_to_file(file, topic_id, doc_id, run):
     if YEAR == 2021:
         write = f'{topic_id} 0 {doc_id} {run["u"]} {run["s"]} {run["cr"]}\n'
         file.write(write)
-        print(f"write{write}")
+        file.flush()
+        print(f"write {write} with flush")
         return
 
     if YEAR == 2022:

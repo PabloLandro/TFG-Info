@@ -1,7 +1,7 @@
 from gpt import set_model, evaluate, print_total_tokens
 from trec_utils import get_year_data, set_year, read_gpt_output, write_run_to_file, get_qrels_dict, get_doc_content, print_not_found_docs
 from itertools import combinations
-import os, argparse, sys
+import os, argparse, sys, time
 
 # Get all combinations of prompts by changing features
 def get_prompt_template_list(featured_prompt_template):
@@ -86,10 +86,20 @@ def run_run_list(prompt_template, run_list, output, topics, no_evaluate=False):
                 if (prompt_template in history[topic_id][doc_id]):
                     print("Fatal error, repeated (topic_id, doc_id, prompt_template) run, should revise code", topic_id, doc_id, prompt_template)
                 history[topic_id][doc_id][prompt_template] = True
+                
+                start_time = time.time()
                 gpt_output = evaluate(topics[topic_id]["query"], topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
+                end_time = time.time()
+
+                elapsed = end_time - start_time
+                print(f"LAST EVALUATE TOOK {elapsed:.4f} SECONDS")
+
                 if gpt_output is None:
                     continue
-                run = read_gpt_output(gpt_output)
+                try:
+                    run = read_gpt_output(gpt_output)
+                except:
+                    continue
                 if run is None:
                     raise Exception("None run")
                 print(f"Writing to {output}")
@@ -203,7 +213,7 @@ if __name__ == "__main__":
     check_args(parser, args)
 
     set_model(args.model)
-
+    set_year(args.year)
     qrels, topics = get_year_data()
     print(args.no_evaluate)
 

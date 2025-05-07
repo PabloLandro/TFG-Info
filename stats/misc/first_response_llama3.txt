@@ -9,3 +9,13 @@ C = 2 (Credibility): Bauerfeind is a well-established company in the medical ind
 Output: U=1 S=1 C=2
 
 3:38
+
+
+ U=0.5 S=1 C=1
+
+
+ Based on the provided document, I would give:
+
+U=1 (The content provides useful information about different aspects of health and fitness, including nutrition, exercise, and recovery.)
+S=1 (The document is written in a supportive tone, with a focus on educating readers and encouraging healthy habits.)
+C=2 (The credibility of the source is high, as it appears to be a legitimate personal training business that has taken the time to share valuable information with its audience.)

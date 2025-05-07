@@ -89,6 +89,8 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
         response = ollama.chat(model=current_model, messages=[
             {"role": "user", "content": prompt}
         ])
+        
+        print("response:", response['message']['content'])
         return response['message']['content']
 
 # Example: fill_prompt function
