@@ -84,7 +84,7 @@ def evaluate(query, description, narrative, doc, prompt_template, no_evaluate=Tr
         # Ollama: Directly call the chat function
         if no_evaluate:
             return None
-        print(prompt)
+        # print(prompt)
         print("Evaluating with ollama")
         response = ollama.chat(model=current_model, messages=[
             {"role": "user", "content": prompt}
