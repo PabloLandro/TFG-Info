@@ -215,16 +215,6 @@ pip install -r requirements.txt
 
 3. **Evaluate and analyze:**
    - Use the plotting and confusion matrix scripts as needed.
-
-4. **Automate with SLURM:**
-   - Use the provided shell scripts for batch processing on HPC clusters.
-
 ---
 
-## License
 
-Specify your license here.
-
----
-
-**For more details, see comments in each script.**
