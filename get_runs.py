@@ -111,7 +111,7 @@ def print_not_found_docs():
     print(not_found_list)
 
 
-def get_runs_featured_prompt(featured_prompt_template, qrels, topics, output_dir, topic_list, prompt_names=[], no_evaluate=False):
+def get_runs_featured_prompt(featured_prompt_template, qrels, topics, output_dir, topic_list, prompt_names=[], no_evaluate=False, skip_unuseful=False):
     prompt_template_list = get_prompt_template_list(featured_prompt_template)
     os.makedirs(output_dir, exist_ok=True)
     for (prompt_template, features) in prompt_template_list:
@@ -126,14 +126,14 @@ def get_runs_featured_prompt(featured_prompt_template, qrels, topics, output_dir
             continue
         print("Evaluating", file_name)
         path = os.path.join(output_dir, file_name)
-        exclude_dict = get_qrels_dict(path, skip_unuseful=False)
+        exclude_dict = get_qrels_dict(path, skip_unuseful)
         print("Exclude dict:")
         print(exclude_dict)
         run_list = get_run_list(topic_list, qrels, exclude_dict=exclude_dict)
         run_run_list(prompt_template, run_list, path, topics, no_evaluate=no_evaluate)
 
-def get_runs_non_featured_prompt(prompt_template, qrels, topics, output_file, topic_list, no_evaluate=False):
-    exclude_dict = get_qrels_dict(output_file, skip_unuseful=False)
+def get_runs_non_featured_prompt(prompt_template, qrels, topics, output_file, topic_list, no_evaluate=False, skip_unuseful=False):
+    exclude_dict = get_qrels_dict(output_file, skip_unuseful)
     run_list = get_run_list(topic_list, qrels, exclude_dict)
     run_run_list(prompt_template, run_list, output_file, topics, no_evaluate=no_evaluate)
 
@@ -158,6 +158,7 @@ def create_parser():
     # Optional argument for prompt names
     parser.add_argument("--prompt_names", help="Comma-separated list of prompt names to be run on featured prompt, if not present, all will be ran (optional) (e.g. Str,Nar,Des)", nargs="?", default=[])
     parser.add_argument("--no_evaluate", help="If present, requests will not be sent to LLM API, this can be used to just count tokens (optional)", action="store_true")
+    parser.add_argument("--skip_unuseful", help="If present, only useful qrels will be used", action="store_true")
 
     parser.add_argument(
         "--model",
@@ -219,9 +220,9 @@ if __name__ == "__main__":
 
     # Call the appropriate function based on the type of prompt
     if is_feature_prompt:
-        get_runs_featured_prompt(prompt_template, qrels, topics, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate)
+        get_runs_featured_prompt(prompt_template, qrels, topics, args.output, args.topic_list, prompt_names=args.prompt_names, no_evaluate=args.no_evaluate, skip_unuseful=args.skip_unuseful)
     else:
-        get_runs_non_featured_prompt(prompt_template, qrels, topics, args.output, args.topic_list, no_evaluate=args.no_evaluate)
+        get_runs_non_featured_prompt(prompt_template, qrels, topics, args.output, args.topic_list, no_evaluate=args.no_evaluate, skip_unuseful=args.skip_unuseful)
 
     print_not_found_docs()
     print_total_tokens()
