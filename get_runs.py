@@ -88,6 +88,8 @@ def run_run_list(prompt_template, run_list, output, topics, no_evaluate=False):
                 history[topic_id][doc_id][prompt_template] = True
                 
                 start_time = time.time()
+                if topic_id not in topics:
+                    continue
                 gpt_output = evaluate(topics[topic_id]["query"], topics[topic_id]["description"], topics[topic_id]["narrative"], doc, prompt_template, no_evaluate=no_evaluate)
                 end_time = time.time()
 
