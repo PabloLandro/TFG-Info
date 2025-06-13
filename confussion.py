@@ -110,9 +110,6 @@ def write_confussion(stat, pos_vals, name, runs, qrels, file):
     file.write(f"\n{name} confussion matrix:\n")
     file.write(f"TP={TP}\tFP={FP}\tFN={FN}\tTN={TN}\n")
 
-    precision = TP / (TP+FP)
-    file.write(f"Precision: {precision}\n")
-
     MAE = get_mae(TP, FP, FN, TN)
     file.write(f"MAE: {MAE}\n")
 
@@ -182,7 +179,7 @@ def generate_tables(qrels, input_folder, output, year):
                     kappa = stats[combination][stat]["kappa"]
                     kappa_interval = stats[combination][stat]["kappa_interval"]
                     kappa_margin = max(kappa-kappa_interval["lb"], kappa_interval["ub"] - kappa)
-                    file.write(f"{combination:<12}&{mae:.2f}$pm${mae_margin:.2f}&{kappa:.2f}$pm${kappa_margin:.2f}\\\\\n")
+                    file.write(f"{combination:<12}&{mae:.2f}$\\pm${mae_margin:.2f}&{kappa:.2f}$\\pm${kappa_margin:.2f}\\\\\n")
 
 def main():
     parser = argparse.ArgumentParser(description="Process input based on mode and year.")
@@ -213,7 +210,7 @@ def main():
     set_year(args.year)
 
     # Get year-specific data
-    qrels,_,_ = get_year_data(with_graded_usefulness=True)
+    qrels,_ = get_year_data(with_graded_usefulness=True)
 
     # Perform actions based on mode
     if args.mode == "matrix":

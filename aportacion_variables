@@ -1,0 +1,90 @@
+import pandas as pd
+import itertools
+from math import factorial
+from collections import defaultdict
+
+# Data from your table
+data = {
+    "Features": [
+        "Del", "DelStr", "Des", "DesDel", "DesDelStr", "DesNar", "DesNarDel", 
+        "DesNarDelStr", "DesNarStr", "DesStr", "Nar", "NarDel", "NarDelStr", 
+        "NarStr", "Nothing", "Rol", "RolDel", "RolDelStr", "RolDes", "RolDesDel", 
+        "RolDesDelStr", "RolDesNar", "RolDesNarDel", "RolDesNarDelStr"
+    ],
+    "MAE": [
+        0.38, 0.38, 0.26, 0.24, 0.19, 0.25, 0.20, 
+        0.21, 0.23, 0.24, 0.29, 0.28, 0.25, 
+        0.27, 0.44, 0.35, 0.34, 0.27, 0.23, 0.18, 
+        0.17, 0.20, 0.17, 0.16
+    ]
+}
+
+features = ['Rol', 'Des', 'Nar', 'Del', 'Str']
+
+def feature_to_binary(feature_name):
+    if feature_name == "Nothing":
+        return [0] * len(features)
+    return [1 if f in feature_name else 0 for f in features]
+
+binary_data = [feature_to_binary(name) for name in data["Features"]]
+df = pd.DataFrame(binary_data, columns=features)
+df["MAE"] = data["MAE"]
+
+# Total variance in MAE (for reference)
+total_var = df["MAE"].var()
+
+# Prepare dictionary to hold explained variance per feature
+explained_var = {f: 0 for f in features}
+
+# Get all subsets of features, including empty set for reference MAE mean
+subsets = []
+for r in range(len(features)+1):
+    subsets += list(itertools.combinations(features, r))
+
+# Create a lookup dictionary from subset (frozenset) to MAE mean of that subset
+subset_mae = {}
+
+for subset in subsets:
+    # Select rows where features exactly match the subset (features in subset = 1, others 0)
+    mask = df[features].apply(lambda row: all((row[f] == 1) if f in subset else (row[f] == 0) for f in features), axis=1)
+    selected_mae = df.loc[mask, "MAE"]
+    if len(selected_mae) > 0:
+        subset_mae[frozenset(subset)] = selected_mae.mean()
+    else:
+        subset_mae[frozenset(subset)] = None
+
+# Compute the grand mean MAE for empty set
+grand_mean = subset_mae[frozenset()]
+
+# Function to get MAE mean for a subset, returns grand mean if none found
+def get_mae(subset):
+    return subset_mae.get(frozenset(subset), grand_mean)
+
+# Compute Shapley values for each feature (explained variance contribution)
+shapley_vals = defaultdict(float)
+n = len(features)
+
+print("\nDetailed contributions for each feature:")
+for feature in features:
+    for subset in subsets:
+        if feature not in subset:
+            subset_with_feature = tuple(sorted(subset + (feature,)))
+            mae_without = get_mae(subset)
+            mae_with = get_mae(subset_with_feature)
+            if mae_without is None or mae_with is None:
+                continue
+            marginal_contribution = mae_without - mae_with  # MAE reduction by adding feature
+            weight = factorial(len(subset)) * factorial(n - len(subset) - 1) / factorial(n)
+            shapley_vals[feature] += weight * marginal_contribution
+            print(f"Feature: {feature}, Subset: {subset}, "
+                  f"MAE without: {mae_without:.4f}, MAE with: {mae_with:.4f}, "
+                  f"Contribution: {marginal_contribution:.4f}, Weight: {weight:.4f}")
+
+# Normalize contributions by total MAE range (max-min) to get relative explained MAE
+mae_range = df["MAE"].max() - df["MAE"].min()
+
+print("\nFinal explained MAE by each feature (Shapley values):")
+for f in features:
+    print(f"{f}: {shapley_vals[f]:.4f}")
+
+print(f"\nTotal MAE range: {mae_range:.4f}")
