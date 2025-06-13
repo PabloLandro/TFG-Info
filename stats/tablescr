@@ -1,0 +1,35 @@
+Table for cr
+Prompt features			MAE			Cohen's Kappa
+combined    &0.48$\pm$0.06&0.02$\pm$0.02\\
+Del         &0.37$\pm$0.03&0.00$\pm$0.00\\
+DelStr      &0.37$\pm$0.03&0.01$\pm$0.01\\
+Des         &0.36$\pm$0.03&0.02$\pm$0.02\\
+DesDel      &0.37$\pm$0.02&0.01$\pm$0.01\\
+DesDelStr   &0.35$\pm$0.04&0.01$\pm$0.01\\
+DesNar      &0.37$\pm$0.03&0.01$\pm$0.01\\
+DesNarDel   &0.35$\pm$0.02&0.02$\pm$0.01\\
+DesNarDelStr&0.35$\pm$0.04&0.02$\pm$0.02\\
+DesNarStr   &0.35$\pm$0.04&0.01$\pm$0.01\\
+DesStr      &0.37$\pm$0.02&0.01$\pm$0.01\\
+Nar         &0.37$\pm$0.03&0.00$\pm$0.00\\
+NarDel      &0.37$\pm$0.02&0.00$\pm$0.00\\
+NarDelStr   &0.35$\pm$0.03&0.01$\pm$0.01\\
+NarStr      &0.37$\pm$0.02&0.01$\pm$0.01\\
+Nothing     &0.46$\pm$0.02&0.00$\pm$0.00\\
+Rol         &0.37$\pm$0.02&0.01$\pm$0.01\\
+RolDel      &0.36$\pm$0.03&0.02$\pm$0.01\\
+RolDelStr   &0.35$\pm$0.03&0.01$\pm$0.02\\
+RolDes      &0.36$\pm$0.03&0.02$\pm$0.02\\
+RolDesDel   &0.34$\pm$0.03&0.04$\pm$0.02\\
+RolDesDelStr&0.34$\pm$0.03&0.03$\pm$0.03\\
+RolDesNar   &0.35$\pm$0.04&0.01$\pm$0.02\\
+RolDesNarDel&0.35$\pm$0.04&0.02$\pm$0.02\\
+RolDesNarDelStr&0.34$\pm$0.03&0.03$\pm$0.02\\
+RolDesNarStr&0.35$\pm$0.03&0.02$\pm$0.02\\
+RolDesStr   &0.35$\pm$0.05&0.03$\pm$0.02\\
+RolNar      &0.37$\pm$0.03&0.01$\pm$0.01\\
+RolNarDel   &0.35$\pm$0.03&0.02$\pm$0.02\\
+RolNarDelStr&0.35$\pm$0.03&0.02$\pm$0.03\\
+RolNarStr   &0.35$\pm$0.03&0.01$\pm$0.02\\
+RolStr      &0.37$\pm$0.03&0.01$\pm$0.02\\
+Str         &0.37$\pm$0.03&0.01$\pm$0.01\\
