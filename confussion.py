@@ -1,6 +1,8 @@
 import os, argparse, sys
 from trec_utils import set_year, get_year_data, get_stats, read_line_from_qrel
 import numpy as np
+import matplotlib.pyplot as plt
+
 
 POS_VALS = [1,2]
 
@@ -25,22 +27,46 @@ def get_filtered_runs(run_file, qrels, year):
             runs[topic_id][doc_id] = doc_run
     return runs
 
-def get_kappa(TP,FP,FN,TN):
-    N = TP + FP + FN + TN
-    p0 = (TP + TN) / N
-    possitive_agreement = (TP + FN) * (TP + FP) / (N**2) 
-    negative_agreement = (TN + FN) * (TN + FP) / (N**2)
-    pe = possitive_agreement + negative_agreement
-    if pe == 1:
-        print(TP,FP,FN,TN)
-    if pe == 1:
-        return 0
-    kappa = (p0 - pe) / (1 - pe)
+def get_kappa(confussion_matrix):
+    N = 0
+    for (real,pred),count in confussion_matrix.items():
+        N = N + count
+
+    # get agreement
+    a = 0
+    for i in [0,1,2]:
+        if (i,i) in confussion_matrix:
+            a = a + confussion_matrix[(i,i)]
+
+    # get expected frequency
+    ef = 0
+    for i in [0,1,2]:
+        column_count = 0
+        row_count = 0
+        for k in [0,1,2]:
+            if (i,k) in confussion_matrix:
+                column_count = column_count + confussion_matrix[(i,k)]
+            if (k,i) in confussion_matrix:
+                row_count = row_count + confussion_matrix[(k,i)]
+        ef = ef + (column_count*row_count/N)
+
+    kappa = (a-ef) / (N-ef)
+
     return kappa
 
-
-def get_mae(TP,FP,FN,TN):
+def get_mae_old(TP,FP,FN,TN):
     return (FP + FN) / (TP + FP + FN + TN)
+
+def get_mae(confussion_matrix):
+    N = 0
+    for (real,pred),count in confussion_matrix.items():
+        N = N + count
+
+    # get agreement
+    a = 0
+    for i in [0,1,2]:
+        a = a + confussion_matrix[(i,i)]
+    return (N-a)/N
 
 def get_confidence_interval(TP, FP, FN, TN, get_feature, bootstraps=20):
     feature_values = []
@@ -56,6 +82,33 @@ def get_confidence_interval(TP, FP, FN, TN, get_feature, bootstraps=20):
     out = {}
     out["lb"] = np.percentile(feature_values, 2.5)
     out["ub"] = np.percentile(feature_values, 97.5)
+    return out
+
+def get_kappa_old(TP,FP,FN,TN):
+    N = TP + FP + FN + TN
+    p0 = (TP + TN) / N
+    possitive_agreement = (TP + FN) * (TP + FP) / (N**2) 
+    negative_agreement = (TN + FN) * (TN + FP) / (N**2)
+    pe = possitive_agreement + negative_agreement
+    if pe == 1:
+        print(TP,FP,FN,TN)
+    if pe == 1:
+        return 0
+    kappa = (p0 - pe) / (1 - pe)
+    return kappa
+
+def get_stats_from_folder(folder, qrels, year):
+    runs = get_filtered_runs(folder, qrels, year)
+    out = {}
+    stats = get_stats()
+    for stat in stats:
+        TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs, qrels)
+        confussion_matrix = get_confusion2(stat, runs, qrels)
+        out[stat] = {}
+        out[stat]["kappa"] = get_kappa(confussion_matrix)
+        out[stat]["kappa_interval"] = get_confidence_interval(TP, FP, FN, TN, get_kappa_old)
+        out[stat]["mae"] = get_mae(confussion_matrix)
+        out[stat]["mae_interval"] = get_confidence_interval(TP, FP, FN, TN, get_mae_old)
     return out
 
 def get_confussion(stat, pos_vals, runs, qrels):
@@ -90,53 +143,55 @@ def get_confussion(stat, pos_vals, runs, qrels):
         print(TP,FP,FN,TN)
     return  TP,FP,FN,TN
 
-def get_stats_from_folder(folder, qrels, year):
-    runs = get_filtered_runs(folder, qrels, year)
-    out = {}
-    stats = get_stats()
-    for stat in stats:
-        TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs, qrels)
-        out[stat] = {}
-        out[stat]["kappa"] = get_kappa(TP, FP, FN, TN)
-        out[stat]["kappa_interval"] = get_confidence_interval(TP, FP, FN, TN, get_kappa)
-        out[stat]["mae"] = get_mae(TP, FP, FN, TN)
-        out[stat]["mae_interval"] = get_confidence_interval(TP, FP, FN, TN, get_mae)
-    return out
+def get_confusion2(stat, runs, qrels):
+    confusion_matrix = {}
 
-def write_confussion(stat, pos_vals, name, runs, qrels, file):
-    
-    TP, FP, FN, TN = get_confussion(stat, pos_vals, runs, qrels)
-    print(f"{TP} {FP} {FN} {TN}")
-    file.write(f"\n{name} confussion matrix:\n")
-    file.write(f"TP={TP}\tFP={FP}\tFN={FN}\tTN={TN}\n")
+    for i in [0,1,2]:
+        for j in [0,1,2]:
+            confusion_matrix[(i,j)] = 0
 
-    MAE = get_mae(TP, FP, FN, TN)
-    file.write(f"MAE: {MAE}\n")
+    for topic_id in runs:
+        for doc_id in runs[topic_id]:
+            # If there is no qrel for that doc_id, we skip
+            if doc_id not in qrels[topic_id]:
+                continue
 
-    kappa = get_kappa(TP, FP, FN, TN)
-    file.write(f"Cohen´s Kapa: {kappa}\n")
+            real = qrels[topic_id][doc_id][stat]
+            pred = runs[topic_id][doc_id][stat]
 
-    recall = TP / (TP + FN)
-    file.write(f"Recall: {recall}\n\n")
+            if real is None or pred is None:
+                continue
 
-    latex_table = f"""
-\\begin{{table}}[]
-\\centering
-\\begin{{tabular}}{{|c|cc|}}
-\\hline
-\\textbf{{{name}}}  & \\multicolumn{{2}}{{c|}}{{\\textbf{{Predicción}}}} \\\\ \\hline
-                        & \\textbf{{Positivo}} & \\textbf{{Negativo}}  \\\\ \\hline
-\\textbf{{Actual Positivo}} & {TP}             & {FN}                \\\\ \\hline
-\\textbf{{Actual Negativo}} & {FP}             & {TN}                \\\\ \\hline
-\\end{{tabular}}
-\\caption{{Matriz de confusión para {name} con prompt vx}}
-\\label{{tab:confusion-matrix-{name}-vx}}
-\\end{{table}}
-"""
+            # Increment the count for the (real, pred) pair
+            confusion_matrix[(real, pred)] = confusion_matrix.get((real, pred), 0) + 1
 
-    file.write(latex_table)
+    return confusion_matrix
 
+def plot_confusion_matrix(confusion_matrix, labels, name):
+    # Create a matrix of zeros with shape (len(labels), len(labels))
+    matrix = np.zeros((len(labels), len(labels)))
 
+    for (real, pred), count in confusion_matrix.items():
+        matrix[real, pred] = count
+
+    plt.figure(figsize=(8, 6))
+    plt.imshow(matrix, cmap="Blues", interpolation="nearest")
+    plt.colorbar(label="Count")
+
+    # Add labels for axes
+    plt.xticks(ticks=np.arange(len(labels)), labels=labels, fontsize=14)
+    plt.yticks(ticks=np.arange(len(labels)), labels=labels, fontsize=14)
+    plt.xlabel("Etiqueta Verdadera", fontsize=14)
+    plt.ylabel("Etiqueta GPT", fontsize=14)
+    plt.title(f"Matriz de confusión {name}", fontsize=14)
+
+    # Add annotations to each cell
+    for i in range(len(labels)):
+        for j in range(len(labels)):
+            plt.text(j, i, str(matrix[i, j]), ha='center', va='center', fontsize=16, color="black")
+
+    plt.tight_layout()
+    plt.show()
 
 def validate_input(mode, input_path, year, output_path):
     if mode == "table" and not os.path.isdir(input_path):
@@ -155,7 +210,13 @@ def generate_confussion_matrix(qrels, input_file, output, year):
     stats = get_stats()
     with open(output, "w") as out_file:
         for stat in stats.keys():
-            write_confussion(stat, stats[stat]["pos_vals"], stats[stat]["name"], runs, qrels, out_file)
+            confusion_matrix = get_confusion2(stat, runs, qrels)
+            plot_confusion_matrix(confusion_matrix, [0,1,2], stats[stat]["name"])
+            MAE = get_mae(confusion_matrix)
+            print(f"MAE: {MAE}\n")
+
+            kappa = get_kappa(confusion_matrix)
+            print(f"Cohen´s Kapa: {kappa}\n")
         
 
 def generate_tables(qrels, input_folder, output, year):

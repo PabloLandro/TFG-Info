@@ -58,7 +58,6 @@ def get_rankings(base_dir, year):
     rankings = {}
 
     for dataset in os.listdir(base_dir):
-        dataset_path = os.path.join(base_dir, dataset)
         helpful, harmful = read_scores(base_dir, dataset, year)
         rankings[dataset] = helpful - harmful
 
@@ -68,6 +67,7 @@ def get_rankings(base_dir, year):
 
 def get_prompt_rbo(prompt_path, reference_rankings, year):
     if not os.path.isdir(prompt_path):
+        print(prompt_path)
         raise Exception("Expected dir with participant_run stats, got file instead")
     prompt_rankings = get_rankings(prompt_path, year)
 
@@ -85,7 +85,7 @@ def process_prompts_with_rbo(prompts_dir, reference_dir, year):
         print(f"Error: {reference_dir} does not exist or is not a directory.")
         return
 
-    reference_rankings = get_rankings(reference_dir)
+    reference_rankings = get_rankings(reference_dir, year)
 
     rbo_results = []
 
@@ -100,15 +100,17 @@ def process_prompts_with_rbo(prompts_dir, reference_dir, year):
     print(f"RBO results saved to {output_csv}")
 
     # Plot RBO
-    prompts = [r[0] for r in rbo_results]
+    prompts = [r[0] for r in rbo_results]  # Original array of strings
+    prompts = [p.removesuffix('.txt') for p in prompts]  # Remove '.txt' if present
+
     rbo_scores = [r[1] for r in rbo_results]
 
     plt.figure(figsize=(12, 6))
     plt.bar(prompts, rbo_scores, color="green")
-    plt.xlabel("Prompts")
-    plt.ylabel("RBO")
-    plt.title("Rank-Biased Overlap (RBO) for Prompt Rankings")
-    plt.xticks(rotation=45, ha="right")
+    plt.xlabel("Prompts", fontsize=14)
+    plt.ylabel("RBO", fontsize=14)
+    plt.title("Rank-Biased Overlap (RBO) for Prompt Rankings", fontsize=14)
+    plt.xticks(rotation=45, ha="right", fontsize=14)
     plt.tight_layout()
 
     output_plot = os.path.join(prompts_dir, "rbo_plot.png")
@@ -148,7 +150,6 @@ if __name__ == "__main__":
     parser = create_parser()
     args = parser.parse_args()
     verify_args(args, parser)
-
     reference = ""
     if args.year == 2019:
         reference = os.path.join("stats", "run_evals", "qrels_raw")
