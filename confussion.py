@@ -205,18 +205,26 @@ def validate_input(mode, input_path, year, output_path):
     if year not in [2019, 2020, 2021, 2022]:
         sys.exit(f"Error: Year must be one of 2019, 2020, 2021, 2022. Provided: {year}")
 
-def generate_confussion_matrix(qrels, input_file, output, year):
+def generate_confussion_matrix(qrels, input_file, year):
     runs = get_filtered_runs(input_file, qrels, year)
     stats = get_stats()
-    with open(output, "w") as out_file:
-        for stat in stats.keys():
-            confusion_matrix = get_confusion2(stat, runs, qrels)
-            plot_confusion_matrix(confusion_matrix, [0,1,2], stats[stat]["name"])
-            MAE = get_mae(confusion_matrix)
-            print(f"MAE: {MAE}\n")
+    for stat in stats.keys():
 
-            kappa = get_kappa(confusion_matrix)
-            print(f"Cohen´s Kapa: {kappa}\n")
+        TP, FP, FN, TN = get_confussion(stat, POS_VALS, runs, qrels)
+
+        confusion_matrix = get_confusion2(stat, runs, qrels)
+        plot_confusion_matrix(confusion_matrix, [0,1,2], stats[stat]["name"])
+        MAE = get_mae(confusion_matrix)
+        print(f"MAE: {MAE}\n")
+
+        MAE = get_mae_old(TP, FP, FN, TN)
+        print(f"MAE_old: {MAE}\n")
+
+        kappa = get_kappa(confusion_matrix)
+        print(f"Cohen´s Kapa: {kappa}\n")
+
+        kappa = get_kappa_old(TP, FP, FN, TN)
+        print(f"Cohen´s Kapa old: {kappa}\n")
         
 
 def generate_tables(qrels, input_folder, output, year):
@@ -275,7 +283,7 @@ def main():
 
     # Perform actions based on mode
     if args.mode == "matrix":
-        generate_confussion_matrix(qrels, args.input, args.output, args.year)
+        generate_confussion_matrix(qrels, args.input, args.year)
     elif args.mode == "table":
         generate_tables(qrels, args.input, args.output, args.year)
 
