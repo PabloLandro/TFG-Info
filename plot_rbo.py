@@ -101,15 +101,20 @@ def process_prompts_with_rbo(prompts_dir, reference_dir, year):
 
     # Plot RBO
     prompts = [r[0] for r in rbo_results]  # Original array of strings
-    prompts = [p.removesuffix('.txt') for p in prompts]  # Remove '.txt' if present
 
-    rbo_scores = [r[1] for r in rbo_results]
+    
+
+    # Remove '.txt' if present
+    prompts = [p.removesuffix('.txt') for p in prompts]
+
+    # Pair prompts and scores, sort alphabetically by prompt
+    sorted_results = sorted(zip(prompts, [r[1] for r in rbo_results]), key=lambda x: x[0])
+    prompts = [x[0] for x in sorted_results]
+    rbo_scores = [x[1] for x in sorted_results]
 
     plt.figure(figsize=(12, 6))
     plt.bar(prompts, rbo_scores, color="green")
-    plt.xlabel("Prompts", fontsize=14)
     plt.ylabel("RBO", fontsize=14)
-    plt.title("Rank-Biased Overlap (RBO) for Prompt Rankings", fontsize=14)
     plt.xticks(rotation=45, ha="right", fontsize=14)
     plt.tight_layout()
 
