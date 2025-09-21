@@ -1,0 +1,3 @@
+runid,topic,compatibility
+webis-bm25,101,0.0207124405356042
+webis-bm25,average,0.0207124405356042

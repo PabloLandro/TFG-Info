@@ -1,0 +1,3 @@
+runid,topic,compatibility
+WatSAE-BM25-RR,101,0.11219912550034344
+WatSAE-BM25-RR,average,0.11219912550034344
