@@ -1,4 +1,4 @@
-# TFG-Info Project Documentation
+# On the Viability of LLMs for Misinformation Annotation
 
 ## Overview
 
