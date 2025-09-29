@@ -1,8 +1,8 @@
-# TFG-Info Project Documentation
+# On the Viability of Exploiting LLMs for Misinformation Annotation
 
 ## Overview
 
-This project provides tools and scripts for evaluating, processing, and analyzing runs and qrels (relevance judgments) for misinformation retrieval tasks, using both traditional and LLM-based approaches. It supports multiple years of TREC-style datasets and integrates with OpenAI and Ollama LLMs.
+This repository provides tools and scripts for evaluating, processing, and analyzing runs and qrels (relevance judgments) for misinformation retrieval tasks, using both traditional and LLM-based approaches. It supports multiple years of TREC-style datasets and integrates with OpenAI and Ollama LLMs. It accompanies the submission ``On the Viability of Exploiting LLMs for Misinformation Annotation''.
 
 ---
 
